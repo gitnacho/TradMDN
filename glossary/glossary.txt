@@ -1,3 +1,5 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 header	cabecera	cabecera
 header	encabezado
+man-in-the-middle attack	ataque de intermediario
+mitm	ataque de intermediario	man-in-the-middle_attack
