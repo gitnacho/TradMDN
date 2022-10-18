@@ -8900,9 +8900,9 @@ browser-compat: javascript.builtins.Uint8ClampedArray
       <tuv lang="en-US">
         <seg>- Reference</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213045Z" creationid="gitnacho" creationdate="20220921T224606Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213515Z" creationid="gitnacho" creationdate="20220921T224606Z">
         <seg>- Reference
-  Referencia</seg>
+  - Referencia</seg>
       </tuv>
     </tu>
     <tu>
