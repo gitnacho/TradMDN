@@ -12804,6 +12804,16 @@ browser-compat: javascript.builtins.WebAssembly.instantiate
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- must be served over `https://` or `wss://` URLs
+- the security properties of the network channel used to deliver the resource must not be considered deprecated</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204313Z" creationid="gitnacho" creationdate="20221018T204313Z">
+        <seg>- Se deben publicar a través de las URLs `https://` o `wss://`
+- Las propiedades de seguridad del canal de red utilizado para entregar el recurso no se deben considerar obsoletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- open
 browser-compat: api.CacheStorage.open
 ---</seg>
@@ -19933,6 +19943,14 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091716Z" creationid="gitnacho" creationdate="20221012T091716Z">
         <seg>&gt; **Nota:** Las sugerencias del cliente también se pueden especificar en HTML usando el elemento {{HTMLElement("meta")}} con el atributo [`http-equiv`](/es/docs/Web/HTML/Element/meta#attr-http-equiv).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** Firefox 84 and later support `http://localhost` and `http://*.localhost` URLs as trustworthy origins (earlier versions did not, because `localhost` was not guaranteed to map to a local/loopback address).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204232Z" creationid="gitnacho" creationdate="20221018T204232Z">
+        <seg>&gt; **Nota:** Firefox 84 y versiones posteriores admiten las URLs `http://localhost` y `http://*.localhost` como orígenes fiables (las versiones anteriores no lo hacían, porque no se garantizaba que `localhost` se asignara a un dirección local/de bucle invertido — `loopback`).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27439,6 +27457,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locally-delivered resources such as those with `http://127.0.0.1` URLs, `http://localhost` and `http://*.localhost` URLs (e.g. `http://dev.whatever.localhost/`), and `file://` URLs are also considered to have been delivered securely.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204132Z" creationid="gitnacho" creationdate="20221018T204132Z">
+        <seg>Recursos entregados localmente, como aquellos con URL `http://127.0.0.1`, URL `http://localhost` y `http://*.localhost` (por ejemplo, `http://dev.whatever.localhost/ `), y las URLs `file://` también se consideran entregadas de forma segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locals/parameters can be read and written by the body of the function with the `local.get` and `local.set` instructions.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054602Z" creationid="gitnacho" creationdate="20221007T054602Z">
@@ -28921,6 +28947,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resources that are not local, to be considered secure, must meet the following criteria:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204242Z" creationid="gitnacho" creationdate="20221018T204242Z">
+        <seg>Los recursos que no son locales, para ser considerados seguros, deben cumplir con los siguientes criterios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Responses are grouped in five classes: informational responses, successful responses, redirections, client errors, and servers errors.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064616Z" creationid="gitnacho" creationdate="20221012T064616Z">
@@ -30005,6 +30039,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053344Z" creationid="gitnacho" creationdate="20221004T053344Z">
         <seg>Ese es un muy buen punto de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's because the determination of whether or not a particular document is in a secure context is based only on considering it within the top-level browsing context with which it is associated — and not whether a non-secure context happened to be used to create it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204045Z" creationid="gitnacho" creationdate="20221018T204045Z">
+        <seg>Esto se debe a que la determinación de si un documento en particular está o no en un contexto seguro se basa únicamente en considerarlo dentro del contexto de navegación de nivel superior con el que está asociado, y no si se usó un contexto no seguro para crearlo.</seg>
       </tuv>
     </tu>
     <tu>
