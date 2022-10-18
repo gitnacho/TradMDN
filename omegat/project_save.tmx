@@ -968,6 +968,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Feature detection</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204318Z" creationid="gitnacho" creationdate="20221018T204318Z">
+        <seg>## Detección de características</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Functional overview</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213704Z" creationid="gitnacho" creationdate="20221011T213704Z">
@@ -10563,6 +10571,20 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Platform features restricted to secure contexts](/en-US/docs/Web/Security/Secure_Contexts/features_restricted_to_secure_contexts) — a list of the features available only in secure contexts
+- {{domxref("isSecureContext")}}
+- &lt;https://permission.site&gt; — A site that allows you to check what API permission checks your browser employs, over HTTP and HTTPS
+- [Strict-Transport-Security](/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security) HTTP header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204716Z" creationid="gitnacho" creationdate="20221018T204716Z">
+        <seg>- [Funciones de la plataforma restringidas a contextos seguros](/es/docs/Web/Security/Secure_Contexts/features_restricted_to_secure_contexts): una lista de las funciones disponibles solo en contextos seguros
+- {{DOMxRef("isSecureContext", "Es un contexto seguro")}}
+- &lt;https://permission.site&gt;: un sitio que te permite verificar qué API de comprobación de permisos emplea tu navegador, a través de HTTP y HTTPS
+- [Strict-Transport-Security](/es/docs/Web/HTTP/Headers/Strict-Transport-Security) cabecera HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Polyfill of `Uint8ClampedArray` in `core-js`](https://github.com/zloirock/core-js#ecmascript-typed-arrays)
 - [JavaScript typed arrays](/en-US/docs/Web/JavaScript/Typed_arrays)
 - {{jsxref("ArrayBuffer")}}
@@ -17122,6 +17144,14 @@ console.log(y[0]); // 21</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T204317Z" creationid="gitnacho" creationdate="20221003T204317Z">
         <seg>// De lo contrario, si no hay una entrada en el caché para event.request, la respuesta será</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Page is a secure context so service workers are now available</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204442Z" creationid="gitnacho" creationdate="20221018T204442Z">
+        <seg>// La página es un contexto seguro, por lo que los service workers ahora están disponibles</seg>
       </tuv>
     </tu>
     <tu>
@@ -28775,6 +28805,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pages can use feature detection to check whether they are in a secure context or not by using the {{domxref("isSecureContext")}} boolean, which is exposed on the global scope.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204350Z" creationid="gitnacho" creationdate="20221018T204350Z">
+        <seg>Las páginas pueden usar la detección de características para verificar si están en un contexto seguro o no mediante el uso del booleano {{DOMxRef("isSecureContext")}}, que se expone en el alcance global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parameters are basically just locals that are initialized with the value of the corresponding argument passed by the caller.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054540Z" creationid="gitnacho" creationdate="20221007T054540Z">
@@ -39525,6 +39563,16 @@ if (env.tags.indexOf("tag") !== −1) {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+if (window.isSecureContext) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204406Z" creationid="gitnacho" creationdate="20221018T204406Z">
+        <seg>```js
+if (window.isSecureContext) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 import("./node_modules/hello-wasm/hello_wasm.js").then((js) =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065752Z" creationid="gitnacho" creationdate="20221004T065752Z">
@@ -44483,6 +44531,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T213305Z" creationid="gitnacho" creationdate="20221003T213305Z">
         <seg>navigator.serviceWorker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>navigator.serviceWorker.register("/offline-worker.js").then(() =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204449Z" creationid="gitnacho" creationdate="20221018T204449Z">
+        <seg>navigator.serviceWorker.register("/offline-worker.js").then(() =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
