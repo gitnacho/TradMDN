@@ -20832,6 +20832,14 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A **secure context** is a `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203129Z" creationid="gitnacho" creationdate="20221018T203129Z">
+        <seg>A **secure context** is a `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A MUST-READ for any web developer.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064947Z" creationid="gitnacho" creationdate="20221012T064947Z">
