@@ -1,2 +1,5 @@
 source/
 target/
+*.bak
+last_entry.properties
+project_stats.txt
