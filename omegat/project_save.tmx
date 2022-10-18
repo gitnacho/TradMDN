@@ -3753,6 +3753,16 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(This header is similar to the {{HTTPHeader("Allow")}} response header, but used only for [CORS](/en-US/docs/Web/HTTP/CORS).)
+- {{HTTPHeader("Access-Control-Allow-Headers")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215814Z" creationid="gitnacho" creationdate="20221018T215814Z">
+        <seg>(Esta cabecera es similar a la cabecera de respuesta {{HTTPHeader("Allow")}}, pero solo se usa para [CORS](/es/docs/Web/HTTP/CORS).)
+- {{HTTPHeader("Access-Control-Allow-Headers")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Use this if you want to dynamically build markup or use the results of another template that may include markup.)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070054Z" creationid="gitnacho" creationdate="20221005T070054Z">
@@ -4873,6 +4883,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115658Z" creationid="gitnacho" creationdate="20221007T115658Z">
         <seg>- : Un [arreglo](/es/docs/Web/JavaScript/Reference/Global_Objects/Array) opcional de {{Glossary("Transferable Objects")}} para transferir la propiedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Any script inspecting the response is permitted to read the values of the `X-PINGOTHER` and `Content-Type` headers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215833Z" creationid="gitnacho" creationdate="20221018T215833Z">
+        <seg>-: Cualquier script que inspeccione la respuesta puede leer los valores de las cabeceras `X-PINGOTHER` y `Content-Type`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6597,6 +6615,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The above permissions may be cached for 86,400 seconds (1 day).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215851Z" creationid="gitnacho" creationdate="20221018T215851Z">
+        <seg>- : Los permisos anteriores se pueden almacenar en caché durante 86,400 segundos (1 día).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The attachment's title
 - `description`</seg>
       </tuv>
@@ -7067,6 +7093,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T071103Z" creationid="gitnacho" creationdate="20221005T071103Z">
         <seg>- : Cabecera `Cache-Control` enviada en la solicitud del documento MDN actual, útil para decidir si se invalidan las cachés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : {{HTTPMethod("POST")}}, {{HTTPMethod("GET")}}, and `OPTIONS` are permitted methods for the URL.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215733Z" creationid="gitnacho" creationdate="20221018T215733Z">
+        <seg>- : {{HTTPMethod("POST")}}, {{HTTPMethod("GET")}} y `OPTIONS` son métodos permitidos para la URL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13645,6 +13679,16 @@ browser-compat: api.Document.timeline
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210831Z" creationid="gitnacho" creationdate="20221017T210831Z">
         <seg>- {{HTTPHeader("Access-Control-Request-Method")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Allow")}} header
+- [CORS](/en-US/docs/Web/HTTP/CORS)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215928Z" creationid="gitnacho" creationdate="20221018T215928Z">
+        <seg>- Cabecera {{HTTPHeader("Allow")}}
+- [CORS](/es/docs/Web/HTTP/CORS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38916,6 +38960,36 @@ Allow: OPTIONS, GET, HEAD, POST
 Cache-Control: max-age=604800
 Date: Thu, 13 Oct 2016 11:45:00 GMT
 Server: EOS (lax004/2813)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+HTTP/1.1 204 No Content
+Date: Mon, 01 Dec 2008 01:15:39 GMT
+Server: Apache/2.0.61 (Unix)
+Access-Control-Allow-Origin: https://foo.example
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: X-PINGOTHER, Content-Type
+Access-Control-Max-Age: 86400
+Vary: Accept-Encoding, Origin
+Keep-Alive: timeout=2, max=100
+Connection: Keep-Alive
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215856Z" creationid="gitnacho" creationdate="20221018T215856Z">
+        <seg>```http
+HTTP/1.1 204 No Content
+Date: Mon, 01 Dec 2008 01:15:39 GMT
+Server: Apache/2.0.61 (Unix)
+Access-Control-Allow-Origin: https://foo.example
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: X-PINGOTHER, Content-Type
+Access-Control-Max-Age: 86400
+Vary: Accept-Encoding, Origin
+Keep-Alive: timeout=2, max=100
+Connection: Keep-Alive
 ```</seg>
       </tuv>
     </tu>
