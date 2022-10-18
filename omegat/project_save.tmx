@@ -6587,6 +6587,16 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The `https://foo.example` origin is permitted to request the `bar.example/resources/post-here/` URL via the following:
+- {{HTTPHeader("Access-Control-Allow-Methods")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215719Z" creationid="gitnacho" creationdate="20221018T215719Z">
+        <seg>-: El origen `https://foo.ejemplo` puede solicitar la URL `bar.ejemplo/resources/post-here/` a través de lo siguiente:
+- {{HTTPHeader("Access-Control-Allow-Methods")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The attachment's title
 - `description`</seg>
       </tuv>
@@ -9507,6 +9517,22 @@ browser-compat: api.Cache
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T182815Z" creationid="gitnacho" creationdate="20221008T182815Z">
         <seg>- El elemento GFM `&lt;li&gt;` de nivel superior se analizará como un elemento GFM `&lt;li&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The {{HTTPHeader("Access-Control-Request-Headers")}} header tells the server that when the actual request is sent, it will have the `X-PINGOTHER` and `Content-Type` headers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215525Z" creationid="gitnacho" creationdate="20221018T215456Z">
+        <seg>- La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} le dice al servidor que cuando se envíe la solicitud, tendrá las cabeceras `X-PINGOTHER` y `Content-Type`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The {{HTTPHeader("Access-Control-Request-Method")}} header sent in the preflight request tells the server that when the actual request is sent, it will have a {{HTTPMethod("POST")}} request method.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215501Z" creationid="gitnacho" creationdate="20221018T215436Z">
+        <seg>- La cabecera {{HTTPHeader("Access-Control-Request-Method")}} enviada en la solicitud de preverificación le dice al servidor que cuando se envíe la solicitud, tendrá un método {{HTTPMethod("POST")}} en la solicitud.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26473,6 +26499,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this example, the server response says that:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215548Z" creationid="gitnacho" creationdate="20221018T215548Z">
+        <seg>En este ejemplo, la respuesta del servidor dice que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this example, we will request permission for these parameters:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215304Z" creationid="gitnacho" creationdate="20221018T215304Z">
@@ -32452,6 +32486,14 @@ de elementos en la tabla.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125315Z" creationid="gitnacho" creationdate="20221003T125152Z">
         <seg>El servidor debe generar un valor *nonce* único cada vez que transmite una política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The server now can respond if it will accept a request under these circumstances.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215539Z" creationid="gitnacho" creationdate="20221018T215539Z">
+        <seg>El servidor ahora puede responder si aceptará una solicitud en estas circunstancias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38916,6 +38958,34 @@ OPTIONS * HTTP/1.1
         <seg>```http
 OPTIONS /index.html HTTP/1.1
 OPTIONS * HTTP/1.1
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+OPTIONS /resources/post-here/ HTTP/1.1
+Host: bar.example
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Connection: keep-alive
+Origin: https://foo.example
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: X-PINGOTHER, Content-Type
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215528Z" creationid="gitnacho" creationdate="20221018T215528Z">
+        <seg>```http
+OPTIONS /resources/post-here/ HTTP/1.1
+Host: bar.example
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Connection: keep-alive
+Origin: https://foo.example
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: X-PINGOTHER, Content-Type
 ```</seg>
       </tuv>
     </tu>
