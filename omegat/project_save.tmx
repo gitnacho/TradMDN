@@ -8942,6 +8942,15 @@ browser-compat: svg.elements.view
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Secure contexts</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203205Z" creationid="gitnacho" creationdate="20221018T203136Z">
+        <seg>- Secure contexts
+  - Contextos seguros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Security</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T211010Z" creationid="gitnacho" creationdate="20221011T211010Z">
@@ -8956,6 +8965,19 @@ browser-compat: svg.elements.view
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T205225Z" creationid="gitnacho" creationdate="20221017T205225Z">
         <seg>- Security
   - Seguridad
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Security
+spec-urls: https://w3c.github.io/webappsec-secure-contexts/
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203224Z" creationid="gitnacho" creationdate="20221018T203137Z">
+        <seg>- Security
+  - Seguridad
+spec-urls: https://w3c.github.io/webappsec-secure-contexts/
 ---</seg>
       </tuv>
     </tu>
@@ -15581,6 +15603,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Secure contexts
+slug: Web/Security/Secure_Contexts
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203157Z" creationid="gitnacho" creationdate="20221018T203136Z">
+        <seg>---
+title: Contextos seguros
+slug: Web/Security/Secure_Contexts
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Service Worker API
 slug: Web/API/Service_Worker_API
 page-type: web-api-overview
@@ -20834,8 +20870,8 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
       <tuv lang="en-US">
         <seg>A **secure context** is a `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203129Z" creationid="gitnacho" creationdate="20221018T203129Z">
-        <seg>A **secure context** is a `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203309Z" creationid="gitnacho" creationdate="20221018T203129Z">
+        <seg>Un **contexto seguro** es un `Window` o `Worker` para el cual se cumplen ciertos estándares mínimos de autenticación y confidencialidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27491,6 +27527,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Many Web APIs and features are accessible only in a secure context.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203326Z" creationid="gitnacho" creationdate="20221018T203326Z">
+        <seg>Muchas funciones y APIs web solo son accesibles en un contexto seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many people use npm packages through various bundler tools, and we'll be using one of them, `webpack`, in this tutorial.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065513Z" creationid="gitnacho" creationdate="20221004T065513Z">
@@ -31783,6 +31827,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053720Z" creationid="gitnacho" creationdate="20221012T053720Z">
         <seg>La sección anterior ofrece una descripción general de estos en acción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The primary goal of secure contexts is to prevent [MITM attackers](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) from accessing powerful APIs that could further compromise the victim of an attack.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203701Z" creationid="gitnacho" creationdate="20221018T203701Z">
+        <seg>El objetivo principal de los contextos seguros es evitar que [los atacantes MITM](https://es.wikipedia.org/wiki/Man-in-the-middle_attack) accedan a potentes APIs que podrían comprometer aún más a la víctima de un ataque.</seg>
       </tuv>
     </tu>
     <tu>
