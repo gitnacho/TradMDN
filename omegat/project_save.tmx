@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Directives</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213322Z" creationid="gitnacho" creationdate="20221018T213316Z">
+        <seg>## Directivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## DocumentParsingError</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T092021Z" creationid="gitnacho" creationdate="20221005T092021Z">
@@ -5851,6 +5859,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T095826Z" creationid="gitnacho" creationdate="20221003T095826Z">
         <seg>- : Una vez cargado el módulo `.wasm`, querrás usarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : One of the [HTTP request methods](/en-US/docs/Web/HTTP/Methods), for</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213337Z" creationid="gitnacho" creationdate="20221018T213337Z">
+        <seg>- : Uno de los [métodos de solicitud HTTP](/es/docs/Web/HTTP/Methods), por</seg>
       </tuv>
     </tu>
     <tu>
@@ -11608,6 +11624,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
         <seg>- [webassembly.org](https://webassembly.org/)
 - [Conceptos WebAssembly](/es/docs/WebAssembly/Concepts)
 - [La investigación de WebAssembly en Mozilla](https://research.mozilla.org/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- \&lt;method&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213319Z" creationid="gitnacho" creationdate="20221018T213319Z">
+        <seg>- \&lt;method&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19410,6 +19434,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;yes&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213313Z" creationid="gitnacho" creationdate="20221018T213313Z">
+        <seg>&lt;td&gt;sí&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;{{Glossary("Request header")}}&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213304Z" creationid="gitnacho" creationdate="20221018T213304Z">
+        <seg>&lt;td&gt;{{Glossary("Request header")}}&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;{{domxref("HTMLScriptElement")}}&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135813Z" creationid="gitnacho" creationdate="20221003T122339Z">
@@ -19474,6 +19514,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Header type&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213258Z" creationid="gitnacho" creationdate="20221018T213258Z">
+        <seg>&lt;th scope="row"&gt;Cabecera tipo&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;Implicit ARIA role&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122206Z" creationid="gitnacho" creationdate="20221003T122206Z">
@@ -19526,6 +19574,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T121914Z" creationid="gitnacho" creationdate="20221003T121914Z">
         <seg>&lt;th scope="row"&gt;Etiquetas por omisión&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213307Z" creationid="gitnacho" creationdate="20221018T213307Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30155,6 +30211,20 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`Access-Control-Request-Method`** request header is used
+by browsers when issuing a {{glossary("preflight request")}}, to let the server know
+which [HTTP method](/en-US/docs/Web/HTTP/Methods) will be used when the
+actual request is made.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213208Z" creationid="gitnacho" creationdate="20221018T213208Z">
+        <seg>Los navegadores utilizan la cabecera de solicitud **`Access-Control-Request-Method`**
+al emitir un {{Glossary("preflight request")}}, para informar al servidor
+qué [método HTTP](/es/docs/Web/HTTP/Methods) se usará cuando
+se hace la solicitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`Cache`** interface provides a persistent storage mechanism for {{domxref("Request")}} / {{domxref("Response")}} object pairs that are cached in long lived memory.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T201004Z" creationid="gitnacho" creationdate="20221003T201004Z">
@@ -33864,6 +33934,16 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T005431Z" creationid="gitnacho" creationdate="20221003T005431Z">
         <seg>Esto nos ha funcionado bien debido a que JavaScript es suficientemente capaz para resolver la mayor parte de los problemas que las personas tienen en la Web hoy día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This header is necessary as the preflight request is always an
+{{HTTPMethod("OPTIONS")}} and doesn't use the same method as the actual request.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213241Z" creationid="gitnacho" creationdate="20221018T213241Z">
+        <seg>Este encabezado es necesario ya que la solicitud de verificación previa siempre es una de las
+{{HTTPMethod("OPTIONS")}} y no utiliza el mismo método que la solicitud.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38503,6 +38583,18 @@ Access-Control-Request-Headers: X-PINGOTHER, Content-Type
     <tu>
       <tuv lang="en-US">
         <seg>```http
+Access-Control-Request-Method: POST
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213353Z" creationid="gitnacho" creationdate="20221018T213353Z">
+        <seg>```http
+Access-Control-Request-Method: POST
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
 Cross-Origin-Opener-Policy: same-origin
 Cross-Origin-Embedder-Policy: require-corp
 ```</seg>
@@ -43111,6 +43203,14 @@ total.reset();               // #count ahora = 7
         <seg>event.waitUntil(enableNavigationPreload());
 });
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>example {{HTTPMethod("GET")}}, {{HTTPMethod("POST")}}, or {{HTTPMethod("DELETE")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213349Z" creationid="gitnacho" creationdate="20221018T213349Z">
+        <seg>ejemplo {{HTTPMethod("GET")}}, {{HTTPMethod("POST")}}, o {{HTTPMethod("DELETE")}}.</seg>
       </tuv>
     </tu>
     <tu>
