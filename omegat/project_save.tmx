@@ -8884,8 +8884,9 @@ browser-compat: javascript.builtins.Uint8ClampedArray
       <tuv lang="en-US">
         <seg>- Reference</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221009T003222Z" creationid="gitnacho" creationdate="20220921T224606Z">
-        <seg>- Reference</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213045Z" creationid="gitnacho" creationdate="20220921T224606Z">
+        <seg>- Reference
+  Referencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -12752,6 +12753,19 @@ browser-compat: api.ServiceWorkerContainer.controllerchange_event
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- header
+browser-compat: http.headers.Access-Control-Request-Method
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213056Z" creationid="gitnacho" creationdate="20221018T213056Z">
+        <seg>- header
+  - cabecera
+browser-compat: http.headers.Access-Control-Request-Method
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- instance
 browser-compat: javascript.builtins.WebAssembly.Instance.exports
 ---</seg>
@@ -14801,6 +14815,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Access-Control-Request-Method
+slug: Web/HTTP/Headers/Access-Control-Request-Method
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213017Z" creationid="gitnacho" creationdate="20221018T213017Z">
+        <seg>---
+title: Access-Control-Request-Method
+slug: Web/HTTP/Headers/Access-Control-Request-Method
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Accessibility and Spacial Patterns
 slug: Web/Accessibility/Accessibility_and_Spacial_Patterns
 tags:</seg>
@@ -15339,6 +15367,20 @@ tags:</seg>
         <seg>---
 title: Conceptos básicos de HTML
 slug: Learn/Getting_started_with_the_web/HTML_basics
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: HTTP
+slug: Glossary/HTTP
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T212731Z" creationid="gitnacho" creationdate="20221018T212731Z">
+        <seg>---
+title: HTTP
+slug: Glossary/HTTP
 tags:</seg>
       </tuv>
     </tu>
