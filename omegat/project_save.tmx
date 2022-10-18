@@ -1696,6 +1696,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## When is a context considered secure?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203749Z" creationid="gitnacho" creationdate="20221018T203749Z">
+        <seg>## ¿Cuándo se considera seguro un contexto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## When should you use each one?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204329Z" creationid="gitnacho" creationdate="20221005T204329Z">
@@ -1708,6 +1716,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T231853Z" creationid="gitnacho" creationdate="20221012T231853Z">
         <seg>## Donde empezar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Why should some features be restricted?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203710Z" creationid="gitnacho" creationdate="20221018T203710Z">
+        <seg>## ¿Por qué se deben restringir algunas funciones?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7848,6 +7864,22 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Get access to data such as user credentials.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203742Z" creationid="gitnacho" creationdate="20221018T203742Z">
+        <seg>- Obtener acceso a datos como las credenciales de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Get low-level access to a user's computer.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203735Z" creationid="gitnacho" creationdate="20221018T203735Z">
+        <seg>- Obtener acceso de bajo nivel a la computadora de un usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- GitHub "live samples" — A macro that takes a document in a GitHub repo inside the [MDN organization](https://github.com/mdn/), puts it inside an {{htmlelement("iframe")}} element, and embeds it into the page to show the code running live.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204237Z" creationid="gitnacho" creationdate="20221005T204237Z">
@@ -8314,6 +8346,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T222643Z" creationid="gitnacho" creationdate="20221012T222643Z">
         <seg>- Intro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Invade a user's privacy.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203728Z" creationid="gitnacho" creationdate="20221018T203728Z">
+        <seg>- Invadir la privacidad de un usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21016,6 +21056,14 @@ fields:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A context is considered secure when it meets certain minimum standards of authentication and confidentiality defined in the [Secure Contexts](https://w3c.github.io/webappsec-secure-contexts/) specification.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203816Z" creationid="gitnacho" creationdate="20221018T203816Z">
+        <seg>Un contexto se considera seguro cuando cumple con ciertos estándares mínimos de autenticación y confidencialidad definidos en la especificación de [Contextos seguros](https://w3c.github.io/webappsec-secure-contexts/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A core use-case for WebAssembly is to take the existing ecosystem of C libraries and allow developers to use them on the web.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053216Z" creationid="gitnacho" creationdate="20221004T053216Z">
@@ -21093,6 +21141,14 @@ JavaScript wrapper for an underlying wasm function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081016Z" creationid="gitnacho" creationdate="20221007T081016Z">
         <seg>Se han agregado varias nuevas instrucciones `wasm` que se pueden usar para implementar funciones de nivel superior como `mutexes`, variables de condición, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A particular document is considered to be in a secure context when it is the [active document](https://html.spec.whatwg.org/multipage/browsers.html#active-document) of a [top-level browsing context](https://html.spec.whatwg.org/multipage/browsers.html#top-level-browsing-context) (basically, a containing window or tab) that is a secure context.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203851Z" creationid="gitnacho" creationdate="20221018T203851Z">
+        <seg>Se considera que un documento en particular está en un contexto seguro cuando es el [documento activo](https://html.spec.whatwg.org/multipage/browsers.html#active-document) de un [contexto de navegación de nivel superior ](https://html.spec.whatwg.org/multipage/browsers.html#top-level-browsing-context) (básicamente, una ventana o pestaña contenedora) que es un contexto seguro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23734,6 +23790,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, even for a document delivered over TLS within an {{HTMLElement("iframe")}}, its context is **not** considered secure if it has an ancestor that was not also delivered over TLS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203937Z" creationid="gitnacho" creationdate="20221018T203937Z">
+        <seg>Por ejemplo, incluso para un documento entregado a través de TLS dentro de un {{HTMLElement("iframe")}}, su contexto **no** se considera seguro si tiene un ancestro que no se entregó también a través de TLS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, following `Accept-CH` in a response below, the client could append {{HTTPHeader("Width")}}, {{HTTPHeader("Downlink")}} and {{HTTPHeader("Sec-CH-UA")}} headers to all subsequent requests.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091531Z" creationid="gitnacho" creationdate="20221012T091531Z">
@@ -24650,6 +24714,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T021615Z" creationid="gitnacho" creationdate="20220921T015648Z">
         <seg>Sin embargo, hizo muchas suposiciones sobre lo que estabas tratando de hacer y luego se rompió horriblemente cuando tu aplicación no siguió exactamente esas suposiciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, it's important to note that if a non-secure context causes a new window to be created (with or without specifying [noopener](/en-US/docs/Web/API/Window/open)), then the fact that the opener was insecure has no effect on whether the new window is considered secure.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204023Z" creationid="gitnacho" creationdate="20221018T204023Z">
+        <seg>Sin embargo, es importante tener en cuenta que si un contexto no seguro hace que se cree una nueva ventana (con o sin especificar [noopener](/es/docs/Web/API/Window/open)), entonces el hecho de que el abridor era inseguro no tiene ningún efecto sobre si la nueva ventana se considera segura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29661,6 +29733,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072318Z" creationid="gitnacho" creationdate="20221005T072318Z">
         <seg>Entonces, si uno de los parámetros es una variable `arg` como `$2`, no lo pongas entre comillas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some APIs on the web are very powerful, giving an attacker the ability to do the following and more:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203723Z" creationid="gitnacho" creationdate="20221018T203723Z">
+        <seg>Algunas APIs en la web son muy poderosas y le dan al atacante la capacidad de hacer lo siguiente y más:</seg>
       </tuv>
     </tu>
     <tu>
