@@ -2304,6 +2304,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Identifying allowed request methods</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215126Z" creationid="gitnacho" creationdate="20221018T215126Z">
+        <seg>### Identificar métodos de solicitud permitidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Importing functions from JavaScript</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T061331Z" creationid="gitnacho" creationdate="20221007T061331Z">
@@ -19525,6 +19533,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Allowed in HTML forms&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215103Z" creationid="gitnacho" creationdate="20221018T215103Z">
+        <seg>&lt;th scope="row"&gt;Permitido en formularios HTML&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;Channel count mode&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191010Z" creationid="gitnacho" creationdate="20221008T191010Z">
@@ -19637,10 +19653,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Cacheable")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215044Z" creationid="gitnacho" creationdate="20221018T215044Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Cacheable")}}&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213307Z" creationid="gitnacho" creationdate="20221018T213307Z">
         <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Idempotent")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215040Z" creationid="gitnacho" creationdate="20221018T215040Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Idempotent")}}&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25901,6 +25933,14 @@ se lanza un {{jsxref("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In [CORS](/en-US/docs/Web/HTTP/CORS), a [preflight request](/en-US/docs/Glossary/Preflight_request) is sent with the `OPTIONS` method so that the server can respond if it is acceptable to send the request.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215252Z" creationid="gitnacho" creationdate="20221018T215252Z">
+        <seg>En [CORS](/es/docs/Web/HTTP/CORS), se envía una [solicitud de preverificación](/es/docs/Glossary/Preflight_request) con el método `OPTIONS` para que el servidor pueda responder si es aceptable enviar la solicitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In _Installing basic software_, we show you what tools you need to do simple web development and how to install them properly.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T154605Z" creationid="gitnacho" creationdate="20221012T154605Z">
@@ -26429,6 +26469,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230416Z" creationid="gitnacho" creationdate="20221011T230416Z">
         <seg>En este ejemplo, el contenido cargado originalmente desde `https://foo.example` hace una simple Solicitud GET a un recurso en `https://bar.other` que establece *Cookies*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this example, we will request permission for these parameters:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215304Z" creationid="gitnacho" creationdate="20221018T215304Z">
+        <seg>En este ejemplo, solicitaremos permiso para estos parámetros:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32286,6 +32334,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The response then contains an {{HTTPHeader("Allow")}} header that holds the allowed methods:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215204Z" creationid="gitnacho" creationdate="20221018T215204Z">
+        <seg>La respuesta luego contiene un encabezado {{HTTPHeader("Allow")}} que contiene los métodos permitidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The result of a preload fetch request is waited on using the promise returned by {{domxref("FetchEvent.preloadResponse")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T205108Z">
@@ -35139,6 +35195,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200453Z" creationid="gitnacho" creationdate="20221008T200453Z">
         <seg>Para saber cómo ayudar, visita nuestra página [Cómo empezar](/es/docs/MDN/Community/Contributing/Getting_started).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To find out which request methods a server supports, one can use the `curl` command-line program to issue an `OPTIONS` request:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215150Z" creationid="gitnacho" creationdate="20221018T215150Z">
+        <seg>Para averiguar qué métodos de solicitud admite un servidor, se puede utilizar el programa de línea de comandos `curl` para emitir una solicitud `OPTIONS`:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38089,6 +38153,18 @@ npm link
     <tu>
       <tuv lang="en-US">
         <seg>```bash
+curl -X OPTIONS https://example.org -i
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215152Z" creationid="gitnacho" creationdate="20221018T215152Z">
+        <seg>```bash
+curl -X OPTIONS https://example.org -i
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
 git clone https://github.com/webmproject/libwebp
 ```</seg>
       </tuv>
@@ -38784,6 +38860,26 @@ Content-Type: application/xml</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```http
+HTTP/1.1 204 No Content
+Allow: OPTIONS, GET, HEAD, POST
+Cache-Control: max-age=604800
+Date: Thu, 13 Oct 2016 11:45:00 GMT
+Server: EOS (lax004/2813)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215208Z" creationid="gitnacho" creationdate="20221018T215208Z">
+        <seg>```http
+HTTP/1.1 204 No Content
+Allow: OPTIONS, GET, HEAD, POST
+Cache-Control: max-age=604800
+Date: Thu, 13 Oct 2016 11:45:00 GMT
+Server: EOS (lax004/2813)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
 OPTIONS /doc HTTP/1.1
 Host: bar.other
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0
@@ -38807,6 +38903,20 @@ Connection: keep-alive
 Origin: https://foo.example
 Access-Control-Request-Method: POST
 Access-Control-Request-Headers: X-PINGOTHER, Content-Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+OPTIONS /index.html HTTP/1.1
+OPTIONS * HTTP/1.1
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215107Z" creationid="gitnacho" creationdate="20221018T215107Z">
+        <seg>```http
+OPTIONS /index.html HTTP/1.1
+OPTIONS * HTTP/1.1
+```</seg>
       </tuv>
     </tu>
     <tu>
