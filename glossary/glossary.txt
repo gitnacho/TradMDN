@@ -3,3 +3,4 @@ header	cabecera	cabecera
 header	encabezado
 man-in-the-middle attack	ataque de intermediario
 mitm	ataque de intermediario	man-in-the-middle_attack
+eyedropper	cuentagotas
