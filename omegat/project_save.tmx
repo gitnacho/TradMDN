@@ -13994,6 +13994,30 @@ browser-compat: api.Document.timeline
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{glossary("HTTP")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T202347Z" creationid="gitnacho" creationdate="20221018T202347Z">
+        <seg>- {{Glossary("HTTP")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{glossary("SSL")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T202350Z" creationid="gitnacho" creationdate="20221018T202350Z">
+        <seg>- {{Glossary("SSL")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{glossary("TLS")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T202355Z" creationid="gitnacho" creationdate="20221018T202355Z">
+        <seg>- {{Glossary("TLS")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{htmlattrdef("async")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122627Z" creationid="gitnacho" creationdate="20221003T122627Z">
