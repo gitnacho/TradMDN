@@ -46799,6 +46799,14 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{QuickLinksWithSubpages("/en-US/docs/Web/Security")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204728Z" creationid="gitnacho" creationdate="20221018T204728Z">
+        <seg>{{QuickLinksWithSubpages("/es/docs/Web/Security")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{SVGRef}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T121914Z" creationid="gitnacho" creationdate="20221005T121914Z">
