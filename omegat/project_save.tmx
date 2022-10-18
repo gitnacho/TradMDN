@@ -8954,6 +8954,19 @@ browser-compat: javascript.builtins.Promise.resolve
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Request method
+browser-compat: http.methods.OPTIONS
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T214758Z" creationid="gitnacho" creationdate="20221018T214725Z">
+        <seg>- Request method
+  - Método de solicitud
+browser-compat: http.methods.OPTIONS
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Responding to resource requests from other origins.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T145306Z" creationid="gitnacho" creationdate="20221002T145306Z">
@@ -15683,6 +15696,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: OPTIONS
+slug: Web/HTTP/Methods/OPTIONS
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T214719Z" creationid="gitnacho" creationdate="20221018T214719Z">
+        <seg>---
+title: OPTIONS
+slug: Web/HTTP/Methods/OPTIONS
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Origin
 slug: Glossary/Origin
 tags:</seg>
@@ -19426,10 +19453,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;No&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T214917Z" creationid="gitnacho" creationdate="20221018T214917Z">
+        <seg>&lt;td&gt;No&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;Something shortish&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185153Z" creationid="gitnacho" creationdate="20221008T185153Z">
         <seg>&lt;td&gt;Algo corto&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;Yes&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T214938Z" creationid="gitnacho" creationdate="20221018T214938Z">
+        <seg>&lt;td&gt;Sí&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19570,6 +19613,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Request has body&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T214907Z" creationid="gitnacho" creationdate="20221018T214907Z">
+        <seg>&lt;th scope="row"&gt;La solicitud tiene cuerpo&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Successful response has body&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T214931Z" creationid="gitnacho" creationdate="20221018T214931Z">
+        <seg>&lt;th scope="row"&gt;La respuesta exitosa tiene cuerpo&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;Tag omission&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T121914Z" creationid="gitnacho" creationdate="20221003T121914Z">
@@ -19582,6 +19641,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T213307Z" creationid="gitnacho" creationdate="20221018T213307Z">
         <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Safe/HTTP", "Safe")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T215010Z" creationid="gitnacho" creationdate="20221018T215010Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Safe/HTTP", "Seguro")}}&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21190,6 +21257,14 @@ fields:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T211710Z" creationid="gitnacho" creationdate="20220911T211710Z">
         <seg>Un rango de clave delimitado puede ser abierto (se excluyen los puntos finales) o cerrado (se incluyen los puntos finales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A client can specify a URL with this method, or an asterisk (`*`) to refer to the entire server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T214848Z" creationid="gitnacho" creationdate="20221018T214822Z">
+        <seg>Un cliente puede especificar una URL con este método, o un asterisco (`*`) para referirse a todo el servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30199,6 +30274,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210626T133133Z">
         <seg>El</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **HTTP `OPTIONS` method** requests permitted communication options for a given URL or server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T214838Z" creationid="gitnacho" creationdate="20221018T214742Z">
+        <seg>El **método HTTP `OPTIONS`** solicita opciones de comunicación permitidas para una URL o un determinado servidor.</seg>
       </tuv>
     </tu>
     <tu>
