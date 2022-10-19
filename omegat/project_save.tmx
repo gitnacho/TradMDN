@@ -5129,6 +5129,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : An [`WebAssembly.Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag) that can be checked to verify the type of the exception.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144925Z" creationid="gitnacho" creationdate="20221019T144925Z">
+        <seg>- : Una [`WebAssembly.Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) que se puede verificar para comprobar el tipo de excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : An accessor property that returns the buffer contained in the memory.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000330Z" creationid="gitnacho" creationdate="20221008T000330Z">
@@ -22456,6 +22464,14 @@ fields:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A boolean `true` if the specified tag matches the exception, and `false` otherwise.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144755Z" creationid="gitnacho" creationdate="20221019T144755Z">
+        <seg>Un valor booleano `true` si la etiqueta especificada coincide con la excepción y `false` en caso contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A boolean that specifies whether `bufferSource` is valid wasm code
 (`true`) or not (`false`).</seg>
       </tuv>
@@ -32830,6 +32846,14 @@ función exportada contenida.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The code below shows how to use `is()` to verify that a tag matches an [`Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144721Z" creationid="gitnacho" creationdate="20221019T144721Z">
+        <seg>El siguiente código muestra cómo usar `is()` para verificar que una etiqueta coincida con una [`Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The code catches the exception and uses `getArg()` to print the value at the first index.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143107Z" creationid="gitnacho" creationdate="20221019T143107Z">
@@ -42217,6 +42241,18 @@ getArg(exceptionTag, index)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142352Z" creationid="gitnacho" creationdate="20221019T142352Z">
         <seg>```js-nolint
 getArg(exceptionTag, index)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+is(tag)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144936Z" creationid="gitnacho" creationdate="20221019T144936Z">
+        <seg>```js-nolint
+is(tag)
 ```</seg>
       </tuv>
     </tu>
