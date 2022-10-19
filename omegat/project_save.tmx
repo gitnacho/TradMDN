@@ -32627,8 +32627,8 @@ desde la función de inicio).</seg>
       <tuv lang="en-US">
         <seg>The **`WebAssembly.Memory()`** constructor creates a new `Memory` object whose [`buffer`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/buffer) property is a resizable {{jsxref("ArrayBuffer")}} or {{jsxref("SharedArrayBuffer")}} that holds the raw bytes of memory accessed by a [`WebAssembly.Instance`](/en-US/docs/WebAssembly/JavaScript_interface/Instance).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215041Z" creationid="gitnacho" creationdate="20221019T215041Z">
-        <seg>El constructor **`WebAssembly.Memory()`** crea un nuevo objeto `Memory` cuya propiedad [`buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer) es una {{JSxRef( "ArrayBuffer")}} o {{JSxRef("SharedArrayBuffer")}} que contiene los bytes sin procesar de la memoria a la que accede una [`WebAssembly.Instance`](/es/docs/WebAssembly/JavaScript_interface/Instance).</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220901Z" creationid="gitnacho" creationdate="20221019T215041Z">
+        <seg>El constructor **`WebAssembly.Memory()`** crea un nuevo objeto `Memory` cuya propiedad [`buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer) es un {{JSxRef( "ArrayBuffer")}} o {{JSxRef("SharedArrayBuffer")}} que contiene los bytes sin procesar de la memoria a la que accede una [`WebAssembly.Instance`](/es/docs/WebAssembly/JavaScript_interface/Instance).</seg>
       </tuv>
     </tu>
     <tu>
