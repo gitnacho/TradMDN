@@ -14117,6 +14117,21 @@ original_slug: WebAssembly/JavaScript_interface/Module/exports
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- imports
+browser-compat: javascript.builtins.WebAssembly.Module.imports
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230119Z" creationid="gitnacho" creationdate="20221019T230119Z">
+        <seg>- imports
+  - importaciones
+browser-compat: javascript.builtins.WebAssembly.Module.imports
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Module/imports
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- instance
 browser-compat: javascript.builtins.WebAssembly.Instance.exports
 ---</seg>
@@ -17921,6 +17936,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.Module.exports()
 slug: WebAssembly/JavaScript_interface/Module/exports
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Module.imports()
+slug: WebAssembly/JavaScript_interface/Module/imports
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225835Z" creationid="gitnacho" creationdate="20221019T225835Z">
+        <seg>---
+title: WebAssembly.Module.imports()
+slug: WebAssembly/JavaScript_interface/Module/imports
 tags:</seg>
       </tuv>
     </tu>
