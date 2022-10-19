@@ -14391,6 +14391,15 @@ original_slug: Web/API/Worker/postMessage
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- set</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233806Z" creationid="gitnacho" creationdate="20221019T233806Z">
+        <seg>- set
+  - conjunto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- shared address</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T044822Z" creationid="gitnacho" creationdate="20221007T044822Z">
@@ -14580,6 +14589,20 @@ browser-compat: javascript.builtins.WebAssembly.Table.length
 browser-compat: javascript.builtins.WebAssembly.Table.length
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Table/length
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- table
+browser-compat: javascript.builtins.WebAssembly.Table.set
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233850Z" creationid="gitnacho" creationdate="20221019T233850Z">
+        <seg>- table
+browser-compat: javascript.builtins.WebAssembly.Table.set
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Table/set
 ---</seg>
       </tuv>
     </tu>
@@ -18131,6 +18154,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.Table.prototype.length
 slug: WebAssembly/JavaScript_interface/Table/length
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Table.prototype.set()
+slug: WebAssembly/JavaScript_interface/Table/set
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233756Z" creationid="gitnacho" creationdate="20221019T233756Z">
+        <seg>---
+title: WebAssembly.Table.prototype.set()
+slug: WebAssembly/JavaScript_interface/Table/set
 tags:</seg>
       </tuv>
     </tu>
