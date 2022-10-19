@@ -17429,6 +17429,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: WebAssembly.Instance() constructor
+slug: WebAssembly/JavaScript_interface/Instance/Instance
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T205647Z" creationid="gitnacho" creationdate="20221019T205647Z">
+        <seg>---
+title: WebAssembly.Instance() constructor
+slug: WebAssembly/JavaScript_interface/Instance/Instance
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: WebAssembly.Instance.prototype.exports
 slug: WebAssembly/JavaScript_interface/Instance/exports
 tags:</seg>
