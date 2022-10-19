@@ -13847,6 +13847,15 @@ original_slug: Web/API/ServiceWorkerContainer/Evento_controllerchange
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- grow</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213834Z" creationid="gitnacho" creationdate="20221019T213834Z">
+        <seg>- grow
+  - crecer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- have access to a database, files, or any other way to store information persistently.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T083604Z" creationid="gitnacho" creationdate="20221005T064722Z">
@@ -13958,6 +13967,21 @@ browser-compat: javascript.builtins.WebAssembly.Memory.buffer
 browser-compat: javascript.builtins.WebAssembly.Memory.buffer
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Memory/búfer
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- memory
+browser-compat: javascript.builtins.WebAssembly.Memory.grow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213906Z" creationid="gitnacho" creationdate="20221019T213906Z">
+        <seg>- memory
+  - memoria
+browser-compat: javascript.builtins.WebAssembly.Memory.grow
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Memory/grow
 ---</seg>
       </tuv>
     </tu>
@@ -17582,6 +17606,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.Memory.prototype.buffer
 slug: WebAssembly/JavaScript_interface/Memory/buffer
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Memory.prototype.grow()
+slug: WebAssembly/JavaScript_interface/Memory/grow
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213812Z" creationid="gitnacho" creationdate="20221019T213812Z">
+        <seg>---
+title: WebAssembly.Memory.prototype.grow()
+slug: WebAssembly/JavaScript_interface/Memory/grow
 tags:</seg>
       </tuv>
     </tu>
