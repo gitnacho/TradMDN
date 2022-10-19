@@ -39471,6 +39471,14 @@ que es exportada por la `Instance`.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WebAssembly.instantiate(mod, importObject).then((result) =&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231532Z" creationid="gitnacho" creationdate="20221019T231532Z">
+        <seg>WebAssembly.instantiate(mod, importObject).then((result) =&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WebAssembly.instantiateStreaming(fetch("example.wasm"))</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143242Z" creationid="gitnacho" creationdate="20221019T143242Z">
@@ -46580,6 +46588,14 @@ api.destroy_buffer(p);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>const mod = createWasmModule(bytes);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231530Z" creationid="gitnacho" creationdate="20221019T231530Z">
+        <seg>const mod = createWasmModule(bytes);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>const mod = e.data;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T111439Z" creationid="gitnacho" creationdate="20221007T111439Z">
@@ -47646,6 +47662,14 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230425Z" creationid="gitnacho" creationdate="20221011T230425Z">
         <seg>function callOtherDomain() {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>function createWasmModule(bytes) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231527Z" creationid="gitnacho" creationdate="20221019T231527Z">
+        <seg>function createWasmModule(bytes) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -49558,6 +49582,14 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>result.exports.exported_func()</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231534Z" creationid="gitnacho" creationdate="20221019T231534Z">
+        <seg>result.exports.exported_func()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>resultPointer,</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T054902Z" creationid="gitnacho" creationdate="20221004T054902Z">
@@ -49886,6 +49918,16 @@ api.free_result(resultPointer);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040654Z" creationid="gitnacho" creationdate="20220921T040654Z">
         <seg>return new Response("Ocurrió un error de red", {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>return new WebAssembly.Module(bytes);
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231529Z" creationid="gitnacho" creationdate="20221019T231529Z">
+        <seg>return new WebAssembly.Module(bytes);
+}</seg>
       </tuv>
     </tu>
     <tu>
