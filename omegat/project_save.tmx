@@ -7272,6 +7272,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The number of elements you want to grow the table by.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233329Z" creationid="gitnacho" creationdate="20221019T233329Z">
+        <seg>- : El número de elementos por los que deseas hacer crecer la tabla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The object to deliver to the worker; this will be in the `data` field in the event delivered to the {{domxref("DedicatedWorkerGlobalScope.message_event")}} event.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221007T115518Z">
@@ -13558,6 +13566,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125414Z" creationid="gitnacho" creationdate="20221003T125414Z">
         <seg>- `no-referrer`: No se enviará el encabezado {{HTTPHeader("Referer")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `number`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233317Z" creationid="gitnacho" creationdate="20221019T233317Z">
+        <seg>- `number`</seg>
       </tuv>
     </tu>
     <tu>
@@ -27559,6 +27575,15 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the `grow()` operation fails for whatever reason, a
+{{jsxref("RangeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233403Z" creationid="gitnacho" creationdate="20221019T233403Z">
+        <seg>Si la operación `grow()` falla por cualquier motivo, se lanza un {{JSxRef("RangeError")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the `message` parameter is _not_ provided, a {{jsxref("SyntaxError")}} will be thrown by the parser.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115600Z" creationid="gitnacho" creationdate="20221007T115600Z">
@@ -35162,6 +35187,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T051909Z" creationid="gitnacho" creationdate="20220921T015617Z">
         <seg>El intento anterior, _AppCache_ parecía ser una buena idea porque te permitía especificar activos para almacenar en caché con mucha facilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The previous length of the table.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233338Z" creationid="gitnacho" creationdate="20221019T233338Z">
+        <seg>La longitud anterior de la tabla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43851,6 +43884,18 @@ getArg(exceptionTag, index)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142352Z" creationid="gitnacho" creationdate="20221019T142352Z">
         <seg>```js-nolint
 getArg(exceptionTag, index)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+grow(number)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233316Z" creationid="gitnacho" creationdate="20221019T233316Z">
+        <seg>```js-nolint
+grow(number)
 ```</seg>
       </tuv>
     </tu>
