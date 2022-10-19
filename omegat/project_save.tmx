@@ -10562,6 +10562,20 @@ original_slug: WebAssembly/JavaScript_interface/Instance
     <tu>
       <tuv lang="en-US">
         <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Instance.Instance
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T205730Z" creationid="gitnacho" creationdate="20221019T205701Z">
+        <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Instance.Instance
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Instance/Instancia
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.LinkError
 ---</seg>
       </tuv>
@@ -22177,6 +22191,23 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Warning:** Since instantiation for large modules can be expensive,
+&gt; developers should only use the `Instance()` constructor when synchronous
+&gt; instantiation is absolutely required; the asynchronous
+&gt; [`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) method should be used at all other
+&gt; times.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210129Z" creationid="gitnacho" creationdate="20221019T210129Z">
+        <seg>&gt; **Advertencia:** Dado que la creación de instancias para
+&gt; módulos grandes puede ser costosa, los desarrolladores
+&gt; solo deberían usar el constructor `Instance()` sincrónica
+&gt; cuando la creación de instancias es absolutamente
+&gt; necesaria; El método [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming) asincrónico se
+&gt; debe usar en todos los demás momentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Warning:** This attribute must not be used if the `src` attribute is absent (i.e. for inline scripts), in this case it would have no effect.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T192353Z" creationid="gitnacho" creationdate="20221003T123718Z">
@@ -32175,6 +32206,18 @@ decodificación o validación de WebAssembly.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T022730Z" creationid="gitnacho" creationdate="20221008T022705Z">
         <seg>El objeto **`WebAssembly.Exception`** representa una excepción en el entorno de ejecución lanzada desde WebAssembly a JavaScript, o lanzada desde JavaScript a un controlador de excepciones de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`WebAssembly.Instance()`** constructor creates a new
+`Instance` object which is a stateful, executable instance of a
+[`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T205759Z" creationid="gitnacho" creationdate="20221019T205759Z">
+        <seg>El constructor **`WebAssembly.Instance()`** crea un nuevo
+Objeto `Instance` que es una instancia ejecutable con estado de un
+[`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module).</seg>
       </tuv>
     </tu>
     <tu>
