@@ -27971,6 +27971,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this talk from 2015, several contributors of the MDN project look at the past ten years of [developer.mozilla.org](/), and at the decade to come.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T181510Z" creationid="gitnacho" creationdate="20221019T181510Z">
+        <seg>En esta charla de 2015, varios colaboradores del proyecto MDN analizan los últimos diez años de [developer.mozilla.org](/) y la próxima década.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial, we build a package using `wasm-pack`, a tool for building JavaScript packages in Rust.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061139Z" creationid="gitnacho" creationdate="20221004T061139Z">
@@ -39468,6 +39476,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T211248Z" creationid="gitnacho" creationdate="20220911T211248Z">
         <seg>Utiliza esta interfaz para recuperar datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will hear the story of different wiki software migrations, how a documentation community was built, and many more highlights of the history of the site.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T181904Z" creationid="gitnacho" creationdate="20221019T181904Z">
+        <seg>Escuchará la historia de diferentes migraciones de software wiki, cómo se construyó una comunidad de documentación y muchos más aspectos destacados de la historia del sitio.</seg>
       </tuv>
     </tu>
     <tu>
