@@ -4033,6 +4033,17 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Read [High level structure](https://github.com/WebAssembly/design/blob/main/BinaryEncoding.md#high-level-structure)
+for information on section structures, and how normal sections
+("known sections") and custom sections are distinguished.)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222312Z" creationid="gitnacho" creationdate="20221019T222312Z">
+        <seg>(Lee [Estructura de alto nivel](https://github.com/WebAssembly/design/blob/main/BinaryEncoding.md#high-level-structure)
+para obtener información sobre la sección estructuras y cómo se distinguen las secciones normales ("secciones conocidas") y secciones personalizadas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Use this if you want to dynamically build markup or use the results of another template that may include markup.)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070054Z" creationid="gitnacho" creationdate="20221005T070054Z">
@@ -30187,11 +30198,8 @@ sections are fully specified and validated by the wasm spec, but modules can als
 contain **custom sections** that are ignored and skipped over during
 validation.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222031Z" creationid="gitnacho" creationdate="20221019T222031Z">
-        <seg>Most of these
-sections are fully specified and validated by the wasm spec, but modules can also
-contain **custom sections** that are ignored and skipped over during
-validation.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222139Z" creationid="gitnacho" creationdate="20221019T222031Z">
+        <seg>La mayoría de estas secciones están completamente especificadas y validadas por la especificación de `wasm`, pero los módulos también pueden contener **secciones personalizadas** que se ignoran y se omiten durante la validación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37553,6 +37561,19 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T234045Z" creationid="gitnacho" creationdate="20221006T234045Z">
         <seg>Esta proporciona a WebAssembly una multitud de avances en términos de eficiencia arquitectónica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This provides developers with a way to include custom data inside wasm modules for other purposes,
+for example the [name custom section](https://github.com/WebAssembly/design/blob/main/BinaryEncoding.md#name-section),
+which allows developers to provide names for all the functions and
+locals in the module (like "symbols" in a native build).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222411Z" creationid="gitnacho" creationdate="20221019T222411Z">
+        <seg>Esto proporciona a los desarrolladores una forma de incluir datos personalizados dentro de los módulos `wasm` para otros fines, por ejemplo, la [sección personalizada `name`](https://github.com/WebAssembly/design/blob/main/BinaryEncoding.md#name-section),
+que permite a los desarrolladores proporcionar nombres para todas las funciones y
+locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
     </tu>
     <tu>
