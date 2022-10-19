@@ -8822,6 +8822,14 @@ original_slug: WebAssembly/JavaScript_interface/Exception/is
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- If the operation fails, one of</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210204Z" creationid="gitnacho" creationdate="20221019T210204Z">
+        <seg>- Si la operación falla, uno de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- If the operation fails, the promise rejects with a</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T104429Z" creationid="gitnacho" creationdate="20221006T104429Z">
@@ -9805,6 +9813,14 @@ original_slug: Web/API/NavigationPreloadManager
 reviewer: Nachec
 original_slug: MDN/Tools/KumaScript
 ---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Some browsers may throw a {{jsxref("RangeError")}}, as they prohibit compilation and instantiation of Wasm with large buffers on the UI thread.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210306Z" creationid="gitnacho" creationdate="20221019T210306Z">
+        <seg>- Algunos navegadores pueden lanzar un {{JSxRef("RangeError")}}, ya que prohíben la compilación y creación de instancias de Wasm con grandes búferes en el subproceso de la interfaz de usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39956,6 +39972,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[`WebAssembly.RuntimeError`](/en-US/docs/WebAssembly/JavaScript_interface/RuntimeError) are thrown, depending on the cause of the failure.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210231Z" creationid="gitnacho" creationdate="20221019T210231Z">
+        <seg>[`WebAssembly.RuntimeError`](/es/docs/WebAssembly/JavaScript_interface/RuntimeError), dependiendo de la causa de la falla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[`WebAssembly.RuntimeError`](/en-US/docs/WebAssembly/JavaScript_interface/RuntimeError), depending on the cause of the failure.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T104544Z" creationid="gitnacho" creationdate="20221006T104544Z">
@@ -42473,6 +42497,18 @@ new WebAssembly.Exception(tag, [param], { traceStack: true });
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204446Z" creationid="gitnacho" creationdate="20221019T204446Z">
         <seg>```js
 new WebAssembly.Exception(tag, [param], { traceStack: true });
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+new WebAssembly.Instance(module, importObject);
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210135Z" creationid="gitnacho" creationdate="20221019T210135Z">
+        <seg>```js
+new WebAssembly.Instance(module, importObject);
 ```</seg>
       </tuv>
     </tu>
