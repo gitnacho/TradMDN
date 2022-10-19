@@ -1402,8 +1402,8 @@
       <tuv lang="en-US">
         <seg>## See also</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T183531Z" creationid="gitnacho" creationdate="20220921T042627Z">
-        <seg>## Véase también</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T183908Z" creationid="gitnacho" creationdate="20220921T042627Z">
+        <seg>## See also</seg>
       </tuv>
     </tu>
     <tu>
@@ -50317,6 +50317,20 @@ original_slug: Learn/Desarrollo_web_Front-end
   - editor de texto
 reviewer: Nachec
 original_slug: Learn/Getting_started_with_the_web/Instalación_de_software_básico
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">mdn/contribute/howto/update_the_css_json_db/index.md</prop>
+      <prop type="prev">- Howto</prop>
+      <prop type="next">{{MDNSidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- MDN Meta
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T183625Z" creationid="gitnacho" creationdate="20221019T183625Z">
+        <seg>- MDN Meta
+Hola:
 ---</seg>
       </tuv>
     </tu>
