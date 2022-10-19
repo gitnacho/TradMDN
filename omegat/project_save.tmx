@@ -6997,6 +6997,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module) object whose custom sections are being</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221728Z" creationid="gitnacho" creationdate="20221019T221728Z">
+        <seg>- : El objeto [`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module) cuyas secciones personalizadas se están</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The `WebAssembly.Exception` object represents a runtime exception thrown from WebAssembly to JavaScript, or thrown from JavaScript to a WebAssembly exception handler.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T102530Z" creationid="gitnacho" creationdate="20221003T102530Z">
@@ -7317,6 +7325,14 @@ original_slug: Web/HTTP/CORS
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T071249Z" creationid="gitnacho" creationdate="20221005T071249Z">
         <seg>- : El tamaño del archivo en bytes
 - `author`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : The string name of the desired custom section.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221814Z" creationid="gitnacho" creationdate="20221019T221814Z">
+        <seg>- : La cadena con el nombre de la sección personalizada deseada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13605,6 +13621,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `sectionName`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221739Z" creationid="gitnacho" creationdate="20221019T221739Z">
+        <seg>- `sectionName`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `sh` - Bash/Shell</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174959Z" creationid="gitnacho" creationdate="20221008T174959Z">
@@ -13942,6 +13966,20 @@ original_slug: Web/API/ServiceWorkerContainer/Evento_controllerchange
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182430Z" creationid="gitnacho" creationdate="20221007T182430Z">
         <seg>- conversion
   - conversión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- customSections
+browser-compat: javascript.builtins.WebAssembly.Module.customSections
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221652Z" creationid="gitnacho" creationdate="20221019T221652Z">
+        <seg>- customSections
+browser-compat: javascript.builtins.WebAssembly.Module.customSections
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Module/customSections
+---</seg>
       </tuv>
     </tu>
     <tu>
@@ -17814,6 +17852,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.Module
 slug: WebAssembly/JavaScript_interface/Module
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Module.customSections()
+slug: WebAssembly/JavaScript_interface/Module/customSections
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221617Z" creationid="gitnacho" creationdate="20221019T221617Z">
+        <seg>---
+title: WebAssembly.Module.customSections()
+slug: WebAssembly/JavaScript_interface/Module/customSections
 tags:</seg>
       </tuv>
     </tu>
@@ -32681,6 +32733,16 @@ desde la función de inicio).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`WebAssembly.customSections()`** function returns a copy
+of the contents of all custom sections in the given module with the given string name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221710Z" creationid="gitnacho" creationdate="20221019T221710Z">
+        <seg>La función **`WebAssembly.customSections()`** devuelve una copia
+del contenido de todas las secciones personalizadas en el módulo dado con el nombre de cadena dado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`WebAssembly.instantiate()`** function allows you to
 compile and instantiate WebAssembly code.</seg>
       </tuv>
@@ -43172,6 +43234,18 @@ Promise.resolve(value)
     <tu>
       <tuv lang="en-US">
         <seg>```js-nolint
+WebAssembly.Module.customSections(module, sectionName)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221712Z" creationid="gitnacho" creationdate="20221019T221712Z">
+        <seg>```js-nolint
+WebAssembly.Module.customSections(module, sectionName)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
 WebAssembly.compile(bufferSource)
 ```</seg>
       </tuv>
@@ -44799,6 +44873,14 @@ call_indirect $my_spicy_table (type $i32_to_void)
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T102253Z" creationid="gitnacho" creationdate="20221006T102253Z">
         <seg>módulo WebAssembly compilado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>considered.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221739Z" creationid="gitnacho" creationdate="20221019T221739Z">
+        <seg>considerando.</seg>
       </tuv>
     </tu>
     <tu>
