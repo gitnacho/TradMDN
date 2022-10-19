@@ -34587,6 +34587,16 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following snippet creates a new `RuntimeError` instance, and logs its
+details to the console:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T232307Z" creationid="gitnacho" creationdate="20221019T232307Z">
+        <seg>El siguiente fragmento crea una nueva instancia de `RuntimeError` y registra su
+detalles en la consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following snippet creates a new `RuntimeError` instance, and logs its details to the console:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080849Z" creationid="gitnacho" creationdate="20221008T080849Z">
@@ -43916,6 +43926,26 @@ new WebAssembly.Module(bufferSource)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231434Z" creationid="gitnacho" creationdate="20221019T231434Z">
         <seg>```js-nolint
 new WebAssembly.Module(bufferSource)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+new WebAssembly.RuntimeError()
+new WebAssembly.RuntimeError(message)
+new WebAssembly.RuntimeError(message, options)
+new WebAssembly.RuntimeError(message, fileName)
+new WebAssembly.RuntimeError(message, fileName, lineNumber)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T232253Z" creationid="gitnacho" creationdate="20221019T232253Z">
+        <seg>```js-nolint
+new WebAssembly.RuntimeError()
+new WebAssembly.RuntimeError(message)
+new WebAssembly.RuntimeError(message, options)
+new WebAssembly.RuntimeError(message, fileName)
+new WebAssembly.RuntimeError(message, fileName, lineNumber)
 ```</seg>
       </tuv>
     </tu>
