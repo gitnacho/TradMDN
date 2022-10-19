@@ -31601,6 +31601,14 @@ decodificación o validación de WebAssembly.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`WebAssembly.Exception()`** constructor is used to create a new [`WebAssembly.Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135838Z" creationid="gitnacho" creationdate="20221019T135838Z">
+        <seg>El constructor **`WebAssembly.Exception()`** se utiliza para crear una nueva [`WebAssembly.Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`WebAssembly.Exception`** object represents a runtime exception thrown from WebAssembly to JavaScript, or thrown from JavaScript to a WebAssembly exception handler.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T022730Z" creationid="gitnacho" creationdate="20221008T022705Z">
@@ -32491,6 +32499,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The constructor accepts a [`Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) argument and a `payload` array of data fields.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135910Z" creationid="gitnacho" creationdate="20221019T135910Z">
+        <seg>El constructor acepta un argumento [`Tag`](/es/docs/WebAssembly/JavaScript_interface/Exception) y un arreglo `payload` de campos de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The constructor may then return an exception with a stack trace attached to the [`stack`](/en-US/docs/WebAssembly/JavaScript_interface/Exception/stack) property.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023002Z" creationid="gitnacho" creationdate="20221008T023002Z">
@@ -32535,6 +32551,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115334Z" creationid="gitnacho" creationdate="20221007T115334Z">
         <seg>Los datos pueden ser cualquier valor u objeto JavaScript manejado por el algoritmo [clon estructurado](/es/docs/Web/API/Web_Workers_API/Structured_clone_algorithm), que incluye referencias cíclicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data types of each of the payload elements must match the corresponding data type specified in the `Tag`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140011Z" creationid="gitnacho" creationdate="20221019T140011Z">
+        <seg>Los tipos de datos de cada uno de los elementos de la carga útil —`payload`— deben coincidir con el tipo de datos correspondiente especificado en la etiqueta — `Tag`.</seg>
       </tuv>
     </tu>
     <tu>
