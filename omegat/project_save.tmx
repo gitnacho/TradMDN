@@ -2352,6 +2352,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Getting exception value from an exported tag</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143128Z" creationid="gitnacho" creationdate="20221019T143128Z">
+        <seg>### Obtener valor de excepción de una etiqueta exportada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Getting exception value from imported tag</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142718Z" creationid="gitnacho" creationdate="20221019T142718Z">
@@ -4397,6 +4405,14 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072033Z" creationid="gitnacho" creationdate="20221007T072033Z">
         <seg>(table 2 funcref)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(tag $tagname (export "exptag") (param i32))</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143203Z" creationid="gitnacho" creationdate="20221019T143203Z">
+        <seg>(tag $tagname (export "exptag") (param i32))</seg>
       </tuv>
     </tu>
     <tu>
@@ -18012,6 +18028,22 @@ celda 4 | celda 5 | celda 6
       <tuv lang="en-US">
         <seg>/* Log output
 example.js:40 WebAssembly.Exception: wasm exception
+example.js:41 getArg 0 : 1
+*/
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143049Z" creationid="gitnacho" creationdate="20221019T143049Z">
+        <seg>/* Registra la salida
+example.js:40 WebAssembly.Exception: wasm exception
+example.js:41 getArg 0 : 1
+*/
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Log output
+example.js:40 WebAssembly.Exception: wasm exception
 example.js:41 getArg 0 : 42
 */
 ```</seg>
@@ -18270,6 +18302,14 @@ console.log(y[0]); // 21</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// If the tag is correct, get the value</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143307Z" creationid="gitnacho" creationdate="20221019T143307Z">
+        <seg>// Si la etiqueta es correcta, obtener el valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// If there is an entry in the cache for event.request, then response will be defined</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T204225Z" creationid="gitnacho" creationdate="20221003T204225Z">
@@ -18282,6 +18322,14 @@ console.log(y[0]); // 21</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T211216Z" creationid="gitnacho" creationdate="20221003T204110Z">
         <seg>// Si este nombre de caché no está presente en el conjunto de nombres de caché "esperados", lo elimina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Import the tag using its name from the WebAssembly module</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143300Z" creationid="gitnacho" creationdate="20221019T143300Z">
+        <seg>// Importa la etiqueta usando su nombre del módulo WebAssembly</seg>
       </tuv>
     </tu>
     <tu>
@@ -19185,6 +19233,14 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023339Z" creationid="gitnacho" creationdate="20221008T023339Z">
         <seg>;; La función $throwException lanza el parámetro i32 como una excepción $tagname</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; Export tag giving it external name: "exptag"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143200Z" creationid="gitnacho" creationdate="20221019T143200Z">
+        <seg>;; Etiqueta de exportación dándole un nombre externo: "exptag"</seg>
       </tuv>
     </tu>
     <tu>
@@ -26029,6 +26085,14 @@ Connection: Keep-Alive
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here is the same WebAssembly module, simply replacing the import with an export.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143152Z" creationid="gitnacho" creationdate="20221019T143152Z">
+        <seg>Aquí está el mismo módulo WebAssembly, simplemente reemplazando la importación con una exportación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here we add an `install` event listener to the service worker (hence `self`), and then chain a {{domxref("ExtendableEvent.waitUntil()") }} method onto the event — this ensures that the service worker will not install until the code inside `waitUntil()` has successfully occurred.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T034458Z">
@@ -27696,6 +27760,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this case, it is just "1".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143120Z" creationid="gitnacho" creationdate="20221019T143120Z">
+        <seg>En este caso, es solo "1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this case, it's not modifying an `extern` block, but a `fn`; this means that we want this Rust function to be able to be called by JavaScript.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063229Z" creationid="gitnacho" creationdate="20221004T063229Z">
@@ -27716,6 +27788,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035445Z" creationid="gitnacho" creationdate="20220921T035445Z">
         <seg>En este caso, solo estamos devolviendo una cadena de texto simple:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, we have no imports, but instead we get the exported tag and use that to get the argument.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143222Z" creationid="gitnacho" creationdate="20221019T143222Z">
+        <seg>En este caso, no tenemos importaciones, sino que obtenemos la etiqueta exportada y la usamos para obtener el argumento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32093,6 +32173,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The JavaScript is similar too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143209Z" creationid="gitnacho" creationdate="20221019T143209Z">
+        <seg>El JavaScript también es similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Service worker will now control pages, but only those opened after the `register()` is successful.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T213847Z" creationid="gitnacho" creationdate="20220921T023118Z">
@@ -32701,6 +32789,14 @@ función exportada contenida.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210949Z" creationid="gitnacho" creationdate="20220922T210949Z">
         <seg>El siguiente código muestra cómo establecer el valor de la directiva `header` en alguna variable `newValue`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The code catches the exception and uses `getArg()` to print the value at the first index.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143107Z" creationid="gitnacho" creationdate="20221019T143107Z">
+        <seg>El código captura la excepción y usa `getArg()` para imprimir el valor en el primer índice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33797,6 +33893,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T065213Z" creationid="gitnacho" creationdate="20221007T065213Z">
         <seg>El problema es que los únicos tipos que tenemos para dar operandos en WebAssembly (actualmente) son `i32`/`i64`/`f32`/`f64`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The process for using an exported tag is very similar to that shown in the previous section.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143138Z" creationid="gitnacho" creationdate="20221019T143138Z">
+        <seg>El proceso para usar una etiqueta exportada es muy similar al que se muestra en la sección anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36948,6 +37052,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To make it a little more "safe", here we also test that we have the right tag using the [`is()` method](/en-US/docs/WebAssembly/JavaScript_interface/Exception/is).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143239Z" creationid="gitnacho" creationdate="20221019T143239Z">
+        <seg>Para hacerlo un poco más "seguro", aquí también probamos que tenemos la etiqueta correcta usando el método [`is()`](/es/docs/WebAssembly/JavaScript_interface/Exception/is).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To prove that it worked, turn your result buffer into a blob and use it on an `&lt;img&gt;` element:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T055213Z" creationid="gitnacho" creationdate="20221004T055213Z">
@@ -37986,6 +38098,14 @@ que es exportada por la `Instance`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T111440Z" creationid="gitnacho" creationdate="20221007T111440Z">
         <seg>WebAssembly.instantiate(mod, importObject).then((instance) =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WebAssembly.instantiateStreaming(fetch("example.wasm"))</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143242Z" creationid="gitnacho" creationdate="20221019T143242Z">
+        <seg>WebAssembly.instantiateStreaming(fetch("example.wasm"))</seg>
       </tuv>
     </tu>
     <tu>
@@ -41813,6 +41933,16 @@ if (registration.installing) {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+let tagExportedFromWasm;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143239Z" creationid="gitnacho" creationdate="20221019T143239Z">
+        <seg>```js
+let tagExportedFromWasm;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 memory.buffer; // returns SharedArrayBuffer
 ```</seg>
       </tuv>
@@ -43802,6 +43932,14 @@ console.log(ClassWithStaticField.staticField);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T043701Z" creationid="gitnacho" creationdate="20221004T043701Z">
         <seg>console.log(`${url} guardado con éxito en la caché de wasm`);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>console.log(`getArg 0 : ${e.getArg(tagExportedFromWasm, 0)}`);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143310Z" creationid="gitnacho" creationdate="20221019T143310Z">
+        <seg>console.log(`getArg 0 : ${e.getArg(tagExportedFromWasm, 0)}`);</seg>
       </tuv>
     </tu>
     <tu>
@@ -46117,6 +46255,14 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T043411Z" creationid="gitnacho" creationdate="20221004T043411Z">
         <seg>if (db.objectStoreNames.contains(storeName)) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>if (e.is(tagExportedFromWasm)) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143308Z" creationid="gitnacho" creationdate="20221019T143308Z">
+        <seg>if (e.is(tagExportedFromWasm)) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -48483,6 +48629,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074329Z" creationid="gitnacho" creationdate="20221007T074329Z">
         <seg>table: new WebAssembly.Table({ initial: 1, element: "anyfunc" }),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tagExportedFromWasm = obj.instance.exports.exptag;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143301Z" creationid="gitnacho" creationdate="20221019T143301Z">
+        <seg>tagExportedFromWasm = obj.instance.exports.exptag;</seg>
       </tuv>
     </tu>
     <tu>
