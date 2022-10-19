@@ -5081,6 +5081,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : An [`WebAssembly.Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag) defining the data types expected for each of the values in the `payload`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140306Z" creationid="gitnacho" creationdate="20221019T140306Z">
+        <seg>- : Una [`WebAssembly.Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) que define los tipos de datos esperados para cada uno de los valores en la carga útil — `payload`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : An accessor property that returns the buffer contained in the memory.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000330Z" creationid="gitnacho" creationdate="20221008T000330Z">
@@ -5103,6 +5111,14 @@ original_slug: Web/HTTP/CORS
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070908Z" creationid="gitnacho" creationdate="20221005T070908Z">
         <seg>- : Un arreglo con la lista de nombres de etiquetas para el documento MDN actual
 - `env.modified`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : An array of one or more data fields comprising the payload of the exception.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140328Z" creationid="gitnacho" creationdate="20221019T140328Z">
+        <seg>- : Un arreglo de uno o más campos de datos que comprende la carga útil de la excepción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13117,6 +13133,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `payload`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140307Z" creationid="gitnacho" creationdate="20221019T140307Z">
+        <seg>- `payload`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `php` - PHP</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174808Z" creationid="gitnacho" creationdate="20221008T174808Z">
@@ -13259,6 +13283,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074724Z" creationid="gitnacho" creationdate="20221007T074724Z">
         <seg>- `table.init`: Copia una región de un segmento de elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `tag`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140227Z" creationid="gitnacho" creationdate="20221019T140227Z">
+        <seg>- `tag`</seg>
       </tuv>
     </tu>
     <tu>
@@ -32193,6 +32225,14 @@ función exportada contenida.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `options.traceStack` property can be set `true` (by default it is `false`) to indicate that a WASM stack trace may be attached to the exception's [`stack`](/en-US/docs/WebAssembly/JavaScript_interface/Exception/stack) property.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140222Z" creationid="gitnacho" creationdate="20221019T140222Z">
+        <seg>La propiedad `options.traceStack` se puede configurar como `true` (de manera predeterminada, `false`) para indicar que se puede adjuntar un seguimiento de la pila WASM a la excepción de la Propiedad [`stack`](/es/docs/WebAssembly/JavaScript_interface/Exception/stack).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `putInCache` function uses `caches.open('v1')` and `cache.put()` to add the resource to the cache.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040247Z" creationid="gitnacho" creationdate="20220921T040247Z">
@@ -32503,6 +32543,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135910Z" creationid="gitnacho" creationdate="20221019T135910Z">
         <seg>El constructor acepta un argumento [`Tag`](/es/docs/WebAssembly/JavaScript_interface/Exception) y un arreglo `payload` de campos de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The constructor may also take an `options` object.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140025Z" creationid="gitnacho" creationdate="20221019T140025Z">
+        <seg>El constructor también puede tomar un objeto `options`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41665,6 +41713,20 @@ get(index)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091638Z" creationid="gitnacho" creationdate="20221006T091638Z">
         <seg>```js-nolint
 get(index)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+new Exception(tag, payload)
+new Exception(tag, payload, options)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140226Z" creationid="gitnacho" creationdate="20221019T140226Z">
+        <seg>```js-nolint
+new Exception(tag, payload)
+new Exception(tag, payload, options)
 ```</seg>
       </tuv>
     </tu>
