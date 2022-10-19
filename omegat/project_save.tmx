@@ -10940,6 +10940,20 @@ original_slug: WebAssembly/JavaScript_interface/RuntimeError/RuntimeError
     <tu>
       <tuv lang="en-US">
         <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Table.Table
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T235907Z" creationid="gitnacho" creationdate="20221019T235907Z">
+        <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Table.Table
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Table/Table
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Tag
 ---</seg>
       </tuv>
@@ -18152,6 +18166,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.Table
 slug: WebAssembly/JavaScript_interface/Table
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Table() constructor
+slug: WebAssembly/JavaScript_interface/Table/Table
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T235624Z" creationid="gitnacho" creationdate="20221019T235624Z">
+        <seg>---
+title: Constructor WebAssembly.Table()
+slug: WebAssembly/JavaScript_interface/Table/Table
 tags:</seg>
       </tuv>
     </tu>
