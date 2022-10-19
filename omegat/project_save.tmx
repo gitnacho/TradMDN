@@ -14418,6 +14418,16 @@ original_slug: WebAssembly/Conceptos
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Allow")}} header
+- [CORS](/en-US/docs/Web/HTTP/CORS)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T133741Z" creationid="gitnacho" creationdate="20221019T133741Z">
+        <seg>- {{HTTPHeader("Allow")}} header
+- [CORS](/en-US/docs/Web/HTTP/CORS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{HTTPHeader("Content-Language")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220454Z" creationid="gitnacho" creationdate="20221011T220454Z">
@@ -49420,11 +49430,9 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
         <seg>- Security
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T071335Z" creationid="gitnacho" creationdate="20221019T071335Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134019Z" creationid="gitnacho" creationdate="20221019T071335Z">
         <seg>- Security
   - Seguridad
-translation_of: HTTPS
-translator: ?
 reviewer: Nachec
 original_slug: Glossary/https
 ---</seg>
@@ -49438,11 +49446,9 @@ original_slug: Glossary/https
         <seg>- origin
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T072320Z" creationid="gitnacho" creationdate="20221019T072230Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134025Z" creationid="gitnacho" creationdate="20221019T072230Z">
         <seg>- origin
   - origen
-translation_of: Glossary/Origin
-translator: ?
 reviewer: Nachec
 original_slug: Glossary/Origen
 ---</seg>
@@ -49456,11 +49462,9 @@ original_slug: Glossary/Origen
         <seg>- Web Standards
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T070815Z" creationid="gitnacho" creationdate="20221019T070815Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134030Z" creationid="gitnacho" creationdate="20221019T070815Z">
         <seg>- Web Standards
   - Estándares Web
-translation_of: Learn/Front-end_web_developer
-translator: ?
 reviewer: Nachec
 original_slug: Learn/Desarrollo_web_Front-end
 ---</seg>
@@ -49703,11 +49707,10 @@ original_slug: Web
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T105701Z" creationid="gitnacho" creationdate="20221019T105701Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T133838Z" creationid="gitnacho" creationdate="20221019T105701Z">
         <seg>- wasm
-translation_of: WebAssembly/C_to_wasm
 reviewer: Nachec
-original_slug: WebAssembly/C_to_wasm
+original_slug: WebAssembly/C_a_wasm
 ---</seg>
       </tuv>
     </tu>
