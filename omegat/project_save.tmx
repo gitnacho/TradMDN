@@ -26578,6 +26578,16 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, the preferred way to get an `Instance` is through the asynchronous
+[`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) function, for example like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210425Z" creationid="gitnacho" creationdate="20221019T210425Z">
+        <seg>Sin embargo, la forma preferida de obtener una `Instance` es a través del modo asíncrono
+[`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming), por ejemplo, así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the server still must opt-in using {{HTTPHeader("Access-Control-Allow-Origin")}} to _share_ the response with the script.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220328Z" creationid="gitnacho" creationdate="20221011T220328Z">
@@ -32738,6 +32748,16 @@ función exportada contenida.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T212302Z" creationid="gitnacho" creationdate="20221003T212253Z">
         <seg>La interfaz `ServiceWorker` recibe un conjunto de eventos del ciclo de vida, `install` y `activate` — y eventos funcionales que incluyen `fetch`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `WebAssembly.Instance()` constructor function can be called to
+synchronously instantiate a given [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module) object, for example:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210337Z" creationid="gitnacho" creationdate="20221019T210337Z">
+        <seg>Se puede llamar a la función constructora `WebAssembly.Instance()` para
+instanciar sincrónicamente un objeto [`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module) dado, por ejemplo:</seg>
       </tuv>
     </tu>
     <tu>
