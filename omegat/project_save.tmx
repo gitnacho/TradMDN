@@ -33738,6 +33738,16 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following snippet creates a new `LinkError` instance, and logs its
+details to the console:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T211648Z" creationid="gitnacho" creationdate="20221019T211648Z">
+        <seg>El siguiente fragmento crea una nueva instancia `LinkError` y registra sus
+detalles en la consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following snippet creates a new `LinkError` instance, and logs its details to the console:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075308Z" creationid="gitnacho" creationdate="20221008T075308Z">
@@ -42791,6 +42801,26 @@ new WebAssembly.Global(descriptor, value)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110501Z" creationid="gitnacho" creationdate="20221007T110501Z">
         <seg>```js-nolint
 new WebAssembly.Global(descriptor, value)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+new WebAssembly.LinkError()
+new WebAssembly.LinkError(message)
+new WebAssembly.LinkError(message, options)
+new WebAssembly.LinkError(message, fileName)
+new WebAssembly.LinkError(message, fileName, lineNumber)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T211630Z" creationid="gitnacho" creationdate="20221019T211630Z">
+        <seg>```js-nolint
+new WebAssembly.LinkError()
+new WebAssembly.LinkError(message)
+new WebAssembly.LinkError(message, options)
+new WebAssembly.LinkError(message, fileName)
+new WebAssembly.LinkError(message, fileName, lineNumber)
 ```</seg>
       </tuv>
     </tu>
