@@ -39692,8 +39692,8 @@ instance from it using the [`WebAssembly.Instantiate()`](/en-US/docs/WebAssembly
 exported function from inside it, then show how we can return information on the
 available exports on a module using `WebAssembly.Module.exports`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225037Z" creationid="gitnacho" creationdate="20221019T225037Z">
-        <seg>Cuando se recibe el módulo, creamos una instancia de él usando el método [`WebAssembly.Instantiate()`](/es/docs/WebAssembly/JavaScript_interface/Instantiate), invoca una función exportada desde dentro, luego muestra cómo podemos devolver información sobre las `export`s disponibles en un módulo usando `WebAssembly.Module.exports`.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225612Z" creationid="gitnacho" creationdate="20221019T225037Z">
+        <seg>Cuando se recibe el módulo, creamos una instancia de él usando el método [`WebAssembly.Instantiate()`](/es/docs/WebAssembly/JavaScript_interface/instantiate), invoca una función exportada desde dentro, luego muestra cómo podemos devolver información sobre las `export`s disponibles en un módulo usando `WebAssembly.Module.exports`.</seg>
       </tuv>
     </tu>
     <tu>
