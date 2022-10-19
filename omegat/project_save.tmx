@@ -19231,9 +19231,9 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
       <tuv lang="en-US">
         <seg>;; $throwException function throws i32 param as a $tagname exception</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143857Z" creationid="gitnacho" creationdate="20221008T023339Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143944Z" creationid="gitnacho" creationdate="20221008T023339Z">
         <seg>;; La función $throwException lanza el parámetro i32
-;; como una excepción $tagname</seg>
+  ;; como una excepción $tagname</seg>
       </tuv>
     </tu>
     <tu>
@@ -19256,9 +19256,9 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
       <tuv lang="en-US">
         <seg>;; import tag that will be referred to here as $tagname</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143905Z" creationid="gitnacho" creationdate="20221008T023328Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143941Z" creationid="gitnacho" creationdate="20221008T023328Z">
         <seg>;; importa la etiqueta a la que nos referiremos
-;; aquí como $tagname</seg>
+  ;; aquí como $tagname</seg>
       </tuv>
     </tu>
     <tu>
