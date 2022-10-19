@@ -17891,6 +17891,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: WebAssembly.Module.exports()
+slug: WebAssembly/JavaScript_interface/Module/exports
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T224504Z" creationid="gitnacho" creationdate="20221019T224504Z">
+        <seg>---
+title: WebAssembly.Module.exports()
+slug: WebAssembly/JavaScript_interface/Module/exports
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: WebAssembly.RuntimeError
 slug: WebAssembly/JavaScript_interface/RuntimeError
 tags:</seg>
