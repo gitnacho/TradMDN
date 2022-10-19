@@ -10675,6 +10675,20 @@ original_slug: WebAssembly/JavaScript_interface/Memoria
     <tu>
       <tuv lang="en-US">
         <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Memory.Memory
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214957Z" creationid="gitnacho" creationdate="20221019T214957Z">
+        <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Memory.Memory
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Memory/Memoria
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Module
 ---</seg>
       </tuv>
@@ -17632,6 +17646,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.Memory
 slug: WebAssembly/JavaScript_interface/Memory
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Memory() constructor
+slug: WebAssembly/JavaScript_interface/Memory/Memory
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214852Z" creationid="gitnacho" creationdate="20221019T214852Z">
+        <seg>---
+title: WebAssembly.Memory() constructor
+slug: WebAssembly/JavaScript_interface/Memory/Memory
 tags:</seg>
       </tuv>
     </tu>
