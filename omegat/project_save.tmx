@@ -4981,6 +4981,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A property indicating the specific cause of the error.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135012Z" creationid="gitnacho" creationdate="20221019T135012Z">
+        <seg>- : Una propiedad que indica la causa específica del error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A reference to the currently registered target for the event.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T201121Z" creationid="gitnacho" creationdate="20221011T201121Z">
@@ -5131,6 +5139,14 @@ original_slug: Web/HTTP/CORS
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101857Z" creationid="gitnacho" creationdate="20221006T101857Z">
         <seg>- : Un objeto que contiene los valores que se importarán en la recién creada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : An object that has the following properties:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135005Z" creationid="gitnacho" creationdate="20221019T135005Z">
+        <seg>- : Un objeto que tiene las siguientes propiedades:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5803,6 +5819,14 @@ original_slug: Web/HTTP/CORS
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T065231Z" creationid="gitnacho" creationdate="20221012T062827Z">
         <seg>- : El funcionamiento de las *cookies* se define en [RFC 6265](https://datatracker.ietf.org/doc/html/rfc6265).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Human-readable description of the error.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134956Z" creationid="gitnacho" creationdate="20221019T134956Z">
+        <seg>- : Descripción del error legible por humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6995,6 +7019,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The line number of the code that caused the exception.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135041Z" creationid="gitnacho" creationdate="20221019T135041Z">
+        <seg>- : El número de línea del código que provocó la excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The locale of the current MDN document
 - `env.title`</seg>
       </tuv>
@@ -7009,6 +7041,14 @@ original_slug: Web/HTTP/CORS
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T225100Z" creationid="gitnacho" creationdate="20220921T225100Z">
         <seg>- : El nombre de la caché que deseas abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : The name of the file containing the code that caused the exception.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135031Z" creationid="gitnacho" creationdate="20221019T135031Z">
+        <seg>- : El nombre del archivo que contiene el código que provocó la excepción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12505,6 +12545,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `cause` {{optional_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135007Z" creationid="gitnacho" creationdate="20221019T135007Z">
+        <seg>- `cause` {{optional_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `clike` - C-like (for any C-like language not defined)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174801Z" creationid="gitnacho" creationdate="20221008T174801Z">
@@ -12609,6 +12657,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110605Z" creationid="gitnacho" creationdate="20221007T110605Z">
         <seg>- `f64`: Un número de coma flotante de 64 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `fileName` {{optional_inline}} {{non-standard_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135024Z" creationid="gitnacho" creationdate="20221019T135024Z">
+        <seg>- `fileName` {{optional_inline}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12869,6 +12925,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `lineNumber` {{optional_inline}} {{non-standard_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135033Z" creationid="gitnacho" creationdate="20221019T135033Z">
+        <seg>- `lineNumber` {{optional_inline}} {{non-standard_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `log.debug(string)`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072715Z" creationid="gitnacho" creationdate="20221005T072715Z">
@@ -12943,6 +13007,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `message` {{optional_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134928Z" creationid="gitnacho" creationdate="20221019T134928Z">
+        <seg>- `message` {{optional_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `module`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T191319Z" creationid="gitnacho" creationdate="20221007T191319Z">
@@ -12995,6 +13067,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125414Z" creationid="gitnacho" creationdate="20221003T125414Z">
         <seg>- `no-referrer`: No se enviará el encabezado {{HTTPHeader("Referer")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `options` {{optional_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134957Z" creationid="gitnacho" creationdate="20221019T134957Z">
+        <seg>- `options` {{optional_inline}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32831,6 +32911,16 @@ obtiene un módulo `.wasm` y lo convierte en un arreglo tipado.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following snippet creates a new `CompileError` instance, and logs its
+details to the console:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135106Z" creationid="gitnacho" creationdate="20221019T135106Z">
+        <seg>El siguiente fragmento crea una nueva instancia de `CompileError` y registra su
+detalles en la consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following snippet creates a new `CompileError` instance, and logs its details to the console:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T064721Z" creationid="gitnacho" creationdate="20221008T025651Z">
@@ -37806,6 +37896,14 @@ que es exportada por la `Instance`.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When catching and re-throwing an error with a more-specific or useful error message, this property can be used to pass the original error.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135023Z" creationid="gitnacho" creationdate="20221019T135023Z">
+        <seg>Al capturar y volver a generar un error con un mensaje de error más específico o útil, esta propiedad se puede usar para pasar el error original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When creating a [`WebAssembly.Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception), the tag defines the data types and order of the values carried by the exception.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T015032Z" creationid="gitnacho" creationdate="20221008T015032Z">
@@ -41529,6 +41627,26 @@ get(index)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091638Z" creationid="gitnacho" creationdate="20221006T091638Z">
         <seg>```js-nolint
 get(index)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+new WebAssembly.CompileError()
+new WebAssembly.CompileError(message)
+new WebAssembly.CompileError(message, options)
+new WebAssembly.CompileError(message, fileName)
+new WebAssembly.CompileError(message, fileName, lineNumber)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134923Z" creationid="gitnacho" creationdate="20221019T134923Z">
+        <seg>```js-nolint
+new WebAssembly.CompileError()
+new WebAssembly.CompileError(message)
+new WebAssembly.CompileError(message, options)
+new WebAssembly.CompileError(message, fileName)
+new WebAssembly.CompileError(message, fileName, lineNumber)
 ```</seg>
       </tuv>
     </tu>
