@@ -18359,6 +18359,30 @@ console.log(y[0]); // 21</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Log output:
+// Tag1: true
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144555Z" creationid="gitnacho" creationdate="20221019T144555Z">
+        <seg>// Registra la salida:
+// Tag1: true
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Log output:
+// Tag2: false
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144436Z" creationid="gitnacho" creationdate="20221019T144436Z">
+        <seg>// Registra la salida:
+// Tag2: false
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Make canvas same size as image</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T054128Z" creationid="gitnacho" creationdate="20221004T054128Z">
@@ -18538,6 +18562,16 @@ const thenable = {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T205021Z" creationid="gitnacho" creationdate="20221003T205021Z">
         <seg>// Este catch() manejará las excepciones que surjan de las operaciones match() o fetch().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Verify that "tag1" matches this exception
+console.log(`Tag1: ${exception1.is(tag1)}`);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144622Z" creationid="gitnacho" creationdate="20221019T144622Z">
+        <seg>// Verifica que "tag1" coincida con esta excepción
+console.log(`Tag1: ${exception1.is(tag1)}`);</seg>
       </tuv>
     </tu>
     <tu>
@@ -37551,6 +37585,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can also demonstrate that this exception will not match another tag even if the tag is created with the same parameters.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144542Z" creationid="gitnacho" creationdate="20221019T144542Z">
+        <seg>También podemos demostrar que esta excepción no coincidirá con otra etiqueta, incluso si la etiqueta se crea con los mismos parámetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can see it is of type `WebAssembly.Exception`, but if we didn't have the right tag we couldn't do much else.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023608Z" creationid="gitnacho" creationdate="20221008T023608Z">
@@ -40924,6 +40966,21 @@ Vary: Accept, Width, ECT
     <tu>
       <tuv lang="en-US">
         <seg>```js
+// Create a new tag (with same parameters) and verify it does not match the exception
+const tag2 = new WebAssembly.Tag({ parameters: ["i32", "f64"] });
+console.log(`Tag2: ${exception1.is(tag2)}`);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144532Z" creationid="gitnacho" creationdate="20221019T144532Z">
+        <seg>```js
+// Crea una nueva etiqueta (con los mismos parámetros) y verifica que
+// no coincida con la excepción
+const tag2 = new WebAssembly.Tag({ parameters: ["i32", "f64"] });
+console.log(`Tag2: ${exception1.is(tag2)}`);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 // Create tag and use it to create an exception
 const tag = new WebAssembly.Tag({ parameters: ["i32", "f32"] });
 const exception = new WebAssembly.Exception(tag, [42, 42.3]);
@@ -40935,6 +40992,20 @@ const exception = new WebAssembly.Exception(tag, [42, 42.3]);
 const tag = new WebAssembly.Tag({ parameters: ["i32", "f32"] });
 const exception = new WebAssembly.Exception(tag, [42, 42.3]);
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+// Create tag and use it to create an exception
+const tag1 = new WebAssembly.Tag({ parameters: ["i32", "f64"] });
+const exception1 = new WebAssembly.Exception(tag1, [42, 42.3]);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144659Z" creationid="gitnacho" creationdate="20221019T144659Z">
+        <seg>```js
+// Crea una etiqueta y la usa para crear una excepción
+const tag1 = new WebAssembly.Tag({ parameters: ["i32", "f64"] });
+const exception1 = new WebAssembly.Exception(tag1, [42, 42.3]);</seg>
       </tuv>
     </tu>
     <tu>
