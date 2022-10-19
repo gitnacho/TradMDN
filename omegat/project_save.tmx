@@ -33436,6 +33436,14 @@ instanciar sincrónicamente un objeto [`WebAssembly.Module`](/es/docs/WebAssembl
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `exports[0]` output looks like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225054Z" creationid="gitnacho" creationdate="20221019T225054Z">
+        <seg>La salida `exports[0]` se ve así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `fetch` event handler calls {{domxref("FetchEvent.respondWith", "FetchEvent.respondWith()")}} to pass a promise back to the controlled page.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T210402Z">
@@ -43377,6 +43385,18 @@ try {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```js
+{ name: "exported_func", kind: "function" }
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225056Z" creationid="gitnacho" creationdate="20221019T225056Z">
+        <seg>```js
+{ name: "exported_func", kind: "function" }
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>```js example-bad
 const greeting = "I'm a bad example";
 ```</seg>
@@ -45654,6 +45674,18 @@ console.log(`original === cast ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>console.log(exports[0]);
+};
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225041Z" creationid="gitnacho" creationdate="20221019T225041Z">
+        <seg>console.log(exports[0]);
+};
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>console.log(i);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20200815T075847Z" creationid="nacho" creationdate="20200815T075847Z">
@@ -46180,6 +46212,14 @@ console.log(`original === cast ?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T204032Z" creationid="gitnacho" creationdate="20221003T204032Z">
         <seg>const expectedCacheNamesSet = new Set(Object.values(CURRENT_CACHES));</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>const exports = WebAssembly.Module.exports(mod);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225040Z" creationid="gitnacho" creationdate="20221019T225040Z">
+        <seg>const exports = WebAssembly.Module.exports(mod);</seg>
       </tuv>
     </tu>
     <tu>
