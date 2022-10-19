@@ -9321,6 +9321,20 @@ browser-compat: http.headers.X-XSS-Protection
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Non-standard
+browser-compat: javascript.builtins.WebAssembly.Exception.stack
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145819Z" creationid="gitnacho" creationdate="20221019T145819Z">
+        <seg>- Non-standard
+browser-compat: javascript.builtins.WebAssembly.Exception.stack
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Exception/stack
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Numeric</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091416Z" creationid="gitnacho" creationdate="20221007T091416Z">
@@ -13955,6 +13969,15 @@ original_slug: Web/API/Worker/postMessage
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T044822Z" creationid="gitnacho" creationdate="20221007T044822Z">
         <seg>- shared address
   - dirección compartida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- stack</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145627Z" creationid="gitnacho" creationdate="20221019T145627Z">
+        <seg>- stack
+  - pila</seg>
       </tuv>
     </tu>
     <tu>
