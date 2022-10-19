@@ -34200,6 +34200,17 @@ compila el código de bytes `simple.wasm` cargado usando el método
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following example (see our [index-compile.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/index-compile.html)
+demo on GitHub, and [view it live](https://mdn.github.io/webassembly-examples/js-api-examples/index-compile.html) also)
+compiles the loaded simple.wasm byte code using the
+[`WebAssembly.compileStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/compileStreaming) method and then sends it to a [worker](/en-US/docs/Web/API/Web_Workers_API) using [postMessage()](/en-US/docs/Web/API/Worker/postMessage).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T224922Z" creationid="gitnacho" creationdate="20221019T224922Z">
+        <seg>El siguiente ejemplo (consulta nuestra demostración [index-compile.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/index-compile.html) en GitHub, y también la puedes [ver en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/index-compile.html)) compila el código de bytes `simple.wasm` cargado usando el [`WebAssembly.compileStreaming()`](/es/docs/WebAssembly/JavaScript_interface/compileStreaming) y luego lo envía a un [*worker*](/es/docs/Web/API/Web_Workers_API) usando [postMessage()](/es/docs/Web/API/Worker/postMessage).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following example (see our [instantiate-streaming.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/instantiate-streaming.html)
 demo on GitHub, and [view it live](https://mdn.github.io/webassembly-examples/js-api-examples/instantiate-streaming.html) also)
 directly streams a .wasm module from an underlying source then
@@ -39664,6 +39675,17 @@ que es exportada por la `Instance`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T213847Z" creationid="gitnacho" creationdate="20220921T023001Z">
         <seg>Cuando se completa el controlador `oninstall`, se considera que el *service worker* está instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the module is received, we create an
+instance from it using the [`WebAssembly.Instantiate()`](/en-US/docs/WebAssembly/JavaScript_interface/Instantiate) method, invoke an
+exported function from inside it, then show how we can return information on the
+available exports on a module using `WebAssembly.Module.exports`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225037Z" creationid="gitnacho" creationdate="20221019T225037Z">
+        <seg>Cuando se recibe el módulo, creamos una instancia de él usando el método [`WebAssembly.Instantiate()`](/es/docs/WebAssembly/JavaScript_interface/Instantiate), invoca una función exportada desde dentro, luego muestra cómo podemos devolver información sobre las `export`s disponibles en un módulo usando `WebAssembly.Module.exports`.</seg>
       </tuv>
     </tu>
     <tu>
