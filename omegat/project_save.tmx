@@ -4817,6 +4817,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A [`WebAssembly.Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag) that must match the tag associated with this exception.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142418Z" creationid="gitnacho" creationdate="20221019T142418Z">
+        <seg>- : Una [`WebAssembly.Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) que debe coincidir con la etiqueta asociada con esta excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A [typed array](/en-US/docs/Web/JavaScript/Typed_arrays) or</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193444Z" creationid="gitnacho" creationdate="20221007T193444Z">
@@ -7035,6 +7043,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The index of the value in the data arguments to return, 0-indexed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142520Z" creationid="gitnacho" creationdate="20221019T142520Z">
+        <seg>- : El índice del valor en los argumentos de datos a devolver, indexado en base 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The initial state of a service worker after it is downloaded and confirmed to be runnable.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223354Z" creationid="gitnacho" creationdate="20221003T223354Z">
@@ -7185,6 +7201,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The tags don't match; the exception was not created with the tag passed to the method.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142552Z" creationid="gitnacho" creationdate="20221019T142552Z">
+        <seg>- : Las etiquetas no coinciden; la excepción no se creó con la etiqueta pasada al método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The time at which the event was created (in milliseconds).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T204607Z" creationid="gitnacho" creationdate="20221011T204607Z">
@@ -7217,6 +7241,14 @@ original_slug: Web/HTTP/CORS
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T104624Z" creationid="gitnacho" creationdate="20221007T104624Z">
         <seg>-: El valor contenido dentro de la variable global; esto se puede usar para establecer y obtener directamente el valor global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : The value of the `index` parameter is greater than or equal to the number of fields in the data.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142605Z" creationid="gitnacho" creationdate="20221019T142605Z">
+        <seg>- : El valor del parámetro `index` es mayor o igual que el número de campos en los datos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12713,6 +12745,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `exceptionTag`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142354Z" creationid="gitnacho" creationdate="20221019T142354Z">
+        <seg>- `exceptionTag`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `externref`: A host reference.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110626Z" creationid="gitnacho" creationdate="20221007T110626Z">
@@ -15442,6 +15482,22 @@ original_slug: WebAssembly/Conceptos
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080800Z" creationid="gitnacho" creationdate="20221002T080800Z">
         <seg>- {{jsxref("Promise")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{jsxref("RangeError")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142553Z" creationid="gitnacho" creationdate="20221019T142553Z">
+        <seg>- {{jsxref("RangeError")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{jsxref("TypeError")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142534Z" creationid="gitnacho" creationdate="20221019T142534Z">
+        <seg>- {{jsxref("TypeError")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27298,6 +27354,15 @@ se lanza un {{jsxref("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In order to get the values of an exception, the tag must be "known" to the calling code;
+it may be either imported into or exported from the calling code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142707Z" creationid="gitnacho" creationdate="20221019T142707Z">
+        <seg>Para obtener los valores de una excepción, la etiqueta debe ser "conocida" por el código que la llama; se puede importar o exportar desde el código de la llamada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In order to make exception-throwing faster, exceptions thrown from WebAssembly generally do not include a stack trace.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T022929Z" creationid="gitnacho" creationdate="20221008T022929Z">
@@ -34103,6 +34168,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211519Z" creationid="gitnacho" creationdate="20221017T211519Z">
         <seg>El valor finaliza en el CRLF siguiente o al final del mensaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The value of the argument at `index`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142533Z" creationid="gitnacho" creationdate="20221019T142533Z">
+        <seg>El valor del argumento en `index`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41879,6 +41952,18 @@ get(index)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091638Z" creationid="gitnacho" creationdate="20221006T091638Z">
         <seg>```js-nolint
 get(index)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+getArg(exceptionTag, index)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142352Z" creationid="gitnacho" creationdate="20221019T142352Z">
+        <seg>```js-nolint
+getArg(exceptionTag, index)
 ```</seg>
       </tuv>
     </tu>
