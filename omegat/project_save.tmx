@@ -2208,6 +2208,20 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Detachment upon growing</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214254Z" creationid="gitnacho" creationdate="20221019T214254Z">
+        <seg>### Desprendimiento al crecer
+
+¡Cada llamada a `grow` separará cualquier referencia al antiguo `buffer`, incluso para `grow(0)`!
+
+Separación significa que el `byteLength` de {{jsxref("ArrayBuffer")}} se convierte en cero, y ya no tiene bytes accesibles para JavaScript.
+
+Acceder a la propiedad `buffer` después de llamar a `grow` generará un `ArrayBuffer` con la longitud correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Device client hints</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092644Z" creationid="gitnacho" creationdate="20221012T092644Z">
@@ -30331,6 +30345,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note the return value of `grow()` here is the previous number of WebAssembly pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214055Z" creationid="gitnacho" creationdate="20221019T214055Z">
+        <seg>Ten en cuenta que aquí el valor de retorno de `grow()` es el número anterior de páginas de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note: Since an {{jsxref("ArrayBuffer")}}'s byteLength is immutable, after a successful [`Memory.prototype.grow()`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/grow) operation the buffer getter will return a new ArrayBuffer object (with the new byteLength) and any previous ArrayBuffer objects become "detached", or disconnected from the underlying memory they previously pointed to.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210724Z" creationid="gitnacho" creationdate="20221006T210724Z">
@@ -42074,6 +42096,24 @@ document.body.appendChild(img);
     <tu>
       <tuv lang="en-US">
         <seg>```js
+const bytesPerPage = 64 * 1024;
+console.log(memory.buffer.byteLength / bytesPerPage); // "1"
+console.log(memory.grow(1)); // "1"
+console.log(memory.buffer.byteLength / bytesPerPage); // "2"
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214021Z" creationid="gitnacho" creationdate="20221019T214021Z">
+        <seg>```js
+const bytesPerPage = 64 * 1024;
+console.log(memory.buffer.byteLength / bytesPerPage); // "1"
+console.log(memory.grow(1)); // "1"
+console.log(memory.buffer.byteLength / bytesPerPage); // "2"
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 const cacheFirst = async (request) =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040044Z" creationid="gitnacho" creationdate="20220921T040044Z">
@@ -42742,6 +42782,16 @@ const greeter = "Soy un mal ejemplo";
     <tu>
       <tuv lang="en-US">
         <seg>```js example-bad
+const memory = new WebAssembly.Memory({</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213956Z" creationid="gitnacho" creationdate="20221019T213956Z">
+        <seg>```js example-bad
+const memory = new WebAssembly.Memory({</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js example-bad
 const thenable = {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080737Z" creationid="gitnacho" creationdate="20221002T080737Z">
@@ -42759,6 +42809,16 @@ const greeting = "I'm a good example";
         <seg>```js example-good
 const greeter = "Soy un buen ejemplo";
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js example-good
+const memory = new WebAssembly.Memory({</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213923Z" creationid="gitnacho" creationdate="20221019T213923Z">
+        <seg>```js example-good
+const memory = new WebAssembly.Memory({</seg>
       </tuv>
     </tu>
     <tu>
@@ -44996,6 +45056,16 @@ console.log(`original === cast ?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023514Z" creationid="gitnacho" creationdate="20221008T023514Z">
         <seg>console.log(obj.instance.exports.run());</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>console.log(oldMemoryView); // Uint8Array []
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213930Z" creationid="gitnacho" creationdate="20221019T213930Z">
+        <seg>console.log(oldMemoryView); // Uint8Array []
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -47274,6 +47344,44 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064617Z" creationid="gitnacho" creationdate="20221004T064617Z">
         <seg>init().then(() =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>initial: 1,
+});
+const oldMemoryView = new Uint8Array(memory.buffer);
+memory.grow(1);
+// the array is empty!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213945Z" creationid="gitnacho" creationdate="20221019T213945Z">
+        <seg>initial: 1,
+});
+const oldMemoryView = new Uint8Array(memory.buffer);
+memory.grow(1);
+// ¡El arreglo está vacío!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>initial: 1,
+});
+memory.grow(1);
+const currentMemoryView = new Uint8Array(memory.buffer);
+// the array is full of zeros
+console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
+// 131072 = 64KiB * 2
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213925Z" creationid="gitnacho" creationdate="20221019T213925Z">
+        <seg>initial: 1,
+});
+memory.grow(1);
+const currentMemoryView = new Uint8Array(memory.buffer);
+// the array is full of zeros
+console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
+// 131072 = 64KiB * 2
+```</seg>
       </tuv>
     </tu>
     <tu>
