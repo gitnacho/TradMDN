@@ -2352,6 +2352,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Getting exception value from imported tag</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142718Z" creationid="gitnacho" creationdate="20221019T142718Z">
+        <seg>### Obtener el valor de excepción de la etiqueta importada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Getting started</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223937Z" creationid="gitnacho" creationdate="20221018T223937Z">
@@ -4129,6 +4137,14 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023342Z" creationid="gitnacho" creationdate="20221008T023342Z">
         <seg>(func $throwException (param $errorValueArg i32)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(func $throwException (param i32)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142820Z" creationid="gitnacho" creationdate="20221019T142820Z">
+        <seg>(func $throwException (param i32)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18342,6 +18358,15 @@ console.log(y[0]); // 21</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Note: the import object properties match the import statement in WebAssembly code!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143032Z" creationid="gitnacho" creationdate="20221019T143032Z">
+        <seg>// Nota: ¡las propiedades del objeto import coinciden con la declaración
+  // import en el código de WebAssembly!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Otherwise, if there is no entry in the cache for event.request, response will be</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T204317Z" creationid="gitnacho" creationdate="20221003T204317Z">
@@ -24137,6 +24162,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205413Z" creationid="gitnacho" creationdate="20221005T205413Z">
         <seg>Considera posibles casos de uso del mundo real que podrías tratar de demostrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consider the following WebAssembly code, which is assumed to be compiled to a file "example.wasm".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142737Z" creationid="gitnacho" creationdate="20221019T142737Z">
+        <seg>Considera el siguiente código de WebAssembly, que se supone que está compilado en un archivo "`example.wasm`".</seg>
       </tuv>
     </tu>
     <tu>
@@ -32640,6 +32673,14 @@ función exportada contenida.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The code below calls [`WebAssembly.instantiateStreaming`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) to import the "example.wasm" file, passing in an "import object" (`importObject`) that includes a new [`WebAssembly.Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag) named `tagToImport`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142911Z" creationid="gitnacho" creationdate="20221019T142911Z">
+        <seg>El siguiente código llama a [`WebAssembly.instantiateStreaming`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming) para importar el archivo "`example.wasm`", pasando un "objeto de importación" (`importObject`) que incluye una nueva [`WebAssembly.Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) denominada `tagToImport`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The code below calls [`WebAssembly.instantiateStreaming`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) to import the **example.wasm** file, passing in an "import object" (`importObject`) that includes a new [`WebAssembly.Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag) named `tagToImport`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023419Z" creationid="gitnacho" creationdate="20221008T023419Z">
@@ -35639,6 +35680,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112451Z" creationid="gitnacho" creationdate="20221003T112451Z">
         <seg>Esto ilustra cómo se usa `ccall()` para llamar a la función exportada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This imports a tag, which it refers to internally as `$tagname`, and exports a method `run` that can be called by external code to throw an exception using the tag.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142815Z" creationid="gitnacho" creationdate="20221019T142815Z">
+        <seg>Esto importa una etiqueta, a la que se refiere internamente como `$tagname`, y exporta un método `run` que puede llamar un código externo para lanzar una excepción usando la etiqueta.</seg>
       </tuv>
     </tu>
     <tu>
