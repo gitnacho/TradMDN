@@ -18328,9 +18328,9 @@ console.log(y[0]); // 21</seg>
       <tuv lang="en-US">
         <seg>// Import the tag using its name from the WebAssembly module</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144219Z" creationid="gitnacho" creationdate="20221019T143300Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144236Z" creationid="gitnacho" creationdate="20221019T143300Z">
         <seg>// Importa la etiqueta usando su nombre del módulo
-// WebAssembly</seg>
+    // WebAssembly</seg>
       </tuv>
     </tu>
     <tu>
