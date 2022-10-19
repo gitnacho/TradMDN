@@ -41041,10 +41041,10 @@ Vary: Accept, Width, ECT
 const tag2 = new WebAssembly.Tag({ parameters: ["i32", "f64"] });
 console.log(`Tag2: ${exception1.is(tag2)}`);</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144532Z" creationid="gitnacho" creationdate="20221019T144532Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145431Z" creationid="gitnacho" creationdate="20221019T144532Z">
         <seg>```js
-// Crea una nueva etiqueta (con los mismos parámetros) y verifica que
-// no coincida con la excepción
+// Crea una nueva etiqueta (con los mismos parámetros) y
+// verifica que no coincida con la excepción
 const tag2 = new WebAssembly.Tag({ parameters: ["i32", "f64"] });
 console.log(`Tag2: ${exception1.is(tag2)}`);</seg>
       </tuv>
