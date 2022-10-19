@@ -50305,6 +50305,21 @@ original_slug: Learn/Getting_started_with_the_web/Instalación_de_software_bási
       </tuv>
     </tu>
     <tu>
+      <prop type="file">mdn/index.md</prop>
+      <prop type="prev">- Landing</prop>
+      <prop type="next">{{MDNSidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- MDN Meta
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T150022Z" creationid="gitnacho" creationdate="20221019T150022Z">
+        <seg>- MDN Meta
+reviewer: Nachec
+original_slug: MDN
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">mdn/tools/index.md</prop>
       <prop type="prev">- MDN Meta</prop>
       <prop type="next">{{MDNSidebar}}</prop>
