@@ -26847,8 +26847,8 @@ la aplicación.</seg>
       <tuv lang="en-US">
         <seg>However, the engine may ignore or clamp</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215356Z" creationid="gitnacho" creationdate="20221019T215356Z">
-        <seg>Sin embargo, el motor puede ignorar o sujetar</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215842Z" creationid="gitnacho" creationdate="20221019T215356Z">
+        <seg>Sin embargo, el motor puede ignorar o afianzar</seg>
       </tuv>
     </tu>
     <tu>
@@ -49816,6 +49816,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080653Z" creationid="gitnacho" creationdate="20221002T080653Z">
         <seg>then(onFulfilled, onRejected) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>this reservation request.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215414Z" creationid="gitnacho" creationdate="20221019T215414Z">
+        <seg>esta solicitud de reserva.</seg>
       </tuv>
     </tu>
     <tu>
