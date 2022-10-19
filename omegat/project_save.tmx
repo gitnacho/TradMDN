@@ -4045,9 +4045,9 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
 for information on section structures, and how normal sections
 ("known sections") and custom sections are distinguished.)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222312Z" creationid="gitnacho" creationdate="20221019T222312Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T223432Z" creationid="gitnacho" creationdate="20221019T222312Z">
         <seg>(Lee [Estructura de alto nivel](https://github.com/WebAssembly/design/blob/main/BinaryEncoding.md#high-level-structure)
-para obtener información sobre la sección estructuras y cómo se distinguen las secciones normales ("secciones conocidas") y secciones personalizadas).</seg>
+para obtener información sobre la estructura de las secciones y cómo se distinguen las secciones normales ("secciones conocidas") y las secciones personalizadas).</seg>
       </tuv>
     </tu>
     <tu>
