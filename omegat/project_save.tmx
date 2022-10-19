@@ -14541,6 +14541,21 @@ original_slug: WebAssembly/JavaScript_interface/Table/get
     <tu>
       <tuv lang="en-US">
         <seg>- table
+browser-compat: javascript.builtins.WebAssembly.Table.grow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233239Z" creationid="gitnacho" creationdate="20221019T233239Z">
+        <seg>- table
+  - tabla
+browser-compat: javascript.builtins.WebAssembly.Table.grow
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Table/grow
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- table
 browser-compat: javascript.builtins.WebAssembly.Table.length
 ---</seg>
       </tuv>
@@ -18072,6 +18087,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.Table.prototype.get()
 slug: WebAssembly/JavaScript_interface/Table/get
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Table.prototype.grow()
+slug: WebAssembly/JavaScript_interface/Table/grow
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233205Z" creationid="gitnacho" creationdate="20221019T233205Z">
+        <seg>---
+title: WebAssembly.Table.prototype.grow()
+slug: WebAssembly/JavaScript_interface/Table/grow
 tags:</seg>
       </tuv>
     </tu>
@@ -33133,6 +33162,16 @@ given index.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142202Z" creationid="gitnacho" creationdate="20221019T141625Z">
         <seg>El método prototipo **`getArg()`** del objeto [`Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception) se puede usar para obtener el valor de un elemento específico en los argumentos de datos de la excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`grow()`** prototype method of
+the [`WebAssembly.Table`](/en-US/docs/WebAssembly/JavaScript_interface/Table) object increases the size of the Table instance by a
+specified number of elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233314Z" creationid="gitnacho" creationdate="20221019T233314Z">
+        <seg>El método prototipo **`grow()`** de el objeto [`WebAssembly.Table`](/es/docs/WebAssembly/JavaScript_interface/Table) aumenta el tamaño de la instancia de `Table` en un número especificado de elementos.</seg>
       </tuv>
     </tu>
     <tu>
