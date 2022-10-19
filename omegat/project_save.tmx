@@ -44033,8 +44033,8 @@ call_indirect $my_spicy_table (type $i32_to_void)
       <tuv lang="en-US">
         <seg>`maximum`, but shared memories do.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215914Z" creationid="gitnacho" creationdate="20221019T215914Z">
-        <seg>`maximum`, pero los recuerdos compartidos sí.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221108Z" creationid="gitnacho" creationdate="20221019T215914Z">
+        <seg>`maximum`, pero las memorias compartidas sí.</seg>
       </tuv>
     </tu>
     <tu>
