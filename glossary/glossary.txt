@@ -9,3 +9,4 @@ detachment	desprendimiento
 detachment	separación	separación
 clamp	sujetar	sujetar
 clamp	abrazadera
+clamp	afianzar	afianzar
