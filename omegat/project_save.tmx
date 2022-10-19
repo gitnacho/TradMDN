@@ -17922,6 +17922,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: WebAssembly.Module() constructor
+slug: WebAssembly/JavaScript_interface/Module/Module
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230925Z" creationid="gitnacho" creationdate="20221019T230925Z">
+        <seg>---
+title: Constructor WebAssembly.Module()
+slug: WebAssembly/JavaScript_interface/Module/Module
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: WebAssembly.Module.customSections()
 slug: WebAssembly/JavaScript_interface/Module/customSections
 tags:</seg>
