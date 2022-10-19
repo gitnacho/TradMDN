@@ -11777,8 +11777,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [WebAssembly concepts](/en-US/docs/WebAssembly/Concepts)
 - [Using the WebAssembly JavaScript API](/en-US/docs/WebAssembly/Using_the_JavaScript_API)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221003T092841Z">
-        <seg>- [WebAssembly](/es/docs/WebAssembly) resumen
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T141021Z" creationid="gitnacho" creationdate="20221003T092841Z">
+        <seg>- Resumen [WebAssembly](/es/docs/WebAssembly)
 - [Conceptos WebAssembly](/es/docs/WebAssembly/Concepts)
 - [Usar la API JavaScript de WebAssembly](/es/docs/WebAssembly/Using_the_JavaScript_API)</seg>
       </tuv>
