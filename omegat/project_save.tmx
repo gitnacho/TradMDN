@@ -3200,6 +3200,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Using customSections</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222640Z" creationid="gitnacho" creationdate="20221019T222640Z">
+        <seg>### Usar secciones personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Using exports</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T093911Z" creationid="gitnacho" creationdate="20221006T093911Z">
@@ -23137,6 +23145,15 @@ JavaScript wrapper for an underlying wasm function.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A module contains a "name" custom section if `WebAssembly.Module.customSections`
+returns an `ArrayBuffer` with a length greater than 0.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222735Z" creationid="gitnacho" creationdate="20221019T222735Z">
+        <seg>Un módulo contiene una sección `name` personalizada si `WebAssembly.Module.customSections` devuelve un `ArrayBuffer` con una longitud mayor que 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A number of new wasm instructions have been added that can be used to implement higher level features like mutexes, condition variables, etc.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081016Z" creationid="gitnacho" creationdate="20221007T081016Z">
@@ -30593,6 +30610,16 @@ simple value.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that the WebAssembly text format currently doesn't have a syntax specified for
+adding new custom sections; you can however add a name section to your wasm during
+conversion from text format over to .wasm.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222454Z" creationid="gitnacho" creationdate="20221019T222454Z">
+        <seg>Ten en cuenta que el formato de texto de WebAssembly actualmente no tiene una sintaxis especificada para agregar nuevas secciones personalizadas; sin embargo, puedes agregar una sección `name` a tu `wasm` durante la conversión de formato de texto a `.wam`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that the [`Cross-Origin-Opener-Policy`](/en-US/docs/Web/HTTP/Headers/Cross-Origin-Opener-Policy) header limits your ability to retain a reference to popups.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20220923T030501Z">
@@ -33448,6 +33475,17 @@ instanciar sincrónicamente un objeto [`WebAssembly.Module`](/es/docs/WebAssembl
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `wast2wasm` command available as part of
+the [wabt tool](https://github.com/webassembly/wabt) has a
+`--debug-names` option — specify this during conversion to get a .wasm with a
+names custom section, for example:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222559Z" creationid="gitnacho" creationdate="20221019T222559Z">
+        <seg>El comando `wast2wasm` disponible como parte de la [herramienta `wabt`](https://github.com/webassembly/wabt) tiene una opción `--debug-names`: especifica esta durante la conversión para obtener un `.wasm` con una sección `name` personalizada, por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The above command will have generated `hello2.html`, which will have much the same content as the template with some glue code added into load the generated wasm, run it, etc.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T111100Z" creationid="gitnacho" creationdate="20221003T111100Z">
@@ -34176,6 +34214,15 @@ obtiene un módulo `.wasm` y lo convierte en un arreglo tipado.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T104731Z" creationid="gitnacho" creationdate="20221007T104731Z">
         <seg>El siguiente ejemplo muestra una nueva instancia global que se crea utilizando el constructor `WebAssembly.Global()`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following example uses `WebAssembly.Module.customSections` to check
+if a loaded module instance contains a "name" custom section.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222708Z" creationid="gitnacho" creationdate="20221019T222708Z">
+        <seg>El siguiente ejemplo usa `WebAssembly.Module.customSections` para verificar si una instancia de módulo cargada contiene una sección `name` personalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41302,6 +41349,18 @@ wasm-pack build --target web
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064012Z" creationid="gitnacho" creationdate="20221004T064012Z">
         <seg>```bash
 wasm-pack build --target web
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
+wast2wasm simple-name-section.was -o simple-name-section.wasm --debug-names
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222628Z" creationid="gitnacho" creationdate="20221019T222628Z">
+        <seg>```bash
+wast2wasm simple-name-section.was -o simple-name-section.wasm --debug-names
 ```</seg>
       </tuv>
     </tu>
