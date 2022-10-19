@@ -3208,6 +3208,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Using grow</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214556Z" creationid="gitnacho" creationdate="20221019T214556Z">
+        <seg>### Usar `grow`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Using length</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T110206Z" creationid="gitnacho" creationdate="20221006T110206Z">
@@ -33817,6 +33825,14 @@ obtiene un módulo `.wasm` y lo convierte en un arreglo tipado.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following example creates a new WebAssembly Memory instance with an initial size of 1 page (64KiB), and a maximum size of 10 pages (640KiB).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214614Z" creationid="gitnacho" creationdate="20221019T214614Z">
+        <seg>El siguiente ejemplo crea una nueva instancia de memoria WebAssembly con un tamaño inicial de 1 página (64KiB) y un tamaño máximo de 10 páginas (640KiB).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following example creates a new WebAssembly Table instance with an initial size of
 2 and a maximum size of 10:</seg>
       </tuv>
@@ -38232,6 +38248,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023608Z" creationid="gitnacho" creationdate="20221008T023608Z">
         <seg>Podemos ver que es del tipo `WebAssembly.Exception`, pero si no tuviéramos la etiqueta correcta, no podríamos hacer mucho más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can then grow the instance by one page like so:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214623Z" creationid="gitnacho" creationdate="20221019T214623Z">
+        <seg>Luego podemos hacer crecer la instancia en una página así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47414,6 +47438,14 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064617Z" creationid="gitnacho" creationdate="20221004T064617Z">
         <seg>init().then(() =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>initial: 1,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214615Z" creationid="gitnacho" creationdate="20221019T214615Z">
+        <seg>initial: 1,</seg>
       </tuv>
     </tu>
     <tu>
