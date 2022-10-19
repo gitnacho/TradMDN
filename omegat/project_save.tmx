@@ -22213,12 +22213,12 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
 &gt; [`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) method should be used at all other
 &gt; times.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210129Z" creationid="gitnacho" creationdate="20221019T210129Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210953Z" creationid="gitnacho" creationdate="20221019T210129Z">
         <seg>&gt; **Advertencia:** Dado que la creación de instancias para
 &gt; módulos grandes puede ser costosa, los desarrolladores
-&gt; solo deberían usar el constructor `Instance()` sincrónica
+&gt; solo deberían usar el constructor `Instance()` sincrónico
 &gt; cuando la creación de instancias es absolutamente
-&gt; necesaria; El método [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming) asincrónico se
+&gt; necesaria; El método asincrónico [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming) se
 &gt; debe usar en todos los demás momentos.</seg>
       </tuv>
     </tu>
