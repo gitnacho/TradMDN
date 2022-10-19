@@ -10878,6 +10878,20 @@ original_slug: WebAssembly/JavaScript_interface/RuntimeError
     <tu>
       <tuv lang="en-US">
         <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.RuntimeError.RuntimeError
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T232201Z" creationid="gitnacho" creationdate="20221019T232201Z">
+        <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.RuntimeError.RuntimeError
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/RuntimeError/RuntimeError
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Tag
 ---</seg>
       </tuv>
@@ -32970,6 +32984,16 @@ array containing descriptions of all the declared exports of the given
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T224608Z" creationid="gitnacho" creationdate="20221019T224608Z">
         <seg>La función **`WebAssembly.Module.exports()`** devuelve un arreglo que contiene descripciones de todas las exportaciones declaradas del `Module` dado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`WebAssembly.RuntimeError()`** constructor creates a new
+WebAssembly `RuntimeError` object — the type that is thrown whenever
+WebAssembly specifies a [trap](https://webassembly.github.io/simd/core/intro/overview.html#trap).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T232249Z" creationid="gitnacho" creationdate="20221019T232249Z">
+        <seg>El constructor **`WebAssembly.RuntimeError()`** crea un nuevo Objeto `RuntimeError` de WebAssembly: el tipo que se lanza cada vez que WebAssembly especifica una trampa —[trap](https://webassembly.github.io/simd/core/intro/overview.html#trap).</seg>
       </tuv>
     </tu>
     <tu>
