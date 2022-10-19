@@ -34096,6 +34096,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The read-only **`stack`** property of an object instance of type [`WebAssembly.Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) _may_ contain a stack trace.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203421Z" creationid="gitnacho" creationdate="20221019T203421Z">
+        <seg>La propiedad **`stack`** de solo lectura de una instancia del objeto de tipo [`WebAssembly.Exception`](/es/WebAssembly/JavaScript_interface/Exception) _puede_ contener un seguimiento de la pila — `stack`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The registered service worker file needs to</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T105834Z" creationid="gitnacho" creationdate="20221008T105834Z">
