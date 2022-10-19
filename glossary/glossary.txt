@@ -5,3 +5,5 @@ header	encabezado
 man-in-the-middle attack	ataque de intermediario
 mitm	ataque de intermediario	man-in-the-middle_attack
 pwa	aplicaciones web progresivas	Progresive web apps
+detachment	desprendimiento
+detachment	separación	separación
