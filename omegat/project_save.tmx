@@ -32077,6 +32077,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The [`stack` example](/en-US/docs/WebAssembly/JavaScript_interface/Exception/stack#examples) shows the creation of an exception that uses the `options` parameter.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140904Z" creationid="gitnacho" creationdate="20221019T140904Z">
+        <seg>El [ejemplo de `stack`](/es/docs/WebAssembly/JavaScript_interface/Exception/stack#ejemplos) muestra la creación de una excepción que usa el parámetro `options`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The [constructor](/en-US/docs/WebAssembly/JavaScript_interface/Exception/Exception) accepts a [`WebAssembly.Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag), an array of values, and an `options` object as arguments.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T022750Z" creationid="gitnacho" creationdate="20221008T022750Z">
@@ -35360,6 +35368,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095947Z" creationid="gitnacho" creationdate="20221006T095947Z">
         <seg>Este ejemplo muestra que estamos creando y accediendo a la tabla desde JavaScript, pero la misma tabla también es visible y se puede llamar dentro de la instancia de `wasm`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This example shows the creation of an exception using a simple tag.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140743Z" creationid="gitnacho" creationdate="20221019T140743Z">
+        <seg>Este ejemplo muestra la creación de una excepción usando una simple etiqueta `tag`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40596,6 +40612,22 @@ Vary: Accept, Width, ECT
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035450Z" creationid="gitnacho" creationdate="20220921T035450Z">
         <seg>```js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+// Create tag and use it to create an exception
+const tag = new WebAssembly.Tag({ parameters: ["i32", "f32"] });
+const exception = new WebAssembly.Exception(tag, [42, 42.3]);
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140824Z" creationid="gitnacho" creationdate="20221019T140824Z">
+        <seg>```js
+// Crea una etiqueta y la usa para crear una excepción
+const tag = new WebAssembly.Tag({ parameters: ["i32", "f32"] });
+const exception = new WebAssembly.Exception(tag, [42, 42.3]);
+```</seg>
       </tuv>
     </tu>
     <tu>
