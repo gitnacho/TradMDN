@@ -3168,6 +3168,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Using buffer</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213157Z" creationid="gitnacho" creationdate="20221019T213157Z">
+        <seg>### Usar búfer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Using compile</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T180558Z" creationid="gitnacho" creationdate="20221007T180558Z">
@@ -24778,6 +24786,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Depending on whether or not the memory was constructed with `shared: true`, the buffer is either an {{jsxref("ArrayBuffer")}} or a {{jsxref("SharedArrayBuffer")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213142Z" creationid="gitnacho" creationdate="20221019T213142Z">
+        <seg>Dependiendo de si la memoria se construyó o no con `shared: true`, el búfer es {{JSxRef("ArrayBuffer")}} o {{JSxRef("SharedArrayBuffer")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Depending on whether the above security measures are taken, the various memory-sharing APIs have different availabilities:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030631Z" creationid="gitnacho" creationdate="20220923T030631Z">
@@ -33589,8 +33605,8 @@ y devuelve su valor.</seg>
       <tuv lang="en-US">
         <seg>The following example (see [memory.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/memory.html) on GitHub, and [view it live also](https://mdn.github.io/webassembly-examples/js-api-examples/memory.html)) fetches and instantiates the loaded memory.wasm bytecode using the [`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) function, while importing the memory created in the line above.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000806Z" creationid="gitnacho" creationdate="20221008T000806Z">
-        <seg>El siguiente ejemplo (ve [memory.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/memory.html) en GitHub, y también lo puedes [ver en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/memory.html)) obtiene y crea una instancia del código de bytes `memory.wasm` cargado mediante [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming), mientras importa la memoria creada en la línea anterior.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213235Z" creationid="gitnacho" creationdate="20221008T000806Z">
+        <seg>El siguiente ejemplo (consulta [memory.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/memory.html) en GitHub, y también lo puedes [ver en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/memory.html)) obtiene y crea una instancia del código de bytes `memory.wasm` cargado mediante [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming), mientras importa la memoria creada en la línea anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34407,6 +34423,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183913Z" creationid="gitnacho" creationdate="20221008T183913Z">
         <seg>La justificación de la sintaxis descrita aquí es que funciona lo suficientemente bien con herramientas que esperan CommonMark (por ejemplo, vistas previas de Prettier o GitHub) mientras que es razonablemente fácil de escribir y analizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The read-only **`buffer`** prototype property of the [`WebAssembly.Memory`](/en-US/docs/WebAssembly/JavaScript_interface/Memory) object returns the buffer contained in the memory.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213115Z" creationid="gitnacho" creationdate="20221019T213115Z">
+        <seg>La propiedad prototipo **`buffer`** de solo lectura del objeto [`WebAssembly.Memory`](/es/docs/WebAssembly/JavaScript_interface/Memory) devuelve el búfer contenido en la memoria.</seg>
       </tuv>
     </tu>
     <tu>
