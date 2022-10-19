@@ -2210,14 +2210,8 @@
       <tuv lang="en-US">
         <seg>### Detachment upon growing</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214254Z" creationid="gitnacho" creationdate="20221019T214254Z">
-        <seg>### Desprendimiento al crecer
-
-¡Cada llamada a `grow` separará cualquier referencia al antiguo `buffer`, incluso para `grow(0)`!
-
-Separación significa que el `byteLength` de {{jsxref("ArrayBuffer")}} se convierte en cero, y ya no tiene bytes accesibles para JavaScript.
-
-Acceder a la propiedad `buffer` después de llamar a `grow` generará un `ArrayBuffer` con la longitud correcta.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214359Z" creationid="gitnacho" creationdate="20221019T214254Z">
+        <seg>### Separación al crecer</seg>
       </tuv>
     </tu>
     <tu>
@@ -7167,6 +7161,14 @@ original_slug: Web/HTTP/CORS
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135031Z" creationid="gitnacho" creationdate="20221019T135031Z">
         <seg>- : El nombre del archivo que contiene el código que provocó la excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : The number of WebAssembly pages you want to grow the memory by (each one is 64KiB in size).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214459Z" creationid="gitnacho" creationdate="20221019T214459Z">
+        <seg>- : El número de páginas de WebAssembly en las que deseas aumentar la memoria (cada una tiene un tamaño de 64KiB).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13371,6 +13373,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `pageIncrease`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214434Z" creationid="gitnacho" creationdate="20221019T214434Z">
+        <seg>- `pageIncrease`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `parameterX` {{optional_inline}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114042Z" creationid="gitnacho" creationdate="20221005T114042Z">
@@ -15697,6 +15707,14 @@ original_slug: WebAssembly/Conceptos
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142553Z" creationid="gitnacho" creationdate="20221019T142553Z">
         <seg>- {{jsxref("RangeError")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{jsxref("RangeError")}}: If the current size added with `pageIncrease` exceeds the Memory instance's maximum size capacity.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214540Z" creationid="gitnacho" creationdate="20221019T214540Z">
+        <seg>- {{JSxRef("RangeError")}}: Si el tamaño actual agregado con `pageIncrease` excede la capacidad del tamaño máximo de la instancia de memoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23141,6 +23159,14 @@ JavaScript wrapper for an underlying wasm function.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accessing the `buffer` property after calling `grow`, will yield an `ArrayBuffer` with the correct length.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214350Z" creationid="gitnacho" creationdate="20221019T214350Z">
+        <seg>Acceder a la propiedad `buffer` después de llamar a `grow` generará un `ArrayBuffer` con la longitud correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>According to WebAssembly, memory is just a large array of bytes that can grow over time.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T083549Z" creationid="gitnacho" creationdate="20221007T063838Z">
@@ -24862,6 +24888,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Detachment means that the {{jsxref("ArrayBuffer")}}'s `byteLength` becomes zero, and it no longer has bytes accessible to JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214336Z" creationid="gitnacho" creationdate="20221019T214336Z">
+        <seg>Separación significa que el `byteLength` de {{JSxRef("ArrayBuffer")}} se convierte en cero, y ya no tiene bytes accesibles para JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Developers must use a valid MIME type that is not a JavaScript MIME type to denote data blocks.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T132657Z" creationid="gitnacho" creationdate="20221003T132657Z">
@@ -25218,6 +25252,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T205821Z" creationid="gitnacho" creationdate="20221011T201835Z">
         <seg>Los controladores de eventos generalmente están conectados (o "adjuntos") a varios [elementos HTML](/es/docs/Web/HTML/Element) (como `&lt;button&gt;`, `&lt;div&gt;`, `&lt;span&gt;`, etc.) usando [`EventTarget.addEventListener()`](/es/docs/Web/API/EventTarget/addEventListener), y esto generalmente reemplaza el uso de los antiguos [atributos del controlador de eventos](/es/docs/Web/HTML/Global_attributes) HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every call to `grow` will detach any references to the old `buffer`, even for `grow(0)`!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214320Z" creationid="gitnacho" creationdate="20221019T214304Z">
+        <seg>¡Cada llamada a `grow` separará cualquier referencia al antiguo `buffer`, incluso para `grow(0)`!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32539,6 +32581,14 @@ given index.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`grow()`** prototype method of the [`WebAssembly.Memory`](/en-US/docs/WebAssembly/JavaScript_interface/Memory) object increases the size of the memory instance by a specified number of WebAssembly pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214431Z" creationid="gitnacho" creationdate="20221019T214431Z">
+        <seg>El método prototipo **`grow()`** del objeto [`WebAssembly.Memory`](/es/docs/WebAssembly/JavaScript_interface/Memory) aumenta el tamaño de la instancia de memoria en un número específico de páginas de WebAssembly .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`is()`** prototype method of the [`Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) object can be used to test if the `Exception` matches a given tag.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145155Z" creationid="gitnacho" creationdate="20221019T145155Z">
@@ -34403,6 +34453,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053720Z" creationid="gitnacho" creationdate="20221012T053720Z">
         <seg>La sección anterior ofrece una descripción general de estos en acción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The previous size of the memory, in units of WebAssembly pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214507Z" creationid="gitnacho" creationdate="20221019T214507Z">
+        <seg>El tamaño anterior de la memoria, en unidades de páginas WebAssembly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42902,6 +42960,18 @@ getArg(exceptionTag, index)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142352Z" creationid="gitnacho" creationdate="20221019T142352Z">
         <seg>```js-nolint
 getArg(exceptionTag, index)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+grow(pageIncrease)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214432Z" creationid="gitnacho" creationdate="20221019T214432Z">
+        <seg>```js-nolint
+grow(pageIncrease)
 ```</seg>
       </tuv>
     </tu>
