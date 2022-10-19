@@ -2120,6 +2120,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Creating a new Memory instance</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220136Z" creationid="gitnacho" creationdate="20221019T220136Z">
+        <seg>### Crear una nueva instancia de `Memory`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Creating a new Memory object</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000442Z" creationid="gitnacho" creationdate="20221008T000442Z">
@@ -8835,6 +8843,38 @@ original_slug: WebAssembly/JavaScript_interface/Exception/is
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T180533Z" creationid="gitnacho" creationdate="20221007T180533Z">
         <seg>- Si `bufferSource` no es un [arreglo tipado](/es/docs/Web/JavaScript/Typed_arrays) o {{jsxref("ArrayBuffer")}},</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If `initial` is not specified, a {{jsxref("TypeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220042Z" creationid="gitnacho" creationdate="20221019T220042Z">
+        <seg>- Si no se especifica `initial`, se arroja un {{JSxRef("TypeError")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If `maximum` is specified and is smaller than `initial`, a {{jsxref("RangeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220056Z" creationid="gitnacho" creationdate="20221019T220056Z">
+        <seg>- Si se especifica `maximum` y es más pequeño que `initial`, se lanza un {{JSxRef("RangeError")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If `memoryDescriptor` is not an object, a {{jsxref("TypeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220026Z" creationid="gitnacho" creationdate="20221019T220026Z">
+        <seg>- Si `memoryDescriptor` no es un objeto, se lanza un {{JSxRef("TypeError")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If `shared` is present and `true`, yet `maximum` is not specified, a {{jsxref("TypeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220116Z" creationid="gitnacho" creationdate="20221019T220116Z">
+        <seg>- Si `shared` está presente y es `true`, pero no se especifica `maximum`, se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21657,6 +21697,14 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** A WebAssembly page has a constant size of 65,536 bytes, i.e., 64KiB.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220010Z" creationid="gitnacho" creationdate="20221019T220010Z">
+        <seg>&gt; **Nota:** Una página WebAssembly tiene un tamaño constante de 65,536 bytes, es decir, 64KiB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** A document timeline that is associated with a non-active document is also considered to be **inactive**.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092808Z" creationid="gitnacho" creationdate="20221006T092808Z">
@@ -33621,6 +33669,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default is `false`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215948Z" creationid="gitnacho" creationdate="20221019T215948Z">
+        <seg>El valor predeterminado es `false`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default value is 5 seconds.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224344Z" creationid="gitnacho" creationdate="20221011T224344Z">
@@ -33833,6 +33889,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221007T115808Z">
         <seg>El siguiente fragmento de código muestra la creación de un objeto {{DOMxRef("Worker")}} mediante el constructor {{DOMxRef("Worker.Worker", "Worker()")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following example (see [memory.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/memory.html) on GitHub, and [view it live also](https://mdn.github.io/webassembly-examples/js-api-examples/memory.html)) creates a new WebAssembly Memory instance with an initial size of 10 pages (640KiB), and a maximum size of 100 pages (6.4MiB).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220257Z" creationid="gitnacho" creationdate="20221019T220257Z">
+        <seg>El siguiente ejemplo (consulta [memory.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/memory.html) en GitHub, y también lo puedes [ver en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/memory.html)) crea una nueva instancia de `Memory` WebAssembly con un tamaño inicial de 10 páginas (640KiB) y un tamaño máximo de 100 páginas ( 6.4MiB).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35437,6 +35501,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000449Z" creationid="gitnacho" creationdate="20221008T000449Z">
         <seg>Hay dos formas de obtener un objeto `WebAssembly.Memory`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two ways to get a `WebAssembly.Memory` object: construct it from JavaScript, or have it exported by a WebAssembly module.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220150Z" creationid="gitnacho" creationdate="20221019T220150Z">
+        <seg>Hay dos formas de obtener un objeto `WebAssembly.Memory`: construirlo desde JavaScript o exportarlo mediante un módulo WebAssembly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49500,6 +49572,14 @@ api.free_result(resultPointer);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211003T093105Z" creationid="gitnacho" creationdate="20211003T093105Z">
         <seg>set foo(value) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>set to `true`, it is a shared memory.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215938Z" creationid="gitnacho" creationdate="20221019T215938Z">
+        <seg>se establece en `true`, es una memoria compartida.</seg>
       </tuv>
     </tu>
     <tu>
