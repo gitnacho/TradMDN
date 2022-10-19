@@ -31889,6 +31889,15 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See custom-section.html [source code](https://github.com/mdn/webassembly-examples/blob/master/other-examples/custom-section.html)
+and [live example](https://mdn.github.io/webassembly-examples/other-examples/custom-section.html).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222831Z" creationid="gitnacho" creationdate="20221019T222831Z">
+        <seg>Ve el [código fuente](https://github.com/mdn/webassembly-examples/blob/master/other-examples/custom-section.html) de`custom-section.html`  y el [ejemplo en vivo](https://mdn.github.io/webassembly-examples/other-examples/custom-section.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See how `then` works [here](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then#return_value).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T074425Z" creationid="gitnacho" creationdate="20221002T074425Z">
@@ -42361,6 +42370,16 @@ Promise.resolve('Success').then(</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+WebAssembly.compileStreaming(fetch("simple-name-section.wasm")).then((mod) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222832Z" creationid="gitnacho" creationdate="20221019T222832Z">
+        <seg>```js
+WebAssembly.compileStreaming(fetch("simple-name-section.wasm")).then((mod) =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 WebAssembly.instantiate(bufferSource, importObject);
 ```</seg>
       </tuv>
@@ -45132,6 +45151,14 @@ console.log(ClassWithStaticField.staticField);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>console.log("Module contains a name section");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222835Z" creationid="gitnacho" creationdate="20221019T222835Z">
+        <seg>console.log("Module contains a name section");</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>console.log("Service worker active");</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T034254Z" creationid="gitnacho" creationdate="20220921T024214Z">
@@ -45557,6 +45584,14 @@ console.log(`original === cast ?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211101T170643Z" creationid="gitnacho" creationdate="20211101T170643Z">
         <seg>console.log(name);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>console.log(nameSections[0]);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222836Z" creationid="gitnacho" creationdate="20221019T222836Z">
+        <seg>console.log(nameSections[0]);</seg>
       </tuv>
     </tu>
     <tu>
@@ -46185,6 +46220,14 @@ api.destroy_buffer(p);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T223610Z" creationid="gitnacho" creationdate="20221005T223610Z">
         <seg>const mod = new WebAssembly.Module(bytes);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>const nameSections = WebAssembly.Module.customSections(mod, "name");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222834Z" creationid="gitnacho" creationdate="20221019T222834Z">
+        <seg>const nameSections = WebAssembly.Module.customSections(mod, "name");</seg>
       </tuv>
     </tu>
     <tu>
@@ -47705,6 +47748,14 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230425Z" creationid="gitnacho" creationdate="20221011T230425Z">
         <seg>if (invocation) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>if (nameSections.length !== 0) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222834Z" creationid="gitnacho" creationdate="20221019T222834Z">
+        <seg>if (nameSections.length !== 0) {</seg>
       </tuv>
     </tu>
     <tu>
