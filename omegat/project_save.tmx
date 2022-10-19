@@ -4989,6 +4989,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A boolean value that defines whether the memory is a shared memory or not.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215921Z" creationid="gitnacho" creationdate="20221019T215921Z">
+        <seg>- : Un valor booleano que define si la memoria es una memoria compartida o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A brief description of the changes between the early versions of HTTP, to the modern HTTP/2, the emergent HTTP/3 and beyond.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T063814Z" creationid="gitnacho" creationdate="20221012T063814Z">
@@ -13553,6 +13561,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174959Z" creationid="gitnacho" creationdate="20221008T174959Z">
         <seg>- `sh` - Bash/Shell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `shared` {{optional_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215915Z" creationid="gitnacho" creationdate="20221019T215915Z">
+        <seg>- `shared` {{optional_inline}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38144,6 +38160,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unshared WebAssembly memories don't need to set a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215900Z" creationid="gitnacho" creationdate="20221019T215900Z">
+        <seg>Las memorias no compartidas de WebAssembly no necesitan establecer un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Until browsers catch up with the spec, you may be able to work around this limitation by doing one or both of the following:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224905Z" creationid="gitnacho" creationdate="20221011T224905Z">
@@ -43889,6 +43913,14 @@ call_indirect $my_spicy_table (type $i32_to_void)
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074959Z" creationid="gitnacho" creationdate="20221007T074959Z">
         <seg>`externref` se puede usar para tipos de valor y elementos de tabla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`maximum`, but shared memories do.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215914Z" creationid="gitnacho" creationdate="20221019T215914Z">
+        <seg>`maximum`, pero los recuerdos compartidos sí.</seg>
       </tuv>
     </tu>
     <tu>
