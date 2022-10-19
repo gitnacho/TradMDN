@@ -7,3 +7,5 @@ mitm	ataque de intermediario	man-in-the-middle_attack
 pwa	aplicaciones web progresivas	Progresive web apps
 detachment	desprendimiento
 detachment	separación	separación
+clamp	sujetar	sujetar
+clamp	abrazadera
