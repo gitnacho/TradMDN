@@ -32005,6 +32005,16 @@ and [live example](https://mdn.github.io/webassembly-examples/other-examples/cus
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See imports.html [source code](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/imports.html) and
+[live version](https://mdn.github.io/webassembly-examples/js-api-examples/imports.html).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230505Z" creationid="gitnacho" creationdate="20221019T230505Z">
+        <seg>Consulta el [código fuente](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/imports.html) de `imports.html` y
+la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/imports.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See our [Live samples guide](/en-US/docs/MDN/Writing_guidelines/Page_structures/Live_samples) for more information.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T210923Z" creationid="gitnacho" creationdate="20221005T210923Z">
@@ -33891,6 +33901,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054436Z" creationid="gitnacho" creationdate="20221012T054436Z">
         <seg>Las condiciones bajo las cuales se realiza una preverificación de una solicitud se analizan arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The console log displays the following description for the imported module:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230515Z" creationid="gitnacho" creationdate="20221019T230515Z">
+        <seg>El registro de la consola muestra la siguiente descripción del módulo importado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41309,6 +41327,18 @@ El resultado de 2 + 2 = 4
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```
+{ module: "imports", name: "imported_func", kind: "function" }
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230517Z" creationid="gitnacho" creationdate="20221019T230517Z">
+        <seg>```
+{ module: "imports", name: "imported_func", kind: "function" }
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>````</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211620Z" creationid="gitnacho" creationdate="20221005T211620Z">
@@ -42531,6 +42561,16 @@ WebAssembly.compileStreaming(fetch("simple-name-section.wasm")).then((mod) =&gt;
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222832Z" creationid="gitnacho" creationdate="20221019T222832Z">
         <seg>```js
 WebAssembly.compileStreaming(fetch("simple-name-section.wasm")).then((mod) =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+WebAssembly.compileStreaming(fetch("simple.wasm")).then((mod) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230506Z" creationid="gitnacho" creationdate="20221019T230506Z">
+        <seg>```js
+WebAssembly.compileStreaming(fetch("simple.wasm")).then((mod) =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
@@ -45768,6 +45808,18 @@ console.log(`original === cast ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>console.log(imports[0]);
+});
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230509Z" creationid="gitnacho" creationdate="20221019T230509Z">
+        <seg>console.log(imports[0]);
+});
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>console.log(message);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211002T045358Z" creationid="gitnacho" creationdate="20211002T045358Z">
@@ -46392,6 +46444,14 @@ api.destroy_buffer(p);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T113250Z" creationid="gitnacho" creationdate="20221006T113250Z">
         <seg>const importObject = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>const imports = WebAssembly.Module.imports(mod);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230507Z" creationid="gitnacho" creationdate="20221019T230507Z">
+        <seg>const imports = WebAssembly.Module.imports(mod);</seg>
       </tuv>
     </tu>
     <tu>
