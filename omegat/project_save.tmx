@@ -5183,6 +5183,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : An object with the following optional fields:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140412Z" creationid="gitnacho" creationdate="20221019T140412Z">
+        <seg>- : Un objeto con los siguientes campos opcionales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : An object, which contains two properties:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110510Z" creationid="gitnacho" creationdate="20221007T110510Z">
@@ -6941,6 +6949,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The `payload` and `tag` sequences do not have the same number of elements and/or the elements are not of matching types.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140658Z" creationid="gitnacho" creationdate="20221019T140658Z">
+        <seg>- : Las secuencias de carga útil —`payload`— y etiquetas —`tag`— no tienen el mismo número de elementos y/o los elementos no son de tipos coincidentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The attachment's title
 - `description`</seg>
       </tuv>
@@ -7443,6 +7459,14 @@ original_slug: Web/HTTP/CORS
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T071103Z" creationid="gitnacho" creationdate="20221005T071103Z">
         <seg>- : Cabecera `Cache-Control` enviada en la solicitud del documento MDN actual, útil para decidir si se invalidan las cachés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : `true` if the `Exception` may have a stack trace attached to its [`stack`](/en-US/docs/WebAssembly/JavaScript_interface/Exception/stack) property, otherwise `false`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140439Z" creationid="gitnacho" creationdate="20221019T140439Z">
+        <seg>- : `true` si la `Exception` puede tener un seguimiento de pila adjunto a su propiedad [`stack`](/es/docs/WebAssembly/JavaScript_interface/Exception/stack), de lo contrario `false`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12511,6 +12535,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `TypeError`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140547Z" creationid="gitnacho" creationdate="20221019T140547Z">
+        <seg>- `TypeError`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `anyfunc`: A function reference.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110650Z" creationid="gitnacho" creationdate="20221007T110650Z">
@@ -13109,6 +13141,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `options` {{optional_inline}} {{non-standard_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140404Z" creationid="gitnacho" creationdate="20221019T140404Z">
+        <seg>- `options` {{optional_inline}} {{non-standard_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `origin-when-cross-origin`: The referrer sent to other origins will be limited to the scheme, the host, and the port.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125706Z" creationid="gitnacho" creationdate="20221003T125637Z">
@@ -13331,6 +13371,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T175019Z" creationid="gitnacho" creationdate="20221008T175019Z">
         <seg>- `toml` - TOML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `traceStack` {{optional_inline}} {{non-standard_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140413Z" creationid="gitnacho" creationdate="20221019T140413Z">
+        <seg>- `traceStack` {{optional_inline}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26444,6 +26492,14 @@ se lanza un {{jsxref("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the number of data fields in the payload and their types don't match, a {{jsxref("TypeError")}} exception is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140403Z" creationid="gitnacho" creationdate="20221019T140403Z">
+        <seg>Si la cantidad de campos de datos en la carga útil y sus tipos no coinciden, se genera una excepción {{jsxref("TypeError")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the ownership of an object is transferred, it becomes unusable in the context it was sent from and becomes available only to the worker it was sent to.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115711Z" creationid="gitnacho" creationdate="20221007T115711Z">
@@ -32635,6 +32691,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The elements must match the data types of the corresponding elements in the `tag`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140352Z" creationid="gitnacho" creationdate="20221019T140352Z">
+        <seg>Los elementos deben coincidir con los tipos de datos de los elementos correspondientes en la etiqueta — `tag`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The end result?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064335Z" creationid="gitnacho" creationdate="20221004T064335Z">
@@ -35488,6 +35552,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T034622Z" creationid="gitnacho" creationdate="20220921T034622Z">
         <seg>Esto está bien, ya que puedes corregir tu código y luego intentarlo de nuevo la próxima vez que se registre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is `false` by default (if `options` or `options.traceStack` are not provided).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140546Z" creationid="gitnacho" creationdate="20221019T140546Z">
+        <seg>Este es `false` de forma predeterminada (si no se proporcionan `options` u `options.traceStack`).</seg>
       </tuv>
     </tu>
     <tu>
