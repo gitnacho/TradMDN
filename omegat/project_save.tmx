@@ -19343,6 +19343,14 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; import function that will be referred to here as $throwExnWithStack</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204057Z" creationid="gitnacho" creationdate="20221019T204057Z">
+        <seg>;; importa la función a la que nos referiremos aquí como $throwExnWithStack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; import tag that will be referred to here as $tagname</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143941Z" creationid="gitnacho" creationdate="20221008T023328Z">
@@ -24361,6 +24369,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consider the following WebAssembly code, which is assumed to be compiled to a file named **example.wasm**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203816Z" creationid="gitnacho" creationdate="20221019T203816Z">
+        <seg>Considera el siguiente código WebAssembly, que se supone está compilado en un archivo llamado **`example.wasm`**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consider the following code:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210921T040542Z" creationid="gitnacho" creationdate="20210921T040542Z">
@@ -28289,10 +28305,26 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It exports the method `run` that can be called by external code to call `$throwExnWithStack` (and hence the JavaScript function).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203943Z" creationid="gitnacho" creationdate="20221019T203943Z">
+        <seg>Exporta el método `run` que un código externo puede llamar para invocar a `$throwExnWithStack` (y por lo tanto la función de JavaScript).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It gives Web content access to the location of the device.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220902T062606Z" creationid="gitnacho" creationdate="20220902T062606Z">
         <seg>Da acceso al contenido Web a la ubicación del dispositivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has approximately this format (see [stack trace conventions](https://webassembly.github.io/spec/web-api/index.html#conventions) in the specification for more information):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203732Z" creationid="gitnacho" creationdate="20221019T203732Z">
+        <seg>Tiene aproximadamente este formato (consulta [convenciones de seguimiento de pila](https://webassembly.github.io/spec/web-api/index.html#conventions) en la especificación para obtener más información):</seg>
       </tuv>
     </tu>
     <tu>
@@ -35831,6 +35863,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This example demonstrate how to throw an exception from WebAssembly that includes a stack trace.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203750Z" creationid="gitnacho" creationdate="20221019T203750Z">
+        <seg>Este ejemplo demuestra cómo generar una excepción desde WebAssembly que incluye un seguimiento de la pila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This example is from the MDN [simple service worker example](https://github.com/mdn/dom-examples/tree/main/service-worker/simple-service-worker) (see [simple service worker running live](https://bncb2v.csb.app/)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T225255Z" creationid="gitnacho" creationdate="20220921T225255Z">
@@ -35991,6 +36031,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This imports a tag, which it refers to as `$tagname` internally, and imports a function that it refers to as `$throwExnWithStack`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203844Z" creationid="gitnacho" creationdate="20221019T203844Z">
+        <seg>Esto importa una etiqueta, a la que internamente, se refiere como `$tagname` e importa una función a la que se refiere como `$throwExnWithStack`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This imports a tag, which it refers to internally as `$tagname`, and exports a method `run` that can be called by external code to throw an exception using the tag.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142815Z" creationid="gitnacho" creationdate="20221019T142815Z">
@@ -36107,6 +36155,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205335Z" creationid="gitnacho" creationdate="20221005T205227Z">
         <seg>Esta es una excelente manera de ayudar a explicar tramos de código largos o complicados con mayor claridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a human readable string indicating the URL, name of the function type called, the function index, and its offset in the module binary.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203704Z" creationid="gitnacho" creationdate="20221019T203704Z">
+        <seg>Esta es una cadena legible por humanos que indica la URL, el nombre del tipo de función llamada, el índice de la función y su compensación en el binario del módulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40118,6 +40174,18 @@ crate-type = ["cdylib"]</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211208T055948Z" creationid="nacho" creationdate="20170312T060051Z">
         <seg>```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```
+${url}:wasm-function[${funcIndex}]:${pcOffset}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203735Z" creationid="gitnacho" creationdate="20221019T203735Z">
+        <seg>```
+${url}:wasm-function[${funcIndex}]:${pcOffset}
+```</seg>
       </tuv>
     </tu>
     <tu>
