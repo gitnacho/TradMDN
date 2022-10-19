@@ -3088,6 +3088,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Synchronously compiling a WebAssembly module</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231526Z" creationid="gitnacho" creationdate="20221019T231526Z">
+        <seg>### Compilar sincrónicamente un módulo WebAssembly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Synchronously instantiating a WebAssembly module</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T223521Z" creationid="gitnacho" creationdate="20221005T223521Z">
@@ -8942,6 +8950,14 @@ original_slug: WebAssembly/JavaScript_interface/Exception/is
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T185504Z" creationid="gitnacho" creationdate="20221007T185504Z">
         <seg>- Si `source` no es una [`Response`](/es/docs/Web/API/Response) o `Promise` que se traduce en una `Response`,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If compilation fails, the constructor rejects with a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231449Z" creationid="gitnacho" creationdate="20221019T231449Z">
+        <seg>- Si la compilación falla, el constructor rechaza con un</seg>
       </tuv>
     </tu>
     <tu>
@@ -22674,6 +22690,21 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T192353Z" creationid="gitnacho" creationdate="20221003T134740Z">
         <seg>&gt; **Advertencia:** Nunca llames a `document.write()` desde un script asíncrono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Warning:** Since compilation for large modules can be expensive,
+&gt; developers should only use the `Module()` constructor when synchronous
+&gt; compilation is absolutely required; the asynchronous
+&gt; [`WebAssembly.compileStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/compileStreaming) method should be used at all other times.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231432Z" creationid="gitnacho" creationdate="20221019T231432Z">
+        <seg>&gt; **Advertencia:** Dado que la compilación de módulos grandes
+&gt; puede ser costosa, los desarrolladores solo deberían usar el
+&gt; constructor `Module()` cuando la compilación sincrónica es
+&gt; absolutamente necesaria; el método [`WebAssembly.compileStreaming()`](/es/docs/WebAssembly/JavaScript_interface/compileStreaming)
+&gt; sincrónico se debe usar en todos los demás momentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43841,6 +43872,18 @@ new WebAssembly.Memory(memoryDescriptor)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215113Z" creationid="gitnacho" creationdate="20221019T215113Z">
         <seg>```js-nolint
 new WebAssembly.Memory(memoryDescriptor)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+new WebAssembly.Module(bufferSource)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231434Z" creationid="gitnacho" creationdate="20221019T231434Z">
+        <seg>```js-nolint
+new WebAssembly.Module(bufferSource)
 ```</seg>
       </tuv>
     </tu>
