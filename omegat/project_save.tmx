@@ -2114,8 +2114,8 @@
       <tuv lang="en-US">
         <seg>### Creating a new LinkError instance</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075254Z" creationid="gitnacho" creationdate="20221008T075254Z">
-        <seg>### Creando una nueva instancia de LinkError</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T211838Z" creationid="gitnacho" creationdate="20221008T075254Z">
+        <seg>### Crear una nueva instancia de `LinkError`</seg>
       </tuv>
     </tu>
     <tu>
