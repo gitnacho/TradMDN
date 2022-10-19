@@ -7892,6 +7892,15 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Buffer</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213009Z" creationid="gitnacho" creationdate="20221019T213009Z">
+        <seg>- Buffer
+  - Búfer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Bugs</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T113104Z" creationid="gitnacho" creationdate="20221005T113104Z">
@@ -13932,6 +13941,20 @@ original_slug: WebAssembly/JavaScript_interface/instanciar
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- memory
+browser-compat: javascript.builtins.WebAssembly.Memory.buffer
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213031Z" creationid="gitnacho" creationdate="20221019T213031Z">
+        <seg>- memory
+browser-compat: javascript.builtins.WebAssembly.Memory.buffer
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Memory/búfer
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- meta</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T094603Z" creationid="gitnacho" creationdate="20221005T094603Z">
@@ -17537,6 +17560,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.Memory
 slug: WebAssembly/JavaScript_interface/Memory
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Memory.prototype.buffer
+slug: WebAssembly/JavaScript_interface/Memory/buffer
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T212949Z" creationid="gitnacho" creationdate="20221019T212949Z">
+        <seg>---
+title: WebAssembly.Memory.prototype.buffer
+slug: WebAssembly/JavaScript_interface/Memory/buffer
 tags:</seg>
       </tuv>
     </tu>
