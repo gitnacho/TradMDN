@@ -10343,6 +10343,20 @@ original_slug: WebAssembly/JavaScript_interface/Excepción
     <tu>
       <tuv lang="en-US">
         <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Exception.Exception
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135819Z" creationid="gitnacho" creationdate="20221019T135819Z">
+        <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Exception.Exception
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Exception/Excepción
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Global
 ---</seg>
       </tuv>
@@ -17069,9 +17083,9 @@ title: WebAssembly.Exception constructor
 slug: WebAssembly/JavaScript_interface/Exception/Exception
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T010544Z" creationid="gitnacho" creationdate="20221006T010544Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135543Z" creationid="gitnacho" creationdate="20221006T010544Z">
         <seg>---
-title: WebAssembly.Exception constructor
+title: Constructor WebAssembly.Exception
 slug: WebAssembly/JavaScript_interface/Exception/Exception
 tags:</seg>
       </tuv>
