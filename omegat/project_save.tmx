@@ -33291,6 +33291,14 @@ instanciar sincrónicamente un objeto [`WebAssembly.Module`](/es/docs/WebAssembl
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `shared` attribute is only documented in [the Threading proposal for WebAssembly](https://github.com/WebAssembly/threads/blob/master/proposals/threads/Overview.md#javascript-api-changes) and not part of the official specs.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220727Z" creationid="gitnacho" creationdate="20221019T220727Z">
+        <seg>El atributo `shared` solo está documentado en [la propuesta de creación de subprocesos para WebAssembly](https://github.com/WebAssembly/threads/blob/master/proposals/threads/Overview.md#javascript-api-changes) y no forma parte de la especificación oficial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `src` attribute will be ignored.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T132708Z" creationid="gitnacho" creationdate="20221003T132708Z">
@@ -39866,9 +39874,9 @@ función exportada desde su interior.</seg>
         <seg>You can create a [shared memory](/en-US/docs/WebAssembly/Understanding_the_text_format#shared_memories)
 from JavaScript by passing `shared: true` in the constructor's initialization object:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220426Z" creationid="gitnacho" creationdate="20221019T220426Z">
-        <seg>Puedes crear una [memoria compartida](/es/docs/WebAssembly/Understanding_the_text_format#shared_memories)
-desde JavaScript pasando `shared: true` en el objeto de inicialización del constructor:</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220649Z" creationid="gitnacho" creationdate="20221019T220426Z">
+        <seg>Puedes crear una [memoria compartida](/es/docs/WebAssembly/Understanding_the_text_format#memoria_compartida)
+desde JavaScript pasando `shared: true` en la inicialización del objeto constructor:</seg>
       </tuv>
     </tu>
     <tu>
