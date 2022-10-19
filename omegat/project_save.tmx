@@ -10275,6 +10275,20 @@ original_slug: WebAssembly/JavaScript_interface/CompileError
     <tu>
       <tuv lang="en-US">
         <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.CompileError.CompileError
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134852Z" creationid="gitnacho" creationdate="20221019T134657Z">
+        <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.CompileError.CompileError
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/CompileError/CompileError
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Exception
 ---</seg>
       </tuv>
@@ -31469,6 +31483,18 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050304Z" creationid="gitnacho" creationdate="20221005T050304Z">
         <seg>El arreglo con tipo **`Uint8ClampedArray`** representa un arreglo de enteros sin signo de 8 bits sujetos a 0-255; si especificaste un valor que está fuera del rango de \[0,255], se establecerá 0 o 255 en su lugar; si especificas un valor no entero, se establecerá el entero más cercano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`WebAssembly.CompileError()`** constructor creates a new
+WebAssembly `CompileError` object, which indicates an error during
+WebAssembly decoding or validation.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134915Z" creationid="gitnacho" creationdate="20221019T134833Z">
+        <seg>El constructor **`WebAssembly.CompileError()`** crea un nuevo
+objeto `CompileError` de WebAssembly, que indica un error durante la
+decodificación o validación de WebAssembly.</seg>
       </tuv>
     </tu>
     <tu>
