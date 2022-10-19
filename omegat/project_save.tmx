@@ -7182,6 +7182,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The index of the function reference you want to mutate.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234000Z" creationid="gitnacho" creationdate="20221019T234000Z">
+        <seg>- : El índice de la referencia de la función que deseas mutar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The index of the function reference you want to retrieve.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091659Z" creationid="gitnacho" creationdate="20221006T091659Z">
@@ -7444,6 +7452,14 @@ original_slug: Web/HTTP/CORS
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110731Z" creationid="gitnacho" creationdate="20221007T110731Z">
         <seg>- : El valor que contiene la variable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : The value you want to mutate the reference to.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234006Z" creationid="gitnacho" creationdate="20221019T234006Z">
+        <seg>- : El valor al que deseas mutar la referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8910,6 +8926,22 @@ original_slug: WebAssembly/JavaScript_interface/Exception/is
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114159Z" creationid="gitnacho" creationdate="20221005T114159Z">
         <seg>- Icono: {{Non-standard_Inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If _index_ is greater than or equal</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234038Z" creationid="gitnacho" creationdate="20221019T234038Z">
+        <seg>- Si _index_ es mayor o igual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If _value_ is not an exported WebAssembly function or</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234131Z" creationid="gitnacho" creationdate="20221019T234131Z">
+        <seg>- Si _value_ no es una función WebAssembly exportada o</seg>
       </tuv>
     </tu>
     <tu>
@@ -14393,9 +14425,9 @@ original_slug: Web/API/Worker/postMessage
       <tuv lang="en-US">
         <seg>- set</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233806Z" creationid="gitnacho" creationdate="20221019T233806Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233947Z" creationid="gitnacho" creationdate="20221019T233806Z">
         <seg>- set
-  - conjunto</seg>
+  - establecer</seg>
       </tuv>
     </tu>
     <tu>
@@ -33280,6 +33312,16 @@ the {{domxref("Cache")}} object matching the `cacheName`.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`set()`** prototype method of
+the [`WebAssembly.Table`](/en-US/docs/WebAssembly/JavaScript_interface/Table) object mutates a reference stored at a given index
+to a different value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233936Z" creationid="gitnacho" creationdate="20221019T233936Z">
+        <seg>El método prototipo **`set()`** de el objeto [`WebAssembly.Table`](/es/docs/WebAssembly/JavaScript_interface/Table) muta una referencia almacenada en un índice dado a un valor diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`state`** read-only property of the
 {{domxref("ServiceWorker")}} interface returns a string representing the current state
 of the service worker.</seg>
@@ -37935,6 +37977,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This must be an [exported WebAssembly function](/en-US/docs/WebAssembly/Exported_functions),</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234017Z" creationid="gitnacho" creationdate="20221019T234017Z">
+        <seg>Debe ser una [función WebAssembly exportada](/es/docs/WebAssembly/Exported_functions),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This needs to be done using Git.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212416Z" creationid="gitnacho" creationdate="20221005T212416Z">
@@ -41140,6 +41190,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[`null`](/en-US/docs/Web/JavaScript/Reference/Operators/null),</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234139Z" creationid="gitnacho" creationdate="20221019T234139Z">
+        <seg>[`null`](/es/docs/Web/JavaScript/Reference/Operators/null),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[`optional_inline`](https://github.com/mdn/yari/blob/main/kumascript/macros/optional_inline.ejs) and [`ReadOnlyInline`](https://github.com/mdn/yari/blob/main/kumascript/macros/ReadOnlyInline.ejs) are used in API documentation, usually when describing the list of properties of an object or parameters of a function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114925Z" creationid="gitnacho" creationdate="20221005T113954Z">
@@ -44098,6 +44156,18 @@ postMessage(message, transfer)
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```js-nolint
+set(index, value)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233949Z" creationid="gitnacho" creationdate="20221019T233949Z">
+        <seg>```js-nolint
+set(index, value)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>```json
 {</seg>
       </tuv>
@@ -44818,6 +44888,22 @@ call_indirect $my_spicy_table (type $i32_to_void)
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101833Z" creationid="gitnacho" creationdate="20221006T101833Z">
         <seg>un módulo `.wasm` que deseas transmitir, compilar e instanciar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a JavaScript wrapper for an underlying wasm function.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234030Z" creationid="gitnacho" creationdate="20221019T234030Z">
+        <seg>un contenedor de JavaScript para una función `wasm` subyacente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a {{jsxref("TypeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234155Z" creationid="gitnacho" creationdate="20221019T234155Z">
+        <seg>se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50959,6 +51045,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>to [`Table.prototype.length`](/en-US/docs/WebAssembly/JavaScript_interface/Table/length), a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234126Z" creationid="gitnacho" creationdate="20221019T234050Z">
+        <seg>a [`Table.prototype.length`](/es/docs/WebAssembly/JavaScript_interface/Table/length),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>to the engine to reserve memory up front.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215229Z" creationid="gitnacho" creationdate="20221019T215229Z">
@@ -51601,6 +51695,14 @@ xhr.send();
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193131Z" creationid="gitnacho" creationdate="20221007T193131Z">
         <seg>{{jsxref("ArrayBuffer")}}, y realiza tanto la compilación como la instanciación en un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{jsxref("RangeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234110Z" creationid="gitnacho" creationdate="20221019T234110Z">
+        <seg>lanza un {{JSxRef("RangeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
