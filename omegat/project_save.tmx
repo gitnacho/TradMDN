@@ -21251,6 +21251,14 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** It is not enough that the tag has an identical sequence of data types — it must have the same _identity_ (be the same tag) as was used to create the exception.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142351Z" creationid="gitnacho" creationdate="20221019T142351Z">
+        <seg>&gt; **Nota:** No es suficiente que la etiqueta tenga una secuencia idéntica de tipos de datos; debe tener la misma _identidad_ (ser la misma etiqueta) que se usó para crear la excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Just like Memory, Tables can also be created from JavaScript (see [`WebAssembly.Table()`](/en-US/docs/WebAssembly/JavaScript_interface/Table)) as well as imported to/from another wasm module.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073546Z" creationid="gitnacho" creationdate="20221007T073546Z">
@@ -31515,6 +31523,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tags that are neither imported into or exported from the WebAssembly code are internal, and their associated [`WebAssembly.Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) cannot be queried using this method!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142306Z" creationid="gitnacho" creationdate="20221019T142306Z">
+        <seg>Las etiquetas que no se importan ni se exportan desde el código WebAssembly son internas y su [`WebAssembly.Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception) asociada no se puede consultar con este método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Take a copy of the following simple C example, and save it in a file called `hello.c` in a new directory on your local drive:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T105510Z" creationid="gitnacho" creationdate="20221003T105510Z">
@@ -31857,8 +31873,8 @@ given index.</seg>
       <tuv lang="en-US">
         <seg>The **`getArg()`** prototype method of the [`Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) object can be used to get the value of a specified item in the exception's data arguments.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T141625Z" creationid="gitnacho" creationdate="20221019T141625Z">
-        <seg>The **`getArg()`** prototype method of the [`Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) object can be used to get the value of a specified item in the exception's data arguments.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142202Z" creationid="gitnacho" creationdate="20221019T141625Z">
+        <seg>El método prototipo **`getArg()`** del objeto [`Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception) se puede usar para obtener el valor de un elemento específico en los argumentos de datos de la excepción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33387,6 +33403,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035341Z" creationid="gitnacho" creationdate="20220921T035341Z">
         <seg>La coincidencia se realiza a través de URL y varios encabezados, al igual que con las solicitudes HTTP normales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The method passes a [`WebAssembly.Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag) and will only succeed if the thrown `Exception` was created using the same tag, otherwise it will throw a `TypeError`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142226Z" creationid="gitnacho" creationdate="20221019T142226Z">
+        <seg>El método pasa una [`WebAssembly.Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) y solo tendrá éxito si la `Exception` lanzada se creó usando la misma etiqueta; de lo contrario, lanzará un `TypeError` .</seg>
       </tuv>
     </tu>
     <tu>
@@ -35358,6 +35382,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040903Z" creationid="gitnacho" creationdate="20220921T040903Z">
         <seg>Esto garantiza que la descarga comience de inmediato al navegar a una página, en lugar de tener que esperar hasta que se inicie el *service worker*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This ensures that the exception can only be read if the calling code has access to the tag.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142241Z" creationid="gitnacho" creationdate="20221019T142241Z">
+        <seg>Esto garantiza que la excepción solo se pueda leer si el código de llamada tiene acceso a la etiqueta.</seg>
       </tuv>
     </tu>
     <tu>
