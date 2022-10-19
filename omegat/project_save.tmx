@@ -22841,6 +22841,14 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A (possibly empty) array containing {{jsxref("ArrayBuffer")}} copies of the contents of all custom sections matching `sectionName`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221936Z" creationid="gitnacho" creationdate="20221019T221936Z">
+        <seg>Un arreglo (posiblemente vacío) que contiene {{JSxRef("ArrayBuffer")}} copias del contenido de todas las secciones personalizadas que coinciden con `sectionName`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A **`WebAssembly.Global()`** constructor creates a new `Global` object representing a global variable instance, accessible from both JavaScript and importable/exportable across one or more [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module) instances.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110912Z" creationid="gitnacho" creationdate="20221007T110912Z">
@@ -23299,6 +23307,14 @@ JavaScript wrapper for an underlying wasm function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T181112Z" creationid="gitnacho" creationdate="20221005T121943Z">
         <seg>Un `view` es una forma definida de ver la imagen, con un nivel de zoom o una vista detallada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A wasm module consists of a sequence of **sections**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222024Z" creationid="gitnacho" creationdate="20221019T222024Z">
+        <seg>Un módulo `wasm` consta de una secuencia de **secciones**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27071,6 +27087,15 @@ se lanza un {{jsxref("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If `module` is not a [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module) object instance, a
+{{jsxref("TypeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222012Z" creationid="gitnacho" creationdate="20221019T222012Z">
+        <seg>Si `module` no es una instancia del objeto [`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module), se lanza un {{JSxRef("TypeError")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If `referrerpolicy` is not explicitly specified on the `&lt;script&gt;` element, it will adopt a higher-level referrer policy, i.e. one set on the whole document or domain.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130341Z" creationid="gitnacho" creationdate="20221003T130341Z">
@@ -30153,6 +30178,20 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T095325Z" creationid="gitnacho" creationdate="20221005T095325Z">
         <seg>La mayoría de las fuentes de macros tienen documentación incorporada, como comentarios en la parte superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of these
+sections are fully specified and validated by the wasm spec, but modules can also
+contain **custom sections** that are ignored and skipped over during
+validation.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222031Z" creationid="gitnacho" creationdate="20221019T222031Z">
+        <seg>Most of these
+sections are fully specified and validated by the wasm spec, but modules can also
+contain **custom sections** that are ignored and skipped over during
+validation.</seg>
       </tuv>
     </tu>
     <tu>
