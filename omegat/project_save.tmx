@@ -18328,8 +18328,9 @@ console.log(y[0]); // 21</seg>
       <tuv lang="en-US">
         <seg>// Import the tag using its name from the WebAssembly module</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143300Z" creationid="gitnacho" creationdate="20221019T143300Z">
-        <seg>// Importa la etiqueta usando su nombre del módulo WebAssembly</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144219Z" creationid="gitnacho" creationdate="20221019T143300Z">
+        <seg>// Importa la etiqueta usando su nombre del módulo
+// WebAssembly</seg>
       </tuv>
     </tu>
     <tu>
@@ -18408,9 +18409,9 @@ console.log(y[0]); // 21</seg>
       <tuv lang="en-US">
         <seg>// Note: the import object properties match the import statement in WebAssembly code!</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143741Z" creationid="gitnacho" creationdate="20221019T143032Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144202Z" creationid="gitnacho" creationdate="20221019T143032Z">
         <seg>// Nota: ¡las propiedades del objeto import coinciden con la
-//           declaración import en el código de WebAssembly!</seg>
+//        declaración import en el código de WebAssembly!</seg>
       </tuv>
     </tu>
     <tu>
