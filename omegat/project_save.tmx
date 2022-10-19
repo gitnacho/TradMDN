@@ -25951,6 +25951,19 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, we load and instantiate a wasm module (table2.wasm) using the
+[`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming), log the table length, and invoke the
+two referenced functions that are now stored in the table (the table2.wasm module (see
+[text representation](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.wat))
+adds two function references to the table, both of which print out
+a simple value):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234646Z" creationid="gitnacho" creationdate="20221019T234646Z">
+        <seg>Finalmente, cargamos e instanciamos un módulo `wasm` (`table2.wasm`) usando el [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming), registra la longitud de la tabla e invoca a las dos funciones referenciadas que ahora están almacenadas en la tabla (el módulo `table2.wasm` (ve la [representación de texto](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.wat)) agrega dos referencias de función a la tabla, las cuales imprimen un valor simple):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally, we load and instantiate a wasm module (table2.wasm) using the [`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) method.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095621Z" creationid="gitnacho" creationdate="20221006T095621Z">
@@ -30822,6 +30835,17 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225953Z" creationid="gitnacho" creationdate="20221006T225953Z">
         <seg>Observa cómo creamos la vista {{jsxref("Uint32Array")}} en el búfer del objeto `Memory` ([`Memory.prototype.buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer)), no en `Memory` mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note how you've got to include a second function invocation operator at the end of the
+accessor to actually invoke the referenced function and log the value stored inside it
+(e.g. `get(0)()` rather than `get(0)`) .</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234730Z" creationid="gitnacho" creationdate="20221019T234730Z">
+        <seg>Ten en cuenta que debes incluir un segundo operador de invocación de función al final del
+accesor para invocar realmente la función a la que se hace referencia y registrar el valor almacenado en su interior, (por ejemplo, `get(0)()` en lugar de `get(0)`).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37152,6 +37176,15 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023202Z" creationid="gitnacho" creationdate="20221008T023202Z">
         <seg>Este ejemplo muestra cómo definir una etiqueta e importarla a un módulo, luego usarla para generar una excepción que se detecta en JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This example shows that we're creating and accessing the table from JavaScript, but the
+same table is visible and callable inside the wasm instance too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234803Z" creationid="gitnacho" creationdate="20221019T234803Z">
+        <seg>Este ejemplo muestra que estamos creando y accediendo a la tabla desde JavaScript, pero la misma tabla también es visible y se puede llamar dentro de la instancia de `wasm`.</seg>
       </tuv>
     </tu>
     <tu>
