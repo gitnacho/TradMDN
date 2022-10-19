@@ -18999,6 +18999,22 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Log output (something like):
+// stack: throwExceptionWithStack@http://&lt;url&gt;/main.js:76:9
+// @http://&lt;url&gt;/example.wasm:wasm-function[3]:0x73
+// @http://&lt;url&gt;/main.js:82:38
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204617Z" creationid="gitnacho" creationdate="20221019T204406Z">
+        <seg>//registra la salida (algo similar a):
+// stack: throwExceptionWithStack@http://&lt;url&gt;/main.js:76:9
+// @http://&lt;url&gt;/example.wasm:wasm-function[3]:0x73
+// @http://&lt;url&gt;/main.js:82:38
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T060205Z" creationid="gitnacho" creationdate="20220828T060205Z">
@@ -30733,6 +30749,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Passing in `{traceStack: true}` tells the WebAssembly virtual machine that it should attach a stack trace to the returned `WebAssembly.Exception`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204504Z" creationid="gitnacho" creationdate="20221019T204504Z">
+        <seg>Pasar `{traceStack: true}` le dice a la máquina virtual WebAssembly que debe adjuntar un seguimiento de pila a la `WebAssembly.Exception` devuelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performance entries are also created in indirect ways such as loading a resource (such as an image).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T205835Z" creationid="gitnacho" creationdate="20220913T205835Z">
@@ -33865,6 +33889,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142226Z" creationid="gitnacho" creationdate="20221019T142226Z">
         <seg>El método pasa una [`WebAssembly.Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) y solo tendrá éxito si la `Exception` lanzada se creó usando la misma etiqueta; de lo contrario, lanzará un `TypeError` .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most "relevant" part of this code is the line where the exception is created:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204444Z" creationid="gitnacho" creationdate="20221019T204444Z">
+        <seg>La parte más "relevante" de este código es la línea donde se crea la excepción:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39061,6 +39093,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Without this, the stack would be `undefined`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204515Z" creationid="gitnacho" creationdate="20221019T204515Z">
+        <seg>Sin esto, la pila sería `undefined`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Work through each section, learning new skills (or improving existing ones) as you go along.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223420Z" creationid="gitnacho" creationdate="20221018T223420Z">
@@ -42370,6 +42410,18 @@ navigator.serviceWorker.register("/sw.js").then((swr) =&gt; {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+new WebAssembly.Exception(tag, [param], { traceStack: true });
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204446Z" creationid="gitnacho" creationdate="20221019T204446Z">
+        <seg>```js
+new WebAssembly.Exception(tag, [param], { traceStack: true });
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 self.addEventListener("fetch", (event) =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035247Z" creationid="gitnacho" creationdate="20220921T035247Z">
@@ -44355,6 +44407,14 @@ console.log(ClassWithStaticField.staticField);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>console.log(`stack: ${e.stack}`);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204347Z" creationid="gitnacho" creationdate="20221019T204347Z">
+        <seg>console.log(`stack: ${e.stack}`);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>console.log(`value: ${value}`);
 });
 console.log(`original === cast ?</seg>
@@ -45994,6 +46054,14 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T113125Z" creationid="gitnacho" creationdate="20221019T113125Z">
         <seg>extmod: {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>exttag: tag,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204343Z" creationid="gitnacho" creationdate="20221019T204343Z">
+        <seg>exttag: tag,</seg>
       </tuv>
     </tu>
     <tu>
@@ -49246,6 +49314,14 @@ tags:</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T121504Z" creationid="gitnacho" creationdate="20221019T121504Z">
         <seg>throw new WebAssembly.RuntimeError("Hello", "someFile", 10);
 } catch (e) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>throwExnWithStack: throwExceptionWithStack,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204345Z" creationid="gitnacho" creationdate="20221019T204345Z">
+        <seg>throwExnWithStack: throwExceptionWithStack,</seg>
       </tuv>
     </tu>
     <tu>
