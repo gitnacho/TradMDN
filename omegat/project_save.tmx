@@ -10834,6 +10834,20 @@ original_slug: WebAssembly/JavaScript_interface/Módulo
     <tu>
       <tuv lang="en-US">
         <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Module.Module
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231028Z" creationid="gitnacho" creationdate="20221019T231028Z">
+        <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.Module.Module
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Module/Módulo
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.RuntimeError
 ---</seg>
       </tuv>
@@ -22979,6 +22993,16 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A **`WebAssembly.Module()`** constructor creates a new Module
+object containing stateless WebAssembly code that has already been compiled by the
+browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/postMessage), and instantiated multiple times.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231126Z" creationid="gitnacho" creationdate="20221019T231126Z">
+        <seg>Un constructor **`WebAssembly.Module()`** crea un nuevo objeto `Module` que contiene código WebAssembly sin estado que ya ha sido compilado por el navegador y se puede [compartir con los `workers`](/es/docs/Web/API/Worker/postMessage) de manera eficiente y se puede instanciar varias veces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A **`WebAssembly.Module`** object contains stateless WebAssembly code that has already been compiled by the browser — this can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/postMessage), and instantiated multiple times.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T111342Z" creationid="gitnacho" creationdate="20221007T111342Z">
@@ -27130,6 +27154,16 @@ la aplicación.</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210425Z" creationid="gitnacho" creationdate="20221019T210425Z">
         <seg>Sin embargo, la forma preferida de obtener una `Instance` es a través del modo asíncrono
 [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming), por ejemplo, así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the primary way to get a
+`Module` is through an asynchronous compilation function like
+[`WebAssembly.compile()`](/en-US/docs/WebAssembly/JavaScript_interface/compile).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231212Z" creationid="gitnacho" creationdate="20221019T231212Z">
+        <seg>Sin embargo, la forma principal de obtener una `Module` es a través de una función de compilación asíncrona como [`WebAssembly.compile()`](/es/docs/WebAssembly/JavaScript_interface/compile).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33446,6 +33480,15 @@ instanciar sincrónicamente un objeto [`WebAssembly.Module`](/es/docs/WebAssembl
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T223559Z" creationid="gitnacho" creationdate="20221005T223559Z">
         <seg>Se puede llamar a la función constructor `WebAssembly.Instance()` para instanciar sincrónicamente un objeto [`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module), por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `WebAssembly.Module()` constructor function can be called to
+synchronously compile given WebAssembly binary code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T231144Z" creationid="gitnacho" creationdate="20221019T231144Z">
+        <seg>Se puede llamar a la función constructora `WebAssembly.Module()` para compilar sincrónicamente el código binario de WebAssembly dado.</seg>
       </tuv>
     </tu>
     <tu>
