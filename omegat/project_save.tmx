@@ -3176,6 +3176,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Using Table.set</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234206Z" creationid="gitnacho" creationdate="20221019T234206Z">
+        <seg>### Usar `Table.set`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Using a custom HTML template</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T110535Z" creationid="gitnacho" creationdate="20221003T110535Z">
@@ -34567,6 +34575,17 @@ lo compila y crea la instancia, cumpliendo la promesa con un `ResultObject`.</se
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following example (see table2.html [source code](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.html)
+and [live version](https://mdn.github.io/webassembly-examples/js-api-examples/table2.html))
+creates a new WebAssembly Table instance with an initial size of 2
+references.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234331Z" creationid="gitnacho" creationdate="20221019T234331Z">
+        <seg>El siguiente ejemplo (ve el [código fuente](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.html) de `table2.html` y la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/table2.html)) crea una nueva instancia de `Table` de WebAssembly con un tamaño inicial de 2 referencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following example (see table2.html [source code](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.html) and [live version](https://mdn.github.io/webassembly-examples/js-api-examples/table2.html)) creates a new WebAssembly Table instance with an initial size of 2 elements.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095442Z" creationid="gitnacho" creationdate="20221006T095442Z">
@@ -39280,6 +39299,14 @@ que es exportada por la `Instance`.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We then create an import object that contains a reference to the table:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234506Z" creationid="gitnacho" creationdate="20221019T234506Z">
+        <seg>Luego creamos un objeto `import` que contiene una referencia a la tabla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We then create an import object that contains the table:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095552Z" creationid="gitnacho" creationdate="20221006T095552Z">
@@ -39292,6 +39319,19 @@ que es exportada por la `Instance`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085613Z" creationid="gitnacho" creationdate="20221006T085613Z">
         <seg>Luego obtenemos la función exportada desde el módulo, recuperamos las funciones a las que hace referencia a través de [`tbl.get()`](/es/docs/WebAssembly/JavaScript_interface/Table/get) y registramos el resultado de invocar cada una a la consola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We then print out the table length and contents of the two indexes
+(retrieved via [`Table.prototype.get()`](/en-US/docs/WebAssembly/JavaScript_interface/Table/get)) to show that
+the length is two, and the indexes currently contain no function references (they
+currently return [`null`](/en-US/docs/Web/JavaScript/Reference/Operators/null)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234443Z" creationid="gitnacho" creationdate="20221019T234443Z">
+        <seg>Luego imprimimos la longitud de la tabla y el contenido de los dos índices
+(obtenidos a través de [`Table.prototype.get()`](/es/docs/WebAssembly/JavaScript_interface/Table/get)) para mostrar que la longitud es dos, y los índices actualmente no contienen referencias a funciones (actualmente no
+devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43424,6 +43464,24 @@ const tagToImport = new WebAssembly.Tag({ parameters: ["i32"] });</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023455Z" creationid="gitnacho" creationdate="20221008T023455Z">
         <seg>```js
 const tagToImport = new WebAssembly.Tag({ parameters: ["i32"] });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+const tbl = new WebAssembly.Table({ initial: 2, element: "anyfunc" });
+console.log(tbl.length);
+console.log(tbl.get(0));
+console.log(tbl.get(1));
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T234448Z" creationid="gitnacho" creationdate="20221019T234448Z">
+        <seg>```js
+const tbl = new WebAssembly.Table({ initial: 2, element: "anyfunc" });
+console.log(tbl.length);
+console.log(tbl.get(0));
+console.log(tbl.get(1));
+```</seg>
       </tuv>
     </tu>
     <tu>
