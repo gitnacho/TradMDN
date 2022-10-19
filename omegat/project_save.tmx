@@ -21571,6 +21571,14 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Stack traces are not normally sent from WebAssembly code to improve performance.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203555Z" creationid="gitnacho" creationdate="20221019T203555Z">
+        <seg>&gt; **Nota:** Los seguimientos de la pila normalmente no se envían desde el código de WebAssembly para mejorar el rendimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Tables can currently only store function references, but this will likely be expanded in the future.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095042Z" creationid="gitnacho" creationdate="20221006T095042Z">
@@ -22196,6 +22204,14 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; The ability to add stack traces to these exceptions is provided for developer tooling, and is not generally recommended for broader use.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203613Z" creationid="gitnacho" creationdate="20221019T203613Z">
+        <seg>&gt; La capacidad de agregar seguimientos de pila a estas excepciones se proporciona para herramientas de desarrollador y, por lo general, no se recomienda para un uso más amplio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; The first word of the info string is typically used to specify the language of the code sample, and rendered in the class attribute of the code tag.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174613Z" creationid="gitnacho" creationdate="20221008T174613Z">
@@ -22758,6 +22774,14 @@ JavaScript wrapper for an underlying wasm function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T230337Z">
         <seg>Se debe establecer un indicador específico en el objeto `XMLHttpRequest` o en el constructor {{DOMxRef("Request")}} cuando se invoca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A string containing the stack trace, or {{jsxref("undefined")}} if no trace has been assigned.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203636Z" creationid="gitnacho" creationdate="20221019T203636Z">
+        <seg>Una cadena que contiene el seguimiento de la pila, o {{JSxRef("undefined")}} si no se ha asignado ningún seguimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25032,6 +25056,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exceptions from WebAssembly code do not include a stack trace by default.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203433Z" creationid="gitnacho" creationdate="20221019T203433Z">
+        <seg>Las excepciones del código de WebAssembly no incluyen un seguimiento de pila de forma predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explore the island and defeat the monsters.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T071319Z" creationid="gitnacho" creationdate="20221012T071319Z">
@@ -26472,6 +26504,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211103T080624Z" creationid="gitnacho" creationdate="20211103T080624Z">
         <seg>Si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If WebAssembly code needs to provide a stack trace, it must call a JavaScript function to create the exception, passing `options.traceStack=true` parameter in the [constructor](/en-US/docs/WebAssembly/JavaScript_interface/Exception/Exception).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203510Z" creationid="gitnacho" creationdate="20221019T203510Z">
+        <seg>Si el código de WebAssembly necesita proporcionar un seguimiento de la pila, debes llamar a una función de JavaScript para crear la excepción, pasando el parámetro `options.traceStack=true` en el [constructor](/es/docs/WebAssembly/JavaScript_interface/Exception/Exception ).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34322,6 +34362,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stack trace string lists the locations of each operation on the stack in WebAssembly format.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203647Z" creationid="gitnacho" creationdate="20221019T203647Z">
+        <seg>La cadena de seguimiento de la pila enumera las ubicaciones de cada operación en la pila en formato WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The static `Promise.resolve` function returns a `Promise` that is
 resolved.</seg>
       </tuv>
@@ -34492,6 +34540,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063450Z" creationid="gitnacho" creationdate="20221004T063450Z">
         <seg>La variable que estamos pasando es `name`, el argumento de la función, por lo que si llamamos a `greet("Steve")` deberíamos ver `"¡Hola, Steve!".`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The virtual machine can then attach a stack trace to the exception object returned by the constructor.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203539Z" creationid="gitnacho" creationdate="20221019T203539Z">
+        <seg>Luego, la máquina virtual puede adjuntar un seguimiento de pila al objeto `exception` devuelto por el constructor.</seg>
       </tuv>
     </tu>
     <tu>
