@@ -8248,6 +8248,20 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Exception
+browser-compat: javascript.builtins.WebAssembly.Exception.getArg
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T141619Z" creationid="gitnacho" creationdate="20221019T141619Z">
+        <seg>- Exception
+browser-compat: javascript.builtins.WebAssembly.Exception.getArg
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Exception/getArg
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Fetch</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070833Z" creationid="gitnacho" creationdate="20221004T070833Z">
@@ -13643,6 +13657,14 @@ original_slug: Web/API/ServiceWorkerContainer/Evento_controllerchange
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091231Z" creationid="gitnacho" creationdate="20221006T091231Z">
         <seg>- get</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- getArg</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T141558Z" creationid="gitnacho" creationdate="20221019T141558Z">
+        <seg>- getArg</seg>
       </tuv>
     </tu>
     <tu>
@@ -31829,6 +31851,14 @@ given index.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091635Z" creationid="gitnacho" creationdate="20221006T091635Z">
         <seg>El método prototipo **`get()`** del objeto [`WebAssembly.Table()`](/es/docs/WebAssembly/JavaScript_interface/Table) recupera una referencia de función almacenada en un índice dado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`getArg()`** prototype method of the [`Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) object can be used to get the value of a specified item in the exception's data arguments.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T141625Z" creationid="gitnacho" creationdate="20221019T141625Z">
+        <seg>The **`getArg()`** prototype method of the [`Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) object can be used to get the value of a specified item in the exception's data arguments.</seg>
       </tuv>
     </tu>
     <tu>
