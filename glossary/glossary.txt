@@ -1,6 +1,7 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
+eyedropper	cuentagotas
 header	cabecera	cabecera
 header	encabezado
 man-in-the-middle attack	ataque de intermediario
 mitm	ataque de intermediario	man-in-the-middle_attack
-eyedropper	cuentagotas
+pwa	aplicaciones web progresivas	Progresive web apps
