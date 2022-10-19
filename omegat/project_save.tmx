@@ -10606,6 +10606,20 @@ original_slug: WebAssembly/JavaScript_interface/LinkError
     <tu>
       <tuv lang="en-US">
         <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.LinkError.LinkError
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T211405Z" creationid="gitnacho" creationdate="20221019T211405Z">
+        <seg>- WebAssembly
+browser-compat: javascript.builtins.WebAssembly.LinkError.LinkError
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/LinkError/LinkError
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Memory
 ---</seg>
       </tuv>
@@ -17495,6 +17509,20 @@ tags:</seg>
         <seg>---
 title: WebAssembly.LinkError
 slug: WebAssembly/JavaScript_interface/LinkError
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.LinkError() constructor
+slug: WebAssembly/JavaScript_interface/LinkError/LinkError
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T211229Z" creationid="gitnacho" creationdate="20221019T211229Z">
+        <seg>---
+title: WebAssembly.LinkError() constructor
+slug: WebAssembly/JavaScript_interface/LinkError/LinkError
 tags:</seg>
       </tuv>
     </tu>
@@ -32244,6 +32272,20 @@ decodificación o validación de WebAssembly.</seg>
         <seg>El constructor **`WebAssembly.Instance()`** crea un nuevo
 Objeto `Instance` que es una instancia ejecutable con estado de un
 [`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`WebAssembly.LinkError()`** constructor creates a new
+WebAssembly `LinkError` object, which indicates an error during module
+instantiation (besides [traps](https://webassembly.github.io/simd/core/intro/overview.html#trap)
+from the start function).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T211623Z" creationid="gitnacho" creationdate="20221019T211623Z">
+        <seg>El constructor **`WebAssembly.LinkError()`** crea un nuevo
+Objeto `LinkError` de WebAssembly, que indica un error en el módulo durante
+la creación de instancias (además de trampas —[traps](https://webassembly.github.io/simd/core/intro/overview.html#trap)—
+desde la función de inicio).</seg>
       </tuv>
     </tu>
     <tu>
