@@ -4317,6 +4317,14 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(import "extmod" "throwExnWithStack" (func $throwExnWithStack (param i32)))</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204101Z" creationid="gitnacho" creationdate="20221019T204101Z">
+        <seg>(import "extmod" "throwExnWithStack" (func $throwExnWithStack (param i32)))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(import "js" "mem" (memory 1))</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064647Z" creationid="gitnacho" creationdate="20221007T064647Z">
@@ -18477,10 +18485,27 @@ console.log(y[0]); // 21</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Note: We declare the exception with "{traceStack: true}"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204246Z" creationid="gitnacho" creationdate="20221019T204246Z">
+        <seg>// Nota: Declaramos la excepción con "{traceStack: true}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Note: import object properties match the WebAssembly import statement!</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023507Z" creationid="gitnacho" creationdate="20221008T023507Z">
         <seg>// Nota: ¡las propiedades del objeto import coinciden con la declaración import de WebAssembly!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Note: importObject properties match the WebAssembly import statements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204341Z" creationid="gitnacho" creationdate="20221019T204341Z">
+        <seg>// Nota: Las propiedades de importObject coinciden con
+//        las declaraciones import de WebAssembly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19339,6 +19364,14 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023353Z" creationid="gitnacho" creationdate="20221008T023353Z">
         <seg>;; Función exportada "run" que llama a $throwException</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; call $throwExnWithStack passing 42 as parameter</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204117Z" creationid="gitnacho" creationdate="20221019T204117Z">
+        <seg>;; llama a $throwExnWithStack pasando 42 como parámetro</seg>
       </tuv>
     </tu>
     <tu>
@@ -32352,6 +32385,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The JavaScript code below defines a new tag `tag` and the function `throwExceptionWithStack`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204131Z" creationid="gitnacho" creationdate="20221019T204131Z">
+        <seg>El siguiente código JavaScript define una nueva etiqueta `tag` y la función `throwExceptionWithStack`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The JavaScript code to call our above module looks like so:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T061320Z" creationid="gitnacho" creationdate="20221007T061320Z">
@@ -34394,6 +34435,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stack is then logged from the `catch` statement.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204227Z" creationid="gitnacho" creationdate="20221019T204227Z">
+        <seg>Luego, la pila se registra desde la instrucción `catch`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stack trace string lists the locations of each operation on the stack in WebAssembly format.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203647Z" creationid="gitnacho" creationdate="20221019T203647Z">
@@ -35004,6 +35053,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T151507Z" creationid="gitnacho" creationdate="20221017T151507Z">
         <seg>Estos no son del mismo origen porque usan diferentes esquemas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are passed to the WebAssembly module in the `importObject` when it is instantiated.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204157Z" creationid="gitnacho" creationdate="20221019T204157Z">
+        <seg>Estas se pasan al módulo WebAssembly en `importObject` cuando se crea una instancia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41979,6 +42036,16 @@ const table = new WebAssembly.Table({</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+const tag = new WebAssembly.Tag({ parameters: ["i32"] });</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204230Z" creationid="gitnacho" creationdate="20221019T204230Z">
+        <seg>```js
+const tag = new WebAssembly.Tag({ parameters: ["i32"] });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 const tagToImport = new WebAssembly.Tag({ parameters: ["i32", "f32"] });
 ```</seg>
       </tuv>
@@ -43726,6 +43793,14 @@ call_indirect $my_spicy_table (type $i32_to_void)
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023355Z" creationid="gitnacho" creationdate="20221008T023355Z">
         <seg>call $throwException</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>call $throwExnWithStack</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204119Z" creationid="gitnacho" creationdate="20221019T204119Z">
+        <seg>call $throwExnWithStack</seg>
       </tuv>
     </tu>
     <tu>
@@ -46197,6 +46272,14 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210921T064304Z" creationid="gitnacho" creationdate="20210921T064304Z">
         <seg>function g() {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>function throwExceptionWithStack(param) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204231Z" creationid="gitnacho" creationdate="20221019T204231Z">
+        <seg>function throwExceptionWithStack(param) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -49133,6 +49216,16 @@ tags:</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T070801Z" creationid="gitnacho" creationdate="20221008T064723Z">
         <seg>throw new WebAssembly.CompileError('Hola', 'algunArchivo', 10);
 } catch (e) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>throw new WebAssembly.Exception(tag, [param], { traceStack: true });
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204247Z" creationid="gitnacho" creationdate="20221019T204247Z">
+        <seg>throw new WebAssembly.Exception(tag, [param], { traceStack: true });
+}</seg>
       </tuv>
     </tu>
     <tu>
