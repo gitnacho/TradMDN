@@ -7870,6 +7870,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Atomic operations are now allowed on non-shared memories ({{bug(1619196)}}).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220504Z" creationid="gitnacho" creationdate="20221019T220504Z">
+        <seg>- Ahora se permiten operaciones atómicas en memorias no compartidas ({{bug(1619196)}}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Babylon.js</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T085826Z" creationid="gitnacho" creationdate="20221002T085826Z">
@@ -33103,6 +33111,14 @@ ya no se debe usar.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `Memory` object's [`buffer`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/buffer) property will return an {{jsxref("ArrayBuffer")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220354Z" creationid="gitnacho" creationdate="20221019T220354Z">
+        <seg>La propiedad [`buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer) del objeto `Memory` devolverá un {{JSxRef("ArrayBuffer")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `ResultObject`'s `.instance` property is then accessed, and the contained exported function invoked.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T115006Z" creationid="gitnacho" creationdate="20221019T115006Z">
@@ -33753,6 +33769,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222609Z" creationid="gitnacho" creationdate="20221011T222609Z">
         <seg>El ejemplo anterior crea un cuerpo XML para enviar con la solicitud `POST`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The example fetches and instantiates the loaded memory.wasm bytecode using the [`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) function, while importing the memory created in the line above.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220334Z" creationid="gitnacho" creationdate="20221019T220334Z">
+        <seg>El ejemplo obtiene e instancia el bytecode `memory.wasm` cargado mediante la función [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming), mientras importa la memoria creada en la línea anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39835,6 +39859,16 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221009T003443Z" creationid="gitnacho" creationdate="20221009T003443Z">
         <seg>Lo puedes comparar con {{jsxref("Math")}}, que también es un objeto de espacio de nombres —`namespace`— para funciones y constantes matemáticas, o con {{jsxref("Intl")}}, que es el objeto de espacio de nombres para constructores de internacionalización y otras `Functions` sensibles al lenguaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can create a [shared memory](/en-US/docs/WebAssembly/Understanding_the_text_format#shared_memories)
+from JavaScript by passing `shared: true` in the constructor's initialization object:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220426Z" creationid="gitnacho" creationdate="20221019T220426Z">
+        <seg>Puedes crear una [memoria compartida](/es/docs/WebAssembly/Understanding_the_text_format#shared_memories)
+desde JavaScript pasando `shared: true` en el objeto de inicialización del constructor:</seg>
       </tuv>
     </tu>
     <tu>
