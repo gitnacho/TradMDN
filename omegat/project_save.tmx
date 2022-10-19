@@ -10250,10 +10250,9 @@ browser-compat: javascript.builtins.SharedArrayBuffer
 browser-compat: javascript.builtins.WebAssembly
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T114000Z" creationid="gitnacho" creationdate="20221009T003224Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134354Z" creationid="gitnacho" creationdate="20221009T003224Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly
-translation_of: WebAssembly/JavaScript_interface
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface
 ---</seg>
@@ -10279,10 +10278,9 @@ original_slug: WebAssembly/JavaScript_interface/CompileError
 browser-compat: javascript.builtins.WebAssembly.Exception
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T113056Z" creationid="gitnacho" creationdate="20221008T022723Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134344Z" creationid="gitnacho" creationdate="20221008T022723Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Exception
-translation_of: WebAssembly/JavaScript_interface/Exception
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Excepción
 ---</seg>
@@ -10294,10 +10292,9 @@ original_slug: WebAssembly/JavaScript_interface/Excepción
 browser-compat: javascript.builtins.WebAssembly.Global
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T113751Z" creationid="gitnacho" creationdate="20221007T104347Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134350Z" creationid="gitnacho" creationdate="20221007T104347Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Global
-translation_of: WebAssembly/JavaScript_interface/Global
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Global
 ---</seg>
@@ -10309,10 +10306,9 @@ original_slug: WebAssembly/JavaScript_interface/Global
 browser-compat: javascript.builtins.WebAssembly.Global.Global
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T113323Z" creationid="gitnacho" creationdate="20221007T110153Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134347Z" creationid="gitnacho" creationdate="20221007T110153Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Global.Global
-translation_of: WebAssembly/JavaScript_interface/Global/Global
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Global/Global
 ---</seg>
@@ -10324,10 +10320,9 @@ original_slug: WebAssembly/JavaScript_interface/Global/Global
 browser-compat: javascript.builtins.WebAssembly.Instance
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T115353Z" creationid="gitnacho" creationdate="20221005T223405Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134400Z" creationid="gitnacho" creationdate="20221005T223405Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Instance
-translation_of: WebAssembly/JavaScript_interface/Instance
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Instance
 ---</seg>
@@ -10339,10 +10334,9 @@ original_slug: WebAssembly/JavaScript_interface/Instance
 browser-compat: javascript.builtins.WebAssembly.LinkError
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T120722Z" creationid="gitnacho" creationdate="20221008T075056Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134409Z" creationid="gitnacho" creationdate="20221008T075056Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.LinkError
-translation_of: WebAssembly/JavaScript_interface/LinkError
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/LinkError
 ---</seg>
@@ -10354,10 +10348,9 @@ original_slug: WebAssembly/JavaScript_interface/LinkError
 browser-compat: javascript.builtins.WebAssembly.Memory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T121032Z" creationid="gitnacho" creationdate="20221007T234700Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134411Z" creationid="gitnacho" creationdate="20221007T234700Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Memory
-translation_of: WebAssembly/JavaScript_interface/Memory
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Memoria
 ---</seg>
@@ -10369,10 +10362,9 @@ original_slug: WebAssembly/JavaScript_interface/Memoria
 browser-compat: javascript.builtins.WebAssembly.Module
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T121326Z" creationid="gitnacho" creationdate="20221007T111350Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134415Z" creationid="gitnacho" creationdate="20221007T111350Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Module
-translation_of: WebAssembly/JavaScript_interface/Module
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Módulo
 ---</seg>
@@ -10384,10 +10376,9 @@ original_slug: WebAssembly/JavaScript_interface/Módulo
 browser-compat: javascript.builtins.WebAssembly.RuntimeError
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T121452Z" creationid="gitnacho" creationdate="20221008T080110Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134418Z" creationid="gitnacho" creationdate="20221008T080110Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.RuntimeError
-translation_of: WebAssembly/JavaScript_interface/RuntimeError
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/RuntimeError
 ---</seg>
@@ -10399,10 +10390,9 @@ original_slug: WebAssembly/JavaScript_interface/RuntimeError
 browser-compat: javascript.builtins.WebAssembly.Tag
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T122213Z" creationid="gitnacho" creationdate="20221008T002725Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134443Z" creationid="gitnacho" creationdate="20221008T002725Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Tag
-translation_of: WebAssembly/JavaScript_interface/Tag
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Tag
 ---</seg>
@@ -13336,10 +13326,9 @@ original_slug: Web/API/Service_Worker_API/Usar_Service_Workers
         <seg>- bytecode
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T122840Z" creationid="gitnacho" creationdate="20221004T071130Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134450Z" creationid="gitnacho" creationdate="20221004T071130Z">
         <seg>- bytecode
   - código de bytes
-translation_of: WebAssembly/Loading_and_running
 reviewer: Nachec
 original_slug: WebAssembly/Cargar_y_ejecutar
 ---</seg>
@@ -13498,10 +13487,9 @@ original_slug: Web/API/ServiceWorkerContainer/Evento_controllerchange
 browser-compat: javascript.builtins.WebAssembly.Instance.exports
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T115208Z" creationid="gitnacho" creationdate="20221006T093456Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134357Z" creationid="gitnacho" creationdate="20221006T093456Z">
         <seg>- instance
 browser-compat: javascript.builtins.WebAssembly.Instance.exports
-translation_of: WebAssembly/JavaScript_interface/Instance/exports
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Instance/exportaciones
 ---</seg>
@@ -13522,10 +13510,9 @@ original_slug: WebAssembly/JavaScript_interface/Instance/exportaciones
 browser-compat: javascript.builtins.WebAssembly.instantiate
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T115652Z" creationid="gitnacho" creationdate="20221007T191354Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134403Z" creationid="gitnacho" creationdate="20221007T191354Z">
         <seg>- instantiate
 browser-compat: javascript.builtins.WebAssembly.instantiate
-translation_of: WebAssembly/JavaScript_interface/instantiate
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/instanciar
 ---</seg>
@@ -13705,11 +13692,10 @@ original_slug: Learn/Getting_started_with_the_web/¿Cual_será_la_apariencia_de_
 browser-compat: javascript.builtins.WebAssembly.compileStreaming
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T112832Z" creationid="gitnacho" creationdate="20221007T185826Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134339Z" creationid="gitnacho" creationdate="20221007T185826Z">
         <seg>- streaming
   - transmisión en directo
 browser-compat: javascript.builtins.WebAssembly.compileStreaming
-translation_of: WebAssembly/JavaScript_interface/compileStreaming
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/compileStreaming
 ---</seg>
@@ -13721,10 +13707,9 @@ original_slug: WebAssembly/JavaScript_interface/compileStreaming
 browser-compat: javascript.builtins.WebAssembly.instantiateStreaming
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T120538Z" creationid="gitnacho" creationdate="20221006T101054Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134406Z" creationid="gitnacho" creationdate="20221006T101054Z">
         <seg>- streaming
 browser-compat: javascript.builtins.WebAssembly.instantiateStreaming
-translation_of: WebAssembly/JavaScript_interface/instantiateStreaming
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/instantiateStreaming
 ---</seg>
@@ -13784,10 +13769,9 @@ original_slug: Web/Security/Secure_Contexts/features_restricted_to_secure_contex
 browser-compat: javascript.builtins.WebAssembly.Table
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T121844Z" creationid="gitnacho" creationdate="20221006T100005Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134433Z" creationid="gitnacho" creationdate="20221006T100005Z">
         <seg>- table
 browser-compat: javascript.builtins.WebAssembly.Table
-translation_of: WebAssembly/JavaScript_interface/Table
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Table
 ---</seg>
@@ -13799,10 +13783,9 @@ original_slug: WebAssembly/JavaScript_interface/Table
 browser-compat: javascript.builtins.WebAssembly.Table.get
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T121713Z" creationid="gitnacho" creationdate="20221006T091548Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134423Z" creationid="gitnacho" creationdate="20221006T091548Z">
         <seg>- table
 browser-compat: javascript.builtins.WebAssembly.Table.get
-translation_of: WebAssembly/JavaScript_interface/Table/get
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Table/get
 ---</seg>
@@ -13814,10 +13797,9 @@ original_slug: WebAssembly/JavaScript_interface/Table/get
 browser-compat: javascript.builtins.WebAssembly.Table.length
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T122032Z" creationid="gitnacho" creationdate="20221006T105951Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134441Z" creationid="gitnacho" creationdate="20221006T105951Z">
         <seg>- table
 browser-compat: javascript.builtins.WebAssembly.Table.length
-translation_of: WebAssembly/JavaScript_interface/Table/length
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/Table/length
 ---</seg>
@@ -13883,10 +13865,9 @@ original_slug: Learn/Primeros_pasos_en_la_web
 browser-compat: javascript.builtins.WebAssembly.validate
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T122435Z" creationid="gitnacho" creationdate="20221007T195630Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134446Z" creationid="gitnacho" creationdate="20221007T195630Z">
         <seg>- validate
 browser-compat: javascript.builtins.WebAssembly.validate
-translation_of: WebAssembly/JavaScript_interface/validate
 reviewer: Nachec
 original_slug: WebAssembly/JavaScript_interface/validar
 ---</seg>
@@ -13961,9 +13942,8 @@ original_slug: WebAssembly
         <seg>- wat2wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T125212Z" creationid="gitnacho" creationdate="20221007T182434Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134516Z" creationid="gitnacho" creationdate="20221007T182434Z">
         <seg>- wat2wasm
-translation_of: WebAssembly/Text_format_to_wasm
 reviewer: Nachec
 original_slug: WebAssembly/Formato_de_Texto_a_wasm
 ---</seg>
@@ -49705,10 +49685,9 @@ original_slug: WebAssembly/Funciones_Webassembly_Exportadas
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T123110Z" creationid="gitnacho" creationdate="20221019T123110Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134454Z" creationid="gitnacho" creationdate="20221019T123110Z">
         <seg>- Control flow
   - Control de flujo
-translation_of: WebAssembly/Reference/Control_flow
 reviewer: Nachec
 original_slug: WebAssembly/Reference/Control_de_flujo
 ---</seg>
@@ -49722,10 +49701,9 @@ original_slug: WebAssembly/Reference/Control_de_flujo
         <seg>- Reference
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T123311Z" creationid="gitnacho" creationdate="20221019T123311Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134458Z" creationid="gitnacho" creationdate="20221019T123311Z">
         <seg>- Reference
   - Referencia
-translation_of: WebAssembly/Reference
 reviewer: Nachec
 original_slug: WebAssembly/Referencia
 ---</seg>
@@ -49739,10 +49717,9 @@ original_slug: WebAssembly/Referencia
         <seg>- Memory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T124543Z" creationid="gitnacho" creationdate="20221019T124445Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134502Z" creationid="gitnacho" creationdate="20221019T124445Z">
         <seg>- Memory
   - Memoria
-translation_of: WebAssembly/Reference/Memory
 reviewer: Nachec
 original_slug: WebAssembly/Reference/Memoria
 ---</seg>
@@ -49756,10 +49733,9 @@ original_slug: WebAssembly/Reference/Memoria
         <seg>- Arithmetic
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T124811Z" creationid="gitnacho" creationdate="20221019T124811Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134505Z" creationid="gitnacho" creationdate="20221019T124811Z">
         <seg>- Arithmetic
   - Aritmética
-translation_of: WebAssembly/Reference/Numeric/Multiplication
 reviewer: Nachec
 original_slug: WebAssembly/Reference/Numeric/Multiplicación
 ---</seg>
@@ -49773,9 +49749,8 @@ original_slug: WebAssembly/Reference/Numeric/Multiplicación
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T125001Z" creationid="gitnacho" creationdate="20221019T125001Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134508Z" creationid="gitnacho" creationdate="20221019T125001Z">
         <seg>- wasm
-translation_of: WebAssembly/Rust_to_wasm
 reviewer: Nachec
 original_slug: WebAssembly/Rust_a_wasm
 ---</seg>
@@ -49789,9 +49764,8 @@ original_slug: WebAssembly/Rust_a_wasm
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T125441Z" creationid="gitnacho" creationdate="20221019T125441Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134522Z" creationid="gitnacho" creationdate="20221019T125441Z">
         <seg>- wasm
-translation_of: WebAssembly/Understanding_the_text_format
 reviewer: Nachec
 original_slug: WebAssembly/Entender_el_formato_de_texto
 ---</seg>
@@ -49805,9 +49779,8 @@ original_slug: WebAssembly/Entender_el_formato_de_texto
         <seg>- table
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T125730Z" creationid="gitnacho" creationdate="20221019T125730Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T134526Z" creationid="gitnacho" creationdate="20221019T125730Z">
         <seg>- table
-translation_of: WebAssembly/Using_the_JavaScript_API
 reviewer: Nachec
 original_slug: WebAssembly/Usar_la_API_JavaScript
 ---</seg>
