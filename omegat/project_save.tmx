@@ -8334,6 +8334,21 @@ original_slug: WebAssembly/JavaScript_interface/Exception/getArg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Exception
+browser-compat: javascript.builtins.WebAssembly.Exception.is
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145127Z" creationid="gitnacho" creationdate="20221019T145127Z">
+        <seg>- Exception
+  - Excepción
+browser-compat: javascript.builtins.WebAssembly.Exception.is
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Exception/is
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Fetch</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070833Z" creationid="gitnacho" creationdate="20221004T070833Z">
@@ -13814,6 +13829,14 @@ original_slug: WebAssembly/JavaScript_interface/instanciar
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101024Z" creationid="gitnacho" creationdate="20221006T101024Z">
         <seg>- instantiateStreaming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- is</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144939Z" creationid="gitnacho" creationdate="20221019T144939Z">
+        <seg>- is</seg>
       </tuv>
     </tu>
     <tu>
@@ -28147,6 +28170,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be used on tags created in JavaScript or created in WebAssembly code and exported to JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145228Z" creationid="gitnacho" creationdate="20221019T145228Z">
+        <seg>Se puede usar en etiquetas creadas en JavaScript o creadas en código WebAssembly y exportadas a JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can have multiple paragraphs, and code blocks too:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183320Z" creationid="gitnacho" creationdate="20221008T183320Z">
@@ -32110,6 +32141,14 @@ given index.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`is()`** prototype method of the [`Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception) object can be used to test if the `Exception` matches a given tag.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145155Z" creationid="gitnacho" creationdate="20221019T145155Z">
+        <seg>El método prototipo **`is()`** del objeto [`Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception) se puede usar para probar si la `Exception` coincide con una determinada etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`mul`** instructions, short for _multiplication_, are used for multiplying one number by another number, similar to the **`*`** operator in other languages.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091822Z" creationid="gitnacho" creationdate="20221007T091822Z">
@@ -33666,6 +33705,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035341Z" creationid="gitnacho" creationdate="20220921T035341Z">
         <seg>La coincidencia se realiza a través de URL y varios encabezados, al igual que con las solicitudes HTTP normales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The method might be used to test that a tag is correct before passing it to [`Exception.prototype.getArg()`](/en-US/docs/WebAssembly/JavaScript_interface/Exception/getArg) to get the passed values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145219Z" creationid="gitnacho" creationdate="20221019T145219Z">
+        <seg>El método se podría usar para probar que una etiqueta es correcta antes de pasarla a [`Exception.prototype.getArg()`](/es/docs/WebAssembly/JavaScript_interface/Exception/getArg) para obtener los valores pasados.</seg>
       </tuv>
     </tu>
     <tu>
