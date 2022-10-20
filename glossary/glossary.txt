@@ -1,18 +1,4 @@
-#	almohadilla	23
-#	crosshatch
-#	crunch
-#	grid
-#	hash
-#	hex
-#	libra
-#	libra esterlina
-#	octothorpe
-#	pigpen
-#	sharp
-#	signo de libra
-#	signo de número
-#	splat
-#	tic-tac-toe
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 %-constructs	%-construcciones	nodo
 -	—
 ->	→↑
@@ -53,9 +39,6 @@ Abu Dhabi	Abu Dhabi
 Abyssinian	abisinio
 Achilles	Aquiles
 Achilles heel	talón de Aquiles
-Achilles' endón aquíleo
-Achilles' tendon
-Achilles' tendón de aquiles
 Acropolis	Acrópolis
 Adam	Adán
 Adam and Eve	Adán y Eva
@@ -284,7 +267,6 @@ Build	Construye
 Bulgaria	Bulgaria
 Bulgarian	búlgaro
 Burgundy	Borgoña
-Burkina Faso
 Burma	Birmania
 Burmese	birmano
 Burundi	Burundi
@@ -375,7 +357,6 @@ Collation	Colación
 Colombia	Colombia
 Colorful	Coloreado
 ColorfulCircle	CirculoColorido
-Common Lisp Common Lisp
 Common Slavonic	protoeslavo
 Commonwealth of Australia	Comunidad de Australia
 Commonwealth of Independent States	Comunidad de Estados Independientes
@@ -536,7 +517,6 @@ Emacs	Emacs
 Email	CorreoE
 EmailMessageContents	ContenidoMensajeCorreoE
 Emily	Emilia
-Emisión en directo o en continuo, según los casos, son alternativas válidas a streaming.
 Emphasizing	Enfatizando
 Emulator	Emulador
 England	Inglaterra
@@ -903,7 +883,6 @@ IOU	vale
 IPA	AFI
 IPG	implanted pulse generator	generador de pulsos implantado
 IPO	oferta pública inicial
-IPO   Initial Public Offer
 IRC	Internet Relay Chat
 IT	Information Tecnology
 IT	Tecnología de la información
@@ -1069,7 +1048,7 @@ Kharkiv	Járkov
 Khartoum	Jartum
 Khmer	jemer
 Khrushchev	Jrushchov
-Kind of	 como
+Kind of	como
 Kind of	(familiar)
 Kind of	clase de
 Kind of	que
@@ -1195,7 +1174,6 @@ MP3 player	reproductor de MP3
 MRI	resonancia magnética
 MRSA	EDRM
 MRSA	infección por estafilococo dorado resistente a la meticilina
-MS esclerosis múltiple
 MSS.	manuscripts
 MTU	Maximum Transmission Unit
 MTU	unidad máxima de transmisión
@@ -1709,7 +1687,6 @@ SRO	State revenue office
 SRO	single room occupancy	piso compartido
 SRP	Principio de Responsabilidad Única
 SRP	Single Responsability Principle
-SSL es un protocolo cripotográfico usado para encriptar contenido sensible en Internet
 SSPE	panencefalitis esclerosante subaguda
 ST	serotonina
 STD	Sexually transmitted disease
@@ -2889,7 +2866,6 @@ all around	todo alrededor
 all roads lead to Rome	todos los caminos llevan a Roma
 all that glitters is not gold	no todo lo que reluce es oro
 all that meat and no potatoes	se dice de alguien muy gordo
-allados centrándose en algo.
 allative case	caso alativo
 allegiance	fidelidad
 allergy	alergia
@@ -3050,7 +3026,6 @@ and so on	etc.
 and so on	etcétera
 and so on	y así sucesivamente
 and then some	y mucho más
-ando se pinta o decora
 anecdote	anécdota
 anemia	anemia
 anew	de nuevo
@@ -3090,7 +3065,7 @@ aniseed	anís
 ankle	tobillo
 anniversary	aniversario
 anno Domini	después de Jesucristo
-annotate 	comentar (anotar es "to register")
+annotate	comentar (anotar es "to register")
 annotation	anotación
 annotation	observacion
 announce	anunciar
@@ -3211,7 +3186,6 @@ apiece	cada uno
 apiece	por cabeza
 apiece	por persona
 apiece	una pieza
-apiñado
 apocryphal	apócrifo
 apostasy	apostasía
 apostrophe	apóstrofo
@@ -3354,7 +3328,6 @@ are	está
 are	están
 are	se
 are	son
-are a traves de la red.
 are trusted	son confiables
 are trusted	son de confianza
 are we away?	¿nos vamos?
@@ -3388,7 +3361,6 @@ arithmetic boxes	cajas de aritmética
 arithmetic operations	operaciones aritméticas	nodo
 arithmetic primitive	primitiva aritmética
 arity	grado
-arlo caer
 arm	arma
 arm	armar
 arm	brazo
@@ -3475,7 +3447,6 @@ as appropriate	según corresponda
 as appropriate	según el caso
 as appropriate	según proceda
 as appropriate	según sea apropiado
-as características del mismo
 as cool as	tan fresco como
 as cool as	tan genial como
 as dead as a door-nail	más muerto que mi abuela
@@ -3521,7 +3492,7 @@ ask yourself this	pregúntatelo
 ask-user-about-supersession-threat	ask-user-about-supersession-threat	función: pregunta a un usuario que está a punto de modificar un búfer obsoleto qué hacer.
 asking	preguntando
 asking	solicitando
-asola 	asuela
+asola	asuela
 asoterica	conocimientos reservados a una minoría
 asp	(Microsoft): Active Server Pages -- ASP es un lenguaje de programación que se ejecuta en el servidor.
 aspect	aspecto
@@ -4771,8 +4742,6 @@ binary file	archivo binario
 binary opcode	código binario de operación	código binario de operación
 binary operation	se trata de un cálculo que involucra dos operandos
 binary star	estrella binaria
-binary-sage seguro al trabajar
-binary-sage tratar con dato binarios
 bind	atar
 bind	vínculo
 bind to	asociar
@@ -6675,7 +6644,6 @@ bureaucrat	burócrata
 bureaucratic	burocrático
 burel	borrel
 buret	bureta
-burette
 burg	borough
 burgage	posesión de tierra a cambio de una renta anual
 burgeon	empezar a prosperar
@@ -7027,7 +6995,6 @@ cab	taxi
 cab driver	taxista
 cabal	camarilla
 cabal	cábala
-caballete de hierro que se pone en el hogar para sustentar la leña
 cabaret	cabaret
 cabbage	col
 cabbage	repollo
@@ -7444,9 +7411,6 @@ catch-all	comodín
 catchall	atrapa todo
 catchall	captura todo
 catchall	general
-catchall atrapador
-catchall cajón de sastre
-catchall comodín
 categories	categorías
 categories	categorías	nodo
 categorize	categorizar
@@ -7807,7 +7771,7 @@ cherries	cerezas
 cherries	gindas
 cherry	cereza
 cherry	cerezo
-cherry-pick 	entresacar
+cherry-pick	entresacar
 chess	ajedrez
 chest	arca
 chest	caja
@@ -9249,7 +9213,6 @@ credit	mérito
 credit card	tarjeta de crédito
 credit hog	persona que quiere atribuirse el mérito
 credit slip	recibo de crédito
-cree es uno de los tipos de trigo más primitivos y crece en los suelos pobres del centro de Europa
 creed	credo
 creep	arrastrarse
 creepy	escalofriante
@@ -9657,7 +9620,6 @@ cystitis	cistitis
 czar	zar
 czarina	zarina
 d-bag	gilipollas
-da
 dab	aplicar
 dab	chapotear
 dab	dar golpecitos
@@ -9694,7 +9656,6 @@ dactylology	dactilología
 dactyloscopy	dactiloscopia
 dad	padre
 dad	papá
-dad disponible en la mayoría de tarjetas de crédito
 daddy	papaito
 daddy	papito
 daddy	papá
@@ -11744,7 +11705,7 @@ devil	molestar
 devil's advocate	abogado del diablo
 devilish	diabólico
 devilry	travesura
-devious	 retorcido
+devious	retorcido
 devious	indirecto
 devious	sinuoso
 devious	taimado
@@ -12824,7 +12785,7 @@ disjointed	incoherente
 disjointed	inconexo
 disjunctive	disyuntivo
 disk	disco
-diskette	 disco flexible
+diskette	disco flexible
 dislike	antipatía
 dislike	aversión
 dislike	detestar
@@ -13406,7 +13367,6 @@ dizzy	mareado
 dizzy	vertiginoso
 djellaba	chilaba
 dns	Domain Name System
-do
 do	acabar
 do	aderezar
 do	adornar
@@ -13472,7 +13432,6 @@ do over	cubrir
 do over	dar una paliza a
 do over	rehacer
 do over	untar
-do perder el tiempo
 do up	arreglar
 do up	atar
 do up	cansar
@@ -14435,7 +14394,7 @@ dress	vestido
 dress	vestir
 dress	vestirse
 dress code	código de vestimenta
-dress code	etiqueta 
+dress code	etiqueta
 dress code	reglas de vestimenta
 dress up	disfrazarse
 dress up	vestirse de ceremonia
@@ -14553,7 +14512,6 @@ driveway	avenida
 driving	automovilismo
 driving	enérgico
 driving force	fuerza motriz
-driving under the influence
 drizzle	llovizna
 drizzle	lloviznar
 droll	divertido
@@ -14914,9 +14872,6 @@ dunghill	estercolero
 dunk	mojar
 dunk	remojar
 dunk	sumergir algo en un liquido
-dunking mojando
-dunking remojando
-dunking sumirgiendo
 dunlin	lavandera de lomo rojo
 dunnock	acentor
 dunt	golpe fuerte
@@ -15079,8 +15034,6 @@ décolletage	escote
 dénouement	desenlace
 détente	distensión
 e	éxtasis
-e requiere explicación previa.
-e y que se ajusta por medio de correas o cordones
 e-book	libro electrónico
 e-commerce	cibercomercio
 e-commerce	comercio electrónico
@@ -15254,8 +15207,6 @@ ease	naturalidad
 ease	soltura
 ease	tranquilidad
 ease	tranquilizar
-ease aliviarse
-ease calmarse
 ease off	disminuir
 ease-out	desconexión
 easel	caballete
@@ -15481,7 +15432,6 @@ educational	educativo
 educational path	trayectoria pedagógica
 educationalist	pedagogo
 educationist	pedagogo
-ee
 ee	ojo
 eek	grito
 eek	sonido que hace un ratón
@@ -15695,7 +15645,6 @@ electrifying	electrizante
 electrocardiogram	electrocardiocardiograma
 electrocardiograph	electrocardiógrafo
 electrochemistry	electroquímica
-electroconvulsive therapy
 electrocute	electrocutar
 electrocution	electrocución
 electrode	electrodo
@@ -15819,7 +15768,6 @@ elusive	evasivo
 elusive	huidizo
 elver	angula
 elves	plural de elf
-ema de bases de datos
 emaciated	consumido
 emaciated	demacrado
 emaciated	escuálido
@@ -16180,7 +16128,6 @@ emulous	envidioso
 emulsify	emulsionar
 emulsion	emulsión
 en	ene
-en click frente a la cantidad de impresiones de página
 enable	activar
 enable	capacitar
 enable	facilitar
@@ -16763,8 +16710,8 @@ entries	entradas
 entries	ingresos
 entries	movimentos
 entrust	confiar
-entry	 casilla
-entry	(table)	 entrada (de tabla)
+entry	casilla
+entry	(table)	entrada (de tabla)
 entry	acceso
 entry	anotación
 entry	artículo
@@ -16826,7 +16773,6 @@ eof-indicator	indicador-eof
 eow	tú
 epaulette	charretera
 epaulette	divisa militar que se cuelga del hombro y de la cual pende un fleco
-epción militar).
 epergne	soporte ornamental con un plato y brazos para sostener flores
 ephedra	ciertos arbustos casi sin hojas
 ephemeral	efímero
@@ -16921,7 +16867,6 @@ equivalent	equivalente
 equivocal	equívoco
 equivocate	andarse por las ramas
 equivocate	tergiversar
-er líquidos
 era	era
 era	siglo
 era	época
@@ -17008,7 +16953,6 @@ eruption	erupción
 eruption	estallido
 eryngo	eringio
 eryngo	planta umbelífera parecida al cardo
-es un formato de gráficos usado para crear animaciones
 escalate	agravar
 escalate	agravarse
 escalate	aumentar
@@ -17968,7 +17912,7 @@ expiration	expiración
 expiration	muerte
 expiration	término
 expiration	vencimiento
-expiration date 	fecha de caducidad
+expiration date	fecha de caducidad
 expire	caducar
 expire	espirar
 expire	expirar
@@ -18344,7 +18288,6 @@ eyewitness	testigo ocular
 eyewitness	testigo presencial
 eyot	pequeña isla en un lago o río
 eyrie	aguilera
-eño aplicada a las estructuras de las páginas web.
 f?asceaft	miserable
 fable	fábula
 fabled	fabuloso
@@ -22675,7 +22618,6 @@ former	precedente
 former	primero
 formerly	antes
 formerly	antiguamente
-formfeed alimentación de página
 formic	fórmico
 formicarion	formicación
 formidable	formidable
@@ -23521,7 +23463,7 @@ front end	fin delantero
 front end	interfaz
 front man	portavoz
 front row	primera fila
-front-end 	frontal (de un compilador, por ejemplo)
+front-end	frontal (de un compilador, por ejemplo)
 front-runner	favorito
 front-stairs	escalera-frontal
 front-wheel drive	vehículo de tracción delantera
@@ -27775,7 +27717,6 @@ hamstring	paralizar
 hamstring	tendón de la corva
 hanap	copa medieval con tapadera
 hanaper	cestita para documentos
-hand
 hand	aguja
 hand	alargar
 hand	aplauso
@@ -28173,10 +28114,6 @@ hardware	chatarra
 hardware	equipo físico
 hardware	ferretería
 hardware	quincalla
-hardware armamento
-hardware armas
-hardware material informático
-hardware soporte físico
 hardware store	ferretería
 hardwire	adherir
 hardwire	alambre duro
@@ -29930,7 +29867,7 @@ holder	macetero
 holder	poseedor
 holder	titular
 holdfast	dícese de lo que asegura o mantiene algo en su sitio
-holding	 sociedad de participación
+holding	sociedad de participación
 holding	bienes
 holding	celebración
 holding	consorcio
@@ -30046,12 +29983,12 @@ home	casa
 home	hogar
 home	hospicio
 home	patria
-home page 	portada
-home page 	página base
-home page 	página frontal
-home page 	página inicial
-home page 	página principal
-home page 	página raíz
+home page	portada
+home page	página base
+home page	página frontal
+home page	página inicial
+home page	página principal
+home page	página raíz
 home room	sala de clase
 home-made	casero
 homeland	patria
@@ -30209,7 +30146,7 @@ hook	pescar
 hook in	enganchar
 hook into	conectar con
 hook nose	naríz aguileña/ganchuda
-hook sb	 into sth	convencer a alquien de que haga algo
+hook sb	into sth	convencer a alquien de que haga algo
 hook up	abrochar
 hook up	casarse
 hook up	conectarse
@@ -30451,7 +30388,6 @@ horseshoe	herradura
 horsetail	cola de caballo
 horsetail	equiseto
 horseway	camino de herradura
-horsewhip:látigo, dar latigazos, azotar
 horsewoman	amazona
 horsey	a caballo
 horsey	aficionado a los caballos
@@ -31265,7 +31201,6 @@ iamb	yambo
 ibex	íbice
 ic	yo
 icann	Internet Corporation for Assigned Names and Numbers	ICANN es una organización no lucrativa formada para llevar el mantenimiento de nombres de dominios e IPüs
-icar la tecla Control
 ice	glasear
 ice	hielo
 ice	matar
@@ -33896,7 +33831,6 @@ iota	pizca
 iota	ápice
 ip	IP	Internet Protocol es la dirección del ordenador en las calles de Internet
 ipa-file-path-here	ruta-al-archivo-ipa-aquí
-ipal
 ipecac	ipecacuana
 ipecac	planta tropical usada en medicina
 irascible	irascible
@@ -34082,7 +34016,6 @@ irritation	irritación
 irritation	molestia
 irritation	motivo de irritación
 irruption	irrupción
-irse, ahuyentar
 is	es
 is	está
 is	tercera persona del singular del presente de to be
@@ -34298,7 +34231,6 @@ itself	directamente
 itself	se
 itself	sí mismo
 itsy-bitsy	diminuto
-iveles del Cyan, Magenta y Amarillo
 ivied	cubierto de hiedra
 ivory	de marfil
 ivory	marfil
@@ -34548,7 +34480,6 @@ jean	dril
 jean	jeans	pantalones vaqueros
 jean	tejanos
 jeans	bluejeans
-jecuta en el servidor.
 jeep	jeep
 jeep	pequeño automóvil militar
 jeep	todoterreno
@@ -35000,7 +34931,7 @@ joyrider	persona que roba un coche para darse una vuelta y luego abandonarlo
 joystick	joystick
 joystick	palanca de mando
 jpeg	Joint Photographic Experts Group	JPEG es un codec de compresión de imagenes que podemos ver por toda internet
-json	 notación de objeto JavaScript
+json	notación de objeto JavaScript
 json	JavaScript object notation
 jsp	JavaServer Pages	JSP es un lenguaje de programación basado en Java que se ejecuta en el servidor.
 jsxref	JSxRef
@@ -35136,7 +35067,6 @@ justified	justificado
 justify	justificar
 justify	legitimar
 justifying	justificando
-justo lo contrario!...)
 jut	extenderse
 jut	sobresalir
 jute	cáñamo de Indias
@@ -35968,8 +35898,6 @@ kye	ganado
 kye	vacas
 kyphosis	cifosis
 kyphosis	curvatura defectuosa de la columna vertebral
-la conjunción de HTML + Javascript + CSS
-la máquina asociada a un dominio
 label	etiqueta
 label	etiquetar
 label	rotular
@@ -37967,7 +37895,7 @@ link to	enlazar
 link up	unir
 linkability	enlazable
 linkboy	acompañante que llevaba una antorcha en las calles oscuras
-linker 	enlazador
+linker	enlazador
 links	campo de golf
 links	conexiones
 links	enlaces
@@ -38128,7 +38056,6 @@ litigate	litigar
 litigation	juicios
 litigation	litigios
 litigation	pleitos
-litigation litigación
 litmus paper	papel de tornasol
 litre	litro
 litter	basura
@@ -38322,7 +38249,7 @@ location	estrato
 location	locación	lugar fuera del estudio donde se rueda una película o parte de ella
 location	localidad
 location	localización
-location	lugar	 (NO localización)
+location	lugar	(NO localización)
 location	posición
 location	rodaje
 location	sitio
@@ -38756,7 +38683,7 @@ lopped	podaba
 lopsided	ladeado
 loquacious	locuaz
 loquat	árbol oriental de la familia de las rosáceas
-lord	 señoría
+lord	señoría
 lord	castellano
 lord	ilustrísima
 lord	señor
@@ -38774,7 +38701,6 @@ lorn	sin parientes ni amigos
 lorn	solo
 lorry	camión
 lorrydriver	camionero
-los que viven y estudian los alumnos
 lose	perder
 lose out	salir perdiendo
 loser	perdedor
@@ -39468,7 +39394,6 @@ magnanimous	magnánimo
 magnate	magnate
 magnesia	magnesia
 magnesium	magnesio
-magnesium magnesio
 magnet	imán
 magnetic	atrayente
 magnetic	carismático
@@ -40243,7 +40168,7 @@ mappers	cartógrafos
 mapping	En Lisp se refiere a efectuar una acción en cada elemento de una lista.
 mapping	asignar
 mapping	mapeado
-mapping	mapeo	cualquier forma prescrita de asignar a cada objeto en un conjunto un objeto particular en otro (o el mismo) conjunto. 
+mapping	mapeo	cualquier forma prescrita de asignar a cada objeto en un conjunto un objeto particular en otro (o el mismo) conjunto.
 mapping	matriz asociativa
 mapping	proyección
 mapping	transformar
@@ -40762,11 +40687,6 @@ mate	desposar
 mate	engranar
 mate	piloto segundo de a bordo
 mate	primer oficial
-mate enmarañarse
-mate enredarse
-mate esterar
-mate matar el brillo
-mate sin lustre
 mateless	desparejado
 mateless	solo
 mater	madre
@@ -41471,7 +41391,6 @@ middlewares	semiwares
 middlewares	soportes lógicos intermedios
 middling	mediano
 middling	regular
-middy blouse blusa marinera
 midfield	centro del campo
 midfielder	centrocampista
 midge	enano
@@ -42262,7 +42181,6 @@ mollify	calmar
 mollusc	molusco
 mollusk	molusco
 mollycoddle	mimar
-molt, moult
 molten	fundido
 molten	líquido
 molybdenum	molibdeno
@@ -42525,7 +42443,6 @@ morose	malhumorado
 morpheme	morfema
 morphia	morfina
 morphology	morfología
-morris dance, baile tradicional inglés
 morrow	on the morrow	el día siguiente
 morsel	bocado
 morsel	fragmento
@@ -42595,7 +42512,6 @@ motion and syntax	movimiento y sintaxis	nodo
 motion via parsing	movimiento mediante análisis	nodo
 motionless	inmóvil
 motivate	motivar
-motivation. motivación
 motive	motivo
 motley	abigarrado
 motley	mezcolanza
@@ -43485,10 +43401,7 @@ mügü	tribu
 mügü	virgen
 mügüum	dativo plural de mügü
 mülée	refriega
-n concepto cabal
-n rojas en otoño
 n/a	no disponible
-na persona usando una tarjeta de credito al comprar por internet
 naan	pan típico de la India
 nab	agazapar
 nab	coger
@@ -44349,7 +44262,7 @@ nodename	nombrenodo
 nodule	nódulo
 noggin	cabeza
 noggin	vaso pequeño
-noise	 alboroto
+noise	alboroto
 noise	ruido
 noise level	nivel sonoro
 noise pollution	contaminación acústica
@@ -44660,15 +44573,15 @@ nougat	turrón
 nought	cero
 nought	nada
 noun	sustantivo
-noun phrase	 locución nominal
+noun phrase	locución nominal
 noun phrase	Gramática: frase que funciona como un sustantivo
 noun phrase	frase nominal
 noun phrase	sintagma nominal
-noun-phrase	 locución nominal
+noun-phrase	locución nominal
 noun-phrase	Gramática: frase que funciona como un sustantivo
 noun-phrase	frase nominal
 noun-phrase	sintagma nominal
-noun-phrases	 locuciones nominales
+noun-phrases	locuciones nominales
 noun-phrases	frases nominale
 noun-phrases	sintgmas nominale
 nouns	sustantivos
@@ -44708,7 +44621,6 @@ noxious	nocivo
 nozzle	boquilla
 nozzle	pitón
 nozzle	punta
-ntos electrónicos
 nu-school	nueva escuela
 nuance	matiz
 nuance	sutileza
@@ -44860,11 +44772,7 @@ nuzzle	husmear
 nuzzle up	arrimarse
 nylon	nylon
 nymph	ninfa
-nza con un solo paso
 née	de soltera
-o
-o difusa
-o")
 o'clock	la una
 oaf	bruto
 oaf	manazas
@@ -45834,7 +45742,6 @@ ore deposit	yacimiento de mineral
 ore processing	tratamiento del mineral
 oreganate	con orégano
 oregano	orégano
-ores, vellosos y con zarcillos en espiral, hojas ásperas, grandes y partidas en cinco gajos, flores de color verde amarillento y bayas encarnadas
 organ	publicación
 organ	órgano
 organ-grinder	organillero
@@ -45912,7 +45819,6 @@ orthopedic	ortopédico
 orthopedist	ortopeda
 orthopedist	ortopedista
 orzo	pasta en forma de arroz
-os a leer y escribir
 oscillate	fluctuar
 oscillate	oscilar
 oscillation	fluctuación
@@ -46881,7 +46787,7 @@ palmetto	palmera enana
 palmetto	palmito
 palmist	quiromántico
 palmistry	quiromancia
-palp	antena sensorial cerca de la boca	over palp	al tacto
+palp	antena sensorial cerca de la boca	over palp
 palpable	palpable
 palpate	palpar
 palpitation	palpitación
@@ -47885,14 +47791,13 @@ penny arcade	galería de máquinas tragaperras
 penny whistle	flauta metálica
 penny-pincher	tacaño
 pennyroyal	poleo
-pensamiento por lo común festivo o satírico
 pension	jubilar
 pension	pensión
 pensioner	inválido
 pensioner	jubilado
 pensioner	pensionista
 pensive	pensativo
-pent	 contenido
+pent	contenido
 pent	reprimido
 pent-up	contenido
 pent-up	reprimido
@@ -48899,7 +48804,6 @@ piss	pis
 piss about	hacer el oso
 piss off	irritar
 piss off	sacar de quicio
-piss off! vete al cuerno
 piss poor	arruinado
 piss poor	malo
 pissed	borracho
@@ -51398,7 +51302,7 @@ procedure	trámites
 procedure abstraction	abstracción de procedimientos
 procedure name	nombre de procedimiento
 procedure object	procedimiento objeto
-procedure overloading 	(procedimientos) homónimos
+procedure overloading	(procedimientos) homónimos
 procedure-defining primitive	primitiva para definición de procedimientos
 procedute argument	procedimiento como argumento
 proceed	actuar
@@ -52453,7 +52357,6 @@ pulling	acercando
 pulling	jalando
 pulling	tirando
 pulling	tirar
-pulling arrastrando
 pullout	separable
 pullover	jersey
 pullover	suéter
@@ -53365,7 +53268,6 @@ radiate	salir
 radiation	radiación
 radiator	radiador
 radical	radical
-radices base
 radio	enviar un mensaje por radio
 radio	radio
 radio button	botón de opción
@@ -55169,9 +55071,6 @@ reliable	fiable
 reliably	confiable
 reliably	confiablemente
 reliably	fiable
-reliably confiablemente
-reliably fiabilidad
-reliably fiable
 reliance	confianza
 reliance	dependencia
 reliance	seguridad
@@ -55492,7 +55391,6 @@ repellent	repulsivo
 repent	arrepentirse
 repentance	arrepentimiento
 repentant	arrepentido
-repercussion. repercusión
 repertoire	repertorio
 repertory	repertorio
 repetition	repetición
@@ -55902,7 +55800,7 @@ restrained	comedido
 restrained	sobrio
 restraint	moderación
 restraint	restricción
-restrict	 restringir
+restrict	restringir
 restrict	limitar
 restricting	restringir
 restriction	restricción
@@ -56198,7 +56096,6 @@ revolutionize	revolucionar
 revolve	girar
 revolver	revólver
 revue	revista
-revuelo
 revulsion	asco
 revulsion	repulsión
 reward	merecer
@@ -56217,7 +56114,6 @@ rewrites	redacción
 rewrites	reescritura
 rewritten	reescribir
 rewritten	reescritura
-rgar contenido de forma trasparente al usuario.
 rgb	Red Green Blue
 rgb	es un modelo de colores basado en los diferentes niveles de Rojo, Verde y Azúl
 rhabdomyolysis	rabdomiolisis
@@ -57468,13 +57364,9 @@ ryal	antigua moneda española de oro que valía diez chelines
 rye	centeno
 résumé	currículum
 résumé	resumen
-s de weblogs pueden definir diferentes criterios para incluir otros weblogs en sus blogroll. Habitualmente, el listado de otros weblogs se compone de webs que los propios autores visitan con asiduidad.
-s especialmente para audiencia web
-s y columnas)
 s-expression	expresión-s
 s-expressions	expresiones-s
 s3	Amazon Simple Storage Service	Amazon S3 es una solución de almacenamiento infinito en Internet
-sa como ingrediente en algunos cócteles
 sabadilla	semillas de una planta lilácea
 sabaton	armadura para el pie
 sabbatarian	partidario de guardar estrictamente el domingo
@@ -59075,7 +58967,6 @@ script	argumento
 script	guión
 script	libreto
 script	texto
-scripting
 scripting	automatización
 scripting	interpretado
 scripting	programación
@@ -59300,7 +59191,7 @@ seaport	puerto de mar
 sear	chamuscar
 sear	marchitar
 sear	secar
-search	 cachear
+search	cachear
 search	buscar
 search	búsqueda
 search and replace	buscar y reemplazar	nodo
@@ -60027,7 +59918,6 @@ seriously	respetablemente
 seriously	responsablemente
 seriousness	gravedad
 seriousness	seriedad
-serividor interactuen con los navegadores
 sermon	sermón
 serp	Search Engine Results Page	SERP es un listado de páginas devueltas por un buscador sobre la busqueda realizada por el usuario
 serpent	serpiente
@@ -61090,7 +60980,7 @@ shovel	mover con pala
 shovel	pala mecánica
 shovelful	palada
 shoving	empujar
-shoving it 	empujarlo
+shoving it	empujarlo
 show	acompañar
 show	aparecer
 show	demostrar
@@ -62071,7 +61961,7 @@ slacken	amainar
 slacken	aminorar
 slacken	disminuir
 slacken	retardar
-slacker	 desertor
+slacker	desertor
 slacker	gandul
 slacks	pantalones de vestir
 slag	escoria
@@ -62459,7 +62349,7 @@ slosh	agitarse
 slosh	chapotear
 sloshed	borracho
 sloshed	como una cuba
-slot	 abertura
+slot	abertura
 slot	acanaladura
 slot	canal
 slot	conector	En informática un puerto de expansión en la placa base de la computadora
@@ -63165,7 +63055,6 @@ so	así
 so	por tanto
 so	tan
 so far	hasta ahora
-so la arruine
 so long	hasta luego
 so that	de manera que
 so that	porque
@@ -64153,7 +64042,6 @@ spirit	fantasma
 spirit	humor
 spirit	moral
 spirit	valor
-spirit away
 spirit off	hacer desaparecer
 spirit off	llevarse gradualmente
 spirited	enérgico
@@ -67321,7 +67209,7 @@ substitute	sustituir
 substitute	sustituto
 substitute A by B	sustituir A por B
 substitute A with B	sustituir A con B
-substitute B for A 	sustituir B por A
+substitute B for A	sustituir B por A
 substitute-in-file-name	substitute-in-file-name	función
 substituting	se sustituye
 substituting	sustituyendo
@@ -68880,7 +68768,6 @@ tantalum	tantalio
 tantalum	tántalo
 tantalus	licorera con candado
 tantamount	equivalente
-tanto, no se debe dejar un espacio ni se debe unir mediante un guión: antinuclear, no anti nuclear, antirrobo, no anti-rrobo, antimisiles, no anti-misiles, antidroga, no anti-droga, antiimperialista, no anti-imperialista, etc. El guión solo se emplea cuando el prefijo anti- se une a una palabra que empieza con mayúscula o a unas siglas: anti-OTAN, no antiOTAN, anti-Europa, no antiEuropa...
 tantrum	antojo
 tantrum	berrinche
 tantrum	capricho
@@ -69237,7 +69124,7 @@ teammate	compañero de equipo
 teamster	camionero
 teamwork	trabajo de equipo
 teapot	tetera
-tear	 romper
+tear	romper
 tear	aflicción
 tear	arrancar
 tear	desgarrar
@@ -69889,7 +69776,6 @@ the horrors	estremecimiento de horror
 the horrors	melancolía
 the icing on the cake	la guinda del pastel
 the interactive-only property	la propiedad interactive-only	nodo
-the judiciary el poder judicial
 the kill ring	el anillo de recortes	nodo
 the like of	otro igual o que se parezca
 the mark	la marca	nodo
@@ -69897,8 +69783,6 @@ the milk of human kindness	preocupación y compasión hacia los demás
 the other way around	a la inversa
 the other way around	al revés
 the prime of life	la flor de la vida
-the pun el retruécano
-the pun juego de palabras
 the rafters	el techo
 the rank and file	la gente común
 the region	la región	nodo
@@ -70028,7 +69912,6 @@ thermodynamics	termodinámica
 thermometer	termómetro
 thermonuclear	termonuclear
 thermos bottle	termo
-thermos flask
 thermosphere	termosfera
 thermostat	termostato
 thesaurus	diccionario de sinónimos
@@ -70254,13 +70137,13 @@ thoughtless	desconsiderado
 thoughtless	descuidado
 thoughtlessness	falta de consideración
 thoughtlessness	falta de cuidado
-thoughts	 atenciones
-thoughts	 consideraciones
-thoughts	 cuidados
-thoughts	 ideas
-thoughts	 intenciones
-thoughts	 opiniones
-thoughts	 pensamientos
+thoughts	atenciones
+thoughts	consideraciones
+thoughts	cuidados
+thoughts	ideas
+thoughts	intenciones
+thoughts	opiniones
+thoughts	pensamientos
 thousand	mil
 thousand	millar
 thousands	miles
@@ -73370,7 +73253,7 @@ trump	pinte
 trump	triunfo
 trumped-up	falso
 trumped-up	inventado
-trumpery	 fraude
+trumpery	fraude
 trumpery	engaño
 trumpery	frívolo
 trumpery	inútil
@@ -73455,7 +73338,6 @@ très	mismo
 très	mucho
 très	muy
 très	tan
-trón
 tsar	zar
 tsarina	zarina
 tsunami	tsunami
@@ -74063,7 +73945,6 @@ umbrageous	que da sombra
 umbrella	formado por diferentes empresas
 umbrella	paraguas
 umbrella	parasol
-umento XML
 umlaut	diéresis
 umpire	arbitrar
 umpire	juez
@@ -75690,7 +75571,6 @@ uttermost	más remoto
 uvula	úvula
 uxorious	calzonazos
 uxorious	embelesado por la mujer
-uz
 v.t.	verb trasitiv
 v.t.	verbo transitivo	Se encuentra en las definiciones de diccionarios
 vacancy	habitación libre
@@ -77023,7 +76903,6 @@ warm up	calentarse
 warm up	entrar en calor
 warm up lap	vuelta de calentamiento
 warm-blooded	de sangre caliente
-warm-heated:
 warm-up	precalentamiento
 warm-up suit	chándal
 warming	calentamiento
@@ -77831,7 +77710,7 @@ wheelbarrow	carretilla de mano
 wheelchair	silla de ruedas
 wheeler-dealer	comerciante sin escrúpulos
 wheelhouse	cámara del timonel
-wheelie	caballito	 se produce cuando la rueda delantera de las motos pierde contacto con el suelo.
+wheelie	caballito	se produce cuando la rueda delantera de las motos pierde contacto con el suelo.
 wheeling and dealing	intrigas
 wheeling and dealing	negocios sucios
 wheelwright	carretero
@@ -79154,7 +79033,6 @@ wrinkle	arrugar
 wrinkle	idea
 wrinkle	indicación
 wrinkle	surco
-wrinkles arruga, arrugarse, arrugado
 wrinkly	arrugado
 wrinkly	puño
 wrist	muñeca
@@ -79613,7 +79491,6 @@ yummy	de rechupete
 yup	sí
 yuppie	yuppie
 yurt	yurta
-zados
 zany	bufón
 zany	estrafalario
 zany	excéntrico
@@ -79782,4 +79659,5 @@ zygote	cigoto
 —	Alt+0151
 —	barra horizontal
 ⇋	C-q C-i inserta un carácter de tabulación
-﻿`	acento gravedistributivity	distributividaddisjointed	inconexas
+﻿`	acento gravedistributivity	distributividaddisjointed
+webchat.freenode.net	channels=brackets
