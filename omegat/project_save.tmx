@@ -5306,6 +5306,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : An array of [data types](/en-US/docs/WebAssembly/Understanding_the_text_format#types) (`"i32"`, `"i64"`, `"f32"`, `"f64"`, `"v128"`, `"externref"`, `"anyfunc"`).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070905Z" creationid="gitnacho" creationdate="20221020T070905Z">
+        <seg>- : Un arreglo de [tipos de datos](/es/docs/WebAssembly/Understanding_the_text_format#tipos) (`"i32"`, `"i64"`, `"f32"`, `"f64"`, `" v128"`, `"externref"`, `"anyfunc"`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : An array of one or more data fields comprising the payload of the exception.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140328Z" creationid="gitnacho" creationdate="20221019T140328Z">
@@ -7620,6 +7628,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Thrown if at least one of these conditions are met:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070934Z" creationid="gitnacho" creationdate="20221020T070934Z">
+        <seg>- : Se lanza si se cumple al menos una de estas condiciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Tools to check your cache-related headers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064828Z" creationid="gitnacho" creationdate="20221012T064828Z">
@@ -7866,6 +7882,14 @@ original_slug: Web/HTTP/CORS
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T064556Z" creationid="gitnacho" creationdate="20221005T064556Z">
         <seg>- Una forma de reutilizar y localizar el contenido que aparece repetidamente entre documentos (por ejemplo, etiquetas de compatibilidad, navegación por secciones, pancartas de advertencia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- A {{jsxref("TypeError")}} will be thrown if `type` is not an object, the `type.parameters` property is not supplied, or `type.parameters` contains an unsupported data type.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071041Z" creationid="gitnacho" creationdate="20221020T071041Z">
+        <seg>- Se generará un {{JSxRef("TypeError")}} si `type` no es un objeto, no se proporciona la propiedad `type.parameters` o `type.parameters` contiene un tipo de dato no compatible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10357,6 +10381,30 @@ original_slug: WebAssembly/JavaScript_interface/Tag/Tag
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072209Z" creationid="gitnacho" creationdate="20221007T072209Z">
         <seg>- La sección `elem` puede listar cualquier subconjunto de las funciones en un módulo, en cualquier orden, permitiendo duplicados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The `type.parameters` contains an unsupported data type.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071002Z" creationid="gitnacho" creationdate="20221020T071002Z">
+        <seg>- `type.parameters` contiene un tipo de dato no compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The `type.parameters` property is not supplied.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070949Z" creationid="gitnacho" creationdate="20221020T070949Z">
+        <seg>- No se proporciona la propiedad `type.parameters`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The `type` parameter is not an object.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070944Z" creationid="gitnacho" creationdate="20221020T070944Z">
+        <seg>- El parámetro `type` no es un objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13786,6 +13834,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `parameters`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070808Z" creationid="gitnacho" creationdate="20221020T070808Z">
+        <seg>- `parameters`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `payload`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140307Z" creationid="gitnacho" creationdate="20221019T140307Z">
@@ -14040,6 +14096,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174740Z" creationid="gitnacho" creationdate="20221008T174740Z">
         <seg>- `tsx` - React TSX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `type`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070807Z" creationid="gitnacho" creationdate="20221020T070807Z">
+        <seg>- `type`</seg>
       </tuv>
     </tu>
     <tu>
@@ -16237,6 +16301,14 @@ original_slug: WebAssembly/Conceptos
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142534Z" creationid="gitnacho" creationdate="20221019T142534Z">
         <seg>- {{jsxref("TypeError")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{jsxref("TypeError")}}:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070922Z" creationid="gitnacho" creationdate="20221020T070922Z">
+        <seg>- {{JSxRef("TypeError")}}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33364,6 +33436,14 @@ WebAssembly specifies a [trap](https://webassembly.github.io/simd/core/intro/ove
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`WebAssembly.Tag()`** constructor creates a new [`WebAssembly.Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag) object.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070804Z" creationid="gitnacho" creationdate="20221020T070804Z">
+        <seg>El constructor **`WebAssembly.Tag()`** crea un nuevo objeto [`WebAssembly.Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`WebAssembly.Tag`** object defines a _type_ of a WebAssembly exception that can be thrown to/from WebAssembly code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T015016Z" creationid="gitnacho" creationdate="20221008T015016Z">
@@ -37283,6 +37363,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061724Z" creationid="gitnacho" creationdate="20221004T061724Z">
         <seg>Esto crea una nueva biblioteca en un subdirectorio llamado `hello-wasm` con todo lo que necesitas para empezar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This creates a tag with two values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071046Z" creationid="gitnacho" creationdate="20221020T071046Z">
+        <seg>Esto crea una etiqueta con dos valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44567,6 +44655,18 @@ new WebAssembly.Table(tableDescriptor)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T235946Z" creationid="gitnacho" creationdate="20221019T235946Z">
         <seg>```js-nolint
 new WebAssembly.Table(tableDescriptor)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+new WebAssembly.Tag(type)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070805Z" creationid="gitnacho" creationdate="20221020T070805Z">
+        <seg>```js-nolint
+new WebAssembly.Tag(type)
 ```</seg>
       </tuv>
     </tu>
