@@ -29126,8 +29126,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you are a complete beginner, web development can be challenging — we will hold your hand and provide enough detail for you to feel comfortable and learn the topics properly.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T234201Z" creationid="gitnacho" creationdate="20221012T231752Z">
-        <seg>Si eres del todo un principiante, el desarrollo web puede ser un reto —pero no te preocupes, te llevaremos de la mano y te proveeremos de suficientes detalles para hacerte sentir cómodo y que aprendas los temas apropiadamente—.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T235825Z" creationid="gitnacho" creationdate="20221012T231752Z">
+        <seg>Si eres un absoluto principiante, el desarrollo web puede ser un desafío: te llevaremos de la mano y te brindaremos suficientes detalles para que te sientas cómodo y aprendas los temas apropiadamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35411,8 +35411,8 @@ names custom section, for example:</seg>
       <tuv lang="en-US">
         <seg>The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable." From there, you should be able to start making your way, learning from [the rest of MDN](/en-US/), and other intermediate to advanced resources that assume a lot of previous knowledge.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T234137Z" creationid="gitnacho" creationdate="20221012T231727Z">
-        <seg>El objetivo de esta área de MDN no es llevarte de "principiante" a "experto", sino de "principiante" a "cómodo". A partir de ese punto, deberías poder comenzar a abrirte camino, aprendiendo del [resto de MDN](/es/) y de otras fuentes de niveles intermedio hasta avanzado, las cuales asumen que tienes un vasto conocimiento previamente adquirido.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T235723Z" creationid="gitnacho" creationdate="20221012T231727Z">
+        <seg>El objetivo de esta área de MDN no es llevarte de "principiante" a "experto", sino llevarte de "principiante" a "cómodo". A partir de ahí, deberías poder comenzar a abrirte camino, aprendiendo de el [resto de MDN](/es/) y otros recursos intermedios a avanzados que suponen una gran cantidad de conocimientos previos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39809,8 +39809,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This set of articles aims to guide complete beginners to web development with all that they need to start coding websites.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T234043Z" creationid="gitnacho" creationdate="20221012T231650Z">
-        <seg>Si quieres aprender a crear tus propias páginas web, sitios o aplicaciones, has venido al lugar indicado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T235633Z" creationid="gitnacho" creationdate="20221012T231650Z">
+        <seg>Este conjunto de artículos tiene como objetivo guiar a los principiantes absolutos al desarrollo web con todo lo que necesitan para comenzar a codificar sitios web.</seg>
       </tuv>
     </tu>
     <tu>
