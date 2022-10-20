@@ -4124,6 +4124,18 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(elem (i32.const 0) $f42 $f83)
+)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000316Z" creationid="gitnacho" creationdate="20221020T000316Z">
+        <seg>(elem (i32.const 0) $f42 $f83)
+)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(elem (i32.const 0) $shared0func)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073831Z" creationid="gitnacho" creationdate="20221007T073831Z">
@@ -4180,6 +4192,22 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072037Z" creationid="gitnacho" creationdate="20221007T072037Z">
         <seg>(func $f2 (result i32)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(func $f42 (result i32) i32.const 42)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000309Z" creationid="gitnacho" creationdate="20221020T000309Z">
+        <seg>(func $f42 (result i32) i32.const 42)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(func $f83 (result i32) i32.const 83)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000310Z" creationid="gitnacho" creationdate="20221020T000310Z">
+        <seg>(func $f83 (result i32) i32.const 83)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4420,6 +4448,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073830Z" creationid="gitnacho" creationdate="20221007T073830Z">
         <seg>(import "js" "table" (table 1 funcref))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(import "js" "tbl" (table 2 anyfunc))</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000308Z" creationid="gitnacho" creationdate="20221020T000308Z">
+        <seg>(import "js" "tbl" (table 2 anyfunc))</seg>
       </tuv>
     </tu>
     <tu>
@@ -8994,6 +9030,14 @@ original_slug: WebAssembly/JavaScript_interface/Exception/is
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- If `maximum` is specified and is smaller than `initial`, a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000525Z" creationid="gitnacho" creationdate="20221020T000525Z">
+        <seg>- Si se especifica `maximum` y es menor que `initial`, se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- If `maximum` is specified and is smaller than `initial`, a {{jsxref("RangeError")}} is thrown.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220056Z" creationid="gitnacho" creationdate="20221019T220056Z">
@@ -9022,6 +9066,22 @@ original_slug: WebAssembly/JavaScript_interface/Exception/is
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T185504Z" creationid="gitnacho" creationdate="20221007T185504Z">
         <seg>- Si `source` no es una [`Response`](/es/docs/Web/API/Response) o `Promise` que se traduce en una `Response`,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If `tableDescriptor.element` is not one of the [reference types](https://webassembly.github.io/spec/core/syntax/types.html#syntax-reftype), then a {{jsxref("TypeError")}} is thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000559Z" creationid="gitnacho" creationdate="20221020T000559Z">
+        <seg>- Si `tableDescriptor.element` no es uno de los [tipos de referencia](https://webassembly.github.io/spec/core/syntax/types.html#syntax-reftype), entonces se lanza un {{JSxRef("TypeError ")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If `tableDescriptor` is not of type object, a {{jsxref("TypeError")}} is</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000419Z" creationid="gitnacho" creationdate="20221020T000419Z">
+        <seg>- Si `tableDescriptor` no es de tipo `object`, se lanza un</seg>
       </tuv>
     </tu>
     <tu>
@@ -30785,6 +30845,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next, we create an import object that contains the `WebAssembly.Table`:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000305Z" creationid="gitnacho" creationdate="20221020T000305Z">
+        <seg>A continuación, creamos un objeto `import` que contiene `WebAssembly.Table`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next, we define a function `storeInDatabase()` that fires off an async operation to store a given wasm module in a given database.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T051429Z" creationid="gitnacho" creationdate="20221004T051429Z">
@@ -43399,6 +43467,16 @@ const importObject = { imports: { imported_func: (arg) =&gt; console.log(arg) } 
     <tu>
       <tuv lang="en-US">
         <seg>```js
+const instantiating = WebAssembly.instantiateStreaming(</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000317Z" creationid="gitnacho" creationdate="20221020T000317Z">
+        <seg>```js
+const instantiating = WebAssembly.instantiateStreaming(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 const invocation = new XMLHttpRequest();
 const url = "https://bar.other/resources/credentialed-content/";</seg>
       </tuv>
@@ -43862,6 +43940,16 @@ import("./node_modules/hello-wasm/hello_wasm.js").then((js) =&gt; {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065752Z" creationid="gitnacho" creationdate="20221004T065752Z">
         <seg>```js
 import("./node_modules/hello-wasm/hello_wasm.js").then((js) =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+instantiating.then((obj) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000327Z" creationid="gitnacho" creationdate="20221020T000327Z">
+        <seg>```js
+instantiating.then((obj) =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
@@ -46617,6 +46705,14 @@ console.log(`original === cast ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>console.log(tbl.get(0)()); // 42</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000328Z" creationid="gitnacho" creationdate="20221020T000328Z">
+        <seg>console.log(tbl.get(0)()); // 42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>console.log(tbl.get(1)());</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T121903Z" creationid="gitnacho" creationdate="20221019T121903Z">
@@ -46645,10 +46741,30 @@ console.log(`original === cast ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>console.log(tbl.get(1)()); // 83
+});
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000341Z" creationid="gitnacho" creationdate="20221020T000341Z">
+        <seg>console.log(tbl.get(1)()); // 83
+});
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>console.log(tbl.length);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095805Z" creationid="gitnacho" creationdate="20221006T095805Z">
         <seg>console.log(tbl.length);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>console.log(tbl.length); // 2</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000327Z" creationid="gitnacho" creationdate="20221020T000327Z">
+        <seg>console.log(tbl.length); // 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -47963,6 +48079,14 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fetch("table2.wasm"),</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000318Z" creationid="gitnacho" creationdate="20221020T000318Z">
+        <seg>fetch("table2.wasm"),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fetch(event.request);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035830Z" creationid="gitnacho" creationdate="20220921T035830Z">
@@ -48799,6 +48923,18 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220803T120958Z" creationid="nachec" creationdate="20220803T120958Z">
         <seg>import {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>importObject
+);
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000326Z" creationid="gitnacho" creationdate="20221020T000326Z">
+        <seg>importObject
+);
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -51263,6 +51399,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000454Z" creationid="gitnacho" creationdate="20221020T000454Z">
+        <seg>thrown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>to</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20200810T075951Z" creationid="nacho" creationdate="20200810T075951Z">
@@ -52868,6 +53012,17 @@ original_slug: WebAssembly/C_existente_a_wasm
 reviewer: Nachec
 original_slug: WebAssembly/Funciones_Webassembly_Exportadas
 ---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/javascript_interface/table/table/index.md</prop>
+      <prop type="prev">- If `tableDescriptor` is not of type object, a {{jsxref("TypeError")}} is</prop>
+      <prop type="next">- If `maximum` is specified and is smaller than `initial`, a</prop>
+      <tuv lang="en-US">
+        <seg>thrown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000447Z" creationid="gitnacho" creationdate="20221020T000447Z">
+        <seg> {{JSxRef("TypeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
