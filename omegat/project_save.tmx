@@ -12156,6 +12156,18 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Internationalization extension](/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization)
+- [Internationalization API](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
+- [Flexbox](/en-US/docs/Learn/CSS/CSS_layout/Flexbox) and [Grid layout](/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T191017Z" creationid="Nachec" creationdate="20221020T191017Z">
+        <seg>- [Extensión de internacionalización](/es/docs/Mozilla/Add-ons/WebExtensions/Internationalization)
+- [API de Internationalization](/es/docs/Web/JavaScript/Reference/Global_Objects/Intl)
+- [Flexbox](/es/docs/Learn/CSS/CSS_layout/Flexbox) y [Layout de cuadrícula](/es/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Introduction to HTML](/en-US/docs/Learn/HTML/Introduction_to_HTML) (15–20 hour read/exercises)
 - [Multimedia and embedding](/en-US/docs/Learn/HTML/Multimedia_and_embedding) (15–20 hour read/exercises)
 - [HTML tables](/en-US/docs/Learn/HTML/Tables) (5–10 hour read/exercises)</seg>
@@ -15268,8 +15280,9 @@ reviewer: Nachec
         <seg>- text editor
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T001102Z" creationid="gitnacho" creationdate="20221019T001102Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T191252Z" creationid="gitnacho" creationdate="20221019T001102Z">
         <seg>- text editor
+  - editor de texto
 ---</seg>
       </tuv>
     </tu>
@@ -17825,6 +17838,20 @@ tags:</seg>
         <seg>---
 title: Internacionalización
 slug: Glossary/Internationalization_and_localization
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Internet
+slug: Glossary/Internet
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T191220Z" creationid="Nachec" creationdate="20221020T191220Z">
+        <seg>---
+title: Internet
+slug: Glossary/Internet
 tags:</seg>
       </tuv>
     </tu>
@@ -30063,6 +30090,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T145630Z" creationid="gitnacho" creationdate="20221002T145630Z">
         <seg>Curiosamente, otras especificaciones pueden y comenzarán a hacer uso del contexto del *service worker*, por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internationalization includes support for multiple character sets (usually via [Unicode](https://www.techtarget.com/whatis/definition/Unicode)), units of measure (the default currency, °C/°F, km/miles, etc.), date and time formats, keyboard layouts, and layout and text directions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190857Z" creationid="Nachec" creationdate="20221020T190857Z">
+        <seg>La internacionalización incluye soporte para múltiples conjuntos de caracteres (generalmente a través de [Unicode](https://www.techtarget.com/whatis/definition/Unicode)), unidades de medida (la moneda predeterminada, °C/°F, km/millas, etc.), formatos de fecha y hora, diseños de teclado y direcciones de diseño y texto.</seg>
       </tuv>
     </tu>
     <tu>
