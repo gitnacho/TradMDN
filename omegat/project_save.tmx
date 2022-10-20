@@ -40574,6 +40574,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While we are creating and accessing the `WebAssembly.Table` from JavaScript, the same `Table` is also visible and callable inside the WebAssembly instance.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005732Z" creationid="gitnacho" creationdate="20221020T005732Z">
+        <seg>Mientras creamos y accedemos a `WebAssembly.Table` desde JavaScript, la misma `Table` también es visible y se puede llamar dentro de la instancia de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210105T215438Z" creationid="nacho" creationdate="20210105T215438Z">
