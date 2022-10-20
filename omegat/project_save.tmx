@@ -9873,8 +9873,9 @@ reviewer: Nachec
         <seg>- Memory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T202719Z" creationid="gitnacho" creationdate="20221007T095205Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T215837Z" creationid="gitnacho" creationdate="20221007T095205Z">
         <seg>- Memory
+  - Memoria
 ---</seg>
       </tuv>
     </tu>
@@ -17752,6 +17753,20 @@ tags:</seg>
         <seg>---
 title: Primeros pasos en la web
 slug: Learn/Getting_started_with_the_web
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Grow
+slug: WebAssembly/Reference/Memory/Grow
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T215818Z" creationid="Nachec" creationdate="20221020T215818Z">
+        <seg>---
+title: Grow
+slug: WebAssembly/Reference/Memory/Grow
 tags:</seg>
       </tuv>
     </tu>
@@ -34628,6 +34643,22 @@ specified number of elements.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`grow`** instruction returns **`1`** if the operation was successful, and returns **`-1`** if the operation failed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T215922Z" creationid="Nachec" creationdate="20221020T215922Z">
+        <seg>La instrucción **`grow`** devuelve **`1`** si la operación fue exitosa y devuelve **`-1`** si la operación falló.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`grow`** instruction, increases the size of the memory instance by a specified number of pages, each page is sized 64KiB.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T215912Z" creationid="Nachec" creationdate="20221020T215912Z">
+        <seg>La instrucción **`grow`** aumenta el tamaño de la instancia de memoria en un número específico de páginas, cada página tiene un tamaño de 64KiB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`if`** statement executes a statement if the last item on the stack is true (1).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084107Z" creationid="gitnacho" creationdate="20221020T084026Z">
@@ -46634,6 +46665,18 @@ edition = "2018"</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```wasm
+;; load the number of memory pages to grow the memory by
+i32.const 3</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T215950Z" creationid="Nachec" creationdate="20221020T215950Z">
+        <seg>```wasm
+;; carga el número de páginas de memoria para hacer crecer la memoria por
+i32.const 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
 ;; load two numbers onto the stack
 i32.const 10
 i32.const 3</seg>
@@ -53710,6 +53753,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/grow.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T215923Z" creationid="Nachec" creationdate="20221020T215923Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/grow.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedInteractiveExample("pages/wat/if...else.html", "tabbed-taller")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084108Z" creationid="gitnacho" creationdate="20221020T084108Z">
@@ -55346,6 +55397,21 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085638Z" creationid="gitnacho" creationdate="20221019T123311Z">
         <seg>- Reference
   - Referencia
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/memory/grow/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Memory
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T215901Z" creationid="Nachec" creationdate="20221020T215901Z">
+        <seg>- Memory
+  - Memoria
 reviewer: Nachec
 ---</seg>
       </tuv>
