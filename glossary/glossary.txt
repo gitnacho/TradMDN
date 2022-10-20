@@ -79662,3 +79662,4 @@ zygote	cigoto
 ﻿`	acento gravedistributivity	distributividaddisjointed
 webchat.freenode.net	channels=brackets
 Revísalas	Release_notes
+mentorship	tutorías	tutorías
