@@ -21149,6 +21149,18 @@ memory.grow</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; load the number at position 0
+i32.load
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222443Z" creationid="Nachec" creationdate="20221020T222443Z">
+        <seg>;; carga el número en la posición 0
+i32.load
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; most of the time you'll want to put this in an if statement and only branch on condition,</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075930Z" creationid="gitnacho" creationdate="20221020T075506Z">
@@ -37926,6 +37938,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These instructions are separate for signed and unsigned numbers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222403Z" creationid="Nachec" creationdate="20221020T222403Z">
+        <seg>Estas instrucciones son independientes para los números con y sin signo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These libraries are implemented in terms of Web APIs and thus each one requires some JavaScript glue code to connect WebAssembly to the underlying Web API.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081546Z" creationid="gitnacho" creationdate="20221003T081546Z">
@@ -46771,6 +46791,18 @@ i32.const 20</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```wasm
+;; the offset from where to load the number
+i32.const 0</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222423Z" creationid="Nachec" creationdate="20221020T222423Z">
+        <seg>```wasm
+;; el desplazamiento desde donde cargar el número
+i32.const 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
 call $greet
 ```</seg>
       </tuv>
@@ -53819,6 +53851,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/load.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222404Z" creationid="Nachec" creationdate="20221020T222404Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/load.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedInteractiveExample("pages/wat/loop.html", "tabbed-taller")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084939Z" creationid="gitnacho" creationdate="20221020T084939Z">
@@ -54195,6 +54235,44 @@ console.log(uintc8FromIterable);
 | --------------- | ------------- |
 | `call`          | `0x10`        |
 | `call_indirect` | `0x11`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction    | Binary opcode |
+| -------------- | ------------- |
+| `i32.load`     | `0x28`        |
+| `i64.load`     | `0x29`        |
+| `f32.load`     | `0x2a`        |
+| `f64.load`     | `0x2b`        |
+| `i32.load8_s`  | `0x2c`        |
+| `i32.load8_u`  | `0x2d`        |
+| `i32.load16_s` | `0x2e`        |
+| `i32.load16_u` | `0x2f`        |
+| `i64.load8_s`  | `0x30`        |
+| `i64.load8_u`  | `0x31`        |
+| `i64.load16_s` | `0x32`        |
+| `i64.load16_u` | `0x33`        |
+| `i64.load32_s` | `0x34`        |
+| `i64.load32_u` | `0x35`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222458Z" creationid="Nachec" creationdate="20221020T222458Z">
+        <seg>| Instrucción | Código de operación binaria |
+| -------------- | ------------- |
+| `i32.load`     | `0x28`        |
+| `i64.load`     | `0x29`        |
+| `f32.load`     | `0x2a`        |
+| `f64.load`     | `0x2b`        |
+| `i32.load8_s`  | `0x2c`        |
+| `i32.load8_u`  | `0x2d`        |
+| `i32.load16_s` | `0x2e`        |
+| `i32.load16_u` | `0x2f`        |
+| `i64.load8_s`  | `0x30`        |
+| `i64.load8_u`  | `0x31`        |
+| `i64.load16_s` | `0x32`        |
+| `i64.load16_u` | `0x33`        |
+| `i64.load32_s` | `0x34`        |
+| `i64.load32_u` | `0x35`        |</seg>
       </tuv>
     </tu>
     <tu>
