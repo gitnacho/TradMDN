@@ -16588,6 +16588,20 @@ reviewer: Nachec
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: "IMSC: subtitles and captioning for the Web"
+slug: Related/IMSC
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T121821Z" creationid="gitnacho" creationdate="20221020T121821Z">
+        <seg>---
+title: "IMSC: subtitles and captioning for the Web"
+slug: Related/IMSC
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: '&lt;script&gt;: The Script element'
 slug: Web/HTML/Element/script
 tags:</seg>
