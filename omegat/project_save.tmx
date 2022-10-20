@@ -1656,6 +1656,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Topics covered</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124209Z" creationid="gitnacho" creationdate="20221020T124209Z">
+        <seg>## Temas cubiertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Traditional live samples</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T210327Z" creationid="gitnacho" creationdate="20221005T210327Z">
@@ -25277,6 +25285,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Besides, if you have a specific question about web development, our [Common questions](/en-US/docs/Learn/Common_questions) section may have something to help you.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124201Z" creationid="gitnacho" creationdate="20221020T124201Z">
+        <seg>Además, si tienes una pregunta específica sobre desarrollo web, nuestra sección [Preguntas comunes](/es/docs/Learn/Common_questions) puede tener algo que ayudarte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Beyond the basics, the KumaScript system offers some advanced features.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070453Z" creationid="gitnacho" creationdate="20221005T070453Z">
@@ -35503,6 +35519,14 @@ if a loaded module instance contains a "name" custom section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T215920Z" creationid="gitnacho" creationdate="20221005T215841Z">
         <seg>La siguiente es una lista de [macros de KumaScript](https://github.com/mdn/yari/tree/main/kumascript/macros) que han quedado en desuso y ya no se deben usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following is a list of all the topics we cover in the MDN learning area.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124230Z" creationid="gitnacho" creationdate="20221020T124230Z">
+        <seg>La siguiente es una lista de todos los temas que cubrimos en el área de aprendizaje de MDN.</seg>
       </tuv>
     </tu>
     <tu>
