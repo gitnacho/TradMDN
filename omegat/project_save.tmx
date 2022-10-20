@@ -18757,6 +18757,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: loop
+slug: WebAssembly/Reference/Control_flow/loop
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084616Z" creationid="gitnacho" creationdate="20221020T084616Z">
+        <seg>---
+title: Instrucción loop
+slug: WebAssembly/Reference/Control_flow/loop
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: setInterval()
 slug: Web/API/setInterval
 page-type: web-api-global-function
@@ -33951,6 +33965,14 @@ specified number of elements.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`loop`** statement creates a label that can later be branched to with a `br`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084727Z" creationid="gitnacho" creationdate="20221020T084727Z">
+        <seg>La instrucción **`loop`** crea una etiqueta que luego se puede bifurcar con un `br`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`loop`** statement is the opposite of the `block` statement, in the sense that while branching to a `loop` jumps to the beginning of the loop, branching to a `block` jumps to the end of the block; that is, out of the block.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075259Z" creationid="gitnacho" creationdate="20221020T075259Z">
@@ -35688,6 +35710,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063916Z" creationid="gitnacho" creationdate="20221004T063916Z">
         <seg>La última sección es la sección `[dependencies]`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The loop instruction doesn't loop by itself; you need to branch to it to actually create a loop.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084824Z" creationid="gitnacho" creationdate="20221020T084824Z">
+        <seg>La instrucción `loop` no se repite sola; necesita bifurcarse para, realmente, crear un bucle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54060,6 +54090,22 @@ original_slug: WebAssembly/Reference/Control_flow/if...else
   - Control de flujo
 reviewer: Nachec
 original_slug: WebAssembly/Reference/Control_de_flujo
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/loop/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084713Z" creationid="gitnacho" creationdate="20221020T084713Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+original_slug: WebAssembly/Reference/Control_flow/loop
 ---</seg>
       </tuv>
     </tu>
