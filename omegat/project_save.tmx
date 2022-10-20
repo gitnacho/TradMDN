@@ -4100,6 +4100,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(block $my_block</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075336Z" creationid="gitnacho" creationdate="20221020T075336Z">
+        <seg>(block $my_block</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(data (i32.const 0) "Hi")</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064653Z" creationid="gitnacho" creationdate="20221007T064653Z">
@@ -20327,6 +20335,14 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; branch to the block.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075414Z" creationid="gitnacho" creationdate="20221020T075414Z">
+        <seg>;; rama al block.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; call $throwExnWithStack passing 42 as parameter</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204117Z" creationid="gitnacho" creationdate="20221019T204117Z">
@@ -20352,12 +20368,30 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; most of the time you'll want to put this in an if statement and only branch on condition,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075506Z" creationid="gitnacho" creationdate="20221020T075506Z">
+        <seg>;; la mayoría de las veces querrás poner esto en una
+;; declaración if y solo bifurcar con la condición,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; multiply one number by the other
 i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091601Z" creationid="gitnacho" creationdate="20221007T091601Z">
         <seg>;; multiplica un número por el otro
 i32.mul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; otherwise the following control flow are unreachable.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075533Z" creationid="gitnacho" creationdate="20221020T075533Z">
+        <seg>;; de lo contrario, el siguiente control de flujo será
+;; inalcanzable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45455,6 +45489,16 @@ edition = "2018"</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```wasm
+;; label the block so that it can be branched to.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075335Z" creationid="gitnacho" creationdate="20221020T075335Z">
+        <seg>```wasm
+;; etiqueta el block para que se pueda ramificar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
 ;; load two numbers onto the stack
 i32.const 10
 i32.const 3</seg>
@@ -52251,6 +52295,14 @@ xhr.send();
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T073333Z" creationid="gitnacho" creationdate="20221002T073333Z">
         <seg>{{EmbedInteractiveExample("pages/js/promise-resolve.html")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/block.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075304Z" creationid="gitnacho" creationdate="20221020T075304Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/block.html", "tabbed-taller")}}</seg>
       </tuv>
     </tu>
     <tu>
