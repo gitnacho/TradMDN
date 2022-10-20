@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Contact us</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173740Z" creationid="Nachec" creationdate="20221020T173740Z">
+        <seg>## Contáctanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Converting the text .wat into a binary .wasm file</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182700Z" creationid="gitnacho" creationdate="20221007T182700Z">
@@ -27031,6 +27039,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if you were in the parent directory:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173727Z" creationid="Nachec" creationdate="20221020T173727Z">
+        <seg>Por ejemplo, si estuvieras en el directorio padre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, is my content a set of paragraphs or a list of bullet points?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T043644Z" creationid="gitnacho" creationdate="20220925T043644Z">
@@ -28849,6 +28865,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to get in touch with us about anything, the best way is to drop us a message on our [Discourse forum](https://discourse.mozilla.org/c/mdn/236).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T174012Z" creationid="Nachec" creationdate="20221020T174012Z">
+        <seg>Si tienes alguna pregunta o deseas saber hacia dónde ir, Mozilla es una comunidad mundial de entusiastas de la web, incluyendo mentores y profesores, encantados de ayudarte. Ponte en contacto con ellos mediante WebMaker: Conoce y dialoga con los mentores y profesores en el [Foro de Discusión en Español](https://discourse.mozilla.org/c/community-portal/mozilla-hispano/). Encuentra [Eventos](https://foro.mozilla-hispano.org/c/difusion-eventos) y aprende acerca de la Web con profesionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to submit an example, you can find out how at the [interactive examples repo Contribution guide](https://github.com/mdn/interactive-examples/blob/main/CONTRIBUTING.md).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T210127Z" creationid="gitnacho" creationdate="20221005T210127Z">
@@ -29706,6 +29730,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061139Z" creationid="gitnacho" creationdate="20221004T061139Z">
         <seg>En este tutorial, construimos un paquete usando `wasm-pack`, una herramienta para construir paquetes de JavaScript en Rust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In your command prompt/terminal, go inside the `learning-area` directory using `cd`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173717Z" creationid="Nachec" creationdate="20221020T173717Z">
+        <seg>En tu intérprete de comandos/terminal, ve dentro del directorio `learning-area` usando `cd`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32299,6 +32331,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063636Z" creationid="gitnacho" creationdate="20221004T063636Z">
         <seg>Abre este archivo y cambie su contenido para que se vea así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open your computer's [command prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089) (Windows) or terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [macOS](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173616Z" creationid="Nachec" creationdate="20221020T173616Z">
+        <seg>Abre tu [consola de comandos](https://www.lifewire.com/how-to-open-command-prompt-2618089) (Windows) o terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [MacOS X](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38743,6 +38783,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the underlying version control system software that GitHub works on top of.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173546Z" creationid="Nachec" creationdate="20221020T173546Z">
+        <seg>Este es el sistema de control de versiones de software con el que trabaja GitHub principalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is unavoidable, but usually doesn't have much impact.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T205603Z" creationid="gitnacho" creationdate="20220922T205603Z">
@@ -39548,6 +39596,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To copy the learning area repo to a folder called learning-area in the current location your command prompt/terminal is pointing to, use the following command:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173632Z" creationid="Nachec" creationdate="20221020T173632Z">
+        <seg>Para copiar el repositorio del área de aprendizaje a un directorio llamado `learning-area` en la ubicación actual, en la ventana de tu Terminal o en la línea de comandos, debes usar el siguiente comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create a WebAssembly global instance from inside your JavaScript, you use the [`WebAssembly.Global()`](/en-US/docs/WebAssembly/JavaScript_interface/Global) constructor, which looks like this:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233747Z" creationid="gitnacho" creationdate="20221006T233747Z">
@@ -40000,6 +40056,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224905Z" creationid="gitnacho" creationdate="20221011T224905Z">
         <seg>Hasta que los navegadores se pongan al día con las especificaciones, es posible que se pueda solucionar esta limitación realizando una de las siguientes acciones o ambas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update the repository using the following command:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173735Z" creationid="Nachec" creationdate="20221020T173735Z">
+        <seg>Puedes realizar actualizaciones al repositorio usando el siguiente comando:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41781,6 +41845,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can now enter the directory and find the files you are after (either using your Finder/File Explorer or the [`cd` command](&lt;https://en.wikipedia.org/wiki/Cd_(command)&gt;)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173653Z" creationid="Nachec" creationdate="20221020T173653Z">
+        <seg>Ahora puedes entrar en el directorio y encontrar todos los archivos que descargaste (posiblemente con el explorador de archivos o el [comando `cd`](https://es.wikipedia.org/wiki/Chdir)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can omit the filename if it is called `index.html`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212206Z" creationid="gitnacho" creationdate="20221005T212123Z">
@@ -41865,6 +41937,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210337Z" creationid="gitnacho" creationdate="20221006T210337Z">
         <seg>Luego puedes devolver el mismo valor usando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can update the `learning-area` repository with any changes made to the master version on GitHub with the following steps:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173706Z" creationid="Nachec" creationdate="20221020T173706Z">
+        <seg>Puedes actualizar el repositorio `learning-area` con los últimos cambios que se hayan hecho a la versión principal en GitHub con los siguientes pasos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46911,6 +46991,14 @@ nop
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cd learning-area</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173728Z" creationid="Nachec" creationdate="20221020T173728Z">
+        <seg>cd learning-area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>class A {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201215T191120Z" creationid="nacho" creationdate="20201215T191120Z">
@@ -49500,6 +49588,22 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210828T114326Z" creationid="gitnacho" creationdate="20210828T114326Z">
         <seg>git add .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>git clone https://github.com/mdn/learning-area</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173634Z" creationid="Nachec" creationdate="20221020T173634Z">
+        <seg>git clone https://github.com/mdn/learning-area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>git pull</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173736Z" creationid="Nachec" creationdate="20221020T173736Z">
+        <seg>git pull</seg>
       </tuv>
     </tu>
     <tu>
