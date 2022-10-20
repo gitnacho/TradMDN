@@ -5154,6 +5154,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A string representing the type of value to be stored in the table.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000002Z" creationid="gitnacho" creationdate="20221020T000002Z">
+        <seg>- : Una cadena que representa el tipo de valor que se almacenará en la tabla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A textual description of the current revision of the file
 - `filename`</seg>
       </tuv>
@@ -7214,6 +7222,14 @@ original_slug: Web/HTTP/CORS
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The initial number of elements of the WebAssembly Table.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000039Z" creationid="gitnacho" creationdate="20221020T000039Z">
+        <seg>- : El número inicial de elementos de la tabla WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The initial size of the WebAssembly Memory, in units of WebAssembly pages.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215131Z" creationid="gitnacho" creationdate="20221019T215131Z">
@@ -7252,6 +7268,14 @@ original_slug: Web/HTTP/CORS
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070757Z" creationid="gitnacho" creationdate="20221005T070757Z">
         <seg>- : La configuración regional del documento MDN actual
 - `env.title`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : The maximum number of elements the WebAssembly Table is allowed to grow to.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000102Z" creationid="gitnacho" creationdate="20221020T000102Z">
+        <seg>- : El número máximo de elementos que puede crecer la tabla WebAssembly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13138,6 +13162,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `element`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T235954Z" creationid="gitnacho" creationdate="20221019T235954Z">
+        <seg>- `element`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `env.path`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070522Z" creationid="gitnacho" creationdate="20221005T070522Z">
@@ -13846,6 +13878,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074724Z" creationid="gitnacho" creationdate="20221007T074724Z">
         <seg>- `table.init`: Copia una región de un segmento de elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `tableDescriptor`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T235947Z" creationid="gitnacho" creationdate="20221019T235947Z">
+        <seg>- `tableDescriptor`</seg>
       </tuv>
     </tu>
     <tu>
@@ -33189,6 +33229,15 @@ WebAssembly specifies a [trap](https://webassembly.github.io/simd/core/intro/ove
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`WebAssembly.Table()`** constructor creates a new
+`Table` object of the given size and element type.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T235944Z" creationid="gitnacho" creationdate="20221019T235944Z">
+        <seg>El constructor **`WebAssembly.Table()`** crea un nuevo Objeto `Table` del tamaño y tipo de elemento dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`WebAssembly.Table()`** object is a JavaScript wrapper object — an array-like structure representing a WebAssembly Table, which stores function references.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095005Z" creationid="gitnacho" creationdate="20221006T095005Z">
@@ -36974,6 +37023,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T220202Z" creationid="gitnacho" creationdate="20221005T220202Z">
         <seg>Esto se puede reemplazar con el siguiente Markdown:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can have a value of `"anyfunc"` (functions) or `"externref"` (host references).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000030Z" creationid="gitnacho" creationdate="20221020T000030Z">
+        <seg>Esto puede tener un valor de `"anyfunc"` (funciones) o `"externref"` (referencias de host).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43174,6 +43231,22 @@ console.log(table.length); // 3
     <tu>
       <tuv lang="en-US">
         <seg>```js
+console.log(tbl.length); // a table with 2 elements
+console.log(tbl.get(0)); // content for index 0 is null
+console.log(tbl.get(1)); // content for index 1 is null
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000240Z" creationid="gitnacho" creationdate="20221020T000240Z">
+        <seg>```js
+console.log(tbl.length); // una tabla con 2 elementos
+console.log(tbl.get(0)); // el contenido para el índice 0 es null
+console.log(tbl.get(1)); // el contenido para el índice 1 es null
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 const CACHE_VERSION = 1;
 const CURRENT_CACHES = {</seg>
       </tuv>
@@ -43525,6 +43598,16 @@ const tagToImport = new WebAssembly.Tag({ parameters: ["i32"] });</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023455Z" creationid="gitnacho" creationdate="20221008T023455Z">
         <seg>```js
 const tagToImport = new WebAssembly.Tag({ parameters: ["i32"] });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+const tbl = new WebAssembly.Table({</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000107Z" creationid="gitnacho" creationdate="20221020T000107Z">
+        <seg>```js
+const tbl = new WebAssembly.Table({</seg>
       </tuv>
     </tu>
     <tu>
@@ -44244,6 +44327,18 @@ new WebAssembly.RuntimeError(message)
 new WebAssembly.RuntimeError(message, options)
 new WebAssembly.RuntimeError(message, fileName)
 new WebAssembly.RuntimeError(message, fileName, lineNumber)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+new WebAssembly.Table(tableDescriptor)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T235946Z" creationid="gitnacho" creationdate="20221019T235946Z">
+        <seg>```js-nolint
+new WebAssembly.Table(tableDescriptor)
 ```</seg>
       </tuv>
     </tu>
@@ -47546,6 +47641,18 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T110229Z" creationid="gitnacho" creationdate="20221006T110229Z">
         <seg>element: "anyfunc",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>element: "anyfunc",
+});
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000150Z" creationid="gitnacho" creationdate="20221020T000150Z">
+        <seg>element: "anyfunc",
+});
+```</seg>
       </tuv>
     </tu>
     <tu>
