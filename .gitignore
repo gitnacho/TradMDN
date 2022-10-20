@@ -1,4 +1,4 @@
-source/
+source
 target/
 *.bak
 last_entry.properties
