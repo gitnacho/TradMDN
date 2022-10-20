@@ -17971,6 +17971,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Load
+slug: WebAssembly/Reference/Memory/Load
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222111Z" creationid="Nachec" creationdate="20221020T222111Z">
+        <seg>---
+title: Load
+slug: WebAssembly/Reference/Memory/Load
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Loading and running WebAssembly code
 slug: WebAssembly/Loading_and_running
 tags:</seg>
@@ -27744,6 +27758,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the integer numbers, you can also load a narrower number from memory and extend it into a wider type, e.g. load an unsigned 8-bit number and convert it into an i32 (**`i32.load8_u`**).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222354Z" creationid="Nachec" creationdate="20221020T222354Z">
+        <seg>Para los números enteros, también puedes cargar un número más estrecho de la memoria y extenderlo a un tipo más amplio, p. ej. carga un número de 8 bits sin firmar y lo convierte en un `i32` (**`i32.load8_u`**).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the most part, this works great to serve up content that doesn't change very often.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T074901Z" creationid="gitnacho" creationdate="20221005T074901Z">
@@ -34691,6 +34713,14 @@ specified number of elements.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145155Z" creationid="gitnacho" creationdate="20221019T145155Z">
         <seg>El método prototipo **`is()`** del objeto [`Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception) se puede usar para probar si la `Exception` coincide con una determinada etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`load`** instructions, are used to load a number from memory onto the stack.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222252Z" creationid="Nachec" creationdate="20221020T222252Z">
+        <seg>Las instrucciones **`load`** se utilizan para cargar en la pila un número de la memoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55457,6 +55487,21 @@ reviewer: Nachec
 ---</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085638Z" creationid="gitnacho" creationdate="20221019T124445Z">
+        <seg>- Memory
+  - Memoria
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/memory/load/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Memory
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222132Z" creationid="Nachec" creationdate="20221020T222132Z">
         <seg>- Memory
   - Memoria
 reviewer: Nachec
