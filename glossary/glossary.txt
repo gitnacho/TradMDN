@@ -10,3 +10,4 @@ header	encabezado
 man-in-the-middle attack	ataque de intermediario
 mitm	ataque de intermediario	man-in-the-middle_attack
 pwa	aplicaciones web progresivas	Progresive web apps
+opcode	código de operación	código de operación
