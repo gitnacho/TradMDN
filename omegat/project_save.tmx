@@ -4152,6 +4152,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(else</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084118Z" creationid="gitnacho" creationdate="20221020T084118Z">
+        <seg>(else</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(errMsg) =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T043841Z" creationid="gitnacho" creationdate="20221004T043841Z">
@@ -4540,6 +4548,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143203Z" creationid="gitnacho" creationdate="20221019T143203Z">
         <seg>(tag $tagname (export "exptag") (param i32))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(then</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084111Z" creationid="gitnacho" creationdate="20221020T084111Z">
+        <seg>(then</seg>
       </tuv>
     </tu>
     <tu>
@@ -20456,6 +20472,14 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; do something</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084117Z" creationid="gitnacho" creationdate="20221020T084117Z">
+        <seg>;; hacer algo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; do something
 end
 ```</seg>
@@ -20464,6 +20488,14 @@ end
         <seg>;; hacer algo
 end
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; do something else</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084124Z" creationid="gitnacho" creationdate="20221020T084124Z">
+        <seg>;; hacer algo más</seg>
       </tuv>
     </tu>
     <tu>
@@ -28196,8 +28228,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the condition is false (0), another statement can be executed</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084055Z" creationid="gitnacho" creationdate="20221020T084055Z">
-        <seg>Si la condición es `false` (0), se puede ejecutar otra instrucción</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084434Z" creationid="gitnacho" creationdate="20221020T084055Z">
+        <seg>Si la condición es `false` (0), se puede ejecutar otra instrucción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33905,8 +33937,8 @@ specified number of elements.</seg>
       <tuv lang="en-US">
         <seg>The **`if`** statement executes a statement if the last item on the stack is true (1).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084026Z" creationid="gitnacho" creationdate="20221020T084026Z">
-        <seg>La instrucción **`if`** ejecuta una declaración si el último elemento de la pila es `true` (1).</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084107Z" creationid="gitnacho" creationdate="20221020T084026Z">
+        <seg>La instrucción **`if`** ejecuta una expresión si el último elemento de la pila es `true` (1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45776,6 +45808,18 @@ call_indirect $my_spicy_table (type $i32_to_void)
       <tuv lang="en-US">
         <seg>```wasm
 i32.const 0
+(if</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084109Z" creationid="gitnacho" creationdate="20221020T084109Z">
+        <seg>```wasm
+i32.const 0
+(if</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
+i32.const 0
 if</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083647Z" creationid="gitnacho" creationdate="20221020T083647Z">
@@ -52633,6 +52677,14 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/if...else.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084108Z" creationid="gitnacho" creationdate="20221020T084108Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/if...else.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedInteractiveExample("pages/wat/mul.html", "tabbed-taller")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091827Z" creationid="gitnacho" creationdate="20221007T091827Z">
@@ -53039,6 +53091,20 @@ xhr.send();
 | `i64.mul`   | `0x7e`        |
 | `f32.mul`   | `0x94`        |
 | `f64.mul`   | `0xa2`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `if`        | `0x04`        |
+| `else`      | `0x05`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084135Z" creationid="gitnacho" creationdate="20221020T084135Z">
+        <seg>| Instrucción | Código binario de operación |
+| ----------- | ------------- |
+| `if`        | `0x04`        |
+| `else`      | `0x05`        |</seg>
       </tuv>
     </tu>
     <tu>
