@@ -18727,6 +18727,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: if...else
+slug: WebAssembly/Reference/Control_flow/if...else
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083935Z" creationid="gitnacho" creationdate="20221020T083935Z">
+        <seg>---
+title: Instrucción if...else
+slug: WebAssembly/Reference/Control_flow/if...else
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: setInterval()
 slug: Web/API/setInterval
 page-type: web-api-global-function
@@ -20438,6 +20452,18 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204117Z" creationid="gitnacho" creationdate="20221019T204117Z">
         <seg>;; llama a $throwExnWithStack pasando 42 como parámetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; do something
+end
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083704Z" creationid="gitnacho" creationdate="20221020T083704Z">
+        <seg>;; hacer algo
+end
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -27766,6 +27792,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, it's still useful to know about since this is what the browsers display in devtools.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083643Z" creationid="gitnacho" creationdate="20221020T083643Z">
+        <seg>Sin embargo, sigue siendo útil saberlo, ya que esto es lo que muestran los navegadores en las herramientas de desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, not all browsers have implemented the change, and thus still exhibit the originally required behavior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224848Z" creationid="gitnacho" creationdate="20221011T224848Z">
@@ -28156,6 +28190,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073113Z" creationid="gitnacho" creationdate="20221007T073113Z">
         <seg>Si el receptor de la llamada no tiene una firma coincidente (por ejemplo, se devuelve un `f32` en su lugar), se lanza un [`WebAssembly.RuntimeError`](/es/docs/WebAssembly/JavaScript_interface/RuntimeError).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the condition is false (0), another statement can be executed</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084055Z" creationid="gitnacho" creationdate="20221020T084055Z">
+        <seg>Si la condición es `false` (0), se puede ejecutar otra instrucción</seg>
       </tuv>
     </tu>
     <tu>
@@ -33857,6 +33899,14 @@ specified number of elements.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214431Z" creationid="gitnacho" creationdate="20221019T214431Z">
         <seg>El método prototipo **`grow()`** del objeto [`WebAssembly.Memory`](/es/docs/WebAssembly/JavaScript_interface/Memory) aumenta el tamaño de la instancia de memoria en un número específico de páginas de WebAssembly .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`if`** statement executes a statement if the last item on the stack is true (1).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084026Z" creationid="gitnacho" creationdate="20221020T084026Z">
+        <seg>La instrucción **`if`** ejecuta una declaración si el último elemento de la pila es `true` (1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45724,6 +45774,18 @@ call_indirect $my_spicy_table (type $i32_to_void)
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```wasm
+i32.const 0
+if</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083647Z" creationid="gitnacho" creationdate="20221020T083647Z">
+        <seg>```wasm
+i32.const 0
+if</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`async` has a similar effect in this case.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T124447Z" creationid="gitnacho" creationdate="20221003T124447Z">
@@ -52563,6 +52625,14 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/end.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083645Z" creationid="gitnacho" creationdate="20221020T083645Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/end.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedInteractiveExample("pages/wat/mul.html", "tabbed-taller")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091827Z" creationid="gitnacho" creationdate="20221007T091827Z">
@@ -52939,6 +53009,18 @@ xhr.send();
         <seg>| Instrucción | Código binario de operación |
 | ----------- | ------------- |
 | `drop`      | `0x1a`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `end`       | `0x0b`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083719Z" creationid="gitnacho" creationdate="20221020T083719Z">
+        <seg>| Instrucción | Código binario de operación |
+| ----------- | ------------- |
+| `end`       | `0x0b`        |</seg>
       </tuv>
     </tu>
     <tu>
@@ -53880,6 +53962,22 @@ original_slug: WebAssembly/Reference/Control_flow/Drop
   - Control de flujo
 reviewer: Nachec
 original_slug: WebAssembly/Reference/Control_flow/end
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/if...else/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083955Z" creationid="gitnacho" creationdate="20221020T083955Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+original_slug: WebAssembly/Reference/Control_flow/if...else
 ---</seg>
       </tuv>
     </tu>
