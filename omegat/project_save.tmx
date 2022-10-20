@@ -11855,6 +11855,18 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [HTML table basics](/en-US/docs/Learn/HTML/Tables/Basics)
+- [HTML table advanced features and accessibility](/en-US/docs/Learn/HTML/Tables/Advanced)
+- [Structuring planet data](/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175129Z" creationid="Nachec" creationdate="20221020T175129Z">
+        <seg>- [HTML table basics](/en-US/docs/Learn/HTML/Tables/Basics)
+- [HTML table advanced features and accessibility](/en-US/docs/Learn/HTML/Tables/Advanced)
+- [Structuring planet data](/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [HTML — Structuring the web](/en-US/docs/Learn/HTML)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130907Z" creationid="gitnacho" creationdate="20221020T130907Z">
