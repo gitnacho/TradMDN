@@ -5373,8 +5373,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : After mastering the essentials of vanilla HTML, CSS, and JavaScript, you should learn about [client-side web development tools](/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools), and then consider digging into [client-side JavaScript frameworks](/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), and [server-side website programming](/en-US/docs/Learn/Server-side).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130655Z" creationid="gitnacho" creationdate="20221020T123525Z">
-        <seg>- : ¡Excelente! Después de dominar los fundamentos del HTML, CSS y JavaScript puedes estar interesado en explorar las [Guías avanzadas](/es/docs/Web/Guide) y [Tutoriales](/es/docs/Web/Tutoriales). Otra excelente idea es aprender sobre las [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools) y luego considera ahondar en los [marcos de desarrollo («frameworks») de JavaScript de lado del cliente](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), y la [Programación de sitios web de lado del servidor](/es/docs/Learn/Server-side). Finalmente deberías considerar [Contribuir al Área de Aprendizaje](/es/docs/Learn/como_Contribuir).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T181416Z" creationid="gitnacho" creationdate="20221020T123525Z">
+        <seg>- : ¡Excelente! Después de dominar los fundamentos del HTML, CSS y JavaScript puedes estar interesado en explorar las [Guías avanzadas](/es/docs/Web/Guide) y [Tutoriales](/es/docs/Web/Tutorials). Otra excelente idea es aprender sobre las [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools) y luego considera ahondar en los [marcos de desarrollo (*frameworks*) de JavaScript de lado del cliente](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), y la [Programación de sitios web de lado del servidor](/es/docs/Learn/Server-side). Finalmente deberías considerar [Contribuir al Área de Aprendizaje](/es/docs/Learn/Contribute).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7851,6 +7851,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131723Z" creationid="gitnacho" creationdate="20221020T131723Z">
         <seg>- : Este tema abarca las herramientas que los desarrolladores utilizan para facilitar su trabajo, como las herramientas de prueba entre navegadores, analizadores de errores de código fuente, formateadores, herramientas de transformación, sistemas de control de versiones, herramientas de despliegue y marcos de desarrollo JavaScript de lado del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Thousands of interactive JavaScript challenges.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180502Z" creationid="Nachec" creationdate="20221020T180502Z">
+        <seg>- : Miles de desafíos interactivos de JavaScript.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11887,6 +11895,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180009Z" creationid="Nachec" creationdate="20221020T180009Z">
         <seg>- [EXLskills](https://exlskills.com/learn-en/courses)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Edabit](https://edabit.com/challenges/javascript)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180450Z" creationid="Nachec" creationdate="20221020T180450Z">
+        <seg>- [Edabit](https://edabit.com/challenges/javascript)</seg>
       </tuv>
     </tu>
     <tu>
