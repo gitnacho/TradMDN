@@ -4792,6 +4792,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**`nop`** stands for no-operation.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090137Z" creationid="gitnacho" creationdate="20221020T090137Z">
+        <seg>**`nop`** significa "no hay operación".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*/</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170430T051129Z" creationid="nacho" creationdate="20170430T051129Z">
@@ -18708,6 +18716,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: nop
+slug: WebAssembly/Reference/Control_flow/nop
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085941Z" creationid="gitnacho" creationdate="20221020T085941Z">
+        <seg>---
+title: Instrucción nop
+slug: WebAssembly/Reference/Control_flow/nop
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: setInterval()
 slug: Web/API/setInterval
 page-type: web-api-global-function
@@ -29964,6 +29986,14 @@ y \{{cssxref("margin-left")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T033358Z" creationid="gitnacho" creationdate="20220913T033358Z">
         <seg>Permite especificar los parámetros de la respuesta del filtro, para que se pueda ajustar según sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It literally does nothing.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090142Z" creationid="gitnacho" creationdate="20221020T090142Z">
+        <seg>Literalmente no hace nada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45805,6 +45835,18 @@ if</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```wasm
+nop
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090148Z" creationid="gitnacho" creationdate="20221020T090148Z">
+        <seg>```wasm
+nop
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`async` has a similar effect in this case.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T124447Z" creationid="gitnacho" creationdate="20221003T124447Z">
@@ -52676,6 +52718,14 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/nop.html", "tabbed-shorter")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090144Z" creationid="gitnacho" creationdate="20221020T090144Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/nop.html", "tabbed-shorter")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedLiveSample("Example", "85ch", "240px")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173821Z" creationid="gitnacho" creationdate="20221005T173821Z">
@@ -53100,6 +53150,18 @@ xhr.send();
         <seg>| Instrucción | Código binario de operación |
 | ----------- | ------------- |
 | `loop`      | `0x03`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `nop`       | `0x01`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090240Z" creationid="gitnacho" creationdate="20221020T090240Z">
+        <seg>| Instrucción | Código binario de operación |
+| ----------- | ------------- |
+| `nop`       | `0x01`        |</seg>
       </tuv>
     </tu>
     <tu>
@@ -54041,6 +54103,21 @@ reviewer: Nachec
 ---</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085746Z" creationid="gitnacho" creationdate="20221020T084713Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/nop/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090006Z" creationid="gitnacho" creationdate="20221020T090006Z">
         <seg>- Control flow
   - Control de flujo
 reviewer: Nachec
