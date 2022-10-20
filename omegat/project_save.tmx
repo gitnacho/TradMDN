@@ -43877,6 +43877,18 @@ const table = new WebAssembly.Table({</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+const tag = new WebAssembly.Tag({ parameters: ["i32", "i64"] });
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071048Z" creationid="gitnacho" creationdate="20221020T071048Z">
+        <seg>```js
+const tag = new WebAssembly.Tag({ parameters: ["i32", "i64"] });
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 const tag = new WebAssembly.Tag({ parameters: ["i32"] });</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204230Z" creationid="gitnacho" creationdate="20221019T204230Z">
