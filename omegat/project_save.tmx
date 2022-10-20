@@ -20394,9 +20394,9 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
       <tuv lang="en-US">
         <seg>;; most of the time you'll want to put this in an if statement and only branch on condition,</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075506Z" creationid="gitnacho" creationdate="20221020T075506Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075930Z" creationid="gitnacho" creationdate="20221020T075506Z">
         <seg>;; la mayoría de las veces querrás poner esto en una
-;; declaración if y solo bifurcar con la condición,</seg>
+  ;; declaración if y solo bifurcar con la condición,</seg>
       </tuv>
     </tu>
     <tu>
@@ -20413,9 +20413,9 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>;; otherwise the following control flow are unreachable.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075533Z" creationid="gitnacho" creationdate="20221020T075533Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075933Z" creationid="gitnacho" creationdate="20221020T075533Z">
         <seg>;; de lo contrario, el siguiente control de flujo será
-;; inalcanzable.</seg>
+  ;; inalcanzable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20432,9 +20432,9 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>;; this will never be reached, since the br jumped out of the block already.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075614Z" creationid="gitnacho" creationdate="20221020T075614Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075939Z" creationid="gitnacho" creationdate="20221020T075614Z">
         <seg>;; esto nunca se alcanzará, puesto que el br ya
-;; saltó fuera del bloque.</seg>
+  ;; saltó fuera del bloque.</seg>
       </tuv>
     </tu>
     <tu>
