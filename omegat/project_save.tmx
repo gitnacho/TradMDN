@@ -1216,6 +1216,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Interface List</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205911Z" creationid="Nachec" creationdate="20221020T205911Z">
+        <seg>## Interfaz List</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Interfaces</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T040218Z" creationid="gitnacho" creationdate="20221002T040218Z">
@@ -17838,6 +17846,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Interface list
+slug: Web/XSLT/XSLT_JS_interface_in_Gecko/Interface_List
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205906Z" creationid="Nachec" creationdate="20221020T205906Z">
+        <seg>---
+title: Interfaz list
+slug: Web/XSLT/XSLT_JS_interface_in_Gecko/Interface_List
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Internationalization
 slug: Glossary/Internationalization_and_localization
 tags:</seg>
@@ -19833,6 +19855,16 @@ console.log(x[1]); // 31</seg>
         <seg>// De un arreglo
 const x = new Uint8ClampedArray([21, 31]);
 console.log(x[1]); // 31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// From an iterable
+const iterable = (function* () {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205723Z" creationid="Nachec" creationdate="20221020T205723Z">
+        <seg>// Desde un iterable
+const iterable = (function* () {</seg>
       </tuv>
     </tu>
     <tu>
@@ -33424,6 +33456,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T112046Z" creationid="gitnacho" creationdate="20221007T112046Z">
         <seg>Consulta el [código fuente](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/index-compile.html) de `index-compile.html` o lo puedes [ver en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/index-compile.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See {{domxref("XSLTProcessor")}} in the Web API documentation section.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205934Z" creationid="Nachec" creationdate="20221020T205934Z">
+        <seg>Consulta {{domxref("XSLTProcessor")}} en la sección de documentación de la API Web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53278,6 +53318,24 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>yield* [1, 2, 3];
+})();
+const uintc8FromIterable = new Uint8ClampedArray(iterable);
+console.log(uintc8FromIterable);
+// Uint8ClampedArray [1, 2, 3]
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205728Z" creationid="Nachec" creationdate="20221020T205728Z">
+        <seg>yield* [1, 2, 3];
+})();
+const uintc8FromIterable = new Uint8ClampedArray(iterable);
+console.log(uintc8FromIterable);
+// Uint8ClampedArray [1, 2, 3]
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>you'll get the result `function` returned.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085912Z" creationid="gitnacho" creationdate="20221006T085912Z">
@@ -54737,6 +54795,21 @@ tags:</prop>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085638Z" creationid="gitnacho" creationdate="20221002T092645Z">
         <seg>- Web
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">web/xslt/xslt_js_interface_in_gecko/interface_list/index.md</prop>
+      <prop type="prev">- NeedsContent</prop>
+      <prop type="next">## Interface List</prop>
+      <tuv lang="en-US">
+        <seg>- Reference
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205857Z" creationid="Nachec" creationdate="20221020T205857Z">
+        <seg>- Reference
+  - Referencia
 reviewer: Nachec
 ---</seg>
       </tuv>
