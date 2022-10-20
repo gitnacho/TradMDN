@@ -4858,6 +4858,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**`unreachable`** is used to denote a point in code that should not be reachable.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211940Z" creationid="Nachec" creationdate="20221020T211940Z">
+        <seg>**`unreachable`** se usa para indicar un punto en el código que no debería ser accesible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*/</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170430T051129Z" creationid="nacho" creationdate="20170430T051129Z">
@@ -19282,6 +19290,20 @@ tags:</seg>
 title: setInterval()
 slug: Web/API/setInterval
 page-type: web-api-global-function
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: unreachable
+slug: WebAssembly/Reference/Control_flow/unreachable
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211919Z" creationid="Nachec" creationdate="20221020T211919Z">
+        <seg>---
+title: unreachable
+slug: WebAssembly/Reference/Control_flow/unreachable
 tags:</seg>
       </tuv>
     </tu>
@@ -46745,6 +46767,18 @@ nop
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```wasm
+unreachable
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T212033Z" creationid="Nachec" creationdate="20221020T212033Z">
+        <seg>```wasm
+unreachable
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`async` has a similar effect in this case.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T124447Z" creationid="gitnacho" creationdate="20221003T124447Z">
@@ -46863,6 +46897,14 @@ nop
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210829T095634Z" creationid="gitnacho" creationdate="20210829T095634Z">
         <seg>`undefined`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`unreachable` is an unconditional trap: in the case where an `unreachable` is reached and executed, the instruction traps.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T212030Z" creationid="Nachec" creationdate="20221020T212030Z">
+        <seg>`unreachable` es una trampa incondicional: en el caso de que se alcance y ejecute un `unreachable`, atrapa la instrucción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53716,6 +53758,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/unreachable.html", "tabbed-shorter")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T212032Z" creationid="Nachec" creationdate="20221020T212032Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/unreachable.html", "tabbed-shorter")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedLiveSample("Example", "85ch", "240px")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173821Z" creationid="gitnacho" creationdate="20221005T173821Z">
@@ -54044,6 +54094,18 @@ console.log(uintc8FromIterable);
 | --------------- | ------------- |
 | `call`          | `0x10`        |
 | `call_indirect` | `0x11`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction   | Binary opcode |
+| ------------- | ------------- |
+| `unreachable` | `0x00`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T212058Z" creationid="Nachec" creationdate="20221020T212058Z">
+        <seg>| instrucción | Código binario de operación |
+| ------------- | ------------- |
+| `unreachable` | `0x00`        |</seg>
       </tuv>
     </tu>
     <tu>
@@ -55252,6 +55314,21 @@ reviewer: Nachec
 ---</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210819Z" creationid="Nachec" creationdate="20221020T210819Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/unreachable/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T212130Z" creationid="Nachec" creationdate="20221020T212130Z">
         <seg>- Control flow
   - Control de flujo
 reviewer: Nachec
