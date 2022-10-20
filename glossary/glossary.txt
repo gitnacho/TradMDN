@@ -79661,3 +79661,4 @@ zygote	cigoto
 ⇋	C-q C-i inserta un carácter de tabulación
 ﻿`	acento gravedistributivity	distributividaddisjointed
 webchat.freenode.net	channels=brackets
+Revísalas	Release_notes
