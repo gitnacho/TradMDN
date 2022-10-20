@@ -17714,6 +17714,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Setting parameters
+slug: Web/XSLT/XSLT_JS_interface_in_Gecko/Setting_Parameters
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T101819Z" creationid="gitnacho" creationdate="20221020T101819Z">
+        <seg>---
+title: Setting parameters
+slug: Web/XSLT/XSLT_JS_interface_in_Gecko/Setting_Parameters
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: SharedArrayBuffer
 slug: Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer
 tags:</seg>
@@ -21235,8 +21249,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;button id="mybutton"&gt;Run myFunction&lt;/button&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112245Z" creationid="gitnacho" creationdate="20221003T112245Z">
-        <seg>&lt;button id="mybutton"&gt;Run myFunction&lt;/button&gt;</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T102152Z" creationid="gitnacho" creationdate="20221003T112245Z">
+        <seg>&lt;button id="mybutton"&gt;Ejecuta myFunction&lt;/button&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50878,8 +50892,8 @@ npm link hello-wasm
       <tuv lang="en-US">
         <seg>request.onerror = reject.bind(null, "Error opening wasm cache database");</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T043401Z" creationid="gitnacho" creationdate="20221004T043401Z">
-        <seg>request.onerror = reject.bind(null, "Error opening wasm cache database");</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T102512Z" creationid="gitnacho" creationdate="20221004T043401Z">
+        <seg>request.onerror = reject.bind(null, "Error al abrir la base de datos de caché wasm");</seg>
       </tuv>
     </tu>
     <tu>
