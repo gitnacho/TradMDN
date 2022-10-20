@@ -4850,6 +4850,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**`return`** returns from a function.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210408Z" creationid="Nachec" creationdate="20221020T210408Z">
+        <seg>**`return`** regresa de una función.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*/</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170430T051129Z" creationid="nacho" creationdate="20170430T051129Z">
@@ -9485,10 +9493,34 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- If there are more values that the function's return type specifies, then the excess values are popped from the stack and discarded, and the last N values are returned.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210511Z" creationid="Nachec" creationdate="20221020T210511Z">
+        <seg>- Si hay más valores que el tipo de devolución de la función especifica, entonces los valores en exceso se extraen de la pila y se descartan, y se devuelven los últimos N valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- If there are no parameters, you may leave out the parentheses entirely; `\{{macroname()}}` and `\{{macroname}}` are identical.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T095025Z" creationid="gitnacho" creationdate="20221005T095025Z">
         <seg>- Si no hay parámetros, puedes omitir los paréntesis por completo; `\{{macroname()}}` y `\{{macroname}}` son idénticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If there are no values left on the stack, it returns nothing/void.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210449Z" creationid="Nachec" creationdate="20221020T210449Z">
+        <seg>- Si no quedan valores en la pila, no devuelve nada/`void`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- If there are the same amount of values left on the stack as specified in the function's type signature, it returns those values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210458Z" creationid="Nachec" creationdate="20221020T210458Z">
+        <seg>- Si queda la misma cantidad de valores en la pila como se especifica en la firma de tipo de la función, devuelve esos valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18128,6 +18160,20 @@ tags:</seg>
         <seg>---
 title: Contextos seguros
 slug: Web/Security/Secure_Contexts
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Select
+slug: WebAssembly/Reference/Control_flow/Select
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210754Z" creationid="Nachec" creationdate="20221020T210754Z">
+        <seg>---
+title: Select
+slug: WebAssembly/Reference/Control_flow/Select
 tags:</seg>
       </tuv>
     </tu>
@@ -34582,6 +34628,14 @@ the {{domxref("Cache")}} object matching the `cacheName`.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`select`** instruction, selects one of its first two operands based on whether its third operand is zero or not.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210829Z" creationid="Nachec" creationdate="20221020T210829Z">
+        <seg>The **`select`** instruction, selects one of its first two operands based on whether its third operand is zero or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`set()`** prototype method of
 the [`WebAssembly.Table`](/en-US/docs/WebAssembly/JavaScript_interface/Table) object mutates a reference stored at a given index
 to a different value.</seg>
@@ -46548,6 +46602,20 @@ call_indirect $my_spicy_table (type $i32_to_void)
     <tu>
       <tuv lang="en-US">
         <seg>```wasm
+f32.const 4.3
+return
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210514Z" creationid="Nachec" creationdate="20221020T210514Z">
+        <seg>```wasm
+f32.const 4.3
+return
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
 i32.const 0
 (if</seg>
       </tuv>
@@ -46567,6 +46635,22 @@ if</seg>
         <seg>```wasm
 i32.const 0
 if</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
+i32.const 7
+f32.const 4.3
+return
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210516Z" creationid="Nachec" creationdate="20221020T210516Z">
+        <seg>```wasm
+i32.const 7
+f32.const 4.3
+return
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -53530,6 +53614,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/return.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210513Z" creationid="Nachec" creationdate="20221020T210513Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/return.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedLiveSample("Example", "85ch", "240px")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173821Z" creationid="gitnacho" creationdate="20221005T173821Z">
@@ -53966,6 +54058,32 @@ console.log(uintc8FromIterable);
         <seg>| Instrucción | Código binario de operación |
 | ----------- | ------------- |
 | `nop`       | `0x01`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `return`    | `0x0f`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210530Z" creationid="Nachec" creationdate="20221020T210530Z">
+        <seg>| Instrucción | Código binario de operación |
+| ----------- | ------------- |
+| `return`    | `0x0f`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `select`    | `0x1b`        |
+| `select t`  | `0x1c`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210928Z" creationid="Nachec" creationdate="20221020T210928Z">
+        <seg>| Instrucción | Código binario de operación |
+| ----------- | ------------- |
+| `select`    | `0x1b`        |
+| `select t`  | `0x1c`        |</seg>
       </tuv>
     </tu>
     <tu>
@@ -55010,6 +55128,36 @@ reviewer: Nachec
 ---</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090006Z" creationid="gitnacho" creationdate="20221020T090006Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/return/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210434Z" creationid="Nachec" creationdate="20221020T210434Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/select/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210819Z" creationid="Nachec" creationdate="20221020T210819Z">
         <seg>- Control flow
   - Control de flujo
 reviewer: Nachec
