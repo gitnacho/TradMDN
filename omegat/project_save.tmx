@@ -33973,6 +33973,14 @@ specified number of elements.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`loop`** statement is the opposite of the `block` statement, in the sense that while branching to a `loop` jumps to the beginning of the loop, branching to a `block` jumps to the end of the block, that is, out of the block.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084936Z" creationid="gitnacho" creationdate="20221020T084936Z">
+        <seg>La instrucción **`loop`** es lo opuesto a la instrucción `block`, en el sentido de que mientras la bifurcación a un `loop` salta al principio del bucle, la bifurcación a un `block` salta al final del `block`, es decir, fuera del bloque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`loop`** statement is the opposite of the `block` statement, in the sense that while branching to a `loop` jumps to the beginning of the loop, branching to a `block` jumps to the end of the block; that is, out of the block.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075259Z" creationid="gitnacho" creationdate="20221020T075259Z">
@@ -52715,6 +52723,14 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/loop.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084939Z" creationid="gitnacho" creationdate="20221020T084939Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/loop.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedInteractiveExample("pages/wat/mul.html", "tabbed-taller")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091827Z" creationid="gitnacho" creationdate="20221007T091827Z">
@@ -53135,6 +53151,18 @@ xhr.send();
 | ----------- | ------------- |
 | `if`        | `0x04`        |
 | `else`      | `0x05`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `loop`      | `0x03`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085101Z" creationid="gitnacho" creationdate="20221020T085101Z">
+        <seg>| Instrucción | Código binario de operación |
+| ----------- | ------------- |
+| `loop`      | `0x03`        |</seg>
       </tuv>
     </tu>
     <tu>
