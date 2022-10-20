@@ -6561,6 +6561,90 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Provides a practical introduction to web development for complete beginners.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124446Z" creationid="gitnacho" creationdate="20221020T124446Z">
+        <seg>- : Proporciona una introducción práctica al desarrollo web para principiantes completos.
+
+- [HTML — Estructurando la web](/es/docs/Learn/HTML)
+
+- : HTML es el lenguaje que usamos para estructurar las diferentes partes de nuestro contenido y definir cuál es su significado o propósito.
+
+Este tema enseña HTML en detalle.
+
+- [CSS — Dar estilo a la web](/es/docs/Learn/CSS)
+
+- : CSS es el lenguaje que podemos usar para diseñar y diseñar nuestro contenido web, así como para agregar comportamientos como animación.
+
+Este tema proporciona una cobertura completa de CSS.
+
+- [JavaScript — Scripting dinámico del lado del cliente](/es/docs/Learn/JavaScript)
+
+- : JavaScript es el lenguaje de secuencias de comandos utilizado para agregar funcionalidad dinámica a las páginas web.
+
+Este tema enseña todos los elementos esenciales necesarios para sentirse cómodo con la escritura y la comprensión de JavaScript.
+
+- [Formularios web — Trabajar con datos de usuario](/es/docs/Learn/Forms)
+
+- : Los formularios web son una potente herramienta para interactuar con los usuarios; por lo general, se utilizan para recopilar datos de los usuarios o permitirles controlar una interfaz de usuario.
+
+En los artículos que se enumeran a continuación, cubriremos todos los aspectos esenciales de la estructuración, el estilo y la interacción con formularios web.
+
+- [Accesibilidad — hacer que la web sea usable para todos](/es/docs/Learn/Accessibility)
+
+- : La accesibilidad es la práctica de hacer que el contenido web esté disponible para la mayor cantidad de personas posible, independientemente de su discapacidad, dispositivo, ubicación u otros factores diferenciadores.
+
+Este tema le brinda todo lo que necesita saber.
+
+- [Rendimiento web: hacer que los sitios web sean rápidos y receptivos](/es/docs/Learn/Performance)
+
+- : El rendimiento web es el arte de asegurarse de que las aplicaciones web se descarguen rápido y respondan a la interacción del usuario, independientemente del ancho de banda, el tamaño de la pantalla, la red o las capacidades del dispositivo del usuario.
+
+- : MathML es el lenguaje que podemos usar para escribir fórmulas matemáticas en páginas web usando fracciones, scripts, radicales, matrices, integrales, series, etc.
+
+Este tema cubre MathML.
+
+- [Herramientas y pruebas](/es/docs/Learn/Tools_and_testing)
+
+- : este tema cubre las herramientas que usan los desarrolladores para facilitar su trabajo, como herramientas de prueba entre navegadores, linters, formateadores, herramientas de transformación, sistemas de control de versiones, herramientas de implementación y marcos JavaScript del lado del cliente.
+
+- [Programación de sitios web del lado del servidor] (/es/docs/Learn/Server-side)
+
+- : Incluso si se está concentrando en el desarrollo web del lado del cliente, sigue siendo útil saber cómo funcionan los servidores y las características del código del lado del servidor.
+
+Este tema proporciona una introducción general sobre cómo funciona el lado del servidor y tutoriales detallados que muestran cómo crear una aplicación del lado del servidor utilizando dos marcos populares: Django (Python) y Express (Node.js).
+
+## Obtener nuestros ejemplos de código
+
+Los ejemplos de código que encontrará en el Área de aprendizaje están todos [disponibles en GitHub](https://github.com/mdn/learning-area/).
+
+Si desea copiarlos todos en su computadora, la forma más fácil es [descargar un ZIP de la última rama del código maestro] (https://codeload.github.com/mdn/learning-area/zip/main).
+
+Si prefiere copiar el repositorio de una manera más flexible que permita actualizaciones automáticas, puede seguir las instrucciones más complejas:
+
+[Instalar Git](https://git-scm.com/downloads) en su máquina.
+
+Este es el software del sistema de control de versiones subyacente sobre el que funciona GitHub.
+
+Abra el [símbolo del sistema] de su computadora (https://www.lifewire.com/how-to-open-command-prompt-2618089) (Windows) o terminal ([Linux] (https://help.ubuntu.com/ community/UsingTheTerminal), [macOS](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).
+
+Para copiar el repositorio del área de aprendizaje en una carpeta llamada área de aprendizaje en la ubicación actual a la que apunta su símbolo del sistema/terminal, use el siguiente comando:
+
+Ahora puede ingresar al directorio y encontrar los archivos que busca (ya sea usando su Finder/Explorador de archivos o el comando [`cd`](&lt;https://en.wikipedia.org/wiki/Cd_(command)&gt;)) .
+
+Puede actualizar el repositorio `learning-area` con cualquier cambio realizado en la versión maestra en GitHub con los siguientes pasos:
+
+En el símbolo del sistema/terminal, vaya al directorio `área de aprendizaje` usando `cd`.
+
+Por ejemplo, si estuviera en el directorio principal:
+
+Actualice el repositorio usando el siguiente comando:
+
+## Contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Provides an interface for registering and listing sync registrations.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T151914Z" creationid="gitnacho" creationdate="20221002T151914Z">
@@ -11709,6 +11793,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T095643Z" creationid="gitnacho" creationdate="20221002T095643Z">
         <seg>- [Firefox Developer Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Getting started with the web](/en-US/docs/Learn/Getting_started_with_the_web)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124242Z" creationid="gitnacho" creationdate="20221020T124242Z">
+        <seg>- [Primeros pasos en la web](/es/docs/Learn/Getting_started_with_the_web)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40777,8 +40869,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>Welcome to the MDN learning area.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T231624Z" creationid="gitnacho" creationdate="20221012T231624Z">
-        <seg>¡Bienvenido al área de aprendizaje de MDN!</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124509Z" creationid="gitnacho" creationdate="20221012T231624Z">
+        <seg>¡Hola! ¡Bienvenido al área de aprendizaje de MDN!</seg>
       </tuv>
     </tu>
     <tu>
