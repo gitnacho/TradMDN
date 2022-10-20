@@ -20684,6 +20684,14 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10 : 20`), but doesn't [short-circuit](https://en.wikipedia.org/wiki/Short-circuit_evaluation).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211130Z" creationid="Nachec" creationdate="20221020T211130Z">
+        <seg>10 : 20`), pero no [cortocircuito](https://es.wikipedia.org/wiki/Short-circuit_evaluation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10,</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210828T222554Z" creationid="gitnacho" creationdate="20210828T222554Z">
@@ -30724,6 +30732,14 @@ y \{{cssxref("margin-left")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shares some similarities with the ternary operator in other languages (e.g. `false ?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211016Z" creationid="Nachec" creationdate="20221020T211016Z">
+        <seg>Comparte algunas similitudes con el operador ternario en otros lenguajes (por ejemplo, `false ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It takes the form of a JavaScript file that can control the web-page/site that it is associated with, intercepting and modifying navigation and resource requests, and caching resources in a very granular fashion to give you complete control over how your app behaves in certain situations (the most obvious one being when the network is not available).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T134131Z" creationid="gitnacho" creationdate="20221002T134131Z">
@@ -34630,8 +34646,8 @@ the {{domxref("Cache")}} object matching the `cacheName`.</seg>
       <tuv lang="en-US">
         <seg>The **`select`** instruction, selects one of its first two operands based on whether its third operand is zero or not.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210829Z" creationid="Nachec" creationdate="20221020T210829Z">
-        <seg>The **`select`** instruction, selects one of its first two operands based on whether its third operand is zero or not.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210946Z" creationid="Nachec" creationdate="20221020T210829Z">
+        <seg>La instrucción **`select`**, selecciona uno de sus primeros dos operandos en función de si su tercer operando es cero o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36305,6 +36321,14 @@ detalles en la consola:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054653Z" creationid="gitnacho" creationdate="20221007T054653Z">
         <seg>La instrucción `local.get 0` obtendría el parámetro i32, `local.get 1` obtendría el parámetro f32 y `local.get 2` obtendría el local f64.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The instruction may be followed by an immediate value type: `select (result T)`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211158Z" creationid="Nachec" creationdate="20221020T211158Z">
+        <seg>La instrucción puede ir seguida de un tipo de valor inmediato: `select (result T)`.</seg>
       </tuv>
     </tu>
     <tu>
