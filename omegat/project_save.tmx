@@ -18606,6 +18606,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: block
+slug: WebAssembly/Reference/Control_flow/block
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T074823Z" creationid="gitnacho" creationdate="20221020T074823Z">
+        <seg>---
+title: block
+slug: WebAssembly/Reference/Control_flow/block
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: caches
 slug: Web/API/caches
 page-type: web-api-global-property
@@ -53409,6 +53423,22 @@ original_slug: WebAssembly/Funciones_Webassembly_Exportadas
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000447Z" creationid="gitnacho" creationdate="20221020T000447Z">
         <seg> {{JSxRef("TypeError")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/block/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T074927Z" creationid="gitnacho" creationdate="20221020T074927Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+original_slug: WebAssembly/Reference/Control_flow/block
+---</seg>
       </tuv>
     </tu>
     <tu>
