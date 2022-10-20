@@ -4768,6 +4768,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**`end`** is used to end a `block`, `loop`, `if`, or `else`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083604Z" creationid="gitnacho" creationdate="20221020T083604Z">
+        <seg>**`end`** se usa para finalizar un `block`, `loop`, `if` o `else`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*/</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170430T051129Z" creationid="nacho" creationdate="20170430T051129Z">
@@ -18705,6 +18713,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: end
+slug: WebAssembly/Reference/Control_flow/end
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083516Z" creationid="gitnacho" creationdate="20221020T083516Z">
+        <seg>---
+title: Instrucción end
+slug: WebAssembly/Reference/Control_flow/end
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: setInterval()
 slug: Web/API/setInterval
 page-type: web-api-global-function
@@ -29175,6 +29197,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T182007Z" creationid="gitnacho" creationdate="20221006T182007Z">
         <seg>En el modelo de memoria de bajo nivel de WebAssembly, la memoria se representa como un rango contiguo de bytes sin tipo llamado [Memoria lineal](https://webassembly.github.io/spec/core/exec/index.html) que se leen y escriben con [instrucciones de carga y almacenamiento](https://webassembly.github.io/spec/core/exec/instructions.html#memory-instructions) dentro del módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the other examples we used the s-expression syntax which doesn't require the `end`, so you won't find it in the other examples here.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083635Z" creationid="gitnacho" creationdate="20221020T083635Z">
+        <seg>En los otros ejemplos, usamos la sintaxis de expresión-S que no requiere el `end`, por lo que no lo encontrarás en los otros ejemplos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53834,6 +53864,22 @@ original_slug: WebAssembly/Reference/Control_flow/call
   - Control de flujo
 reviewer: Nachec
 original_slug: WebAssembly/Reference/Control_flow/Drop
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/end/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083539Z" creationid="gitnacho" creationdate="20221020T083539Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+original_slug: WebAssembly/Reference/Control_flow/end
 ---</seg>
       </tuv>
     </tu>
