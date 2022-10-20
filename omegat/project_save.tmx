@@ -4069,8 +4069,8 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
       <tuv lang="en-US">
         <seg>(In JavaScript, this is represented as a {{jsxref("BigInt")}})</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110548Z" creationid="gitnacho" creationdate="20221007T110548Z">
-        <seg>(En JavaScript, esto se representa como {{jsxref("BigInt")}})</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T110548Z">
+        <seg>(En JavaScript, esto se representa como {{JSxRef("BigInt")}})</seg>
       </tuv>
     </tu>
     <tu>
@@ -5093,8 +5093,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : A [typed array](/en-US/docs/Web/JavaScript/Typed_arrays) or {{jsxref("ArrayBuffer")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T180355Z" creationid="gitnacho" creationdate="20221007T180355Z">
-        <seg>- : Un [arreglo tipado](/es/docs/Web/JavaScript/Typed_arrays) o {{jsxref("ArrayBuffer")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T180355Z">
+        <seg>- : Un [arreglo tipado](/es/docs/Web/JavaScript/Typed_arrays) o {{JSxRef("ArrayBuffer")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5117,8 +5117,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : A `WebAssembly.Memory` object is a resizable {{jsxref("Global_objects/ArrayBuffer", "ArrayBuffer")}} that holds the raw bytes of memory accessed by an `Instance`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T102359Z" creationid="gitnacho" creationdate="20221003T102359Z">
-        <seg>- : Un objeto `WebAssembly.Memory` es un {{jsxref("Global_objects/ArrayBuffer", "ArrayBuffer")}} redimensionable que contiene los bytes sin procesar de la memoria a la que accede una `Instance`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221003T102359Z">
+        <seg>- : Un objeto `WebAssembly.Memory` es un {{JSxRef("Global_objects/ArrayBuffer", "ArrayBuffer")}} redimensionable que contiene los bytes sin procesar de la memoria a la que accede una `Instance`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5341,16 +5341,16 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : A {{jsxref("Promise")}} for a {{domxref("Response")}}, or `undefined` if this fetch is not a navigation, or [navigation preload](/en-US/docs/Web/API/NavigationPreloadManager) is not enabled.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20220922T214149Z">
-        <seg>- : {{jsxref("Promise")}} para {{DOMxRef("Response")}}, o `undefined` si `fetch` no esta es una navegación, o la [precarga de navegación](/es/docs/Web/API/NavigationPreloadManager) no está habilitada.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T214149Z">
+        <seg>- : {{JSxRef("Promise")}} para {{DOMxRef("Response")}}, o `undefined` si `fetch` no esta es una navegación, o la [precarga de navegación](/es/docs/Web/API/NavigationPreloadManager) no está habilitada.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- : A {{jsxref("Uint8ClampedArray")}} representing a one-dimensional array containing the data in the RGBA order, with integer values between `0` and `255` (included).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T055901Z" creationid="gitnacho" creationdate="20221004T055901Z">
-        <seg>- : Un {{jsxref("Uint8ClampedArray")}} que representa un arreglo unidimensional que contiene los datos en el orden RGBA, con valores enteros entre `0` y `255` (incluidos).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221004T055901Z">
+        <seg>- : Un {{JSxRef("Uint8ClampedArray")}} que representa un arreglo unidimensional que contiene los datos en el orden RGBA, con valores enteros entre `0` y `255` (incluidos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5931,8 +5931,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Disables navigation preloading, returning a {{jsxref("Promise")}} that resolves with {{jsxref('undefined')}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T205158Z" creationid="gitnacho" creationdate="20220922T205158Z">
-        <seg>- : Deshabilita la precarga de navegación, devolviendo una {{jsxref("Promise")}} que se resuelve con {{jsxref('undefined')}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T205158Z">
+        <seg>- : Deshabilita la precarga de navegación, devolviendo una {{JSxRef("Promise")}} que se resuelve con {{JSxRef('undefined')}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5979,8 +5979,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Enables navigation preloading, returning a {{jsxref("Promise")}} that resolves with {{jsxref('undefined')}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T205130Z" creationid="gitnacho" creationdate="20220922T205130Z">
-        <seg>- : Habilita la precarga de navegación, devolviendo una {{jsxref("Promise")}} que se resuelve con {{jsxref('undefined')}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T205130Z">
+        <seg>- : Habilita la precarga de navegación, devolviendo una {{JSxRef("Promise")}} que se resuelve con {{JSxRef('undefined')}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6107,8 +6107,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Finds the `Cache` entry whose key is the request, returning a {{jsxref("Promise")}} that resolves to `true` if a matching `Cache` entry is found and deleted.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203413Z" creationid="gitnacho" creationdate="20221003T203413Z">
-        <seg>- : Encuentra la entrada `Cache` cuya clave es la petición, devolviendo una {{jsxref("Promise")}} que se resuelve en `true` si se encuentra y elimina una entrada `Cache` coincidente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221003T203413Z">
+        <seg>- : Encuentra la entrada `Cache` cuya clave es la petición, devolviendo una {{JSxRef("Promise")}} que se resuelve en `true` si se encuentra y elimina una entrada `Cache` coincidente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6917,32 +6917,32 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Returns a {{jsxref("Promise")}} that resolves to an array of `Cache` keys.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203439Z" creationid="gitnacho" creationdate="20221003T203439Z">
-        <seg>- : Devuelve una {{jsxref("Promise")}} que se resuelve en un arreglo de claves `Cache`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221003T203439Z">
+        <seg>- : Devuelve una {{JSxRef("Promise")}} que se resuelve en un arreglo de claves `Cache`.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- : Returns a {{jsxref("Promise")}} that resolves to an array of all matching responses in the `Cache` object.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203225Z" creationid="gitnacho" creationdate="20221003T203225Z">
-        <seg>- : Devuelve una {{jsxref("Promise")}} que se resuelve en un arreglo de todas las respuestas coincidentes en el objeto `Cache`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221003T203225Z">
+        <seg>- : Devuelve una {{JSxRef("Promise")}} que se resuelve en un arreglo de todas las respuestas coincidentes en el objeto `Cache`.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- : Returns a {{jsxref("Promise")}} that resolves to an object with properties that indicate whether preloading is enabled, and what value will be sent in the {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header in preloading requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T205318Z" creationid="gitnacho" creationdate="20220922T205318Z">
-        <seg>- : Devuelve una {{jsxref("Promise")}} que se resuelve en un objeto con propiedades que indican si la precarga está habilitada y qué valor se enviará en la Cabecera HTTP  {{HTTPHeader("Service-Worker-Navigation-Preload") }} en solicitudes de precarga.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T205318Z">
+        <seg>- : Devuelve una {{JSxRef("Promise")}} que se resuelve en un objeto con propiedades que indican si la precarga está habilitada y qué valor se enviará en la Cabecera HTTP  {{HTTPHeader("Service-Worker-Navigation-Preload") }} en solicitudes de precarga.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- : Returns a {{jsxref("Promise")}} that resolves to the response associated with the first matching request in the `Cache` object.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203209Z" creationid="gitnacho" creationdate="20221003T203209Z">
-        <seg>- : Devuelve una {{jsxref("Promise")}} que se resuelve en la respuesta asociada con la primera solicitud coincidente en el objeto `Cache`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221003T203209Z">
+        <seg>- : Devuelve una {{JSxRef("Promise")}} que se resuelve en la respuesta asociada con la primera solicitud coincidente en el objeto `Cache`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7037,8 +7037,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Returns the length (in bytes) of the `Uint8ClampedArray` from the start of its {{jsxref("ArrayBuffer")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050742Z" creationid="gitnacho" creationdate="20221005T050742Z">
-        <seg>- : Devuelve la longitud (en bytes) de `Uint8ClampedArray` desde el inicio de su {{jsxref("ArrayBuffer")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050742Z">
+        <seg>- : Devuelve la longitud (en bytes) de `Uint8ClampedArray` desde el inicio de su {{JSxRef("ArrayBuffer")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7069,8 +7069,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Returns the offset (in bytes) of the `Uint8ClampedArray` from the start of its {{jsxref("ArrayBuffer")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050908Z" creationid="gitnacho" creationdate="20221005T050908Z">
-        <seg>- : Devuelve el desplazamiento (en bytes) de `Uint8ClampedArray` desde el inicio de su {{jsxref("ArrayBuffer")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050908Z">
+        <seg>- : Devuelve el desplazamiento (en bytes) de `Uint8ClampedArray` desde el inicio de su {{JSxRef("ArrayBuffer")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7101,8 +7101,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Returns the {{jsxref("ArrayBuffer")}} referenced by the `Uint8ClampedArray`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050705Z" creationid="gitnacho" creationdate="20221005T050705Z">
-        <seg>- : Devuelve el {{jsxref("ArrayBuffer")}} al que hace referencia `Uint8ClampedArray`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050705Z">
+        <seg>- : Devuelve el {{JSxRef("ArrayBuffer")}} al que hace referencia `Uint8ClampedArray`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7149,8 +7149,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Sets the value of the {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header sent in preloading requests and returns an empty {{jsxref("Promise")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T205236Z" creationid="gitnacho" creationdate="20220922T205236Z">
-        <seg>- : Establece el valor del encabezado HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} que se envía en las solicitudes de precarga y devuelve una {{jsxref("Promise")}} vacía.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T205236Z">
+        <seg>- : Establece el valor del encabezado HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} que se envía en las solicitudes de precarga y devuelve una {{JSxRef("Promise")}} vacía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9311,8 +9311,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- If `bufferSource` is not a [typed array](/en-US/docs/Web/JavaScript/Typed_arrays) or {{jsxref("ArrayBuffer")}},</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T180533Z" creationid="gitnacho" creationdate="20221007T180533Z">
-        <seg>- Si `bufferSource` no es un [arreglo tipado](/es/docs/Web/JavaScript/Typed_arrays) o {{jsxref("ArrayBuffer")}},</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T180533Z">
+        <seg>- Si `bufferSource` no es un [arreglo tipado](/es/docs/Web/JavaScript/Typed_arrays) o {{JSxRef("ArrayBuffer")}},</seg>
       </tuv>
     </tu>
     <tu>
@@ -12338,11 +12338,11 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - {{jsxref("ArrayBuffer")}}
 - {{jsxref("DataView")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221005T052833Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052833Z">
         <seg>- [Polyfill de `Uint8ClampedArray` en `core-js`](https://github.com/zloirock/core-js#ecmascript-typed-arrays)
 - [Arreglos con tipo JavaScript](/es/docs/Web/JavaScript/Typed_arrays)
-- {{jsxref("ArrayBuffer")}}
-- {{jsxref("DataView")}}</seg>
+- {{JSxRef("ArrayBuffer")}}
+- {{JSxRef("DataView")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12451,12 +12451,12 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/)
 - {{jsxref("Promise")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T152703Z" creationid="gitnacho" creationdate="20221002T152139Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221002T152139Z">
         <seg>- [Manual de *ServiceWorker*](https://github.com/mdn/serviceworker-cookbook)
 - [Usar *Service Workers*](/es/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 - [Código básico de ejemplo para *Service workers*](https://github.com/mdn/dom-examples/tree/main/service-worker/simple-service-worker)
 - [¿Está listo el *ServiceWorker*?](https://jakearchibald.github.io/isserviceworkerready/)
-- {{jsxref("Promise")}}</seg>
+- {{JSxRef("Promise")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12484,12 +12484,12 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - {{jsxref("Promise")}}
 - [Using web workers](/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T222916Z" creationid="gitnacho" creationdate="20221003T213626Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221003T213626Z">
         <seg>- [El manual de Offline](https://web.dev/offline-cookbook/)(*service workers*)
 - [Usar *Service Workers*](/es/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 - [Ejemplo de código básico de Service Worker](https://github.com/mdn/dom-examples/tree/main/service-worker/simple-service-worker)
 - [¿Está listo el *ServiceWorker*?](https://jakearchibald.github.io/isserviceworkerready/)
-- {{jsxref("Promise")}}
+- {{JSxRef("Promise")}}
 - [Usar *web workers*](/es/docs/Web/API/Web_Workers_API/Using_web_workers)</seg>
       </tuv>
     </tu>
@@ -12567,11 +12567,11 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - {{jsxref("Promise")}}
 - [Using web workers](/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T202407Z" creationid="gitnacho" creationdate="20221002T152531Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221002T152531Z">
         <seg>- [Usar *Service Workers*](/es/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 - [Código básico de ejemplo para *Service workers*](https://github.com/mdn/dom-examples/tree/main/service-worker/simple-service-worker)
 - [¿Está listo el *ServiceWorker*?](https://jakearchibald.github.io/isserviceworkerready/)
-- {{jsxref("Promise")}}
+- {{JSxRef("Promise")}}
 - [Usar *web workers*](/es/docs/Web/API/Web_Workers_API/Using_web_workers)</seg>
       </tuv>
     </tu>
@@ -16481,216 +16481,216 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.cause", "WebAssembly.CompileError.prototype.cause")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T025454Z" creationid="gitnacho" creationdate="20221008T025454Z">
-        <seg>- {{jsxref("Error.prototype.cause", "WebAssembly.CompileError.prototype.cause")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025454Z">
+        <seg>- {{JSxRef("Error.prototype.cause", "WebAssembly.CompileError.prototype.cause")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.cause", "WebAssembly.LinkError.prototype.cause")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075158Z" creationid="gitnacho" creationdate="20221008T075158Z">
-        <seg>- {{jsxref("Error.prototype.cause", "WebAssembly.LinkError.prototype.cause")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T075158Z">
+        <seg>- {{JSxRef("Error.prototype.cause", "WebAssembly.LinkError.prototype.cause")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.cause", "WebAssembly.RuntimeError.prototype.cause")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080749Z" creationid="gitnacho" creationdate="20221008T080749Z">
-        <seg>- {{jsxref("Error.prototype.cause", "WebAssembly.RuntimeError.prototype.cause")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T080749Z">
+        <seg>- {{JSxRef("Error.prototype.cause", "WebAssembly.RuntimeError.prototype.cause")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.columnNumber", "WebAssembly.CompileError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T072835Z" creationid="gitnacho" creationdate="20221008T025544Z">
-        <seg>- {{jsxref("Error.prototype.columnNumber", "WebAssembly.CompileError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025544Z">
+        <seg>- {{JSxRef("Error.prototype.columnNumber", "WebAssembly.CompileError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.columnNumber", "WebAssembly.LinkError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075211Z" creationid="gitnacho" creationdate="20221008T075211Z">
-        <seg>- {{jsxref("Error.prototype.columnNumber", "WebAssembly.LinkError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T075211Z">
+        <seg>- {{JSxRef("Error.prototype.columnNumber", "WebAssembly.LinkError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.columnNumber", "WebAssembly.RuntimeError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080801Z" creationid="gitnacho" creationdate="20221008T080801Z">
-        <seg>- {{jsxref("Error.prototype.columnNumber", "WebAssembly.RuntimeError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T080801Z">
+        <seg>- {{JSxRef("Error.prototype.columnNumber", "WebAssembly.RuntimeError.prototype.columnNumber")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.fileName", "WebAssembly.CompileError.prototype.fileName")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T025511Z" creationid="gitnacho" creationdate="20221008T025511Z">
-        <seg>- {{jsxref("Error.prototype.fileName", "WebAssembly.CompileError.prototype.fileName")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025511Z">
+        <seg>- {{JSxRef("Error.prototype.fileName", "WebAssembly.CompileError.prototype.fileName")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.fileName", "WebAssembly.LinkError.prototype.fileName")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075203Z" creationid="gitnacho" creationdate="20221008T075203Z">
-        <seg>- {{jsxref("Error.prototype.fileName", "WebAssembly.LinkError.prototype.fileName")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T075203Z">
+        <seg>- {{JSxRef("Error.prototype.fileName", "WebAssembly.LinkError.prototype.fileName")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.fileName", "WebAssembly.RuntimeError.prototype.fileName")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080754Z" creationid="gitnacho" creationdate="20221008T080754Z">
-        <seg>- {{jsxref("Error.prototype.fileName", "WebAssembly.RuntimeError.prototype.fileName")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T080754Z">
+        <seg>- {{JSxRef("Error.prototype.fileName", "WebAssembly.RuntimeError.prototype.fileName")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.lineNumber", "WebAssembly.CompileError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T025524Z" creationid="gitnacho" creationdate="20221008T025524Z">
-        <seg>- {{jsxref("Error.prototype.lineNumber", "WebAssembly.CompileError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025524Z">
+        <seg>- {{JSxRef("Error.prototype.lineNumber", "WebAssembly.CompileError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.lineNumber", "WebAssembly.LinkError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075207Z" creationid="gitnacho" creationdate="20221008T075207Z">
-        <seg>- {{jsxref("Error.prototype.lineNumber", "WebAssembly.LinkError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T075207Z">
+        <seg>- {{JSxRef("Error.prototype.lineNumber", "WebAssembly.LinkError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.lineNumber", "WebAssembly.RuntimeError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080756Z" creationid="gitnacho" creationdate="20221008T080756Z">
-        <seg>- {{jsxref("Error.prototype.lineNumber", "WebAssembly.RuntimeError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T080756Z">
+        <seg>- {{JSxRef("Error.prototype.lineNumber", "WebAssembly.RuntimeError.prototype.lineNumber")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.message", "WebAssembly.CompileError.prototype.message")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T025343Z" creationid="gitnacho" creationdate="20221008T025343Z">
-        <seg>- {{jsxref("Error.prototype.message", "WebAssembly.CompileError.prototype.message")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025343Z">
+        <seg>- {{JSxRef("Error.prototype.message", "WebAssembly.CompileError.prototype.message")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.message", "WebAssembly.LinkError.prototype.message")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075147Z" creationid="gitnacho" creationdate="20221008T075147Z">
-        <seg>- {{jsxref("Error.prototype.message", "WebAssembly.LinkError.prototype.message")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T075147Z">
+        <seg>- {{JSxRef("Error.prototype.message", "WebAssembly.LinkError.prototype.message")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.message", "WebAssembly.RuntimeError.prototype.message")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080743Z" creationid="gitnacho" creationdate="20221008T080743Z">
-        <seg>- {{jsxref("Error.prototype.message", "WebAssembly.RuntimeError.prototype.message")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T080743Z">
+        <seg>- {{JSxRef("Error.prototype.message", "WebAssembly.RuntimeError.prototype.message")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.name", "WebAssembly.CompileError.prototype.name")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T025441Z" creationid="gitnacho" creationdate="20221008T025441Z">
-        <seg>- {{jsxref("Error.prototype.name", "WebAssembly.CompileError.prototype.name")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025441Z">
+        <seg>- {{JSxRef("Error.prototype.name", "WebAssembly.CompileError.prototype.name")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.name", "WebAssembly.LinkError.prototype.name")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075154Z" creationid="gitnacho" creationdate="20221008T075154Z">
-        <seg>- {{jsxref("Error.prototype.name", "WebAssembly.LinkError.prototype.name")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T075154Z">
+        <seg>- {{JSxRef("Error.prototype.name", "WebAssembly.LinkError.prototype.name")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.name", "WebAssembly.RuntimeError.prototype.name")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080746Z" creationid="gitnacho" creationdate="20221008T080746Z">
-        <seg>- {{jsxref("Error.prototype.name", "WebAssembly.RuntimeError.prototype.name")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T080746Z">
+        <seg>- {{JSxRef("Error.prototype.name", "WebAssembly.RuntimeError.prototype.name")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.stack", "WebAssembly.CompileError.prototype.stack")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T025559Z" creationid="gitnacho" creationdate="20221008T025559Z">
-        <seg>- {{jsxref("Error.prototype.stack", "WebAssembly.CompileError.prototype.stack")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025559Z">
+        <seg>- {{JSxRef("Error.prototype.stack", "WebAssembly.CompileError.prototype.stack")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.stack", "WebAssembly.LinkError.prototype.stack")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075215Z" creationid="gitnacho" creationdate="20221008T075215Z">
-        <seg>- {{jsxref("Error.prototype.stack", "WebAssembly.LinkError.prototype.stack")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T075215Z">
+        <seg>- {{JSxRef("Error.prototype.stack", "WebAssembly.LinkError.prototype.stack")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.stack", "WebAssembly.RuntimeError.prototype.stack")}} {{non-standard_inline}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080804Z" creationid="gitnacho" creationdate="20221008T080804Z">
-        <seg>- {{jsxref("Error.prototype.stack", "WebAssembly.RuntimeError.prototype.stack")}} {{non-standard_inline}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T080804Z">
+        <seg>- {{JSxRef("Error.prototype.stack", "WebAssembly.RuntimeError.prototype.stack")}} {{non-standard_inline}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.toString", "WebAssembly.CompileError.prototype.toString()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T025611Z" creationid="gitnacho" creationdate="20221008T025611Z">
-        <seg>- {{jsxref("Error.prototype.toString", "WebAssembly.CompileError.prototype.toString()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025611Z">
+        <seg>- {{JSxRef("Error.prototype.toString", "WebAssembly.CompileError.prototype.toString()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.toString", "WebAssembly.LinkError.prototype.toString()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T075222Z" creationid="gitnacho" creationdate="20221008T075222Z">
-        <seg>- {{jsxref("Error.prototype.toString", "WebAssembly.LinkError.prototype.toString()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T075222Z">
+        <seg>- {{JSxRef("Error.prototype.toString", "WebAssembly.LinkError.prototype.toString()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Error.prototype.toString", "WebAssembly.RuntimeError.prototype.toString()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080812Z" creationid="gitnacho" creationdate="20221008T080812Z">
-        <seg>- {{jsxref("Error.prototype.toString", "WebAssembly.RuntimeError.prototype.toString()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T080812Z">
+        <seg>- {{JSxRef("Error.prototype.toString", "WebAssembly.RuntimeError.prototype.toString()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Global_Objects/Uint8ClampedArray/Uint8ClampedArray", "Uint8ClampedArray()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050407Z" creationid="gitnacho" creationdate="20221005T050407Z">
-        <seg>- {{jsxref("Global_Objects/Uint8ClampedArray/Uint8ClampedArray", "Uint8ClampedArray()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050407Z">
+        <seg>- {{JSxRef("Global_Objects/Uint8ClampedArray/Uint8ClampedArray", "Uint8ClampedArray()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("Promise")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080800Z" creationid="gitnacho" creationdate="20221002T080800Z">
-        <seg>- {{jsxref("Promise")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221002T080800Z">
+        <seg>- {{JSxRef("Promise")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("RangeError")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142553Z" creationid="gitnacho" creationdate="20221019T142553Z">
-        <seg>- {{jsxref("RangeError")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221019T142553Z">
+        <seg>- {{JSxRef("RangeError")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16705,8 +16705,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- {{jsxref("TypeError")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142534Z" creationid="gitnacho" creationdate="20221019T142534Z">
-        <seg>- {{jsxref("TypeError")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221019T142534Z">
+        <seg>- {{JSxRef("TypeError")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16721,256 +16721,256 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.@@iterator", "Uint8ClampedArray.prototype[@@iterator]()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052508Z" creationid="gitnacho" creationdate="20221005T052508Z">
-        <seg>- {{jsxref("TypedArray.@@iterator", "Uint8ClampedArray.prototype[@@iterator]()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052508Z">
+        <seg>- {{JSxRef("TypedArray.@@iterator", "Uint8ClampedArray.prototype[@@iterator]()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.BYTES_PER_ELEMENT", "Uint8ClampedArray.BYTES_PER_ELEMENT")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050425Z" creationid="gitnacho" creationdate="20221005T050425Z">
-        <seg>- {{jsxref("TypedArray.BYTES_PER_ELEMENT", "Uint8ClampedArray.BYTES_PER_ELEMENT")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050425Z">
+        <seg>- {{JSxRef("TypedArray.BYTES_PER_ELEMENT", "Uint8ClampedArray.BYTES_PER_ELEMENT")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.copyWithin", "Uint8ClampedArray.prototype.copyWithin()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051009Z" creationid="gitnacho" creationdate="20221005T051009Z">
-        <seg>- {{jsxref("TypedArray.copyWithin", "Uint8ClampedArray.prototype.copyWithin()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051009Z">
+        <seg>- {{JSxRef("TypedArray.copyWithin", "Uint8ClampedArray.prototype.copyWithin()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.entries", "Uint8ClampedArray.prototype.entries()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051129Z" creationid="gitnacho" creationdate="20221005T051106Z">
-        <seg>- {{jsxref("TypedArray.entries", "Uint8ClampedArray.prototype.entries()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051106Z">
+        <seg>- {{JSxRef("TypedArray.entries", "Uint8ClampedArray.prototype.entries()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.every", "Uint8ClampedArray.prototype.every()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051148Z" creationid="gitnacho" creationdate="20221005T051148Z">
-        <seg>- {{jsxref("TypedArray.every", "Uint8ClampedArray.prototype.every()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051148Z">
+        <seg>- {{JSxRef("TypedArray.every", "Uint8ClampedArray.prototype.every()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.fill", "Uint8ClampedArray.prototype.fill()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051239Z" creationid="gitnacho" creationdate="20221005T051239Z">
-        <seg>- {{jsxref("TypedArray.fill", "Uint8ClampedArray.prototype.fill()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051239Z">
+        <seg>- {{JSxRef("TypedArray.fill", "Uint8ClampedArray.prototype.fill()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.filter", "Uint8ClampedArray.prototype.filter()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051318Z" creationid="gitnacho" creationdate="20221005T051318Z">
-        <seg>- {{jsxref("TypedArray.filter", "Uint8ClampedArray.prototype.filter()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051318Z">
+        <seg>- {{JSxRef("TypedArray.filter", "Uint8ClampedArray.prototype.filter()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.find", "Uint8ClampedArray.prototype.find()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051358Z" creationid="gitnacho" creationdate="20221005T051358Z">
-        <seg>- {{jsxref("TypedArray.find", "Uint8ClampedArray.prototype.find()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051358Z">
+        <seg>- {{JSxRef("TypedArray.find", "Uint8ClampedArray.prototype.find()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.findIndex", "Uint8ClampedArray.prototype.findIndex()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051438Z" creationid="gitnacho" creationdate="20221005T051438Z">
-        <seg>- {{jsxref("TypedArray.findIndex", "Uint8ClampedArray.prototype.findIndex()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051438Z">
+        <seg>- {{JSxRef("TypedArray.findIndex", "Uint8ClampedArray.prototype.findIndex()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.forEach", "Uint8ClampedArray.prototype.forEach()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051526Z" creationid="gitnacho" creationdate="20221005T051526Z">
-        <seg>- {{jsxref("TypedArray.forEach", "Uint8ClampedArray.prototype.forEach()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051526Z">
+        <seg>- {{JSxRef("TypedArray.forEach", "Uint8ClampedArray.prototype.forEach()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.from", "Uint8ClampedArray.from()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050520Z" creationid="gitnacho" creationdate="20221005T050520Z">
-        <seg>- {{jsxref("TypedArray.from", "Uint8ClampedArray.from()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050520Z">
+        <seg>- {{JSxRef("TypedArray.from", "Uint8ClampedArray.from()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.includes", "Uint8ClampedArray.prototype.includes()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051605Z" creationid="gitnacho" creationdate="20221005T051605Z">
-        <seg>- {{jsxref("TypedArray.includes", "Uint8ClampedArray.prototype.includes()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051605Z">
+        <seg>- {{JSxRef("TypedArray.includes", "Uint8ClampedArray.prototype.includes()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.indexOf", "Uint8ClampedArray.prototype.indexOf()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051649Z" creationid="gitnacho" creationdate="20221005T051649Z">
-        <seg>- {{jsxref("TypedArray.indexOf", "Uint8ClampedArray.prototype.indexOf()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051649Z">
+        <seg>- {{JSxRef("TypedArray.indexOf", "Uint8ClampedArray.prototype.indexOf()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.join", "Uint8ClampedArray.prototype.join()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051722Z" creationid="gitnacho" creationdate="20221005T051722Z">
-        <seg>- {{jsxref("TypedArray.join", "Uint8ClampedArray.prototype.join()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051722Z">
+        <seg>- {{JSxRef("TypedArray.join", "Uint8ClampedArray.prototype.join()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.keys", "Uint8ClampedArray.prototype.keys()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051814Z" creationid="gitnacho" creationdate="20221005T051814Z">
-        <seg>- {{jsxref("TypedArray.keys", "Uint8ClampedArray.prototype.keys()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051814Z">
+        <seg>- {{JSxRef("TypedArray.keys", "Uint8ClampedArray.prototype.keys()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.lastIndexOf", "Uint8ClampedArray.prototype.lastIndexOf()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051901Z" creationid="gitnacho" creationdate="20221005T051901Z">
-        <seg>- {{jsxref("TypedArray.lastIndexOf", "Uint8ClampedArray.prototype.lastIndexOf()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051901Z">
+        <seg>- {{JSxRef("TypedArray.lastIndexOf", "Uint8ClampedArray.prototype.lastIndexOf()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.map", "Uint8ClampedArray.prototype.map()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051928Z" creationid="gitnacho" creationdate="20221005T051928Z">
-        <seg>- {{jsxref("TypedArray.map", "Uint8ClampedArray.prototype.map()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051928Z">
+        <seg>- {{JSxRef("TypedArray.map", "Uint8ClampedArray.prototype.map()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.name", "Uint8ClampedArray.name")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050452Z" creationid="gitnacho" creationdate="20221005T050452Z">
-        <seg>- {{jsxref("TypedArray.name", "Uint8ClampedArray.name")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050452Z">
+        <seg>- {{JSxRef("TypedArray.name", "Uint8ClampedArray.name")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.of", "Uint8ClampedArray.of()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050545Z" creationid="gitnacho" creationdate="20221005T050545Z">
-        <seg>- {{jsxref("TypedArray.of", "Uint8ClampedArray.of()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050545Z">
+        <seg>- {{JSxRef("TypedArray.of", "Uint8ClampedArray.of()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.prototype.buffer", "Uint8ClampedArray.prototype.buffer")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050654Z" creationid="gitnacho" creationdate="20221005T050654Z">
-        <seg>- {{jsxref("TypedArray.prototype.buffer", "Uint8ClampedArray.prototype.buffer")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050654Z">
+        <seg>- {{JSxRef("TypedArray.prototype.buffer", "Uint8ClampedArray.prototype.buffer")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.prototype.byteLength", "Uint8ClampedArray.prototype.byteLength")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050721Z" creationid="gitnacho" creationdate="20221005T050721Z">
-        <seg>- {{jsxref("TypedArray.prototype.byteLength", "Uint8ClampedArray.prototype.byteLength")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050721Z">
+        <seg>- {{JSxRef("TypedArray.prototype.byteLength", "Uint8ClampedArray.prototype.byteLength")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.reduce", "Uint8ClampedArray.prototype.reduce()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052007Z" creationid="gitnacho" creationdate="20221005T052007Z">
-        <seg>- {{jsxref("TypedArray.reduce", "Uint8ClampedArray.prototype.reduce()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052007Z">
+        <seg>- {{JSxRef("TypedArray.reduce", "Uint8ClampedArray.prototype.reduce()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.reduceRight", "Uint8ClampedArray.prototype.reduceRight()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052035Z" creationid="gitnacho" creationdate="20221005T052035Z">
-        <seg>- {{jsxref("TypedArray.reduceRight", "Uint8ClampedArray.prototype.reduceRight()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052035Z">
+        <seg>- {{JSxRef("TypedArray.reduceRight", "Uint8ClampedArray.prototype.reduceRight()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.reverse", "Uint8ClampedArray.prototype.reverse()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052056Z" creationid="gitnacho" creationdate="20221005T052056Z">
-        <seg>- {{jsxref("TypedArray.reverse", "Uint8ClampedArray.prototype.reverse()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052056Z">
+        <seg>- {{JSxRef("TypedArray.reverse", "Uint8ClampedArray.prototype.reverse()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.set", "Uint8ClampedArray.prototype.set()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052116Z" creationid="gitnacho" creationdate="20221005T052116Z">
-        <seg>- {{jsxref("TypedArray.set", "Uint8ClampedArray.prototype.set()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052116Z">
+        <seg>- {{JSxRef("TypedArray.set", "Uint8ClampedArray.prototype.set()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.slice", "Uint8ClampedArray.prototype.slice()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052148Z" creationid="gitnacho" creationdate="20221005T052148Z">
-        <seg>- {{jsxref("TypedArray.slice", "Uint8ClampedArray.prototype.slice()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052148Z">
+        <seg>- {{JSxRef("TypedArray.slice", "Uint8ClampedArray.prototype.slice()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.some", "Uint8ClampedArray.prototype.some()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052213Z" creationid="gitnacho" creationdate="20221005T052213Z">
-        <seg>- {{jsxref("TypedArray.some", "Uint8ClampedArray.prototype.some()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052213Z">
+        <seg>- {{JSxRef("TypedArray.some", "Uint8ClampedArray.prototype.some()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.sort", "Uint8ClampedArray.prototype.sort()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052235Z" creationid="gitnacho" creationdate="20221005T052235Z">
-        <seg>- {{jsxref("TypedArray.sort", "Uint8ClampedArray.prototype.sort()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052235Z">
+        <seg>- {{JSxRef("TypedArray.sort", "Uint8ClampedArray.prototype.sort()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.subarray", "Uint8ClampedArray.prototype.subarray()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052309Z" creationid="gitnacho" creationdate="20221005T052309Z">
-        <seg>- {{jsxref("TypedArray.subarray", "Uint8ClampedArray.prototype.subarray()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052309Z">
+        <seg>- {{JSxRef("TypedArray.subarray", "Uint8ClampedArray.prototype.subarray()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.toLocaleString", "Uint8ClampedArray.prototype.toLocaleString()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052349Z" creationid="gitnacho" creationdate="20221005T052349Z">
-        <seg>- {{jsxref("TypedArray.toLocaleString", "Uint8ClampedArray.prototype.toLocaleString()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052349Z">
+        <seg>- {{JSxRef("TypedArray.toLocaleString", "Uint8ClampedArray.prototype.toLocaleString()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.toString", "Uint8ClampedArray.prototype.toString()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052442Z" creationid="gitnacho" creationdate="20221005T052442Z">
-        <seg>- {{jsxref("TypedArray.toString", "Uint8ClampedArray.prototype.toString()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052442Z">
+        <seg>- {{JSxRef("TypedArray.toString", "Uint8ClampedArray.prototype.toString()")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{jsxref("TypedArray.values", "Uint8ClampedArray.prototype.values()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052320Z" creationid="gitnacho" creationdate="20221005T052320Z">
-        <seg>- {{jsxref("TypedArray.values", "Uint8ClampedArray.prototype.values()")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052320Z">
+        <seg>- {{JSxRef("TypedArray.values", "Uint8ClampedArray.prototype.values()")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21645,7 +21645,7 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;a href="https://github.com/mdn/yari/tree/main/kumascript/macros/jsxref.ejs"&gt;JSxRef&lt;/a&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T111052Z" creationid="gitnacho" creationdate="20221005T111052Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204732Z" creationid="gitnacho" creationdate="20221005T111052Z">
         <seg>&lt;a href="https://github.com/mdn/yari/tree/main/kumascript/macros/jsxref.ejs"&gt;JSxRef&lt;/a&gt;</seg>
       </tuv>
     </tu>
@@ -23048,9 +23048,9 @@ Si tienes preguntas sobre temas que te gustaría que se abordaran o te parece qu
 &gt; cache is created with that `cacheName` and a {{jsxref("Promise")}} that
 &gt; resolves to this new {{domxref("Cache")}} object is returned.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T225018Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220921T225018Z">
         <seg>&gt; **Nota:** Si la {{DOMxRef("Cache")}} especificada no existe, se crea
-&gt; una nueva caché con ese `cacheName` y una {{jsxref("Promise")}} que
+&gt; una nueva caché con ese `cacheName` y una {{JSxRef("Promise")}} que
 &gt; resuelve este nuevo objeto {{DOMxRef("Cache")}} devuelto.</seg>
       </tuv>
     </tu>
@@ -24560,32 +24560,32 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>A {{jsxref("Promise")}} that is resolved with the given value, or the promise passed as value, if the value was a promise object.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T073610Z" creationid="gitnacho" creationdate="20221002T073610Z">
-        <seg>Una {{jsxref("Promise")}} que se resuelve con el valor dado, o la promesa pasada como valor, si el valor era un objeto `promise`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221002T073610Z">
+        <seg>Una {{JSxRef("Promise")}} que se resuelve con el valor dado, o la promesa pasada como valor, si el valor era un objeto `promise`.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A {{jsxref("Promise")}} that resolves to the requested {{domxref("Cache")}} object.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T225122Z">
-        <seg>Una {{jsxref("Promise")}} que se resuelve en el objeto {{DOMxRef("Cache")}} solicitado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220921T225122Z">
+        <seg>Una {{JSxRef("Promise")}} que se resuelve en el objeto {{DOMxRef("Cache")}} solicitado.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A {{jsxref("String")}} that can take one of the following values:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223336Z" creationid="gitnacho" creationdate="20221003T223336Z">
-        <seg>Una {{jsxref("String")}} que puede tomar uno de los siguientes valores:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221003T223336Z">
+        <seg>Una {{JSxRef("String")}} que puede tomar uno de los siguientes valores:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A {{jsxref("WeakMap")}} is a collection of key/value pairs whose keys must be objects, with values of any arbitrary [JavaScript type](/en-US/docs/Web/JavaScript/Data_structures#javascript_types), and which does not create strong references to its keys.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T111556Z" creationid="gitnacho" creationdate="20221008T110103Z">
-        <seg>Un {{jsxref("WeakMap")}} es una colección de pares clave/valor cuyas claves deben ser objetos, con valores de cualquier [tipo de JavaScript](/es/docs/Web/JavaScript/Data_structures#tipos_javascript) arbitrario, y que no crea fuertes referencias a sus claves.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T110103Z">
+        <seg>Un {{JSxRef("WeakMap")}} es una colección de pares clave/valor cuyas claves deben ser objetos, con valores de cualquier [tipo de JavaScript](/es/docs/Web/JavaScript/Data_structures#tipos_javascript) arbitrario, y que no crea fuertes referencias a sus claves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27036,9 +27036,9 @@ a simple value):</seg>
         <seg>Fixed at construction time and thus **read only.**
 - {{jsxref("TypedArray.prototype.byteOffset", "Uint8ClampedArray.prototype.byteOffset")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050851Z" creationid="gitnacho" creationdate="20221005T050851Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050851Z">
         <seg>Se corrigió en el momento de la construcción y, por lo tanto, **read only**.
-- {{jsxref("TypedArray.prototype.byteOffset", "Uint8ClampedArray.prototype.byteOffset")}}</seg>
+- {{JSxRef("TypedArray.prototype.byteOffset", "Uint8ClampedArray.prototype.byteOffset")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27046,9 +27046,9 @@ a simple value):</seg>
         <seg>Fixed at construction time and thus **read only.**
 - {{jsxref("TypedArray.prototype.length", "Uint8ClampedArray.prototype.length")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050935Z" creationid="gitnacho" creationdate="20221005T050935Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050935Z">
         <seg>Se corrigió en el momento de la construcción y, por lo tanto, **read only**.
-- {{jsxref("TypedArray.prototype.length", "Uint8ClampedArray.prototype.length")}}</seg>
+- {{JSxRef("TypedArray.prototype.length", "Uint8ClampedArray.prototype.length")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27631,8 +27631,8 @@ a simple value):</seg>
       <tuv lang="en-US">
         <seg>From JavaScript's point of view, it's as though memory is all inside one big (resizable) {{jsxref("ArrayBuffer")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T063958Z" creationid="gitnacho" creationdate="20221007T063958Z">
-        <seg>Desde el punto de vista de JavaScript, es como si la memoria estuviera dentro de un gran {{jsxref("ArrayBuffer")}} (redimensionable).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T063958Z">
+        <seg>Desde el punto de vista de JavaScript, es como si la memoria estuviera dentro de un gran {{JSxRef("ArrayBuffer")}} (redimensionable).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28381,8 +28381,8 @@ la aplicación.</seg>
 to [`Table.prototype.length`](/en-US/docs/WebAssembly/JavaScript_interface/Table/length), a
 {{jsxref("RangeError")}} is thrown.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091838Z" creationid="gitnacho" creationdate="20221006T091838Z">
-        <seg>Si `index` es mayor o igual a [`Table.prototype.length`](/es/docs/WebAssembly/JavaScript_interface/Table/length), se lanza un {{jsxref("RangeError")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T091838Z">
+        <seg>Si `index` es mayor o igual a [`Table.prototype.length`](/es/docs/WebAssembly/JavaScript_interface/Table/length), se lanza un {{JSxRef("RangeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28390,9 +28390,9 @@ to [`Table.prototype.length`](/en-US/docs/WebAssembly/JavaScript_interface/Table
         <seg>If `bufferSource` is not a [typed array](/en-US/docs/Web/JavaScript/Typed_arrays) or [ArrayBuffer](/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer),
 a {{jsxref("TypeError")}} is thrown.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T200108Z" creationid="gitnacho" creationdate="20221007T200108Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T200108Z">
         <seg>Si `bufferSource` no es un [arreglo tipado](/es/docs/Web/JavaScript/Typed_arrays) o [ArrayBuffer](/es/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer),
-se lanza un {{jsxref("TypeError")}}.</seg>
+se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28448,8 +28448,8 @@ se lanza un {{jsxref("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If a maximum value was supplied upon creation of the memory instance, attempts to grow past this maximum will throw a {{jsxref("RangeError")}} exception.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210522Z" creationid="gitnacho" creationdate="20221006T210522Z">
-        <seg>Si se proporcionó un valor máximo al crear la instancia de memoria, los intentos de crecer más allá de este máximo arrojarán una excepción {{jsxref("RangeError")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T210522Z">
+        <seg>Si se proporcionó un valor máximo al crear la instancia de memoria, los intentos de crecer más allá de este máximo arrojarán una excepción {{JSxRef("RangeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28507,11 +28507,11 @@ se lanza un {{jsxref("TypeError")}}.</seg>
 &gt; compiles, and instantiates a module all in one step, directly from the raw bytecode,
 &gt; so doesn't require conversion to an {{jsxref("ArrayBuffer")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193421Z" creationid="gitnacho" creationdate="20221007T193421Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T193421Z">
         <seg>De ser posible, debes usar el nuevo
 &gt; [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming) en su lugar, que recupera,
 &gt; compila e instancia un módulo en un solo paso, directamente desde el código de bytes sin procesar,
-&gt; así que no requiere conversión a un {{jsxref("ArrayBuffer")}}.</seg>
+&gt; así que no requiere conversión a un {{JSxRef("ArrayBuffer")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28641,8 +28641,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the `message` parameter is _not_ provided, a {{jsxref("SyntaxError")}} will be thrown by the parser.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115600Z" creationid="gitnacho" creationdate="20221007T115600Z">
-        <seg>Si el parámetro `message` _no_ se proporciona, el analizador arrojará un {{jsxref("SyntaxError")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T115600Z">
+        <seg>Si el parámetro `message` _no_ se proporciona, el analizador arrojará un {{JSxRef("SyntaxError")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28713,8 +28713,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the number of data fields in the payload and their types don't match, a {{jsxref("TypeError")}} exception is thrown.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140403Z" creationid="gitnacho" creationdate="20221019T140403Z">
-        <seg>Si la cantidad de campos de datos en la carga útil y sus tipos no coinciden, se genera una excepción {{jsxref("TypeError")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221019T140403Z">
+        <seg>Si la cantidad de campos de datos en la carga útil y sus tipos no coinciden, se genera una excepción {{JSxRef("TypeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28881,8 +28881,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If we used the older [`WebAssembly.instantiate()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiate) method, which doesn't work on the direct stream, we'd need an extra step of converting the fetched byte code to an {{jsxref("ArrayBuffer")}}, like so:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221005T055703Z">
-        <seg>Si usáramos el método anterior [`WebAssembly.instantiate()`](/es/docs/WebAssembly/JavaScript_interface/instantiate), que no funciona en la transmisión directa, necesitaríamos un paso adicional para convertir el código de bytes obtenido en un {{jsxref("ArrayBuffer")}}, así:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T055703Z">
+        <seg>Si usáramos el método anterior [`WebAssembly.instantiate()`](/es/docs/WebAssembly/JavaScript_interface/instantiate), que no funciona en la transmisión directa, necesitaríamos un paso adicional para convertir el código de bytes obtenido en un {{JSxRef("ArrayBuffer")}}, así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29457,8 +29457,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In both cases, the `SharedArrayBuffer` object is transmitted to the receiver resulting in a new, private `SharedArrayBuffer` object in the receiving agent (just as for {{jsxref("ArrayBuffer")}}).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T023309Z" creationid="gitnacho" creationdate="20220923T023309Z">
-        <seg>En ambos casos, el objeto `SharedArrayBuffer` se transmite al receptor, lo que da como resultado un nuevo objeto `SharedArrayBuffer` privado en el agente receptor (igual que para {{jsxref("ArrayBuffer")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220923T023309Z">
+        <seg>En ambos casos, el objeto `SharedArrayBuffer` se transmite al receptor, lo que da como resultado un nuevo objeto `SharedArrayBuffer` privado en el agente receptor (igual que para {{JSxRef("ArrayBuffer")}}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29990,8 +29990,8 @@ receive the module from the main thread.</seg>
       <tuv lang="en-US">
         <seg>Inherited from {{jsxref("Error")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T025439Z" creationid="gitnacho" creationdate="20221008T025439Z">
-        <seg>Heredado de {{jsxref("Error")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025439Z">
+        <seg>Heredado de {{JSxRef("Error")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30793,8 +30793,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Its [`buffer`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/buffer) property will return an {{jsxref("ArrayBuffer")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000548Z" creationid="gitnacho" creationdate="20221008T000548Z">
-        <seg>Su propiedad [`buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer) devolverá un {{jsxref("ArrayBuffer")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T000548Z">
+        <seg>Su propiedad [`buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer) devolverá un {{JSxRef("ArrayBuffer")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31329,8 +31329,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Luckily, the Canvas API has {{domxref("CanvasRenderingContext2D.getImageData")}} — that gives you an {{jsxref("Uint8ClampedArray")}} containing the image data in RGBA:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221004T054056Z">
-        <seg>Afortunadamente, la API de Canvas tiene {{DOMxRef("CanvasRenderingContext2D.getImageData")}}, que te brinda un {{jsxref("Uint8ClampedArray")}} que contiene los datos de la imagen en RGBA:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221004T054056Z">
+        <seg>Afortunadamente, la API de Canvas tiene {{DOMxRef("CanvasRenderingContext2D.getImageData")}}, que te brinda un {{JSxRef("Uint8ClampedArray")}} que contiene los datos de la imagen en RGBA:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31878,8 +31878,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>None ({{jsxref("undefined")}}).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115754Z" creationid="gitnacho" creationdate="20221007T115754Z">
-        <seg>Ninguno ({{jsxref("undefined")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T115754Z">
+        <seg>Ninguno ({{JSxRef("undefined")}}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31926,8 +31926,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>Note how we create the {{jsxref("Uint32Array")}} view on the Memory object's buffer ([`Memory.prototype.buffer`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/buffer)), not on the Memory itself.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225953Z" creationid="gitnacho" creationdate="20221006T225953Z">
-        <seg>Observa cómo creamos la vista {{jsxref("Uint32Array")}} en el búfer del objeto `Memory` ([`Memory.prototype.buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer)), no en `Memory` mismo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T225953Z">
+        <seg>Observa cómo creamos la vista {{JSxRef("Uint32Array")}} en el búfer del objeto `Memory` ([`Memory.prototype.buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer)), no en `Memory` mismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32135,8 +32135,8 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>Note: Since an {{jsxref("ArrayBuffer")}}'s byteLength is immutable, after a successful [`Memory.prototype.grow()`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/grow) operation the buffer getter will return a new ArrayBuffer object (with the new byteLength) and any previous ArrayBuffer objects become "detached", or disconnected from the underlying memory they previously pointed to.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210724Z" creationid="gitnacho" creationdate="20221006T210724Z">
-        <seg>**Nota:** Dado que el `byteLength` de {{jsxref("ArrayBuffer")}} es inmutable, después de una exitosa operación de [`Memory.prototype.grow()`](/es/docs/WebAssembly/JavaScript_interface/Memory/grow), el captador de búfer devolverá un nuevo objeto ArrayBuffer (con el nuevo `byteLength`) y cualquier objeto ArrayBuffer anterior se "separará" o se desconectará de la memoria subyacente a la que apuntaba anteriormente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T210724Z">
+        <seg>**Nota:** Dado que el `byteLength` de {{JSxRef("ArrayBuffer")}} es inmutable, después de una exitosa operación de [`Memory.prototype.grow()`](/es/docs/WebAssembly/JavaScript_interface/Memory/grow), el captador de búfer devolverá un nuevo objeto ArrayBuffer (con el nuevo `byteLength`) y cualquier objeto ArrayBuffer anterior se "separará" o se desconectará de la memoria subyacente a la que apuntaba anteriormente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33139,200 +33139,200 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.from()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T050543Z">
-        <seg>Consulta también {{jsxref("Array.from()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050543Z">
+        <seg>Consulta también {{JSxRef("Array.from()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.of()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T050612Z">
-        <seg>Consulta también {{jsxref("Array.of()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T050612Z">
+        <seg>Consulta también {{JSxRef("Array.of()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.copyWithin()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T051047Z">
-        <seg>Consulta también {{jsxref("Array.prototype.copyWithin()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051047Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.copyWithin()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.entries()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T051121Z">
-        <seg>Consulta también {{jsxref("Array.prototype.entries()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051121Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.entries()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.every()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T051215Z">
-        <seg>Consulta también {{jsxref("Array.prototype.every()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051215Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.every()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.fill()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T051317Z">
-        <seg>Consulta también {{jsxref("Array.prototype.fill()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051317Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.fill()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.filter()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T051357Z">
-        <seg>Consulta también {{jsxref("Array.prototype.filter()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051357Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.filter()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.find()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T051437Z">
-        <seg>Consulta también {{jsxref("Array.prototype.find()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051437Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.find()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.findIndex()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051525Z" creationid="gitnacho" creationdate="20221005T051525Z">
-        <seg>Consulta también {{jsxref("Array.prototype.findIndex()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051525Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.findIndex()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.forEach()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051604Z" creationid="gitnacho" creationdate="20221005T051604Z">
-        <seg>Consulta también {{jsxref("Array.prototype.forEach()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051604Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.forEach()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.includes()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051649Z" creationid="gitnacho" creationdate="20221005T051649Z">
-        <seg>Consulta también {{jsxref("Array.prototype.includes()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051649Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.includes()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.indexOf()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051720Z" creationid="gitnacho" creationdate="20221005T051720Z">
-        <seg>Ver también {{jsxref("Array.prototype.indexOf()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051720Z">
+        <seg>Ver también {{JSxRef("Array.prototype.indexOf()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.join()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051813Z" creationid="gitnacho" creationdate="20221005T051813Z">
-        <seg>Consulta también {{jsxref("Array.prototype.join()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051813Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.join()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.keys()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T051859Z">
-        <seg>Consulta también {{jsxref("Array.prototype.keys()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051859Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.keys()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.lastIndexOf()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053434Z" creationid="gitnacho" creationdate="20221005T051927Z">
-        <seg>Consulta también {{jsxref("Array.prototype.lastIndexOf()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T051927Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.lastIndexOf()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.map()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052003Z">
-        <seg>Consulta también {{jsxref("Array.prototype.map()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052003Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.map()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.reduce()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052033Z">
-        <seg>Consulta también {{jsxref("Array.prototype.reduce()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052033Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.reduce()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.reduceRight()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052055Z">
-        <seg>Consulta también {{jsxref("Array.prototype.reduceRight()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052055Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.reduceRight()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.reverse()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052114Z">
-        <seg>Consulta también {{jsxref("Array.prototype.reverse()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052114Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.reverse()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.slice()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052212Z">
-        <seg>Consulta también {{jsxref("Array.prototype.slice()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052212Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.slice()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.some()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052233Z">
-        <seg>Consulta también {{jsxref("Array.prototype.some()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052233Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.some()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.sort()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052307Z">
-        <seg>Consulta también {{jsxref("Array.prototype.sort()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052307Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.sort()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.toLocaleString()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052441Z">
-        <seg>Consulta también {{jsxref("Array.prototype.toLocaleString()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052441Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.toLocaleString()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.toString()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052502Z">
-        <seg>Consulta también {{jsxref("Array.prototype.toString()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052502Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.toString()")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See also {{jsxref("Array.prototype.values()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T053515Z" creationid="gitnacho" creationdate="20221005T052349Z">
-        <seg>Consulta también {{jsxref("Array.prototype.values()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T052349Z">
+        <seg>Consulta también {{JSxRef("Array.prototype.values()")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34126,8 +34126,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>The **`Promise.resolve()`** method "resolves" a given value to a {{jsxref("Promise")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T072544Z" creationid="gitnacho" creationdate="20221002T072544Z">
-        <seg>El método **`Promise.resolve()`** "resuelve" un valor dado en {{jsxref("Promise")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221002T072544Z">
+        <seg>El método **`Promise.resolve()`** "resuelve" un valor dado en {{JSxRef("Promise")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34142,8 +34142,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>The **`SharedArrayBuffer`** object is used to represent a generic, fixed-length raw binary data buffer, similar to the {{jsxref("ArrayBuffer")}} object, but in a way that they can be used to create views on shared memory.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T231538Z" creationid="gitnacho" creationdate="20220922T231538Z">
-        <seg>El objeto **`SharedArrayBuffer`** se utiliza para representar un búfer de datos binarios sin formato de longitud fija genérico, similar al objeto {{jsxref("ArrayBuffer")}}, pero de una manera que se puede utilizar para crear vistas en la memoria compartida.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T231538Z">
+        <seg>El objeto **`SharedArrayBuffer`** se utiliza para representar un búfer de datos binarios sin formato de longitud fija genérico, similar al objeto {{JSxRef("ArrayBuffer")}}, pero de una manera que se puede utilizar para crear vistas en la memoria compartida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34236,8 +34236,8 @@ desde la función de inicio).</seg>
       <tuv lang="en-US">
         <seg>The **`WebAssembly.Memory`** object is a resizable {{jsxref("ArrayBuffer")}} or {{jsxref("SharedArrayBuffer")}} that holds the raw bytes of memory accessed by a [`WebAssembly.Instance`](/en-US/docs/WebAssembly/JavaScript_interface/Instance).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T235309Z" creationid="gitnacho" creationdate="20221007T234635Z">
-        <seg>El objeto **`WebAssembly.Memory`** es un {{jsxref("ArrayBuffer")}} o {{jsxref("SharedArrayBuffer")}} de tamaño variable que contiene los bytes sin formato de la memoria a la que accede un [`WebAssembly.Instance`](/es/docs/WebAssembly/JavaScript_interface/Instance).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T234635Z">
+        <seg>El objeto **`WebAssembly.Memory`** es un {{JSxRef("ArrayBuffer")}} o {{JSxRef("SharedArrayBuffer")}} de tamaño variable que contiene los bytes sin formato de la memoria a la que accede un [`WebAssembly.Instance`](/es/docs/WebAssembly/JavaScript_interface/Instance).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34512,8 +34512,8 @@ specified number of elements.</seg>
 {{domxref("CacheStorage")}} interface returns a {{jsxref("Promise")}} that resolves to
 the {{domxref("Cache")}} object matching the `cacheName`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T224651Z">
-        <seg>El método **`open()`** de la interfaz {{DOMxRef("CacheStorage")}} devuelve una {{jsxref("Promise")}} que se resuelve en el objeto {{DOMxRef("Cache")}} que coincide con `cacheName`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220921T224651Z">
+        <seg>El método **`open()`** de la interfaz {{DOMxRef("CacheStorage")}} devuelve una {{JSxRef("Promise")}} que se resuelve en el objeto {{DOMxRef("Cache")}} que coincide con `cacheName`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35914,8 +35914,8 @@ elementos.</seg>
       <tuv lang="en-US">
         <seg>The following example imports a memory exported from WebAssembly with the name `memory`, and then prints out the first element of the memory, interpreted as an {{jsxref("Uint32Array")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000928Z" creationid="gitnacho" creationdate="20221008T000928Z">
-        <seg>El siguiente ejemplo importa una memoria exportada desde WebAssembly con el nombre `memory` y luego imprime el primer elemento de la memoria, interpretado como {{jsxref("Uint32Array")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T000928Z">
+        <seg>El siguiente ejemplo importa una memoria exportada desde WebAssembly con el nombre `memory` y luego imprime el primer elemento de la memoria, interpretado como {{JSxRef("Uint32Array")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36411,8 +36411,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The newer [`WebAssembly.compileStreaming`](/en-US/docs/WebAssembly/JavaScript_interface/compileStreaming)/[`WebAssembly.instantiateStreaming`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) methods are a lot more efficient — they perform their actions directly on the raw stream of bytes coming from the network, cutting out the need for the {{jsxref("ArrayBuffer")}} step.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221004T071642Z">
-        <seg>Los nuevos métodos [`WebAssembly.compileStreaming`](/es/docs/WebAssembly/JavaScript_interface/compileStreaming)/[`WebAssembly.instantiateStreaming`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming) son mucho más eficiente: realizan sus acciones directamente en el flujo sin procesar de bytes que provienen de la red, eliminando la necesidad del paso {{jsxref("ArrayBuffer")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221004T071642Z">
+        <seg>Los nuevos métodos [`WebAssembly.compileStreaming`](/es/docs/WebAssembly/JavaScript_interface/compileStreaming)/[`WebAssembly.instantiateStreaming`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming) son mucho más eficiente: realizan sus acciones directamente en el flujo sin procesar de bytes que provienen de la red, eliminando la necesidad del paso {{JSxRef("ArrayBuffer")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36443,8 +36443,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The older [`WebAssembly.compile`](/en-US/docs/WebAssembly/JavaScript_interface/compile)/[`WebAssembly.instantiate`](/en-US/docs/WebAssembly/JavaScript_interface/instantiate) methods require you to create an {{jsxref("ArrayBuffer")}} containing your WebAssembly module binary after fetching the raw bytes, and then compile/instantiate it.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221004T071351Z">
-        <seg>Los métodos más antiguos [`WebAssembly.compile`](/es/docs/WebAssembly/JavaScript_interface/compile)/[`WebAssembly.instantiate`](/es/docs/WebAssembly/JavaScript_interface/instantiate) requieren que crees un {{jsxref("ArrayBuffer")}} que contiene el binario de tu módulo WebAssembly después de obtener los bytes sin procesar y luego compilarlo/crearlo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221004T071351Z">
+        <seg>Los métodos más antiguos [`WebAssembly.compile`](/es/docs/WebAssembly/JavaScript_interface/compile)/[`WebAssembly.instantiate`](/es/docs/WebAssembly/JavaScript_interface/instantiate) requieren que crees un {{JSxRef("ArrayBuffer")}} que contiene el binario de tu módulo WebAssembly después de obtener los bytes sin procesar y luego compilarlo/crearlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37679,16 +37679,16 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>These methods are easier than their non-streaming counterparts, because they can turn the byte code directly into `Module`/`Instance` instances, cutting out the need to separately put the {{domxref("Response")}} into an {{jsxref("ArrayBuffer")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221006T181210Z">
-        <seg>Estos métodos son más fáciles que sus contrapartes que no son de transmisión, porque pueden convertir el código de bytes directamente en instancias de `Module`/`Instance`, eliminando la necesidad de colocar por separado el {{DOMxRef("Response")}} en un {{jsxref("ArrayBuffer")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T181210Z">
+        <seg>Estos métodos son más fáciles que sus contrapartes que no son de transmisión, porque pueden convertir el código de bytes directamente en instancias de `Module`/`Instance`, eliminando la necesidad de colocar por separado el {{DOMxRef("Response")}} en un {{JSxRef("ArrayBuffer")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>These methods don't directly access the byte code, so require an extra step to turn the response into an {{jsxref("ArrayBuffer")}} before compiling/instantiating the wasm module.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181642Z" creationid="gitnacho" creationdate="20221006T181642Z">
-        <seg>Estos métodos no acceden directamente al código de bytes, por lo que requieren un paso adicional para convertir la respuesta en {{jsxref("ArrayBuffer")}} antes de compilar/crear una instancia del módulo `wasm`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T181642Z">
+        <seg>Estos métodos no acceden directamente al código de bytes, por lo que requieren un paso adicional para convertir la respuesta en {{JSxRef("ArrayBuffer")}} antes de compilar/crear una instancia del módulo `wasm`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39311,8 +39311,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This memory's `buffer` property will return a {{jsxref("SharedArrayBuffer")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T001040Z" creationid="gitnacho" creationdate="20221008T001040Z">
-        <seg>La propiedad `buffer` de esta memoria devolverá un {{jsxref("SharedArrayBuffer")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T001040Z">
+        <seg>La propiedad `buffer` de esta memoria devolverá un {{JSxRef("SharedArrayBuffer")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40092,8 +40092,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To share memory using {{jsxref("SharedArrayBuffer")}} objects from one agent in the cluster to another (an agent is either the web page's main program or one of its web workers), [`postMessage`](/en-US/docs/Web/API/Worker/postMessage) and [structured cloning](/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm) is used.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20220922T233017Z">
-        <seg>Para compartir memoria usando objetos {{jsxref("SharedArrayBuffer")}} de un agente en el clúster a otro (un agente es el programa principal de la página web o uno de sus *web workers*), [`postMessage`](/es/docs/Web/API/Worker/postMessage) y [clonación estructurada](/es/docs/Web/API/Web_Workers_API/Structured_clone_algorithm).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T233017Z">
+        <seg>Para compartir memoria usando objetos {{JSxRef("SharedArrayBuffer")}} de un agente en el clúster a otro (un agente es el programa principal de la página web o uno de sus *web workers*), [`postMessage`](/es/docs/Web/API/Worker/postMessage) y [clonación estructurada](/es/docs/Web/API/Web_Workers_API/Structured_clone_algorithm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40124,8 +40124,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To synchronize, {{jsxref("Atomics", "atomic", "", 1)}} operations are needed.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T023501Z" creationid="gitnacho" creationdate="20220923T023501Z">
-        <seg>Para sincronizar, se necesitan operaciones {{jsxref("Atomics", "atomic", "", 1)}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220923T023501Z">
+        <seg>Para sincronizar, se necesitan operaciones {{JSxRef("Atomics", "atomic", "", 1)}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40188,8 +40188,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>Transferable objects are instances of classes like {{jsxref("ArrayBuffer")}}, {{domxref("MessagePort")}} or {{domxref("ImageBitmap")}} objects that can be transferred.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221007T115730Z">
-        <seg>Los objetos transferibles son instancias de clases como objetos {{jsxref("ArrayBuffer")}}, {{DOMxRef("MessagePort")}} o {{DOMxRef("ImageBitmap")}} que se pueden transferir.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T115730Z">
+        <seg>Los objetos transferibles son instancias de clases como objetos {{JSxRef("ArrayBuffer")}}, {{DOMxRef("MessagePort")}} o {{DOMxRef("ImageBitmap")}} que se pueden transferir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42019,8 +42019,8 @@ función exportada desde su interior.</seg>
       <tuv lang="en-US">
         <seg>You can compare it to {{jsxref("Math")}}, which is also a namespace object for mathematical constants and functions, or to {{jsxref("Intl")}} which is the namespace object for internationalization constructors and other language-sensitive functions.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221009T003443Z" creationid="gitnacho" creationdate="20221009T003443Z">
-        <seg>Lo puedes comparar con {{jsxref("Math")}}, que también es un objeto de espacio de nombres —`namespace`— para funciones y constantes matemáticas, o con {{jsxref("Intl")}}, que es el objeto de espacio de nombres para constructores de internacionalización y otras `Functions` sensibles al lenguaje.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221009T003443Z">
+        <seg>Lo puedes comparar con {{JSxRef("Math")}}, que también es un objeto de espacio de nombres —`namespace`— para funciones y constantes matemáticas, o con {{JSxRef("Intl")}}, que es el objeto de espacio de nombres para constructores de internacionalización y otras `Functions` sensibles al lenguaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52760,8 +52760,8 @@ tags:</seg>
       <tuv lang="en-US">
         <seg>the promise rejects with a {{jsxref("TypeError")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T180539Z" creationid="gitnacho" creationdate="20221007T180539Z">
-        <seg>la promesa se rechaza con {{jsxref("TypeError")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T180539Z">
+        <seg>la promesa se rechaza con {{JSxRef("TypeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53664,16 +53664,16 @@ xhr.send();
       <tuv lang="en-US">
         <seg>{{jsxref("ArrayBuffer")}} containing the binary code of the .wasm module you want to</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193458Z" creationid="gitnacho" creationdate="20221007T193458Z">
-        <seg>{{jsxref("ArrayBuffer")}} que contiene el código binario del módulo `.wasm` que deseas</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T193458Z">
+        <seg>{{JSxRef("ArrayBuffer")}} que contiene el código binario del módulo `.wasm` que deseas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>{{jsxref("ArrayBuffer")}}, and performs both compilation and instantiation in one</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193131Z" creationid="gitnacho" creationdate="20221007T193131Z">
-        <seg>{{jsxref("ArrayBuffer")}}, y realiza tanto la compilación como la instanciación en un</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T193131Z">
+        <seg>{{JSxRef("ArrayBuffer")}}, y realiza tanto la compilación como la instanciación en un</seg>
       </tuv>
     </tu>
     <tu>
@@ -53688,8 +53688,8 @@ xhr.send();
       <tuv lang="en-US">
         <seg>{{jsxref("TypeError")}} is thrown.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T104235Z" creationid="gitnacho" creationdate="20221006T104235Z">
-        <seg>lanza un {{jsxref("TypeError")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T104235Z">
+        <seg>lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
     </tu>
     <tu>
