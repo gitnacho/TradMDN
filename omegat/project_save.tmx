@@ -21005,6 +21005,34 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; change to `1` (true) to get the first value (`10`)
+i32.const 0
+select
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211424Z" creationid="Nachec" creationdate="20221020T211424Z">
+        <seg>;; cambia a `1` (true) para obtener el primer valor (`10`)
+i32.const 0
+select
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; change to `1` (true) to get the first value (`nan`)
+i32.const 0
+select (result f32)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211510Z" creationid="Nachec" creationdate="20221020T211510Z">
+        <seg>;; cambia a `1` (true) para obtener el primer valor (`nan`)
+i32.const 0
+select (result f32)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; do something</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084117Z" creationid="gitnacho" creationdate="20221020T084117Z">
@@ -43286,6 +43314,18 @@ El resultado de 2 + 2 = 4
     <tu>
       <tuv lang="en-US">
         <seg>```
+f32.const nan
+f32.const -54.1</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211426Z" creationid="Nachec" creationdate="20221020T211426Z">
+        <seg>```
+f32.const nan
+f32.const -54.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```
 {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T055855Z" creationid="gitnacho" creationdate="20221005T055855Z">
@@ -46602,6 +46642,20 @@ i32.const 3</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```wasm
+;; push two values onto the stack
+i32.const 10
+i32.const 20</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211338Z" creationid="Nachec" creationdate="20221020T211338Z">
+        <seg>```wasm
+;; empujar dos valores en la pila
+i32.const 10
+i32.const 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
 call $greet
 ```</seg>
       </tuv>
@@ -46759,6 +46813,14 @@ nop
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115741Z" creationid="gitnacho" creationdate="20221007T115741Z">
         <seg>`null` no es un valor aceptable para `transfer`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`select (result T)` uses a different binary opcode, and allows types besides those introduced by the WebAssembly MVP (`i32`, `i64`, `f32`, `f64`), for example, it allows selection between two `externref` values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211310Z" creationid="Nachec" creationdate="20221020T211310Z">
+        <seg>`select (result T)` usa un código binario de operación diferente y permite tipos además de los introducidos por WebAssembly MVP (`i32`, `i64`, `f32`, `f64`), por ejemplo, permite la selección entre dos valores de referencia externa — `externref`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53642,6 +53704,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210513Z" creationid="Nachec" creationdate="20221020T210513Z">
         <seg>{{EmbedInteractiveExample("pages/wat/return.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/select.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211315Z" creationid="Nachec" creationdate="20221020T211315Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/select.html", "tabbed-taller")}}</seg>
       </tuv>
     </tu>
     <tu>
