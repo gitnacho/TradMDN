@@ -54302,6 +54302,21 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">glossary/cors/index.md</prop>
+      <prop type="prev">- Infrastructure</prop>
+      <prop type="next">**CORS** (Cross-Origin Resource Sharing) is a system, consisting of transmitting {{Glossary("HTTP_header", "HTTP headers")}}, that determines whether browsers block frontend JavaScript code from accessing responses for cross-origin requests.</prop>
+      <tuv lang="en-US">
+        <seg>- Security
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190501Z" creationid="Nachec" creationdate="20221020T190501Z">
+        <seg>- Security
+  - Seguridad
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">glossary/https/index.md</prop>
       <prop type="prev">- Infrastructure</prop>
       <prop type="next">**HTTPS** (**_HyperText Transfer Protocol Secure_**) is an encrypted version of the {{Glossary("HTTP")}} protocol.</prop>
