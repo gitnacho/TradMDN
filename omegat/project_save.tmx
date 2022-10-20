@@ -4760,6 +4760,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**`call`** calls a function.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T082825Z" creationid="gitnacho" creationdate="20221020T082825Z">
+        <seg>**`call`** llama a una función.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*/</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170430T051129Z" creationid="nacho" creationdate="20170430T051129Z">
@@ -17173,6 +17181,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Drop
+slug: WebAssembly/Reference/Control_flow/Drop
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083040Z" creationid="gitnacho" creationdate="20221020T083040Z">
+        <seg>---
+title: Instrucción Drop
+slug: WebAssembly/Reference/Control_flow/Drop
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Event
 slug: Web/API/Event
 page-type: web-api-interface
@@ -20398,6 +20420,16 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; drop the top item from the stack (`3`)
+drop</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083208Z" creationid="gitnacho" creationdate="20221020T083208Z">
+        <seg>;; suelta el elemento superior de la pila (`3`)
+drop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; import function that will be referred to here as $throwExnWithStack</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204057Z" creationid="gitnacho" creationdate="20221019T204057Z">
@@ -20456,6 +20488,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091623Z" creationid="gitnacho" creationdate="20221007T091623Z">
         <seg>;; El elemento superior en la pila ahora será 30 (10 * 3 = 30)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; the top item on the stack will now be `2`
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083220Z" creationid="gitnacho" creationdate="20221020T083220Z">
+        <seg>;; el elemento superior de la pila ahora será `2`
 ```</seg>
       </tuv>
     </tu>
@@ -33734,6 +33776,14 @@ interfaz {{DOMxRef("ServiceWorkerContainer")}} se activa cuando el documento aso
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`drop`** instruction, pops a value from the stack, and discards it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083115Z" creationid="gitnacho" creationdate="20221020T083115Z">
+        <seg>La instrucción **`drop`** extrae un valor de la pila y lo descarta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`exports`** readonly property of the
 [`WebAssembly.Instance`](/en-US/docs/WebAssembly/JavaScript_interface/Instance) object prototype returns an object containing as its
 members all the functions exported from the WebAssembly module instance, to allow them
@@ -45605,6 +45655,34 @@ i32.const 3</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```wasm
+;; push multiple values onto the stack
+i32.const 1
+i32.const 2
+i32.const 3</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083143Z" creationid="gitnacho" creationdate="20221020T083143Z">
+        <seg>```wasm
+;; empuja múltiples valores a la pila
+i32.const 1
+i32.const 2
+i32.const 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
+call $greet
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T082834Z" creationid="gitnacho" creationdate="20221020T082834Z">
+        <seg>```wasm
+call $greet
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
 call_indirect $my_spicy_table (type $i32_to_void)
 ```</seg>
       </tuv>
@@ -45636,6 +45714,14 @@ call_indirect $my_spicy_table (type $i32_to_void)
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035331Z" creationid="gitnacho" creationdate="20220921T035331Z">
         <seg>`caches.match(event.request)` nos permite hacer coincidir cada recurso solicitado de la red con el recurso equivalente disponible en caché, si hay uno coincidente disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`call_indirect` calls a function in a table.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T082830Z" creationid="gitnacho" creationdate="20221020T082830Z">
+        <seg>`call_indirect` llama a una función en una tabla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52431,6 +52517,22 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/call.html", "tabbed-standard")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T082832Z" creationid="gitnacho" creationdate="20221020T082832Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/call.html", "tabbed-standard")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/drop.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083117Z" creationid="gitnacho" creationdate="20221020T083117Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/drop.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedInteractiveExample("pages/wat/mul.html", "tabbed-taller")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091827Z" creationid="gitnacho" creationdate="20221007T091827Z">
@@ -52757,6 +52859,20 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| Instruction     | Binary opcode |
+| --------------- | ------------- |
+| `call`          | `0x10`        |
+| `call_indirect` | `0x11`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T082901Z" creationid="gitnacho" creationdate="20221020T082901Z">
+        <seg>| Instrucción     | Código binario de operación |
+| --------------- | ------------- |
+| `call`          | `0x10`        |
+| `call_indirect` | `0x11`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| Instruction | Binary opcode |
 | ----------- | ------------- |
 | `block`     | `0x02`        |</seg>
@@ -52781,6 +52897,18 @@ xhr.send();
 | `br`        | `0x0c`        |
 | `br_if`     | `0x0d`        |
 | `br_table`  | `0x0e`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `drop`      | `0x1a`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083255Z" creationid="gitnacho" creationdate="20221020T083255Z">
+        <seg>| Instrucción | Código binario de operación |
+| ----------- | ------------- |
+| `drop`      | `0x1a`        |</seg>
       </tuv>
     </tu>
     <tu>
@@ -53690,6 +53818,22 @@ original_slug: WebAssembly/Reference/Control_flow/br
   - Control de flujo
 reviewer: Nachec
 original_slug: WebAssembly/Reference/Control_flow/call
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/drop/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083100Z" creationid="gitnacho" creationdate="20221020T083100Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+original_slug: WebAssembly/Reference/Control_flow/Drop
 ---</seg>
       </tuv>
     </tu>
