@@ -5313,6 +5313,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : After mastering the essentials of vanilla HTML, CSS, and JavaScript, you should learn about [client-side web development tools](/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools), and then consider digging into [client-side JavaScript frameworks](/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), and [server-side website programming](/en-US/docs/Learn/Server-side).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T123525Z" creationid="gitnacho" creationdate="20221020T123525Z">
+        <seg>- : Después de dominar los conceptos básicos de HTML, CSS y JavaScript estándar, debes aprender sobre [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools), y luego considera profundizar en [marcos JavaScript del lado del servidor](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), y [programación de sitios web del lado del servidor](/es/docs/Learn/Server-side).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : After you have a .wasm, this article covers how to fetch, compile and instantiate it, combining the [WebAssembly JavaScript](/en-US/docs/WebAssembly/JavaScript_interface) API with the [Fetch](/en-US/docs/Web/API/Fetch_API) or [XHR](/en-US/docs/Web/API/XMLHttpRequest) APIs.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T095651Z" creationid="gitnacho" creationdate="20221003T095651Z">
