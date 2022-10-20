@@ -21155,6 +21155,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a href="https://github.com/adobe/brackets/wiki" rel="external"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T121903Z" creationid="gitnacho" creationdate="20221020T121903Z">
+        <seg>&lt;a href="https://github.com/adobe/brackets/wiki" rel="external"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a href="https://github.com/mdn/yari/tree/main/kumascript/macros/DOMxRef.ejs"&gt;DOMxRef&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T105306Z" creationid="gitnacho" creationdate="20221005T105306Z">
@@ -21215,6 +21223,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T111052Z" creationid="gitnacho" creationdate="20221005T111052Z">
         <seg>&lt;a href="https://github.com/mdn/yari/tree/main/kumascript/macros/jsxref.ejs"&gt;JSxRef&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a href="https://webchat.freenode.net/?channels=brackets" rel="external"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T121853Z" creationid="gitnacho" creationdate="20221020T121853Z">
+        <seg>&lt;a href="https://webchat.freenode.net/?channels=brackets" rel="external"</seg>
       </tuv>
     </tu>
     <tu>
@@ -23583,10 +23599,26 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;GitHub Wiki&lt;/a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T121956Z" creationid="gitnacho" creationdate="20221020T121956Z">
+        <seg>&gt;GitHub Wiki&lt;/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;HTMLAttrxRef&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T110817Z" creationid="gitnacho" creationdate="20221005T110817Z">
         <seg>&gt;HTMLAttrxRef&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;IRC&lt;/a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T121900Z" creationid="gitnacho" creationdate="20221020T121900Z">
+        <seg>&gt;IRC&lt;/a</seg>
       </tuv>
     </tu>
     <tu>
