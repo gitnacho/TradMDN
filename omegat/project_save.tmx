@@ -18610,9 +18610,9 @@ title: block
 slug: WebAssembly/Reference/Control_flow/block
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T074823Z" creationid="gitnacho" creationdate="20221020T074823Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075130Z" creationid="gitnacho" creationdate="20221020T074823Z">
         <seg>---
-title: block
+title: Instrucción block
 slug: WebAssembly/Reference/Control_flow/block
 tags:</seg>
       </tuv>
@@ -33598,6 +33598,14 @@ code, returning whether the bytes form a valid wasm module (`true`) or not
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`block`** statement creates a label that can later be branched out of with a `br`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075147Z" creationid="gitnacho" creationdate="20221020T075147Z">
+        <seg>La instrucción **`block`** crea una etiqueta que luego se puede ramificar con un `br`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`controllerchange`** event of the
 {{domxref("ServiceWorkerContainer")}} interface fires when the document's associated
 {{domxref("ServiceWorkerRegistration")}} acquires a new
@@ -33663,6 +33671,14 @@ specified number of elements.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T145155Z" creationid="gitnacho" creationdate="20221019T145155Z">
         <seg>El método prototipo **`is()`** del objeto [`Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception) se puede usar para probar si la `Exception` coincide con una determinada etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`loop`** statement is the opposite of the `block` statement, in the sense that while branching to a `loop` jumps to the beginning of the loop, branching to a `block` jumps to the end of the block; that is, out of the block.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075259Z" creationid="gitnacho" creationdate="20221020T075259Z">
+        <seg>La instrucción **`loop`** es lo opuesto a la instrucción `block`, en el sentido de que mientras la bifurcación a un `bucle` salta al principio del bucle, la bifurcación a un `block` salta al final del `block`; es decir, fuera del `block`.</seg>
       </tuv>
     </tu>
     <tu>
