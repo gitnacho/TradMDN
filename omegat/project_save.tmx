@@ -4754,6 +4754,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Internationalization**, often shortened to "[i18n](/en-US/docs/Glossary/I18N)", is the adapting of a web site or web application to different languages, regional differences, and technical requirements for different regions and countries.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190752Z" creationid="Nachec" creationdate="20221020T190752Z">
+        <seg>**Internacionalización**, a menudo abreviado como "[i18n](/es/docs/Glossary/I18N)", es la adaptación de un sitio web o aplicación web a diferentes idiomas, diferencias regionales y requisitos técnicos para diferentes regiones y países.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**MDN Web Docs** is free-to-use resource on which we document the open web platform.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200226Z" creationid="gitnacho" creationdate="20221008T200226Z">
@@ -9604,6 +9612,15 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T220312Z" creationid="gitnacho" creationdate="20221005T220312Z">
         <seg>- Los enlaces internos son **relativos a la raíz**, por lo que debes omitir `https://developer.mozilla.org` al comienzo de la URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Internationalization</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190728Z" creationid="Nachec" creationdate="20221020T190728Z">
+        <seg>- Internationalization
+  - Internacionalización</seg>
       </tuv>
     </tu>
     <tu>
@@ -17800,6 +17817,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Internationalization
+slug: Glossary/Internationalization_and_localization
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190714Z" creationid="Nachec" creationdate="20221020T190714Z">
+        <seg>---
+title: Internacionalización
+slug: Glossary/Internationalization_and_localization
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: KumaScript
 slug: MDN/Tools/KumaScript
 tags:</seg>
@@ -24858,6 +24889,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also so that a user can browse features to translate or localize the application to access all the content without breaking the layout.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190830Z" creationid="Nachec" creationdate="20221020T190830Z">
+        <seg>También para que un usuario pueda buscar funciones para traducir o localizar la aplicación para acceder a todo el contenido sin romper el diseño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, a non-standard HTTP `X-PINGOTHER` request header is set.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222619Z" creationid="gitnacho" creationdate="20221011T222619Z">
@@ -30024,6 +30063,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T145630Z" creationid="gitnacho" creationdate="20221002T145630Z">
         <seg>Curiosamente, otras especificaciones pueden y comenzarán a hacer uso del contexto del *service worker*, por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internationalization is the process of architecting your web application so that it can be quickly and easily adapted to various languages and regions without much engineering effort when new languages and regions are supported.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190817Z" creationid="Nachec" creationdate="20221020T190817Z">
+        <seg>La internacionalización es el proceso de diseñar tu aplicación web para que se pueda adaptar rápida y fácilmente a varios idiomas y regiones sin mucho esfuerzo de ingeniería cuando se admiten nuevos idiomas y regiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54317,6 +54364,20 @@ reviewer: Nachec
       </tuv>
     </tu>
     <tu>
+      <prop type="file">glossary/http_header/index.md</prop>
+      <prop type="prev">- HTTP Header</prop>
+      <prop type="next">An **HTTP header** is a field of an HTTP request or response that passes additional context and metadata about the request or response.</prop>
+      <tuv lang="en-US">
+        <seg>- WebMechanics
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190559Z" creationid="Nachec" creationdate="20221020T190559Z">
+        <seg>- WebMechanics
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">glossary/https/index.md</prop>
       <prop type="prev">- Infrastructure</prop>
       <prop type="next">**HTTPS** (**_HyperText Transfer Protocol Secure_**) is an encrypted version of the {{Glossary("HTTP")}} protocol.</prop>
@@ -54327,6 +54388,21 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085638Z" creationid="gitnacho" creationdate="20221019T071335Z">
         <seg>- Security
   - Seguridad
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">glossary/internationalization_and_localization/index.md</prop>
+      <prop type="prev">- Internationalization</prop>
+      <prop type="next">**Internationalization**, often shortened to "[i18n](/en-US/docs/Glossary/I18N)", is the adapting of a web site or web application to different languages, regional differences, and technical requirements for different regions and countries.</prop>
+      <tuv lang="en-US">
+        <seg>- Reference
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190654Z" creationid="Nachec" creationdate="20221020T190654Z">
+        <seg>- Reference
+  - Referencia
 reviewer: Nachec
 ---</seg>
       </tuv>
