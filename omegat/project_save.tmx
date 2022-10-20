@@ -20368,6 +20368,14 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; branch to the loop.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081731Z" creationid="gitnacho" creationdate="20221020T081731Z">
+        <seg>;; rama al bucle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; call $throwExnWithStack passing 42 as parameter</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204117Z" creationid="gitnacho" creationdate="20221019T204117Z">
@@ -20417,6 +20425,14 @@ i32.mul</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075933Z" creationid="gitnacho" creationdate="20221020T075533Z">
         <seg>;; de lo contrario, el siguiente control de flujo será
   ;; inalcanzable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; otherwise you have an infinite loop.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081744Z" creationid="gitnacho" creationdate="20221020T081744Z">
+        <seg>;; de lo contrario, tendrás un bucle infinito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31948,6 +31964,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T073215Z" creationid="gitnacho" creationdate="20221005T073215Z">
         <seg>Otras APIs disponibles incluyen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other variants of `br` are `br_if` for branching on condition, and `br_table` for branching to different blocks based on an argument.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081559Z" creationid="gitnacho" creationdate="20221020T081559Z">
+        <seg>Otras variantes de `br` son `br_if` para bifurcar con una condición y `br_table` para bifurcar a diferentes bloques en función de un argumento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45541,6 +45565,18 @@ edition = "2018"</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```wasm
+;; label the loop so that it can be branched to
+(loop $my_loop</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081719Z" creationid="gitnacho" creationdate="20221020T081719Z">
+        <seg>```wasm
+;; etiqueta el bucle para que se pueda ramificar
+(loop $my_loop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```wasm
 ;; load two numbers onto the stack
 i32.const 10
 i32.const 3</seg>
@@ -46012,6 +46048,14 @@ call_indirect $my_spicy_table (type $i32_to_void)
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075541Z" creationid="gitnacho" creationdate="20221020T075541Z">
         <seg>br $my_block</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>br $my_loop</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081747Z" creationid="gitnacho" creationdate="20221020T081747Z">
+        <seg>br $my_loop</seg>
       </tuv>
     </tu>
     <tu>
@@ -52365,6 +52409,14 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedInteractiveExample("pages/wat/br.html", "tabbed-taller")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081604Z" creationid="gitnacho" creationdate="20221020T081604Z">
+        <seg>{{EmbedInteractiveExample("pages/wat/br.html", "tabbed-taller")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{EmbedInteractiveExample("pages/wat/mul.html", "tabbed-taller")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091827Z" creationid="gitnacho" creationdate="20221007T091827Z">
@@ -52699,6 +52751,22 @@ xhr.send();
         <seg>| Instrucción | Código binario de operación |
 | ----------- | ------------- |
 | `block`     | `0x02`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `br`        | `0x0c`        |
+| `br_if`     | `0x0d`        |
+| `br_table`  | `0x0e`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081813Z" creationid="gitnacho" creationdate="20221020T081813Z">
+        <seg>| Instrucción | Código binario de operación |
+| ----------- | ------------- |
+| `br`        | `0x0c`        |
+| `br_if`     | `0x0d`        |
+| `br_table`  | `0x0e`        |</seg>
       </tuv>
     </tu>
     <tu>
