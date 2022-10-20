@@ -4604,6 +4604,16 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075621Z" creationid="gitnacho" creationdate="20221020T075621Z">
+        <seg>)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>) {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Pacho" changedate="20200408T234700Z" creationid="Pacho" creationdate="20200408T234700Z">
@@ -18628,6 +18638,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: br
+slug: WebAssembly/Reference/Control_flow/br
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075710Z" creationid="gitnacho" creationdate="20221020T075710Z">
+        <seg>---
+title: Instrucción br
+slug: WebAssembly/Reference/Control_flow/br
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: caches
 slug: Web/API/caches
 page-type: web-api-global-property
@@ -20402,6 +20426,15 @@ i32.mul</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091623Z" creationid="gitnacho" creationdate="20221007T091623Z">
         <seg>;; El elemento superior en la pila ahora será 30 (10 * 3 = 30)
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; this will never be reached, since the br jumped out of the block already.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075614Z" creationid="gitnacho" creationdate="20221020T075614Z">
+        <seg>;; esto nunca se alcanzará, puesto que el br ya
+;; saltó fuera del bloque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45966,6 +45999,14 @@ call_indirect $my_spicy_table (type $i32_to_void)
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>br $my_block</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075541Z" creationid="gitnacho" creationdate="20221020T075541Z">
+        <seg>br $my_block</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>break</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220805T141143Z" creationid="nachec" creationdate="20220805T141143Z">
@@ -51983,6 +52024,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>unreachable</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075615Z" creationid="gitnacho" creationdate="20221020T075615Z">
+        <seg>unreachable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>url:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210902T115714Z" creationid="gitnacho" creationdate="20210902T115714Z">
@@ -52629,6 +52678,18 @@ xhr.send();
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185524Z" creationid="gitnacho" creationdate="20221008T185524Z">
         <seg>| Un encabezado 1        | Un encabezado 2        | Un encabezado 3        | Un encabezado 4        | Un encabezado 5        | Un encabezado 6        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction | Binary opcode |
+| ----------- | ------------- |
+| `block`     | `0x02`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075652Z" creationid="gitnacho" creationdate="20221020T075652Z">
+        <seg>| Instrucción | Opcode binario |
+| ----------- | ------------- |
+| `block`     | `0x02`        |</seg>
       </tuv>
     </tu>
     <tu>
