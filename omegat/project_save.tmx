@@ -20361,8 +20361,8 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
       <tuv lang="en-US">
         <seg>;; branch to the block.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075414Z" creationid="gitnacho" creationdate="20221020T075414Z">
-        <seg>;; rama al block.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T080356Z" creationid="gitnacho" creationdate="20221020T075414Z">
+        <seg>;; nueva rama para block.</seg>
       </tuv>
     </tu>
     <tu>
