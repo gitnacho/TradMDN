@@ -5207,6 +5207,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A framework for entry-level web literacy and 21st-century skills, which also provides access to teaching activities sorted by category.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180448Z" creationid="Nachec" creationdate="20221020T180415Z">
+        <seg>- : Un marco de desarrollo para la alfabetización web a nivel de entrada y las habilidades del siglo XXI, que también brinda acceso a actividades de enseñanza clasificadas por categoría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A great interactive site for learning programming languages from scratch.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175930Z" creationid="Nachec" creationdate="20221020T175930Z">
@@ -12680,6 +12688,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T225035Z" creationid="gitnacho" creationdate="20221018T225035Z">
         <seg>- [Formularios web](/es/docs/Learn/Forms) (40 a 50 horas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Web literacy map](https://foundation.mozilla.org/en/initiatives/web-literacy/core-curriculum/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180427Z" creationid="Nachec" creationdate="20221020T180410Z">
+        <seg>- [Mapa de alfabetización web](https://foundation.mozilla.org/en/initiatives/web-literacy/core-curriculum/)</seg>
       </tuv>
     </tu>
     <tu>
