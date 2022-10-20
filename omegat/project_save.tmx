@@ -8625,10 +8625,10 @@ original_slug: WebAssembly/JavaScript_interface/Exception/is
 browser-compat: javascript.builtins.WebAssembly.Tag.type
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071338Z" creationid="gitnacho" creationdate="20221020T071338Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T073354Z" creationid="gitnacho" creationdate="20221020T071338Z">
         <seg>- Exception
 browser-compat: javascript.builtins.WebAssembly.Tag.type
-reviewer: Nachec
+reviewer: 👍🏻 Nachec
 original_slug: WebAssembly/JavaScript_interface/Tag/tipo
 ---</seg>
       </tuv>
