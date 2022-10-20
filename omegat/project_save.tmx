@@ -22844,8 +22844,8 @@ Si tienes preguntas sobre temas que te gustaría que se abordaran o te parece qu
       <tuv lang="en-US">
         <seg>&gt; **Note:** Our [glossary](/en-US/docs/Glossary) provides terminology definitions.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124135Z" creationid="gitnacho" creationdate="20221020T124135Z">
-        <seg>&gt; **Nota:** Nuestro [glosario](/es/docs/Glossary) proporciona definiciones terminológicas.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130710Z" creationid="gitnacho" creationdate="20221020T124135Z">
+        <seg>&gt; **Nota:** el [glosario](/es/docs/Glossary) proporciona definición de términos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25283,8 +25283,8 @@ call, and it will pass the response into the function when it fulfills.</seg>
       <tuv lang="en-US">
         <seg>Besides, if you have a specific question about web development, our [Common questions](/en-US/docs/Learn/Common_questions) section may have something to help you.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124201Z" creationid="gitnacho" creationdate="20221020T124201Z">
-        <seg>Además, si tienes una pregunta específica sobre desarrollo web, nuestra sección [Preguntas comunes](/es/docs/Learn/Common_questions) puede tener algo que ayudarte.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130732Z" creationid="gitnacho" creationdate="20221020T124201Z">
+        <seg>Además, si tienes una pregunta específica sobre el desarrollo web, la sección de [preguntas frecuentes](/es/docs/Learn/Common_questions) te puede brindar información de gran utilidad.</seg>
       </tuv>
     </tu>
     <tu>
