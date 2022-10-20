@@ -21905,6 +21905,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;$99&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122353Z" creationid="gitnacho" creationdate="20221020T122353Z">
+        <seg>&lt;td&gt;$99&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201210T200358Z" creationid="nacho" creationdate="20201210T200358Z">
@@ -21917,6 +21925,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T201040Z" creationid="gitnacho" creationdate="20221005T105320Z">
         <seg>&lt;td&gt;&lt;a href="/es/docs/Web/API"&gt;Referencia DOM&lt;/a&gt; (/Web/API)&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;a href="https://www.espressoapp.com/"&gt;Espresso&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122337Z" creationid="gitnacho" creationdate="20221020T122337Z">
+        <seg>&lt;td&gt;&lt;a href="https://www.espressoapp.com/"&gt;Espresso&lt;/a&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21961,10 +21977,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;Closed source&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122352Z" creationid="gitnacho" creationdate="20221020T122352Z">
+        <seg>&lt;td&gt;Fuente cerrada&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;Dynamic script such as &lt;code&gt;text/javascript&lt;/code&gt;.&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T121835Z" creationid="gitnacho" creationdate="20221003T121835Z">
         <seg>&lt;td&gt;Script dinámico como &lt;code&gt;text/javascript&lt;/code&gt;.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;Mac&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122401Z" creationid="gitnacho" creationdate="20221020T122401Z">
+        <seg>&lt;td&gt;Mac&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49376,6 +49408,14 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>href="https://ingorichter.github.io/BracketsExtensionTweetBot/"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122322Z" creationid="gitnacho" creationdate="20221020T122322Z">
+        <seg>href="https://ingorichter.github.io/BracketsExtensionTweetBot/"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>html</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220803T021640Z" creationid="nacho" creationdate="20210107T014039Z">
@@ -53801,6 +53841,20 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085746Z" creationid="gitnacho" creationdate="20221019T001121Z">
         <seg>- text editor
   - editor de texto
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/index.md</prop>
+      <prop type="prev">- Learn</prop>
+      <prop type="next">{{LearnSidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Web
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122601Z" creationid="gitnacho" creationdate="20221020T122601Z">
+        <seg>- Web
 reviewer: Nachec
 ---</seg>
       </tuv>
