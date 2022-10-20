@@ -52686,8 +52686,8 @@ xhr.send();
 | ----------- | ------------- |
 | `block`     | `0x02`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075652Z" creationid="gitnacho" creationdate="20221020T075652Z">
-        <seg>| Instrucción | Opcode binario |
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T080935Z" creationid="gitnacho" creationdate="20221020T075652Z">
+        <seg>| Instrucción | Código de operación binario |
 | ----------- | ------------- |
 | `block`     | `0x02`        |</seg>
       </tuv>
@@ -53562,11 +53562,11 @@ original_slug: WebAssembly/Funciones_Webassembly_Exportadas
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T074927Z" creationid="gitnacho" creationdate="20221020T074927Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T080704Z" creationid="gitnacho" creationdate="20221020T074927Z">
         <seg>- Control flow
   - Control de flujo
 reviewer: Nachec
-original_slug: WebAssembly/Reference/Control_flow/block
+original_slug: WebAssembly/Reference/Control_flow/bloque
 ---</seg>
       </tuv>
     </tu>
