@@ -5325,8 +5325,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : After mastering the essentials of vanilla HTML, CSS, and JavaScript, you should learn about [client-side web development tools](/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools), and then consider digging into [client-side JavaScript frameworks](/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), and [server-side website programming](/en-US/docs/Learn/Server-side).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T123525Z" creationid="gitnacho" creationdate="20221020T123525Z">
-        <seg>- : Después de dominar los conceptos básicos de HTML, CSS y JavaScript estándar, debes aprender sobre [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools), y luego considera profundizar en [marcos JavaScript del lado del servidor](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), y [programación de sitios web del lado del servidor](/es/docs/Learn/Server-side).</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130655Z" creationid="gitnacho" creationdate="20221020T123525Z">
+        <seg>- : ¡Excelente! Después de dominar los fundamentos del HTML, CSS y JavaScript puedes estar interesado en explorar las [Guías avanzadas](/es/docs/Web/Guide) y [Tutoriales](/es/docs/Web/Tutoriales). Otra excelente idea es aprender sobre las [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools) y luego considera ahondar en los [marcos de desarrollo («frameworks») de JavaScript de lado del cliente](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), y la [Programación de sitios web de lado del servidor](/es/docs/Learn/Server-side). Finalmente deberías considerar [Contribuir al Área de Aprendizaje](/es/docs/Learn/como_Contribuir).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6171,8 +6171,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : If you are comfortable with HTML and CSS already, or you are mainly interested in coding, you'll want to move on to {{glossary("JavaScript")}} or server-side development.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T232053Z" creationid="gitnacho" creationdate="20221012T232053Z">
-        <seg>- : Si ya te sientes cómodo con HTML y CSS, o si estás interesado principalmente en la codificación, querrás pasar a {{Glossary("JavaScript")}} o al desarrollo de lado del servidor.</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130245Z" creationid="gitnacho" creationdate="20221012T232053Z">
+        <seg>- : Si ya te sientes cómodo con el HTML y el CSS, o principalmente estás interesado en la codificación, querrás pasar al desarrollo de {{Glossary("JavaScript")}} o al desarrollo de lado del servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8868,8 +8868,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Frameworks and tooling</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T232120Z" creationid="gitnacho" creationdate="20221012T232120Z">
-        <seg>- Marcos y herramientas</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130355Z" creationid="gitnacho" creationdate="20221012T232120Z">
+        <seg>- **Soy experto en la web:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -9759,8 +9759,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Moving onto scripting</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T232029Z" creationid="gitnacho" creationdate="20221012T232029Z">
-        <seg>- Pasando a los scripts</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130217Z" creationid="gitnacho" creationdate="20221012T232029Z">
+        <seg>- **Me interesa javascript:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -25235,8 +25235,8 @@ call, and it will pass the response into the function when it fulfills.</seg>
       <tuv lang="en-US">
         <seg>Begin with our [JavaScript first steps](/en-US/docs/Learn/JavaScript/First_steps) and [Server-side first steps](/en-US/docs/Learn/Server-side/First_steps) modules.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T232115Z" creationid="gitnacho" creationdate="20221012T232115Z">
-        <seg>Empieza con nuestros módulos [Primeros pasos en JavaScript](/es/docs/Learn/JavaScript/First_steps) y [Primeros pasos de lado del servidor](/es/docs/Learn/Server-side/First_steps).</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130329Z" creationid="gitnacho" creationdate="20221012T232115Z">
+        <seg>Empieza con los módulos de [primeros pasos con JavaScript](/es/docs/Learn/JavaScript/First_steps) y [primeros pasos en la programación de lado del servidor](/es/docs/Learn/Server-side/First_steps).</seg>
       </tuv>
     </tu>
     <tu>
