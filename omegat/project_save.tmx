@@ -8621,6 +8621,20 @@ original_slug: WebAssembly/JavaScript_interface/Exception/is
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Exception
+browser-compat: javascript.builtins.WebAssembly.Tag.type
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071338Z" creationid="gitnacho" creationdate="20221020T071338Z">
+        <seg>- Exception
+browser-compat: javascript.builtins.WebAssembly.Tag.type
+reviewer: Nachec
+original_slug: WebAssembly/JavaScript_interface/Tag/tipo
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Fetch</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070833Z" creationid="gitnacho" creationdate="20221004T070833Z">
@@ -18462,6 +18476,20 @@ tags:</seg>
         <seg>---
 title: Constructor WebAssembly.Tag()
 slug: WebAssembly/JavaScript_interface/Tag/Tag
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: WebAssembly.Tag.prototype.type()
+slug: WebAssembly/JavaScript_interface/Tag/type
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071314Z" creationid="gitnacho" creationdate="20221020T071314Z">
+        <seg>---
+title: WebAssembly.Tag.prototype.type()
+slug: WebAssembly/JavaScript_interface/Tag/type
 tags:</seg>
       </tuv>
     </tu>
@@ -31041,6 +31069,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071419Z" creationid="gitnacho" creationdate="20221020T071419Z">
+        <seg>Ninguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None ({{jsxref("undefined")}}).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115754Z" creationid="gitnacho" creationdate="20221007T115754Z">
@@ -33635,6 +33671,14 @@ of the service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T223106Z">
         <seg>La propiedad de solo lectura **`state`** de la interfaz {{DOMxRef("ServiceWorker")}} devuelve una cadena que representa el estado actual del *service worker*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`type()`** prototype method of the [`Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag) object can be used to get the sequence of data types associated with the tag.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071406Z" creationid="gitnacho" creationdate="20221020T071406Z">
+        <seg>El método prototipo **`type()`** del objeto [`Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) se puede usar para obtener la secuencia de tipos de datos asociados con la etiqueta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44717,6 +44761,18 @@ set(index, value)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233949Z" creationid="gitnacho" creationdate="20221019T233949Z">
         <seg>```js-nolint
 set(index, value)
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js-nolint
+type()
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071407Z" creationid="gitnacho" creationdate="20221020T071407Z">
+        <seg>```js-nolint
+type()
 ```</seg>
       </tuv>
     </tu>
