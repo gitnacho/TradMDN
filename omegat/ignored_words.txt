@@ -1950,6 +1950,7 @@ Distribution
 Div
 Division
 Divy
+Django
 Dmitry
 DoBootstrap
 DoCheck
@@ -4238,6 +4239,7 @@ MathFuncs
 MathJax
 MathLib
 MathLib.ejs
+MathML
 Mathematica
 Mathias
 Mathieu
@@ -5805,6 +5807,7 @@ RelativePathStrategy
 RelativeTo
 Relatively
 Release
+Release_notes
 RelojAnalogo
 Remark
 Remote
@@ -7404,6 +7407,7 @@ User_Datagram_Protocol
 Users
 Using
 UsingCameraExampleComponent
+UsingTheTerminal
 Using_CSS_animations
 Using_Service_Workers
 Using_custom_elements
@@ -9938,6 +9942,7 @@ blog.angular
 blog.angular.io
 blog.jonnew.com
 blog.nativescript.org
+blog.teamtreehouse.com
 blogea
 blogs
 blogs.msdn.com
@@ -10598,6 +10603,7 @@ changetype.html
 changingString
 changing_undefined
 channel
+channels=brackets
 chapfonts
 chapheading
 chapno
@@ -10899,6 +10905,7 @@ codebehind.component.html
 codebehind.css
 codebytere
 codeekage
+codeload.github.com
 codeofconduct
 codepage
 codepoints
@@ -15254,6 +15261,7 @@ help.el
 help.github.com
 help.html
 help.texi
+help.ubuntu.com
 helper
 helper.jar
 helpers
@@ -25094,6 +25102,7 @@ webargs
 webargs.object
 webassembly
 webassembly.github.io
+webchat.freenode.net
 webcomponents
 webdriver
 webhook
@@ -25367,6 +25376,7 @@ www.jslint.com
 www.jsonrpc.org
 www.kinvey.com
 www.learnrxjs.io
+www.lifewire.com
 www.lighttable.com
 www.linkedin.com
 www.linuxfoundation.org

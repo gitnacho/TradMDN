@@ -642,6 +642,8 @@ GRC	global rating of change
 GSWS	gunshot wounds
 GT	gran turismo
 GTEST	PRUEBAM
+GUI	interfaz gráfica de usuario
+GUIs	interfaces gráficas de usuario
 Gabon	Gabón
 Gabriel	Gabriel
 Gaelic	gaélico
@@ -678,6 +680,7 @@ Ghana	Ghana
 Ghent	Gante
 Gibraltar	Gibraltar
 Giles	Egidio
+Git directory	directorio de Git
 Glasgow	Glasgow
 Global_Objects	Objetos_globales
 Gnosticism	gnosticismo
@@ -1048,9 +1051,9 @@ Kharkiv	Járkov
 Khartoum	Jartum
 Khmer	jemer
 Khrushchev	Jrushchov
-Kind of	como
 Kind of	(familiar)
 Kind of	clase de
+Kind of	como
 Kind of	que
 Kind of	tipo de
 Kiribati	Kiribati
@@ -3066,6 +3069,7 @@ ankle	tobillo
 anniversary	aniversario
 anno Domini	después de Jesucristo
 annotate	comentar (anotar es "to register")
+annotated	anotada
 annotation	anotación
 annotation	observacion
 announce	anunciar
@@ -4172,6 +4176,7 @@ backquote	comilla inversa
 backquote	comilla inversa	nodo
 backquote patterns	patrones de comilla inversa	nodo
 backslash	barra inversa
+backslash	barra invertida
 backslash	barra oblicua inversa
 backslash	contrabarra
 backslashes	barras inversas
@@ -4739,6 +4744,9 @@ billion	millardo
 billionaire	multimillonario
 binary	binario
 binary file	archivo binario
+binary installer	instalador binario
+binary opcode	código de operación binaria	código de operación binaria
+binary operation	operación binaria	se trata de un cálculo que involucra dos operandos
 binary star	estrella binaria
 bind	atar
 bind	vínculo
@@ -5373,6 +5381,8 @@ branch	afluente
 branch	ifurcarse
 branch	rama
 branch	ramal
+branch	ramificación
+branch	ramificar
 branch	ramificarse
 branch	ramo
 branch	sucursal
@@ -5381,7 +5391,12 @@ branch off	separarse
 branch out	ampliar horizontes
 branch out	diversificarse
 branch out	expandirse
+branches	ramas
+branching	ramales
+branching	ramificaciones
 branching	ramificación
+branching scheme	esquema de ramificación
+branching scheme	estilo de ramificación
 brand	estigmatizar
 brand	estilo
 brand	hierro
@@ -7681,6 +7696,7 @@ check out	examinar
 check out	pagar
 check out	pagar la cuenta e irse
 check out	revisar
+check out	sacar
 check out	verifica
 check out	visita
 check out	échale un vistazo a
@@ -7704,6 +7720,7 @@ checkbox	casilla de verificación/validación
 checkdoc	checkdoc	comando: verifica interactivamente todo el búfer en busca de errores de estilo.
 checkdoc-current-buffer	checkdoc-current-buffer	comando: verifica el búfer actual para documentos, comentarios, estilo de error y espacios no autorizados.
 checkdoc-file	checkdoc-file	función: verifica ARCHIVO para documentos, comentarios, estilo de error y espacios no autorizados.
+checked out	(sobre una rama) activada
 checked out	comprobado
 checked out	desprotegido
 checked out	marchamos
@@ -7728,8 +7745,12 @@ checking-accounty	cuenta-de-cheques
 checkmate	jaque mate
 checkout	activar
 checkout	confirmar
+checkout	copia de trabajo
 checkout	realizar pedido
 checkout	revisar
+checksum	suma
+checksum	suma de comprobación
+checksum	suma de control
 checksum	suma de verificación
 cheek	cachete
 cheek	mejilla
@@ -8241,6 +8262,7 @@ collaborate	colaborar
 collaboratively	cooperativo
 collaboratively	de colaboración
 collaboratively	en colaboración
+collaborator	colaborador
 collage	collage
 collapse	colapsar
 collapsed	colapsó
@@ -8355,6 +8377,7 @@ command	comando
 command	instrucción
 command	mandato
 command	orden
+command line	línea de comandos
 command loop	bucle de comandos	nodo
 command-line arguments	argumentos de la línea de comandos	nodo
 commands	comandos
@@ -8381,11 +8404,16 @@ commercial vehicle	vehículo industrial
 commission-rate	taza-de-comisión
 commit	asignar
 commit	comprometer
+commit	confirmación
 commit	confirmación de cambios
 commit	confirmar
 commit	consignar
+commit history	historial de confirmaciones
 commit history	historial de confirmaciones de cambio
+commit history	línea temporal de confirmaciones de cambio
 commit history	registro de confirmaciones de cambio
+commited	confirmado
+commiter	confirmador
 committed	asignado
 committed	comprometido
 committed	confirmado
@@ -8448,6 +8476,7 @@ compilation	composición
 compilation	elaboración
 compilation	recopilación
 compilation tips	consejos de compilación	nodo
+compile	compilar
 compile-arc	compila-arco
 compile-machine	compila-máquina
 compile-node	compila-nodo
@@ -8527,6 +8556,7 @@ computed	computado
 computed	computarizado
 computedValue	valorCalculado
 computer	PC	Evita el uso de computador/a u ordenador
+computer	computadora
 computer	equipo
 computer	informático
 computer	sistema
@@ -8785,6 +8815,7 @@ content	contento
 content curator	editor de contenidos
 content curator	gestor de contenidos
 content curator	responsable de contenidos
+content-addressable	contenido localizable
 contention	contienda
 contest	concurso
 context	contexto
@@ -9204,6 +9235,7 @@ creativity	creatividad
 creator	creador
 creature	criatura
 cred	credibilidad
+credential cache	cache de credenciales
 credentials	credenciales
 credentials	poderes
 credit	crédito
@@ -11680,6 +11712,7 @@ development	elaboración
 development	explotación
 development	progreso
 development	urbanización
+development cycle	ciclo de desarrollo
 deviant	anormal
 deviant	anómalo
 deviant	desviado
@@ -11703,8 +11736,8 @@ devil	molestar
 devil's advocate	abogado del diablo
 devilish	diabólico
 devilry	travesura
-devious	retorcido
 devious	indirecto
+devious	retorcido
 devious	sinuoso
 devious	taimado
 devious	tortuoso
@@ -14316,6 +14349,7 @@ draw-dna	dibuja-adn
 draw-line	dibuja-linea
 drawable	dibujable
 drawable	extraíbles
+drawback	contrapartida
 drawback	desventaja
 drawback	inconveniente
 drawbridge	puente levadizo
@@ -15032,6 +15066,7 @@ décolletage	escote
 dénouement	desenlace
 détente	distensión
 e	éxtasis
+e-book	libro digital
 e-book	libro electrónico
 e-commerce	cibercomercio
 e-commerce	comercio electrónico
@@ -16708,12 +16743,12 @@ entries	entradas
 entries	ingresos
 entries	movimentos
 entrust	confiar
-entry	casilla
 entry	(table)	entrada (de tabla)
 entry	acceso
 entry	anotación
 entry	artículo
 entry	asiento
+entry	casilla
 entry	fila
 entry	ingreso
 entry	lugar
@@ -18955,6 +18990,7 @@ fast	resistente
 fast	rápido
 fast	sujeto
 fast food	comida rápida
+fast-forward	avance rápido
 fasten	abrochar
 fasten	atar
 fasten	cerrar
@@ -19900,6 +19936,7 @@ filcher	garduño
 filcher	ratero
 file	archivador
 file	archivar
+file	archivo
 file	archivo	(por consenso)
 file	cola
 file	ensartapapeles
@@ -20658,6 +20695,7 @@ flag	hacer señal de parada
 flag	indicador
 flag	lirio
 flag	losa
+flag	opción
 flag	pabellón
 flag-lily	lirio
 flag-waving	patriotismo de banderita
@@ -22730,6 +22768,7 @@ forward	reenviar
 forward	reexpedir
 forward	remitir
 forward chaining	encadenamiento progresivo
+forward slash	barra
 forward-looking	previsor
 forward-word	forward-word	comando: mueve el punto hacia adelante con las palabras ARG (hacia atrás si ARG es negativo).
 forwardable	redireccionable
@@ -28227,6 +28266,7 @@ hash	enmarañar
 hash	enredar
 hash	hachís	http://es.wikipedia.org/wiki/Hash
 hash	maraña
+hash	resumen
 hash	sofrito de carne
 hash access	acceso hash	nodo
 hash table type	tipo hash table	nodo
@@ -29865,7 +29905,6 @@ holder	macetero
 holder	poseedor
 holder	titular
 holdfast	dícese de lo que asegura o mantiene algo en su sitio
-holding	sociedad de participación
 holding	bienes
 holding	celebración
 holding	consorcio
@@ -29878,6 +29917,7 @@ holding	participación
 holding	poseción
 holding	propiedad
 holding	sociedad de cartera
+holding	sociedad de participación
 holding	sosteniendo
 holding	sostiene
 holding	tenencia
@@ -30436,6 +30476,7 @@ hosta	hosta
 hosta	planta de la familia de las malvas
 hostage	rehén
 hosted	alojada
+hosted	hospedado
 hostel	albergue
 hostel	hostal
 hostel	hostería
@@ -33262,6 +33303,7 @@ install	instalar
 installability	instalable
 installation	instalación
 installed	instalado
+installer	archivo instalador
 installing	instalación
 installing	instalando
 installment	entrega
@@ -34929,8 +34971,8 @@ joyrider	persona que roba un coche para darse una vuelta y luego abandonarlo
 joystick	joystick
 joystick	palanca de mando
 jpeg	Joint Photographic Experts Group	JPEG es un codec de compresión de imagenes que podemos ver por toda internet
-json	notación de objeto JavaScript
 json	JavaScript object notation
+json	notación de objeto JavaScript
 jsp	JavaServer Pages	JSP es un lenguaje de programación basado en Java que se ejecuta en el servidor.
 jsxref	JSxRef
 jubilant	alborozado
@@ -37708,6 +37750,7 @@ lights	conocimientos
 lights	luces
 lights	semáforo
 lightweight	de peso ligero
+lightweight	ligera
 lightweight	ligero
 ligneous	leñoso
 lignite	lignito
@@ -38681,10 +38724,10 @@ lopped	podaba
 lopsided	ladeado
 loquacious	locuaz
 loquat	árbol oriental de la familia de las rosáceas
-lord	señoría
 lord	castellano
 lord	ilustrísima
 lord	señor
+lord	señoría
 lordship	señor
 lordship	señoría
 lore	ciencia
@@ -39301,6 +39344,7 @@ machine	hacer con una máquina
 machine	máquina
 machine gun	ametralladora
 machine language	lenguaje de máquina
+machine parsing	analizada por otro programa
 machine translation	traducción automática
 machine-gun	ametralladora
 machinery	maquinaria
@@ -40542,6 +40586,7 @@ master	director
 master	dominar
 master	dueño
 master	jefe
+master	maestra
 master	maestro
 master	magistral
 master	patrón
@@ -41117,6 +41162,7 @@ mentioned	mencionadas
 mentioned	mencionado
 mentor	consejero
 mentor	mentor
+mentorship	tutorías	tutorías
 menu	menú
 menu bar	barra de menú	nodo
 meodosetla	genitivo plural de medusetl
@@ -41163,6 +41209,10 @@ merge	fusionar
 merge	fusión
 merge	integrar
 merge	mezclar
+merge	unir
+merge commit	confirmar fusión
+merge commit	fusión confirmada
+merge conflict	conflicto de fusión
 merge-accounts	combina-cuentas
 merge-lists	fusiona-listas
 merged	fusionado
@@ -43978,6 +44028,7 @@ newer	más reciente
 newfangled	moderno
 newfile	nuevoarchivo
 newfound	recién adquirido
+newline	retorno de carro
 newly	recientemente
 newlywed	recién casado
 newmark	nuevamarca
@@ -44571,16 +44622,16 @@ nougat	turrón
 nought	cero
 nought	nada
 noun	sustantivo
-noun phrase	locución nominal
 noun phrase	Gramática: frase que funciona como un sustantivo
 noun phrase	frase nominal
+noun phrase	locución nominal
 noun phrase	sintagma nominal
-noun-phrase	locución nominal
 noun-phrase	Gramática: frase que funciona como un sustantivo
 noun-phrase	frase nominal
+noun-phrase	locución nominal
 noun-phrase	sintagma nominal
-noun-phrases	locuciones nominales
 noun-phrases	frases nominale
+noun-phrases	locuciones nominales
 noun-phrases	sintgmas nominale
 nouns	sustantivos
 nourish	alimentar
@@ -46578,6 +46629,7 @@ package	paquete
 package deal	acuerdo general
 package manager	gestor de paquetes
 package-initialize	package-initialize	comando: carga paquetes Emacs Lisp y los activa.
+package-management	administración de paquetes
 package-name	nombre-paquete
 packaged	empacado
 packaged	empaquetado
@@ -49673,6 +49725,7 @@ pointed	significativo
 pointedly	directamente
 pointedly	enfáticamente
 pointer	aguja
+pointer	apuntador
 pointer	consejo
 pointer	fiel
 pointer	indicio
@@ -51936,6 +51989,7 @@ propose	ofrecer
 propose	pensar
 propose	proponer
 propose	sugerir
+proposed update	propuesta de actualización
 proposer	autor de una moción
 proposer	proponente
 proposition	hacer proposiciones deshonestas
@@ -52297,9 +52351,11 @@ pule	lloriquear
 pull	apretar
 pull	atraer
 pull	chupada
+pull	combinar
 pull	correr
 pull	extraer
 pull	fuerza
+pull	incorporar
 pull	influencia
 pull	recibir
 pull	recuperar e integrar
@@ -52307,6 +52363,8 @@ pull	sacar
 pull	sufrir un tirón
 pull	tirar
 pull	tirón
+pull	traer
+pull	traer y fusionar
 pull apart	desmontar
 pull apart	echar por tierra
 pull apart	separar
@@ -52602,6 +52660,7 @@ push	empujar
 push	empujón
 push	enviar
 push	impulsar
+push	llevar
 push	mandar
 push	ofensiva
 push	presión
@@ -53852,6 +53911,7 @@ re-examination	examen de recuperación
 re-examination	nuevo examen
 re-examine	volver a examinar
 re-implemented	reimplementar
+re-merge	refusionar
 reach	alcance
 reach	alcanzar
 reach	extenderse
@@ -54081,10 +54141,12 @@ rebar	barra de acero que se usa para reforzar el cemento
 rebarbative	irritante
 rebarbative	repelente
 rebase	reajusta
+rebase	reorganización
 rebase	reorganizar
 rebasing	reajuste
 rebasing	rebase
 rebasing	reorganización
+rebasing	reorganizando
 rebate	devolución
 rebate	rebaja
 rebate	reducción
@@ -54896,6 +54958,7 @@ regular	ordinario
 regular	persona que vive bajo una regla o instituto religioso
 regular	regular
 regular	soldado de línea
+regular expression	expresión regular
 regular expressions	expresiones regulares	nodo
 regularity	regularidad
 regularize	regularizar
@@ -55226,6 +55289,7 @@ remotely	remotamente
 remoteness	frialdad
 remoteness	improbabilidad
 remoteness	reserva
+remotes	remotos
 remould	neumático recauchutado
 remount	caballo fresco o descansado
 removable	de quita y pon
@@ -55798,8 +55862,8 @@ restrained	comedido
 restrained	sobrio
 restraint	moderación
 restraint	restricción
-restrict	restringir
 restrict	limitar
+restrict	restringir
 restricting	restringir
 restriction	restricción
 restriction feature, in pattern matching	características de restricción
@@ -56735,6 +56799,7 @@ root cellar	sótano donde se almacenan tubérculos
 root for	alentar
 root for	apoyar
 root for	gritar por
+root project tree	árbol raíz del proyecto
 root through	examinar
 root vegetable	legumbre de raíz
 rooted	arraigado
@@ -59189,9 +59254,9 @@ seaport	puerto de mar
 sear	chamuscar
 sear	marchitar
 sear	secar
-search	cachear
 search	buscar
 search	búsqueda
+search	cachear
 search and replace	buscar y reemplazar	nodo
 search data	buscar en los datos
 search engine	buscador
@@ -60081,6 +60146,8 @@ setting-up	establecimiento
 setting-up	fundación
 settings	ajustes
 settings	configuraciones
+settings	configuración
+settings	propiedades
 settle	acomodar
 settle	afincarse
 settle	ajustar
@@ -60583,6 +60650,7 @@ shell	esqueleto
 shell	intérprete de comandos
 shell	intérprete de ordenes
 shell	proyectil
+shell	terminal
 shell	terminal de ordenes
 shell arguments	argumentos del intérprete	nodo
 shell-shocked	que sufre neurosis de guerra
@@ -60886,6 +60954,7 @@ short bus	retrasado
 short fuse	genio
 short hand	taquigrafía
 short notice	con poco tiempo de aviso
+short status	estatus abreviado
 short-circuit	cortocircuito
 short-circuiting	cortocircuito
 short-hand	aberviados
@@ -62840,6 +62909,7 @@ snappy	elegante
 snappy	enérgico
 snappy	irascible
 snappy	rápido
+snapshot	copia instantánea
 snapshot	estado o situación en un determinado momento puntual
 snapshot	fotografía
 snapshot	instantánea
@@ -65409,6 +65479,7 @@ stash	oculto
 stash away	ir acumulando
 stash away	ocultar para uso futuro
 stashed	oculto
+stashing	esconder archivos
 stasis	detención del crecimiento
 stasis	equilibrio
 stasis	la circulación sanguínea o del contenido de los intestinos
@@ -69122,7 +69193,6 @@ teammate	compañero de equipo
 teamster	camionero
 teamwork	trabajo de equipo
 teapot	tetera
-tear	romper
 tear	aflicción
 tear	arrancar
 tear	desgarrar
@@ -69134,6 +69204,7 @@ tear	lágrima
 tear	precipitación
 tear	rasgar
 tear	rasgón
+tear	romper
 tear	rotura
 tear apart	desgarrar
 tear at	arañar
@@ -70123,6 +70194,7 @@ thought	opinión
 thought	pasado de think
 thought	pensamiento
 thoughtful	atento
+thoughtful	detallista
 thoughtful	pensativo
 thoughtful	previsor
 thoughtful	reflexivo
@@ -70206,9 +70278,11 @@ threatened	amenazado
 threatened	de peligro
 threatening	amenaza
 threatening	amenazador
+threatening	amenazante
 three	tres	el número
 three hundred	trescientos
 three-quarter	tres cuartos
+three-way merge	fusión a tres bandas
 threesome	grupo de tres personas
 threnody	canto fúnebre
 threnody	lamento
@@ -72279,6 +72353,7 @@ topic	(NO "tópico", que es asunto manido, "cliché", "common place")
 topic	asunto
 topic	cuestión
 topic	tema
+topic branch	rama puntual
 topical	actual
 topless	topless
 topmost	más alto
@@ -72497,7 +72572,9 @@ track	camino
 track	canción
 track	carril
 track	circuito
+track	controlar
 track	estadio
+track	hacer seguimiento
 track	hipódromo
 track	huellas
 track	pista
@@ -72510,9 +72587,11 @@ track meet	consurso de carreras y saltos
 trackback	enlace inverso que permite conocer cuales enlaces apuntan a un artículo
 trackball	bola de seguimiento
 tracked	bajo seguimiento
+tracked	rastreados
 tracker	rastreador
 tracking	rastreo
 tracking	seguimiento
+tracking branch	rama de seguimiento
 tracking down	rastrear
 trackless	impenetrable
 trackshoes	zapatillas de atletismo
@@ -72874,6 +72953,7 @@ trebuchet	fundíbulo
 trebuchet	máquina medieval para lanzar piedras
 trecing	rastreo
 tree	árbol
+tree object	objeto árbol
 tree trunk	tronco
 tree-depth	profundidad-del-árbol
 tree-find-if	árbol-encuentra-si
@@ -72913,6 +72993,7 @@ trend	moda
 trend	tendencia
 trendola	cosa de moda
 trendsetter	iniciador de nuevas modas
+trendy	a la moda
 trendy	de moda
 trendy	de última moda
 trendy	lo último
@@ -73251,8 +73332,8 @@ trump	pinte
 trump	triunfo
 trumped-up	falso
 trumped-up	inventado
-trumpery	fraude
 trumpery	engaño
+trumpery	fraude
 trumpery	frívolo
 trumpery	inútil
 trumpery	sin valor
@@ -74649,6 +74730,7 @@ union	unión
 union-recursively	unión-recursiva
 unionist	unionista
 unionize	sindicar
+unique	especial
 unique	irrepetible (en el mundo) (único es "only")
 unique	único
 unique_user_email	unique_usuario_correo_e
@@ -74732,6 +74814,7 @@ unmatched	incomparable
 unmemorable	no tiene nada especial
 unmemorables	inmemorables
 unmentionable	que no debe mencionarse
+unmerged	sin fusionar
 unmet	insatisfecha
 unmet	no satisfecha
 unmistakable	inconfundible
@@ -74991,6 +75074,7 @@ unstage	desinstalar
 unstage	impedir
 unstage	olvidar
 unstage	omitir
+unstaged	sin preparar
 unsteadiness	inestabilidad
 unsteady	inestable
 unsteady	poco estable
@@ -75073,6 +75157,7 @@ untoward	desfavorable
 untoward	funesto
 untoward	terco
 untrace	sin dejar rastro
+untracked	sin rastrear
 untracked	sin seguimiento
 untrained	inexperto
 untrained	no cualificado
@@ -75328,6 +75413,7 @@ uproot	mudar
 upscale	con muchos clientes
 upscaled	aumentada
 upscaled	mejorada
+upset	acongojado
 upset	afectado
 upset	afectar
 upset	apenado
@@ -75336,6 +75422,7 @@ upset	desbaratar
 upset	disgustado
 upset	disgustar
 upset	enfadar
+upset	moleto
 upset	sorpresa
 upset	trastornado
 upset	trastornar
@@ -76087,6 +76174,7 @@ verse	versículo
 versed	versado
 version	traducción
 version	versión
+version control system	sistema de control de versiones
 version info	información de la versión	nodo
 version information	información de versión	nodo
 version-number	numero-version
@@ -78763,7 +78851,9 @@ working	funcionando
 working	laborable
 working	laboral
 working	trabajando
+working directory	directorio de trabajo
 working example	ejemplo concreto
+working tree	directorio de trabajo
 workman	obrero
 workout	ejercicios
 workout	entrenamiento
@@ -79658,14 +79748,3 @@ zygote	cigoto
 —	barra horizontal
 ⇋	C-q C-i inserta un carácter de tabulación
 ﻿`	acento gravedistributivity	distributividaddisjointed
-webchat.freenode.net	channels=brackets
-Revísalas	Release_notes
-mentorship	tutorías	tutorías
-thoughtful	detallista
-threatening	amenazante
-trendy	a la moda
-unique	especial
-upset	moleto
-upset	acongojado
-binary opcode	código de operación binaria	código de operación binaria
-binary operation	operación binaria	se trata de un cálculo que involucra dos operandos

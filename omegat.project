@@ -13,7 +13,7 @@
             <mask>**/Thumbs.db</mask>
             <mask>**/.DS_Store</mask>
             <mask>**/~$*</mask>
-						<mask>_redirects.txt</mask>
+            <mask>_redirects.txt</mask>
         </source_dir_excludes>
         <target_dir>__DEFAULT__</target_dir>
         <tm_dir>__DEFAULT__</tm_dir>

@@ -165,6 +165,7 @@ Renderizará
 Rerenderiza
 Rescrita
 Revincular
+Revísalas
 Revísalo
 Royal
 Serialización
@@ -1494,6 +1495,7 @@ tabulaciones
 tematización
 tematizar
 temporización
+terminológicas
 termínala
 termínela
 tipada
@@ -1541,6 +1543,7 @@ unario
 unarios
 unibyte
 usabilidad
+usable
 usémosla
 usémoslas
 validador
