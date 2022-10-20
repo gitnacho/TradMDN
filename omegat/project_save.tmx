@@ -19127,6 +19127,22 @@ example.js:41 getArg 0 : 42
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Console output:
+// Object { parameters: (2) […] }
+//   parameters: Array [ "i32", "i64" ]
+//   &lt;prototype&gt;: Object { … }
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071607Z" creationid="gitnacho" creationdate="20221020T071607Z">
+        <seg>// Salida a consola:
+// Object { parameters: (2) […] }
+//   parameters: Array [ "i32", "i64" ]
+//   &lt;prototype&gt;: Object { … }
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Delete all caches that aren't named in CURRENT_CACHES.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T204003Z" creationid="gitnacho" creationdate="20221003T204003Z">
@@ -24393,6 +24409,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T211239Z" creationid="gitnacho" creationdate="20220911T211239Z">
         <seg>Un índice es una especie de almacén de objetos para buscar registros en otro almacén de objetos, denominado almacén de objetos referido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An object with a property named `parameters` that references the array of data types associated with this [`Tag`](/en-US/docs/WebAssembly/JavaScript_interface/Tag).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071523Z" creationid="gitnacho" creationdate="20221020T071428Z">
+        <seg>Un objeto con una propiedad llamada `parameters` que hace referencia al arreglo de tipos de datos asociados con esta etiqueta — [`Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35822,6 +35846,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The result is printed to the console:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071537Z" creationid="gitnacho" creationdate="20221020T071537Z">
+        <seg>El resultado se imprime en la consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The result of a preload fetch request is waited on using the promise returned by {{domxref("FetchEvent.preloadResponse")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T205108Z">
@@ -37361,6 +37393,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This code snippet creates a tag defining two data types and then exports them using `type()`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071533Z" creationid="gitnacho" creationdate="20221020T071533Z">
+        <seg>Este fragmento de código crea una etiqueta que define dos tipos de datos y luego los exporta usando `type()`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This code snippet is from the [service worker registration-events sample](https://github.com/GoogleChrome/samples/blob/gh-pages/service-worker/registration-events/index.html) ([live demo](https://googlechrome.github.io/samples/service-worker/registration-events/)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T213249Z" creationid="gitnacho" creationdate="20221003T213249Z">
@@ -37818,6 +37858,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122941Z" creationid="gitnacho" creationdate="20221003T122941Z">
         <seg>Este es un atributo booleano: la presencia de un atributo booleano en un elemento representa el valor `true` y la ausencia del atributo representa el valor `false`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a copy of the `type` object that was originally passed into the [`Tag()` constructor](/en-US/docs/WebAssembly/JavaScript_interface/Tag/Tag).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071442Z" creationid="gitnacho" creationdate="20221020T071442Z">
+        <seg>Esta es una copia del objeto `type` que se pasó originalmente al constructor [`Tag()`](/es/docs/WebAssembly/JavaScript_interface/Tag/Tag).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43928,6 +43976,18 @@ const tag = new WebAssembly.Tag({ parameters: ["i32", "i64"] });
         <seg>```js
 const tag = new WebAssembly.Tag({ parameters: ["i32", "i64"] });
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+const tag = new WebAssembly.Tag({ parameters: ["i32", "i64"] });
+console.log(tag.type());</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071539Z" creationid="gitnacho" creationdate="20221020T071539Z">
+        <seg>```js
+const tag = new WebAssembly.Tag({ parameters: ["i32", "i64"] });
+console.log(tag.type());</seg>
       </tuv>
     </tu>
     <tu>
