@@ -5207,6 +5207,22 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A great interactive site for learning programming languages from scratch.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175930Z" creationid="Nachec" creationdate="20221020T175930Z">
+        <seg>- : Un gran sitio interactivo para aprender lenguajes de programación desde cero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A great series of videos explaining web fundamentals, aimed at absolute beginners to web development.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175907Z" creationid="Nachec" creationdate="20221020T175907Z">
+        <seg>- : Una gran serie de videos que explican los fundamentos de la web, dirigida a principiantes absolutos en el desarrollo web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A historical alias to {{domxref("Event.stopPropagation()")}} that should be used instead.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T204715Z">
@@ -5449,6 +5465,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : An excellent resource for aspiring web developers — Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by automated assessment.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175833Z" creationid="Nachec" creationdate="20221020T175833Z">
+        <seg>- : Un excelente recurso para los aspirantes a desarrolladores web — aprende JavaScript en un entorno interactivo, con lecciones breves y pruebas interactivas, guiado por una evaluación automatizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : An object containing the values to be imported into the newly-created</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101857Z" creationid="gitnacho" creationdate="20221006T101857Z">
@@ -5533,6 +5557,22 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T073352Z" creationid="gitnacho" creationdate="20221002T073352Z">
         <seg>- : Argumento a resolver por esta `Promise`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Basic coding theory and practice, primarily aimed at children/complete beginners.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180008Z" creationid="Nachec" creationdate="20221020T180008Z">
+        <seg>- : Teoría y práctica de codificación básica, principalmente dirigida a niños/principiantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Basic coding theory with a gamified learning process.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175944Z" creationid="Nachec" creationdate="20221020T175944Z">
+        <seg>- : Teoría básica de la codificación con un proceso de aprendizaje ludificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6089,6 +6129,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Free and open courses for learning tech skills, with mentorship and project-based learning.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180109Z" creationid="Nachec" creationdate="20221020T180109Z">
+        <seg>- : Cursos gratuitos y abiertos para aprender habilidades tecnológicas, con tutorías y aprendizaje basado en proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Get started by reading the high-level concepts behind WebAssembly — what it is, why it is so useful, how it fits into the web platform (and beyond), and how to use it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T094625Z" creationid="gitnacho" creationdate="20221003T094625Z">
@@ -6393,6 +6441,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T205058Z" creationid="gitnacho" creationdate="20221011T205058Z">
         <seg>- : Inicializa el valor de un Evento creado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Interactive site with tutorials and projects to learn web development.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180120Z" creationid="Nachec" creationdate="20221020T180120Z">
+        <seg>- : Sitio interactivo con tutoriales y proyectos para aprender desarrollo web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11551,6 +11607,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [BitDegree](https://www.bitdegree.org/learn/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175932Z" creationid="Nachec" creationdate="20221020T175932Z">
+        <seg>- [BitDegree](https://www.bitdegree.org/learn/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Building up a basic demo with Three.js](/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Three.js)
 - [Building up a basic demo with Babylon.js](/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Babylon.js)
 - [Building up a basic demo with PlayCanvas](/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas)
@@ -11701,6 +11765,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Code.org](https://code.org/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175952Z" creationid="Nachec" creationdate="20221020T175952Z">
+        <seg>- [Code.org](https://code.org/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Codecademy](https://www.codecademy.com/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175918Z" creationid="Nachec" creationdate="20221020T175918Z">
+        <seg>- [Codecademy](https://www.codecademy.com/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Community guidelines](/en-US/docs/MDN/Community)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200533Z" creationid="gitnacho" creationdate="20221008T200533Z">
@@ -11791,6 +11871,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T043347Z" creationid="gitnacho" creationdate="20220925T043120Z">
         <seg>- [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [EXLskills](https://exlskills.com/learn-en/courses)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180009Z" creationid="Nachec" creationdate="20221020T180009Z">
+        <seg>- [EXLskills](https://exlskills.com/learn-en/courses)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12572,6 +12660,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Web demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175847Z" creationid="Nachec" creationdate="20221020T175847Z">
+        <seg>- [Web desmitificada](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Web forms — Working with user data](/en-US/docs/Learn/Forms)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131158Z" creationid="gitnacho" creationdate="20221020T131158Z">
@@ -13272,6 +13368,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112513Z" creationid="gitnacho" creationdate="20221003T112513Z">
         <seg>- [emscripten.org](https://emscripten.org/): obtén más información sobre Emscripten y su gran variedad de opciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [freeCodeCamp.org](https://www.freecodecamp.org/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180110Z" creationid="Nachec" creationdate="20221020T180110Z">
+        <seg>- [freeCodeCamp.org](https://www.freecodecamp.org/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31205,6 +31309,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mainly focused on beginners.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175951Z" creationid="Nachec" creationdate="20221020T175951Z">
+        <seg>Enfocado principalmente a principiantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make a [simple request](#simple_requests) (using {{domxref("Response.url")}} for the Fetch API, or {{domxref("XMLHttpRequest.responseURL")}}) to determine what URL the real preflighted request would end up at.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T225251Z">
@@ -35400,6 +35512,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063102Z" creationid="gitnacho" creationdate="20221004T063102Z">
         <seg>La parte final es esta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first 40 lessons are free, and the complete course is available for a small one-time payment.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175840Z" creationid="Nachec" creationdate="20221020T175840Z">
+        <seg>Las primeras 40 lecciones son gratuitas y el curso completo está disponible por un pequeño pago único.</seg>
       </tuv>
     </tu>
     <tu>
