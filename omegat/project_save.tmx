@@ -12110,6 +12110,34 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Mozilla developer newsletter](https://www.mozilla.org/en-US/newsletter/developer/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T174145Z" creationid="Nachec" creationdate="20221020T174145Z">
+        <seg>- [Boletín informativo para desarrolladores de Mozilla](https://www.mozilla.org/es/newsletter/developer/)
+  - : Nuestro boletín para desarrolladores web, es un excelente recurso para todos los niveles de experiencia.
+- [Aprende JavaScript](https://learnjavascript.online/)
+  - : Un excelente recurso para los aspirantes a desarrolladores web — aprende JavaScript en un entorno interactivo, con lecciones breves y pruebas interactivas, guiado por una evaluación automatizada. Las primeras 40 lecciones son gratuitas y el curso completo está disponible por un pequeño pago único.
+- [Web desmitificada](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
+  - : Una gran serie de videos que explican los fundamentos de la web, dirigida a principiantes absolutos en el desarrollo web. Creada por [Jérémie Patonnier](https://twitter.com/JeremiePat).
+- [Codecademy](https://www.codecademy.com/)
+  - : Un gran sitio interactivo para aprender lenguajes de programación desde cero.
+- [BitDegree](https://www.bitdegree.org/learn/)
+  - : Teoría básica de la codificación con un proceso de aprendizaje ludificado. Enfocado principalmente a principiantes.
+- [Code.org](https://code.org/)
+  - : Teoría y práctica de codificación básica, principalmente dirigida a niños/principiantes.
+- [EXLskills](https://exlskills.com/learn-en/courses)
+  - : Cursos gratuitos y abiertos para aprender habilidades tecnológicas, con tutorías y aprendizaje basado en proyectos.
+- [freeCodeCamp.org](https://www.freecodecamp.org/)
+  - : Sitio interactivo con tutoriales y proyectos para aprender desarrollo web.
+- [Mapa de alfabetización web](https://foundation.mozilla.org/en/initiatives/web-literacy/core-curriculum/)
+  - : Un marco de desarrollo para la alfabetización web a nivel de entrada y las habilidades del siglo XXI, que también brindan acceso a actividades de enseñanza clasificadas por categoría.
+- [Edabit](https://edabit.com/challenges/javascript)
+  - : Miles de desafíos interactivos de JavaScript.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Mozilla web security guidelines](https://infosec.mozilla.org/guidelines/web_security)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T063905Z" creationid="gitnacho" creationdate="20221012T063905Z">
@@ -28905,6 +28933,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you're interested in helping develop/improve the content, take a look at [how you can help](/en-US/docs/MDN/Contribute) and get in touch!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T174130Z" creationid="Nachec" creationdate="20221020T174130Z">
+        <seg>Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [cómo puedes ayudar](/es/docs/Learn/Como_Contribuir) y, ¡pónte en contacto!; estaremos más que felices de hablar contigo, bien seas un alumno, un maestro, un desarrollador web experimentado o alguien más, interesado en ayudar a mejorar la experiencia de aprendizaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you're just starting, you might be confused by the array of code editors, frameworks, and testing tools out there.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042643Z" creationid="gitnacho" creationdate="20220925T042643Z">
@@ -40559,6 +40595,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061856Z" creationid="gitnacho" creationdate="20221004T061856Z">
         <seg>No usaremos este código de prueba en absoluto, así que adelante, elimínalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'd like to hear from you about anything you think is wrong or missing on the site, requests for new learning topics, requests for help with items you don't understand, or any other questions or concerns.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T174044Z" creationid="Nachec" creationdate="20221020T174044Z">
+        <seg>Nos gustaría saber cualquier cosa de ti, si bien crees que algo está mal o falta en el sitio, o quieres solicitar nuevos temas de aprendizaje, solicitar ayuda con elementos que no comprendes o cualquier otra duda o inquietud que tengas.</seg>
       </tuv>
     </tu>
     <tu>
