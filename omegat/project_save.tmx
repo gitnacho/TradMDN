@@ -6179,8 +6179,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : If you have a bit of knowledge already, the next step is to learn {{glossary("HTML")}} and {{glossary("CSS")}} in detail: start with our [Introduction to HTML](/en-US/docs/Learn/HTML/Introduction_to_HTML) module and move on to our [CSS first steps](/en-US/docs/Learn/CSS/First_steps) module.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T232016Z" creationid="gitnacho" creationdate="20221012T232016Z">
-        <seg>- : Si ya tienes un poco de conocimiento, el siguiente paso es aprender {{Glossary("HTML")}} y {{Glossary("CSS")}} en detalle: comienza con nuestra [Introducción a HTML](/es/docs/Learn/HTML/Introduction_to_HTML) y pasa a nuestro módulo [Primeros pasos en CSS](/es/docs/Learn/CSS/First_steps).</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130205Z" creationid="gitnacho" creationdate="20221012T232016Z">
+        <seg>- : ¡Muy bien! Si ya tienes un poco de conocimiento en ese caso te sugerimos profundizar en el corazón de las tecnologías web. El siguiente paso es conocer en detalle {{Glossary("HTML")}} y {{Glossary("CSS")}}: empieza con el módulo de [Introducción a HTML](/es/docs/Learn/HTML) y sigue con el módulo de [primeros pasos en CSS](/es/docs/Learn/CSS/First_steps).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8274,8 +8274,8 @@ Actualice el repositorio usando el siguiente comando:
       <tuv lang="en-US">
         <seg>- Beyond the basics</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T231943Z" creationid="gitnacho" creationdate="20221012T231943Z">
-        <seg>- Mas allá de lo básico</seg>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130013Z" creationid="gitnacho" creationdate="20221012T231943Z">
+        <seg>- **Conozco la web:**</seg>
       </tuv>
     </tu>
     <tu>
