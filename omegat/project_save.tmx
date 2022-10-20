@@ -14762,6 +14762,18 @@ original_slug: WebAssembly/JavaScript_interface/Table/set
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- table length is still 2
+- content for index 0 is now a function which returns 42
+- content for index 1 is now a function which returns 83</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005600Z" creationid="gitnacho" creationdate="20221020T005600Z">
+        <seg>- la longitud de `table` sigue siendo 2
+- el contenido para el índice 0 ahora es una función que devuelve 42
+- el contenido del índice 1 ahora es una función que devuelve 83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- tag
 browser-compat: html.elements.script
 ---</seg>
@@ -23973,6 +23985,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After instantiating `table2.wasm`, `tbl` is updated with the following:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005532Z" creationid="gitnacho" creationdate="20221020T005532Z">
+        <seg>Después de instanciar `table2.wasm`, `tbl` se actualiza con lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After that, it is updated when:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T141338Z" creationid="gitnacho" creationdate="20221002T141338Z">
@@ -28490,6 +28510,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In `table2.html`, we create a `WebAssembly.Table`:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005430Z" creationid="gitnacho" creationdate="20221020T005430Z">
+        <seg>En `table2.html`, creamos una `WebAssembly.Table`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In a case like this it would be better to use HTML.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185634Z" creationid="gitnacho" creationdate="20221008T185634Z">
@@ -30857,6 +30885,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T051429Z" creationid="gitnacho" creationdate="20221004T051429Z">
         <seg>A continuación, definimos una función `storeInDatabase()` que activa una operación asíncrona para almacenar un determinado módulo `wasm` en una determinada base de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, we load and instantiate a WebAssembly module.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005450Z" creationid="gitnacho" creationdate="20221020T005450Z">
+        <seg>A continuación, cargamos e instanciamos un módulo WebAssembly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34036,6 +34072,14 @@ synchronously compile given WebAssembly binary code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `table2.wasm` module defines a table containing two functions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005457Z" creationid="gitnacho" creationdate="20221020T005457Z">
+        <seg>El módulo `table2.wasm` define una tabla que contiene dos funciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `timeline` readonly property of the {{domxref("Document")}} interface represents the default timeline of the current document.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221006T092401Z">
@@ -34585,6 +34629,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first function returns 42, and the second returns 83:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005505Z" creationid="gitnacho" creationdate="20221020T005505Z">
+        <seg>La primera función devuelve 42 y la segunda devuelve 83:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first helper function contained inside `instantiateCachedURL()` — `openDatabase()` — creates an object store for storing wasm modules, and also handles clearing out the database if the `dbVersion` is updated; it returns a promise resolving to the new database.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T051233Z" creationid="gitnacho" creationdate="20221004T051233Z">
@@ -35128,6 +35180,14 @@ are called asynchronously.</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T074038Z" creationid="gitnacho" creationdate="20221002T074038Z">
         <seg>El orden invertido de los registros se debe al hecho de que los controladores `then`
 se llaman asíncronamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The items at indexes 0 and 1 of the table are now callable [Exported WebAssembly Functions](/en-US/docs/WebAssembly/Exported_functions).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005649Z" creationid="gitnacho" creationdate="20221020T005649Z">
+        <seg>Los elementos en los índices 0 y 1 de la tabla ahora se pueden llamar [Funciones WebAssembly exportadas](/es/docs/WebAssembly/Exported_functions).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38629,6 +38689,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To call them, note that we must add the function invocation operator `()` after the `get()` call:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005716Z" creationid="gitnacho" creationdate="20221020T005716Z">
+        <seg>Para llamarlas, ten en cuenta que debemos agregar el operador de invocación de función `()` después de la llamada a `get()`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To check if cross origin isolation has been successful, you can test against the [`crossOriginIsolated`](/en-US/docs/Web/API/crossOriginIsolated) property available to window and worker contexts:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20220923T023809Z">
@@ -39325,6 +39393,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can retrieve the index contents using [`Table.prototype.get()`](/en-US/docs/WebAssembly/JavaScript_interface/Table/get):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005444Z" creationid="gitnacho" creationdate="20221020T005444Z">
+        <seg>Podemos recuperar el contenido del índice usando [`Table.prototype.get()`](/es/docs/WebAssembly/JavaScript_interface/Table/get):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can see it is of type `WebAssembly.Exception`, but if we didn't have the right tag we couldn't do much else.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023608Z" creationid="gitnacho" creationdate="20221008T023608Z">
@@ -39433,6 +39509,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064420Z" creationid="gitnacho" creationdate="20221004T064420Z">
         <seg>No le hemos indicado a Rust que optimice el tamaño en absoluto, y al hacerlo reduce _mucho_ el tamaño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We instantiate `table2.wasm` using the [`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) method:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005522Z" creationid="gitnacho" creationdate="20221020T005522Z">
+        <seg>Instanciamos `table2.wasm` usando el método [`WebAssembly.instantiateStreaming()`](/es/docs/WebAssembly/JavaScript_interface/instantiateStreaming):</seg>
       </tuv>
     </tu>
     <tu>
@@ -45202,6 +45286,14 @@ call_indirect $my_spicy_table (type $i32_to_void)
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005350Z" creationid="gitnacho" creationdate="20221020T005350Z">
         <seg>`table2.html`: Un archivo HTML que contiene JavaScript que crea una `WebAssembly.Table` ([código fuente](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.html))
 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`table2.wasm`: A WebAssembly module imported by the JavaScript code in `table2.html` ([source code](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.wat))</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005419Z" creationid="gitnacho" creationdate="20221020T005419Z">
+        <seg>`table2.wasm`: un módulo WebAssembly importado por el código JavaScript en `table2.html` ([código fuente](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.wat))</seg>
       </tuv>
     </tu>
     <tu>
