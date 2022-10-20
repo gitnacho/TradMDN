@@ -4739,8 +4739,6 @@ billion	millardo
 billionaire	multimillonario
 binary	binario
 binary file	archivo binario
-binary opcode	código binario de operación	código binario de operación
-binary operation	se trata de un cálculo que involucra dos operandos
 binary star	estrella binaria
 bind	atar
 bind	vínculo
@@ -79669,3 +79667,5 @@ trendy	a la moda
 unique	especial
 upset	moleto
 upset	acongojado
+binary opcode	código de operación binaria	código de operación binaria
+binary operation	operación binaria	se trata de un cálculo que involucra dos operandos
