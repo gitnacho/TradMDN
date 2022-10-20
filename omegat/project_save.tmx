@@ -8420,8 +8420,9 @@ original_slug: Web/HTTP/CORS
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T202714Z" creationid="gitnacho" creationdate="20221007T094357Z">
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081422Z" creationid="gitnacho" creationdate="20221007T094357Z">
         <seg>- Control flow
+  - Control de flujo
 ---</seg>
       </tuv>
     </tu>
@@ -33673,6 +33674,14 @@ code, returning whether the bytes form a valid wasm module (`true`) or not
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`br`** statement branches to a loop, block, or if.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081115Z" creationid="gitnacho" creationdate="20221020T081115Z">
+        <seg>La instrucción **`br`** se bifurca a un bucle, `block` o `if`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`controllerchange`** event of the
 {{domxref("ServiceWorkerContainer")}} interface fires when the document's associated
 {{domxref("ServiceWorkerRegistration")}} acquires a new
@@ -52686,8 +52695,8 @@ xhr.send();
 | ----------- | ------------- |
 | `block`     | `0x02`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T080935Z" creationid="gitnacho" creationdate="20221020T075652Z">
-        <seg>| Instrucción | Código de operación binario |
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081131Z" creationid="gitnacho" creationdate="20221020T075652Z">
+        <seg>| Instrucción | Código binario de operación |
 | ----------- | ------------- |
 | `block`     | `0x02`        |</seg>
       </tuv>
@@ -53567,6 +53576,22 @@ original_slug: WebAssembly/Funciones_Webassembly_Exportadas
   - Control de flujo
 reviewer: Nachec
 original_slug: WebAssembly/Reference/Control_flow/bloque
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">webassembly/reference/control_flow/br/index.md</prop>
+      <prop type="prev">- Reference</prop>
+      <prop type="next">{{WebAssemblySidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Control flow
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081522Z" creationid="gitnacho" creationdate="20221020T081522Z">
+        <seg>- Control flow
+  - Control de flujo
+reviewer: Nachec
+original_slug: WebAssembly/Reference/Control_flow/br
 ---</seg>
       </tuv>
     </tu>
