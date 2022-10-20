@@ -1,12 +1,12 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
+clamp	abrazadera
+clamp	afianzar
+clamp	sujetar	sujetar
+detachment	desprendimiento
+detachment	separación	separación
 eyedropper	cuentagotas
 header	cabecera	cabecera
 header	encabezado
 man-in-the-middle attack	ataque de intermediario
 mitm	ataque de intermediario	man-in-the-middle_attack
 pwa	aplicaciones web progresivas	Progresive web apps
-detachment	desprendimiento
-detachment	separación	separación
-clamp	sujetar	sujetar
-clamp	abrazadera
-clamp	afianzar	afianzar

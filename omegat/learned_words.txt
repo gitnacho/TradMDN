@@ -1,8 +1,4 @@
-APIs_Web
-CompileError
 Desafortunadamente
-Evento_controllerchange
-Figma
 Geolocalización
 Git
 Inicializa
@@ -14,7 +10,6 @@ Prerrequisitos
 Renderiza
 Renderizará
 WorkerNavigator
-_plataforma
 accesor
 ampliamente
 asincrónica
@@ -79,7 +74,6 @@ renderizar
 renderizará
 renderizarán
 reutilización
-scss
 semiexperimental
 serialización
 sincrónicamente

@@ -1,6 +1,7 @@
 API
 APIRef
 APIs
+APIs_Web
 Access
 Accessibility
 Add
@@ -58,6 +59,8 @@ Common_questions
 Commonly_used_macros
 Community
 Compat
+CompileError
+Compiling
 Complete_beginners_start_here
 Composing
 Concepts
@@ -104,10 +107,14 @@ Emscripten
 Encrypted_Media_Extensions_API
 Entender_el_formato_de_texto
 Entwickler
+Error.prototype.cause
+Error.prototype.message
+Error.prototype.name
 Errors
 Event
 Event.Event
 Event.bubbles
+Evento_controllerchange
 Events
 Exception
 Explorer
@@ -117,6 +124,7 @@ EyeDropper
 FTP
 Facebook
 Fetch
+Figma
 FileZilla
 Firefox
 FirefoxSidebar
@@ -176,6 +184,7 @@ JS
 JSON
 JSRef
 JSX
+JSxRef
 JavaScript
 JavaScript_
 JavaScript_basics
@@ -230,6 +239,7 @@ Multimedia_and_embedding
 Multiplication
 MyModule
 Nachec
+NativeError
 NavigationPreloadManager
 Navigator
 Navigator.registerProtocolHandler
@@ -278,6 +288,7 @@ Rust_a_wasm
 Rust_to_wasm
 S
 SCSS
+SDK
 SIMD
 SSL
 SVG
@@ -343,6 +354,9 @@ Using_the_JavaScript_API
 VIM
 WebAssembly
 WebAssembly.CompileError
+WebAssembly.CompileError.prototype.cause
+WebAssembly.CompileError.prototype.message
+WebAssembly.CompileError.prototype.name
 WebAssembly.Exception
 WebAssembly.Global
 WebAssembly.Instance
@@ -397,12 +411,14 @@ _macro_
 _multiplicación_
 _nombre
 _plantilla_
+_plataforma
 _puerto_
 _scripts_
 about.gitlab.com
 activate
 add
 age
+algunArchivo
 amp
 animations
 api
@@ -442,6 +458,7 @@ bytecode
 básico_
 c
 cacheFn
+cacheName
 cachés
 catch
 chat
@@ -480,10 +497,12 @@ discourse.mozilla.org
 div
 docs
 downloads
+downloads.html
 drawing
 dreamweaver.html
 dt
 débutants
+e.atack
 e.columnNumber
 e.fileName
 e.lineNumber
@@ -498,6 +517,7 @@ ejs
 ejs.co
 emacs
 emcc
+emscripten
 emscripten.org
 en.wikipedia.org
 end
@@ -535,6 +555,7 @@ fetch
 fetch.spec.whatwg.org
 fetchsoftworks.com
 fi
+fileName
 fileObject
 fileUrl
 filename
@@ -573,7 +594,11 @@ gulpjs.com
 gws_rd
 headers
 hello
+hello.c
 hello.ejs
+hello.html
+hello.js
+hello.wasm
 here
 hex_
 hexadecimal
@@ -597,6 +622,7 @@ images.png
 imghp
 import
 importObject
+include
 index.html
 inline
 instance
@@ -605,6 +631,7 @@ instanciamos
 instantiate
 instantiateCachedURL
 instantiateStreaming
+int
 internet
 intro
 issues
@@ -612,6 +639,7 @@ itrequest
 javascript.builtins.Promise.resolve
 javascript.builtins.WebAssembly
 javascript.builtins.WebAssembly.CompileError
+javascript.builtins.WebAssembly.CompileError.CompileError
 javascript.builtins.WebAssembly.Exception
 javascript.builtins.WebAssembly.Global
 javascript.builtins.WebAssembly.Global.Global
@@ -654,6 +682,7 @@ li
 libwebp
 licensing.png
 like
+lineNumber
 link
 list
 lo_primero_es_lo_primero_planificaci
@@ -685,6 +714,7 @@ mdn:mozilla.org
 mem
 memory
 memory.wasm
+message
 module.exports
 movingtohttps.com
 mozilla.org
@@ -694,6 +724,7 @@ myBuf
 my_module
 myapp.ejemplo.com
 myvar
+n
 name
 navigation
 nbsp
@@ -708,6 +739,8 @@ object
 objetos_file
 one
 ons
+optional_inline
+options
 origin
 origin.html
 origin_policy
@@ -731,6 +764,7 @@ plus.org
 png
 postMessage
 preload
+printf
 product
 products
 project
@@ -759,6 +793,7 @@ scan.png
 scm.com
 script
 scripts
+scss
 secure
 self.fonts
 sensors
@@ -779,12 +814,14 @@ speed
 src
 ssl
 standard
+standard_inline
 start
 started
 starten
 state
 statechange
 statechange_event
+stdio.h
 step
 storeInDatabase
 streaming
@@ -822,6 +859,7 @@ translator
 trap
 traps
 tree
+try
 ts
 tsx
 tw
