@@ -1088,6 +1088,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Getting our code examples</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131855Z" creationid="gitnacho" creationdate="20221020T131855Z">
+        <seg>## Obtener el código de los ejemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## GitHub live samples</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211926Z" creationid="gitnacho" creationdate="20221005T211926Z">
@@ -5961,6 +5969,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Even if you are concentrating on client-side web development, it is still useful to know how servers and server-side code features work.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131811Z" creationid="gitnacho" creationdate="20221020T131811Z">
+        <seg>- : Aunque te concentres en el desarrollo web de lado del cliente, sigue siendo útil saber cómo funcionan los servidores y las características del código de lado del servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Events are what you build Web apps to react to; for example, when a Web page finishes loading, or a user selects something, presses a key, resizes a window, submits a form, or pauses a video.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T094637Z" creationid="gitnacho" creationdate="20221002T094637Z">
@@ -7747,6 +7763,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T100901Z" creationid="gitnacho" creationdate="20221003T100735Z">
         <seg>- : Este objeto actúa como el espacio de nombres para todas las funciones relacionadas con WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : This topic covers the tools developers use to facilitate their work, such as cross-browser testing tools, linters, formatters, transformation tools, version control systems, deployment tools, and client-side JavaScript frameworks.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131723Z" creationid="gitnacho" creationdate="20221020T131723Z">
+        <seg>- : Este tema abarca las herramientas que los desarrolladores utilizan para facilitar su trabajo, como las herramientas de prueba entre navegadores, analizadores de errores de código fuente, formateadores, herramientas de transformación, sistemas de control de versiones, herramientas de despliegue y marcos de desarrollo JavaScript de lado del cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12224,6 +12248,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T094131Z">
         <seg>- [Seguridad](/es/docs/Web/Security)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Server-side website programming](/en-US/docs/Learn/Server-side)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131749Z" creationid="gitnacho" creationdate="20221020T131749Z">
+        <seg>- [Programación de lado del servidor](/es/docs/Learn/Server-side)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34990,6 +35022,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The code examples you'll encounter in the Learning Area are all [available on GitHub](https://github.com/mdn/learning-area/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131858Z" creationid="gitnacho" creationdate="20221020T131858Z">
+        <seg>The code examples you'll encounter in the Learning Area are all [available on GitHub](https://github.com/mdn/learning-area/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The code handles exceptions thrown from the {{domxref("fetch()")}} operation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T203634Z">
@@ -39208,6 +39248,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131417Z" creationid="gitnacho" creationdate="20221020T131417Z">
         <seg>Este tema te da todo lo que necesitas saber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This topic provides a general introduction to how the server-side works and detailed tutorials showing how to build up a server-side app using two popular frameworks: Django (Python) and Express (Node.js).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131840Z" creationid="gitnacho" creationdate="20221020T131840Z">
+        <seg>Este tema proporciona una introducción general a cómo funciona el lado del servidor y tutoriales detallados que muestran cómo construir una aplicación de lado del servidor utilizando dos marcos de desarrollo populares: Django (Python) y Express (Node.js).</seg>
       </tuv>
     </tu>
     <tu>
