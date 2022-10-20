@@ -4738,6 +4738,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Client hints** are a set of [HTTP request header](/en-US/docs/Web/HTTP/Headers) fields that a server can proactively request from a client to get information about the device, network, user, and user-agent-specific preferences.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205611Z" creationid="Nachec" creationdate="20221020T205611Z">
+        <seg>**Sugerencias de cliente** son un conjunto de campos [Cabecera de solicitud HTTP](/es/docs/Web/HTTP/Headers) que un servidor puede solicitar de manera proactiva a un cliente para obtener información sobre el dispositivo, la red, el usuario y preferencias específicas del agente de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Cross-Origin Resource Sharing** ({{Glossary("CORS")}}) is an {{Glossary("HTTP")}}-header based mechanism that allows a server to indicate any {{glossary("origin", "origins")}} (domain, scheme, or port) other than its own from which a browser should permit loading resources.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T103812Z" creationid="gitnacho" creationdate="20221011T212753Z">
@@ -10078,8 +10086,8 @@ reviewer: Nachec
         <seg>- Performance
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T084745Z" creationid="gitnacho" creationdate="20221012T084745Z">
-        <seg>- Rendimiento
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205505Z" creationid="gitnacho" creationdate="20221012T084745Z">
+        <seg>- Performance
 ---</seg>
       </tuv>
     </tu>
@@ -30278,6 +30286,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220902T062606Z" creationid="gitnacho" creationdate="20220902T062606Z">
         <seg>Da acceso al contenido Web a la ubicación del dispositivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has also been [removed](https://bugs.chromium.org/p/chromium/issues/detail?id=582750) from Chromium 95, and is deprecated in Safari.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205248Z" creationid="Nachec" creationdate="20221020T205248Z">
+        <seg>También se ha [eliminado](https://bugs.chromium.org/p/chromium/issues/detail?id=582750) de Chromium 95 y está obsoleto en Safari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54675,6 +54691,21 @@ translation_of: Web/HTTP/Client_hints
 translator: Nachec
 reviewer: Nachec
 original_slug: Web/HTTP/Client_hints
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">web/http/client_hints/index.md</prop>
+      <prop type="prev">- HTTP</prop>
+      <prop type="next">{{HTTPSidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Performance
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205533Z" creationid="Nachec" creationdate="20221020T205533Z">
+        <seg>- Performance
+  - Rendimiento
+reviewer: Nachec
 ---</seg>
       </tuv>
     </tu>
