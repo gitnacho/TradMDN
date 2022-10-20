@@ -79663,3 +79663,9 @@ zygote	cigoto
 webchat.freenode.net	channels=brackets
 Revísalas	Release_notes
 mentorship	tutorías	tutorías
+thoughtful	detallista
+threatening	amenazante
+trendy	a la moda
+unique	especial
+upset	moleto
+upset	acongojado
