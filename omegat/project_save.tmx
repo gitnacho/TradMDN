@@ -5373,8 +5373,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : After mastering the essentials of vanilla HTML, CSS, and JavaScript, you should learn about [client-side web development tools](/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools), and then consider digging into [client-side JavaScript frameworks](/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), and [server-side website programming](/en-US/docs/Learn/Server-side).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T181416Z" creationid="gitnacho" creationdate="20221020T123525Z">
-        <seg>- : ¡Excelente! Después de dominar los fundamentos del HTML, CSS y JavaScript puedes estar interesado en explorar las [Guías avanzadas](/es/docs/Web/Guide) y [Tutoriales](/es/docs/Web/Tutorials). Otra excelente idea es aprender sobre las [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools) y luego considera ahondar en los [marcos de desarrollo (*frameworks*) de JavaScript de lado del cliente](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), y la [Programación de sitios web de lado del servidor](/es/docs/Learn/Server-side). Finalmente deberías considerar [Contribuir al Área de Aprendizaje](/es/docs/Learn/Contribute).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T181738Z" creationid="gitnacho" creationdate="20221020T123525Z">
+        <seg>- : ¡Excelente! Después de dominar los fundamentos del HTML, CSS y JavaScript puedes estar interesado en explorar las [Guías avanzadas](/es/docs/Web/Guide) y [Tutoriales](/es/docs/Web/Tutorials). Otra excelente idea es aprender sobre las [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools) y luego considera ahondar en los [marcos de desarrollo (*frameworks*) de JavaScript de lado del cliente](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), y la [Programación de sitios web de lado del servidor](/es/docs/Learn/Server-side). Finalmente deberías considerar [Contribuir al Área de Aprendizaje](/es/docs/MDN/Contribute).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29079,8 +29079,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you're interested in helping develop/improve the content, take a look at [how you can help](/en-US/docs/MDN/Contribute) and get in touch!</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T174130Z" creationid="Nachec" creationdate="20221020T174130Z">
-        <seg>Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [cómo puedes ayudar](/es/docs/Learn/Como_Contribuir) y, ¡pónte en contacto!; estaremos más que felices de hablar contigo, bien seas un alumno, un maestro, un desarrollador web experimentado o alguien más, interesado en ayudar a mejorar la experiencia de aprendizaje.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T181918Z" creationid="Nachec" creationdate="20221020T174130Z">
+        <seg>Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [cómo puedes ayudar](/es/docs/MDN/Contribute) y, ¡pónte en contacto!; estaremos más que felices de hablar contigo, bien seas un alumno, un maestro, un desarrollador web experimentado o alguien más, interesado en ayudar a mejorar la experiencia de aprendizaje.</seg>
       </tuv>
     </tu>
     <tu>
