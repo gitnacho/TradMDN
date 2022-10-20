@@ -21108,6 +21108,16 @@ drop</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>;; grow the memory by 3 pages
+memory.grow</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220006Z" creationid="Nachec" creationdate="20221020T220006Z">
+        <seg>;; aumenta la memoria en 3 páginas
+memory.grow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;; import function that will be referred to here as $throwExnWithStack</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204057Z" creationid="gitnacho" creationdate="20221019T204057Z">
@@ -21176,6 +21186,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083220Z" creationid="gitnacho" creationdate="20221020T083220Z">
         <seg>;; el elemento superior de la pila ahora será `2`
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>;; the top item on the stack will now either be `1` (success) or `-1` (failure)
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220023Z" creationid="Nachec" creationdate="20221020T220023Z">
+        <seg>;; el elemento superior de la pila ahora será `1` (éxito) o `-1` (fallo)
 ```</seg>
       </tuv>
     </tu>
@@ -46896,8 +46916,8 @@ unreachable
       <tuv lang="en-US">
         <seg>`select (result T)` uses a different binary opcode, and allows types besides those introduced by the WebAssembly MVP (`i32`, `i64`, `f32`, `f64`), for example, it allows selection between two `externref` values.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211310Z" creationid="Nachec" creationdate="20221020T211310Z">
-        <seg>`select (result T)` usa un código binario de operación diferente y permite tipos además de los introducidos por WebAssembly MVP (`i32`, `i64`, `f32`, `f64`), por ejemplo, permite la selección entre dos valores de referencia externa — `externref`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220518Z" creationid="Nachec" creationdate="20221020T211310Z">
+        <seg>`select (result T)` usa un código de operación binaria diferente y permite tipos además de los introducidos por WebAssembly MVP (`i32`, `i64`, `f32`, `f64`), por ejemplo, permite la selección entre dos valores de referencia externa — `externref`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54140,8 +54160,8 @@ console.log(uintc8FromIterable);
 | `call`          | `0x10`        |
 | `call_indirect` | `0x11`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T082901Z" creationid="gitnacho" creationdate="20221020T082901Z">
-        <seg>| Instrucción     | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="gitnacho" creationdate="20221020T082901Z">
+        <seg>| Instrucción     | Código de operación binaria |
 | --------------- | ------------- |
 | `call`          | `0x10`        |
 | `call_indirect` | `0x11`        |</seg>
@@ -54151,10 +54171,22 @@ console.log(uintc8FromIterable);
       <tuv lang="en-US">
         <seg>| Instruction   | Binary opcode |
 | ------------- | ------------- |
+| `memory.grow` | `0x40`        |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="Nachec" creationdate="20221020T220240Z">
+        <seg>| Instrucción | Código de operación binaria |
+| ------------- | ------------- |
+| `memory.grow` | `0x40`        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Instruction   | Binary opcode |
+| ------------- | ------------- |
 | `unreachable` | `0x00`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T212058Z" creationid="Nachec" creationdate="20221020T212058Z">
-        <seg>| instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="Nachec" creationdate="20221020T212058Z">
+        <seg>| instrucción | Código de operación binaria |
 | ------------- | ------------- |
 | `unreachable` | `0x00`        |</seg>
       </tuv>
@@ -54165,8 +54197,8 @@ console.log(uintc8FromIterable);
 | ----------- | ------------- |
 | `block`     | `0x02`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081131Z" creationid="gitnacho" creationdate="20221020T075652Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="gitnacho" creationdate="20221020T075652Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `block`     | `0x02`        |</seg>
       </tuv>
@@ -54179,8 +54211,8 @@ console.log(uintc8FromIterable);
 | `br_if`     | `0x0d`        |
 | `br_table`  | `0x0e`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081813Z" creationid="gitnacho" creationdate="20221020T081813Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="gitnacho" creationdate="20221020T081813Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `br`        | `0x0c`        |
 | `br_if`     | `0x0d`        |
@@ -54193,8 +54225,8 @@ console.log(uintc8FromIterable);
 | ----------- | ------------- |
 | `drop`      | `0x1a`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083255Z" creationid="gitnacho" creationdate="20221020T083255Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="gitnacho" creationdate="20221020T083255Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `drop`      | `0x1a`        |</seg>
       </tuv>
@@ -54205,8 +54237,8 @@ console.log(uintc8FromIterable);
 | ----------- | ------------- |
 | `end`       | `0x0b`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083719Z" creationid="gitnacho" creationdate="20221020T083719Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="gitnacho" creationdate="20221020T083719Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `end`       | `0x0b`        |</seg>
       </tuv>
@@ -54236,8 +54268,8 @@ console.log(uintc8FromIterable);
 | `if`        | `0x04`        |
 | `else`      | `0x05`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084135Z" creationid="gitnacho" creationdate="20221020T084135Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="gitnacho" creationdate="20221020T084135Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `if`        | `0x04`        |
 | `else`      | `0x05`        |</seg>
@@ -54249,8 +54281,8 @@ console.log(uintc8FromIterable);
 | ----------- | ------------- |
 | `loop`      | `0x03`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085101Z" creationid="gitnacho" creationdate="20221020T085101Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="gitnacho" creationdate="20221020T085101Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `loop`      | `0x03`        |</seg>
       </tuv>
@@ -54261,8 +54293,8 @@ console.log(uintc8FromIterable);
 | ----------- | ------------- |
 | `nop`       | `0x01`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090240Z" creationid="gitnacho" creationdate="20221020T090240Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="gitnacho" creationdate="20221020T090240Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `nop`       | `0x01`        |</seg>
       </tuv>
@@ -54273,8 +54305,8 @@ console.log(uintc8FromIterable);
 | ----------- | ------------- |
 | `return`    | `0x0f`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210530Z" creationid="Nachec" creationdate="20221020T210530Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="Nachec" creationdate="20221020T210530Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `return`    | `0x0f`        |</seg>
       </tuv>
@@ -54286,8 +54318,8 @@ console.log(uintc8FromIterable);
 | `select`    | `0x1b`        |
 | `select t`  | `0x1c`        |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210928Z" creationid="Nachec" creationdate="20221020T210928Z">
-        <seg>| Instrucción | Código binario de operación |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T220449Z" creationid="Nachec" creationdate="20221020T210928Z">
+        <seg>| Instrucción | Código de operación binaria |
 | ----------- | ------------- |
 | `select`    | `0x1b`        |
 | `select t`  | `0x1c`        |</seg>
