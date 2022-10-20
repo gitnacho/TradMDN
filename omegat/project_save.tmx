@@ -16946,8 +16946,8 @@ title: Compiling a New C/C++ Module to WebAssembly
 slug: WebAssembly/C_to_wasm
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T105056Z" creationid="gitnacho" creationdate="20221003T105056Z">
-        <seg>---
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000847Z" creationid="gitnacho" creationdate="20221003T105056Z">
+        <seg> ---
 title: Compilar un nuevo módulo C/C++ a WebAssembly
 slug: WebAssembly/C_to_wasm
 tags:</seg>
