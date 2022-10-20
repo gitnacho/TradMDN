@@ -33868,6 +33868,14 @@ synchronously compile given WebAssembly binary code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `WebAssembly.Table` contents are populated using a WebAssembly module and are accessible from JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005213Z" creationid="gitnacho" creationdate="20221020T005213Z">
+        <seg>El contenido de `WebAssembly.Table` se rellena mediante un módulo WebAssembly y es accesible desde JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `Worker` can send back information to the thread that spawned it using the {{domxref("DedicatedWorkerGlobalScope.postMessage")}} method.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221007T115448Z">
@@ -34795,6 +34803,16 @@ obtiene un módulo `.wasm` y lo convierte en un arreglo tipado.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T180637Z" creationid="gitnacho" creationdate="20221007T180637Z">
         <seg>El siguiente ejemplo compila el código de bytes `simple.wasm` cargado usando `compile()` y luego lo envía a un [*worker*](/es/docs/Web/API/Web_Workers_API) usando [postMessage()](/es/docs/Web/API/Worker/postMessage ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following example creates a `WebAssembly.Table` instance with an initial size of 2
+elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005150Z" creationid="gitnacho" creationdate="20221020T005150Z">
+        <seg>El siguiente ejemplo crea una instancia `WebAssembly.Table` con un tamaño inicial de 2
+elementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37354,6 +37372,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140743Z" creationid="gitnacho" creationdate="20221019T140743Z">
         <seg>Este ejemplo muestra la creación de una excepción usando una simple etiqueta `tag`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This example uses the following reference files:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005257Z" creationid="gitnacho" creationdate="20221020T005257Z">
+        <seg>Este ejemplo utiliza los siguientes archivos de referencia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40356,6 +40382,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054210Z" creationid="gitnacho" creationdate="20221012T054210Z">
         <seg>Cuando se usa como parte de una respuesta a una solicitud de preverificación, indica si la solicitud real se puede realizar o no con credenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When viewing the [live example](https://mdn.github.io/webassembly-examples/js-api-examples/table2.html), open your developer console to display console log messages from the code snippets below.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005252Z" creationid="gitnacho" creationdate="20221020T005252Z">
+        <seg>Al ver el [ejemplo en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/table2.html), abre tu consola de desarrollador para mostrar los mensajes de registro de la consola de los fragmentos de código a continuación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45158,6 +45192,16 @@ call_indirect $my_spicy_table (type $i32_to_void)
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073834Z" creationid="gitnacho" creationdate="20221007T073834Z">
         <seg>`shared1.wat`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`table2.html`: An HTML file containing JavaScript that creates a `WebAssembly.Table` ([source code](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.html))
+2.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005350Z" creationid="gitnacho" creationdate="20221020T005350Z">
+        <seg>`table2.html`: Un archivo HTML que contiene JavaScript que crea una `WebAssembly.Table` ([código fuente](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.html))
+2.</seg>
       </tuv>
     </tu>
     <tu>
