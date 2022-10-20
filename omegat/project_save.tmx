@@ -22838,6 +22838,14 @@ Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [có
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Our [glossary](/en-US/docs/Glossary) provides terminology definitions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124135Z" creationid="gitnacho" creationdate="20221020T124135Z">
+        <seg>&gt; **Nota:** Nuestro [glosario](/es/docs/Glossary) proporciona definiciones terminológicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Pay attention to the post-install note about needing cargo's `bin` directory in your system `PATH`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061509Z" creationid="gitnacho" creationdate="20221004T061509Z">
