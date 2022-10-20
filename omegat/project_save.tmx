@@ -18744,6 +18744,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: return
+slug: WebAssembly/Reference/Control_flow/return
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T120619Z" creationid="gitnacho" creationdate="20221020T120619Z">
+        <seg>---
+title: return
+slug: WebAssembly/Reference/Control_flow/return
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: setInterval()
 slug: Web/API/setInterval
 page-type: web-api-global-function
@@ -47219,6 +47233,14 @@ console.log(`original === cast ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>console.log(e.name); // "CompileError"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T120613Z" creationid="gitnacho" creationdate="20221020T120613Z">
+        <seg>console.log(e.name); // "CompileError"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>console.log(e.name); // "LinkError"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T120812Z" creationid="gitnacho" creationdate="20221019T120812Z">
@@ -52168,6 +52190,16 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080428Z" creationid="gitnacho" creationdate="20221002T080428Z">
         <seg>throw new TypeError('Throwing');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>throw new WebAssembly.CompileError("Hello", "someFile", 10);
+} catch (e) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T120606Z" creationid="gitnacho" creationdate="20221020T120606Z">
+        <seg>throw new WebAssembly.CompileError("Hello", "someFile", 10);
+} catch (e) {</seg>
       </tuv>
     </tu>
     <tu>
