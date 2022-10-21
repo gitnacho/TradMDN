@@ -5765,6 +5765,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A [`&lt;length-percentage&gt;`](/en-US/docs/Web/CSS/length-percentage) used as a [font-size](/en-US/docs/Web/CSS/font-size) for the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214109Z" creationid="Nachec" creationdate="20221021T214109Z">
+        <seg>- : Un porcentaje de longitud [`&lt;length-percentage&gt;`](/es/docs/Web/CSS/length-percentage) utilizado como [font-size](/es/docs/Web/CSS/font-size) para el elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A [`Response`](/en-US/docs/Web/API/Response)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101731Z" creationid="gitnacho" creationdate="20221006T101153Z">
@@ -5793,6 +5801,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213945Z" creationid="Nachec" creationdate="20221021T213945Z">
         <seg>- : Un color de fondo —[background-color](/es/docs/Web/CSS/background-color)— para el elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A [color](/en-US/docs/Web/CSS/color) for the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214001Z" creationid="Nachec" creationdate="20221021T214001Z">
+        <seg>- : Un [color](/es/docs/Web/CSS/color) para el elemento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5925,6 +5941,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T103532Z" creationid="gitnacho" creationdate="20221003T095047Z">
         <seg>- : Uno de los principales casos de uso para WebAssembly es tomar las librerías existentes del ecosistema C y permitir que los desarrolladores las usen en la web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A cryptographic nonce ("number used once") which can be used by [Content Security Policy](/en-US/docs/Web/HTTP/CSP) to determine whether or not a given fetch will be allowed to proceed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214227Z" creationid="Nachec" creationdate="20221021T214227Z">
+        <seg>- : Un nonce criptográfico ("número utilizado una vez") que puede utilizar la [Política de seguridad de contenido](/es/docs/Web/HTTP/CSP) para determinar si se permitirá o no proceder a una determinada búsqueda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9031,6 +9055,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T052011Z" creationid="gitnacho" creationdate="20221004T052011Z">
         <seg>- Una versión de caché que, como explicamos anteriormente, debes actualizar cuando cualquier módulo `wasm` se actualice o se mueva a una URL diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- A logical classes of token elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214123Z" creationid="Nachec" creationdate="20221021T214123Z">
+        <seg>- Una clase lógica de elementos token.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14943,12 +14975,44 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [`mathcolor`](/en-US/docs/Web/MathML/Global_attributes/mathcolor)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213951Z" creationid="Nachec" creationdate="20221021T213951Z">
+        <seg>- [`mathcolor`](/es/docs/Web/MathML/Global_attributes/mathcolor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`mathsize`](/en-US/docs/Web/MathML/Global_attributes/mathsize)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214006Z" creationid="Nachec" creationdate="20221021T214006Z">
+        <seg>- [`mathsize`](/es/docs/Web/MathML/Global_attributes/mathsize)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`mathvariant`](/en-US/docs/Web/MathML/Global_attributes/mathvariant)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214116Z" creationid="Nachec" creationdate="20221021T214116Z">
+        <seg>- [`mathvariant`](/es/docs/Web/MathML/Global_attributes/mathvariant)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [`non-standard_header`](https://github.com/mdn/yari/blob/main/kumascript/macros/Non-standard_Header.ejs): `\{{Non-standard_Header}}` {{Non-standard_Header}}
 - [`SeeCompatTable`](https://github.com/mdn/yari/blob/main/kumascript/macros/SeeCompatTable.ejs) should be used on pages that document [experimental features](/en-US/docs/MDN/Writing_guidelines/Experimental_deprecated_obsolete#experimental).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221005T115513Z">
         <seg>- [`non-standard_header`](https://github.com/mdn/yari/blob/main/kumascript/macros/Non-standard_Header.ejs): `\{{Non-standard_Header}}` {{Non-standard_Header}}
 - [`SeeCompatTable`](https://github.com/mdn/yari/blob/main/kumascript/macros/SeeCompatTable.ejs) se debe usar en páginas que documentan [características experimentales](/es/docs/MDN/Writing_guidelines/Experimental_deprecated_obsolete#experimental).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`nonce`](/en-US/docs/Web/HTML/Global_attributes/nonce)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214129Z" creationid="Nachec" creationdate="20221021T214129Z">
+        <seg>- [`nonce`](/es/docs/Web/HTML/Global_attributes/nonce)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14965,6 +15029,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094756Z" creationid="gitnacho" creationdate="20221007T094756Z">
         <seg>- [`return`](/es/docs/WebAssembly/Reference/Control_flow/return)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`scriptlevel`](/en-US/docs/Web/MathML/Global_attributes/scriptlevel)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214233Z" creationid="Nachec" creationdate="20221021T214233Z">
+        <seg>- [`scriptlevel`](/es/docs/Web/MathML/Global_attributes/scriptlevel)</seg>
       </tuv>
     </tu>
     <tu>
