@@ -28056,6 +28056,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As expected, the formula is no longer centered and the rendering is modified to minimized the height.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105805Z" creationid="Nachec" creationdate="20221021T105805Z">
+        <seg>Como era de esperar, la fórmula ya no está centrada y el renderizado se modifica para minimizar la altura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As explained on the [MathML Fonts](/en-US/docs/Web/MathML/Fonts) article, mathematical fonts are instrumental to render MathML content.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075521Z" creationid="Nachec" creationdate="20221021T075521Z">
@@ -58136,6 +58144,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061636Z" creationid="Nachec" creationdate="20221021T061636Z">
         <seg>{{ EmbedLiveSample('Fraction_without_bar', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Large_operator_and_limits', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105540Z" creationid="Nachec" creationdate="20221021T105540Z">
+        <seg>{{ EmbedLiveSample('Large_operator_and_limits', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
