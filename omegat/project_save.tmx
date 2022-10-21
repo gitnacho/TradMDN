@@ -4290,6 +4290,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Upstream packages</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201850Z" creationid="Nachec" creationdate="20221021T201850Z">
+        <seg>#### Paquetes ascendentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Using JSON as a macro parameter</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065336Z" creationid="gitnacho" creationdate="20221005T065336Z">
@@ -26292,6 +26300,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Noto Sans Math provides good Unicode coverage for math symbols and [Google plans to add support for math layout features](https://github.com/notofonts/math/issues/14#issuecomment-1161414446).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202035Z" creationid="Nachec" creationdate="20221021T202035Z">
+        <seg>&gt; **Nota:** Noto Sans Math brinda una buena cobertura Unicode para símbolos matemáticos y [Google planea agregar soporte para funciones de diseño matemático](https://github.com/notofonts/math/issues/14#issuecomment-1161414446).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Older versions of the specification referred to:
 &gt;
 &gt; - {{Glossary("General header")}}: Headers applying to both requests and responses but with no relation to the data eventually transmitted in the body.</seg>
@@ -28086,6 +28102,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210037Z" creationid="gitnacho" creationdate="20221006T210037Z">
         <seg>Agregue un elemento `&lt;script&gt;&lt;/script&gt;` a la página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a fontconfig configuration `/etc/fonts/conf.avail/09-texlive-fonts.conf` that points to the `opentype` directory of TeXLive, such as:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201821Z" creationid="Nachec" creationdate="20221021T201821Z">
+        <seg>Agrega una configuración de fontconfig `/etc/fonts/conf.avail/09-texlive-fonts.conf` que apunte al directorio `opentype` de TeXLive, como:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30104,6 +30128,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a `~/.fonts` if it does not exist already and place `latinmodern-math.otf` and `STIXTwoMath-Regular.otf` in that directory.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201941Z" creationid="Nachec" creationdate="20221021T201941Z">
+        <seg>Crea un `~/.fonts` si aún no existe y coloca `latinmodern-math.otf` y `STIXTwoMath-Regular.otf` en ese directorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a new copy of our [HTML template](https://github.com/mdn/webassembly-examples/blob/master/template/template.html) in the same directory and call it `table.html`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233344Z" creationid="gitnacho" creationdate="20221006T233344Z">
@@ -30344,6 +30376,14 @@ gestor de paquetes.</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T141017Z" creationid="gitnacho" creationdate="20221002T141017Z">
         <seg>Descarga
 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download [latinmodern-math-1959.zip](https://www.gust.org.pl/projects/e-foundry/lm-math/download/latinmodern-math-1959.zip) and [static_otf.zip](https://raw.githubusercontent.com/stipub/stixfonts/master/zipfiles/static_otf.zip).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201924Z" creationid="Nachec" creationdate="20221021T201924Z">
+        <seg>Descarga [latinmodern-math-1959.zip](https://www.gust.org.pl/projects/e-foundry/lm-math/download/latinmodern-math-1959.zip) y [static_otf.zip ](https://raw.githubusercontent.com/stipub/stixfonts/master/zipfiles/static_otf.zip).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30847,6 +30887,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, add this configuration file to the system font location list and regenerate the fontconfig cache:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201844Z" creationid="Nachec" creationdate="20221021T201844Z">
+        <seg>Finalmente, agrega este archivo de configuración a la lista de ubicaciones de fuentes del sistema y regenera la caché `fontconfig`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally, read the MathML source to verify whether that corresponds to your expectation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103755Z" creationid="Nachec" creationdate="20221021T103755Z">
@@ -31202,6 +31250,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T104645Z" creationid="gitnacho" creationdate="20221005T104645Z">
         <seg>Por ejemplo, no es necesario traducir un glosario o un vínculo de referencia creado con una macro: en otras configuraciones regionales, se vinculará automáticamente a la versión correcta del archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example on Mageia:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201749Z" creationid="Nachec" creationdate="20221021T201749Z">
+        <seg>Por ejemplo en Mageia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32554,6 +32610,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, you will likely need to ensure that these fonts are known by your system.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201803Z" creationid="Nachec" creationdate="20221021T201803Z">
+        <seg>Sin embargo, es probable que debas asegurarte de que tu sistema conozca estas fuentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IANA also maintains a [registry of proposed new HTTP message headers](https://www.iana.org/assignments/message-headers/message-headers.xhtml#prov-headers).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T065425Z" creationid="gitnacho" creationdate="20221012T064404Z">
@@ -32779,6 +32843,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T210517Z">
         <seg>Si no se encuentra ninguna coincidencia en la caché, el código devuelve la respuesta precargada resuelta ({{DOMxRef("FetchEvent.preloadResponse")}}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If no packages are available on your Linux distributions, or if you just want to install upstream packages then try this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201911Z" creationid="Nachec" creationdate="20221021T201911Z">
+        <seg>Si no hay paquetes disponibles en tus distribuciones de Linux, o si solo deseas instalar paquetes ascendentes, intenta esto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37180,6 +37252,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On other systems, consider installing a [font with a MATH table](#fonts_with_a_math_table) using your package manager.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202144Z" creationid="Nachec" creationdate="20221021T202144Z">
+        <seg>En otros sistemas, considera instalar una [fuente con una tabla MATH](#fuentes_en_una_tabla_math) usando tu administrador de paquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On receiving an event, the worker returns the resource from a cache if it is present, or otherwise fetches the resource from the remote server (storing a copy for returning in future requests).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053007Z" creationid="gitnacho" creationdate="20220922T205533Z">
@@ -37820,6 +37900,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062604Z" creationid="gitnacho" creationdate="20221019T062604Z">
         <seg>Haz clic con el botón derecho en la imagen (Ctrl+clic en una Mac), elige _Guardar imagen como..._ y elige un lugar seguro para guardar tu imagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run `fc-cache -f` to regenerate the fontconfig cache.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201958Z" creationid="Nachec" creationdate="20221021T201958Z">
+        <seg>Ejecuta `fc-cache -f` para regenerar la caché `fontconfig`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47954,6 +48042,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091831Z" creationid="gitnacho" creationdate="20221012T091831Z">
         <seg>Es posible que prefieras omitir la especificación de {{HTTPHeader("Vary")}} o usar alguna otra estrategia para los encabezados de sugerencia de cliente donde el valor cambia mucho, ya que esto hace que el recurso no se pueda almacenar en caché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must use the [MathML-fonts add-on](https://addons.mozilla.org/firefox/addon/mathml-fonts/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202009Z" creationid="Nachec" creationdate="20221021T202009Z">
+        <seg>Debes utilizar el [complemento MathML-fonts](https://addons.mozilla.org/firefox/addon/mathml-fonts/).</seg>
       </tuv>
     </tu>
     <tu>
