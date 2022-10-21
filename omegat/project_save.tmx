@@ -1392,6 +1392,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## MathML tabular elements</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090542Z" creationid="Nachec" creationdate="20221021T090542Z">
+        <seg>## Elementos tabulares de MathML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Memory</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181919Z" creationid="gitnacho" creationdate="20221006T181919Z">
@@ -18685,6 +18693,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: MathML tables
+slug: Learn/MathML/First_steps/Tables
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090400Z" creationid="Nachec" creationdate="20221021T090400Z">
+        <seg>---
+title: Tablas MathML
+slug: Learn/MathML/First_steps/Tables
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Microsoft API extensions
 slug: Web/API/Microsoft_Extensions
 page-type: landing-page
@@ -22296,6 +22318,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/mrow&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090608Z" creationid="Nachec" creationdate="20221021T090608Z">
+        <seg>&lt;/mrow&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/msqrt&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060535Z" creationid="Nachec" creationdate="20221021T060535Z">
@@ -22314,6 +22348,38 @@ i32.mul</seg>
 &lt;/math&gt;
 &lt;br /&gt;
 &lt;math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/msub&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090549Z" creationid="Nachec" creationdate="20221021T090549Z">
+        <seg>&lt;/msub&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/mtable&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090556Z" creationid="Nachec" creationdate="20221021T090556Z">
+        <seg>&lt;/mtable&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/mtd&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090546Z" creationid="Nachec" creationdate="20221021T090546Z">
+        <seg>&lt;/mtd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/mtr&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090550Z" creationid="Nachec" creationdate="20221021T090550Z">
+        <seg>&lt;/mtr&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23312,6 +23378,78 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;T&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090620Z" creationid="Nachec" creationdate="20221021T090620Z">
+        <seg>&lt;mi&gt;T&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;a&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090545Z" creationid="Nachec" creationdate="20221021T090545Z">
+        <seg>&lt;mi&gt;a&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;b&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090551Z" creationid="Nachec" creationdate="20221021T090551Z">
+        <seg>&lt;mi&gt;b&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;c&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090546Z" creationid="Nachec" creationdate="20221021T090546Z">
+        <seg>&lt;mi&gt;c&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;d&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090552Z" creationid="Nachec" creationdate="20221021T090552Z">
+        <seg>&lt;mi&gt;d&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;t&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090548Z" creationid="Nachec" creationdate="20221021T090548Z">
+        <seg>&lt;mi&gt;t&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;x&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090549Z" creationid="Nachec" creationdate="20221021T090549Z">
+        <seg>&lt;mi&gt;x&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;y&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090555Z" creationid="Nachec" creationdate="20221021T090555Z">
+        <seg>&lt;mi&gt;y&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;0&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090547Z" creationid="Nachec" creationdate="20221021T090547Z">
+        <seg>&lt;mn&gt;0&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mn&gt;1&lt;/mn&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061501Z" creationid="Nachec" creationdate="20221021T061501Z">
@@ -23416,6 +23554,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;{&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090632Z" creationid="Nachec" creationdate="20221021T090632Z">
+        <seg>&lt;mo&gt;{&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;−&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060544Z" creationid="Nachec" creationdate="20221021T060544Z">
@@ -23488,6 +23634,38 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;msub&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090548Z" creationid="Nachec" creationdate="20221021T090548Z">
+        <seg>&lt;msub&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtable&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090544Z" creationid="Nachec" creationdate="20221021T090544Z">
+        <seg>&lt;mtable&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtd columnspan="2"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090614Z" creationid="Nachec" creationdate="20221021T090614Z">
+        <seg>&lt;mtd columnspan="2"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtd&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090545Z" creationid="Nachec" creationdate="20221021T090545Z">
+        <seg>&lt;mtd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mtext&gt;...&lt;/mtext&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060053Z" creationid="Nachec" creationdate="20221021T060053Z">
@@ -23516,6 +23694,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060054Z" creationid="Nachec" creationdate="20221021T060054Z">
         <seg>&lt;mtext&gt;childN&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;if&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094356Z" creationid="Nachec" creationdate="20221021T094356Z">
+        <seg>&lt;mtext&gt;if&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtr&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090545Z" creationid="Nachec" creationdate="20221021T090545Z">
+        <seg>&lt;mtr&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25670,6 +25864,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090453Z" creationid="Nachec" creationdate="20221021T090453Z">
+        <seg>&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085058Z" creationid="Nachec" creationdate="20221021T085058Z">
@@ -25746,6 +25948,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T121956Z" creationid="gitnacho" creationdate="20221020T121956Z">
         <seg>&gt;GitHub Wiki&lt;/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;HTML tables&lt;/a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090445Z" creationid="Nachec" creationdate="20221021T090445Z">
+        <seg>&gt;Tablas HTML&lt;/a</seg>
       </tuv>
     </tu>
     <tu>
@@ -42675,6 +42885,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To get familiar with MathML tabular elements and be aware of some</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090510Z" creationid="Nachec" creationdate="20221021T090510Z">
+        <seg>Para familiarizarte con los elementos tabulares de MathML y ​​ser consciente de algunos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get the most out of this series of articles you should already have basic to intermediate [JavaScript](/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) knowledge.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T100503Z">
@@ -49898,6 +50116,14 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>and &lt;a href="/en-US/docs/Learn/HTML/Tables"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090438Z" creationid="Nachec" creationdate="20221021T090438Z">
+        <seg>y &lt;a href="/en-US/docs/Learn/HTML/Tables"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and ???, the Cauchy–Bunyakovsky–Schwarz inequality can be</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085453Z" creationid="Nachec" creationdate="20221021T085453Z">
@@ -56529,6 +56755,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>use cases.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090527Z" creationid="Nachec" creationdate="20221021T090527Z">
+        <seg>casos de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>useEffect(() =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T231743Z" creationid="nachec" creationdate="20220804T231743Z">
@@ -56801,6 +57035,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061503Z" creationid="Nachec" creationdate="20221021T061503Z">
         <seg>{{ EmbedLiveSample('Stretchy_radical_symbols', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('allowing_cells_to_span_multiple_rows_and_columns', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090629Z" creationid="Nachec" creationdate="20221021T090629Z">
+        <seg>{{ EmbedLiveSample('allowing_cells_to_span_multiple_rows_and_columns', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
@@ -57115,6 +57357,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060859Z" creationid="gitnacho" creationdate="20221019T060859Z">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/Installing_basic_software", "Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Scripts", "Learn/MathML/First_steps/Three_famous_mathematical_formulas", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090432Z" creationid="Nachec" creationdate="20221021T090432Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Scripts", "Learn/MathML/First_steps/Three_famous_mathematical_formulas", "Learn/MathML/First_steps")}}</seg>
       </tuv>
     </tu>
     <tu>
