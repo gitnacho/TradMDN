@@ -63747,11 +63747,121 @@ console.log(uintc8FromIterable);
     <tu>
       <tuv lang="en-US">
         <seg>|
+| `cap`  | Cap height (the nominal height of capital letters) of the element's font.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235056Z" creationid="Nachec" creationdate="20221021T235056Z">
+        <seg>|
+| `cap` | Altura de Capitalización (la altura nominal de las letras mayúsculas) de la fuente del elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `ch`   | Average character advance of a narrow glyph in the element's font, as represented by the "0" (ZERO, U+0030) glyph.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235126Z" creationid="Nachec" creationdate="20221021T235126Z">
+        <seg>|
+| `ch` | Avance promedio de caracteres de un glifo estrecho en la fuente del elemento, representado por el glifo "0" (CERO, U+0030).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
 | `ex`   | x-height of the element's font.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235019Z" creationid="Nachec" creationdate="20221021T235019Z">
         <seg>|
 | `ex` | Altura x de la fuente del elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `ic`   | Average character advance of a full width glyph in the element's font, as represented by the "水" (CJK water ideograph, U+6C34) glyph.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235156Z" creationid="Nachec" creationdate="20221021T235156Z">
+        <seg>|
+| `ic` | Avance promedio de caracteres de un glifo de ancho completo en la fuente del elemento, como se representa por el glifo "水" (ideografía de agua CJK, U+6C34).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `lh`   | Line height of the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235217Z" creationid="Nachec" creationdate="20221021T235217Z">
+        <seg>|
+| `lh` | Altura de línea del elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `rem`  | Font size of the root element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235205Z" creationid="Nachec" creationdate="20221021T235205Z">
+        <seg>|
+| `rem` | Tamaño de fuente del elemento raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `rlh`  | Line height of the root element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235225Z" creationid="Nachec" creationdate="20221021T235225Z">
+        <seg>|
+| `rlh` | Altura de línea del elemento raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `vb`   | 1% of viewport's size in the root element's block axis.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235316Z" creationid="Nachec" creationdate="20221021T235316Z">
+        <seg>|
+| `vb` | 1% del tamaño de la ventana gráfica en el eje del bloque del elemento raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `vh`   | 1% of viewport's height.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235251Z" creationid="Nachec" creationdate="20221021T235251Z">
+        <seg>|
+| `vh` | 1% de la altura de la ventana gráfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `vi`   | 1% of viewport's size in the root element's inline axis.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235305Z" creationid="Nachec" creationdate="20221021T235305Z">
+        <seg>|
+| `vi` | 1% del tamaño de la ventana gráfica en el eje en línea del elemento raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `vmin` | 1% of viewport's smaller dimension.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235326Z" creationid="Nachec" creationdate="20221021T235326Z">
+        <seg>|
+| `vmín` | 1% de la dimensión más pequeña de la ventana gráfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `vw`   | 1% of viewport's width.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235240Z" creationid="Nachec" creationdate="20221021T235240Z">
+        <seg>|
+| `vw` | 1% del ancho de la ventana gráfica.</seg>
       </tuv>
     </tu>
     <tu>
