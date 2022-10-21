@@ -9770,6 +9770,16 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Landing
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T053653Z" creationid="Nachec" creationdate="20221021T053653Z">
+        <seg>- Landing
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Landing page</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094336Z" creationid="gitnacho" creationdate="20221007T094336Z">
@@ -9866,6 +9876,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T013608Z" creationid="gitnacho" creationdate="20220921T013608Z">
         <seg>- Main Loop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- MathML</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T053546Z" creationid="Nachec" creationdate="20221021T053546Z">
+        <seg>- MathML</seg>
       </tuv>
     </tu>
     <tu>
@@ -18045,9 +18063,9 @@ title: MathML fractions and roots
 slug: Learn/MathML/First_steps/Fractions_and_roots
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T183046Z" creationid="gitnacho" creationdate="20221005T183046Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T053545Z" creationid="gitnacho" creationdate="20221005T183046Z">
         <seg>---
-title: MathML fractions and roots
+title: Fracciones y raíces de MathML
 slug: Learn/MathML/First_steps/Fractions_and_roots
 tags:</seg>
       </tuv>
