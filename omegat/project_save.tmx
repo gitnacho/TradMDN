@@ -5108,6 +5108,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>+\sqrt{\frac{q^2}{4} + {\frac{p^{3}}{27}}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084733Z" creationid="Nachec" creationdate="20221021T084733Z">
+        <seg>+\sqrt{\frac{q^2}{4} + {\frac{p^{3}}{27}}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>, prefer words like "first".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191428Z" creationid="gitnacho" creationdate="20221008T191421Z">
@@ -18867,6 +18875,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Three famous mathematical formulas
+slug: Learn/MathML/First_steps/Three_famous_mathematical_formulas
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084609Z" creationid="Nachec" creationdate="20221021T084609Z">
+        <seg>---
+title: Tres famosas fórmulas matemáticas
+slug: Learn/MathML/First_steps/Three_famous_mathematical_formulas
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Tools and testing
 slug: Learn/Tools_and_testing
 tags:</seg>
@@ -19914,6 +19936,22 @@ celda 4 | celda 5 | celda 6
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053629Z" creationid="gitnacho" creationdate="20221004T053629Z">
         <seg>-I libwebp \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-\frac{q}{2}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084732Z" creationid="Nachec" creationdate="20221021T084732Z">
+        <seg>-\frac{q}{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-\sqrt{\frac{q^2}{4} + {\frac{p^{3}}{27}}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084735Z" creationid="Nachec" creationdate="20221021T084735Z">
+        <seg>-\sqrt{\frac{q^2}{4} + {\frac{p^{3}}{27}}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29004,6 +29042,18 @@ a simple value):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054109Z" creationid="gitnacho" creationdate="20221012T054109Z">
         <seg>Para ver un ejemplo de una solicitud de preverificación, consulta los ejemplos anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For any $u_1, \dots, u_n \in \mathbb{C}$ and
+$v_1, \dots, v_n \in \mathbb{C}$, the Cauchy–Bunyakovsky–Schwarz
+inequality can be written as follows:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084817Z" creationid="Nachec" creationdate="20221021T084817Z">
+        <seg>Para cualquier $u_1, \dots, u_n \in \mathbb{C}$ y
+$v_1, \dots, v_n \in \mathbb{C}$, el Cauchy–Bunyakovsky–Schwarz
+La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42485,6 +42535,16 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To solve the cubic equation $t^3 + pt + q = 0$ (where the real numbers
+$p, q$ satisfy ${4p^3 + 27q^2} &gt; 0$) one can use Cardano's formula:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084731Z" creationid="Nachec" creationdate="20221021T084731Z">
+        <seg>Para resolver la ecuación cúbica $t^3 + pt + q = 0$ (donde los números reales
+$p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start off simple, expose `WebPGetEncoderVersion()` from `encode.h` to JavaScript by writing a C file called `webp.c`:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053420Z" creationid="gitnacho" creationdate="20221004T053420Z">
@@ -45242,10 +45302,44 @@ crate-type = ["cdylib"]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\[</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084731Z" creationid="Nachec" creationdate="20221021T084731Z">
+        <seg>\[</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\\{{EmbedGHLiveSample("learning-area/css/styling-boxes/backgrounds/", '100%', 100)}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212313Z" creationid="gitnacho" creationdate="20221005T212313Z">
         <seg>\\{{EmbedGHLiveSample("learning-area/css/styling-boxes/backgrounds/", '100%', 100)}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\begin{document}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084712Z" creationid="Nachec" creationdate="20221021T084712Z">
+        <seg>\begin{document}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\sqrt[{3}]{</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084732Z" creationid="Nachec" creationdate="20221021T084732Z">
+        <seg>\sqrt[{3}]{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\usepackage{amsmath}
+\usepackage{amssymb}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084707Z" creationid="Nachec" creationdate="20221021T084707Z">
+        <seg>\usepackage{amsmath}
+\usepackage{amssymb}</seg>
       </tuv>
     </tu>
     <tu>
@@ -45572,6 +45666,16 @@ The result of 2 + 2 = 4
         <seg>```
 El resultado de 2 + 2 = 4
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```
+\documentclass{article}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084705Z" creationid="Nachec" creationdate="20221021T084705Z">
+        <seg>```
+\documentclass{article}</seg>
       </tuv>
     </tu>
     <tu>
@@ -56553,6 +56657,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenu("Learn/MathML/First_steps/Tables", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084704Z" creationid="Nachec" creationdate="20221021T084704Z">
+        <seg>{{LearnSidebar}}{{PreviousMenu("Learn/MathML/First_steps/Tables", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/Installing_basic_software", "Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060859Z" creationid="gitnacho" creationdate="20221019T060859Z">
@@ -57090,6 +57202,16 @@ console.log(uintc8FromIterable);
     <tu>
       <tuv lang="en-US">
         <seg>}
+\]</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084736Z" creationid="Nachec" creationdate="20221021T084736Z">
+        <seg>}
+\]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>}
 ```</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T213423Z" creationid="gitnacho" creationdate="20221003T213423Z">
@@ -57355,6 +57477,14 @@ console.log(uintc8FromIterable);
         <seg>});
 };
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>}+</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084734Z" creationid="Nachec" creationdate="20221021T084734Z">
+        <seg>}+</seg>
       </tuv>
     </tu>
     <tu>
@@ -57666,6 +57796,21 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083108Z" creationid="Nachec" creationdate="20221021T083108Z">
         <seg>- first steps
   - primeros pasos
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/mathml/first_steps/three_famous_mathematical_formulas/index.md</prop>
+      <prop type="prev">- MathML</prop>
+      <prop type="next">{{LearnSidebar}}{{PreviousMenu("Learn/MathML/First_steps/Tables", "Learn/MathML/First_steps")}}</prop>
+      <tuv lang="en-US">
+        <seg>- Landing
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084633Z" creationid="Nachec" creationdate="20221021T084633Z">
+        <seg>- Landing
+  - Destino
 reviewer: Nachec
 ---</seg>
       </tuv>
