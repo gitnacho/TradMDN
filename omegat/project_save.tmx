@@ -3738,6 +3738,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Use in calc()</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225151Z" creationid="Nachec" creationdate="20221021T225151Z">
+        <seg>### Uso en calc()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### User-agent client hints</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092335Z" creationid="gitnacho" creationdate="20221012T092335Z">
@@ -3998,6 +4006,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T090247Z" creationid="gitnacho" creationdate="20221003T090247Z">
         <seg>### Escribir WebAssembly directamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### length-percentage examples</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225014Z" creationid="Nachec" creationdate="20221021T225014Z">
+        <seg>### Ejemplos de porcentaje de longitud</seg>
       </tuv>
     </tu>
     <tu>
@@ -18156,6 +18172,18 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{cssxref("&amp;lt;percentage&amp;gt;")}}
+- {{cssxref("&amp;lt;length&amp;gt;")}}
+- [CSS Values and Units](/en-US/docs/Web/CSS/CSS_Values_and_Units)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225334Z" creationid="Nachec" creationdate="20221021T225334Z">
+        <seg>- {{CSSxRef("&amp;lt;percentage&amp;gt;")}}
+- {{CSSxRef("&amp;lt;length&amp;gt;")}}
+- [Valores y unidades CSS](/es/docs/Web/CSS/CSS_Values_and_Units)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{cssxref(":dir")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200455Z" creationid="gitnacho" creationdate="20221005T200455Z">
@@ -22214,6 +22242,30 @@ example.js:41 getArg 0 : 42
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T065328Z" creationid="gitnacho" creationdate="20221012T065328Z">
         <seg>/* http://www.iana.org/assignments/http-status-codes/http-status-codes.xml */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* length examples */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225129Z" creationid="Nachec" creationdate="20221021T225129Z">
+        <seg>/* ejemplos de longitud */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* length-percentage examples */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225116Z" creationid="Nachec" creationdate="20221021T225116Z">
+        <seg>/* ejemplos de porcentaje de longitud */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* percentage example */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225136Z" creationid="Nachec" creationdate="20221021T225136Z">
+        <seg>/* ejemplo de porcentaje */</seg>
       </tuv>
     </tu>
     <tu>
@@ -42913,6 +42965,14 @@ if a loaded module instance contains a "name" custom section.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following simple example demonstrates several properties that use `&lt;length-percentage&gt;` values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225042Z" creationid="Nachec" creationdate="20221021T225042Z">
+        <seg>El siguiente ejemplo simple demuestra varias propiedades que usan valores `&lt;length-percentage&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following snippet creates a new WebAssembly Memory instance with an initial size of 10 pages (640KiB), and a maximum size of 100 pages (6.4MiB).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000531Z" creationid="gitnacho" creationdate="20221008T000531Z">
@@ -44537,6 +44597,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070240Z" creationid="gitnacho" creationdate="20221004T070211Z">
         <seg>Hay mucho trabajo emocionante en este espacio; si deseas ayudar a mejorarlo aún más, consulta el [Grupo de trabajo de Rust WebAssembly](https://fitzgeraldnick.com/2018/02/27/wasm-domain-working-group.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, all of the following values are acceptable for {{cssxref("width")}}:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225242Z" creationid="Nachec" creationdate="20221021T225242Z">
+        <seg>Por lo tanto, todos los siguientes valores son aceptables para {{CSSxRef("width")}}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49081,6 +49149,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Where a `&lt;length-percentage&gt;` is specified as an allowable type, this means that the percentage resolves to a length and therefore can be used in a {{cssxref("calc", "calc()")}} expression.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225228Z" creationid="Nachec" creationdate="20221021T225228Z">
+        <seg>Cuando se especifica `&lt;length-percentage&gt;` como un tipo permitido, significa que el porcentaje se resuelve en una longitud y, por lo tanto, se puede usar en una expresión {{CSSxRef("calc", "calc()")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where should content be drawn on the screen?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T113959Z" creationid="gitnacho" creationdate="20220925T054501Z">
@@ -51236,11 +51312,37 @@ void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```css
+p {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225103Z" creationid="Nachec" creationdate="20221021T225103Z">
+        <seg>```css
+p {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
 p.fancy {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211455Z" creationid="gitnacho" creationdate="20221005T211455Z">
         <seg>```css
 p.fancy {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css example-good
+width: 200px;
+width: 20%;
+width: calc(100% - 200px);
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225247Z" creationid="Nachec" creationdate="20221021T225247Z">
+        <seg>```css example-good
+width: 200px;
+width: 20%;
+width: calc(100% - 200px);
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -51466,6 +51568,18 @@ p {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211355Z" creationid="gitnacho" creationdate="20221005T211355Z">
         <seg>&lt;p&gt;No soy elegante.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;p&gt;You can use percentages and lengths in so many places.&lt;/p&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225102Z" creationid="Nachec" creationdate="20221021T225102Z">
+        <seg>```html
+&lt;p&gt;Puedes usar porcentajes y longitudes en muchos lugares.&lt;/p&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -55187,6 +55301,22 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border-radius: 10px 10%;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225120Z" creationid="Nachec" creationdate="20221021T225120Z">
+        <seg>border-radius: 10px 10%;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>border: 5px solid red;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225131Z" creationid="Nachec" creationdate="20221021T225131Z">
+        <seg>border: 5px solid red;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>br $my_block</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075541Z" creationid="gitnacho" creationdate="20221020T075541Z">
@@ -58026,6 +58156,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font-size: 250%;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225120Z" creationid="Nachec" creationdate="20221021T225120Z">
+        <seg>font-size: 250%;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font: `font-cache-v${CACHE_VERSION}`,
 };</seg>
       </tuv>
@@ -58366,6 +58504,14 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040658Z" creationid="gitnacho" creationdate="20220921T040658Z">
         <seg>headers: { "Content-Type": "text/plain" },</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>height: 200px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225118Z" creationid="Nachec" creationdate="20221021T225118Z">
+        <seg>height: 200px;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59304,12 +59450,28 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>letter-spacing: 3px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225131Z" creationid="Nachec" creationdate="20221021T225131Z">
+        <seg>letter-spacing: 3px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>libwebp/src/{dec,dsp,demux,enc,mux,utils}/*.c
 ```</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053632Z" creationid="gitnacho" creationdate="20221004T053632Z">
         <seg>libwebp/src/{dec,dsp,demux,enc,mux,utils}/*.c
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>line-height: 1.5em;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225121Z" creationid="Nachec" creationdate="20221021T225121Z">
+        <seg>line-height: 1.5em;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59416,6 +59578,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225544Z" creationid="gitnacho" creationdate="20221006T225544Z">
         <seg>Haz una copia local de `memory.wasm` en el mismo directorio que antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>margin: 3rem;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225119Z" creationid="Nachec" creationdate="20221021T225119Z">
+        <seg>margin: 3rem;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60040,6 +60210,14 @@ npm link hello-wasm
         <seg>padding: 0.5em;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>padding: 1%;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225120Z" creationid="Nachec" creationdate="20221021T225120Z">
+        <seg>padding: 1%;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61462,6 +61640,26 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>text-shadow: 1px 1px 1px red;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225130Z" creationid="Nachec" creationdate="20221021T225130Z">
+        <seg>text-shadow: 1px 1px 1px red;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>text-size-adjust: 20%;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225139Z" creationid="Nachec" creationdate="20221021T225139Z">
+        <seg>text-size-adjust: 20%;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>the [Exported WebAssembly functions](/en-US/docs/WebAssembly/Exported_functions).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T102431Z" creationid="gitnacho" creationdate="20221006T102431Z">
@@ -61944,6 +62142,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180528T144900Z" creationid="nacho" creationdate="20180528T144900Z">
         <seg>while (true) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width: 75%;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225118Z" creationid="Nachec" creationdate="20221021T225118Z">
+        <seg>width: 75%;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62502,6 +62708,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{EmbedLiveSample('length-percentage_examples', '100%', 320)}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225142Z" creationid="Nachec" creationdate="20221021T225142Z">
+        <seg>{{EmbedLiveSample('length-percentage_examples', '100%', 320)}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{FirefoxSidebar}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T205723Z" creationid="gitnacho" creationdate="20221006T205723Z">
@@ -62760,6 +62974,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203327Z" creationid="gitnacho" creationdate="20221019T203327Z">
         <seg>{{WebAssemblySidebar}} {{non-standard_header}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{csssyntax}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225001Z" creationid="Nachec" creationdate="20221021T225001Z">
+        <seg>{{csssyntax}}</seg>
       </tuv>
     </tu>
     <tu>
