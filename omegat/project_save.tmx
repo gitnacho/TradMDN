@@ -2362,6 +2362,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Arabic mathematical alphabetic symbols</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202238Z" creationid="Nachec" creationdate="20221021T202238Z">
+        <seg>### Símbolos alfabéticos matemáticos árabes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Aside on instantiate() overloads</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T055818Z" creationid="gitnacho" creationdate="20221005T055818Z">
@@ -2974,6 +2982,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T033950Z" creationid="gitnacho" creationdate="20220921T033950Z">
         <seg>### Instalar y activar: llena tu caché</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Installation without administrator privilege</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202318Z" creationid="Nachec" creationdate="20221021T202318Z">
+        <seg>### Instalación sin privilegios de administrador</seg>
       </tuv>
     </tu>
     <tu>
@@ -28915,6 +28931,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a last resort, install the [MathML fonts add-on](https://addons.mozilla.org/firefox/addon/mathml-fonts/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202229Z" creationid="Nachec" creationdate="20221021T202229Z">
+        <seg>Como último recurso, instala el [Complemento de fuentes MathML](https://addons.mozilla.org/firefox/addon/mathml-fonts/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a semi-experimental feature (not guaranteed to work), you can supply a JSON object for the first and only parameter, like so:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065357Z" creationid="gitnacho" creationdate="20221005T065357Z">
@@ -30198,6 +30222,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164929Z" creationid="gitnacho" creationdate="20221012T164929Z">
         <seg>Actualmente, los navegadores más utilizados son [Firefox](https://www.mozilla.org/es-ES/firefox/new/), [Chrome](https://www.google.com/chrome/), [Opera](https://www.opera.com/), [Safari](https://www.apple.com/safari/), [Internet Explorer](https://support.microsoft.com/es-es/windows/internet-explorer-downloads-d49e1f0d-571c-9a7b-d97e-be248806ca70) y [Microsoft Edge](https://www.microsoft.com/edge).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently, very few fonts have appropriate glyphs for the Arabic Mathematical Alphabetic Symbols.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202249Z" creationid="Nachec" creationdate="20221021T202249Z">
+        <seg>Actualmente, muy pocas fuentes tienen glifos apropiados para los símbolos alfabéticos matemáticos árabes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33208,6 +33240,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are likely to need these characters, we recommend to install the _XITS_ or [Amiri](https://www.amirifont.org/) fonts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202313Z" creationid="Nachec" creationdate="20221021T202313Z">
+        <seg>Si es probable que necesites estos caracteres, te recomendamos que instales las fuentes _XITS_ o [Amiri](https://www.amirifont.org/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are not familiar with Git, check out our [How do I use GitHub Pages?](/en-US/docs/Learn/Common_questions/Using_Github_pages) article, and [Preparing to add the data](/en-US/docs/MDN/Writing_guidelines/Page_structures/Compatibility_tables#preparing_to_add_the_data) for more advanced uses.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T103020Z" creationid="gitnacho" creationdate="20221005T212526Z">
@@ -33348,6 +33388,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072430Z" creationid="gitnacho" creationdate="20221005T072430Z">
         <seg>Si necesitas llamar a otra plantilla desde dentro de un bloque de código, no uses `&lt;%` … `%&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you need to install fonts on a system without administrator privilege, the easiest option is to use math font the [MathML-fonts add-on](https://addons.mozilla.org/firefox/addon/mathml-fonts/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202344Z" creationid="Nachec" creationdate="20221021T202344Z">
+        <seg>Si necesitas instalar fuentes en un sistema sin privilegios de administrador, la opción más fácil es usar la fuente matemática del [Complemento de fuentes MathML](https://addons.mozilla.org/firefox/addon/mathml-fonts/).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36859,6 +36907,14 @@ conversion from text format over to .wasm.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that these fonts are generally delivered with TeX distributions such as [TeX Live](https://www.tug.org/texlive/), but you might need to follow specific instructions so that your system is aware of the fonts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202206Z" creationid="Nachec" creationdate="20221021T202206Z">
+        <seg>Ten en cuenta que estas fuentes generalmente se entregan con distribuciones TeX como [TeX Live](https://www.tug.org/texlive/), pero es posible que debas seguir instrucciones específicas para que tu sistema reconozca las fuentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that these headers are set for you when making invocations to servers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060426Z" creationid="gitnacho" creationdate="20221012T060426Z">
@@ -36871,6 +36927,14 @@ conversion from text format over to .wasm.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065521Z" creationid="gitnacho" creationdate="20221005T065521Z">
         <seg>Ten en cuenta que este estilo de parámetro es muy exigente: se debe adherir exactamente a la [sintaxis JSON](https://json.org/), que tiene algunos requisitos sobre caracteres de escape que son fáciles de perder (por ejemplo, todas las barras diagonales se escapan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that using the add-on is not optimal since it forces your Gecko browser to load a CSS stylesheet on each page you visit as well as Web math fonts on all pages with MathML content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202407Z" creationid="Nachec" creationdate="20221021T202407Z">
+        <seg>Ten en cuenta que el uso del complemento no es óptimo, ya que obliga a tu navegador Gecko a cargar una hoja de estilo CSS en cada página que visitas, así como fuentes matemáticas web en todas las páginas con contenido MathML.</seg>
       </tuv>
     </tu>
     <tu>
