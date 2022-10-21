@@ -27480,8 +27480,8 @@ a simple value):</seg>
       <tuv lang="en-US">
         <seg>For example, if you were in the parent directory:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173727Z" creationid="Nachec" creationdate="20221020T173727Z">
-        <seg>Por ejemplo, si estuvieras en el directorio padre:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050848Z" creationid="Nachec" creationdate="20221020T173727Z">
+        <seg>Por ejemplo, si estuvieras en el directorio principal:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30191,8 +30191,8 @@ receive the module from the main thread.</seg>
       <tuv lang="en-US">
         <seg>In your command prompt/terminal, go inside the `learning-area` directory using `cd`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173717Z" creationid="Nachec" creationdate="20221020T173717Z">
-        <seg>En tu intérprete de comandos/terminal, ve dentro del directorio `learning-area` usando `cd`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050836Z" creationid="Nachec" creationdate="20221020T173717Z">
+        <seg>En el símbolo del sistema/terminal, ve al directorio del área de aprendizaje —`learning-area`— usando `cd`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32832,8 +32832,8 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>Open your computer's [command prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089) (Windows) or terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [macOS](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173616Z" creationid="Nachec" creationdate="20221020T173616Z">
-        <seg>Abre tu [consola de comandos](https://www.lifewire.com/how-to-open-command-prompt-2618089) (Windows) o terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [MacOS X](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050633Z" creationid="Nachec" creationdate="20221020T173616Z">
+        <seg>Abre el [símbolo del sistema](https://www.lifewire.com/how-to-open-command-prompt-2618089) de tu computadora (Windows) o terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [macOS](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40157,8 +40157,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To copy the learning area repo to a folder called learning-area in the current location your command prompt/terminal is pointing to, use the following command:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173632Z" creationid="Nachec" creationdate="20221020T173632Z">
-        <seg>Para copiar el repositorio del área de aprendizaje a un directorio llamado `learning-area` en la ubicación actual, en la ventana de tu Terminal o en la línea de comandos, debes usar el siguiente comando.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050705Z" creationid="Nachec" creationdate="20221020T173632Z">
+        <seg>Para copiar el repositorio del área de aprendizaje en un directorio llamado área de aprendizaje en la ubicación actual a la que apunta su símbolo del sistema/terminal, usa el siguiente comando:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42422,8 +42422,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You can now enter the directory and find the files you are after (either using your Finder/File Explorer or the [`cd` command](&lt;https://en.wikipedia.org/wiki/Cd_(command)&gt;)).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173653Z" creationid="Nachec" creationdate="20221020T173653Z">
-        <seg>Ahora puedes entrar en el directorio y encontrar todos los archivos que descargaste (posiblemente con el explorador de archivos o el [comando `cd`](https://es.wikipedia.org/wiki/Chdir)).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050737Z" creationid="Nachec" creationdate="20221020T173653Z">
+        <seg>Ahora puedes ingresar al directorio y encontrar los archivos que buscas (ya sea usando tu Finder/Explorador de archivos o el comando [`cd`](&lt;https://en.wikipedia.org/wiki/Cd_(command)&gt;)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42518,8 +42518,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You can update the `learning-area` repository with any changes made to the master version on GitHub with the following steps:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173706Z" creationid="Nachec" creationdate="20221020T173706Z">
-        <seg>Puedes actualizar el repositorio `learning-area` con los últimos cambios que se hayan hecho a la versión principal en GitHub con los siguientes pasos:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050754Z" creationid="Nachec" creationdate="20221020T173706Z">
+        <seg>Puedes actualizar el repositorio `learning-area` con cualquier cambio realizado en la versión maestra en GitHub con los siguientes pasos:</seg>
       </tuv>
     </tu>
     <tu>
