@@ -1928,6 +1928,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Textual data types</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233455Z" creationid="Nachec" creationdate="20221021T233455Z">
+        <seg>## Tipos de datos textuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## The HTTP request headers</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060358Z" creationid="gitnacho" creationdate="20221012T060358Z">
@@ -18200,6 +18208,20 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{cssxref("&amp;lt;custom-ident&amp;gt;")}}
+- Pre-defined keywords as an `&lt;ident&gt;`
+- {{cssxref("&amp;lt;string&amp;gt;")}}
+- {{cssxref("url","url()")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233516Z" creationid="Nachec" creationdate="20221021T233516Z">
+        <seg>- {{CSSxRef("&amp;lt;custom-ident&amp;gt;")}}
+- Palabras clave predefinidas como `&lt;ident&gt;`
+- {{CSSxRef("&amp;lt;string&amp;gt;")}}
+- {{CSSxRef("url","url()")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{cssxref("&amp;lt;percentage&amp;gt;")}}
 - {{cssxref("&amp;lt;length&amp;gt;")}}
 - [CSS Values and Units](/en-US/docs/Web/CSS/CSS_Values_and_Units)</seg>
@@ -22286,6 +22308,18 @@ example.js:41 getArg 0 : 42
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T065328Z" creationid="gitnacho" creationdate="20221012T065328Z">
         <seg>/* http://www.iana.org/assignments/http-status-codes/http-status-codes.xml */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* keyframes go here */
+}
+@keyframe 'validString' {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233737Z" creationid="Nachec" creationdate="20221021T233737Z">
+        <seg>/* los fotogramas clave van aquí */
+}
+@keyframe 'validString' {</seg>
       </tuv>
     </tu>
     <tu>
@@ -29132,6 +29166,14 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A `&lt;string&gt;` must be quoted with either single or double quotes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233543Z" creationid="Nachec" creationdate="20221021T233543Z">
+        <seg>Una `&lt;string&gt;` se debe citar con comillas simples o dobles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A `Promise` that resolves to a [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module) object
 representing the compiled module.</seg>
       </tuv>
@@ -30955,6 +30997,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below is an overview of most of these data types.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233436Z" creationid="Nachec" creationdate="20221021T233436Z">
+        <seg>A continuación se muestra una descripción general de la mayoría de estos tipos de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below is the rendering of the above example in your browser.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102046Z" creationid="Nachec" creationdate="20221021T102046Z">
@@ -31379,6 +31429,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230715Z" creationid="gitnacho" creationdate="20221011T230715Z">
         <seg>Las solicitudes de preverificación de CORS nunca deben incluir credenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CSS Identifiers, listed in the specifications as `&lt;ident&gt;` or `&lt;custom-ident&gt;`, must be unquoted.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233555Z" creationid="Nachec" creationdate="20221021T233555Z">
+        <seg>Los identificadores CSS, enumerados en las especificaciones como `&lt;ident&gt;` o `&lt;custom-ident&gt;`, no deben estar entre comillas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35738,6 +35796,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the CSS specifications, values that can be defined by the web developer, like keyframe animations, font-family names, or grid areas are listed as a {{cssxref("&amp;lt;custom-ident&amp;gt;")}}, {{cssxref("&amp;lt;string&amp;gt;")}}, or both.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233632Z" creationid="Nachec" creationdate="20221021T233632Z">
+        <seg>En las especificaciones de CSS, los valores que puede definir el desarrollador web, como animaciones de fotogramas clave, nombres de familia de fuentes o áreas de cuadrícula, se enumeran como {{CSSxRef("&amp;lt;custom-ident&amp;gt;")}}, {{CSSxRef("&amp;lt;string&amp;gt;")}}, o ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the [getting started with MathML](/en-US/docs/Learn/MathML/First_steps/Getting_started) article, we've already met the `&lt;mfrac&gt;` element to describe a fraction.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060034Z" creationid="Nachec" creationdate="20221021T060034Z">
@@ -39641,6 +39707,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Refer to the page for each value type for more detailed information.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233448Z" creationid="Nachec" creationdate="20221021T233448Z">
+        <seg>Consulta la página de cada tipo de valor para obtener información más detallada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relying on text containers, this article describes how to build more complex MathML expressions by nesting fractions and roots.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055712Z" creationid="Nachec" creationdate="20221021T055712Z">
@@ -40856,6 +40930,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082945Z" creationid="gitnacho" creationdate="20221005T082945Z">
         <seg>Las plantillas se pueden localizar usando el método `mdn.localString()`, que toma un objeto que contiene un mapeo de locales a cadenas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text data types are either `&lt;string&gt;`, a quoted series of characters, or an `&lt;ident&gt;`, a "CSS Identifier" which is an unquoted string.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233533Z" creationid="Nachec" creationdate="20221021T233533Z">
+        <seg>Los tipos de datos de texto son `&lt;string&gt;`, una serie de caracteres entre comillas, o `&lt;ident&gt;`, un "identificador CSS" que es una cadena sin comillas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48955,6 +49037,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When both quoted and unquoted user defined text values are permitted, the specification will list `&lt;custom-ident&gt; | &lt;string&gt;`, meaning quotes are optional, such as is the case with animation names:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233659Z" creationid="Nachec" creationdate="20221021T233659Z">
+        <seg>Cuando se permiten valores de texto definidos por el usuario entre comillas y sin comillas, la especificación incluirá `&lt;custom-ident&gt; | &lt;string&gt;`, lo cual significa que las comillas son opcionales, como es el caso de los nombres de animación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When called, `shared0func` loads the `42` we stored in memory using the `i32.store` command in `shared1.wat`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074134Z" creationid="gitnacho" creationdate="20221007T074134Z">
@@ -51375,6 +51465,16 @@ void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T174249Z" creationid="gitnacho" creationdate="20221012T174249Z">
         <seg>```css
 :root {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+@keyframe validIdent {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233701Z" creationid="Nachec" creationdate="20221021T233701Z">
+        <seg>```css
+@keyframe validIdent {</seg>
       </tuv>
     </tu>
     <tu>
