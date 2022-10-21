@@ -6307,8 +6307,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : If you are a complete beginner to web development, we'd recommend that you start by working through our [Getting started with the web](/en-US/docs/Learn/Getting_started_with_the_web) module, which provides a practical introduction to web development.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T125905Z" creationid="gitnacho" creationdate="20221012T231938Z">
-        <seg>- : Si eres un completo novel en desarrollo web, definitivamente el mejor lugar para empezar es el módulo [Primeros pasos en la web](/es/docs/Learn/Getting_started_with_the_web). Una introducción práctica que te dará las bases necesarias para iniciar y avanzar en el desarrollo web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000157Z" creationid="gitnacho" creationdate="20221012T231938Z">
+        <seg>- : Si eres un absoluto principiante en el desarrollo web, te recomendamos que comiences trabajando con nuestro módulo [Primeros pasos con la web](/es/docs/Learn/Getting_started_with_the_web), que proporciona una introducción práctica al desarrollo web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8658,8 +8658,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Complete beginner</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T125744Z" creationid="gitnacho" creationdate="20221012T231910Z">
-        <seg>- **Soy un principiante:** ¡Bienvenido!</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000101Z" creationid="gitnacho" creationdate="20221012T231910Z">
+        <seg>- Absoluto principiante</seg>
       </tuv>
     </tu>
     <tu>
@@ -22996,10 +22996,10 @@ i32.mul</seg>
 &gt; We have put together a course that includes all the essential information you need to
 &gt; work towards your goal.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T231840Z" creationid="gitnacho" creationdate="20221012T231840Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000006Z" creationid="gitnacho" creationdate="20221012T231840Z">
         <seg>&gt;
-&gt; Hemos  preparado  un  curso  que incluye  toda  la  información
-&gt; esencial que necesitas para que trabajes hacia tu meta.</seg>
+&gt; Hemos preparado un curso que incluye toda la información esencial que necesitas para
+&gt; que trabajes hacia tu meta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23017,9 +23017,9 @@ i32.mul</seg>
         <seg>&gt;
 &gt; [**Get started**](/en-US/docs/Learn/Front-end_web_developer)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T125610Z" creationid="gitnacho" creationdate="20221012T231847Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000044Z" creationid="gitnacho" creationdate="20221012T231847Z">
         <seg>&gt;
-&gt; [Empieza aquí](/es/docs/Learn/Front-end_web_developer)</seg>
+&gt; [**Comenzar**](/es/docs/Learn/Front-end_web_developer)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23099,14 +23099,10 @@ i32.mul</seg>
 &gt;
 &gt; #### Looking to become a front-end web developer?</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T125505Z" creationid="gitnacho" creationdate="20221012T231826Z">
-        <seg>## Novedades
-
-El contenido del área de aprendizaje se amplía con regularidad. Se han comenzado a guardar [notas de publicación del área de aprendizaje](/es/docs/Learn/Release_notes) para mostrar lo que ha cambiado. ¡Revísalas frecuentemente para mantenerte actualizado!
-
-Si tienes preguntas sobre temas que te gustaría que se abordaran o te parece que faltan, envía un mensaje en el [Foro de discusión](https://discourse.mozilla.org/c/mdn), de la comunidad Mozilla (sitio en inglés).
-
-&gt; ### ¿Quieres convertirte en un desarrollador de interfaz de usuario web?</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T235940Z" creationid="gitnacho" creationdate="20221012T231826Z">
+        <seg>&gt; **Llamada:**
+&gt;
+&gt; #### ¿Quiere convertirse en un desarrollador web front-end?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42724,8 +42720,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class materials, a hobbyist, or someone who just wants to understand more about how web technologies work.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T234234Z" creationid="gitnacho" creationdate="20221012T231814Z">
-        <seg>Para que te sientas como en casa, ya seas un estudiante (por tu cuenta o como parte de un grupo), un maestro buscando material para sus clases, un aficionado o alguien que simplemente desea entender mejor cómo funcionan las tecnologías web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T235924Z" creationid="gitnacho" creationdate="20221012T231814Z">
+        <seg>Te debe sentir como en casa, si bien eres un estudiante que está aprendiendo desarrollo web (por tu cuenta o como parte de una clase), un maestro que busca materiales para la clase, un aficionado o alguien que solo quiere saber más sobre cómo funcionan las tecnologías web.</seg>
       </tuv>
     </tu>
     <tu>
