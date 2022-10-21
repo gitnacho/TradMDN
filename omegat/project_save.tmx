@@ -1472,6 +1472,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Legacy MathML lengths</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221927Z" creationid="Nachec" creationdate="20221021T221927Z">
+        <seg>## Longitudes heredadas de MathML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Linking</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T102548Z" creationid="gitnacho" creationdate="20221005T102531Z">
@@ -11124,6 +11132,20 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- MathML:Token Elements
+browser-compat: mathml.elements.mtext
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222319Z" creationid="Nachec" creationdate="20221021T222319Z">
+        <seg>- MathML:Token Elements
+  - MathML:Elementos Toquen
+browser-compat: mathml.elements.mtext
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Mathematical Markup Language</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065000Z" creationid="Nachec" creationdate="20221021T065000Z">
@@ -19224,6 +19246,20 @@ tags:</seg>
         <seg>---
 title: &lt;mo&gt;
 slug: Web/MathML/Element/mo
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: &lt;mtext&gt;
+slug: Web/MathML/Element/mtext
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222243Z" creationid="Nachec" creationdate="20221021T222243Z">
+        <seg>---
+title: &lt;mtext&gt;
+slug: Web/MathML/Element/mtext
 tags:</seg>
       </tuv>
     </tu>
@@ -27412,8 +27448,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** For the `lspace`, `maxsize`, `minsize` and `rspace` attributes, some browsers may also accept [legacy MathML lengths](/en-US/docs/Web/MathML/Attribute/Values#legacy_mathml_lengths).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221901Z" creationid="Nachec" creationdate="20221021T221901Z">
-        <seg>&gt; **Nota:** Para los atributos `lspace`, `maxsize`, `minsize` y `rspace`, algunos navegadores también pueden aceptar [longitudes heredadas de MathML](/es/docs/Web/MathML/Attribute/Values#legacy_mathml_lengths).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222000Z" creationid="Nachec" creationdate="20221021T221901Z">
+        <seg>&gt; **Nota:** Para los atributos `lspace`, `maxsize`, `minsize` y `rspace`, algunos navegadores también pueden aceptar [longitudes heredadas de MathML](/es/docs/Web/MathML/Attribute/Values#longitudes_heredadas_de_mathml).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40611,6 +40647,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220922Z" creationid="Nachec" creationdate="20221021T220922Z">
         <seg>El elemento **`&lt;mo&gt;`** [MathML](/es/docs/Web/MathML) representa un **operador** en un sentido amplio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`&lt;mtext&gt;`** [MathML](/en-US/docs/Web/MathML) element is used to render arbitrary text with _no_ notational meaning, such as comments or annotations.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222402Z" creationid="Nachec" creationdate="20221021T222402Z">
+        <seg>El elemento **`&lt;mtext&gt;`** de [MathML](/es/docs/Web/MathML) se utiliza para renderizar texto arbitrario **sin** significado notacional, como comentarios o anotaciones.</seg>
       </tuv>
     </tu>
     <tu>
