@@ -2802,6 +2802,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### MathML in HTML pages</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T074846Z" creationid="Nachec" creationdate="20221021T074846Z">
+        <seg>### MathML en páginas HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Metadata content</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T105033Z" creationid="gitnacho" creationdate="20221008T105033Z">
@@ -21771,6 +21779,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075038Z" creationid="Nachec" creationdate="20221021T075038Z">
+        <seg>&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/mfrac&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060538Z" creationid="Nachec" creationdate="20221021T060538Z">
@@ -22529,6 +22545,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;h1&gt;MathML in HTML5&lt;/h1&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075025Z" creationid="Nachec" creationdate="20221021T075025Z">
+        <seg>&lt;h1&gt;MathML en HTML5&lt;/h1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;h2&gt;A heading&lt;/h2&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210930T233823Z" creationid="gitnacho" creationdate="20210930T233823Z">
@@ -22709,6 +22733,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060530Z" creationid="Nachec" creationdate="20221021T060530Z">
         <seg>&lt;link rel="stylesheet" href="https://fred-wang.github.io/MathFonts/LatinModern/mathfonts.css"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;math display="block"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075056Z" creationid="Nachec" creationdate="20221021T075056Z">
+        <seg>&lt;math display="block"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23675,6 +23707,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;title&gt;MathML in HTML5&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075018Z" creationid="Nachec" creationdate="20221021T075018Z">
+        <seg>&lt;title&gt;MathML en HTML5&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;title&gt;My page with math characters&lt;/title&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060513Z" creationid="Nachec" creationdate="20221021T060513Z">
@@ -24388,6 +24428,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053643Z" creationid="gitnacho" creationdate="20221004T053643Z">
         <seg>&gt; **Nota:** Esta estrategia no funcionará con todos los proyectos C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** To use MathML in XML documents (e.g. XHTML, EPUB or OpenDocument) place an explicit `xmlns="http://www.w3.org/1998/Math/MathML"` attribute on each `&lt;math&gt;` element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075126Z" creationid="Nachec" creationdate="20221021T075126Z">
+        <seg>&gt; **Nota:** Para usar MathML en documentos XML (por ejemplo, XHTML, EPUB u OpenDocument), coloca un atributo `xmlns="http://www.w3.org/1998/Math/MathML"` explícito en cada elemento `&lt;math&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27067,6 +27115,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, the formula will be rendered inline, with extra adjustments to minimize its height.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T074926Z" creationid="Nachec" creationdate="20221021T074926Z">
+        <seg>De manera predeterminada, la fórmula se renderizará en línea, con ajustes adicionales para minimizar su altura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, the invocation is made without Cookies.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230508Z" creationid="gitnacho" creationdate="20221011T230508Z">
@@ -27809,6 +27865,14 @@ void free_result(uint8_t* result) {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065748Z" creationid="gitnacho" creationdate="20221005T065748Z">
         <seg>Cada plantilla de KumaScript es un archivo en [el directorio de macros](https://github.com/mdn/yari/tree/main/kumascript/macros) del repositorio `mdn/yari` en GitHub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each MathML equation is represented by a root [`math`](/en-US/docs/Web/MathML/Element/math) element, which can be embedded directly in HTML pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T074906Z" creationid="Nachec" creationdate="20221021T074906Z">
+        <seg>Cada ecuación de MathML está representada por un elemento [`math`](/es/docs/Web/MathML/Element/math) raíz, que se puede incrustar directamente en las páginas HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33945,6 +34009,22 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211102T190635Z" creationid="gitnacho" creationdate="20211102T190635Z">
         <seg>Una</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One over square root of two (display style):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075054Z" creationid="Nachec" creationdate="20221021T075054Z">
+        <seg>Uno sobre raíz cuadrada de dos (estilo de visualización):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One over square root of two (inline style):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075037Z" creationid="Nachec" creationdate="20221021T075037Z">
+        <seg>Uno sobre raíz cuadrada de dos (estilo en línea):</seg>
       </tuv>
     </tu>
     <tu>
@@ -41854,6 +41934,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114005Z" creationid="gitnacho" creationdate="20221005T114005Z">
         <seg>Uso: `\{{Optional_Inline}}` o `\{{ReadOnlyInline}}`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use a `display="block"` attribute to render complex formulas normally, and in their own paragraph.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075009Z" creationid="Nachec" creationdate="20221021T075009Z">
+        <seg>Usa un atributo `display="block"` para renderizar normalmente fórmulas complejas y en su propio párrafo.</seg>
       </tuv>
     </tu>
     <tu>
