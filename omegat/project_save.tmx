@@ -1536,6 +1536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Operator properties of \&lt;mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192257Z" creationid="Nachec" creationdate="20221021T192257Z">
+        <seg>## Propiedades del operador \&lt;mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Other use case ideas</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T145222Z" creationid="gitnacho" creationdate="20221002T145222Z">
@@ -23926,6 +23934,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi mathvariant="normal"&gt;Γ&lt;/mi&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192152Z" creationid="Nachec" creationdate="20221021T192152Z">
+        <seg>&lt;mi mathvariant="normal"&gt;Γ&lt;/mi&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi&gt;K&lt;/mi&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103831Z" creationid="Nachec" creationdate="20221021T103831Z">
@@ -23978,6 +23998,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103829Z" creationid="Nachec" creationdate="20221021T103829Z">
         <seg>&lt;mi&gt;i&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;j&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192404Z" creationid="Nachec" creationdate="20221021T192404Z">
+        <seg>&lt;mi&gt;j&lt;/mi&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24062,6 +24090,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104726Z" creationid="Nachec" creationdate="20221021T104726Z">
         <seg>&lt;mi&gt;z&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;Γ&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192134Z" creationid="Nachec" creationdate="20221021T192134Z">
+        <seg>&lt;mi&gt;Γ&lt;/mi&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25026,6 +25062,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;Infix plus&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192402Z" creationid="Nachec" creationdate="20221021T192402Z">
+        <seg>&lt;td&gt;Infijo más&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;Mac&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122401Z" creationid="gitnacho" creationdate="20221020T122401Z">
@@ -25046,6 +25090,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122313Z" creationid="gitnacho" creationdate="20221003T122313Z">
         <seg>&lt;td&gt;&lt;code&gt;rol&lt;/code&gt; no permitido&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;Prefix plus&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192352Z" creationid="Nachec" creationdate="20221021T192352Z">
+        <seg>&lt;td&gt;Prefijo más&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;Prefix sum&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192413Z" creationid="Nachec" creationdate="20221021T192413Z">
+        <seg>&lt;td&gt;Prefijo sum&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25683,6 +25743,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064828Z" creationid="gitnacho" creationdate="20221007T064828Z">
         <seg>&gt; **Nota:** Arriba, ten en cuenta la sintaxis de doble punto y coma (`;;`) para permitir comentarios en archivos WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** Although the [`mathvariant`](/en-US/docs/Web/MathML/Global_attributes/mathvariant) provides other values to perform such transformations, it is recommended to just pick the desired [Mathematical Alphanumeric Symbols](https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols) when possible.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192242Z" creationid="Nachec" creationdate="20221021T192242Z">
+        <seg>&gt; **Nota:** Aunque el [`mathvariant`](/es/docs/Web/MathML/Global_attributes/mathvariant) proporciona otros valores para realizar dichas transformaciones, se recomienda elegir simplemente los [Símbolos alfanuméricos matemáticos](https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols) cuando sea posible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29448,6 +29516,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191837Z" creationid="Nachec" creationdate="20221021T191837Z">
         <seg>Compara el renderizado de los dos elementos `&lt;mi&gt;` en la siguiente fórmula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare the rendering of the uppercase gamma letters in the following formula:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192133Z" creationid="Nachec" creationdate="20221021T192133Z">
+        <seg>Compara el renderizado de las letras gamma mayúsculas en la siguiente fórmula:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34908,6 +34984,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's consider a concrete example:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192321Z" creationid="Nachec" creationdate="20221021T192321Z">
+        <seg>Consideremos un ejemplo concreto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's consider again a page `input.html` with content from [client-side conversion](#client-side_conversion):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080712Z" creationid="Nachec" creationdate="20221021T080712Z">
@@ -35488,6 +35572,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T074707Z" creationid="Nachec" creationdate="20221021T074707Z">
         <seg>Muchas de estas herramientas están disponibles y es imposible proporcionar una lista exhaustiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MathML contains an [operator dictionary](https://w3c.github.io/mathml-core/#operator-dictionary-human) that defines default properties of `&lt;mo&gt;` elements depending on their content and the position within its container (prefix, infix or postfix).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192317Z" creationid="Nachec" creationdate="20221021T192317Z">
+        <seg>MathML contiene un [diccionario de operadores](https://w3c.github.io/mathml-core/#operator-dictionary-human) que define las propiedades predeterminadas de los elementos `&lt;mo&gt;` según su contenido y la posición dentro de su contenedor (prefijo, infijo o posfijo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42945,6 +43037,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T225255Z" creationid="gitnacho" creationdate="20220921T225255Z">
         <seg>Este ejemplo es de MDN [ejemplo de *service worker* simple](https://github.com/mdn/dom-examples/tree/main/service-worker/simple-service-worker) (ve el [*service worker* simple ejecutándose en vivo](https://bncb2v.csb.app/)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This example should render similarly to the screenshot below.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192447Z" creationid="Nachec" creationdate="20221021T192447Z">
+        <seg>Este ejemplo debería ser similar a la captura de pantalla de abajo.</seg>
       </tuv>
     </tu>
     <tu>
