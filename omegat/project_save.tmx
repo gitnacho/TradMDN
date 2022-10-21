@@ -15292,6 +15292,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `accent`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220521Z" creationid="Nachec" creationdate="20221021T220521Z">
+        <seg>- `accent`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `anyfunc`: A function reference.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110650Z" creationid="gitnacho" creationdate="20221007T110650Z">
@@ -15540,6 +15548,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213742Z" creationid="Nachec" creationdate="20221021T213742Z">
         <seg>- `false`, significa `compact`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `fence`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220526Z" creationid="Nachec" creationdate="20221021T220526Z">
+        <seg>- `fence`</seg>
       </tuv>
     </tu>
     <tu>
@@ -15864,6 +15880,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `lspace`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220531Z" creationid="Nachec" creationdate="20221021T220531Z">
+        <seg>- `lspace`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `ltr`, which means _left to right_ and is used to render mathematical expressions from the left to the right (e.g. English or Moroccan style);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213618Z" creationid="Nachec" creationdate="20221021T213618Z">
@@ -15884,6 +15908,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215132Z" creationid="gitnacho" creationdate="20221019T215132Z">
         <seg>- `maximum` {{optional_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `maxsize`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220534Z" creationid="Nachec" creationdate="20221021T220534Z">
+        <seg>- `maxsize`</seg>
       </tuv>
     </tu>
     <tu>
@@ -15954,6 +15986,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `minsize`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220540Z" creationid="Nachec" creationdate="20221021T220540Z">
+        <seg>- `minsize`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `module`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T191319Z" creationid="gitnacho" creationdate="20221007T191319Z">
@@ -15974,6 +16014,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205010Z" creationid="Nachec" creationdate="20221021T205010Z">
         <seg>- `monospace`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `movablelimits`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220545Z" creationid="Nachec" creationdate="20221021T220545Z">
+        <seg>- `movablelimits`</seg>
       </tuv>
     </tu>
     <tu>
@@ -16156,6 +16204,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `rspace`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220550Z" creationid="Nachec" creationdate="20221021T220550Z">
+        <seg>- `rspace`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `rtl`, which means _right to left_ and is used to render mathematical expressions from the right to the left (e.g. Maghreb or Machrek style);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213631Z" creationid="Nachec" creationdate="20221021T213631Z">
@@ -16228,6 +16284,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `separator`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220554Z" creationid="Nachec" creationdate="20221021T220554Z">
+        <seg>- `separator`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `sh` - Bash/Shell</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174959Z" creationid="gitnacho" creationdate="20221008T174959Z">
@@ -16268,6 +16332,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `stretchy`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220558Z" creationid="Nachec" creationdate="20221021T220558Z">
+        <seg>- `stretchy`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `strict-origin-when-cross-origin` (default): Send a full URL when performing a same-origin request, only send the origin when the protocol security level stays the same (HTTPS→HTTPS), and send no header to a less secure destination (HTTPS→HTTP).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130050Z" creationid="gitnacho" creationdate="20221003T130050Z">
@@ -16288,6 +16360,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174828Z" creationid="gitnacho" creationdate="20221008T174828Z">
         <seg>- `svg` - SVG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `symmetric`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220608Z" creationid="Nachec" creationdate="20221021T220608Z">
+        <seg>- `symmetric`</seg>
       </tuv>
     </tu>
     <tu>
@@ -19028,6 +19108,20 @@ tags:</seg>
         <seg>---
 title: &lt;mn&gt;
 slug: Web/MathML/Element/mn
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: &lt;mo&gt;
+slug: Web/MathML/Element/mo
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220516Z" creationid="Nachec" creationdate="20221021T220516Z">
+        <seg>---
+title: &lt;mo&gt;
+slug: Web/MathML/Element/mo
 tags:</seg>
       </tuv>
     </tu>
@@ -23893,6 +23987,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061633Z" creationid="Nachec" creationdate="20221021T061633Z">
         <seg>&lt;/mrow&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/mrow&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220612Z" creationid="Nachec" creationdate="20221021T220612Z">
+        <seg>&lt;/mrow&gt;
+&lt;/math&gt;</seg>
       </tuv>
     </tu>
     <tu>
