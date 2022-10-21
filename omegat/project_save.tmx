@@ -1944,6 +1944,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Unicode characters for mathematics</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T185017Z" creationid="Nachec" creationdate="20221021T185017Z">
+        <seg>## Caracteres Unicode para matemáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Updating your service worker</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T104125Z" creationid="gitnacho" creationdate="20220921T034813Z">
@@ -23002,6 +23010,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a href="/en-US/docs/Learn/CSS/Styling_text/Web_fonts"&gt;web fonts&lt;/a&gt;).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184922Z" creationid="Nachec" creationdate="20221021T184922Z">
+        <seg>&lt;a href="/es/docs/Learn/CSS/Styling_text/Web_fonts"&gt;fuentes web&lt;/a&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a href="/en-US/docs/Learn/HTML/Introduction_to_HTML"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055908Z" creationid="Nachec" creationdate="20221021T055908Z">
@@ -35244,6 +35260,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mathematical formulas involve many special characters, for example greek letters (e.g. Δ), fraktur letters (e.g. 𝔄), double-struck letter (e.g. ℂ), binary operators (e.g. ≠), arrows (e.g. ⇒), integral symbols (e.g. ∮), summation symbols (e.g. ∑), logical symbols (e.g. ∀), fences (e.g. ⌊) and many more.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T185140Z" creationid="Nachec" creationdate="20221021T185140Z">
+        <seg>Las fórmulas matemáticas involucran muchos caracteres especiales, por ejemplo, letras gGriegas (p. ej., Δ), letras fraktur (p. ej., 𝔄), letras dobles (p. ej., ℂ), operadores binarios (p. ej., ≠), flechas (p. ej., ⇒), símbolos integrales (p. ej., ∮ ), símbolos de suma (por ejemplo, ∑), símbolos lógicos (por ejemplo, ∀), vallas (por ejemplo, ⌊) y muchos más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maybe that sounds obvious to some people, but some of you are reading this article on your phone or a library computer.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164514Z" creationid="gitnacho" creationdate="20221012T164514Z">
@@ -44219,6 +44243,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055949Z" creationid="Nachec" creationdate="20221021T055949Z">
         <seg>Familiarizarte con los elementos de MathML que se utilizan para escribir fracciones y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To get familiar with MathML elements used for writing text and be aware</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184936Z" creationid="Nachec" creationdate="20221021T184936Z">
+        <seg>Para familiarizarte con los elementos de MathML utilizados para escribir texto y estar consciente</seg>
       </tuv>
     </tu>
     <tu>
@@ -56499,6 +56531,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211102T043040Z" creationid="gitnacho" creationdate="20211102T043040Z">
         <seg>ocurrido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of special behaviors.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T185009Z" creationid="Nachec" creationdate="20221021T185009Z">
+        <seg>de conductas especiales.</seg>
       </tuv>
     </tu>
     <tu>
