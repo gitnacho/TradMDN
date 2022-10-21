@@ -11107,6 +11107,17 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Topic
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064050Z" creationid="Nachec" creationdate="20221021T064050Z">
+        <seg>- Topic
+  - Tema
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Traditional MDN "live samples" — A macro that takes plain code blocks, dynamically puts them into a document inside an {{htmlelement("iframe")}} element, and embeds it into the page to show the code running live.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204156Z" creationid="gitnacho" creationdate="20221005T204156Z">
@@ -19334,9 +19345,9 @@ title: Writing mathematics with MathML
 slug: Learn/MathML
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063302Z" creationid="Nachec" creationdate="20221021T063302Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064021Z" creationid="Nachec" creationdate="20221021T063302Z">
         <seg>---
-title: Writing mathematics with MathML
+title: Escribir matemáticas con MathML
 slug: Learn/MathML
 tags:</seg>
       </tuv>
@@ -23714,9 +23725,9 @@ i32.mul</seg>
         <seg>&gt;
 &gt; We have put together a course that includes all the essential information you need to work towards your goal.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063634Z" creationid="Nachec" creationdate="20221021T063634Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064413Z" creationid="Nachec" creationdate="20221021T063634Z">
         <seg>&gt;
-&gt; Hemos preparado un curso que incluye toda la información esencial que necesitas para trabajar hacia tu objetivo.</seg>
+&gt; Hemos preparado un curso que incluye toda la información esencial que necesitas para que puedas alcanzar tu objetivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56464,6 +56475,21 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T054016Z" creationid="Nachec" creationdate="20221021T054016Z">
         <seg>- Landing
   - Destino
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/mathml/index.md</prop>
+      <prop type="prev">- Learn</prop>
+      <prop type="next">{{LearnSidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Topic
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064113Z" creationid="Nachec" creationdate="20221021T064113Z">
+        <seg>- Topic
+  - Tema
 reviewer: Nachec
 ---</seg>
       </tuv>
