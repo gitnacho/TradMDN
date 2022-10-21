@@ -3682,6 +3682,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Mathematical fonts</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075458Z" creationid="Nachec" creationdate="20221021T075458Z">
+        <seg>#### Fuentes matemáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Modules</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224229Z" creationid="gitnacho" creationdate="20221018T224229Z">
@@ -24352,6 +24360,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** The fonts and stylesheets from that MathFonts page are distributed under open source licenses, so feel free to copy them on your own server and adapt them to your need.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075743Z" creationid="Nachec" creationdate="20221021T075743Z">
+        <seg>&gt; **Nota:** Las fuentes y las hojas de estilo de esa página de MathFonts se distribuyen bajo licencias de código abierto, así que no dudes en copiarlas en tu propio servidor y adaptarlas a tus necesidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** The key matching algorithm depends on the [VARY header](https://www.fastly.com/blog/best-practices-using-vary-header) in the value.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203125Z" creationid="gitnacho" creationdate="20221003T203125Z">
@@ -26084,6 +26100,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, they are distributed under an open source license, so feel free to copy them on your own server and adapt them to your need.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075453Z" creationid="Nachec" creationdate="20221021T075453Z">
+        <seg>Además, se distribuyen bajo una licencia de código abierto, así que siéntete libre de copiarlos en tu propio servidor y adaptarlos a tus necesidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211101T205249Z" creationid="gitnacho" creationdate="20211101T205249Z">
@@ -26554,6 +26578,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T090232Z" creationid="gitnacho" creationdate="20221007T080618Z">
         <seg>Como se describió anteriormente, puedes crear objetos [`Memory`](/es/docs/WebAssembly/JavaScript_interface/Memory) compartidos de WebAssembly, que se pueden transferir entre los contextos *Window* y *Worker* usando [`postMessage()`](/es/docs/Web/API/Window/postMessage), de la misma forma que [`SharedArrayBuffer`](/es/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As explained on the [MathML Fonts](/en-US/docs/Web/MathML/Fonts) article, mathematical fonts are instrumental to render MathML content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075521Z" creationid="Nachec" creationdate="20221021T075521Z">
+        <seg>Como se explica en el artículo [Fuentes MathML](/es/docs/Web/MathML/Fonts), las fuentes matemáticas son fundamentales para representar el contenido de MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28625,6 +28657,14 @@ a simple value):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T043644Z" creationid="gitnacho" creationdate="20220925T043644Z">
         <seg>Por ejemplo, ¿mi contenido es un conjunto de párrafos o una lista de viñetas?,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, just insert the following line in your document header in order to select the Latin Modern fonts with fallback Web fonts:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075707Z" creationid="Nachec" creationdate="20221021T075707Z">
+        <seg>Por ejemplo, simplemente inserta la siguiente línea en la cabecera de tu documento para seleccionar las fuentes Latin Modern con fuentes Web alternativas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32207,6 +32247,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's thus always a good idea to share the [installation instructions for such fonts](/en-US/docs/Web/MathML/Fonts#installation_instructions) or to provide them as [Web fonts](/en-US/docs/Learn/CSS/Styling_text/Web_fonts).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075630Z" creationid="Nachec" creationdate="20221021T075630Z">
+        <seg>Por lo tanto, siempre es una buena idea compartir las [instrucciones de instalación para dichas fuentes](/es/docs/Web/MathML/Fonts#instrucciones_de_instalación) o proporcionarlas como [fuentes web](/es/docs/Learn/CSS/Styling_text/Web_fonts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's unnecessary to specify the `charset` attribute, because documents must use UTF-8, and the `script` element inherits its character encoding from the document.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T132857Z" creationid="gitnacho" creationdate="20221003T132857Z">
@@ -35028,6 +35076,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Several fonts are proposed and you can just select a different style, for example STIX:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075721Z" creationid="Nachec" creationdate="20221021T075721Z">
+        <seg>Se proponen varias fuentes y puedes seleccionar un estilo diferente, por ejemplo STIX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shared memory and high-resolution timers were effectively [disabled at the start of 2018](https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/) in light of [Spectre](&lt;https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)&gt;).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T023623Z" creationid="gitnacho" creationdate="20220923T023623Z">
@@ -36318,6 +36374,14 @@ of the service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223747Z" creationid="gitnacho" creationdate="20221018T223747Z">
         <seg>El artículo [Aprender y obtener ayuda](/es/docs/Learn/Learning_and_getting_help) te brinda una serie de consejos para buscar información y ayudarte a ti mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The [MathFonts page](https://fred-wang.github.io/MathFonts/) provides such Web fonts together with proper style sheets.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075644Z" creationid="Nachec" creationdate="20221021T075644Z">
+        <seg>La [página de MathFonts](https://fred-wang.github.io/MathFonts/) proporciona dichas fuentes web junto con las hojas de estilo adecuadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45282,6 +45346,16 @@ math {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```html
+&lt;link</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075709Z" creationid="Nachec" creationdate="20221021T075709Z">
+        <seg>```html
+&lt;link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
 &lt;math display="block"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061459Z" creationid="Nachec" creationdate="20221021T061459Z">
@@ -52005,6 +52079,16 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061458Z" creationid="Nachec" creationdate="20221021T061458Z">
         <seg>href="https://fred-wang.github.io/MathFonts/LatinModern/mathfonts.css" /&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>href="https://fred-wang.github.io/MathFonts/STIX/mathfonts.css" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075722Z" creationid="Nachec" creationdate="20221021T075722Z">
+        <seg>href="https://fred-wang.github.io/MathFonts/STIX/mathfonts.css" /&gt;
 ```</seg>
       </tuv>
     </tu>
