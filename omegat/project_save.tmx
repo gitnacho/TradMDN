@@ -1986,6 +1986,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Active learning: nesting different elements</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060406Z" creationid="Nachec" creationdate="20221021T060406Z">
+        <seg>### Aprendizaje activo: anidar diferentes elementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Adding functionality to your module</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054028Z" creationid="gitnacho" creationdate="20221007T054028Z">
@@ -8952,6 +8960,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T211008Z" creationid="gitnacho" creationdate="20221011T211008Z">
         <seg>- Fetch API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Finally, the `&lt;mroot&gt;` element is rendered as an nth root: The first element is covered by the radical symbol while the second element is used as the degree of the root and rendered as a prefix superscript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060355Z" creationid="Nachec" creationdate="20221021T060355Z">
+        <seg>- Finalmente, el elemento `&lt;mroot&gt;` se renderiza como la eNésima raíz: El primer elemento está cubierto por el símbolo radical, mientras que el segundo elemento se usa como el grado de la raíz y se renderiza como un superíndice prefijo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22327,6 +22343,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;link rel="stylesheet" href="https://fred-wang.github.io/MathFonts/LatinModern/mathfonts.css"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060530Z" creationid="Nachec" creationdate="20221021T060530Z">
+        <seg>&lt;link rel="stylesheet" href="https://fred-wang.github.io/MathFonts/LatinModern/mathfonts.css"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;meta charset="UTF-8" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210830T134533Z" creationid="gitnacho" creationdate="20210830T134533Z">
@@ -22339,6 +22363,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20181025T043720Z" creationid="nacho" creationdate="20181025T043720Z">
         <seg>&lt;meta charset="utf-8" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;meta charset="utf-8"/&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060504Z" creationid="Nachec" creationdate="20221021T060504Z">
+        <seg>&lt;meta charset="utf-8"/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23061,6 +23093,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210917T060455Z" creationid="gitnacho" creationdate="20210830T134545Z">
         <seg>&lt;title&gt;¡Hello World!&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;title&gt;My page with math characters&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060513Z" creationid="Nachec" creationdate="20221021T060513Z">
+        <seg>&lt;title&gt;Mi página con caracteres matemáticos&lt;/title&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28485,6 +28525,14 @@ Connection: Keep-Alive
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here is a simple exercise to verify whether you understood the relation between a MathML subtree and its visual rendering.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060432Z" creationid="Nachec" creationdate="20221021T060432Z">
+        <seg>Aquí hay un ejercicio simple para verificar si entendiste la relación entre un subárbol de MathML y ​​su renderizado visual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here is an example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170325T110239Z" creationid="nacho" creationdate="20170325T110239Z">
@@ -33033,6 +33081,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once you are done, you can inspect the source of the MathML formula and verify if it matches your expectation.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060501Z" creationid="Nachec" creationdate="20221021T060501Z">
+        <seg>Una vez que hayas terminado, puedes inspeccionar la fuente de la fórmula MathML y ​​verificar si coincide con tus expectativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once you've got the tool built, add the `/wabt/out/clang/Debug` directory to your system `PATH`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182843Z" creationid="gitnacho" creationdate="20221007T182843Z">
@@ -36046,6 +36102,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T091818Z" creationid="gitnacho" creationdate="20221003T010651Z">
         <seg>Los distintos tipos de código se pueden llamar uno al otro según necesiten — la [API JavaScript de WebAssembly](/es/docs/WebAssembly/JavaScript_interface) envuelve código WebAssembly exportado con funciones JavaScript, que pueden ser llamadas normalmente, y WebAssembly puede importar y llamar sincrónicamente funciones JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The document contains a MathML formula and you must check all subtrees corresponding to a subtree in that MathML formula.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060448Z" creationid="Nachec" creationdate="20221021T060448Z">
+        <seg>El documento contiene una fórmula MathML y ​​debe verificar todos los subárboles correspondientes a un subárbol en esa fórmula MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44246,6 +44310,18 @@ p.fancy {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183350Z" creationid="gitnacho" creationdate="20221008T183350Z">
         <seg>```html
 &lt;ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html hidden
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en-US"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060503Z" creationid="Nachec" creationdate="20221021T060503Z">
+        <seg>```html hidden
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en-US"&gt;</seg>
       </tuv>
     </tu>
     <tu>
