@@ -5773,6 +5773,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether attached under- and overscripts move to sub- and superscript positions when [`math-style`](/en-US/docs/Web/CSS/math-style) is set to `compact`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221616Z" creationid="Nachec" creationdate="20221021T221519Z">
+        <seg>- : Un [`&lt;boolean&gt;`](/es/docs/Web/MathML/Attribute/Values#tipos_específicos_de_mathml) que indica si los subíndices y sobreíndices adjuntos se mueven a posiciones de subíndices y superíndices cuando [`math-style `](/es/docs/Web/CSS/math-style) está configurado como `compact`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether the operator is a fence (such as parentheses).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221314Z" creationid="Nachec" creationdate="20221021T221314Z">
@@ -5785,6 +5793,30 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221229Z" creationid="Nachec" creationdate="20221021T221104Z">
         <seg>- : Un [`&lt;boolean&gt;`](/es/docs/Web/MathML/Attribute/Values#tipos_específicos_de_mathml) que indica si el operador se debe tratar como un acento cuando se usa como [under](/es/docs/Web/MathML/Element/munder)- u [overscript](/es/docs/Web/MathML/Element/mover) (es decir, dibujado más grande y más cerca de la expresión base).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A [`&lt;length-percentage&gt;`](/en-US/docs/Web/CSS/length-percentage) indicating the amount of space before the operator.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221353Z" creationid="Nachec" creationdate="20221021T221353Z">
+        <seg>- : Un [`&lt;length-percentage&gt;`](/es/docs/Web/CSS/length-percentage) que indica la cantidad de espacio antes del operador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A [`&lt;length-percentage&gt;`](/en-US/docs/Web/CSS/length-percentage) indicating the maximum size of the operator when it is stretchy.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221427Z" creationid="Nachec" creationdate="20221021T221427Z">
+        <seg>- : Un [`&lt;length-percentage&gt;`](/es/docs/Web/CSS/length-percentage) que indica el tamaño máximo del operador cuando es flexible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A [`&lt;length-percentage&gt;`](/en-US/docs/Web/CSS/length-percentage) indicating the minimum size of the operator when it is stretchy.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221456Z" creationid="Nachec" creationdate="20221021T221456Z">
+        <seg>- : Un [`&lt;length-percentage&gt;`](/es/docs/Web/CSS/length-percentage) que indica el tamaño mínimo del operador cuando es extensible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44164,6 +44196,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030726Z" creationid="gitnacho" creationdate="20220923T030726Z">
         <seg>Existe la esperanza de que esta restricción se pueda eliminar en el futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is no visual effect for this attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221321Z" creationid="Nachec" creationdate="20221021T221321Z">
+        <seg>No hay ningún efecto visual para este atributo.</seg>
       </tuv>
     </tu>
     <tu>
