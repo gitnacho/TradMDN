@@ -5413,8 +5413,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : After mastering the essentials of vanilla HTML, CSS, and JavaScript, you should learn about [client-side web development tools](/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools), and then consider digging into [client-side JavaScript frameworks](/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), and [server-side website programming](/en-US/docs/Learn/Server-side).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T181738Z" creationid="gitnacho" creationdate="20221020T123525Z">
-        <seg>- : ¡Excelente! Después de dominar los fundamentos del HTML, CSS y JavaScript puedes estar interesado en explorar las [Guías avanzadas](/es/docs/Web/Guide) y [Tutoriales](/es/docs/Web/Tutorials). Otra excelente idea es aprender sobre las [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools) y luego considera ahondar en los [marcos de desarrollo (*frameworks*) de JavaScript de lado del cliente](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks), y la [Programación de sitios web de lado del servidor](/es/docs/Learn/Server-side). Finalmente deberías considerar [Contribuir al Área de Aprendizaje](/es/docs/MDN/Contribute).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000619Z" creationid="gitnacho" creationdate="20221020T123525Z">
+        <seg>- : Después de dominar los conceptos básicos de HTML, CSS y JavaScript estándar, debes aprender sobre [herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools), y luego considera profundizar en [marcos de JavaScript de lado del cliente](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks) y [programación de sitios web de lado del servidor](/es/docs/Learn/Server-side).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9000,8 +9000,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Frameworks and tooling</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130355Z" creationid="gitnacho" creationdate="20221012T232120Z">
-        <seg>- **Soy experto en la web:**</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000528Z" creationid="gitnacho" creationdate="20221012T232120Z">
+        <seg>- **Marcos y herramientas**</seg>
       </tuv>
     </tu>
     <tu>
@@ -23359,8 +23359,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** Our [glossary](/en-US/docs/Glossary) provides terminology definitions.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130710Z" creationid="gitnacho" creationdate="20221020T124135Z">
-        <seg>&gt; **Nota:** el [glosario](/es/docs/Glossary) proporciona definición de términos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000646Z" creationid="gitnacho" creationdate="20221020T124135Z">
+        <seg>&gt; **Nota:** Nuestro [glosario](/es/docs/Glossary) proporciona definiciones de terminología.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25806,8 +25806,8 @@ call, and it will pass the response into the function when it fulfills.</seg>
       <tuv lang="en-US">
         <seg>Besides, if you have a specific question about web development, our [Common questions](/en-US/docs/Learn/Common_questions) section may have something to help you.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130732Z" creationid="gitnacho" creationdate="20221020T124201Z">
-        <seg>Además, si tienes una pregunta específica sobre el desarrollo web, la sección de [preguntas frecuentes](/es/docs/Learn/Common_questions) te puede brindar información de gran utilidad.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000712Z" creationid="gitnacho" creationdate="20221020T124201Z">
+        <seg>Además, si tienes una pregunta específica sobre el desarrollo web, nuestra sección de [Preguntas comunes](/es/docs/Learn/Common_questions) puede tener algo para ayudarte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36212,8 +36212,8 @@ if a loaded module instance contains a "name" custom section.</seg>
       <tuv lang="en-US">
         <seg>The following is a list of all the topics we cover in the MDN learning area.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130758Z" creationid="gitnacho" creationdate="20221020T124230Z">
-        <seg>La siguiente es una lista de todos los temas tratados en el área de aprendizaje de MDN.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000731Z" creationid="gitnacho" creationdate="20221020T124230Z">
+        <seg>La siguiente es una lista de todos los temas que cubrimos en el área de aprendizaje de MDN.</seg>
       </tuv>
     </tu>
     <tu>
