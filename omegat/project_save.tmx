@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Lyx example](lyx.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081756Z" creationid="Nachec" creationdate="20221021T081756Z">
+        <seg>![Ejemplo Lyx](lyx.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Screenshot of a console output in developer tools](console-example.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205640Z" creationid="gitnacho" creationdate="20221005T205640Z">
@@ -98,6 +106,22 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062656Z" creationid="gitnacho" creationdate="20221019T062656Z">
         <seg>![Imágenes](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like/updated-google-images.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>![StarMath input box in Libre Office](libreoffice.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081708Z" creationid="Nachec" creationdate="20221021T081708Z">
+        <seg>![Cuadro de entrada de StarMath en Libre Office](libreoffice.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>![TeXmacs example](texmacs.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081801Z" creationid="Nachec" creationdate="20221021T081801Z">
+        <seg>![Ejemplo de TeXmacs](texmacs.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,6 +2946,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Optical character and handwriting recognitions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081912Z" creationid="Nachec" creationdate="20221021T081912Z">
+        <seg>### Reconocimiento óptico de caracteres y escritura a mano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Origin</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060525Z" creationid="gitnacho" creationdate="20221012T060525Z">
@@ -3462,6 +3494,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181716Z" creationid="gitnacho" creationdate="20221006T181716Z">
         <seg>### Visualizar `wasm` en herramientas de desarrollo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### WYSIYWG editors</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081726Z" creationid="Nachec" creationdate="20221021T081726Z">
+        <seg>### Editores WYSIYWG</seg>
       </tuv>
     </tu>
     <tu>
@@ -24234,6 +24274,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** By default Lyx and TeXmacs will use images of formulas in their HTML output.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081812Z" creationid="Nachec" creationdate="20221021T081812Z">
+        <seg>&gt; **Nota:** De manera predeterminada, Lyx y TeXmacs usarán imágenes de fórmulas en su salida HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Client hints can also be specified in HTML using the {{HTMLElement("meta")}} element with the [`http-equiv`](/en-US/docs/Web/HTML/Element/meta#attr-http-equiv) attribute.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091716Z" creationid="gitnacho" creationdate="20221012T091716Z">
@@ -24668,6 +24716,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053643Z" creationid="gitnacho" creationdate="20221004T053643Z">
         <seg>&gt; **Nota:** Esta estrategia no funcionará con todos los proyectos C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** To obtain libreoffice's MathML code, save the document as `mml` and open it with your favorite text editor.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081720Z" creationid="Nachec" creationdate="20221021T081720Z">
+        <seg>&gt; **Nota:** Para obtener el código MathML de libreoffice, guarda el documento como `mml` y ábrelo con tu editor de texto favorito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25655,6 +25711,14 @@ fields:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T094926Z" creationid="gitnacho" creationdate="20221005T094926Z">
         <seg>Algunas notas sobre llamadas a macros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A final option to enter mathematics is to rely on user interface for [Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) or [Handwriting recognition](https://en.wikipedia.org/wiki/Handwriting_recognition).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T082109Z" creationid="Nachec" creationdate="20221021T082109Z">
+        <seg>Una opción final para ingresar a matemáticas es confiar en la interfaz de usuario para [Reconocimiento óptico de caracteres](https://es.wikipedia.org/wiki/Reconocimiento_%C3%B3ptico_de_caracteres) o [Reconocimiento de escritura a mano](https://en.wikipedia.org/wiki/Handwriting_recognition).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34533,6 +34597,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other editors provide math editing features that are directly integrated into their WYSIYWG interface.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081735Z" creationid="Nachec" creationdate="20221021T081735Z">
+        <seg>Otros editores brindan funciones de edición matemática que están directamente integradas en su interfaz WYSIYWG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other variants of `br` are `br_if` for branching on condition, and `br_table` for branching to different blocks based on an argument.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081559Z" creationid="gitnacho" creationdate="20221020T081559Z">
@@ -37949,6 +38021,14 @@ if a loaded module instance contains a "name" custom section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164453Z" creationid="gitnacho" creationdate="20221012T164422Z">
         <seg>La siguiente parece una lista aterradora, pero afortunadamente, puedes comenzar en el desarrollo web sin saber nada sobre la mayoría de estos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following screenshots are taken from [LyX](https://www.lyx.org/) and [TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html), both of them supporting HTML export:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081750Z" creationid="Nachec" creationdate="20221021T081750Z">
+        <seg>Las siguientes capturas de pantalla están tomadas de [LyX](https://www.lyx.org/) y [TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html), ambas compatibles con la exportación de HTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41886,6 +41966,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20220923T023809Z">
         <seg>Para verificar si el aislamiento de origen cruzado ha sido exitoso, puedes probar con la propiedad [`crossOriginIsolated`](/es/docs/Web/API/crossOriginIsolated) disponible para los contextos de `window` y `worker`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To choose MathML instead, [follow these instructions](https://github.com/brucemiller/LaTeXML/wiki/Integrating-LaTeXML-into-TeX-editors#lyx) for the former and select `User preference &gt; Convert &gt; Export mathematical formulas as MathML` for the latter.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081855Z" creationid="Nachec" creationdate="20221021T081855Z">
+        <seg>Para elegir MathML en su lugar, [sigue estas instrucciones](https://github.com/brucemiller/LaTeXML/wiki/Integrating-LaTeXML-into-TeX-editors#lyx) para el primero y selecciona `Preferencias de usuario → Convertir → Exportar fórmulas matemáticas como MathML` para este último.</seg>
       </tuv>
     </tu>
     <tu>
