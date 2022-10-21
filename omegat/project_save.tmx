@@ -5651,8 +5651,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : CSS is the language that we can use to style and layout our web content, as well as adding behavior like animation.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131035Z" creationid="gitnacho" creationdate="20221020T131035Z">
-        <seg>- : CSS es el lenguaje que se utiliza para estilizar y organizar el contenido web, así como para añadir comportamiento tal como la animación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001047Z" creationid="gitnacho" creationdate="20221020T131035Z">
+        <seg>- : CSS es el lenguaje que podemos usar para estilizar y presentar nuestro contenido web, así como para agregar comportamientos como animación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6227,8 +6227,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : HTML is the language that we use to structure the different parts of our content and define what their meaning or purpose is.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130941Z" creationid="gitnacho" creationdate="20221020T130941Z">
-        <seg>- : HTML es el lenguaje utilizado para estructurar las diferentes partes del contenido y definir su significado o propósito.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000927Z" creationid="gitnacho" creationdate="20221020T130941Z">
+        <seg>- : HTML es el lenguaje que usamos para estructurar las diferentes partes de nuestro contenido y definir cuál es su significado o propósito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6741,8 +6741,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Provides a practical introduction to web development for complete beginners.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130827Z" creationid="gitnacho" creationdate="20221020T124446Z">
-        <seg>- : Proporciona una introducción práctica al desarrollo de la web para principiantes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000904Z" creationid="gitnacho" creationdate="20221020T124446Z">
+        <seg>- : Proporciona una introducción práctica al desarrollo web para principiantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12263,8 +12263,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [JavaScript — Dynamic client-side scripting](/en-US/docs/Learn/JavaScript)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131105Z" creationid="gitnacho" creationdate="20221020T131105Z">
-        <seg>- [JavaScript — Scripts dinámicos de lado del cliente](/es/docs/Learn/JavaScript)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001125Z" creationid="gitnacho" creationdate="20221020T131105Z">
+        <seg>- [JavaScript: Scripts dinámicos del lado del cliente](/es/docs/Learn/JavaScript)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39893,8 +39893,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This topic teaches HTML in detail.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130948Z" creationid="gitnacho" creationdate="20221020T130948Z">
-        <seg>Este tema enseña el HTML en detalle.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000937Z" creationid="gitnacho" creationdate="20221020T130948Z">
+        <seg>Este tema enseña HTML en detalle.</seg>
       </tuv>
     </tu>
     <tu>
