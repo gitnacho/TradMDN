@@ -12796,6 +12796,20 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Learning about HTML tables](/en-US/docs/Learn/HTML/Tables)
+- [The `&lt;mtable&gt;` element](/en-US/docs/Web/MathML/Element/mtable)
+- [The `&lt;mtr&gt;` element](/en-US/docs/Web/MathML/Element/mtr)
+- [The `&lt;mtd&gt;` element](/en-US/docs/Web/MathML/Element/mtd)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094922Z" creationid="Nachec" creationdate="20221021T094922Z">
+        <seg>- [Aprende sobre tablas HTML](/es/docs/Learn/HTML/Tables)
+- [El elemento `&lt;mtable&gt;`](/es/docs/Web/MathML/Element/mtable)
+- [El elemento `&lt;mtr&gt;`](/es/docs/Web/MathML/Element/mtr)
+- [El elemento `&lt;mtd&gt;`](/es/docs/Web/MathML/Element/mtd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [List of all HTTP headers](/en-US/docs/Web/HTTP/Headers)
 - Syntax of [headers](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2) in the HTTP specification
 - [Glossary](/en-US/docs/Glossary)</seg>
@@ -30812,6 +30826,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, these attributes may not be implemented in all browsers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094704Z" creationid="Nachec" creationdate="20221021T094704Z">
+        <seg>Sin embargo, es posible que estos atributos no se implementen en todos los navegadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, they are more complex to set up than the other forms, with more limitations, and are intended for specific purposes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204629Z" creationid="gitnacho" creationdate="20221005T204629Z">
@@ -32163,6 +32185,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the [three famous mathematical formulas assessment](/en-US/docs/Learn/MathML/First_steps/Three_famous_mathematical_formulas) you'll use your new knowledge to rewrite a small mathematical article using HTML and MathML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094846Z" creationid="Nachec" creationdate="20221021T094846Z">
+        <seg>En la [evaluación de las tres famosas fórmulas matemáticas](/es/docs/Learn/MathML/First_steps/Three_famous_mathematical_formulas), usarás tus nuevos conocimientos para reescribir un pequeño artículo matemático usando HTML y MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the articles listed below, we'll cover all the essential aspects of structuring, styling, and interacting with web forms.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001350Z" creationid="gitnacho" creationdate="20221020T131247Z">
@@ -32231,6 +32261,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080442Z" creationid="gitnacho" creationdate="20221003T080442Z">
         <seg>En el futuro, los módulos de WebAssembly se podrán cargar igual que los módulos de [ES2015](https://github.com/WebAssembly/proposals/issues/12) (usar `&lt;script type='module'&gt;`), implica que JavaScript será capaz de ir a buscar, compilar e importar un módulo de WebAssembly tan fácilmente como un módulo de ES2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the future, it is likely that usages of `&lt;mtable&gt;` for layout-only purpose (i.e. not actual matrix-like objects) can be replaced with CSS-based alternatives.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094749Z" creationid="Nachec" creationdate="20221021T094749Z">
+        <seg>En el futuro, es probable que uses `&lt;mtable&gt;` solo para fines de diseño (es decir, objetos no similares a una matriz real) se puedan reemplazar con alternativas basadas en CSS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32371,6 +32409,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T054935Z" creationid="gitnacho" creationdate="20220925T054935Z">
         <seg>En este artículo, te guiaremos a través de lo que necesitas para comenzar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this article, we've reviewed the `&lt;mtable&gt;`, `&lt;mtr&gt;` and `&lt;mtd&gt;` elements which are the equivalent of HTML elements for tables.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094802Z" creationid="Nachec" creationdate="20221021T094802Z">
+        <seg>En este artículo, hemos revisado los elementos `&lt;mtable&gt;`, `&lt;mtr&gt;` y `&lt;mtd&gt;`, que son equivalentes a los elementos HTML para tablas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35180,6 +35226,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063147Z" creationid="gitnacho" creationdate="20221004T063147Z">
         <seg>Una vez más, vemos el atributo `#[wasm_bindgen]`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once all basic math notations are known, it remains to consider tabular layout which can be used for matrix-like expressions and other advanced math layout.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095008Z" creationid="Nachec" creationdate="20221021T095008Z">
+        <seg>Una vez que se conocen todas las notaciones matemáticas básicas, queda considerar el diseño tabular que se puede usar para expresiones similares a matrices y otros diseños matemáticos avanzados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40584,6 +40638,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These originated before CSS equivalents and were originally designed and intended for renderers which were not-CSS aware.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094657Z" creationid="Nachec" creationdate="20221021T094657Z">
+        <seg>Estos se originaron antes de los equivalentes de CSS y originalmente fueron diseñados y destinados a renderizadores que no conocían CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These pages can't be represented in GFM anyway, because they have a header column.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191200Z" creationid="gitnacho" creationdate="20221008T191125Z">
@@ -43671,6 +43733,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We have seen how to use them for representing matrix-like objects and how it is sometimes used for advanced layout.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094815Z" creationid="Nachec" creationdate="20221021T094815Z">
+        <seg>Hemos visto cómo usarlos para representar objetos similares a matrices y cómo a veces se usa para diseños avanzados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We have tried to make learning front-end web development as comfortable as possible, but you will probably still get stuck because you don't understand something, or some code is just not working.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223712Z" creationid="gitnacho" creationdate="20221018T223712Z">
@@ -45550,6 +45620,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T051555Z" creationid="gitnacho" creationdate="20220921T041809Z">
         <seg>Querrás actualizar tu detector de eventos `install` en el nuevo *service worker* a algo como esto (observa el nuevo número de versión):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've nearly finished this module — we only have one more thing to do.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094825Z" creationid="Nachec" creationdate="20221021T094825Z">
+        <seg>Ya casi ha terminado este módulo; solo tenemos una cosa más que hacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58572,6 +58650,21 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083108Z" creationid="Nachec" creationdate="20221021T083108Z">
         <seg>- first steps
   - primeros pasos
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/mathml/first_steps/tables/index.md</prop>
+      <prop type="prev">- MathML</prop>
+      <prop type="next">{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Scripts", "Learn/MathML/First_steps/Three_famous_mathematical_formulas", "Learn/MathML/First_steps")}}</prop>
+      <tuv lang="en-US">
+        <seg>- Landing
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094940Z" creationid="Nachec" creationdate="20221021T094940Z">
+        <seg>- Landing
+  - Destino
 reviewer: Nachec
 ---</seg>
       </tuv>
