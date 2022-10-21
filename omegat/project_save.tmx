@@ -9773,8 +9773,9 @@ reviewer: Nachec
         <seg>- Landing
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T053653Z" creationid="Nachec" creationdate="20221021T053653Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T053953Z" creationid="Nachec" creationdate="20221021T053653Z">
         <seg>- Landing
+  - Destino
 ---</seg>
       </tuv>
     </tu>
@@ -55050,6 +55051,21 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122601Z" creationid="gitnacho" creationdate="20221020T122601Z">
         <seg>- Web
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/mathml/first_steps/fractions_and_roots/index.md</prop>
+      <prop type="prev">- MathML</prop>
+      <prop type="next">{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Text_containers", "Learn/MathML/First_steps/Scripts", "Learn/MathML/First_steps")}}</prop>
+      <tuv lang="en-US">
+        <seg>- Landing
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T054016Z" creationid="Nachec" creationdate="20221021T054016Z">
+        <seg>- Landing
+  - Destino
 reviewer: Nachec
 ---</seg>
       </tuv>
