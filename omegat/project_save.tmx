@@ -39344,8 +39344,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This is the underlying version control system software that GitHub works on top of.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173546Z" creationid="Nachec" creationdate="20221020T173546Z">
-        <seg>Este es el sistema de control de versiones de software con el que trabaja GitHub principalmente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050537Z" creationid="Nachec" creationdate="20221020T173546Z">
+        <seg>Este es el software del sistema de control de versiones subyacente sobre el que funciona GitHub.</seg>
       </tuv>
     </tu>
     <tu>
