@@ -22702,6 +22702,56 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;!-- a bold "cos" i.e. "𝐜𝐨𝐬" --&gt;
+&lt;mi mathvariant="bold"&gt;cos&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203525Z" creationid="Nachec" creationdate="20221021T203525Z">
+        <seg>&lt;!-- un "cos" en negrita, es decir "𝐜𝐨𝐬" --&gt;
+&lt;mi mathvariant="bold"&gt;cos&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- a double-struck "A" i.e. "𝔸" --&gt;
+&lt;mi mathvariant="double-struck"&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203653Z" creationid="Nachec" creationdate="20221021T203653Z">
+        <seg>&lt;!-- una  "A" de doble golpe, es decir "𝔸" --&gt;
+&lt;mi mathvariant="double-struck"&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- a fraktur "A" i.e. "𝔄" --&gt;
+&lt;mi mathvariant="fraktur"&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203852Z" creationid="Nachec" creationdate="20221021T203852Z">
+        <seg>&lt;!-- una "A" fracturada, es decir "𝔄" --&gt;
+&lt;mi mathvariant="fraktur"&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- a normal "A" --&gt;
+&lt;mi mathvariant="normal"&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203445Z" creationid="Nachec" creationdate="20221021T203445Z">
+        <seg>&lt;!-- a normal "A" --&gt;
+&lt;mi mathvariant="normal"&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- a normal "cos" --&gt;
+&lt;mi&gt;cos&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203458Z" creationid="Nachec" creationdate="20221021T203458Z">
+        <seg>&lt;!-- un "cos" normal --&gt;
+&lt;mi&gt;cos&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;!-- an italic "A" i.e. "𝐴"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203409Z" creationid="Nachec" creationdate="20221021T203409Z">
