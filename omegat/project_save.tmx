@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"Congratulations, you checked all the correct answers!"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061415Z" creationid="Nachec" creationdate="20221021T061415Z">
+        <seg>"¡Felicidades, comprobaste todas las respuestas correctas!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"\n" +</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220805T222527Z" creationid="nachec" creationdate="20220805T222527Z">
@@ -1556,6 +1564,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114055Z" creationid="gitnacho" creationdate="20221005T114055Z">
         <seg>## Indicadores de estado y compatibilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Stretchy radical symbols</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061427Z" creationid="Nachec" creationdate="20221021T061427Z">
+        <seg>## Símbolos radicales elásticos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,6 +4178,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075336Z" creationid="gitnacho" creationdate="20221020T075336Z">
         <seg>(block $my_block</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(checkbox) =&gt; !!checkbox.checked === !!checkbox.dataset.highlight</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061338Z" creationid="Nachec" creationdate="20221021T061338Z">
+        <seg>(checkbox) =&gt; !!checkbox.checked === !!checkbox.dataset.highlight</seg>
       </tuv>
     </tu>
     <tu>
@@ -21050,6 +21074,18 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>: "";
+}
+checkboxes.forEach((checkbox) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061416Z" creationid="Nachec" creationdate="20221021T061416Z">
+        <seg>: "";
+}
+checkboxes.forEach((checkbox) =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>: `FAIL!&lt;br&gt;Got: ${got}&lt;br&gt;Expected: ${expected}&lt;br&gt;`;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233939Z" creationid="gitnacho" creationdate="20221006T233939Z">
@@ -21400,6 +21436,16 @@ i32.mul</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064620Z" creationid="gitnacho" creationdate="20221004T064620Z">
         <seg>&lt;/body&gt;
 &lt;/html&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/body&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061318Z" creationid="Nachec" creationdate="20221021T061318Z">
+        <seg>&lt;/body&gt;
 ```</seg>
       </tuv>
     </tu>
@@ -22335,6 +22381,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="The fraction six over seven." data-highlight="mfrac2"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061222Z" creationid="Nachec" creationdate="20221021T061222Z">
+        <seg>&lt;input type="checkbox" data-comment="La fracción seis sobre siete." data-highlight="mfrac2"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="checkbox" data-comment="The square root of 'eight minus nine'." data-highlight="msqrt2"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061003Z" creationid="Nachec" creationdate="20221021T061003Z">
@@ -22367,6 +22421,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="This formula does not contain any square root with more than two numbers!"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061240Z" creationid="Nachec" creationdate="20221021T061240Z">
+        <seg>&lt;input type="checkbox" data-comment="¡Esta fórmula no contiene ninguna raíz cuadrada con más de dos números!"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="checkbox" data-comment="Verify the order of children in an mfrac!"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060601Z" creationid="Nachec" creationdate="20221021T060601Z">
@@ -22395,6 +22457,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061141Z" creationid="Nachec" creationdate="20221021T061141Z">
         <seg>&lt;input type="checkbox" data-comment="mroot debe tener exactamente dos hijos!"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-highlight="mroot1" data-comment="The cubic root of four."&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061303Z" creationid="Nachec" creationdate="20221021T061303Z">
+        <seg>&lt;input type="checkbox" data-highlight="mroot1" data-comment="La raíz cúbica de cuatro."&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22499,6 +22569,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060047Z" creationid="Nachec" creationdate="20221021T060047Z">
         <seg>&lt;mfrac&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;1&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061501Z" creationid="Nachec" creationdate="20221021T061501Z">
+        <seg>&lt;mn&gt;1&lt;/mn&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22893,6 +22971,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T075928Z" creationid="gitnacho" creationdate="20220828T075928Z">
         <seg>&lt;span</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong id="comment"&gt;&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061316Z" creationid="Nachec" creationdate="20221021T061316Z">
+        <seg>&lt;strong id="comment"&gt;&lt;/strong&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong id="status"&gt;&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061317Z" creationid="Nachec" creationdate="20221021T061317Z">
+        <seg>&lt;strong id="status"&gt;&lt;/strong&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24423,6 +24517,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Warning:** Special [math fonts](/en-US/docs/Web/MathML/Fonts) are generally required to make that stretching possible, the previous example relies on [web fonts](/en-US/docs/Learn/CSS/Styling_text/Web_fonts).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061525Z" creationid="Nachec" creationdate="20221021T061525Z">
+        <seg>&gt; **Advertencia:** Por lo general, se requieren [fuentes matemáticas](/es/docs/Web/MathML/Fonts) especiales para hacer posible esa extensión, el ejemplo anterior se basa en [fuentes web](/es/docs/Learn/CSS/Styling_text/Web_fonts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Warning:** This attribute must not be used if the `src` attribute is absent (i.e. for inline scripts), in this case it would have no effect.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T192353Z" creationid="gitnacho" creationdate="20221003T123718Z">
@@ -25800,6 +25902,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An mfrac with two mn children.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061229Z" creationid="Nachec" creationdate="20221021T061229Z">
+        <seg>Un mfrac con dos mn hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An mroot with an mfrac as its first child and mn as its second child.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060925Z" creationid="Nachec" creationdate="20221021T060925Z">
@@ -25824,10 +25934,26 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An mroot with two mn children.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061314Z" creationid="Nachec" creationdate="20221021T061314Z">
+        <seg>Un mroot con dos mn hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An msqrt containing an mfrac element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060807Z" creationid="Nachec" creationdate="20221021T060807Z">
         <seg>Un msqrt que contiene un elemento mfrac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An msqrt with five mn children.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061247Z" creationid="Nachec" creationdate="20221021T061247Z">
+        <seg>Un msqrt con cinco mn niños.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26086,6 +26212,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T055253Z" creationid="gitnacho" creationdate="20221007T055253Z">
         <seg>Como se mencionó anteriormente, el cuerpo de la función es una lista de instrucciones que se siguen cuando se llama a la función.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As previously seen, the overbar of the `&lt;msqrt&gt;` and `&lt;mroot&gt;` elements stretches horizontally to cover their content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061441Z" creationid="Nachec" creationdate="20221021T061441Z">
+        <seg>Como se vio anteriormente, la barra superior de los elementos `&lt;msqrt&gt;` y `&lt;mroot&gt;` se extiende horizontalmente para cubrir su contenido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26467,6 +26601,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210549Z" creationid="gitnacho" creationdate="20221017T210549Z">
         <seg>Pero CORS brinda a los servidores web la capacidad de decir que desean optar por permitir el acceso de origen cruzado a sus recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But actually the root symbol √ also stretches to be as tall as their content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061455Z" creationid="Nachec" creationdate="20221021T061455Z">
+        <seg>Pero en realidad, el símbolo raíz √ también se estira para ser tan alto como su contenido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44415,6 +44557,16 @@ p.fancy {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```css hidden
+math {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061319Z" creationid="Nachec" creationdate="20221021T061319Z">
+        <seg>```css hidden
+math {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>```html</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112244Z" creationid="gitnacho" creationdate="20221003T112244Z">
@@ -44511,6 +44663,16 @@ p.fancy {</seg>
 &lt;br /&gt;
 &lt;img src="example.svg#three" alt="círculo azul" width="100" height="100" /&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;math display="block"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061459Z" creationid="Nachec" creationdate="20221021T061459Z">
+        <seg>```html
+&lt;math display="block"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44634,6 +44796,16 @@ p.fancy {</seg>
         <seg>```html hidden
 &lt;!DOCTYPE html&gt;
 &lt;html lang="en-US"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html hidden
+&lt;link</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061456Z" creationid="Nachec" creationdate="20221021T061456Z">
+        <seg>```html hidden
+&lt;link</seg>
       </tuv>
     </tu>
     <tu>
@@ -46455,6 +46627,24 @@ const memory = new WebAssembly.Memory({</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```js hidden
+const options = document.getElementById("options");
+const comment = document.getElementById("comment");
+const checkboxes = Array.from(options.getElementsByTagName("input"));
+const status = document.getElementById("status");
+function verifyOption(checkbox) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061329Z" creationid="Nachec" creationdate="20221021T061329Z">
+        <seg>```js hidden
+const options = document.getElementById("options");
+const comment = document.getElementById("comment");
+const checkboxes = Array.from(options.getElementsByTagName("input"));
+const status = document.getElementById("status");
+function verifyOption(checkbox) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>```js-nolint
 Promise.resolve(value)
 ```</seg>
@@ -47991,6 +48181,30 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>background: lightblue;
+}
+p {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061323Z" creationid="Nachec" creationdate="20221021T061323Z">
+        <seg>background: lightblue;
+}
+p {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>background: pink;
+}
+math [id] .highlight {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061322Z" creationid="Nachec" creationdate="20221021T061322Z">
+        <seg>background: pink;
+}
+math [id] .highlight {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bar</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210916T044325Z" creationid="gitnacho" creationdate="20210916T044325Z">
@@ -48355,6 +48569,22 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>checkbox.addEventListener("change", () =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061417Z" creationid="Nachec" creationdate="20221021T061417Z">
+        <seg>checkbox.addEventListener("change", () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>checkbox.checked = false;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061335Z" creationid="Nachec" creationdate="20221021T061335Z">
+        <seg>checkbox.checked = false;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>class A {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201215T191120Z" creationid="nacho" creationdate="20201215T191120Z">
@@ -48455,6 +48685,22 @@ unreachable
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220910T205624Z" creationid="gitnacho" creationdate="20220910T205624Z">
         <seg>comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>comment.textContent = "";</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061335Z" creationid="Nachec" creationdate="20221021T061335Z">
+        <seg>comment.textContent = "";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>comment.textContent = checkbox.dataset.comment;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061334Z" creationid="Nachec" creationdate="20221021T061334Z">
+        <seg>comment.textContent = checkbox.dataset.comment;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49638,6 +49884,14 @@ console.log(`original === cast ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>const finished = checkboxes.every(</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061337Z" creationid="Nachec" creationdate="20221021T061337Z">
+        <seg>const finished = checkboxes.every(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>const global = new WebAssembly.Global({ value: "i32", mutable: true }, 0);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233943Z" creationid="gitnacho" creationdate="20221006T233943Z">
@@ -50700,6 +50954,26 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font-family: Latin Modern Math, STIX Two Math;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061321Z" creationid="Nachec" creationdate="20221021T061321Z">
+        <seg>font-family: Latin Modern Math, STIX Two Math;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>font-size: 200%;
+}
+math .highlight {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061321Z" creationid="Nachec" creationdate="20221021T061321Z">
+        <seg>font-size: 200%;
+}
+math .highlight {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font: `font-cache-v${CACHE_VERSION}`,
 };</seg>
       </tuv>
@@ -51076,6 +51350,16 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>href="https://fred-wang.github.io/MathFonts/LatinModern/mathfonts.css" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061458Z" creationid="Nachec" creationdate="20221021T061458Z">
+        <seg>href="https://fred-wang.github.io/MathFonts/LatinModern/mathfonts.css" /&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>href="https://github.com/mdn/yari/tree/main/kumascript/macros/SVGElement.ejs"&gt;SVGElement&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T111343Z" creationid="gitnacho" creationdate="20221005T111343Z">
@@ -51300,6 +51584,14 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>if (checkbox.checked) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061333Z" creationid="Nachec" creationdate="20221021T061333Z">
+        <seg>if (checkbox.checked) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>if (condition) {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Pacho" changedate="20200607T121251Z" creationid="Pacho" creationdate="20200607T121251Z">
@@ -51360,6 +51652,14 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230425Z" creationid="gitnacho" creationdate="20221011T230425Z">
         <seg>if (invocation) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>if (mathml) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061331Z" creationid="Nachec" creationdate="20221021T061331Z">
+        <seg>if (mathml) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -51846,6 +52146,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>let mathml = checkbox.dataset.highlight;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061330Z" creationid="Nachec" creationdate="20221021T061330Z">
+        <seg>let mathml = checkbox.dataset.highlight;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>let options = {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20181129T062001Z" creationid="nacho" creationdate="20181129T062001Z">
@@ -51998,6 +52306,30 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225544Z" creationid="gitnacho" creationdate="20221006T225544Z">
         <seg>Haz una copia local de `memory.wasm` en el mismo directorio que antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mathml = document.getElementById(mathml);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061332Z" creationid="Nachec" creationdate="20221021T061332Z">
+        <seg>mathml = document.getElementById(mathml);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mathml.classList.add("highlight");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061334Z" creationid="Nachec" creationdate="20221021T061334Z">
+        <seg>mathml.classList.add("highlight");</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mathml.classList.remove("highlight");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061336Z" creationid="Nachec" creationdate="20221021T061336Z">
+        <seg>mathml.classList.remove("highlight");</seg>
       </tuv>
     </tu>
     <tu>
@@ -52490,6 +52822,18 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>padding: 0.5em;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061325Z" creationid="Nachec" creationdate="20221021T061325Z">
+        <seg>padding: 0.5em;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pages:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210830T061914Z" creationid="gitnacho" creationdate="20210830T061914Z">
@@ -52654,6 +52998,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T043609Z" creationid="gitnacho" creationdate="20221004T043609Z">
         <seg>reject(`El módulo ${url} no se encontró en la caché wasm`);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rel="stylesheet"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061457Z" creationid="Nachec" creationdate="20221021T061457Z">
+        <seg>rel="stylesheet"</seg>
       </tuv>
     </tu>
     <tu>
@@ -53638,6 +53990,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>status.textContent = finished</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061341Z" creationid="Nachec" creationdate="20221021T061341Z">
+        <seg>status.textContent = finished</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>status: 408,</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040655Z" creationid="gitnacho" creationdate="20220921T040655Z">
@@ -54210,6 +54570,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>verifyOption(checkbox);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061418Z" creationid="Nachec" creationdate="20221021T061418Z">
+        <seg>verifyOption(checkbox);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>version: Module.cwrap("version", "number", []),</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053747Z" creationid="gitnacho" creationdate="20221004T053747Z">
@@ -54394,6 +54762,22 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092539Z" creationid="gitnacho" creationdate="20221006T092539Z">
         <seg>{{ APIRef("Web Animations") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Active_learning_nesting_different_elements', 700, 600, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061421Z" creationid="Nachec" creationdate="20221021T061421Z">
+        <seg>{{ EmbedLiveSample('Active_learning_nesting_different_elements', 700, 600, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Stretchy_radical_symbols', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061503Z" creationid="Nachec" creationdate="20221021T061503Z">
+        <seg>{{ EmbedLiveSample('Stretchy_radical_symbols', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
@@ -55466,6 +55850,18 @@ console.log(uintc8FromIterable);
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T213348Z" creationid="gitnacho" creationdate="20221003T213348Z">
         <seg>});
 } else {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>});
+});
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061420Z" creationid="Nachec" creationdate="20221021T061420Z">
+        <seg>});
+});
+```</seg>
       </tuv>
     </tu>
     <tu>
