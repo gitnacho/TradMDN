@@ -9695,6 +9695,16 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- HTML top-level element: {{ HTMLElement("html") }}
+- SVG top-level element: {{ SVGElement("svg") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184234Z" creationid="Nachec" creationdate="20221021T184234Z">
+        <seg>- Elemento HTML de nivel superior: {{ HTMLElement("html") }}
+- Elemento SVG de nivel superior: {{ SVGElement("svg") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- HTML:Flow content</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135451Z" creationid="gitnacho" creationdate="20221003T120043Z">
@@ -22602,6 +22612,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/math&gt;.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184011Z" creationid="Nachec" creationdate="20221021T184011Z">
+        <seg>&lt;/math&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/mfrac&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060538Z" creationid="Nachec" creationdate="20221021T060538Z">
@@ -22790,6 +22808,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180622T064235Z" creationid="nacho" creationdate="20180622T064235Z">
         <seg>&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/p&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184012Z" creationid="Nachec" creationdate="20221021T184012Z">
+        <seg>&lt;/p&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -23928,6 +23956,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103822Z" creationid="Nachec" creationdate="20221021T103822Z">
         <seg>&lt;mi&gt;β&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;π&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184010Z" creationid="Nachec" creationdate="20221021T184010Z">
+        <seg>&lt;mi&gt;π&lt;/mi&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58739,6 +58775,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090629Z" creationid="Nachec" creationdate="20221021T090629Z">
         <seg>{{ EmbedLiveSample('allowing_cells_to_span_multiple_rows_and_columns', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('math_example', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184017Z" creationid="Nachec" creationdate="20221021T184017Z">
+        <seg>{{ EmbedLiveSample('math_example', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
