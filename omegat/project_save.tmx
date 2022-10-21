@@ -2266,6 +2266,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Active learning: recognize token elements</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191330Z" creationid="Nachec" creationdate="20221021T191330Z">
+        <seg>### Aprendizaje activo: Reconocer elementos simbólicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Adding functionality to your module</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054028Z" creationid="gitnacho" creationdate="20221007T054028Z">
@@ -11347,10 +11355,34 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- The `&lt;mn&gt;` element represents a "numeric literal" or other data that should be rendered as a numeric literal.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191207Z" creationid="Nachec" creationdate="20221021T191207Z">
+        <seg>- El elemento `&lt;mn&gt;` representa un "literal numérico" u otros datos que se deben renderizar como un literal numérico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The `&lt;mo&gt;` element represents an operator or anything that should be rendered as an operator.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191234Z" creationid="Nachec" creationdate="20221021T191234Z">
+        <seg>- El elemento `&lt;mo&gt;` representa un operador o cualquier cosa que se deba representar como un operador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- The `&lt;msqrt&gt;` is rendered as a square root: its children are laid out like an [`&lt;mrow&gt;`](/en-US/docs/Learn/MathML/First_steps/Getting_started#grouping_with_the_mrow_element), prefixed by a root symbol √ and completely covered by an overbar.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060254Z" creationid="Nachec" creationdate="20221021T060254Z">
         <seg>- El `&lt;msqrt&gt;` se renderiza como una raíz cuadrada: sus hijos se presentan como un [`&lt;mrow&gt;`](/es/docs/Learn/MathML/First_steps/Getting_started#grouping_with_the_mrow_element), precedido por un símbolo de raíz √ y completamente cubierto por una barra superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The `&lt;mtext&gt;` element is used to represent arbitrary text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191254Z" creationid="Nachec" creationdate="20221021T191254Z">
+        <seg>- El elemento `&lt;mtext&gt;` se usa para representar texto arbitrario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28790,6 +28822,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below is a more complex example, which says that the absolute value of a real number is equal to that number if and only if it is nonnegative.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191420Z" creationid="Nachec" creationdate="20221021T191420Z">
+        <seg>A continuación se muestra un ejemplo más complejo, el cual dice que el valor absoluto de un número real es igual a ese número si y solo si es *no negativo*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below is a screenshot of how it is rendered by a browser:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060123Z" creationid="Nachec" creationdate="20221021T060123Z">
@@ -29954,6 +29994,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each time you click the corresponding text, it is highlighted and a confirmation message is displayed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191445Z" creationid="Nachec" creationdate="20221021T191445Z">
+        <seg>Cada vez que haces clic en el texto correspondiente, se resalta y se muestra un mensaje de confirmación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each type of code example has its own use cases.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204343Z" creationid="gitnacho" creationdate="20221005T204343Z">
@@ -30155,6 +30203,22 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060943Z" creationid="gitnacho" creationdate="20221012T060943Z">
         <seg>Se pueden [encontrar arriba](#solicitudes_preverificadas) ejemplos de este uso.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples: `&lt;mi&gt;x&lt;/mi&gt;` (variable), `&lt;mi&gt;cos&lt;/mi&gt;` (function name) and `&lt;mi&gt;π&lt;/mi&gt;` (symbolic constant).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191143Z" creationid="Nachec" creationdate="20221021T191143Z">
+        <seg>Ejemplos: `&lt;mi&gt;x&lt;/mi&gt;` (variable), `&lt;mi&gt;cos&lt;/mi&gt;` (nombre de función) y `&lt;mi&gt;π&lt;/mi&gt;` (constante simbólica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples: `&lt;mn&gt;2&lt;/mn&gt;` (integer), `&lt;mn&gt;0.123&lt;/mn&gt;` (decimal number) or `&lt;mn&gt;0xFFEF&lt;/mn&gt;` (hexadecimal value).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191220Z" creationid="Nachec" creationdate="20221021T191220Z">
+        <seg>Ejemplos: `&lt;mn&gt;2&lt;/mn&gt;` (entero), `&lt;mn&gt;0.123&lt;/mn&gt;` (número decimal) o `&lt;mn&gt;0xFFEF&lt;/mn&gt;` (valor hexadecimal).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30526,10 +30590,26 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example `&lt;mo&gt;+&lt;/mo&gt;` (binary operation), `&lt;mo&gt;≤&lt;/mo&gt;` (binary relation), `&lt;mo&gt;∑&lt;/mo&gt;` (summation symbol) or `&lt;mo&gt;[&lt;/mo&gt;` (fence).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191246Z" creationid="Nachec" creationdate="20221021T191246Z">
+        <seg>Por ejemplo `&lt;mo&gt;+&lt;/mo&gt;` (operación binaria), `&lt;mo&gt;≤&lt;/mo&gt;` (relación binaria), `&lt;mo&gt;∑&lt;/mo&gt;` (símbolo de suma) o `&lt;mo &gt;[&lt;/mo&gt;` (valla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example a glossary or reference link created using a macro does not need to be translated: in other locales it will automatically link to the correct version of the file.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T104645Z" creationid="gitnacho" creationdate="20221005T104645Z">
         <seg>Por ejemplo, no es necesario traducir un glosario o un vínculo de referencia creado con una macro: en otras configuraciones regionales, se vinculará automáticamente a la versión correcta del archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example short words in formulas such as `&lt;mtext&gt;if&lt;mtext&gt;` or `&lt;mtext&gt;maps to&lt;/mtext&gt;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191302Z" creationid="Nachec" creationdate="20221021T191302Z">
+        <seg>Por ejemplo, palabras cortas en fórmulas como `&lt;mtext&gt;if&lt;mtext&gt;` o `&lt;mtext&gt;maps to&lt;/mtext&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37909,6 +37989,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211002T055534Z" creationid="gitnacho" creationdate="20211002T055534Z">
         <seg>Específicamente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spot the different token elements and what they are used for.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191433Z" creationid="Nachec" creationdate="20221021T191433Z">
+        <seg>Detecta los diferentes elementos del toquen y para qué se utilizan.</seg>
       </tuv>
     </tu>
     <tu>
