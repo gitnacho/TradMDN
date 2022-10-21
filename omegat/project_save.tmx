@@ -18531,6 +18531,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Getting started with MathML
+slug: Learn/MathML/First_steps/Getting_started
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T180915Z" creationid="Nachec" creationdate="20221021T180915Z">
+        <seg>---
+title: Primeros pasos con MathML
+slug: Learn/MathML/First_steps/Getting_started
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Getting started with the web
 slug: Learn/Getting_started_with_the_web
 tags:</seg>
@@ -33013,6 +33027,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042745Z" creationid="gitnacho" creationdate="20220925T042745Z">
         <seg>En este artículo, te mostramos paso a paso cómo instalar solo el software que necesitas para comenzar un desarrollo web básico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this article, we will take a simple HTML document and see how to add MathML formulas into it, introducing a few elements along the way.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181042Z" creationid="Nachec" creationdate="20221021T181042Z">
+        <seg>En este artículo, tomaremos un documento HTML simple y veremos cómo agregarle fórmulas MathML, introduciendo algunos elementos en el camino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58601,6 +58623,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{NextMenu("Learn/MathML/First_steps/Text_containers", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T180935Z" creationid="Nachec" creationdate="20221021T180935Z">
+        <seg>{{LearnSidebar}}{{NextMenu("Learn/MathML/First_steps/Text_containers", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{LearnSidebar}}{{PreviousMenu("Learn/MathML/First_steps/Tables", "Learn/MathML/First_steps")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084704Z" creationid="Nachec" creationdate="20221021T084704Z">
@@ -59763,6 +59793,21 @@ reviewer: Nachec
 ---</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T054016Z" creationid="Nachec" creationdate="20221021T054016Z">
+        <seg>- Landing
+  - Destino
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/mathml/first_steps/getting_started/index.md</prop>
+      <prop type="prev">- MathML</prop>
+      <prop type="next">{{LearnSidebar}}{{NextMenu("Learn/MathML/First_steps/Text_containers", "Learn/MathML/First_steps")}}</prop>
+      <tuv lang="en-US">
+        <seg>- Landing
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T180933Z" creationid="Nachec" creationdate="20221021T180933Z">
         <seg>- Landing
   - Destino
 reviewer: Nachec
