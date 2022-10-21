@@ -17065,6 +17065,22 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- https://drafts.csswg.org/css-color/</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225911Z" creationid="Nachec" creationdate="20221021T225911Z">
+        <seg>- https://drafts.csswg.org/css-color/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- https://drafts.csswg.org/css-values/</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225911Z" creationid="Nachec" creationdate="20221021T225911Z">
+        <seg>- https://drafts.csswg.org/css-values/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- imports
 browser-compat: javascript.builtins.WebAssembly.Module.imports
 ---</seg>
@@ -31851,6 +31867,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Depending on the property, the value can include a single integer or keyword, to a series of keywords and values with or without units.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T230004Z" creationid="Nachec" creationdate="20221021T230004Z">
+        <seg>Dependiendo de la propiedad, el valor puede incluir desde un solo entero o palabra clave, hasta una serie de palabras clave y valores con o sin unidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Depending on the size of your image, you might run into an error where wasm can't grow the memory enough to accommodate both the input and the output image:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T055003Z" creationid="gitnacho" creationdate="20221004T055003Z">
@@ -32319,6 +32343,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T205821Z" creationid="gitnacho" creationdate="20221011T201835Z">
         <seg>Los controladores de eventos generalmente están conectados (o "adjuntos") a varios [elementos HTML](/es/docs/Web/HTML/Element) (como `&lt;button&gt;`, `&lt;div&gt;`, `&lt;span&gt;`, etc.) usando [`EventTarget.addEventListener()`](/es/docs/Web/API/EventTarget/addEventListener), y esto generalmente reemplaza el uso de los antiguos [atributos del controlador de eventos](/es/docs/Web/HTML/Global_attributes) HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every CSS declaration includes a property / value pair.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225945Z" creationid="Nachec" creationdate="20221021T225945Z">
+        <seg>Cada declaración CSS incluye un par propiedad/valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64349,6 +64381,20 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085746Z" creationid="gitnacho" creationdate="20221019T094153Z">
         <seg>- Web
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">web/css/css_values_and_units/index.md</prop>
+      <prop type="prev">- https://drafts.csswg.org/css-color/</prop>
+      <prop type="next">{{CSSRef}}</prop>
+      <tuv lang="en-US">
+        <seg>- https://drafts.csswg.org/css-images/
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225933Z" creationid="Nachec" creationdate="20221021T225933Z">
+        <seg>- https://drafts.csswg.org/css-images/
 reviewer: Nachec
 ---</seg>
       </tuv>
