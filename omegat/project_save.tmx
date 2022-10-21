@@ -3418,6 +3418,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Specifying your document's character encoding</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190513Z" creationid="Nachec" creationdate="20221021T190513Z">
+        <seg>### Especificar la codificación de caracteres de tu documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Storing and instantiating modules</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T051400Z" creationid="gitnacho" creationdate="20221004T051400Z">
@@ -25270,6 +25278,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;title&gt;My test page&lt;/title&gt;
+&lt;/head&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190400Z" creationid="Nachec" creationdate="20221021T190400Z">
+        <seg>&lt;title&gt;Mi página de prueba&lt;/title&gt;
+&lt;/head&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;title&gt;Three famous mathematical formulas&lt;/title&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085344Z" creationid="Nachec" creationdate="20221021T085344Z">
@@ -35316,6 +35336,18 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metadata in HTML
+slug: Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190314Z" creationid="Nachec" creationdate="20221021T190314Z">
+        <seg>Metadatos en HTML
+slug: Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Methods are provided to test whether an exception matches a particular tag, and also to get a particular value by index (if the exception matches specified tag).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T022832Z" creationid="gitnacho" creationdate="20221008T022832Z">
@@ -42561,6 +42593,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This element specifies the document's character encoding — the character set that the document is permitted to use.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190428Z" creationid="Nachec" creationdate="20221021T190428Z">
+        <seg>Este elemento especifica la codificación de caracteres del documento: el conjunto de caracteres que el documento puede usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This enables a Web page to update just part of a page without disrupting what the user is doing.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220916T074951Z" creationid="gitnacho" creationdate="20220916T074951Z">
@@ -48253,6 +48293,16 @@ p {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```html
+&lt;head&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190318Z" creationid="Nachec" creationdate="20221021T190318Z">
+        <seg>```html
+&lt;head&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
 &lt;img src="example.svg" alt="three circles" width="300" height="100" /&gt;
 &lt;br /&gt;
 &lt;img src="example.svg#three" alt="blue circle" width="100" height="100" /&gt;
@@ -48294,6 +48344,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060047Z" creationid="Nachec" creationdate="20221021T060047Z">
         <seg>```html
 &lt;math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;meta charset="utf-8" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190408Z" creationid="Nachec" creationdate="20221021T190408Z">
+        <seg>```html
+&lt;meta charset="utf-8" /&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
