@@ -1072,6 +1072,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Fractions without bar</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061536Z" creationid="Nachec" creationdate="20221021T061536Z">
+        <seg>## Fracciones sin barra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Functional overview</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213704Z" creationid="gitnacho" creationdate="20221011T213704Z">
@@ -12655,6 +12663,18 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [The `&lt;mfrac&gt;` element](/en-US/docs/Web/MathML/Element/mfrac)
+- [The `&lt;msqrt&gt;` element](/en-US/docs/Web/MathML/Element/msqrt)
+- [The `&lt;mroot&gt;` element](/en-US/docs/Web/MathML/Element/mroot)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061818Z" creationid="Nachec" creationdate="20221021T061818Z">
+        <seg>- [El elemento `&lt;mfrac&gt;`](/es/docs/Web/MathML/Element/mfrac)
+- [El elemento `&lt;msqrt&gt;`](/es/docs/Web/MathML/Element/msqrt)
+- [El elemento `&lt;mroot&gt;`](/es/docs/Web/MathML/Element/mroot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [The web and web standards](/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards): This article provides some useful background on the Web — how it came about, what web standard technologies are, how they work together, why "web developer" is a great career to choose, and what kinds of best practices you'll learn about through the course.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T060347Z" creationid="gitnacho" creationdate="20220925T060347Z">
@@ -21617,6 +21637,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/mfrac&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061636Z" creationid="Nachec" creationdate="20221021T061636Z">
+        <seg>&lt;/mfrac&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/mroot&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060537Z" creationid="Nachec" creationdate="20221021T060537Z">
@@ -21633,6 +21665,14 @@ i32.mul</seg>
         <seg>&lt;/mroot&gt;
 &lt;/math&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/mrow&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061633Z" creationid="Nachec" creationdate="20221021T061633Z">
+        <seg>&lt;/mrow&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22565,6 +22605,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mfrac linethickness="0"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061631Z" creationid="Nachec" creationdate="20221021T061631Z">
+        <seg>&lt;mfrac linethickness="0"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mfrac&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060047Z" creationid="Nachec" creationdate="20221021T060047Z">
@@ -22645,6 +22693,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;(&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061630Z" creationid="Nachec" creationdate="20221021T061630Z">
+        <seg>&lt;mo&gt;(&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;)&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061633Z" creationid="Nachec" creationdate="20221021T061633Z">
+        <seg>&lt;mo&gt;)&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;+&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060538Z" creationid="Nachec" creationdate="20221021T060538Z">
@@ -22653,10 +22717,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;=&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061634Z" creationid="Nachec" creationdate="20221021T061634Z">
+        <seg>&lt;mo&gt;=&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;−&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060544Z" creationid="Nachec" creationdate="20221021T060544Z">
         <seg>&lt;mo&gt;−&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;≠&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061635Z" creationid="Nachec" creationdate="20221021T061635Z">
+        <seg>&lt;mo&gt;≠&lt;/mo&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22681,6 +22761,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060056Z" creationid="Nachec" creationdate="20221021T060056Z">
         <seg>&lt;mroot&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mrow&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061630Z" creationid="Nachec" creationdate="20221021T061630Z">
+        <seg>&lt;mrow&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23696,6 +23784,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064828Z" creationid="gitnacho" creationdate="20221007T064828Z">
         <seg>&gt; **Nota:** Arriba, ten en cuenta la sintaxis de doble punto y coma (`;;`) para permitir comentarios en archivos WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** Although the `linethickness` attribute can be used to specify an arbitrary thickness, it is better to keep the default value, which is calculated from parameters specified in the math font.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061654Z" creationid="Nachec" creationdate="20221021T061654Z">
+        <seg>&gt; **Nota:** Aunque el atributo `linethickness` se puede utilizar para especificar un arbitrario grosor, es mejor mantener el valor predeterminado, que se calcula a partir de los parámetros especificados en la fuente matemática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28359,6 +28455,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For fraction-like notations that don't draw a horizontal bar, attach a `linethickness="0"` attribute to the `&lt;mfrac&gt;` element:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061629Z" creationid="Nachec" creationdate="20221021T061629Z">
+        <seg>Para notaciones similares a fracciones que no dibujan una barra horizontal, adjunta un atributo `linethickness="0"` al elemento `&lt;mfrac&gt;`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For information on using `module`, see our [JavaScript modules](/en-US/docs/Web/JavaScript/Guide/Modules) guide.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T132556Z" creationid="gitnacho" creationdate="20221003T132556Z">
@@ -30714,6 +30818,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the next article, we will continue with basic math notations and consider [scripts](/en-US/docs/Learn/MathML/First_steps/Scripts).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061757Z" creationid="Nachec" creationdate="20221021T061757Z">
+        <seg>En el próximo artículo, continuaremos con las notaciones matemáticas básicas y consideraremos [scripts](/es/docs/Learn/MathML/First_steps/Scripts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the other examples we used the s-expression syntax which doesn't require the `end`, so you won't find it in the other examples here.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083635Z" creationid="gitnacho" creationdate="20221020T083635Z">
@@ -30914,6 +31026,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T182454Z" creationid="gitnacho" creationdate="20221008T182454Z">
         <seg>En esta forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this lesson, we've seen how to build fractions and roots using the `&lt;mfrac&gt;`, `&lt;msqrt&gt;` and `&lt;mroot&gt;` elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061707Z" creationid="Nachec" creationdate="20221021T061707Z">
+        <seg>En esta lección, hemos visto cómo construir fracciones y raíces usando los elementos `&lt;mfrac&gt;`, `&lt;msqrt&gt;` y `&lt;mroot&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31340,6 +31460,14 @@ y \{{cssxref("margin-left")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091602Z" creationid="gitnacho" creationdate="20221012T091602Z">
         <seg>También es relativamente "preservador de la privacidad", ya que depende del cliente decidir qué información puede compartir de manera segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is appropriate to use an `&lt;mfrac&gt;` element to markup such notations.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061612Z" creationid="Nachec" creationdate="20221021T061612Z">
+        <seg>Es apropiado usar un elemento `&lt;mfrac&gt;` para marcar tales notaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34834,6 +34962,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="OmegaT Aligner" changedate="20200819T162706Z" creationid="OmegaT Aligner" creationdate="20200819T162706Z">
         <seg>Algunos ejemplos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some mathematical concepts are sometimes written using fraction-like notations such [binomial coefficients](https://en.wikipedia.org/wiki/Combination) or [Legendre symbols](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061604Z" creationid="Nachec" creationdate="20221021T061604Z">
+        <seg>Algunos conceptos matemáticos a veces se escriben usando notaciones similares a fracciones como [coeficientes binomiales](https://en.wikipedia.org/wiki/Combination) o [símbolos Legendre](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41780,6 +41916,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We noticed some special feature of these elements, namely the fraction and radical symbol.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061718Z" creationid="Nachec" creationdate="20221021T061718Z">
+        <seg>Resaltamos alguna característica especial de estos elementos, a saber, la fracción y el símbolo radical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We now have an npm package, written in Rust, but compiled to WebAssembly.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065311Z" creationid="gitnacho" creationdate="20221004T065311Z">
@@ -41967,6 +42111,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T023807Z" creationid="gitnacho" creationdate="20220921T023807Z">
         <seg>Hemos mantenido las cosas estáticas y simples por ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've seen how to use the `linethickness` attribute to draw fractions without bars.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061738Z" creationid="Nachec" creationdate="20221021T061738Z">
+        <seg>Vimos cómo usar el atributo `linethickness` para dibujar fracciones sin barras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54770,6 +54922,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061421Z" creationid="Nachec" creationdate="20221021T061421Z">
         <seg>{{ EmbedLiveSample('Active_learning_nesting_different_elements', 700, 600, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Fraction_without_bar', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061636Z" creationid="Nachec" creationdate="20221021T061636Z">
+        <seg>{{ EmbedLiveSample('Fraction_without_bar', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
