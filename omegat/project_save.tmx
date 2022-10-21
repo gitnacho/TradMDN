@@ -2322,6 +2322,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Active learning: stretchy operators</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193720Z" creationid="Nachec" creationdate="20221021T193720Z">
+        <seg>### Aprendizaje activo: operadores elásticos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Adding functionality to your module</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054028Z" creationid="gitnacho" creationdate="20221007T054028Z">
@@ -25574,6 +25582,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;title&gt;My page with stretchy operators&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194030Z" creationid="Nachec" creationdate="20221021T194030Z">
+        <seg>&lt;title&gt;Mi página con operadores elásticos&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;title&gt;My test page&lt;/title&gt;
 &lt;/head&gt;
 ```</seg>
@@ -29454,6 +29470,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By tweaking a bit the [previous exercise](#active_learning_recognize_token_elements), one can make operators stretch vertically.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194010Z" creationid="Nachec" creationdate="20221021T194010Z">
+        <seg>Modificando un poco el [ejercicio anterior](#aprendizaje_activo_reconocer_elementos_toquen), uno puede hacer que los operadores se estiren verticalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By working through the articles listed below, you will go from nothing to getting your first webpage online.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042356Z" creationid="gitnacho" creationdate="20220925T042356Z">
@@ -29522,6 +29546,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T073544Z" creationid="gitnacho" creationdate="20221002T073544Z">
         <seg>También puede ser una `Promise` o una que posiblemente se pueda resolver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can you find them?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194022Z" creationid="Nachec" creationdate="20221021T194022Z">
+        <seg>¿Los puede encontrar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -30962,6 +30994,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T075838Z" creationid="gitnacho" creationdate="20221017T211446Z">
         <seg>Por ejemplo, un mensaje de solicitud puede usar cabeceras para indicar sus formatos de medios preferidos, mientras que una respuesta puede usar cabeceras para indicar el formato de medios del cuerpo devuelto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, an operator can stretch vertically by default to cover the maximum height of non-stretchy siblings within its `&lt;mrow&gt;` container.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193846Z" creationid="Nachec" creationdate="20221021T193846Z">
+        <seg>Por ejemplo, un operador se puede estirar verticalmente de forma predeterminada para cubrir la altura máxima de los hermanos no elásticos dentro de su contenedor `&lt;mrow&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41202,6 +41242,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174511Z" creationid="gitnacho" creationdate="20221008T174511Z">
         <seg>La cerca de apertura de código puede ir seguida de un texto que se denomina "cadena de información".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The operator dictionary defines a default _stretchy_ property as well as corresponding _stretch axis_ for some operators.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193817Z" creationid="Nachec" creationdate="20221021T193817Z">
+        <seg>El diccionario de operadores define una propiedad `stretchy` predeterminada, así como el correspondiente _eje de extensión_  —`stretch axis`— para algunos operadores.</seg>
       </tuv>
     </tu>
     <tu>
