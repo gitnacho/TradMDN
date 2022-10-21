@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![MyScript](myscript.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T082149Z" creationid="Nachec" creationdate="20221021T082149Z">
+        <seg>![MyScript](myscript.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Screenshot of a console output in developer tools](console-example.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205640Z" creationid="gitnacho" creationdate="20221005T205640Z">
@@ -35820,6 +35828,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some of these tools support mathematical formulas and can export them as MathML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T082118Z" creationid="Nachec" creationdate="20221021T082118Z">
+        <seg>Algunas de estas herramientas admiten fórmulas matemáticas y pueden exportarlas como MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some operations are restricted to same-origin content, and this restriction can be lifted using {{Glossary("CORS")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T151430Z" creationid="gitnacho" creationdate="20221017T151430Z">
@@ -38021,6 +38037,14 @@ if a loaded module instance contains a "name" custom section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164453Z" creationid="gitnacho" creationdate="20221012T164422Z">
         <seg>La siguiente parece una lista aterradora, pero afortunadamente, puedes comenzar en el desarrollo web sin saber nada sobre la mayoría de estos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following screenshot shows a [demo from MyScript](https://webdemo.myscript.com/views/math/index.html):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T082144Z" creationid="Nachec" creationdate="20221021T082144Z">
+        <seg>La siguiente captura de pantalla muestra un [ejemplo de MyScript](https://webdemo.myscript.com/views/math/index.html):</seg>
       </tuv>
     </tu>
     <tu>
