@@ -39764,6 +39764,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`&lt;mi&gt;`** [MathML](/en-US/docs/Web/MathML) element indicates that the content should be rendered as an **identifier** such as function names, variables or symbolic constants.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205659Z" creationid="Nachec" creationdate="20221021T205659Z">
+        <seg>El elemento **`&lt;mi&gt;`** [MathML](/es/docs/Web/MathML) indica que el contenido se debe renderizar como un **identificador**, como nombres de funciones, variables o constantes simbólicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`&lt;script&gt;`** [HTML](/en-US/docs/Web/HTML) element is used to embed executable code or data; this is typically used to embed or refer to JavaScript code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T120421Z" creationid="gitnacho" creationdate="20221003T120421Z">
@@ -48231,6 +48239,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T015319Z" creationid="gitnacho" creationdate="20221008T015319Z">
         <seg>También puedes exportar una etiqueta definida en un módulo y usarla para inspeccionar las excepciones lanzadas desde el módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also have arbitrary text in it to mark up terms.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205706Z" creationid="Nachec" creationdate="20221021T205706Z">
+        <seg>También puedes tener texto arbitrario para marcar términos.</seg>
       </tuv>
     </tu>
     <tu>
