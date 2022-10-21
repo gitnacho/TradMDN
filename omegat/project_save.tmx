@@ -2170,6 +2170,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Command-line programs</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080604Z" creationid="Nachec" creationdate="20221021T080604Z">
+        <seg>### Programas de línea de comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Compatibility notes</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134423Z" creationid="gitnacho" creationdate="20221003T134423Z">
@@ -21563,6 +21571,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;!-- ASCIIMathML.js --&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080506Z" creationid="Nachec" creationdate="20221021T080506Z">
+        <seg>&lt;!-- ASCIIMathML.js --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;!-- MoreActions --&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T093842Z" creationid="gitnacho" creationdate="20221012T093842Z">
@@ -21577,6 +21593,14 @@ i32.mul</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134338Z" creationid="gitnacho" creationdate="20221003T134338Z">
         <seg>&lt;!-- Static --&gt;
 &lt;script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- jqMath --&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080517Z" creationid="Nachec" creationdate="20221021T080517Z">
+        <seg>&lt;!-- jqMath --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22825,6 +22849,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;meta name="viewport" content="width=device-width" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080454Z" creationid="Nachec" creationdate="20221021T080454Z">
+        <seg>&lt;meta name="viewport" content="width=device-width" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mfrac id="mfrac1"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060533Z" creationid="Nachec" creationdate="20221021T060533Z">
@@ -23219,6 +23251,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;p&gt;One over square root of two (display style, jqMath): $$1/√2$$&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080558Z" creationid="Nachec" creationdate="20221021T080558Z">
+        <seg>&lt;p&gt;Uno sobre raíz cuadrada de dos (estilo de visualización, jqMath): $$1/√2$$&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;One over square root of two (inline style, ASCIIMath): `1/(sqrt 2)`&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080537Z" creationid="Nachec" creationdate="20221021T080537Z">
+        <seg>&lt;p&gt;Uno sobre raíz cuadrada de dos (estilo en línea, ASCIIMath): `1/(sqrt 2)`&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;One over square root of two (inline style, jqMath): $1/√2$&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080546Z" creationid="Nachec" creationdate="20221021T080546Z">
+        <seg>&lt;p&gt;Uno sobre raíz cuadrada de dos (estilo en línea, jqMath): $1/√2$&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;p&gt;term1&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183352Z" creationid="gitnacho" creationdate="20221008T183352Z">
@@ -23267,6 +23323,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;script src="/path/to/ASCIIMathML.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080516Z" creationid="Nachec" creationdate="20221021T080516Z">
+        <seg>&lt;script src="/ruta/a/ASCIIMathML.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;script src="https://fred-wang.github.io/TeXZilla/TeXZilla-min.js"&gt;&lt;/script&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080345Z" creationid="Nachec" creationdate="20221021T080345Z">
@@ -23279,6 +23343,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080347Z" creationid="Nachec" creationdate="20221021T080347Z">
         <seg>&lt;script src="https://fred-wang.github.io/TeXZilla/examples/customElement.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;script src="https://mathscribe.com/mathscribe/jqmath-etc-0.4.6.min.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080520Z" creationid="Nachec" creationdate="20221021T080520Z">
+        <seg>&lt;script src="https://mathscribe.com/mathscribe/jqmath-etc-0.4.6.min.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;script src="https://mathscribe.com/mathscribe/jquery-1.4.3.min.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080519Z" creationid="Nachec" creationdate="20221021T080519Z">
+        <seg>&lt;script src="https://mathscribe.com/mathscribe/jquery-1.4.3.min.js"&gt;&lt;/script&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23759,6 +23839,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211004T004429Z" creationid="gitnacho" creationdate="20211004T004429Z">
         <seg>&lt;title&gt;&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;title&gt;ASCII MathML&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080503Z" creationid="Nachec" creationdate="20221021T080503Z">
+        <seg>&lt;title&gt;ASCII MathML&lt;/title&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26794,6 +26882,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055744Z" creationid="Nachec" creationdate="20221021T055744Z">
         <seg>Alfabetización informática básica,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Be sure to load the JavaScript libraries and use the proper delimiters:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080452Z" creationid="Nachec" creationdate="20221021T080452Z">
+        <seg>Asegúrate de cargar las bibliotecas de JavaScript y usar los delimitadores adecuados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31566,6 +31662,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instead of generating MathML expression at page load, you can instead rely on command line tools.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080617Z" creationid="Nachec" creationdate="20221021T080617Z">
+        <seg>En lugar de generar una expresión MathML al cargar la página, puedes confiar en las herramientas de línea de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Instead of:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211101T215958Z" creationid="gitnacho" creationdate="20211101T215958Z">
@@ -32547,6 +32651,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060045Z" creationid="Nachec" creationdate="20221021T060045Z">
         <seg>Consideremos un ejemplo básico que agrega nuevos elementos para raíces (`&lt;msqrt&gt;` y `&lt;mroot&gt;`):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's consider again a page `input.html` with content from [client-side conversion](#client-side_conversion):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080712Z" creationid="Nachec" creationdate="20221021T080712Z">
+        <seg>Consideremos nuevamente una página `input.html` con contenido de [conversión de lado del cliente](#conversión_de_lado_del_cliente):</seg>
       </tuv>
     </tu>
     <tu>
@@ -41454,6 +41566,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181631Z" creationid="gitnacho" creationdate="20221008T181631Z">
         <seg>Esto producirá el siguiente HTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will result in pages with static MathML content that will load faster.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080627Z" creationid="Nachec" creationdate="20221021T080627Z">
+        <seg>Esto dará como resultado páginas con contenido MathML estático que se cargarán más rápido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56846,6 +56966,14 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220910T210002Z" creationid="gitnacho" creationdate="20220910T210002Z">
         <seg>}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>…</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080504Z" creationid="Nachec" creationdate="20221021T080504Z">
+        <seg>…</seg>
       </tuv>
     </tu>
     <tu>
