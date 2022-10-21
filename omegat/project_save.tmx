@@ -856,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Advanced setup</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200036Z" creationid="Nachec" creationdate="20221021T200036Z">
+        <seg>## Configuración avanzada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Allowing cells to span multiple rows and columns</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095213Z" creationid="Nachec" creationdate="20221021T095213Z">
@@ -3090,6 +3098,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Linux</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195859Z" creationid="Nachec" creationdate="20221021T195859Z">
+        <seg>### Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Live sample macros</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T102548Z" creationid="gitnacho" creationdate="20221008T102548Z">
@@ -3230,6 +3246,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060525Z" creationid="gitnacho" creationdate="20221012T060525Z">
         <seg>### `Origin`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Other systems</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200020Z" creationid="Nachec" creationdate="20221021T200020Z">
+        <seg>### Otros sistemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,6 +3898,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Windows</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195843Z" creationid="Nachec" creationdate="20221021T195843Z">
+        <seg>### Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Writing Rust Targeting WebAssembly</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T090720Z" creationid="gitnacho" creationdate="20221003T090720Z">
@@ -3886,6 +3918,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T090247Z" creationid="gitnacho" creationdate="20221003T090247Z">
         <seg>### Escribir WebAssembly directamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### macOS</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195854Z" creationid="Nachec" creationdate="20221021T195854Z">
+        <seg>### macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,6 +4062,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075235Z" creationid="Nachec" creationdate="20221021T075235Z">
         <seg>#### Respaldo para navegadores sin compatibilidad con MathML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Fedora-based distributions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195927Z" creationid="Nachec" creationdate="20221021T195927Z">
+        <seg>#### Distribuciones basadas en  Fedora</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,6 +4334,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T120343Z" creationid="gitnacho" creationdate="20221007T120152Z">
         <seg>#### Código de myWorker.js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### openSUSE-based distributions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200010Z" creationid="Nachec" creationdate="20221021T200010Z">
+        <seg>#### Distribuciones basadas en openSUSE</seg>
       </tuv>
     </tu>
     <tu>
@@ -33924,6 +33980,16 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the next sections, you will find other useful tips for installation and
+configuration of fonts for MathML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200823Z" creationid="Nachec" creationdate="20221021T200823Z">
+        <seg>En las siguientes secciones, encontrarás otros consejos útiles para la instalación y
+configuración de fuentes para MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the other examples we used the s-expression syntax which doesn't require the `end`, so you won't find it in the other examples here.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083635Z" creationid="gitnacho" creationdate="20221020T083635Z">
@@ -48860,6 +48926,18 @@ npm run serve
         <seg>```bash
 npm install
 npm run serve
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
+sudo apt-get install fonts-lmodern fonts-stix
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195902Z" creationid="Nachec" creationdate="20221021T195902Z">
+        <seg>```bash
+sudo apt-get install fonts-lmodern fonts-stix
 ```</seg>
       </tuv>
     </tu>
