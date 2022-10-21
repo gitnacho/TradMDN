@@ -1248,6 +1248,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Grouping with the \&lt;mrow&gt; element</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181855Z" creationid="Nachec" creationdate="20221021T181855Z">
+        <seg>## Agrupar con el elemento \&lt;mrow&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Guides</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042339Z" creationid="gitnacho" creationdate="20220925T042339Z">
@@ -23872,6 +23880,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mn&gt;3&lt;/mn&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181940Z" creationid="Nachec" creationdate="20221021T181940Z">
+        <seg>&lt;mn&gt;3&lt;/mn&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mn&gt;4&lt;/mn&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060536Z" creationid="Nachec" creationdate="20221021T060536Z">
@@ -25779,6 +25799,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** The appearance change mentioned above is actually controlled by the [`math-style`](/en-US/docs/Web/CSS/math-style) property which is initially `normal` for `&lt;math display="block"&gt;` and `compact` otherwise.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181805Z" creationid="Nachec" creationdate="20221021T181805Z">
+        <seg>&gt; **Nota:** El cambio de apariencia mencionado anteriormente en realidad está controlado por la propiedad [`math-style`](/es/docs/Web/CSS/math-style) que inicialmente es `normal` para `&lt; math display="block"&gt;` y `compact` de lo contrario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** The caching API doesn't honor HTTP caching headers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203152Z" creationid="gitnacho" creationdate="20221003T203152Z">
@@ -25847,6 +25875,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075440Z" creationid="Nachec" creationdate="20221021T075440Z">
         <seg>&gt; **Nota:** Estos pequeños scripts realizan la detección de características (de elementos [mspace](/es/docs/Web/MathML/Element/mspace) o [mpadded](/es/docs/Web/MathML/Element/mpadded)) que se prefiere sobre [exploración del navegador](/es/docs/Web/HTTP/Browser_detection_using_the_user_agent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** This corresponds to the LaTeX's concept of _inline_ formulas (delimited by dollar signs `$...$`) and _display_ formulas (delimited by `\[...\]`).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181745Z" creationid="Nachec" creationdate="20221021T181745Z">
+        <seg>&gt; **Nota:** Esto corresponde al concepto de LaTeX de fórmulas _en línea_ (delimitadas por signos de dólar `$...$`) y fórmulas _display_ (delimitadas por `\[...\]`).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27523,6 +27559,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074048Z" creationid="gitnacho" creationdate="20221007T074048Z">
         <seg>De nuevo, saca implícitamente estos valores de la pila, por lo que el resultado es que almacena el valor `42` en el índice de memoria `0`,
 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Again, this is similar to LaTeX.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181844Z" creationid="Nachec" creationdate="20221021T181844Z">
+        <seg>Nuevamente, esto es similar a LaTeX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30576,6 +30620,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For instance, the simple formula "1 + 2 + 3" would be encoded like this in MathML:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181938Z" creationid="Nachec" creationdate="20221021T181938Z">
+        <seg>Por ejemplo, la fórmula simple "1 + 2 + 3" se codificaría así en MathML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For instance:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20200818T192416Z" creationid="nacho" creationdate="20200818T192416Z">
@@ -32851,6 +32903,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In some MathML subtrees, this property can then automatically become `compact` but we will ignore this subtlety for this introductory tutorial.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181834Z" creationid="Nachec" creationdate="20221021T181834Z">
+        <seg>En algunos subárboles de MathML, esta propiedad se puede convertir automáticamente en "`compact`", pero ignoraremos esta sutileza en este tutorial introductorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T212844Z" creationid="gitnacho" creationdate="20221011T212844Z">
@@ -33789,6 +33849,14 @@ y \{{cssxref("margin-left")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T225145Z" creationid="gitnacho" creationdate="20221018T225145Z">
         <seg>Es muy buena idea conocer HTML, CSS y JavaScript antes de trabajar en esta sección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is helpful to group several elements together.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182010Z" creationid="Nachec" creationdate="20221021T182010Z">
+        <seg>Es útil agrupar varios elementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38533,10 +38601,26 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `&lt;math&gt;` element can actually contain an arbitrary number of children and will essentially render them in a row.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181915Z" creationid="Nachec" creationdate="20221021T181915Z">
+        <seg>El elemento `&lt;math&gt;` en realidad puede contener un número arbitrario de hijos y esencialmente los renderizará en una fila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `&lt;mfrac&gt;` element specifies a fraction with a numerator (its first child) and a denominator (its second child).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181351Z" creationid="Nachec" creationdate="20221021T181351Z">
         <seg>El elemento `&lt;mfrac&gt;` especifica una fracción con un numerador (su primer hijo) y un denominador (su segundo hijo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `&lt;mrow&gt;` element is a generic container that performs similar layout but can be placed anywhere in the MathML subtree.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182000Z" creationid="Nachec" creationdate="20221021T182000Z">
+        <seg>El elemento `&lt;mrow&gt;` es un contenedor genérico que realiza una distribución similar pero se puede colocar en cualquier parte del subárbol de MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45880,6 +45964,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072108Z" creationid="gitnacho" creationdate="20221005T072108Z">
         <seg>Con eso en mente, siempre puedes consultar el estado más reciente de las APIs integradas en la [fuente de KumaScript](https://github.com/mdn/yari/tree/main/kumascript/src/api).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the `display="block"` attribute, priority is instead put on legibility of the mathematical formula.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181727Z" creationid="Nachec" creationdate="20221021T181727Z">
+        <seg>Con el atributo `display="block"`, se da prioridad a la legibilidad de la fórmula matemática.</seg>
       </tuv>
     </tu>
     <tu>
