@@ -3826,6 +3826,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Values</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204533Z" creationid="Nachec" creationdate="20221021T204533Z">
+        <seg>### Valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Vector types</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074811Z" creationid="gitnacho" creationdate="20221007T074811Z">
@@ -8625,10 +8633,42 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Try and use bold characters e.g. "𝐀".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204613Z" creationid="Nachec" creationdate="20221021T204613Z">
+        <seg>- : Prueba y usa caracteres en negrita, p. ej. "𝐀".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use bold-italic characters e.g. "𝑨".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204702Z" creationid="Nachec" creationdate="20221021T204702Z">
+        <seg>- : Prueba y use caracteres en negrita y cursiva, p. ej. "𝑨".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use italic characters e.g. "𝐴".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204629Z" creationid="Nachec" creationdate="20221021T204629Z">
+        <seg>- : Prueba y usa caracteres en cursiva, p. ej. "𝐴".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Tutorials to take you step-by-step through learning HTML, CSS, JavaScript, and Web APIs.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T101617Z" creationid="gitnacho" creationdate="20221002T093448Z">
         <seg>- : Tutoriales que te guiarán paso a paso a través del aprendizaje de HTML, CSS, JavaScript y APIs Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Use default rendering (no transformations applied).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204557Z" creationid="Nachec" creationdate="20221021T204557Z">
+        <seg>- : Utiliza el renderizado predeterminado (no se aplican transformaciones).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14857,6 +14897,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `bold-italic`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204630Z" creationid="Nachec" creationdate="20221021T204630Z">
+        <seg>- `bold-italic`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `bold`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204559Z" creationid="Nachec" creationdate="20221021T204559Z">
+        <seg>- `bold`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `bufferSource`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T122223Z" creationid="gitnacho" creationdate="20221007T122223Z">
@@ -15201,6 +15257,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `italic`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204614Z" creationid="Nachec" creationdate="20221021T204614Z">
+        <seg>- `italic`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `java` - Java</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174744Z" creationid="gitnacho" creationdate="20221008T174744Z">
@@ -15451,6 +15515,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125414Z" creationid="gitnacho" creationdate="20221003T125414Z">
         <seg>- `no-referrer`: No se enviará el encabezado {{HTTPHeader("Referer")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `normal`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204536Z" creationid="Nachec" creationdate="20221021T204536Z">
+        <seg>- `normal`</seg>
       </tuv>
     </tu>
     <tu>
@@ -22732,6 +22804,16 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;!-- a looped "ب" i.e. "𞺁" --&gt;
+&lt;mi mathvariant="looped"&gt;ب&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204355Z" creationid="Nachec" creationdate="20221021T204355Z">
+        <seg>&lt;!-- a looped "ب" i.e. "𞺁" --&gt;
+&lt;mi mathvariant="looped"&gt;ب&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;!-- a normal "A" --&gt;
 &lt;mi mathvariant="normal"&gt;A&lt;/mi&gt;</seg>
       </tuv>
@@ -22748,6 +22830,20 @@ i32.mul</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203458Z" creationid="Nachec" creationdate="20221021T203458Z">
         <seg>&lt;!-- un "cos" normal --&gt;
 &lt;mi&gt;cos&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- a stretched "ب" i.e. "𞹡" --&gt;
+&lt;mi mathvariant="stretched"&gt;ب&lt;/mi&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204524Z" creationid="Nachec" creationdate="20221021T204524Z">
+        <seg>&lt;!-- una "ب" estirada, es decir, "𞹡" --&gt;
+&lt;mi mathvariant="stretched"&gt;ب&lt;/mi&gt;
+&lt;/math&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
