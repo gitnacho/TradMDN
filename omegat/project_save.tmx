@@ -792,6 +792,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Allowing cells to span multiple rows and columns</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095213Z" creationid="Nachec" creationdate="20221021T095213Z">
+        <seg>## Permitir que las celdas abarquen varias filas y columnas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## An example</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085244Z" creationid="gitnacho" creationdate="20221006T085244Z">
@@ -27173,6 +27181,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An `&lt;mtable&gt;` element can be inserted anywhere in a MathML formula.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095100Z" creationid="Nachec" creationdate="20221021T095100Z">
+        <seg>Un elemento `&lt;mtable&gt;` se puede insertar en cualquier lugar de una fórmula MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An alert box appears on the screen, with `Hello, WebAssembly!` in it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065055Z" creationid="gitnacho" creationdate="20221004T065055Z">
@@ -30510,6 +30526,14 @@ Connection: Keep-Alive
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064723Z" creationid="gitnacho" creationdate="20221012T064723Z">
         <seg>Herramientas útiles para usar y revisar conexiones HTTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here is a basic example taken from the [article about the CSS `matrix()` function](/en-US/docs/Web/CSS/transform-function/matrix):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095147Z" creationid="Nachec" creationdate="20221021T095147Z">
+        <seg>Aquí hay un ejemplo básico tomado del [artículo sobre la función CSS `matrix()`](/es/docs/Web/CSS/transform-function/matrix):</seg>
       </tuv>
     </tu>
     <tu>
@@ -36773,6 +36797,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tables are typically used for matrix-like expressions (including vectors).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095122Z" creationid="Nachec" creationdate="20221021T095122Z">
+        <seg>Las tablas se utilizan normalmente para expresiones similares a matrices (incluidos los vectores).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tables can be mutated via [`Table.prototype.set()`](/en-US/docs/WebAssembly/JavaScript_interface/Table/set), which updates one of the values in a table, and [`Table.prototype.grow()`](/en-US/docs/WebAssembly/JavaScript_interface/Table/grow), which increases the number of values that can be stored in a table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233105Z" creationid="gitnacho" creationdate="20221006T233105Z">
@@ -37507,6 +37539,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The MathML tabular elements are similar to the ones for [HTML tables](/en-US/docs/Learn/HTML/Tables): the `&lt;mtable&gt;` element represents a mathematical table, it has `&lt;mtr&gt;` elements as its children (representing rows), each of them having `&lt;mtd&gt;` elements as its children (representing cells).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095053Z" creationid="Nachec" creationdate="20221021T095011Z">
+        <seg>Los elementos tabulares de MathML son similares a los de [tablas HTML](/es/docs/Learn/HTML/Tables): el elemento `&lt;mtable&gt;` representa una tabla matemática, tiene elementos `&lt;mtr&gt;` como sus hijos (que representan filas), cada uno de ellos tiene elementos `&lt;mtd&gt;` como sus hijos (que representan celdas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Service worker will now control pages, but only those opened after the `register()` is successful.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T213847Z" creationid="gitnacho" creationdate="20220921T023118Z">
@@ -37695,6 +37735,14 @@ of the service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064514Z" creationid="gitnacho" creationdate="20221007T064514Z">
         <seg>El `1` indica que la memoria importada debe tener al menos 1 página de memoria (WebAssembly define una página como 64KB).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `&lt;mtd&gt;` element can contain any number of MathML children and will lay them out as an `&lt;mrow&gt;` container.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095113Z" creationid="Nachec" creationdate="20221021T095113Z">
+        <seg>El elemento `&lt;mtd&gt;` puede contener cualquier número de hijos de MathML y los distribuirá como un contenedor `&lt;mrow&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41794,6 +41842,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061523Z" creationid="gitnacho" creationdate="20221004T061523Z">
         <seg>Esto se agrega automáticamente, pero debes reiniciar tu terminal para que surta efecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is again similar to [HTML tables](/en-US/docs/Learn/HTML/Tables/Basics#allowing_cells_to_span_multiple_rows_and_columns).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095349Z" creationid="Nachec" creationdate="20221021T095349Z">
+        <seg>De nuevo, esto es similar a [tablas HTML](/es/docs/Learn/HTML/Tables/Basics#permitir_que_las_celdas_abarquen_varias_filas_y_columnas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57177,6 +57233,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061636Z" creationid="Nachec" creationdate="20221021T061636Z">
         <seg>{{ EmbedLiveSample('Fraction_without_bar', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('MathML_tabular_elements', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095202Z" creationid="Nachec" creationdate="20221021T095202Z">
+        <seg>{{ EmbedLiveSample('MathML_tabular_elements', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
