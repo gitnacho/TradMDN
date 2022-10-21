@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Screenshot of mfrac, msqrt, mroot](mfrac-msqrt-mroot.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060132Z" creationid="Nachec" creationdate="20221021T060132Z">
+        <seg>![Instantánea de mfrac, msqrt, mroot](mfrac-msqrt-mroot.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Screenshot of the DevTools console showing an error.](error.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T055018Z" creationid="gitnacho" creationdate="20221004T055018Z">
@@ -1556,6 +1564,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223436Z" creationid="gitnacho" creationdate="20221018T223436Z">
         <seg>## Temas tratados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Subtrees of \&lt;mfrac&gt;, \&lt;msqrt&gt; and \&lt;mroot&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060017Z" creationid="Nachec" creationdate="20221021T060017Z">
+        <seg>## Subárboles de \&lt;mfrac&gt;, \&lt;msqrt&gt; y \&lt;mroot&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10716,6 +10732,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- The `&lt;msqrt&gt;` is rendered as a square root: its children are laid out like an [`&lt;mrow&gt;`](/en-US/docs/Learn/MathML/First_steps/Getting_started#grouping_with_the_mrow_element), prefixed by a root symbol √ and completely covered by an overbar.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060254Z" creationid="Nachec" creationdate="20221021T060254Z">
+        <seg>- El `&lt;msqrt&gt;` se renderiza como una raíz cuadrada: sus hijos se presentan como un [`&lt;mrow&gt;`](/es/docs/Learn/MathML/First_steps/Getting_started#grouping_with_the_mrow_element), precedido por un símbolo de raíz √ y completamente cubierto por una barra superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- The `Atomics` object is always available.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030645Z" creationid="gitnacho" creationdate="20220923T030645Z">
@@ -11095,6 +11119,14 @@ browser-compat: javascript.builtins.SharedArrayBuffer
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080803Z" creationid="gitnacho" creationdate="20221003T080803Z">
         <seg>- Usar [AssemblyScript](https://assemblyscript.org/) que se parece a TypeScript y se compila a un binario de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- We already know that the `&lt;mfrac&gt;` element is rendered as a fraction: The first child (the numerator) is drawn above the second child (the denominator) separated by a horizontal bar.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060150Z" creationid="Nachec" creationdate="20221021T060150Z">
+        <seg>- Ya sabemos que el elemento `&lt;mfrac&gt;` se representa como una fracción: el primer hijo (el numerador) se dibuja sobre el segundo hijo (el denominador) separado por una barra horizontal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21501,6 +21533,46 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/mfrac&gt;
+&lt;/math&gt;
+&lt;br /&gt;
+&lt;math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060051Z" creationid="Nachec" creationdate="20221021T060051Z">
+        <seg>&lt;/mfrac&gt;
+&lt;/math&gt;
+&lt;br /&gt;
+&lt;math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/mroot&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060057Z" creationid="Nachec" creationdate="20221021T060057Z">
+        <seg>&lt;/mroot&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/msqrt&gt;
+&lt;/math&gt;
+&lt;br /&gt;
+&lt;math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060055Z" creationid="Nachec" creationdate="20221021T060055Z">
+        <seg>&lt;/msqrt&gt;
+&lt;/math&gt;
+&lt;br /&gt;
+&lt;math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/nav&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201118T111128Z" creationid="nacho" creationdate="20201118T111128Z">
@@ -22271,6 +22343,62 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mfrac&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060047Z" creationid="Nachec" creationdate="20221021T060047Z">
+        <seg>&lt;mfrac&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mroot&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060056Z" creationid="Nachec" creationdate="20221021T060056Z">
+        <seg>&lt;mroot&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;msqrt&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060053Z" creationid="Nachec" creationdate="20221021T060053Z">
+        <seg>&lt;msqrt&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;...&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060053Z" creationid="Nachec" creationdate="20221021T060053Z">
+        <seg>&lt;mtext&gt;...&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;child1&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060049Z" creationid="Nachec" creationdate="20221021T060049Z">
+        <seg>&lt;mtext&gt;child1&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;child2&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060049Z" creationid="Nachec" creationdate="20221021T060049Z">
+        <seg>&lt;mtext&gt;child2&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;childN&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060054Z" creationid="Nachec" creationdate="20221021T060054Z">
+        <seg>&lt;mtext&gt;childN&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;nav role="navigation"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201118T111045Z" creationid="nacho" creationdate="20201118T111045Z">
@@ -22773,6 +22901,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T190947Z" creationid="gitnacho" creationdate="20221008T190947Z">
         <seg>&lt;th scope="row"&gt;Número de salidas&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Objective:&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055930Z" creationid="Nachec" creationdate="20221021T055930Z">
+        <seg>&lt;th scope="row"&gt;Objetivo:&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24209,6 +24345,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;.)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055920Z" creationid="Nachec" creationdate="20221021T055920Z">
+        <seg>&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;Content categories&lt;/a</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T120908Z" creationid="gitnacho" creationdate="20221003T120908Z">
@@ -24245,6 +24389,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T121900Z" creationid="gitnacho" creationdate="20221020T121900Z">
         <seg>&gt;IRC&lt;/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;Introduction to HTML&lt;/a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055918Z" creationid="Nachec" creationdate="20221021T055918Z">
+        <seg>&gt;Introducción a HTML&lt;/a</seg>
       </tuv>
     </tu>
     <tu>
@@ -25867,6 +26019,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T202522Z" creationid="gitnacho" creationdate="20221011T202522Z">
         <seg>A continuación se muestra una lista de interfaces que se basan en la interfaz principal de `Event`, con enlaces a su documentación respectiva en la referencia de la API de MDN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Below is a screenshot of how it is rendered by a browser:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060123Z" creationid="Nachec" creationdate="20221021T060123Z">
+        <seg>A continuación se muestra una instantánea de cómo lo renderiza un navegador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29940,6 +30100,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the [getting started with MathML](/en-US/docs/Learn/MathML/First_steps/Getting_started) article, we've already met the `&lt;mfrac&gt;` element to describe a fraction.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060034Z" creationid="Nachec" creationdate="20221021T060034Z">
+        <seg>En el artículo [introducción a MathML](/es/docs/Learn/MathML/First_steps/Getting_started), ya conocemos el elemento `&lt;mfrac&gt;` para describir una fracción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the articles listed below, we'll cover all the essential aspects of structuring, styling, and interacting with web forms.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001350Z" creationid="gitnacho" creationdate="20221020T131247Z">
@@ -31255,6 +31423,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065450Z" creationid="gitnacho" creationdate="20221004T065450Z">
         <seg>Construyamos un sitio web que usa nuestro nuevo paquete npm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's consider a basic example which adds new elements for roots (`&lt;msqrt&gt;` and `&lt;mroot&gt;`):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060045Z" creationid="Nachec" creationdate="20221021T060045Z">
+        <seg>Consideremos un ejemplo básico que agrega nuevos elementos para raíces (`&lt;msqrt&gt;` y `&lt;mroot&gt;`):</seg>
       </tuv>
     </tu>
     <tu>
@@ -40366,6 +40542,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To get familiar with MathML elements used for writing fractions and</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055949Z" creationid="Nachec" creationdate="20221021T055949Z">
+        <seg>Familiarizarte con los elementos de MathML que se utilizan para escribir fracciones y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get the most out of this series of articles you should already have basic to intermediate [JavaScript](/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) knowledge.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T100503Z">
@@ -43951,6 +44135,16 @@ p.fancy {</seg>
 &lt;br /&gt;
 &lt;img src="example.svg#three" alt="círculo azul" width="100" height="100" /&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060047Z" creationid="Nachec" creationdate="20221021T060047Z">
+        <seg>```html
+&lt;math&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53028,6 +53222,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210203T191919Z" creationid="nacho" creationdate="20210203T191919Z">
         <seg>de tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>square roots.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060000Z" creationid="Nachec" creationdate="20221021T060000Z">
+        <seg>raíces cuadradas.</seg>
       </tuv>
     </tu>
     <tu>
