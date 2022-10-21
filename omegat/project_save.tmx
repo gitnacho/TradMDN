@@ -1578,8 +1578,8 @@
       <tuv lang="en-US">
         <seg>## See also</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T184120Z" creationid="gitnacho" creationdate="20220921T042627Z">
-        <seg>## Véase también</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110227Z" creationid="gitnacho" creationdate="20220921T042627Z">
+        <seg>scritos como signos de interrogació## Véase también</seg>
       </tuv>
     </tu>
     <tu>
@@ -13283,6 +13283,24 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [The `&lt;msub&gt;` element](/en-US/docs/Web/MathML/Element/msub)
+- [The `&lt;msup&gt;` element](/en-US/docs/Web/MathML/Element/msup)
+- [The `&lt;msubsup&gt;` element](/en-US/docs/Web/MathML/Element/msubsup)
+- [The `&lt;munder&gt;` element](/en-US/docs/Web/MathML/Element/munder)
+- [The `&lt;mover&gt;` element](/en-US/docs/Web/MathML/Element/mover)
+- [The `&lt;munderover&gt;` element](/en-US/docs/Web/MathML/Element/munderover)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110134Z" creationid="Nachec" creationdate="20221021T110134Z">
+        <seg>- [El elemento `&lt;msub&gt;`](/es/docs/Web/MathML/Element/msub)
+- [El elemento `&lt;msup&gt;`](/es/docs/Web/MathML/Element/msup)
+- [El elemento `&lt;msubsup&gt;`](/es/docs/Web/MathML/Element/msubsup)
+- [El elemento `&lt;munder&gt;`](/es/docs/Web/MathML/Element/munder)
+- [El elemento `&lt;mover&gt;`](/es/docs/Web/MathML/Element/mover)
+- [El elemento `&lt;munderover&gt;`](/es/docs/Web/MathML/Element/munderover)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [The web and web standards](/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards): This article provides some useful background on the Web — how it came about, what web standard technologies are, how they work together, why "web developer" is a great career to choose, and what kinds of best practices you'll learn about through the course.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T060347Z" creationid="gitnacho" creationdate="20220925T060347Z">
@@ -14259,6 +14277,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105916Z" creationid="Nachec" creationdate="20221021T105916Z">
         <seg>- _largeop_: El operador se dibuja con un glifo más grande si la etiqueta `&lt;math&gt;` tiene un atributo `display="block"`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- _movablelimits_: The underscripts and overscripts attached to the operator are respectively rendered as subscripts and superscripts if the `&lt;math&gt;` tag does not have the `display="block"` attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105947Z" creationid="Nachec" creationdate="20221021T105947Z">
+        <seg>- _movablelimits_: Los guiones inferiores y superiores adjuntos al operador se renderizan respectivamente como subíndices y superíndices si la etiqueta `&lt;math&gt;` no tiene el atributo `display="block"`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25678,6 +25704,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** The _largeop_ property is actually unrelated to scripts, even though operators having this property are typically scripted.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110014Z" creationid="Nachec" creationdate="20221021T110014Z">
+        <seg>&gt; **Nota:** La propiedad `largeop` en realidad no está relacionada con los scripts, aunque los operadores tienen esta propiedad suele estar programada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** The `origin` value can be `null`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060613Z" creationid="gitnacho" creationdate="20221012T060613Z">
@@ -32890,6 +32924,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the next article, we will continue focus on [tabular layout](/en-US/docs/Learn/MathML/First_steps/Tables).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110115Z" creationid="Nachec" creationdate="20221021T110115Z">
+        <seg>En el próximo artículo, seguiremos centrándonos en [diseño tabular](/es/docs/Learn/MathML/First_steps/Tables).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the next article, we will continue with basic math notations and consider [scripts](/en-US/docs/Learn/MathML/First_steps/Scripts).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061757Z" creationid="Nachec" creationdate="20221021T061757Z">
@@ -32994,6 +33036,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T054935Z" creationid="gitnacho" creationdate="20220925T054935Z">
         <seg>En este artículo, te guiaremos a través de lo que necesitas para comenzar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this article, we've finished reviewing basic layout introducing elements `&lt;msub&gt;`, `&lt;msup&gt;`, `&lt;msubsup&gt;`, `&lt;munder&gt;`, `&lt;mover&gt;`, `&lt;munderover&gt;` for subscripts, superscripts, underscripts and overscripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110047Z" creationid="Nachec" creationdate="20221021T110047Z">
+        <seg>En este artículo, hemos terminado de revisar el diseño básico introduciendo elementos `&lt;msub&gt;`, `&lt;msup&gt;`, `&lt;msubsup&gt;`, `&lt;munder&gt;`, `&lt;mover&gt;`, `&lt;munderover&gt;` para subíndices , superíndices, subrayados y sobreíndices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38336,6 +38386,14 @@ of the service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210534Z" creationid="gitnacho" creationdate="20221017T210437Z">
         <seg>La [política de seguridad del mismo origen](/es/docs/Web/Security/Same-origin_policy) prohíbe el acceso a los recursos de orígenes cruzados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The _movablelimits_ property is taken into account for `&lt;munder&gt;` and `&lt;mover&gt;` elements too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110028Z" creationid="Nachec" creationdate="20221021T110028Z">
+        <seg>La propiedad `movablelimits` también se tiene en cuenta para los elementos `&lt;munder&gt;` y `&lt;mover&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44258,6 +44316,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211755Z" creationid="gitnacho" creationdate="20221005T211755Z">
         <seg>Usando el ejemplo anterior pero sin mostrar el código HTML se vería así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using these elements, we were able to briefly introduce new properties of the `&lt;mo&gt;` element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110100Z" creationid="Nachec" creationdate="20221021T110100Z">
+        <seg>Usando estos elementos, pudimos introducir brevemente nuevas propiedades del elemento `&lt;mo&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
