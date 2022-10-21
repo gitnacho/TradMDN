@@ -29152,8 +29152,8 @@ call, and it will pass the response into the function when it fulfills.</seg>
       <tuv lang="en-US">
         <seg>Check out the [browser compatibility table](/en-US/docs/Web/MathML/Element/math#browser_compatibility) for further details.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181451Z" creationid="Nachec" creationdate="20221021T181451Z">
-        <seg>Consulta la [tabla de compatibilidad de navegadores](/es/docs/Web/MathML/Element/math#compatibilidad_con_navegadores) para obtener más detalles.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184433Z" creationid="Nachec" creationdate="20221021T181451Z">
+        <seg>Consulta la [tabla de compatibilidad con navegadores](/es/docs/Web/MathML/Element/math#compatibilidad_con_navegadores) para obtener más detalles.</seg>
       </tuv>
     </tu>
     <tu>
