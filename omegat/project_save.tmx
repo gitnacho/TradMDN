@@ -5773,6 +5773,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether a stretchy operator should be vertically symmetric around the imaginary math axis (centered fraction line).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221806Z" creationid="Nachec" creationdate="20221021T221806Z">
+        <seg>- : Un [`&lt;booleano&gt;`](/es/docs/Web/MathML/Attribute/Values#tipos_específicos_de_mathml) que indica si un operador elástico debe ser simétrico verticalmente alrededor del eje matemático imaginario (línea de fracción centrada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether attached under- and overscripts move to sub- and superscript positions when [`math-style`](/en-US/docs/Web/CSS/math-style) is set to `compact`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221616Z" creationid="Nachec" creationdate="20221021T221519Z">
@@ -5789,10 +5797,34 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether the operator is a separator (such as commas).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221721Z" creationid="Nachec" creationdate="20221021T221721Z">
+        <seg>- : Un [`&lt;boolean&gt;`](/es/docs/Web/MathML/Attribute/Values#tipos_específicos_de_mathml) que indica si el operador es un separador (como comas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether the operator should be treated as an accent when used as an [under](/en-US/docs/Web/MathML/Element/munder)- or [overscript](/en-US/docs/Web/MathML/Element/mover) (i.e. drawn bigger and closer to the base expression).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221229Z" creationid="Nachec" creationdate="20221021T221104Z">
         <seg>- : Un [`&lt;boolean&gt;`](/es/docs/Web/MathML/Attribute/Values#tipos_específicos_de_mathml) que indica si el operador se debe tratar como un acento cuando se usa como [under](/es/docs/Web/MathML/Element/munder)- u [overscript](/es/docs/Web/MathML/Element/mover) (es decir, dibujado más grande y más cerca de la expresión base).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether the operator stretches to the size of the adjacent element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221741Z" creationid="Nachec" creationdate="20221021T221741Z">
+        <seg>- : Un [`&lt;boolean&gt;`](/es/docs/Web/MathML/Attribute/Values#tipos_específicos_de_mathml) que indica si el operador se extiende al tamaño del elemento adyacente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A [`&lt;length-percentage&gt;`](/en-US/docs/Web/CSS/length-percentage) indicating the amount of space after the operator.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221644Z" creationid="Nachec" creationdate="20221021T221644Z">
+        <seg>- : Un [`&lt;length-percentage&gt;`](/es/docs/Web/CSS/length-percentage) que indica la cantidad de espacio después del operador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27374,6 +27406,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T103457Z" creationid="gitnacho" creationdate="20221005T060726Z">
         <seg>&gt; **Nota:** Para obtener más información sobre cómo funciona la exportación desde un módulo WebAssembly, lee [Usar la API JavaScript de WebAssembly](/es/docs/WebAssembly/Using_the_JavaScript_API) y [Entender el formato de texto WebAssembly](/es/docs/WebAssembly/Understanding_the_text_format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** For the `lspace`, `maxsize`, `minsize` and `rspace` attributes, some browsers may also accept [legacy MathML lengths](/en-US/docs/Web/MathML/Attribute/Values#legacy_mathml_lengths).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221901Z" creationid="Nachec" creationdate="20221021T221901Z">
+        <seg>&gt; **Nota:** Para los atributos `lspace`, `maxsize`, `minsize` y `rspace`, algunos navegadores también pueden aceptar [longitudes heredadas de MathML](/es/docs/Web/MathML/Attribute/Values#legacy_mathml_lengths).</seg>
       </tuv>
     </tu>
     <tu>
