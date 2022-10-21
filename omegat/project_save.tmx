@@ -6315,16 +6315,16 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : If you are comfortable with HTML and CSS already, or you are mainly interested in coding, you'll want to move on to {{glossary("JavaScript")}} or server-side development.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130245Z" creationid="gitnacho" creationdate="20221012T232053Z">
-        <seg>- : Si ya te sientes cómodo con el HTML y el CSS, o principalmente estás interesado en la codificación, querrás pasar al desarrollo de {{Glossary("JavaScript")}} o al desarrollo de lado del servidor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000428Z" creationid="gitnacho" creationdate="20221012T232053Z">
+        <seg>- : Si ya te sientes cómodo con HTML y CSS, o si estás interesado principalmente en la codificación, querrás pasar al {{Glossary("JavaScript")}} o al desarrollo de lado del servidor.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- : If you have a bit of knowledge already, the next step is to learn {{glossary("HTML")}} and {{glossary("CSS")}} in detail: start with our [Introduction to HTML](/en-US/docs/Learn/HTML/Introduction_to_HTML) module and move on to our [CSS first steps](/en-US/docs/Learn/CSS/First_steps) module.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130205Z" creationid="gitnacho" creationdate="20221012T232016Z">
-        <seg>- : ¡Muy bien! Si ya tienes un poco de conocimiento en ese caso te sugerimos profundizar en el corazón de las tecnologías web. El siguiente paso es conocer en detalle {{Glossary("HTML")}} y {{Glossary("CSS")}}: empieza con el módulo de [Introducción a HTML](/es/docs/Learn/HTML) y sigue con el módulo de [primeros pasos en CSS](/es/docs/Learn/CSS/First_steps).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000307Z" creationid="gitnacho" creationdate="20221012T232016Z">
+        <seg>- : Si ya tienes un poco de conocimiento, el siguiente paso es aprender {{Glossary("HTML")}} y {{Glossary("CSS")}} en detalle: comienza con nuestra [Introducción a HTML](/es/docs/Learn/HTML/Introduction_to_HTML) y pasa a nuestro módulo [primeros pasos en CSS](/es/docs/Learn/CSS/First_steps).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,8 +8406,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Beyond the basics</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130013Z" creationid="gitnacho" creationdate="20221012T231943Z">
-        <seg>- **Conozco la web:**</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000210Z" creationid="gitnacho" creationdate="20221012T231943Z">
+        <seg>- Mas allá de lo básico</seg>
       </tuv>
     </tu>
     <tu>
@@ -9925,8 +9925,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Moving onto scripting</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130217Z" creationid="gitnacho" creationdate="20221012T232029Z">
-        <seg>- **Me interesa javascript:**</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000334Z" creationid="gitnacho" creationdate="20221012T232029Z">
+        <seg>- **Pasando a los scripts**</seg>
       </tuv>
     </tu>
     <tu>
@@ -25758,8 +25758,8 @@ call, and it will pass the response into the function when it fulfills.</seg>
       <tuv lang="en-US">
         <seg>Begin with our [JavaScript first steps](/en-US/docs/Learn/JavaScript/First_steps) and [Server-side first steps](/en-US/docs/Learn/Server-side/First_steps) modules.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130329Z" creationid="gitnacho" creationdate="20221012T232115Z">
-        <seg>Empieza con los módulos de [primeros pasos con JavaScript](/es/docs/Learn/JavaScript/First_steps) y [primeros pasos en la programación de lado del servidor](/es/docs/Learn/Server-side/First_steps).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000510Z" creationid="gitnacho" creationdate="20221012T232115Z">
+        <seg>Comienza con nuestros módulos [Primeros pasos en JavaScript](/es/docs/Learn/JavaScript/First_steps) y [Primeros pasos de lado del servidor](/es/docs/Learn/Server-side/First_steps).</seg>
       </tuv>
     </tu>
     <tu>
