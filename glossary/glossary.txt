@@ -79749,3 +79749,5 @@ zygote	cigoto
 ⇋	C-q C-i inserta un carácter de tabulación
 ﻿`	acento gravedistributivity	distributividaddisjointed
 literacy	alfabetización	alfabetización
+double-struck	doble golpe
+fraktur	fractura
