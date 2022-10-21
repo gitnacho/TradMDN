@@ -784,6 +784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Assessments</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084014Z" creationid="Nachec" creationdate="20221021T084014Z">
+        <seg>## Evaluaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Attributes</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122350Z" creationid="gitnacho" creationdate="20221003T122350Z">
@@ -6573,6 +6581,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : In this article, we will take a simple HTML document and see how to add MathML formulas into it, introducing a few elements along the way.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083839Z" creationid="Nachec" creationdate="20221021T083839Z">
+        <seg>- : En este artículo, tomaremos un documento HTML simple y veremos cómo agregarle fórmulas MathML, introduciendo algunos elementos en el camino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Increase the size of the memory instance.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T095308Z" creationid="gitnacho" creationdate="20221007T095308Z">
@@ -6883,10 +6899,26 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Now that you get a better idea of MathML, we move on to text containers (variables, numbers, operators, ...) which are used as building blocks of MathML formulas.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083911Z" creationid="Nachec" creationdate="20221021T083911Z">
+        <seg>- : Ahora que tienes una mejor idea de MathML, pasemos a los contenedores de texto (variables, números, operadores, ...) que se utilizan como componentes básicos de las fórmulas de MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Old-style method that returns the value contained inside the global variable.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T104652Z" creationid="gitnacho" creationdate="20221007T104652Z">
         <seg>- : Método antiguo que devuelve el valor contenido dentro de la variable global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Once all basic math notations are known, it remains to consider tabular layout which can be used for matrix-like expressions and other advanced math layout.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084008Z" creationid="Nachec" creationdate="20221021T084008Z">
+        <seg>- : Una vez que se conocen todas las notaciones matemáticas básicas, nos falta considerar el diseño tabular que se puede usar para expresiones similares a matrices y otros diseños matemáticos avanzados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6999,6 +7031,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T111603Z" creationid="gitnacho" creationdate="20221019T111603Z">
         <seg>- : Documentación de referencia con ejemplos interactivos para el conjunto de operadores WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Relying on text containers, this article describes how to build more complex MathML expressions by nesting fractions and roots.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083930Z" creationid="Nachec" creationdate="20221021T083930Z">
+        <seg>- : Basándose en contenedores de texto, este artículo describe cómo crear expresiones MathML más complejas anidando fracciones y raíces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8199,6 +8239,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : We continue the review of basic math notations and focuses on building MathML elements with scripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083944Z" creationid="Nachec" creationdate="20221021T083944Z">
+        <seg>- : Continuamos con la revisión de notaciones matemáticas básicas y nos enfocamos en construir elementos de MathML con scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Web App Manifests let you enable users to install Web apps to their device home screens, with aspects such as portrait/landscape screen orientation and display mode (e.g., full screen) pre-set.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T095525Z" creationid="gitnacho" creationdate="20221002T095424Z">
@@ -8275,6 +8323,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T094854Z" creationid="gitnacho" creationdate="20221003T094854Z">
         <seg>- : Al escribir código en C/C++, lo puedes compilar a `.wasm` usando una herramienta como [Emscripten](https://emscripten.org/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : With the things you have learned in the last few articles, you should already be able to write relatively sophisticated MathML formulas.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084037Z" creationid="Nachec" creationdate="20221021T084037Z">
+        <seg>- : Con lo que has aprendido en los últimos artículos, ya deberías ser capaz de escribir fórmulas MathML relativamente sofisticadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12328,6 +12384,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Fractions and roots](/en-US/docs/Learn/MathML/First_steps/Fractions_and_roots)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083919Z" creationid="Nachec" creationdate="20221021T083919Z">
+        <seg>- [Fracciones y raíces](/es/docs/Learn/MathML/First_steps/Fractions_and_roots)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Getting started with MathML](/en-US/docs/Learn/MathML/First_steps/Getting_started)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083827Z" creationid="Nachec" creationdate="20221021T083827Z">
@@ -12833,6 +12897,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Scripts](/en-US/docs/Learn/MathML/First_steps/Scripts)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083936Z" creationid="Nachec" creationdate="20221021T083936Z">
+        <seg>- [Scripts](/es/docs/Learn/MathML/First_steps/Scripts)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Secure contexts](/en-US/docs/Web/Security/Secure_Contexts)
 - ["secure context" query on Chrome Platform Status](https://chromestatus.com/features#secure%20context)</seg>
       </tuv>
@@ -12879,6 +12951,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T213012Z" creationid="gitnacho" creationdate="20220922T211359Z">
         <seg>- [Acelera el *Service Worker*&amp;nbsp;con precargas de navegación](https://developer.chrome.com/blog/navigation-preload/) (developer.chrome.com)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Tables](/en-US/docs/Learn/MathML/First_steps/Tables)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083949Z" creationid="Nachec" creationdate="20221021T083949Z">
+        <seg>- [Tablas](/es/docs/Learn/MathML/First_steps/Tables)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Text containers](/en-US/docs/Learn/MathML/First_steps/Text_containers)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083850Z" creationid="Nachec" creationdate="20221021T083850Z">
+        <seg>- [Contenedores de texto](/es/docs/Learn/MathML/First_steps/Text_containers)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12937,6 +13025,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T060347Z" creationid="gitnacho" creationdate="20220925T060347Z">
         <seg>- [La web y sus estándares](/es/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards): Este artículo proporciona algunos útiles antecedentes sobre la web: cómo surgió, qué son las tecnologías web estándar, cómo trabajan juntas, por qué "desarrollador web" es una gran carrera para elegir y qué tipo de mejores prácticas aprenderás a través del curso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Three famous mathematical formulas](/en-US/docs/Learn/MathML/First_steps/Three_famous_mathematical_formulas)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084029Z" creationid="Nachec" creationdate="20221021T084029Z">
+        <seg>- [Tres famosas fórmulas matemáticas](/es/docs/Learn/MathML/First_steps/Three_famous_mathematical_formulas)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37881,6 +37977,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following assessment will test your understanding of the MathML basics covered in the guides above.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084019Z" creationid="Nachec" creationdate="20221021T084019Z">
+        <seg>La siguiente evaluación pondrá a prueba tu comprensión de los conceptos básicos de MathML cubiertos en las guías anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following code shows a service worker fetch event handler that uses a preloaded response ({{domxref("FetchEvent.preloadResponse")}}).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T210348Z">
@@ -40357,6 +40461,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T111430Z" creationid="gitnacho" creationdate="20221006T111430Z">
         <seg>Este artículo te enseña lo que necesitarás saber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This assessment gives you a chance to do that.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084039Z" creationid="Nachec" creationdate="20221021T084039Z">
+        <seg>Esta evaluación te da la oportunidad de hacerlo.</seg>
       </tuv>
     </tu>
     <tu>
