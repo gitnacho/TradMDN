@@ -16497,6 +16497,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- a _positive value_ means that the element should be focusable and reachable via sequential keyboard navigation; the order in which the elements are focused is the increasing value of the [**tabindex**](#tabindex).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214606Z" creationid="Nachec" creationdate="20221021T214606Z">
+        <seg>- un _valor positivo_ significa que el elemento debe ser enfocable y accesible a través de la navegación secuencial del teclado; el orden en que se enfocan los elementos es el valor creciente de [**tabindex**](#tabindex).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- assembly</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182421Z" creationid="gitnacho" creationdate="20221007T182421Z">
@@ -17378,6 +17386,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T150615Z" creationid="gitnacho" creationdate="20221002T150615Z">
         <seg>- {{DOMxRef("Clients")}} {{Experimental_Inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{DOMxRef("Element")}} interface that allows querying most global attributes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214629Z" creationid="Nachec" creationdate="20221021T214629Z">
+        <seg>- Interfaz {{DOMxRef("Element")}} que permite consultar la mayoría de los atributos globales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33850,6 +33866,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T051825Z" creationid="gitnacho" creationdate="20221004T051825Z">
         <seg>Si falla la apertura de la base de datos (por ejemplo, debido a permisos o cuotas), recurrimos a buscar y compilar el módulo y no intentamos almacenar los resultados (puesto que no hay una base de datos para almacenarlos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If several elements share the same tabindex, their relative order follows their relative positions in the document.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214619Z" creationid="Nachec" creationdate="20221021T214619Z">
+        <seg>Si varios elementos comparten el mismo `tabindex`, su orden relativo sigue sus posiciones relativas en el documento.</seg>
       </tuv>
     </tu>
     <tu>
