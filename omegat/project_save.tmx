@@ -2906,6 +2906,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Large operator and limits</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105047Z" creationid="Nachec" creationdate="20221021T105047Z">
+        <seg>### Operador grande y límites</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Legacy and non-standard properties</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T204702Z" creationid="gitnacho" creationdate="20221011T204702Z">
@@ -25003,6 +25011,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;title&gt;My page with moved limits and small largeop&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105214Z" creationid="Nachec" creationdate="20221021T105214Z">
+        <seg>&lt;title&gt;Mi página con límites movidos y pequeño gran tamaño&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;title&gt;My page with scripted elements&lt;/title&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103821Z" creationid="Nachec" creationdate="20221021T103821Z">
@@ -25602,6 +25618,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203555Z" creationid="gitnacho" creationdate="20221019T203555Z">
         <seg>&gt; **Nota:** Los seguimientos de la pila normalmente no se envían desde el código de WebAssembly para mejorar el rendimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** Stretching can happen for any child of the `&lt;munder&gt;`, `&lt;mover&gt;` or `&lt;munderover&gt;` element, not just the underscript or overscript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105041Z" creationid="Nachec" creationdate="20221021T105041Z">
+        <seg>&gt; **Nota:** El estiramiento puede ocurrir para cualquier hijo del elemento `&lt;munder&gt;`, `&lt;mover&gt;` o `&lt;munderover&gt;`, no solo para el guión bajo o guión superior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34321,6 +34345,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's look at the same example, as rendered without that attribute:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105139Z" creationid="Nachec" creationdate="20221021T105139Z">
+        <seg>Veamos el mismo ejemplo, renderizado sin ese atributo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's look at what the browser will send to the server in this case:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222038Z" creationid="gitnacho" creationdate="20221011T222038Z">
@@ -36245,8 +36277,8 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>Recall that [some vertical operators can stretch](/en-US/docs/Learn/MathML/First_steps/Text_containers#active_learning_stretchy_operators) to cover the height of non-stretchy siblings inside an `&lt;mrow&gt;`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104923Z" creationid="Nachec" creationdate="20221021T104923Z">
-        <seg>Recuerda que [algunos operadores verticales se pueden estirar](/es/docs/Learn/MathML/First_steps/Text_containers#aprendizaje_activo_operadores_de_estrecamiento) para cubrir la altura de los hermanos no estirables dentro de un `&lt;mrow&gt;`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104952Z" creationid="Nachec" creationdate="20221021T104923Z">
+        <seg>Recuerda que [algunos operadores verticales se pueden estirar](/es/docs/Learn/MathML/First_steps/Text_containers#aprendizaje_activo_operadores_de_estrecamiento) para cubrir la altura de los hermanos no extensibles dentro de un `&lt;mrow&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36878,6 +36910,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similarly some horizontal operators can stretch to cover the width of non-stretchy siblings in an `&lt;munder&gt;`, `&lt;mover&gt;` or `&lt;munderover&gt;` element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105005Z" creationid="Nachec" creationdate="20221021T104939Z">
+        <seg>De manera similar, algunos operadores horizontales se pueden extender para cubrir el ancho de los hermanos no extensibles en un elemento `&lt;munder&gt;`, `&lt;mover&gt;` o `&lt;munderover&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similarly to what we saw in the [previous article](/en-US/docs/Learn/MathML/First_steps/Fractions_and_roots), the `&lt;msub&gt;`, `&lt;msup&gt;` and `&lt;msubsup&gt;` have a special structure expecting exactly two elements (for `&lt;msub&gt;`, `&lt;msup&gt;`) or three elements (for `&lt;msubsup&gt;`):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102010Z" creationid="Nachec" creationdate="20221021T102010Z">
@@ -36986,6 +37026,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T103748Z" creationid="gitnacho" creationdate="20221006T095802Z">
         <seg>Entonces, después de la creación de instancias, la tabla aún tiene una longitud de 2, pero los elementos ahora contienen [Funciones WebAssembly exportadas](/es/docs/WebAssembly/Exported_functions) a las que podemos llamar desde JS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So far our example has actually been rendered with the [`display="block"`](/en-US/docs/Learn/MathML/First_steps/Getting_started#the_display_attribute) attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105122Z" creationid="Nachec" creationdate="20221021T105122Z">
+        <seg>Hasta ahora, nuestro ejemplo se ha renderizado con el atributo [`display="block"`](/es/docs/Learn/MathML/First_steps/Getting_started#el_atributo_display).</seg>
       </tuv>
     </tu>
     <tu>
