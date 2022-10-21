@@ -1520,6 +1520,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## MathML-specific types</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221116Z" creationid="Nachec" creationdate="20221021T221116Z">
+        <seg>## Tipos específicos de MathML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Memory</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181919Z" creationid="gitnacho" creationdate="20221006T181919Z">
@@ -5761,6 +5769,22 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T114425Z" creationid="gitnacho" creationdate="20221019T114425Z">
         <seg>- : Un objeto `exception` de WebAssembly que se puede lanzar, capturar y volver a lanzar tanto dentro como fuera de los límites de WebAssembly/JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether the operator is a fence (such as parentheses).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221314Z" creationid="Nachec" creationdate="20221021T221314Z">
+        <seg>- : Un [`&lt;boolean&gt;`](/es/docs/Web/MathML/Attribute/Values#tipos_específicos_de_mathml) que indica si el operador es una valla (como paréntesis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : A [`&lt;boolean&gt;`](/en-US/docs/Web/MathML/Attribute/Values#mathml-specific_types) indicating whether the operator should be treated as an accent when used as an [under](/en-US/docs/Web/MathML/Element/munder)- or [overscript](/en-US/docs/Web/MathML/Element/mover) (i.e. drawn bigger and closer to the base expression).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221229Z" creationid="Nachec" creationdate="20221021T221104Z">
+        <seg>- : Un [`&lt;boolean&gt;`](/es/docs/Web/MathML/Attribute/Values#tipos_específicos_de_mathml) que indica si el operador se debe tratar como un acento cuando se usa como [under](/es/docs/Web/MathML/Element/munder)- u [overscript](/es/docs/Web/MathML/Element/mover) (es decir, dibujado más grande y más cerca de la expresión base).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30586,6 +30610,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Besides operators in strict mathematical meaning, this element also includes "operators" like parentheses, separators like comma and semicolon, or "absolute value" bars.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220944Z" creationid="Nachec" creationdate="20221021T220944Z">
+        <seg>Además de los operadores en sentido matemático estricto, este elemento también incluye "operadores" como paréntesis, separadores como coma y punto y coma, o barras de "valor absoluto".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides representing matrix-like objects, MathML tables are sometimes used for advanced layout inside mathematical formulas, for example in [Wikipedia's definition of Legendre symbol](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095639Z" creationid="Nachec" creationdate="20221021T095533Z">
@@ -34984,6 +35016,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T085858Z" creationid="gitnacho" creationdate="20221003T081057Z">
         <seg>En resumen, el proceso es el siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the [global MathML attributes](/en-US/docs/Web/MathML/Global_attributes), this element accepts the following attributes [whose default values depend on the operator's form and content](https://w3c.github.io/mathml-core/#algorithm-for-determining-the-properties-of-an-embellished-operator):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221020Z" creationid="Nachec" creationdate="20221021T221020Z">
+        <seg>Además de los [atributos globales de MathML](/es/docs/Web/MathML/Global_attributes), este elemento acepta los siguientes atributos [cuyos valores predeterminados dependen de la forma y contenido del operador](https://w3c.github.io/mathml-core/#algorithm-for-determining-the-properties-of-an-embellished-operator):</seg>
       </tuv>
     </tu>
     <tu>
