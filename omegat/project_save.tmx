@@ -6529,8 +6529,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : JavaScript is the scripting language used to add dynamic functionality to web pages.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131117Z" creationid="gitnacho" creationdate="20221020T131117Z">
-        <seg>- : JavaScript es el lenguaje de scripts usado para añadir funcionalidad dinámica a las páginas web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001203Z" creationid="gitnacho" creationdate="20221020T131117Z">
+        <seg>- : JavaScript es el lenguaje de programación utilizado para agregar funcionalidad dinámica a las páginas web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7993,8 +7993,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Web forms are a potent tool for interacting with users — most commonly, they are used for collecting data from users, or allowing them to control a user interface.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131225Z" creationid="gitnacho" creationdate="20221020T131225Z">
-        <seg>- : Los formularios HTML son un potente instrumento para interactuar con los usuarios — frecuentemente se utilizan para reunir datos de los usuarios, o permitirte controlar la interfaz de usuario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001324Z" creationid="gitnacho" creationdate="20221020T131225Z">
+        <seg>- : Los formularios web son una potente herramienta para interactuar con los usuarios; por lo general, se utilizan para recopilar datos de los usuarios o permitirles controlar una interfaz de usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11613,8 +11613,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Accessibility — make the web usable by everyone](/en-US/docs/Learn/Accessibility)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131335Z" creationid="gitnacho" creationdate="20221020T131335Z">
-        <seg>- [Accesibilidad — hace que la web sea utilizable por todos](/es/docs/Learn/Accessibility)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001414Z" creationid="gitnacho" creationdate="20221020T131335Z">
+        <seg>- [Accesibilidad — Hacer que la web sea utilizable por todos](/es/docs/Learn/Accessibility)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12780,8 +12780,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Web forms — Working with user data](/en-US/docs/Learn/Forms)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131158Z" creationid="gitnacho" creationdate="20221020T131158Z">
-        <seg>- [Formularios HTML](/es/docs/Learn/HTML/Forms)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001302Z" creationid="gitnacho" creationdate="20221020T131158Z">
+        <seg>- [Formularios web — Trabajar con datos de usuario](/es/docs/Learn/Forms)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29859,8 +29859,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In the articles listed below, we'll cover all the essential aspects of structuring, styling, and interacting with web forms.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131247Z" creationid="gitnacho" creationdate="20221020T131247Z">
-        <seg>En los artículos enumerados a continuación, se cubrirán todos los aspectos esenciales de la estructuración, estilizado e interacción con los formularios web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001350Z" creationid="gitnacho" creationdate="20221020T131247Z">
+        <seg>En los artículos que se enumeran a continuación, cubriremos todos los aspectos esenciales de la estructuración, estilizado e interacción con formularios web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39901,8 +39901,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This topic teaches all the essentials needed to become comfortable with writing and understanding JavaScript.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131143Z" creationid="gitnacho" creationdate="20221020T131143Z">
-        <seg>Este tema enseña todo lo esencial necesario para sentirte cómodo con la escritura y comprensión de JavaScript.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001225Z" creationid="gitnacho" creationdate="20221020T131143Z">
+        <seg>Este tema enseña todos los elementos esenciales necesarios para sentirte cómodo con la escritura y comprensión de JavaScript.</seg>
       </tuv>
     </tu>
     <tu>
