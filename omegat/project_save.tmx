@@ -23418,6 +23418,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;p&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094429Z" creationid="Nachec" creationdate="20221021T094429Z">
+        <seg>&lt;mi&gt;p&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi&gt;t&lt;/mi&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090548Z" creationid="Nachec" creationdate="20221021T090548Z">
@@ -23546,6 +23554,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;.&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094543Z" creationid="Nachec" creationdate="20221021T094543Z">
+        <seg>&lt;mo&gt;.&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;;&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094511Z" creationid="Nachec" creationdate="20221021T094511Z">
+        <seg>&lt;mo&gt;;&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;=&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061634Z" creationid="Nachec" creationdate="20221021T061634Z">
@@ -23662,6 +23686,46 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090545Z" creationid="Nachec" creationdate="20221021T090545Z">
         <seg>&lt;mtd&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;&amp;nbsp;and&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094443Z" creationid="Nachec" creationdate="20221021T094443Z">
+        <seg>&lt;mtext&gt;&amp;nbsp;y&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;&amp;nbsp;is a multiple of&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094541Z" creationid="Nachec" creationdate="20221021T094541Z">
+        <seg>&lt;mtext&gt;&amp;nbsp;es múltiplo de&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;&amp;nbsp;is a non-quadratic residue modulo&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094528Z" creationid="Nachec" creationdate="20221021T094528Z">
+        <seg>&lt;mtext&gt;&amp;nbsp;es un módulo de residuo no cuadrático&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;&amp;nbsp;is a quadratic residue modulo&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094427Z" creationid="Nachec" creationdate="20221021T094427Z">
+        <seg>&lt;mtext&gt;&amp;nbsp;es un módulo de residuo cuadrático&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;&amp;nbsp;is not a multiple of&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094503Z" creationid="Nachec" creationdate="20221021T094503Z">
+        <seg>&lt;mtext&gt;&amp;nbsp;no es múltiplo de&amp;nbsp;&lt;/mtext&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25698,6 +25762,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061525Z" creationid="Nachec" creationdate="20221021T061525Z">
         <seg>&gt; **Advertencia:** Por lo general, se requieren [fuentes matemáticas](/es/docs/Web/MathML/Fonts) especiales para hacer posible esa extensión, el ejemplo anterior se basa en [fuentes web](/es/docs/Learn/CSS/Styling_text/Web_fonts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Warning:** The [`&lt;mtable&gt;` article](/en-US/docs/Web/MathML/Element/mtable) provides more advanced layout options via special attributes such as alignment or spacing.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094643Z" creationid="Nachec" creationdate="20221021T094643Z">
+        <seg>&gt; **Advertencia:** El [artículo `&lt;mtable&gt;`](/es/docs/Web/MathML/Element/mtable) proporciona opciones de diseño más avanzadas a través de atributos especiales como la alineación o el espaciado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57035,6 +57107,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061503Z" creationid="Nachec" creationdate="20221021T061503Z">
         <seg>{{ EmbedLiveSample('Stretchy_radical_symbols', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Usage_for_advanced_layout', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094622Z" creationid="Nachec" creationdate="20221021T094622Z">
+        <seg>{{ EmbedLiveSample('Usage_for_advanced_layout', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
