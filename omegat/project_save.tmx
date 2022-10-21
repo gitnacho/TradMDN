@@ -26069,6 +26069,28 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mtext&gt;/* comment here */&lt;/mtext&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222510Z" creationid="Nachec" creationdate="20221021T222510Z">
+        <seg>&lt;mtext&gt;/* comenta aquí */&lt;/mtext&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;Theorem of Pythagoras&lt;/mtext&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222445Z" creationid="Nachec" creationdate="20221021T222445Z">
+        <seg>&lt;mtext&gt;Teorema de Pythagoras&lt;/mtext&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mtext&gt;child1&lt;/mtext&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060049Z" creationid="Nachec" creationdate="20221021T060049Z">
@@ -46881,6 +46903,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To display text _with_ notational meaning, use {{ MathMLElement("mi") }}, {{ MathMLElement("mn") }}, {{ MathMLElement("mo") }} or {{ MathMLElement("ms") }} instead.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222655Z" creationid="Nachec" creationdate="20221021T222430Z">
+        <seg>Para mostrar texto _con_ significado notacional, usa {{ MathMLElement("mi") }}, {{ MathMLElement("mn") }}, {{ MathMLElement("mo") }} o {{ MathMLElement("ms") }} en su lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To do this, they will use a GFM blockquote with a special first paragraph.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181128Z" creationid="gitnacho" creationdate="20221008T181128Z">
@@ -62015,6 +62045,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220731Z" creationid="Nachec" creationdate="20221021T220731Z">
         <seg>{{ EmbedLiveSample('mo_example', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('mtext_example', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222511Z" creationid="Nachec" creationdate="20221021T222511Z">
+        <seg>{{ EmbedLiveSample('mtext_example', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
