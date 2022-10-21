@@ -17975,6 +17975,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: &lt;math&gt;
+slug: Web/MathML/Element/math
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184001Z" creationid="Nachec" creationdate="20221021T184001Z">
+        <seg>---
+title: &lt;math&gt;
+slug: Web/MathML/Element/math
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: &lt;view&gt;
 slug: Web/SVG/Element/view
 tags:</seg>
