@@ -5249,8 +5249,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : A framework for entry-level web literacy and 21st-century skills, which also provides access to teaching activities sorted by category.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180448Z" creationid="Nachec" creationdate="20221020T180415Z">
-        <seg>- : Un marco de desarrollo para la alfabetización web a nivel de entrada y las habilidades del siglo XXI, que también brinda acceso a actividades de enseñanza clasificadas por categoría.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051649Z" creationid="Nachec" creationdate="20221020T180415Z">
+        <seg>- : Un marco para la alfabetización web básica y las habilidades del siglo XXI, que también proporciona acceso a actividades de enseñanza ordenadas por categoría.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6179,8 +6179,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Free and open courses for learning tech skills, with mentorship and project-based learning.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T180109Z" creationid="Nachec" creationdate="20221020T180109Z">
-        <seg>- : Cursos gratuitos y abiertos para aprender habilidades tecnológicas, con tutorías y aprendizaje basado en proyectos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051525Z" creationid="Nachec" creationdate="20221020T180109Z">
+        <seg>- : Cursos gratuitos y abiertos para el aprendizaje de habilidades tecnológicas, con tutoría y aprendizaje basado en proyectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8406,8 +8406,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Beyond the basics</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000210Z" creationid="gitnacho" creationdate="20221012T231943Z">
-        <seg>- Mas allá de lo básico</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051957Z" creationid="gitnacho" creationdate="20221012T231943Z">
+        <seg>- **Mas allá de lo básico**</seg>
       </tuv>
     </tu>
     <tu>
@@ -8658,8 +8658,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Complete beginner</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000101Z" creationid="gitnacho" creationdate="20221012T231910Z">
-        <seg>- Absoluto principiante</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051942Z" creationid="gitnacho" creationdate="20221012T231910Z">
+        <seg>- **Absoluto principiante**</seg>
       </tuv>
     </tu>
     <tu>
@@ -9925,8 +9925,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Moving onto scripting</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000334Z" creationid="gitnacho" creationdate="20221012T232029Z">
-        <seg>- **Pasando a los scripts**</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T052011Z" creationid="gitnacho" creationdate="20221012T232029Z">
+        <seg>- **Pasar a los scripts**</seg>
       </tuv>
     </tu>
     <tu>
@@ -12263,8 +12263,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [JavaScript — Dynamic client-side scripting](/en-US/docs/Learn/JavaScript)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001125Z" creationid="gitnacho" creationdate="20221020T131105Z">
-        <seg>- [JavaScript: Scripts dinámicos del lado del cliente](/es/docs/Learn/JavaScript)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051811Z" creationid="gitnacho" creationdate="20221020T131105Z">
+        <seg>- [JavaScript: Scripts dinámicos de lado del cliente](/es/docs/Learn/JavaScript)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38449,8 +38449,8 @@ is the most efficient, optimized way to load wasm code.</seg>
       <tuv lang="en-US">
         <seg>This browser-side header will be answered by the complementary server-side header of {{HTTPHeader("Access-Control-Allow-Headers")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060902Z" creationid="gitnacho" creationdate="20221012T060902Z">
-        <seg>Este encabezado del lado del navegador será respondido por el encabezado de lado del servidor complementario de {{HTTPHeader("Access-Control-Allow-Headers")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051917Z" creationid="gitnacho" creationdate="20221012T060902Z">
+        <seg>Esta cabecera de lado del navegador será respondida por la cabecera de lado del servidor complementario de {{HTTPHeader("Access-Control-Allow-Headers")}}.</seg>
       </tuv>
     </tu>
     <tu>
