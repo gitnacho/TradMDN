@@ -1888,6 +1888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Usage for advanced layout</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095510Z" creationid="Nachec" creationdate="20221021T095510Z">
+        <seg>## Uso para diseño avanzado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Using Fetch</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T055042Z" creationid="gitnacho" creationdate="20221005T055042Z">
@@ -24578,6 +24586,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;title&gt;My matrix with columnspan&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095421Z" creationid="Nachec" creationdate="20221021T095421Z">
+        <seg>&lt;title&gt;Mi matriz con columnpan&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;title&gt;My page with math characters&lt;/title&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060513Z" creationid="Nachec" creationdate="20221021T060513Z">
@@ -24959,6 +24975,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220539Z" creationid="gitnacho" creationdate="20221011T220539Z">
         <seg>&gt; **Nota:** Firefox aún no ha implementado `Range` como un encabezado de solicitud en la lista segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** For historical reason, the MathML attribute for column spanning is called `columnspan` not `colspan`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095503Z" creationid="Nachec" creationdate="20221021T095503Z">
+        <seg>&gt; **Nota:** Por razones históricas, el atributo de MathML para la distribución de columnas se llama `columnspan` y no `colspan`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27950,6 +27974,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below the inner matrix spans two columns of the outer matrix:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095409Z" creationid="Nachec" creationdate="20221021T095409Z">
+        <seg>Debajo de la matriz interna se extienden dos columnas de la matriz externa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below we enable navigation preloading in the service worker's `activate` event handler, after first using {{domxref("ServiceWorkerRegistration.navigationPreload")}} to determine if the feature is supported (this returns either the `NavigationPreloadManager` for the service worker or `undefined` if the feature is not supported).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T210154Z">
@@ -27962,6 +27994,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T092956Z" creationid="gitnacho" creationdate="20221002T092956Z">
         <seg>A continuación encontrarás enlaces a nuestra documentación sobre tecnología web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides representing matrix-like objects, MathML tables are sometimes used for advanced layout inside mathematical formulas, for example in [Wikipedia's definition of Legendre symbol](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095533Z" creationid="Nachec" creationdate="20221021T095533Z">
+        <seg>Además de representar objetos similares a matrices, las tablas de MathML a veces se usan para el diseño avanzado dentro de fórmulas matemáticas, por ejemplo, en [la definición de Wikipedia del símbolo de Legendre](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30682,6 +30722,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T060806Z" creationid="gitnacho" creationdate="20221007T060806Z">
         <seg>Aquí, `add` es el nombre con el que se identificará la función en JavaScript, mientras que `$add` selecciona qué función de WebAssembly dentro del Módulo se está exportando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here, the different cases are written on three different rows while the values and conditions are placed on two different columns.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095625Z" creationid="Nachec" creationdate="20221021T095625Z">
+        <seg>Aquí, los diferentes casos se escriben en tres filas diferentes, mientras que los valores y condiciones se colocan en dos columnas diferentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37735,6 +37783,14 @@ of the service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064514Z" creationid="gitnacho" creationdate="20221007T064514Z">
         <seg>El `1` indica que la memoria importada debe tener al menos 1 página de memoria (WebAssembly define una página como 64KB).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `&lt;mtd&gt;` element accepts the `columnspan` and `rowspan` attributes to indicate that the cell spans multiples rows and columns.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095400Z" creationid="Nachec" creationdate="20221021T095400Z">
+        <seg>El elemento `&lt;mtd&gt;` acepta los atributos `columnspan` y `rowspan` para indicar que la celda abarca múltiples filas y columnas.</seg>
       </tuv>
     </tu>
     <tu>
