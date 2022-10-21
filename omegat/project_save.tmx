@@ -1256,6 +1256,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Hints and tips</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085603Z" creationid="Nachec" creationdate="20221021T085603Z">
+        <seg>## Consejos y trucos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## How do I use WebAssembly in my app?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080505Z" creationid="gitnacho" creationdate="20221003T080505Z">
@@ -8596,6 +8604,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Analyze the semantics of each portion of text (variable?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085733Z" creationid="Nachec" creationdate="20221021T085733Z">
+        <seg>- Analiza la semántica de cada porción de texto (¿variable?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Animation</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092416Z" creationid="gitnacho" creationdate="20221002T102233Z">
@@ -8904,6 +8920,14 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225830Z" creationid="gitnacho" creationdate="20221011T224941Z">
         <seg>- Cambiar el comportamiento de lado del servidor para evitar la preverificación y/o para evitar la redirección
 - Cambiar la solicitud para que sea una [solicitud simple](#solicitudes_simples) que no cause una verificación previa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Check the text used and find their [Unicode characters](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode) ("−", "ℂ", "∑", ...).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085723Z" creationid="Nachec" creationdate="20221021T085723Z">
+        <seg>- Verifica el texto utilizado y encuentra sus [caracteres Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode) ("−", "ℂ", "∑", ...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10871,6 +10895,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210306Z" creationid="gitnacho" creationdate="20221019T210306Z">
         <seg>- Algunos navegadores pueden lanzar un {{JSxRef("RangeError")}}, ya que prohíben la compilación y creación de instancias de Wasm con grandes búferes en el subproceso de la interfaz de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Start by inserting empty `&lt;math&gt;` tags, deciding whether they should have a `display="block"` attribute or not.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085624Z" creationid="Nachec" creationdate="20221021T085624Z">
+        <seg>- Comienza insertando etiquetas `&lt;math&gt;` vacías, decidiendo si deben tener un atributo `display="block"` o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28937,6 +28969,14 @@ usando la siguiente expresión:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, the determinant of a Vandermonde matrix can be calculated using</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085518Z" creationid="Nachec" creationdate="20221021T085518Z">
+        <seg>Finalmente, el determinante de una matriz de Vandermonde se puede calcular usando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally, we load and instantiate a wasm module (table2.wasm) using the
 [`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming), log the table length, and invoke the
 two referenced functions that are now stored in the table (the table2.wasm module (see
@@ -29202,6 +29242,14 @@ inequality can be written as follows:</seg>
         <seg>Para cualquier $u_1, \dots, u_n \in \mathbb{C}$ y
 $v_1, \dots, v_n \in \mathbb{C}$, el Cauchy–Bunyakovsky–Schwarz
 La desigualdad se puede escribir de la siguiente manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For any ???</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085434Z" creationid="Nachec" creationdate="20221021T085434Z">
+        <seg>Para cualquier ???</seg>
       </tuv>
     </tu>
     <tu>
@@ -49810,6 +49858,14 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>and ???, the Cauchy–Bunyakovsky–Schwarz inequality can be</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085453Z" creationid="Nachec" creationdate="20221021T085453Z">
+        <seg>y ???, la desigualdad de Cauchy-Bunyakovsky-Schwarz se puede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and its internal contents will comprise the contents of the `&lt;dt&gt;`, except for the final nested `&lt;ul&gt;`, which will not be included in the `&lt;dt&gt;`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183005Z" creationid="gitnacho" creationdate="20221008T183005Z">
@@ -54611,6 +54667,14 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>operator?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085738Z" creationid="Nachec" creationdate="20221021T085738Z">
+        <seg>¿operador?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>or</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170811T063112Z">
@@ -56059,6 +56123,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>the following expression: ???</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085553Z" creationid="Nachec" creationdate="20221021T085553Z">
+        <seg>la siguiente expresión: ???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>the memory's [`buffer`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/buffer) property will now return a `SharedArrayBuffer`, instead of the usual `ArrayBuffer`:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T080838Z" creationid="gitnacho" creationdate="20221007T080838Z">
@@ -56513,6 +56585,14 @@ tags:</seg>
         <seg>worker.postMessage(mod)
 );
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>written as follows: ???</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085505Z" creationid="Nachec" creationdate="20221021T085505Z">
+        <seg>escribir de la siguiente manera: ???</seg>
       </tuv>
     </tu>
     <tu>
