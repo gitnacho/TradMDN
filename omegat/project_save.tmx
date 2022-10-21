@@ -17420,6 +17420,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Authoring MathML
+slug: Web/MathML/Authoring
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T071822Z" creationid="Nachec" creationdate="20221021T071822Z">
+        <seg>---
+title: Autoría MathML
+slug: Web/MathML/Authoring
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Bounding volume collision detection with THREE.js
 slug: &gt;-</seg>
       </tuv>
