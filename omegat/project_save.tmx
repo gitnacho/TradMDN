@@ -1608,6 +1608,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Numeric data types</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234518Z" creationid="Nachec" creationdate="20221021T234518Z">
+        <seg>## Tipos de datos numéricos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Operator properties of \&lt;mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192257Z" creationid="Nachec" creationdate="20221021T192257Z">
@@ -2738,6 +2746,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Dimensions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234648Z" creationid="Nachec" creationdate="20221021T234648Z">
+        <seg>### Dimensiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Discussion reference</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181050Z" creationid="gitnacho" creationdate="20221008T181050Z">
@@ -3098,6 +3114,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Integers</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234546Z" creationid="Nachec" creationdate="20221021T234546Z">
+        <seg>### Enteros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Interactive example demo</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T210150Z" creationid="gitnacho" creationdate="20221005T210150Z">
@@ -3310,6 +3334,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074754Z" creationid="gitnacho" creationdate="20221007T074754Z">
         <seg>### Tipos `Number`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Numbers</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234618Z" creationid="Nachec" creationdate="20221021T234618Z">
+        <seg>### Números</seg>
       </tuv>
     </tu>
     <tu>
@@ -18246,6 +18278,20 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{cssxref("&amp;lt;integer&amp;gt;")}}
+- {{cssxref("&amp;lt;number&amp;gt;")}}
+- {{cssxref("&amp;lt;dimension&amp;gt;")}}
+- {{cssxref("&amp;lt;percentage&amp;gt;")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234537Z" creationid="Nachec" creationdate="20221021T234537Z">
+        <seg>- {{CSSxRef("&amp;lt;integer&amp;gt;")}}
+- {{CSSxRef("&amp;lt;number&amp;gt;")}}
+- {{CSSxRef("&amp;lt;dimension&amp;gt;")}}
+- {{CSSxRef("&amp;lt;percentage&amp;gt;")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{cssxref("&amp;lt;percentage&amp;gt;")}}
 - {{cssxref("&amp;lt;length&amp;gt;")}}
 - [CSS Values and Units](/en-US/docs/Web/CSS/CSS_Values_and_Units)</seg>
@@ -22020,6 +22066,14 @@ celda 4 | celda 5 | celda 6
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T083222Z" creationid="gitnacho" creationdate="20221005T083222Z">
         <seg>...y para `es`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>.box {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234430Z" creationid="Nachec" creationdate="20221021T234430Z">
+        <seg>.box {</seg>
       </tuv>
     </tu>
     <tu>
@@ -29649,6 +29703,30 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A {{cssxref("&amp;lt;dimension&amp;gt;")}} is a `&lt;number&gt;` with a unit attached to it, for example `45deg`, `100ms`, or `10px`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234708Z" creationid="Nachec" creationdate="20221021T234708Z">
+        <seg>Una {{CSSxRef("&amp;lt;dimension&amp;gt;")}} es un `&lt;number&gt;` con una unidad adjunta, por ejemplo `45deg`, `100ms` o `10px`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A {{cssxref("&amp;lt;number&amp;gt;")}} represents a real number, which may or may not have a decimal point with a fractional component, for example `0.255`, `128` or `-1.2`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234635Z" creationid="Nachec" creationdate="20221021T234635Z">
+        <seg>Un {{CSSxRef("&amp;lt;number&amp;gt;")}} representa un número real, que puede o no tener un punto decimal con un componente fraccionario, por ejemplo `0.255`, `128` o `-1.2`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A {{cssxref("url","url()")}} type uses functional notation, which accepts a `&lt;string&gt;` that is a URL.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234402Z" creationid="Nachec" creationdate="20221021T234402Z">
+        <seg>Un tipo {{CSSxRef("url","url()")}} usa notación funcional, que acepta una `&lt;string&gt;` que es una URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A {{domxref("DocumentTimeline")}} object.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221006T092819Z">
@@ -30284,6 +30362,22 @@ distribution does not provide dedicated packages for these fonts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T211239Z" creationid="gitnacho" creationdate="20220911T211239Z">
         <seg>Un índice es una especie de almacén de objetos para buscar registros en otro almacén de objetos, denominado almacén de objetos referido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An integer is one or more decimal digits, `0` through `9`, such as `1024` or `-55`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234601Z" creationid="Nachec" creationdate="20221021T234601Z">
+        <seg>Un número entero es uno o más dígitos decimales, del `0` al `9`, como `1024` o `-55`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An integer may be preceded by a `+` or `-` symbol, with no space between the symbol and the integer.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234613Z" creationid="Nachec" creationdate="20221021T234613Z">
+        <seg>Un número entero puede estar precedido por un símbolo `+` o `-`, sin espacio entre el símbolo y el número entero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33141,6 +33235,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if you wanted to include a background image, you might use either of the following.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234427Z" creationid="Nachec" creationdate="20221021T234427Z">
+        <seg>Por ejemplo, si quisieras incluir una imagen de fondo, podrías usar cualquiera de los siguientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if you were in the parent directory:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050848Z" creationid="Nachec" creationdate="20221020T173727Z">
@@ -34923,6 +35025,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T141614Z" creationid="gitnacho" creationdate="20221002T141614Z">
         <seg>Si esta es la primera vez que un *service worker* está disponible, se intenta la instalación y, luego de una instalación exitosa, se activa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If unquoted, it is parsed as a `&lt;url-token&gt;`, which has extra requirements including the escaping of certain characters.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234502Z" creationid="Nachec" creationdate="20221021T234502Z">
+        <seg>Si no está entrecomillado, se analiza como un `&lt;token-url&gt;`, que tiene requisitos adicionales, incluido el escape de ciertos caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39083,6 +39193,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Numbers may also be preceded by a `+` or `-` symbol.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234643Z" creationid="Nachec" creationdate="20221021T234643Z">
+        <seg>Los números también pueden estar precedidos por un símbolo `+` o `-`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OPTIONS is an HTTP/1.1 method that is used to determine further information from servers, and is a {{Glossary("Safe/HTTP", "safe")}} method, meaning that it can't be used to change the resource.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222836Z" creationid="gitnacho" creationdate="20221011T222836Z">
@@ -40310,6 +40428,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234038Z" creationid="Nachec" creationdate="20221021T234038Z">
         <seg>Consulta las páginas de referencia {{CSSxRef("&amp;lt;custom-ident&amp;gt;")}} y {{CSSxRef("&amp;lt;string&amp;gt;")}} para obtener más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See {{cssxref("url","url()")}} for more information.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234510Z" creationid="Nachec" creationdate="20221021T234510Z">
+        <seg>Consulta {{CSSxRef("url","url()")}} para obtener más información.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43839,6 +43965,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The parameter for `url()` can be either quoted or unquoted.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234445Z" creationid="Nachec" creationdate="20221021T234445Z">
+        <seg>El parámetro para `url()` puede estar entre comillas o sin comillas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The path to your service worker file is not written correctly — it needs to be written relative to the origin, not your app's root directory.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T025641Z" creationid="gitnacho" creationdate="20220921T025641Z">
@@ -46703,6 +46837,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072030Z" creationid="gitnacho" creationdate="20221005T072030Z">
         <seg>Es probable que esta documentación mantenida manualmente quede desactualizada con el código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This may be an absolute URL or a relative URL.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234413Z" creationid="Nachec" creationdate="20221021T234413Z">
+        <seg>Puede ser una URL absoluta o una URL relativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55583,6 +55725,28 @@ unreachable
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T174253Z" creationid="gitnacho" creationdate="20221012T174253Z">
         <seg>background-color: var(--first-color);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>background-image: url("https://www.exammple.com/images/my-background.png");
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234433Z" creationid="Nachec" creationdate="20221021T234433Z">
+        <seg>background-image: url("https://www.exammple.com/images/my-background.png");
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>background-image: url("images/my-background.png");
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234429Z" creationid="Nachec" creationdate="20221021T234429Z">
+        <seg>background-image: url("images/my-background.png");
+}</seg>
       </tuv>
     </tu>
     <tu>
