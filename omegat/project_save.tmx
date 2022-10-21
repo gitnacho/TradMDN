@@ -8689,10 +8689,34 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Try and use initial characters e.g. "𞸢".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205042Z" creationid="Nachec" creationdate="20221021T205042Z">
+        <seg>- : Prueba y usa los caracteres iniciales, p. ej. "𞸢".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Try and use italic characters e.g. "𝐴".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204629Z" creationid="Nachec" creationdate="20221021T204629Z">
         <seg>- : Prueba y usa caracteres en cursiva, p. ej. "𝐴".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use looped characters e.g. "𞺂".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205109Z" creationid="Nachec" creationdate="20221021T205109Z">
+        <seg>- : Prueba y usa caracteres en bucle, p. ej. "𞺂".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use monospace characters e.g. "𝙰".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205027Z" creationid="Nachec" creationdate="20221021T205027Z">
+        <seg>- : Prueba y usa caracteres monoespaciados, p. ej. "𝙰".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8725,6 +8749,22 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204824Z" creationid="Nachec" creationdate="20221021T204824Z">
         <seg>- : Prueba y usa caracteres de script, p. ej. "𝒜".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use stretched characters e.g. "𞹢".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205123Z" creationid="Nachec" creationdate="20221021T205123Z">
+        <seg>- : Prueba y usa caracteres estirados, p. ej. "𞹢".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use tailed characters e.g. "𞹂".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205052Z" creationid="Nachec" creationdate="20221021T205052Z">
+        <seg>- : Prueba y use caracteres con cola, p. ej. "𞹂".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9066,6 +9106,14 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T205721Z" creationid="gitnacho" creationdate="20221006T205721Z">
         <seg>- Advanced
   - Avanzado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- All [global attributes](/en-US/docs/Web/MathML/Global_attributes).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205137Z" creationid="Nachec" creationdate="20221021T205137Z">
+        <seg>- Todos los [atributos globales](/es/docs/Web/MathML/Global_attributes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10796,6 +10844,36 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T072032Z" creationid="Nachec" creationdate="20221021T072032Z">
         <seg>- MathML Project
   - Proyecto MathML
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- MathML Reference</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205326Z" creationid="Nachec" creationdate="20221021T205326Z">
+        <seg>- MathML Reference
+  - Referencia MathML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- MathML:Element</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205405Z" creationid="Nachec" creationdate="20221021T205345Z">
+        <seg>- MathML:Element</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- MathML:Token Elements
+browser-compat: mathml.elements.mi
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205515Z" creationid="Nachec" creationdate="20221021T205359Z">
+        <seg>- MathML:Token Elements
+browser-compat: mathml.elements.mi
 reviewer: Nachec
 ---</seg>
       </tuv>
@@ -15485,6 +15563,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `looped`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205052Z" creationid="Nachec" creationdate="20221021T205052Z">
+        <seg>- `looped`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `low`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T124630Z" creationid="gitnacho" creationdate="20221003T124630Z">
@@ -15587,6 +15673,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T102245Z" creationid="gitnacho" creationdate="20221006T102245Z">
         <seg>- `module`: un objeto [`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module) que representa el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `monospace`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205010Z" creationid="Nachec" creationdate="20221021T205010Z">
+        <seg>- `monospace`</seg>
       </tuv>
     </tu>
     <tu>
@@ -15865,6 +15959,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `stretched`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205110Z" creationid="Nachec" creationdate="20221021T205110Z">
+        <seg>- `stretched`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `strict-origin-when-cross-origin` (default): Send a full URL when performing a same-origin request, only send the origin when the protocol security level stays the same (HTTPS→HTTPS), and send no header to a less secure destination (HTTPS→HTTP).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130050Z" creationid="gitnacho" creationdate="20221003T130050Z">
@@ -15917,6 +16019,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140227Z" creationid="gitnacho" creationdate="20221019T140227Z">
         <seg>- `tag`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `tailed`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205042Z" creationid="Nachec" creationdate="20221021T205042Z">
+        <seg>- `tailed`</seg>
       </tuv>
     </tu>
     <tu>
@@ -17400,6 +17510,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{cssxref("text-transform")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205139Z" creationid="Nachec" creationdate="20221021T205139Z">
+        <seg>- {{cssxref("text-transform")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{cssxref("unicode-bidi")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200457Z" creationid="gitnacho" creationdate="20221005T200457Z">
@@ -18549,6 +18667,20 @@ tags:</seg>
         <seg>---
 title: &lt;math&gt;
 slug: Web/MathML/Element/math
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: &lt;mi&gt;
+slug: Web/MathML/Element/mi
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205307Z" creationid="Nachec" creationdate="20221021T205307Z">
+        <seg>---
+title: &lt;mi&gt;
+slug: Web/MathML/Element/mi
 tags:</seg>
       </tuv>
     </tu>
