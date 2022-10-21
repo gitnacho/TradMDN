@@ -23660,6 +23660,16 @@ i32.mul</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&gt;
+&gt; We have put together a course that includes all the essential information you need to work towards your goal.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063634Z" creationid="Nachec" creationdate="20221021T063634Z">
+        <seg>&gt;
+&gt; Hemos preparado un curso que incluye toda la información esencial que necesitas para trabajar hacia tu objetivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;
 &gt; Web teams often include both a graphic designer and a {{Glossary("UX", "user experience")}} (UX) designer.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061851Z" creationid="gitnacho" creationdate="20221019T061851Z">
@@ -24583,6 +24593,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T192353Z" creationid="gitnacho" creationdate="20221004T044809Z">
         <seg>&gt; **Advertencia:** Experimental [`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module) El soporte de serialización de IndexedDB se está eliminando de los navegadores; consulta {{bug("1469395")}} y [este problema de la especificación](https://github.com/WebAssembly/spec/issues/821).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Warning:** In practice, MathML content is generated from [lightweight markup languages](https://en.wikipedia.org/wiki/Lightweight_markup_language) (e.g. [LaTeX](https://en.wikipedia.org/wiki/LaTeX)) or using [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface): if you just need to integrate mathematical formulas in your web pages, the tips from the [Authoring MathML](/en-US/docs/Web/MathML/Authoring) page should be enough.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063610Z" creationid="Nachec" creationdate="20221021T063610Z">
+        <seg>&gt; **Advertencia:** En la práctica, el contenido de MathML se genera a partir de [lenguaje de marcado ligero](https://en.wikipedia.org/wiki/Lightweight_markup_language) (por ejemplo, [LaTeX](https://es.wikipedia.org/wiki/LaTeX)) o usando la [interfaz gráfica de usuario](https://es.wikipedia.org/wiki/Graphical_user_interface): si solo necesitas integrar fórmulas matemáticas en tus páginas web, los consejos del [Autor MathML](/es/docs/Web/MathML/Authoring) deberían ser suficientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25868,6 +25886,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although it was originally designed as an independent XML language, MathML is generally embedded inside {{Glossary('HTML')}} documents and can be seen as an extension of HTML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063354Z" creationid="Nachec" creationdate="20221021T063354Z">
+        <seg>Aunque originalmente fue diseñado como un lenguaje XML independiente, MathML generalmente está incrustado dentro de documentos {{Glossary('HTML')}} y se puede ver como una extensión de HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although line 10 contains the Cookie destined for the content on `https://bar.other`, if bar.other did not respond with an {{HTTPHeader("Access-Control-Allow-Credentials")}}`: true` (line 16), the response would be ignored and not made available to the web content.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230647Z" creationid="gitnacho" creationdate="20221011T230647Z">
@@ -26551,6 +26577,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181506Z" creationid="gitnacho" creationdate="20221008T181506Z">
         <seg>Debido a que el texto "Nota:" o "Advertencia:" también aparece en la salida renderizada, debe ser sensible a las traducciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before attempting to learn MathML, it is assumed that you have some basic knowledge of [HTML](/en-US/docs/Learn/HTML) and [CSS](/en-US/docs/Learn/CSS).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063651Z" creationid="Nachec" creationdate="20221021T063651Z">
+        <seg>Antes de intentar aprender MathML, se supone que tienes algunos conocimientos básicos de [HTML](/es/docs/Learn/HTML) y [CSS](/es/docs/Learn/CSS).</seg>
       </tuv>
     </tu>
     <tu>
