@@ -18953,6 +18953,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: MathML Text Containers
+slug: Learn/MathML/First_steps/Text_containers
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184542Z" creationid="Nachec" creationdate="20221021T184542Z">
+        <seg>---
+title: Contenedores de texto MathML
+slug: Learn/MathML/First_steps/Text_containers
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: MathML first steps overview
 slug: Learn/MathML/First_steps
 tags:</seg>
@@ -26676,6 +26690,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;) and some CSS notions on text styling (read &lt;a href="/en-US/docs/Learn/CSS/Styling_text/Fundamentals"&gt;fundamental text and font styling&lt;/a&gt; and</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184905Z" creationid="Nachec" creationdate="20221021T184905Z">
+        <seg>&gt;) y algunas nociones de CSS sobre estilizar texto (lee &lt;a href="/es/docs/Learn/CSS/Styling_text/Fundamentals"&gt;fundamentos para estilizar texto y fuente&lt;/a&gt; —*tipo de letra*— y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085058Z" creationid="Nachec" creationdate="20221021T085058Z">
@@ -26688,6 +26710,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T121240Z" creationid="gitnacho" creationdate="20221003T121240Z">
         <seg>&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;, HTML basics (study</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184704Z" creationid="Nachec" creationdate="20221021T184704Z">
+        <seg>&gt;, conceptos básicos de HTML (estudia</seg>
       </tuv>
     </tu>
     <tu>
@@ -36016,6 +36046,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064001Z" creationid="gitnacho" creationdate="20221004T064001Z">
         <seg>Ahora que tenemos todo configurado, construyamos el paquete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that you get a better idea of MathML, we move focus on text containers (variables, numbers, operators, ...) which are used as building blocks of MathML formulas.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184642Z" creationid="Nachec" creationdate="20221021T184642Z">
+        <seg>Ahora que tienes una mejor idea de MathML, nos centraremos en los contenedores de texto (variables, números, operadores, ...) que se utilizan como componentes básicos de las fórmulas de MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59117,6 +59155,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Getting_started", "Learn/MathML/First_steps/Fractions_and_roots", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184601Z" creationid="Nachec" creationdate="20221021T184601Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Getting_started", "Learn/MathML/First_steps/Fractions_and_roots", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Scripts", "Learn/MathML/First_steps/Three_famous_mathematical_formulas", "Learn/MathML/First_steps")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090432Z" creationid="Nachec" creationdate="20221021T090432Z">
@@ -60300,6 +60346,21 @@ reviewer: Nachec
 ---</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094940Z" creationid="Nachec" creationdate="20221021T094940Z">
+        <seg>- Landing
+  - Destino
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/mathml/first_steps/text_containers/index.md</prop>
+      <prop type="prev">- MathML</prop>
+      <prop type="next">{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Getting_started", "Learn/MathML/First_steps/Fractions_and_roots", "Learn/MathML/First_steps")}}</prop>
+      <tuv lang="en-US">
+        <seg>- Landing
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184600Z" creationid="Nachec" creationdate="20221021T184600Z">
         <seg>- Landing
   - Destino
 reviewer: Nachec
