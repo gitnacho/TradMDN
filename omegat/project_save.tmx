@@ -2162,6 +2162,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Active learning: Recognize scripted elements</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103653Z" creationid="Nachec" creationdate="20221021T103653Z">
+        <seg>### Aprendizaje activo: Reconocer elementos con scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Active learning: Recognize under/over scripts</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102344Z" creationid="Nachec" creationdate="20221021T102344Z">
@@ -4434,6 +4442,22 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061338Z" creationid="Nachec" creationdate="20221021T061338Z">
         <seg>(checkbox) =&gt; !!checkbox.checked === !!checkbox.dataset.highlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(child1, child2 and child3):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102524Z" creationid="Nachec" creationdate="20221021T102524Z">
+        <seg>(child1, child2 and child3):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(child1, child2):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102508Z" creationid="Nachec" creationdate="20221021T102508Z">
+        <seg>(child1, child2):</seg>
       </tuv>
     </tu>
     <tu>
@@ -22424,6 +22448,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/mover&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102511Z" creationid="Nachec" creationdate="20221021T102511Z">
+        <seg>&lt;/mover&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/mroot&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060537Z" creationid="Nachec" creationdate="20221021T060537Z">
@@ -22530,6 +22562,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090550Z" creationid="Nachec" creationdate="20221021T090550Z">
         <seg>&lt;/mtr&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/munder&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102535Z" creationid="Nachec" creationdate="20221021T102535Z">
+        <seg>&lt;/munder&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/munderover&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102529Z" creationid="Nachec" creationdate="20221021T102529Z">
+        <seg>&lt;/munderover&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23028,6 +23076,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183516Z" creationid="gitnacho" creationdate="20221008T183516Z">
         <seg>&lt;code class="brush: js"&gt;const cosa = 1;&lt;/code&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;&amp;lt;&lt;span&gt;????????&lt;/span&gt;&amp;gt;&lt;/code&gt; element with exactly three children</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102523Z" creationid="Nachec" creationdate="20221021T102523Z">
+        <seg>Elemento &lt;code&gt;&amp;lt;&lt;span&gt;????????&lt;/span&gt;&amp;gt;&lt;/code&gt; con exactamente tres hijos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;&amp;lt;&lt;span&gt;????????&lt;/span&gt;&amp;gt;&lt;/code&gt; element with exactly two children</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102507Z" creationid="Nachec" creationdate="20221021T102507Z">
+        <seg>Elemento &lt;code&gt;&amp;lt;&lt;span&gt;????????&lt;/span&gt;&amp;gt;&lt;/code&gt; con exactamente dos hijos</seg>
       </tuv>
     </tu>
     <tu>
@@ -23752,6 +23816,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mover&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102510Z" creationid="Nachec" creationdate="20221021T102510Z">
+        <seg>&lt;mover&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mroot id="mroot1"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060535Z" creationid="Nachec" creationdate="20221021T060535Z">
@@ -23952,6 +24024,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;munder&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102534Z" creationid="Nachec" creationdate="20221021T102534Z">
+        <seg>&lt;munder&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;munderover&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102525Z" creationid="Nachec" creationdate="20221021T102525Z">
+        <seg>&lt;munderover&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;nav role="navigation"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201118T111045Z" creationid="nacho" creationdate="20201118T111045Z">
@@ -24006,6 +24094,15 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183443Z" creationid="gitnacho" creationdate="20221008T183443Z">
         <seg>&lt;p&gt;&lt;code&gt;term2&lt;/code&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;input type="button" id="showSolution" value="Show solution" /&gt;&lt;/p&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102553Z" creationid="Nachec" creationdate="20221021T102553Z">
+        <seg>&lt;p&gt;&lt;input type="button" id="showSolution" value="Mostrar solución" /&gt;&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27699,6 +27796,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080208Z" creationid="gitnacho" creationdate="20221003T080208Z">
         <seg>Se puede llamar arbitrariamente a funciones JavaScript sincrónicamente también desde el código WebAssembly, pasando dichas funciones de JavaScript como `imports` a la instancia de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Array.from(document.getElementsByTagName("span")).forEach((span, index) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102558Z" creationid="Nachec" creationdate="20221021T102558Z">
+        <seg>Array.from(document.getElementsByTagName("span")).forEach((span, index) =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
@@ -32485,6 +32590,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233908Z" creationid="gitnacho" creationdate="20221006T233908Z">
         <seg>En el siguiente ejemplo, definimos un global como un tipo `i32` mutable, con un valor de 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the following example, try to guess the names of the mystery elements (written as question marks) and click the button to reveal the solution:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102359Z" creationid="Nachec" creationdate="20221021T102359Z">
+        <seg>En el siguiente ejemplo, intenta adivinar los nombres de los elementos misteriosos (escritos como signos de interrogación) y haz clic en el botón para revelar la solución:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47110,6 +47223,16 @@ math {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```css hidden
+p {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102554Z" creationid="Nachec" creationdate="20221021T102554Z">
+        <seg>```css hidden
+p {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>```html</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112244Z" creationid="gitnacho" creationdate="20221003T112244Z">
@@ -47405,6 +47528,16 @@ math {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061456Z" creationid="Nachec" creationdate="20221021T061456Z">
         <seg>```html hidden
 &lt;link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html hidden
+&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102405Z" creationid="Nachec" creationdate="20221021T102405Z">
+        <seg>```html hidden
+&lt;p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49240,6 +49373,16 @@ const comment = document.getElementById("comment");
 const checkboxes = Array.from(options.getElementsByTagName("input"));
 const status = document.getElementById("status");
 function verifyOption(checkbox) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js hidden
+document.getElementById("showSolution").addEventListener("click", () =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102556Z" creationid="Nachec" creationdate="20221021T102556Z">
+        <seg>```js hidden
+document.getElementById("showSolution").addEventListener("click", () =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
@@ -52625,6 +52768,14 @@ api.destroy_buffer(p);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T042135Z" creationid="gitnacho" creationdate="20220921T042135Z">
         <seg>const keyList = await caches.keys();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>const maths = Array.from(document.getElementsByTagName("math"));</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102557Z" creationid="Nachec" creationdate="20221021T102557Z">
+        <seg>const maths = Array.from(document.getElementsByTagName("math"));</seg>
       </tuv>
     </tu>
     <tu>
@@ -56703,6 +56854,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>span.textContent = maths[index].firstElementChild.tagName;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102559Z" creationid="Nachec" creationdate="20221021T102559Z">
+        <seg>span.textContent = maths[index].firstElementChild.tagName;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>specification.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210203T191919Z" creationid="nacho" creationdate="20210203T191919Z">
@@ -57571,6 +57730,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102046Z" creationid="Nachec" creationdate="20221021T102046Z">
         <seg>{{ EmbedLiveSample('Subtrees_of_msub_msup_msubsup', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Subtrees_of_munder_mover_munderover', 700, 400, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102600Z" creationid="Nachec" creationdate="20221021T102600Z">
+        <seg>{{ EmbedLiveSample('Subtrees_of_munder_mover_munderover', 700, 400, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
