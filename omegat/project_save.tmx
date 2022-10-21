@@ -1880,6 +1880,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Underscripts and overscripts</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102248Z" creationid="Nachec" creationdate="20221021T102237Z">
+        <seg>## Subíndices y sobreíndices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Updating your service worker</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T104125Z" creationid="gitnacho" creationdate="20220921T034813Z">
@@ -2150,6 +2158,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060632Z" creationid="gitnacho" creationdate="20221012T060632Z">
         <seg>### Método de solicitud de control de acceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Active learning: Recognize under/over scripts</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102344Z" creationid="Nachec" creationdate="20221021T102344Z">
+        <seg>### Aprendizaje activo: Reconocer scripts por debajo o por encima</seg>
       </tuv>
     </tu>
     <tu>
@@ -11317,6 +11333,30 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- The second and third children of the `&lt;msubsup&gt;` element are respectively attached as a subscript and superscript of its first child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102127Z" creationid="Nachec" creationdate="20221021T102127Z">
+        <seg>- El segundo y tercer hijo del elemento `&lt;msubsup&gt;` se adjuntan respectivamente como subíndice y superíndice de su primer hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The second child of the `&lt;msub&gt;` element is attached as a subscript of its first child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102105Z" creationid="Nachec" creationdate="20221021T102105Z">
+        <seg>- El segundo hijo del elemento `&lt;msub&gt;` se adjunta como un subíndice de su primer hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The second child of the `&lt;msup&gt;` element is attached as a superscript of its first child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102117Z" creationid="Nachec" creationdate="20221021T102117Z">
+        <seg>- El segundo hijo del elemento `&lt;msup&gt;` se adjunta como un superíndice de su primer hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- The secondary overload takes an already-compiled [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193226Z" creationid="gitnacho" creationdate="20221007T193226Z">
@@ -11353,6 +11393,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T031355Z" creationid="gitnacho" creationdate="20220921T031355Z">
         <seg>- El *service worker* solo capturará las solicitudes de los clientes bajo el alcance del *service worker*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The text inside scripts is scaled down.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102134Z" creationid="Nachec" creationdate="20221021T102134Z">
+        <seg>- El texto dentro de los scripts está reducido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22308,6 +22356,40 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/math&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102016Z" creationid="Nachec" creationdate="20221021T102016Z">
+        <seg>&lt;/math&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/math&gt;
+&lt;/p&gt;
+&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102019Z" creationid="Nachec" creationdate="20221021T102019Z">
+        <seg>&lt;/math&gt;
+&lt;/p&gt;
+&lt;p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/math&gt;
+&lt;/p&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102022Z" creationid="Nachec" creationdate="20221021T102022Z">
+        <seg>&lt;/math&gt;
+&lt;/p&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/mfrac&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060538Z" creationid="Nachec" creationdate="20221021T060538Z">
@@ -22408,6 +22490,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090549Z" creationid="Nachec" creationdate="20221021T090549Z">
         <seg>&lt;/msub&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/msubsup&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102021Z" creationid="Nachec" creationdate="20221021T102021Z">
+        <seg>&lt;/msubsup&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/msup&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102018Z" creationid="Nachec" creationdate="20221021T102018Z">
+        <seg>&lt;/msup&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23718,6 +23816,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;msubsup&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102020Z" creationid="Nachec" creationdate="20221021T102020Z">
+        <seg>&lt;msubsup&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;msup&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102017Z" creationid="Nachec" creationdate="20221021T102017Z">
+        <seg>&lt;msup&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mtable&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090544Z" creationid="Nachec" creationdate="20221021T090544Z">
@@ -23802,6 +23916,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060049Z" creationid="Nachec" creationdate="20221021T060049Z">
         <seg>&lt;mtext&gt;child2&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;child3&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102021Z" creationid="Nachec" creationdate="20221021T102021Z">
+        <seg>&lt;mtext&gt;child3&lt;/mtext&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25239,6 +25361,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182533Z" creationid="gitnacho" creationdate="20221007T182533Z">
         <seg>&gt; **Nota:** Los archivos en formato de texto generalmente se guardan con una extensión `.wat`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** The MathML elements `&lt;msub&gt;` and `&lt;msup&gt;` are different from the HTML elements [`&lt;sub&gt;`](/en-US/docs/Web/HTML/Element/sub) and [`&lt;sup&gt;`](/en-US/docs/Web/HTML/Element/sup).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102155Z" creationid="Nachec" creationdate="20221021T102155Z">
+        <seg>&gt; **Nota:** Los elementos MathML `&lt;msub&gt;` y `&lt;msup&gt;` son diferentes de los elementos HTML [`&lt;sub&gt;`](/es/docs/Web/HTML/Element/sub) y [`&lt;sup&gt;`](/es/docs/Web/HTML/Element/sup).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28000,6 +28130,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060123Z" creationid="Nachec" creationdate="20221021T060123Z">
         <seg>A continuación se muestra una instantánea de cómo lo renderiza un navegador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Below is the rendering of the above example in your browser.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102046Z" creationid="Nachec" creationdate="20221021T102046Z">
+        <seg>A continuación se muestra el renderizado del ejemplo anterior en tu navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32737,6 +32875,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080617Z" creationid="Nachec" creationdate="20221021T080617Z">
         <seg>En lugar de generar una expresión MathML al cargar la página, puedes confiar en las herramientas de línea de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of giving details, we will let you figure out their definitions yourself with the following exercise.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102316Z" creationid="Nachec" creationdate="20221021T102316Z">
+        <seg>En lugar de dar detalles, te dejaremos descubrir sus definiciones por ti mismo con el siguiente ejercicio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37841,6 +37987,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `&lt;munder&gt;`, `&lt;mover&gt;` and `&lt;munderover&gt;` elements are very similar except that they are used to attach underscripts and overscripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102304Z" creationid="Nachec" creationdate="20221021T102304Z">
+        <seg>Los elementos `&lt;munder&gt;`, `&lt;mover&gt;` y `&lt;munderover&gt;` son muy similares, excepto que se utilizan para adjuntar guiones inferiores y superiores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `&lt;script&gt;` element can also be used with other languages, such as [WebGL](/en-US/docs/Web/API/WebGL_API)'s GLSL shader programming language and [JSON](/en-US/docs/Glossary/JSON).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T120801Z" creationid="gitnacho" creationdate="20221003T120801Z">
@@ -40848,6 +41002,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211004T091112Z" creationid="gitnacho" creationdate="20211004T091112Z">
         <seg>Ellos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They allow authors to provide arbitrary MathML subtrees as scripts, not just text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102208Z" creationid="Nachec" creationdate="20221021T102208Z">
+        <seg>Permiten a los autores proporcionar subárboles MathML arbitrarios como scripts, no solo como texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45726,6 +45888,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should notice that:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102052Z" creationid="Nachec" creationdate="20221021T102052Z">
+        <seg>Debes notar que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should still have your paragraphs and title from earlier.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062244Z" creationid="gitnacho" creationdate="20221019T062244Z">
@@ -47066,6 +47236,16 @@ math {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060047Z" creationid="Nachec" creationdate="20221021T060047Z">
         <seg>```html
 &lt;math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102014Z" creationid="Nachec" creationdate="20221021T102014Z">
+        <seg>```html
+&lt;p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54967,6 +55147,30 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>msub:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102015Z" creationid="Nachec" creationdate="20221021T102015Z">
+        <seg>msub:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>msubsup:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102019Z" creationid="Nachec" creationdate="20221021T102019Z">
+        <seg>msubsup:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>msup:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102017Z" creationid="Nachec" creationdate="20221021T102017Z">
+        <seg>msup:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mutable or not.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110704Z" creationid="gitnacho" creationdate="20221007T110704Z">
@@ -57359,6 +57563,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061503Z" creationid="Nachec" creationdate="20221021T061503Z">
         <seg>{{ EmbedLiveSample('Stretchy_radical_symbols', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Subtrees_of_msub_msup_msubsup', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102046Z" creationid="Nachec" creationdate="20221021T102046Z">
+        <seg>{{ EmbedLiveSample('Subtrees_of_msub_msup_msubsup', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
