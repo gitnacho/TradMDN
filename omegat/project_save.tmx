@@ -37433,6 +37433,16 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since most of these characters are not part of Basic Latin Unicode block, it is recommended to specify your [document's character encoding](/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#specifying_your_documents_character_encoding) and to serve it with appropriate [web fonts](/en-US/docs/Learn/CSS/Styling_text/Web_fonts).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190157Z" creationid="Nachec" creationdate="20221021T190157Z">
+        <seg>Dado que la mayoría de estos caracteres no forman parte del bloque *Basic Latin Unicode*, se recomienda especificar su [codificación de caracteres del documento](/es/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#specifying_your_documents_character_encoding) y servirlo con [ fuentes web](/en-US/docs/Learn/CSS/Styling_text/Web_fonts).
+
+Aquí hay una plantilla básica para usar la codificación UTF-8 y la fuente [Latin Modern Math](/en-US/docs/Web/MathML/Fonts#fonts_with_a_math_table):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since the character sequence "`\{{`" is used to indicate the start of a macro, this can be troublesome if you actually just want to use "`\{{`" and "`\}\}`" in a page.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T084942Z" creationid="gitnacho" creationdate="20221005T065631Z">
@@ -46170,6 +46180,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210105T215438Z" creationid="nacho" creationdate="20210105T215438Z">
         <seg>¿Por qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikipedia's article [Mathematical operators and symbols in Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode) provides a good overview of the characters used.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T185220Z" creationid="Nachec" creationdate="20221021T185220Z">
+        <seg>El artículo de Wikipedia [Operadores matemáticos y símbolos en Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode) brinda una buena descripción general de los caracteres utilizados.</seg>
       </tuv>
     </tu>
     <tu>
