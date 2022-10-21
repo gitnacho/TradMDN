@@ -680,6 +680,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"one half" plus "two third":</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182159Z" creationid="Nachec" creationdate="20221021T182159Z">
+        <seg>"una mitad" más "dos tercios":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"one plus two plus three" over "four plus five":</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182221Z" creationid="Nachec" creationdate="20221021T182221Z">
+        <seg>"uno más dos más tres" sobre "cuatro más cinco":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"one quarter" over "two plus three":</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182230Z" creationid="Nachec" creationdate="20221021T182230Z">
+        <seg>"un cuarto" sobre "dos más tres":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"scripts": {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065654Z" creationid="gitnacho" creationdate="20221004T065654Z">
@@ -1594,8 +1618,8 @@
       <tuv lang="en-US">
         <seg>## See also</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110227Z" creationid="gitnacho" creationdate="20220921T042627Z">
-        <seg>scritos como signos de interrogació## Véase también</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182322Z" creationid="gitnacho" creationdate="20220921T042627Z">
+        <seg>## Véase también</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2230,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102344Z" creationid="Nachec" creationdate="20221021T102344Z">
         <seg>### Aprendizaje activo: Reconocer scripts por debajo o por encima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Active learning: nested expressions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182116Z" creationid="Nachec" creationdate="20221021T182027Z">
+        <seg>### Aprendizaje activo: Expresiones anidadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22220,6 +22252,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;!-- It's correct but unnecessary to group the children of the math element with an mrow element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182211Z" creationid="Nachec" creationdate="20221021T182211Z">
+        <seg>&lt;!-- Es correcto pero innecesario agrupar los elementos secundarios del elemento matemático con un elemento mrow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;!-- MoreActions --&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T093842Z" creationid="gitnacho" creationdate="20221012T093842Z">
@@ -22452,6 +22492,18 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T055352Z" creationid="gitnacho" creationdate="20220828T055352Z">
         <seg>&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/li&gt;
+&lt;/ol&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182231Z" creationid="Nachec" creationdate="20221021T182231Z">
+        <seg>&lt;/li&gt;
+&lt;/ol&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -28173,6 +28225,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As an exercise, figure out how to write the following expressions using only the MathML elements we've seen so far.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182128Z" creationid="Nachec" creationdate="20221021T182128Z">
+        <seg>Como ejercicio, descubre cómo escribir las siguientes expresiones usando solo los elementos de MathML que hemos visto hasta ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As before, fetch, compile, and instantiate your wasm module — add the following into a {{htmlelement("script")}} element at the bottom of your HTML body:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233430Z" creationid="gitnacho" creationdate="20221006T233430Z">
@@ -30620,6 +30680,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For instance, the numerator of the following fraction (its first child) is "one plus two".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182023Z" creationid="Nachec" creationdate="20221021T182023Z">
+        <seg>Por ejemplo, el numerador de la siguiente fracción (su primer hijo) es "uno más dos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For instance, the simple formula "1 + 2 + 3" would be encoded like this in MathML:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181938Z" creationid="Nachec" creationdate="20221021T181938Z">
@@ -32178,6 +32246,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223913Z" creationid="gitnacho" creationdate="20221018T223913Z">
         <seg>Si aún estás atascado, no dudes en publicar una pregunta en nuestro [Foro de discusión](https://discourse.mozilla.org/c/mdn/learn/250).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are stuck or want to verify the solution, check the source code of the example.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182149Z" creationid="Nachec" creationdate="20221021T182149Z">
+        <seg>Si estás atascado o deseas verificar la solución, consulta el código fuente del ejemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48204,6 +48280,16 @@ p {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```html hidden
+&lt;ol&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182151Z" creationid="Nachec" creationdate="20221021T182151Z">
+        <seg>```html hidden
+&lt;ol&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html hidden
 &lt;p&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102405Z" creationid="Nachec" creationdate="20221021T102405Z">
@@ -58477,6 +58563,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092539Z" creationid="gitnacho" creationdate="20221006T092539Z">
         <seg>{{ APIRef("Web Animations") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Active_learning_nested_expressions', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182242Z" creationid="Nachec" creationdate="20221021T182242Z">
+        <seg>{{ EmbedLiveSample('Active_learning_nested_expressions', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
