@@ -11022,6 +11022,20 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- MathML:Token Elements
+browser-compat: mathml.elements.mo
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220909Z" creationid="Nachec" creationdate="20221021T220909Z">
+        <seg>- MathML:Token Elements
+  - MathML:Elementos Toquen
+browser-compat: mathml.elements.mo
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Mathematical Markup Language</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065000Z" creationid="Nachec" creationdate="20221021T065000Z">
@@ -25611,6 +25625,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;)&lt;/mo&gt; &lt;!-- default form value: postfix --&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220725Z" creationid="Nachec" creationdate="20221021T220725Z">
+        <seg>&lt;mo&gt;)&lt;/mo&gt; &lt;!-- valor predeterminado del formulario: postfix --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;+&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060538Z" creationid="Nachec" creationdate="20221021T060538Z">
@@ -25643,10 +25665,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;;&lt;/mo&gt; &lt;!-- default form value: infix --&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220718Z" creationid="Nachec" creationdate="20221021T220718Z">
+        <seg>&lt;mo&gt;;&lt;/mo&gt; &lt;!-- valor predeterminado del formulario: infix --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;=&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061634Z" creationid="Nachec" creationdate="20221021T061634Z">
         <seg>&lt;mo&gt;=&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;[&lt;/mo&gt; &lt;!-- default form value: prefix --&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220706Z" creationid="Nachec" creationdate="20221021T220706Z">
+        <seg>&lt;mo&gt;[&lt;/mo&gt; &lt;!-- valor predeterminado del formulario: prefijo --&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40453,6 +40491,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220211Z" creationid="Nachec" creationdate="20221021T215939Z">
         <seg>El elemento **`&lt;mn&gt;`** [MathML](/es/docs/Web/MathML) representa un literal numérico —`numeric`— que normalmente es una secuencia de dígitos con un posible separador (un punto o una coma).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`&lt;mo&gt;`** [MathML](/en-US/docs/Web/MathML) element represents an **operator** in a broad sense.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220922Z" creationid="Nachec" creationdate="20221021T220922Z">
+        <seg>El elemento **`&lt;mo&gt;`** [MathML](/es/docs/Web/MathML) representa un **operador** en un sentido amplio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61797,6 +61843,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212924Z" creationid="Nachec" creationdate="20221021T212924Z">
         <seg>{{ EmbedLiveSample('mi_example', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('mo_example', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220731Z" creationid="Nachec" creationdate="20221021T220731Z">
+        <seg>{{ EmbedLiveSample('mo_example', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
