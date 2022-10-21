@@ -1320,6 +1320,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Inserting formulas in HTML via the \&lt;math&gt; element</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181114Z" creationid="Nachec" creationdate="20221021T181114Z">
+        <seg>## Insertar fórmulas en HTML a través del elemento \&lt;math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Instance methods</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051007Z" creationid="gitnacho" creationdate="20221005T051007Z">
@@ -25028,6 +25036,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;title&gt;My first math page&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181259Z" creationid="Nachec" creationdate="20221021T181259Z">
+        <seg>&lt;title&gt;Mi primera página de matemáticas&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;title&gt;My first matrix&lt;/title&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095647Z" creationid="Nachec" creationdate="20221021T095647Z">
@@ -30952,6 +30968,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTML pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181100Z" creationid="Nachec" creationdate="20221021T181100Z">
+        <seg>páginas HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTTP follows a classical [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), with a client opening a connection to make a request, then waiting until it receives a response.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T070625Z" creationid="gitnacho" creationdate="20221012T062253Z">
@@ -32755,6 +32779,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In particular, each mathematical formula is represented by an element `&lt;math&gt;` which can be placed inside an HTML page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181244Z" creationid="Nachec" creationdate="20221021T181244Z">
+        <seg>En particular, cada fórmula matemática está representada por un elemento `&lt;math&gt;` que se puede colocar dentro de una página HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In particular:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191326Z" creationid="gitnacho" creationdate="20221008T191326Z">
@@ -32863,6 +32895,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T210952Z" creationid="gitnacho" creationdate="20220911T210952Z">
         <seg>En el siguiente fragmento de código, hacemos una solicitud para abrir una base de datos e incluimos controladores para los casos de éxito y error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the following document, it is inside a paragraph of text:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181251Z" creationid="Nachec" creationdate="20221021T181251Z">
+        <seg>En el siguiente documento, está dentro de un párrafo de texto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34894,6 +34934,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083715Z" creationid="Nachec" creationdate="20221021T083715Z">
         <seg>MathML es el lenguaje de marcado utilizado para escribir fórmulas matemáticas en páginas web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MathML uses the same syntax as HTML to represent a tree of elements and attributes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181230Z" creationid="Nachec" creationdate="20221021T181230Z">
+        <seg>MathML usa la misma sintaxis que HTML para representar un árbol de elementos y atributos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38445,6 +38493,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `&lt;mfrac&gt;` element specifies a fraction with a numerator (its first child) and a denominator (its second child).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181351Z" creationid="Nachec" creationdate="20221021T181351Z">
+        <seg>El elemento `&lt;mfrac&gt;` especifica una fracción con un numerador (su primer hijo) y un denominador (su segundo hijo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `&lt;mtd&gt;` element accepts the `columnspan` and `rowspan` attributes to indicate that the cell spans multiples rows and columns.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095400Z" creationid="Nachec" creationdate="20221021T095400Z">
@@ -39742,6 +39798,14 @@ detalles en la consola:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080833Z" creationid="Nachec" creationdate="20221021T080833Z">
         <seg>Las fórmulas delimitadas por dólares se han convertido a MathML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The fraction</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181304Z" creationid="Nachec" creationdate="20221021T181304Z">
+        <seg>La fracción</seg>
       </tuv>
     </tu>
     <tu>
@@ -44011,6 +44075,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T092907Z" creationid="gitnacho" creationdate="20221002T092907Z">
         <seg>Para aprovechar al máximo estas tecnologías, debes saber cómo utilizarlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To understand the basic syntax of MathML and how to integrate it in</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181050Z" creationid="Nachec" creationdate="20221021T181050Z">
+        <seg>Comprender la sintaxis básica de MathML y ​​cómo integrarlo en</seg>
       </tuv>
     </tu>
     <tu>
@@ -55333,6 +55405,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230426Z" creationid="gitnacho" creationdate="20221011T230426Z">
         <seg>invocation.withCredentials = true;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>is not a decimal number.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181338Z" creationid="Nachec" creationdate="20221021T181338Z">
+        <seg>no es un número decimal.</seg>
       </tuv>
     </tu>
     <tu>
