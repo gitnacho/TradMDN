@@ -54026,6 +54026,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Text_containers", "Learn/MathML/First_steps/Scripts", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055641Z" creationid="Nachec" creationdate="20221021T055641Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Text_containers", "Learn/MathML/First_steps/Scripts", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{ListGroups}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T040216Z" creationid="gitnacho" creationdate="20221002T040216Z">
