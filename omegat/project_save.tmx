@@ -30447,8 +30447,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In 1998 the W3C first recommended MathML for representing mathematical expressions in the {{glossary("browser")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065059Z" creationid="Nachec" creationdate="20221021T065059Z">
-        <seg>En 1998, el W3C recomendó por primera vez MathML para representar expresiones matemáticas en el {{Glossary("browser")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065433Z" creationid="Nachec" creationdate="20221021T065059Z">
+        <seg>En 1998, el W3C recomendó por primera vez MathML para representar expresiones matemáticas en el {{Glossary("browser", "navegador")}}.</seg>
       </tuv>
     </tu>
     <tu>
