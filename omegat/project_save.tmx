@@ -24006,6 +24006,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;sin&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191838Z" creationid="Nachec" creationdate="20221021T191838Z">
+        <seg>&lt;mi&gt;sin&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi&gt;t&lt;/mi&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090548Z" creationid="Nachec" creationdate="20221021T090548Z">
@@ -24026,6 +24034,18 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090549Z" creationid="Nachec" creationdate="20221021T090549Z">
         <seg>&lt;mi&gt;x&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;x&lt;/mi&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192017Z" creationid="Nachec" creationdate="20221021T192017Z">
+        <seg>&lt;mi&gt;x&lt;/mi&gt;
+&lt;/math&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -26520,6 +26540,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T034948Z" creationid="gitnacho" creationdate="20220921T034948Z">
         <seg>&gt; **Nota:** [IndexedDB](/es/docs/Web/API/IndexedDB_API) se puede usar dentro de un *service worker* para el almacenamiento de datos si lo requieres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** [This table from MathML Core](https://w3c.github.io/mathml-core/#italic-mappings) provide the exhaustive list of characters that are subject to italicization, together with the corresponding italic characters.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192045Z" creationid="Nachec" creationdate="20221021T192045Z">
+        <seg>&gt; **Nota:** [Esta tabla de MathML Core](https://w3c.github.io/mathml-core/#italic-mappings) proporciona la lista exhaustiva de caracteres que están sujetos a cursiva, junto con los correspondientes caracteres en cursiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29416,6 +29444,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare the rendering of the two `&lt;mi&gt;` elements in the following formula:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191837Z" creationid="Nachec" creationdate="20221021T191837Z">
+        <seg>Compara el renderizado de los dos elementos `&lt;mi&gt;` en la siguiente fórmula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compiles your Rust code to WebAssembly.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064140Z" creationid="gitnacho" creationdate="20221004T064140Z">
@@ -31074,6 +31110,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064449Z" creationid="gitnacho" creationdate="20221007T064449Z">
         <seg>Para simplificar, la vamos a crear en JavaScript y luego importarla a WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For that purpose, just attach a `mathvariant="normal"` attribute on the `&lt;mi&gt;` element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192109Z" creationid="Nachec" creationdate="20221021T192109Z">
+        <seg>Para ese propósito, simplemente adjunta un atributo `mathvariant="normal"` en el elemento `&lt;mi&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34339,6 +34383,14 @@ y \{{cssxref("margin-left")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075247Z" creationid="Nachec" creationdate="20221021T075247Z">
         <seg>Se recomienda proporcionar un mecanismo de respaldo para navegadores sin compatibilidad con MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is sometimes needed to revert this default italic transformation.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192055Z" creationid="Nachec" creationdate="20221021T192055Z">
+        <seg>A veces, es necesario revertir esta transformación en cursiva predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43462,6 +43514,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073737Z" creationid="gitnacho" creationdate="20221007T073737Z">
         <seg>Esto es simétrico a una aplicación nativa donde múltiples `.dll`s compilados comparten el espacio de direcciones de un solo proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the case for all the letters from the latin and greek alphabets.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191808Z" creationid="Nachec" creationdate="20221021T191808Z">
+        <seg>Este es el caso de todas las letras de los alfabetos latino y griego.</seg>
       </tuv>
     </tu>
     <tu>
