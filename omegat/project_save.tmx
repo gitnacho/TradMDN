@@ -9151,6 +9151,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Don't forget to rely on `&lt;mrow&gt;` for grouping subexpressions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085843Z" creationid="Nachec" creationdate="20221021T085843Z">
+        <seg>- No olvides confiar en `&lt;mrow&gt;` para agrupar subexpresiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Draw on `requestAnimationFrame` and update on a `setInterval` or `setTimeout` in a [Web Worker](/en-US/docs/Web/API/Web_Workers_API/Using_web_workers).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T103826Z" creationid="gitnacho" creationdate="20221007T103826Z">
@@ -9893,6 +9901,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- If you are stuck, or realize how painful it is to write MathML by hand, feel free to use tools to help [write MathML](/en-US/docs/Web/MathML/Authoring) such as [TeXZilla](https://fred-wang.github.io/TeXZilla/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085954Z" creationid="Nachec" creationdate="20221021T085954Z">
+        <seg>- Si estás atascado o te das cuenta de lo doloroso que es escribir MathML a mano, siéntete libre de usar herramientas para ayudar a [escribir MathML](/es/docs/Web/MathML/Authoring) como [TeXZilla](https://fred-wang.github.io/TeXZilla/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- If you get errors, review your code carefully.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T095111Z" creationid="gitnacho" creationdate="20221005T095111Z">
@@ -10187,6 +10203,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221009T003526Z" creationid="gitnacho" creationdate="20221009T003526Z">
         <seg>- Cargar código WebAssembly, usando la función [`WebAssembly.instantiate()`](/es/docs/WebAssembly/JavaScript_interface/instantiate).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Look for advanced constructions (fractions?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085807Z" creationid="Nachec" creationdate="20221021T085807Z">
+        <seg>- Busca construcciones avanzadas (¿fracciones?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10528,6 +10552,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T094959Z" creationid="gitnacho" creationdate="20221005T094959Z">
         <seg>- Los parámetros están separados por comas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Pay attention to stretchy and large operators!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085903Z" creationid="Nachec" creationdate="20221021T085903Z">
+        <seg>- ¡Presta atención a los operadores elásticos y grandes!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11495,6 +11527,14 @@ browser-compat: javascript.builtins.SharedArrayBuffer
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T092526Z" creationid="gitnacho" creationdate="20221005T092202Z">
         <seg>- El uso de llaves sin intención de llamar a una macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Use the [W3C validator](https://validator.w3.org/nu/) to catch unintended mistakes in your HTML/MathML markup.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085918Z" creationid="Nachec" creationdate="20221021T085918Z">
+        <seg>- Utiliza el [validador W3C](https://validator.w3.org/nu/) para detectar errores no deseados en tu marcado HTML/MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54237,6 +54277,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>matrices?) and determine the proper MathML element to use for each of them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085835Z" creationid="Nachec" creationdate="20221021T085835Z">
+        <seg>¿matrices?) y determina el elemento MathML adecuado para cada una de ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>maximum: 10,
 });
 ```</seg>
@@ -54539,6 +54587,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112346Z" creationid="gitnacho" creationdate="20221003T112346Z">
         <seg>null, // tipo de retorno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>number?) and determine the proper token element to use for each of them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085755Z" creationid="Nachec" creationdate="20221021T085755Z">
+        <seg>¿número?) y determina el elemento toquen adecuado para cada uno de ellos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55671,6 +55727,14 @@ api.free_result(resultPointer);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>roots?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085812Z" creationid="Nachec" creationdate="20221021T085812Z">
+        <seg>¿raíces?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>satisfy ???)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085416Z" creationid="Nachec" creationdate="20221021T085416Z">
@@ -55699,6 +55763,14 @@ api.free_result(resultPointer);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T024208Z" creationid="gitnacho" creationdate="20220921T024208Z">
         <seg>scope: "/",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scripts?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085817Z" creationid="Nachec" creationdate="20221021T085817Z">
+        <seg>¿scripts?</seg>
       </tuv>
     </tu>
     <tu>
