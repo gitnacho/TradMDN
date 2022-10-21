@@ -22324,6 +22324,18 @@ example.js:41 getArg 0 : 42
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>/* keyframes go here */
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233746Z" creationid="Nachec" creationdate="20221021T233746Z">
+        <seg>/* los fotogramas clave van aquí */
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/* length examples */</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225129Z" creationid="Nachec" creationdate="20221021T225129Z">
@@ -33161,6 +33173,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, the value of {{cssxref("grid-area")}} can be a `&lt;custom-ident&gt;`, so if we had a grid area named `content` we would use it without quotes:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233816Z" creationid="Nachec" creationdate="20221021T233816Z">
+        <seg>Por ejemplo, el valor de {{CSSxRef("grid-area")}} puede ser `&lt;custom-ident&gt;`, por lo que si tuviéramos un área de cuadrícula llamada `content`, la usaríamos sin comillas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, this interface can be used to determine how much time it takes to load or unload a document.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T210049Z" creationid="gitnacho" creationdate="20220913T210049Z">
@@ -35583,6 +35603,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053506Z" creationid="gitnacho" creationdate="20221007T053506Z">
         <seg>Tanto en formato binario como textual, la unidad fundamental de código en WebAssembly es un módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In comparison, a data type that is a {{cssxref("&amp;lt;string&amp;gt;")}}, such as a string value of the {{cssxref("content")}} property, must be quoted:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233841Z" creationid="Nachec" creationdate="20221021T233841Z">
+        <seg>En comparación, un tipo de dato que es {{CSSxRef("&amp;lt;string&amp;gt;")}}, como un valor de cadena de la propiedad {{CSSxRef("content")}}, se debe citar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40230,6 +40258,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the {{cssxref("&amp;lt;custom-ident&amp;gt;")}} and {{cssxref("&amp;lt;string&amp;gt;")}} reference pages for more details.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234038Z" creationid="Nachec" creationdate="20221021T234038Z">
+        <seg>Consulta las páginas de referencia {{CSSxRef("&amp;lt;custom-ident&amp;gt;")}} y {{CSSxRef("&amp;lt;string&amp;gt;")}} para obtener más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See {{domxref("XSLTProcessor")}} in the Web API documentation section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205934Z" creationid="Nachec" creationdate="20221020T205934Z">
@@ -40754,6 +40790,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220029Z" creationid="gitnacho" creationdate="20221011T220029Z">
         <seg>Algunas solicitudes no activan un {{Glossary("Preflight_request","CORS preflight")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some text values are not valid if encompassed in quotes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233758Z" creationid="Nachec" creationdate="20221021T233758Z">
+        <seg>Algunos valores de texto no son válidos si están entre comillas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49363,6 +49407,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While you can generally create any name you want, including using emojis, the identifier can't be `none`, `unset`, `initial`, or `inherit`, start with a digit or two dashes, and generally you don't want it to be any other pre-defined CSS keyword.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234015Z" creationid="Nachec" creationdate="20221021T234015Z">
+        <seg>Si bien, generalmente puedes crear cualquier nombre que desees, incluido el uso de emojis, el identificador no puede ser `none`, `unset`, `initial` o `inherit`, comenzar con un dígito o dos guiones, y generalmente no lo quieres que sea ninguna otra palabra clave CSS predefinida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210105T215438Z" creationid="nacho" creationdate="20210105T215438Z">
@@ -51455,6 +51507,26 @@ void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
 int result[2];
 EMSCRIPTEN_KEEPALIVE
 void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+.item {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233819Z" creationid="Nachec" creationdate="20221021T233819Z">
+        <seg>```css
+.item {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+.item::after {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233842Z" creationid="Nachec" creationdate="20221021T233842Z">
+        <seg>```css
+.item::after {</seg>
       </tuv>
     </tu>
     <tu>
@@ -57650,6 +57722,18 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>content: "This is my content.";
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233858Z" creationid="Nachec" creationdate="20221021T233858Z">
+        <seg>content: "Este es mi contenido.";
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>context_object_name = 'my_book_list'</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T174219Z" creationid="gitnacho" creationdate="20221012T174219Z">
@@ -58624,6 +58708,18 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210908T110959Z" creationid="nacho" creationdate="20180528T184824Z">
         <seg>greet() {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>grid-area: content;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233824Z" creationid="Nachec" creationdate="20221021T233824Z">
+        <seg>grid-area: content;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
