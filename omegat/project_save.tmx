@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![LaTeX input box in Thunderbird](thunderbird.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081624Z" creationid="Nachec" creationdate="20221021T081624Z">
+        <seg>![Cuadro de entrada LaTeX en Thunderbird](thunderbird.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Screenshot of a console output in developer tools](console-example.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205640Z" creationid="gitnacho" creationdate="20221005T205640Z">
@@ -1156,6 +1164,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233701Z" creationid="gitnacho" creationdate="20221006T233701Z">
         <seg>## Globales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Graphical interfaces</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081345Z" creationid="Nachec" creationdate="20221021T081345Z">
+        <seg>## Interfaces gráficas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +2638,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114105Z" creationid="gitnacho" creationdate="20221005T114105Z">
         <seg>### Indicadores en línea sin parámetros adicionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Input box</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081405Z" creationid="Nachec" creationdate="20221021T081405Z">
+        <seg>### Cuadro de entrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -24756,6 +24780,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** You can also use the **Insert &gt; HTML** command to paste any MathML content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081636Z" creationid="Nachec" creationdate="20221021T081636Z">
+        <seg>&gt; **Nota:** También puedes usar el comando **Insert &gt; HTML** para pegar cualquier contenido de MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** You can find a lot more details in the [Threading proposal for WebAssembly](https://github.com/WebAssembly/threads/blob/master/proposals/threads/Overview.md).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T080938Z" creationid="gitnacho" creationdate="20221007T080938Z">
@@ -25810,6 +25842,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T134445Z" creationid="gitnacho" creationdate="20221002T134445Z">
         <seg>Un *service worker* se ejecuta en un contexto *worker*: por lo tanto no tiene acceso al DOM, y se ejecuta en un hilo distinto al de JavaScript principal de la aplicación, de manera que no es bloqueante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A simple approach is to integrate [converters from a simple syntax](#conversion_from_a_simple_syntax) as simple input boxes for mathematics.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081554Z" creationid="Nachec" creationdate="20221021T081554Z">
+        <seg>Un enfoque simple es integrar [convertidores de una sintaxis simple](#conversión_desde_una_simple) como cuadros de entrada simples para matemáticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28757,6 +28797,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, [Thunderbird](https://www.thunderbird.net/en-US/) and [SeaMonkey](https://www.seamonkey-project.org/) provide an **Insert &gt; Math** command that will open a popup window, with a LaTeX-to-MathML input field and a live MathML preview:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081618Z" creationid="Nachec" creationdate="20221021T081618Z">
+        <seg>Por ejemplo, [Thunderbird](https://www.thunderbird.net/en-US/) y [SeaMonkey](https://www.seamonkey-project.org/) proporcionan un comando **Insert &gt; Math** eso abrirá una ventana emergente, con un campo de entrada de LaTeX a MathML y ​​una vista previa de MathML en vivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, [`Promise.resolve`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve) will not only resolve promises, but also trace thenables.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T090819Z" creationid="gitnacho" creationdate="20221002T090819Z">
@@ -31632,6 +31680,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T182026Z" creationid="gitnacho" creationdate="20221006T182026Z">
         <seg>En este modelo de memoria, cualquier carga o almacenamiento puede acceder a cualquier byte en toda la memoria lineal, lo cual es necesario para representar fielmente conceptos de C/C++ como punteros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this section, we review a few editing tools providing graphical interfaces.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081358Z" creationid="Nachec" creationdate="20221021T081358Z">
+        <seg>En esta sección, revisamos algunas herramientas de edición que proporcionan interfaces gráficas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44633,6 +44689,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050516Z" creationid="Nachec" creationdate="20221020T173529Z">
         <seg>[Instala Git](https://git-scm.com/downloads) en su máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[LibreOffice](https://www.libreoffice.org/)'s equation editor (File → New → Formula) shows a possible enhancement: its input box for the _StartMath_ syntax provides extra equation panels to insert pre-defined mathematical constructions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081700Z" creationid="Nachec" creationdate="20221021T081700Z">
+        <seg>El editor de ecuaciones de [LibreOffice](https://www.libreoffice.org/) (Archivo → Nuevo → Fórmula) muestra una posible mejora: su cuadro de entrada para la sintaxis _StartMath_ proporciona paneles de ecuaciones adicionales para insertar construcciones matemáticas predefinidas.</seg>
       </tuv>
     </tu>
     <tu>
