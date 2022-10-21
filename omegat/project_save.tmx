@@ -35511,6 +35511,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now that scripted elements are available, we can extend that list.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104250Z" creationid="Nachec" creationdate="20221021T104250Z">
+        <seg>Ahora que los elementos con script están disponibles, podemos ampliar esa lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that we've got a compiled wasm module, let's run it in the browser.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064525Z" creationid="gitnacho" creationdate="20221004T064525Z">
@@ -44537,6 +44545,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062351Z" creationid="gitnacho" creationdate="20221004T062351Z">
         <seg>Utilizaremos estas características en la siguiente sección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will do that by tweaking our [previous example](#active_learning_recognize_scripted_elements).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104621Z" creationid="Nachec" creationdate="20221021T104621Z">
+        <seg>Lo haremos modificando nuestro [ejemplo anterior](#aprendisaje_activo_reconocer_elementos_con_scripts).</seg>
       </tuv>
     </tu>
     <tu>
