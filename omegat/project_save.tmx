@@ -3378,6 +3378,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Stretching in horizontal direction</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104628Z" creationid="Nachec" creationdate="20221021T104628Z">
+        <seg>### Estiramiento en dirección horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Styling a paragraph</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211317Z" creationid="gitnacho" creationdate="20221005T211317Z">
@@ -23712,6 +23720,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;v&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104727Z" creationid="Nachec" creationdate="20221021T104727Z">
+        <seg>&lt;mi&gt;v&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi&gt;x&lt;/mi&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090549Z" creationid="Nachec" creationdate="20221021T090549Z">
@@ -23724,6 +23740,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090555Z" creationid="Nachec" creationdate="20221021T090555Z">
         <seg>&lt;mi&gt;y&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;z&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104726Z" creationid="Nachec" creationdate="20221021T104726Z">
+        <seg>&lt;mi&gt;z&lt;/mi&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24959,6 +24983,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095421Z" creationid="Nachec" creationdate="20221021T095421Z">
         <seg>&lt;title&gt;Mi matriz con columnpan&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;title&gt;My page with horizontal stretchy operators&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104725Z" creationid="Nachec" creationdate="20221021T104725Z">
+        <seg>&lt;title&gt;Mi página con operadores elásticos horizontales&lt;/title&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34153,6 +34185,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's first perform the substitutions &lt;math&gt; &lt;mi&gt;β&lt;/mi&gt; &lt;mo&gt;≔&lt;/mo&gt; &lt;mrow&gt; &lt;msub&gt; &lt;mi&gt;z&lt;/mi&gt; &lt;mn&gt;1&lt;/mn&gt; &lt;/msub&gt; &lt;mo&gt;+&lt;/mo&gt; &lt;msub&gt; &lt;mi&gt;z&lt;/mi&gt; &lt;mn&gt;2&lt;/mn&gt; &lt;/msub&gt; &lt;/mrow&gt; &lt;/math&gt; and &lt;math&gt; &lt;mi&gt;α&lt;/mi&gt; &lt;mo&gt;≔&lt;/mo&gt; &lt;mrow&gt; &lt;msub&gt; &lt;mi&gt;v&lt;/mi&gt; &lt;mn&gt;1&lt;/mn&gt; &lt;/msub&gt; &lt;mo&gt;+&lt;/mo&gt; &lt;msub&gt; &lt;mi&gt;v&lt;/mi&gt; &lt;mn&gt;2&lt;/mn&gt; &lt;/msub&gt; &lt;/mrow&gt; &lt;/math&gt;:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104708Z" creationid="Nachec" creationdate="20221021T104708Z">
+        <seg>Primero hagamos las sustituciones &lt;math&gt; &lt;mi&gt;β&lt;/mi&gt; &lt;mo&gt;≔&lt;/mo&gt; &lt;mrow&gt; &lt;msub&gt; &lt;mi&gt;z&lt;/mi&gt; &lt;mn&gt;1&lt;/mn&gt; &lt;/msub&gt; &lt;mo&gt;+&lt;/mo&gt; &lt;msub&gt; &lt;mi&gt;z&lt;/mi&gt; &lt;mn&gt;2&lt;/mn&gt; &lt;/msub&gt; &lt;/mrow&gt; &lt;/math&gt; and &lt;math&gt; &lt;mi&gt;α&lt;/mi&gt; &lt;mo&gt;≔&lt;/mo&gt; &lt;mrow&gt; &lt;msub&gt; &lt;mi&gt;v&lt;/mi&gt; &lt;mn&gt;1&lt;/mn&gt; &lt;/msub&gt; &lt;mo&gt;+&lt;/mo&gt; &lt;msub&gt; &lt;mi&gt;v&lt;/mi&gt; &lt;mn&gt;2&lt;/mn&gt; &lt;/msub&gt; &lt;/mrow&gt; &lt;/math&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's get started.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223920Z" creationid="gitnacho" creationdate="20221018T223920Z">
@@ -36199,6 +36239,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064235Z" creationid="gitnacho" creationdate="20221004T064235Z">
         <seg>Lee tu `Cargo.toml` y produce un `package.json` equivalente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recall that [some vertical operators can stretch](/en-US/docs/Learn/MathML/First_steps/Text_containers#active_learning_stretchy_operators) to cover the height of non-stretchy siblings inside an `&lt;mrow&gt;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104923Z" creationid="Nachec" creationdate="20221021T104923Z">
+        <seg>Recuerda que [algunos operadores verticales se pueden estirar](/es/docs/Learn/MathML/First_steps/Text_containers#aprendizaje_activo_operadores_de_estrecamiento) para cubrir la altura de los hermanos no estirables dentro de un `&lt;mrow&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44434,6 +44482,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065311Z" creationid="gitnacho" creationdate="20221004T065311Z">
         <seg>Ahora tenemos un paquete npm, escrito en Rust, pero compilado en WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We now realize that the bottom bracket "⎵" and the rightward arrow "→" stretch horizontally to cover the width of the substituted values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104743Z" creationid="Nachec" creationdate="20221021T104743Z">
+        <seg>Ahora nos damos cuenta de que el corchete inferior "⎵" y la flecha hacia la derecha "→" se extienden horizontalmente para cubrir el ancho de los valores sustituidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58040,6 +58096,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095202Z" creationid="Nachec" creationdate="20221021T095202Z">
         <seg>{{ EmbedLiveSample('MathML_tabular_elements', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Stretching_in_horizontal_direction', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104729Z" creationid="Nachec" creationdate="20221021T104729Z">
+        <seg>{{ EmbedLiveSample('Stretching_in_horizontal_direction', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
