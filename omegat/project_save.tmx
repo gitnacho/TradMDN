@@ -8641,6 +8641,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Try and use bold-fraktur characters e.g. "𝕬".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204810Z" creationid="Nachec" creationdate="20221021T204810Z">
+        <seg>- : Prueba y usa caracteres `fraktur` en negrita, p. ej. "𝕬".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Try and use bold-italic characters e.g. "𝑨".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204702Z" creationid="Nachec" creationdate="20221021T204702Z">
@@ -8649,10 +8657,74 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Try and use bold-sans-serif characters e.g. "𝗔".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204936Z" creationid="Nachec" creationdate="20221021T204936Z">
+        <seg>- : Prueba y usa caracteres sans-serif en negrita, p. ej. "𝗔".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use bold-script characters e.g. "𝓐".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204843Z" creationid="Nachec" creationdate="20221021T204843Z">
+        <seg>- : Prueba y usa caracteres en negrita, p. ej. "𝓐".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use double-struck characters e.g. "𝔸".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204735Z" creationid="Nachec" creationdate="20221021T204735Z">
+        <seg>- : Prueba y usa caracteres de doble golpe, p. ej. "𝔸".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use fraktur characters e.g. "𝔄".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204859Z" creationid="Nachec" creationdate="20221021T204859Z">
+        <seg>- : Prueba y usa caracteres `fraktur`, p. ej. "𝔄".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Try and use italic characters e.g. "𝐴".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204629Z" creationid="Nachec" creationdate="20221021T204629Z">
         <seg>- : Prueba y usa caracteres en cursiva, p. ej. "𝐴".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use sans-serif characters e.g. "𝖠".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204913Z" creationid="Nachec" creationdate="20221021T204913Z">
+        <seg>- : Prueba y usa caracteres sans-serif, p. ej. "𝖠".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use sans-serif-bold-italic characters e.g. "𝘼".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205009Z" creationid="Nachec" creationdate="20221021T205009Z">
+        <seg>- : Prueba y usa caracteres sans-serif-bold-italic, p. ej. "𝘼".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use sans-serif-italic characters e.g. "𝘈".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204953Z" creationid="Nachec" creationdate="20221021T204953Z">
+        <seg>- : Prueba y usa caracteres sans-serif-italic, p. ej. "𝘈".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Try and use script characters e.g. "𝒜".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204824Z" creationid="Nachec" creationdate="20221021T204824Z">
+        <seg>- : Prueba y usa caracteres de script, p. ej. "𝒜".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14897,10 +14969,34 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `bold-fraktur`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204736Z" creationid="Nachec" creationdate="20221021T204736Z">
+        <seg>- `bold-fraktur`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `bold-italic`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204630Z" creationid="Nachec" creationdate="20221021T204630Z">
         <seg>- `bold-italic`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `bold-sans-serif`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204914Z" creationid="Nachec" creationdate="20221021T204914Z">
+        <seg>- `bold-sans-serif`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `bold-script`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204824Z" creationid="Nachec" creationdate="20221021T204824Z">
+        <seg>- `bold-script`</seg>
       </tuv>
     </tu>
     <tu>
@@ -15009,6 +15105,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `double-struck`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204703Z" creationid="Nachec" creationdate="20221021T204703Z">
+        <seg>- `double-struck`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `elem.drop`: Discard the data in an element segment.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074658Z" creationid="gitnacho" creationdate="20221007T074658Z">
@@ -15081,6 +15185,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135024Z" creationid="gitnacho" creationdate="20221019T135024Z">
         <seg>- `fileName` {{optional_inline}} {{non-standard_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `fraktur`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204843Z" creationid="Nachec" creationdate="20221021T204843Z">
+        <seg>- `fraktur`</seg>
       </tuv>
     </tu>
     <tu>
@@ -15669,6 +15781,38 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125936Z" creationid="gitnacho" creationdate="20221003T125936Z">
         <seg>- `same-origin`: Se enviará una referencia para {{Glossary("Same-origin policy", "same origin")}}, pero las solicitudes de origen cruzado no contendrán información del remitente —`referrer`—.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `sans-serif-bold-italic`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204954Z" creationid="Nachec" creationdate="20221021T204954Z">
+        <seg>- `sans-serif-bold-italic`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `sans-serif-italic`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204937Z" creationid="Nachec" creationdate="20221021T204937Z">
+        <seg>- `sans-serif-italic`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `sans-serif`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204900Z" creationid="Nachec" creationdate="20221021T204900Z">
+        <seg>- `sans-serif`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `script`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204810Z" creationid="Nachec" creationdate="20221021T204810Z">
+        <seg>- `script`</seg>
       </tuv>
     </tu>
     <tu>
