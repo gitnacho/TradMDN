@@ -4026,6 +4026,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Debian-based distributions (including Ubuntu and Mint)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201722Z" creationid="Nachec" creationdate="20221021T201722Z">
+        <seg>#### Distribuciones basadas en Debian (incluyendo Ubuntu y Mint)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Defining a table in wasm</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T065344Z" creationid="gitnacho" creationdate="20221007T065344Z">
@@ -26014,6 +26022,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** A deprecated version of _STIX_ is preinstalled starting with OS X Lion (version 10.7).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201527Z" creationid="Nachec" creationdate="20221021T201527Z">
+        <seg>&gt; **Nota:** Una versión obsoleta de _STIX_ está preinstalada a partir de OS X Lion (versión 10.7).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** A document timeline that is associated with a non-active document is also considered to be **inactive**.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092808Z" creationid="gitnacho" creationdate="20221006T092808Z">
@@ -28384,6 +28400,15 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternative approaches are also provided if your Linux
+distribution does not provide dedicated packages for these fonts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201710Z" creationid="Nachec" creationdate="20221021T201710Z">
+        <seg>También se proporcionan enfoques alternativos si tu distribución Linux no proporciona paquetes dedicados para estas fuentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, copy the image's web address from your browser's address bar for later use.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062614Z" creationid="gitnacho" creationdate="20221019T062614Z">
@@ -28412,6 +28437,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230647Z" creationid="gitnacho" creationdate="20221011T230647Z">
         <seg>Aunque la línea 10 contiene la *Cookie* destinada al contenido en `https://bar.other`, si `bar.other` no respondió con {{HTTPHeader("Access-Control-Allow-Credentials")}}`: true` (línea 16), la respuesta sería ignorada y no estaría disponible para el contenido web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Although some browsers are able to make use of it, it is strongly recommended to follow the instructions above for optimal math rendering.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201556Z" creationid="Nachec" creationdate="20221021T201556Z">
+        <seg>Aunque algunos navegadores la pueden utilizar, se recomienda encarecidamente seguir las instrucciones anteriores para obtener un renderizado matemático óptimo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29333,6 +29366,18 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T092956Z" creationid="gitnacho" creationdate="20221002T092956Z">
         <seg>A continuación encontrarás enlaces a nuestra documentación sobre tecnología web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Below, you can find commands to execute on popular Linux distributions
+in order to install the _Latin Modern Math_ and _STIX Two Math_ fonts from your
+package manager.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201647Z" creationid="Nachec" creationdate="20221021T201647Z">
+        <seg>A continuación, puedes encontrar comandos para ejecutar en distribuciones populares de Linux
+para instalar las fuentes _Latin Modern Math_ y _STIX Two Math_ desde tu
+gestor de paquetes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33371,6 +33416,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If your Linux distribution does not provide packages for the _Latin Modern Math_ and _STIX_ fonts, consider instead installing the `texlive` packages containing the _Latin Modern Math_ and _XITS_ fonts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201743Z" creationid="Nachec" creationdate="20221021T201743Z">
+        <seg>Si tu distribución de Linux no proporciona paquetes para las fuentes _Latin Modern Math_ y _STIX_, considera instalar los paquetes `texlive` que contienen las fuentes _Latin Modern Math_ y _XITS_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If your document contains only basic mathematical formulas then a small [mathml.css](https://github.com/fred-wang/mathml.css) stylesheet might be enough.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075301Z" creationid="Nachec" creationdate="20221021T075301Z">
@@ -37323,6 +37376,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201023Z" creationid="Nachec" creationdate="20221021T201023Z">
         <seg>Abre el archivo ZIP, muévete dentro del directorio `latinmodern-math-1959` y luego dentro del directorio `otf`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the `STIXTwoMath-Regular.otf` file and click the **Install Font** button from the window that opens.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201512Z" creationid="Nachec" creationdate="20221021T201512Z">
+        <seg>Abre el archivo `STIXTwoMath-Regular.otf` y haz clic en el botón **Instalar fuente** en la ventana que se abre.</seg>
       </tuv>
     </tu>
     <tu>
