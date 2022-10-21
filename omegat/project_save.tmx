@@ -19278,6 +19278,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Writing mathematics with MathML
+slug: Learn/MathML
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063302Z" creationid="Nachec" creationdate="20221021T063302Z">
+        <seg>---
+title: Writing mathematics with MathML
+slug: Learn/MathML
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: X-XSS-Protection
 slug: Web/HTTP/Headers/X-XSS-Protection
 tags:</seg>
