@@ -6019,6 +6019,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A space-separated list of the classes of the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213303Z" creationid="Nachec" creationdate="20221021T213303Z">
+        <seg>- : Una lista separada por espacios de las clases del elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A string representing the type of value to be stored in the table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000002Z" creationid="gitnacho" creationdate="20221020T000002Z">
@@ -6121,6 +6129,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144925Z" creationid="gitnacho" creationdate="20221019T144925Z">
         <seg>- : Una [`WebAssembly.Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) que se puede verificar para comprobar el tipo de excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : An [enumerated](/en-US/docs/Glossary/Enumerated) attribute indicating the directionality of the MathML element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213554Z" creationid="Nachec" creationdate="20221021T213554Z">
+        <seg>- : Un atributo [enumerated](/es/docs/Glossary/Enumerated) que indica la direccionalidad del elemento MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6855,6 +6871,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T095108Z" creationid="gitnacho" creationdate="20221002T095108Z">
         <seg>- : Formatos, códecs, protocolos, APIs y técnicas para incrustar y transmitir contenido de video, audio e imagen en documentos y aplicaciones web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Forms a class of attributes, called custom data attributes, that allow proprietary information to be exchanged between the [MathML](/en-US/docs/Web/MathML) and its {{glossary("DOM")}} representation that may be used by scripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213501Z" creationid="Nachec" creationdate="20221021T213501Z">
+        <seg>- : Forma una clase de atributos, denominados atributos de datos personalizados, que permiten el intercambio de información patentada entre [MathML](/es/docs/Web/MathML) y su representación {{Glossary("DOM")}} que pueden utilizar los scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14815,6 +14839,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [`data-*`](/en-US/docs/Web/HTML/Global_attributes/data-*)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213402Z" creationid="Nachec" creationdate="20221021T213402Z">
+        <seg>- [`data-*`](/es/docs/Web/HTML/Global_attributes/data-*)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`dir`](/en-US/docs/Web/MathML/Global_attributes/dir)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213526Z" creationid="Nachec" creationdate="20221021T213526Z">
+        <seg>- [`dir`](/es/docs/Web/MathML/Global_attributes/dir)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [`drop`](/en-US/docs/WebAssembly/Reference/Control_flow/Drop)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094537Z" creationid="gitnacho" creationdate="20221007T094537Z">
@@ -15631,6 +15671,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T124630Z" creationid="gitnacho" creationdate="20221003T124630Z">
         <seg>- `low`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `ltr`, which means _left to right_ and is used to render mathematical expressions from the left to the right (e.g. English or Moroccan style);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213618Z" creationid="Nachec" creationdate="20221021T213618Z">
+        <seg>- `ltr`, significa _de izquierda a derecha_ y se usa para representar expresiones matemáticas de izquierda a derecha (por ejemplo, estilo inglés o marroquí);</seg>
       </tuv>
     </tu>
     <tu>
@@ -28999,6 +29047,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All such custom data are available via the {{DOMxRef("MathMLElement")}} interface of the element the attribute is set on.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213513Z" creationid="Nachec" creationdate="20221021T213513Z">
+        <seg>Todos estos datos personalizados están disponibles a través de la interfaz {{DOMxRef("MathMLElement")}} del elemento en el que se establece el atributo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All the code knows is that an error occurred.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T214009Z" creationid="gitnacho" creationdate="20221011T214009Z">
@@ -30571,6 +30627,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053125Z" creationid="gitnacho" creationdate="20221012T053021Z">
         <seg>Actualmente, los navegadores basados ​​en Chromium siempre envían certificados de cliente TLS en solicitudes CORS de preverificación ([Error de Chrome 775438](https://bugs.chromium.org/p/chromium/issues/detail?id=775438)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Classes allows CSS and JavaScript to select and access specific elements via the [class selectors](/en-US/docs/Web/CSS/Class_selectors) or functions like the method {{DOMxRef("Document.getElementsByClassName()")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213354Z" creationid="Nachec" creationdate="20221021T213354Z">
+        <seg>Las clases permiten que CSS y JavaScript seleccionen y accedan a elementos específicos a través de los [selectores de clase](/es/docs/Web/CSS/Class_selectors) o funciones como el método {{DOMxRef("Document.getElementsByClassName()")}} .</seg>
       </tuv>
     </tu>
     <tu>
@@ -35544,6 +35608,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183320Z" creationid="gitnacho" creationdate="20221008T183320Z">
         <seg>Puede tener varios párrafos y también bloques de código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can have the following values:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213557Z" creationid="Nachec" creationdate="20221021T213557Z">
+        <seg>Puede tener los siguientes valores:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43183,6 +43255,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T112149Z" creationid="gitnacho" creationdate="20221007T112149Z">
         <seg>La función `worker` de [`wasm_worker.js`](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/wasm_worker.js) define un objeto `import` para que lo use el módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{DOMxRef("HTMLElement.dataset")}} property gives access to them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213521Z" creationid="Nachec" creationdate="20221021T213521Z">
+        <seg>La propiedad {{DOMxRef("HTMLElement.dataset")}} da acceso a ellos.</seg>
       </tuv>
     </tu>
     <tu>
