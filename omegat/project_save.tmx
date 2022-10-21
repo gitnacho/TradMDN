@@ -1440,6 +1440,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## More operator properties</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104044Z" creationid="Nachec" creationdate="20221021T104044Z">
+        <seg>## Más propiedades del operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Multi-value WebAssembly</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T075055Z" creationid="gitnacho" creationdate="20221007T075055Z">
@@ -44326,6 +44334,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We have previously seen some [properties of the `&lt;mo&gt;` element](/en-US/docs/Learn/MathML/First_steps/Text_containers#operator_properties_of_mo) namely stretching in the vertical direction and spacing.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104238Z" creationid="Nachec" creationdate="20221021T104238Z">
+        <seg>Anteriormente hemos visto algunas [propiedades del elemento `&lt;mo&gt;`](/es/docs/Learn/MathML/First_steps/Text_containers#propiedades_del_operador_mo), a saber, estiramiento —`stretching`— en dirección vertical y espaciado — `spacing`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We have run into performance problems, however, when trying to use JavaScript for more intensive use cases like 3D games, Virtual and Augmented Reality, computer vision, image/video editing, and a number of other domains that demand native performance (see [WebAssembly use cases](https://webassembly.org/docs/use-cases/) for more ideas).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T005548Z" creationid="gitnacho" creationdate="20221003T005548Z">
@@ -55904,6 +55920,18 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>outputDiv.innerHTML = "";
+});
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104028Z" creationid="Nachec" creationdate="20221021T104028Z">
+        <seg>outputDiv.innerHTML = "";
+});
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>outputDiv.insertAdjacentHTML(</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103852Z" creationid="Nachec" creationdate="20221021T103852Z">
@@ -57976,6 +58004,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Active_learning_recognize_scripted_elements', 700, 400, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104030Z" creationid="Nachec" creationdate="20221021T104030Z">
+        <seg>{{ EmbedLiveSample('Active_learning_recognize_scripted_elements', 700, 400, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{ EmbedLiveSample('Fraction_without_bar', 700, 200, "", "") }}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061636Z" creationid="Nachec" creationdate="20221021T061636Z">
@@ -59166,6 +59202,18 @@ scriptedElements.forEach((scripted) =&gt; {</seg>
         <seg>});
 });
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>});
+});
+document.getElementById("clearOutput").addEventListener("click", () =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104026Z" creationid="Nachec" creationdate="20221021T104026Z">
+        <seg>});
+});
+document.getElementById("clearOutput").addEventListener("click", () =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
