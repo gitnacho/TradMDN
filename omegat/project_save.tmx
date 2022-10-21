@@ -4202,6 +4202,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Distance units</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234847Z" creationid="Nachec" creationdate="20221021T234847Z">
+        <seg>#### Unidades de distancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Examples</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T115900Z" creationid="gitnacho" creationdate="20221005T115847Z">
@@ -18292,6 +18300,24 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{cssxref("&amp;lt;length&amp;gt;")}} (Distance units)
+- {{cssxref("&amp;lt;angle&amp;gt;")}}
+- {{cssxref("&amp;lt;time&amp;gt;")}}
+- {{cssxref("&amp;lt;frequency&amp;gt;")}}
+- {{cssxref("&amp;lt;flex&amp;gt;")}}
+- {{cssxref("&amp;lt;resolution&amp;gt;")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234832Z" creationid="Nachec" creationdate="20221021T234832Z">
+        <seg>- {{CSSxRef("&amp;lt;length&amp;gt;")}} (Unidades de distancia)
+- {{CSSxRef("&amp;lt;angle&amp;gt;")}}
+- {{CSSxRef("&amp;lt;time&amp;gt;")}}
+- {{CSSxRef("&amp;lt;frequency&amp;gt;")}}
+- {{CSSxRef("&amp;lt;flex&amp;gt;")}}
+- {{CSSxRef("&amp;lt;resolution&amp;gt;")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{cssxref("&amp;lt;percentage&amp;gt;")}}
 - {{cssxref("&amp;lt;length&amp;gt;")}}
 - [CSS Values and Units](/en-US/docs/Web/CSS/CSS_Values_and_Units)</seg>
@@ -31579,6 +31605,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CSS uses dimensions to specify:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234737Z" creationid="Nachec" creationdate="20221021T234737Z">
+        <seg>CSS usa dimensiones para especificar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cache the result if it returns.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T041359Z" creationid="gitnacho" creationdate="20220921T041359Z">
@@ -33151,6 +33185,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T113233Z" creationid="gitnacho" creationdate="20221005T113233Z">
         <seg>Por ejemplo, `\{{WebkitBug(31277)}}` inserta {{WebkitBug(31277)}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, `em` is relative to the font size on the element and `vh` is relative to the viewport height.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234944Z" creationid="Nachec" creationdate="20221021T234944Z">
+        <seg>Por ejemplo, `em` es relativo al tamaño de fuente del elemento y `vh` es relativo a la altura de la ventana gráfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39909,6 +39951,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relative length units specify a length in relation to something else.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234931Z" creationid="Nachec" creationdate="20221021T234931Z">
+        <seg>Las unidades de longitud relativa especifican una longitud en relación con algo más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relying on text containers, this article describes how to build more complex MathML expressions by nesting fractions and roots.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055712Z" creationid="Nachec" creationdate="20221021T055712Z">
@@ -42520,6 +42570,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The attached unit identifier is case insensitive.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234719Z" creationid="Nachec" creationdate="20221021T234719Z">
+        <seg>El identificador de unidad adjunto no distingue entre mayúsculas y minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The attribute says "wasm-bindgen knows how to find these functions".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062558Z" creationid="gitnacho" creationdate="20221004T062558Z">
@@ -44905,6 +44963,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are two types of lengths in CSS: relative and absolute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234917Z" creationid="Nachec" creationdate="20221021T234917Z">
+        <seg>Hay dos tipos de longitudes en CSS: relativas y absolutas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are two ways to determine the approximate amount of RAM a device has: use the Device Memory JavaScript API or accept Client Hints.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T104600Z" creationid="gitnacho" creationdate="20221012T095216Z">
@@ -44985,6 +45051,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is never a space or any other characters between a the number and the unit identifier: i.e. `1 cm` is not valid.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234730Z" creationid="Nachec" creationdate="20221021T234730Z">
+        <seg>Nunca hay un espacio ni ningún otro carácter entre el número y el identificador de la unidad: es decir, '1 cm' no es válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is no visual effect for this attribute.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221321Z" creationid="Nachec" creationdate="20221021T221321Z">
@@ -45021,6 +45095,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225242Z" creationid="Nachec" creationdate="20221021T225242Z">
         <seg>Por lo tanto, todos los siguientes valores son aceptables para {{CSSxRef("width")}}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are all covered in subsections below.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234841Z" creationid="Nachec" creationdate="20221021T234841Z">
+        <seg>Todos estos están cubiertos en las subsecciones a continuación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49601,6 +49683,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225228Z" creationid="Nachec" creationdate="20221021T225228Z">
         <seg>Cuando se especifica `&lt;length-percentage&gt;` como un tipo permitido, significa que el porcentaje se resuelve en una longitud y, por lo tanto, se puede usar en una expresión {{CSSxRef("calc", "calc()")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where a distance unit, also known as a length, is allowed as a value for a property, this is described as the {{cssxref("&amp;lt;length&amp;gt;")}} type.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234909Z" creationid="Nachec" creationdate="20221021T234909Z">
+        <seg>Cuando se permite una unidad de distancia, también conocida como longitud, como valor para una propiedad, esto se describe como el tipo {{CSSxRef("&amp;lt;length&amp;gt;")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63656,6 +63746,16 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|
+| `ex`   | x-height of the element's font.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235019Z" creationid="Nachec" creationdate="20221021T235019Z">
+        <seg>|
+| `ex` | Altura x de la fuente del elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------ |</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185527Z" creationid="gitnacho" creationdate="20221008T185527Z">
@@ -63942,6 +64042,18 @@ console.log(uintc8FromIterable);
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185626Z" creationid="gitnacho" creationdate="20221008T185626Z">
         <seg>| Algo corto | Algo corto |
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Unit   | Relative to                                                                                                                            |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `em`   | Font size of the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235005Z" creationid="Nachec" creationdate="20221021T235005Z">
+        <seg>| Unidad | Relativa a |
+| - | - |
+| `em` | Tamaño de fuente del elemento.</seg>
       </tuv>
     </tu>
     <tu>
