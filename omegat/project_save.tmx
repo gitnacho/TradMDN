@@ -4850,6 +4850,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**MathML** (an {{glossary("XML")}} application) is an open standard for representing mathematical expressions in webpages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065036Z" creationid="Nachec" creationdate="20221021T065036Z">
+        <seg>**MathML** (una aplicación {{Glossary("XML")}}) es un estándar abierto para representar expresiones matemáticas en páginas web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**This value is unsafe**, because it leaks origins and paths from TLS-protected resources to insecure origins.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130308Z" creationid="gitnacho" creationdate="20221003T130308Z">
@@ -9977,6 +9985,15 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Mathematical Markup Language</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065000Z" creationid="Nachec" creationdate="20221021T065000Z">
+        <seg>- Mathematical Markup Language
+  - Lenguaje de marcado matemático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Memory
 ---</seg>
       </tuv>
@@ -12486,6 +12503,20 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T095127Z">
         <seg>- [MathML](/es/docs/Web/MathML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [MathML](https://en.wikipedia.org/wiki/MathML) on Wikipedia
+- [MathML](/en-US/docs/Web/MathML)
+- [Authoring MathML](/en-US/docs/Web/MathML/Authoring)
+- [What is MathML](https://www.w3.org/Math/whatIsMathML.html)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065217Z" creationid="Nachec" creationdate="20221021T065217Z">
+        <seg>- [MathML](https://es.wikipedia.org/wiki/MathML) en Wikipedia
+- [MathML](/es/docs/Web/MathML)
+- [Autoría MathML](/es/docs/Web/MathML/Authoring)
+- [Qué es MathML](https://www.w3.org/Math/whatIsMathML.html)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30414,6 +30445,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In 1998 the W3C first recommended MathML for representing mathematical expressions in the {{glossary("browser")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065059Z" creationid="Nachec" creationdate="20221021T065059Z">
+        <seg>En 1998, el W3C recomendó por primera vez MathML para representar expresiones matemáticas en el {{Glossary("browser")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In 2020, a new, secure approach has been standardized to re-enable shared memory.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T023633Z" creationid="gitnacho" creationdate="20220923T023633Z">
@@ -32746,6 +32785,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053658Z" creationid="gitnacho" creationdate="20221004T053658Z">
         <seg>Muchos proyectos se basan en autoconf/automake para generar código específico del sistema antes de la compilación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MathML has other applications also including scientific content and voice synthesis.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065109Z" creationid="Nachec" creationdate="20221021T065109Z">
+        <seg>MathML tiene otras aplicaciones que también incluyen contenido científico y síntesis de voz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56415,6 +56462,20 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190654Z" creationid="Nachec" creationdate="20221020T190654Z">
         <seg>- Reference
   - Referencia
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">glossary/mathml/index.md</prop>
+      <prop type="prev">- Mathematical Markup Language</prop>
+      <prop type="next">**MathML** (an {{glossary("XML")}} application) is an open standard for representing mathematical expressions in webpages.</prop>
+      <tuv lang="en-US">
+        <seg>- XML
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065014Z" creationid="Nachec" creationdate="20221021T065014Z">
+        <seg>- XML
 reviewer: Nachec
 ---</seg>
       </tuv>
