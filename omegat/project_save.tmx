@@ -2482,6 +2482,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### CSS-wide values</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234219Z" creationid="Nachec" creationdate="20221021T234219Z">
+        <seg>### Valores de todo el CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Caching</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T074841Z" creationid="gitnacho" creationdate="20221005T074841Z">
@@ -3362,6 +3370,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Pre-defined keyword values</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234047Z" creationid="Nachec" creationdate="20221021T234047Z">
+        <seg>### Valores de palabras clave predefinidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Preflighted requests</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222507Z" creationid="gitnacho" creationdate="20221011T222507Z">
@@ -3734,6 +3750,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T083227Z" creationid="gitnacho" creationdate="20221002T083227Z">
         <seg>### Tutoriales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### URLs</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234346Z" creationid="Nachec" creationdate="20221021T234346Z">
+        <seg>### URLs</seg>
       </tuv>
     </tu>
     <tu>
@@ -29334,6 +29358,14 @@ fields:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A fourth value of {{cssxref("revert")}} was added in the Cascade Level 4 specification, but it does not currently have good browser support.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234344Z" creationid="Nachec" creationdate="20221021T234344Z">
+        <seg>Se agregó un cuarto valor de {{CSSxRef("revert")}} en la especificación Cascade Level 4, pero actualmente no tiene un buen soporte en los navegadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A framework tends to take this idea further, offering a complete system with some custom syntaxes for you to write a web app on top of.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T165250Z" creationid="gitnacho" creationdate="20221012T165250Z">
@@ -35535,6 +35567,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to the pre-defined keywords that are part of the specification for a property, all CSS properties accept the CSS-wide property values {{cssxref("initial")}}, {{cssxref("inherit")}}, and {{cssxref("unset")}}, which explicitly specify defaulting behaviors.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234244Z" creationid="Nachec" creationdate="20221021T234244Z">
+        <seg>Además de las palabras clave predefinidas que forman parte de la especificación de una propiedad, todas las propiedades de CSS aceptan los valores de propiedad de todo el CSS {{CSSxRef("initial")}}, {{CSSxRef("inherit")}}, y {{CSSxRef("unset")}}, que especifican explícitamente los comportamientos predeterminados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to viewing WebAssembly as text, developers are able to debug (place breakpoints, inspect the callstack, single-step, etc.) WebAssembly using the text format.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181828Z" creationid="gitnacho" creationdate="20221006T181828Z">
@@ -39571,6 +39611,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pre-defined keywords are text values defined by the specification for that property.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234100Z" creationid="Nachec" creationdate="20221021T234100Z">
+        <seg>Las palabras clave predefinidas son valores de texto definidos por la especificación de esa propiedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preferably, include some more prose in this subsection to describe the result.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211216Z" creationid="gitnacho" creationdate="20221005T211159Z">
@@ -40890,6 +40938,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Such values are used without quotes:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234202Z" creationid="Nachec" creationdate="20221021T234202Z">
+        <seg>Dichos valores se utilizan sin comillas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>T</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210922T042513Z" creationid="gitnacho" creationdate="20210922T042513Z">
@@ -42151,6 +42207,22 @@ synchronously compile given WebAssembly binary code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `inherit` keyword represents the computed value of the property on the element's parent, provided it is inherited.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234309Z" creationid="Nachec" creationdate="20221021T234309Z">
+        <seg>La palabra clave `inherit` representa el valor calculado de la propiedad en el padre del elemento, siempre que se herede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `initial` keyword represents the value specified as the property's initial value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234257Z" creationid="Nachec" creationdate="20221021T234257Z">
+        <seg>La palabra clave `initial` representa el valor especificado como valor inicial de la propiedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `local.get`/`local.set` commands refer to the item to be got/set by its numeric index: parameters are referred to first, in order of their declaration, followed by locals in order of their declaration.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054624Z" creationid="gitnacho" creationdate="20221007T054624Z">
@@ -42235,6 +42307,14 @@ synchronously compile given WebAssembly binary code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T133733Z" creationid="gitnacho" creationdate="20221003T132943Z">
         <seg>En su lugar, se debe usar el atributo `type`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `unset` keyword acts as either `inherit` or `initial`, depending on whether the property is inherited or not.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234321Z" creationid="Nachec" creationdate="20221021T234321Z">
+        <seg>La palabra clave `unset` actúa como `inherit` o `initial`, dependiendo de si la propiedad se hereda o no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43217,6 +43297,14 @@ detalles en la consola:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080849Z" creationid="gitnacho" creationdate="20221008T080849Z">
         <seg>El siguiente fragmento crea una nueva instancia `RuntimeError` y registra sus detalles en la consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following values are the pre-defined keyword values allowed for {{cssxref("float")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234153Z" creationid="Nachec" creationdate="20221021T234153Z">
+        <seg>Los siguientes valores son los valores de palabras clave predefinidos permitidos para {{CSSxRef("float")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44935,6 +45023,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222403Z" creationid="Nachec" creationdate="20221020T222403Z">
         <seg>Estas instrucciones son independientes para los números con y sin signo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These keywords are also CSS Identifiers and are therefore used without quotes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234110Z" creationid="Nachec" creationdate="20221021T234110Z">
+        <seg>Estas palabras clave también son identificadores CSS y, por lo tanto, se usan sin comillas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49287,6 +49383,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When viewing CSS property value syntax in a CSS specification or the MDN property page, allowable keywords will be listed in the following form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234137Z" creationid="Nachec" creationdate="20221021T234137Z">
+        <seg>Al ver la sintaxis del valor de propiedad CSS en una especificación de CSS o en la página de propiedades de MDN, las palabras clave permitidas se enumerarán en al siguiente forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When viewing the [live example](https://mdn.github.io/webassembly-examples/js-api-examples/table2.html), open your developer console to display console log messages from the code snippets below.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T005252Z" creationid="gitnacho" creationdate="20221020T005252Z">
@@ -51507,6 +51611,16 @@ void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
 int result[2];
 EMSCRIPTEN_KEEPALIVE
 void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+.box {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234203Z" creationid="Nachec" creationdate="20221021T234203Z">
+        <seg>```css
+.box {</seg>
       </tuv>
     </tu>
     <tu>
@@ -54463,6 +54577,18 @@ function 0() {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T090043Z" creationid="gitnacho" creationdate="20221006T090043Z">
         <seg>```plain
 function 0() {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```plain
+left | right | none | inline-start | inline-end
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234155Z" creationid="Nachec" creationdate="20221021T234155Z">
+        <seg>```plain
+left | right | none | inline-start | inline-end
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -58364,6 +58490,18 @@ function clearHighlight() {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115852Z" creationid="gitnacho" creationdate="20221007T115852Z">
         <seg>first.onchange = () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>float: left;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234205Z" creationid="Nachec" creationdate="20221021T234205Z">
+        <seg>float: left;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
