@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"beforeEnd",</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192913Z" creationid="Nachec" creationdate="20221021T192913Z">
+        <seg>"beforeEnd",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"beforeend",</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103854Z" creationid="Nachec" creationdate="20221021T103854Z">
@@ -474,6 +482,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T224706Z" creationid="nachec" creationdate="20220804T224706Z">
         <seg>"charset",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"click",</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192910Z" creationid="Nachec" creationdate="20221021T192910Z">
+        <seg>"click",</seg>
       </tuv>
     </tu>
     <tu>
@@ -23606,6 +23622,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;div id="solution"&gt;&lt;/div&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192904Z" creationid="Nachec" creationdate="20221021T192904Z">
+        <seg>&lt;div id="solution"&gt;&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;div&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180622T062854Z" creationid="nacho" creationdate="20180622T062854Z">
@@ -23682,6 +23706,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013809Z" creationid="gitnacho" creationdate="20220901T013809Z">
         <seg>&lt;input</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input id="showSolution" type="button" value="Show solution" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192902Z" creationid="Nachec" creationdate="20221021T192902Z">
+        <seg>&lt;input id="showSolution" type="button" value="Muestra solución" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23838,6 +23870,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;li&gt;&lt;strong&gt;The &lt;code&gt;&amp;lt;mi&amp;gt;&lt;/code&gt; elements containing the "A" and "n" variables are rendered in italic&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193056Z" creationid="Nachec" creationdate="20221021T193056Z">
+        <seg>&gt;&gt;li&gt;in embargo, los elementos &lt;code&gt;&amp;lt;mi&amp;gt;&lt;/code&gt; con varios caracteres "𝔰𝔩" o cuyo carácter es "𝔽" todavía se muestran en posición vertical.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;El espaciado se agrega automáticamente alrededor de los elementos &lt;code&gt;&amp;lt;mo&amp;gt;&lt;/code&gt; cuyo texto es "∀", "∊", "=" o una coma&lt;/strong&gt;.
+
+Sin embargo, algunos de ellos no tienen espacios agregados antes, mientras que los paréntesis todavía no tienen espacios alrededor de ellos.&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;link</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085346Z" creationid="Nachec" creationdate="20221021T085346Z">
@@ -23962,6 +24006,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192834Z" creationid="Nachec" creationdate="20221021T192834Z">
+        <seg>&lt;mi&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi&gt;K&lt;/mi&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103831Z" creationid="Nachec" creationdate="20221021T103831Z">
@@ -23974,6 +24026,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090620Z" creationid="Nachec" creationdate="20221021T090620Z">
         <seg>&lt;mi&gt;T&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;Tr&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192840Z" creationid="Nachec" creationdate="20221021T192840Z">
+        <seg>&lt;mi&gt;Tr&lt;/mi&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24142,6 +24202,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;𝔰𝔩&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192836Z" creationid="Nachec" creationdate="20221021T192836Z">
+        <seg>&lt;mi&gt;𝔰𝔩&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;𝔽&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192837Z" creationid="Nachec" creationdate="20221021T192837Z">
+        <seg>&lt;mi&gt;𝔽&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mn&gt;0&lt;/mn&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090547Z" creationid="Nachec" creationdate="20221021T090547Z">
@@ -24258,6 +24334,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;,&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192836Z" creationid="Nachec" creationdate="20221021T192836Z">
+        <seg>&lt;mo&gt;,&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;.&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094543Z" creationid="Nachec" creationdate="20221021T094543Z">
@@ -24302,6 +24386,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103826Z" creationid="Nachec" creationdate="20221021T103826Z">
         <seg>&lt;mo&gt;→&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;∀&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192833Z" creationid="Nachec" creationdate="20221021T192833Z">
+        <seg>&lt;mo&gt;∀&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;∊&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192834Z" creationid="Nachec" creationdate="20221021T192834Z">
+        <seg>&lt;mo&gt;∊&lt;/mo&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29540,6 +29640,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192133Z" creationid="Nachec" creationdate="20221021T192133Z">
         <seg>Compara el renderizado de las letras gamma mayúsculas en la siguiente fórmula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare the visual rendering in your browser and explain the differences with the text-only version.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192832Z" creationid="Nachec" creationdate="20221021T192832Z">
+        <seg>Compara el renderizado visual en tu navegador y explica las diferencias con la versión de solo texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48034,6 +48142,14 @@ crate-type = ["cdylib"]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`&lt;ul&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192915Z" creationid="Nachec" creationdate="20221021T192915Z">
+        <seg>`&lt;ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Access-Control-Allow-Origin` specifies either a single origin which tells browsers to allow that origin to access the resource; or else — for requests **without** credentials — the "`*`" wildcard tells browsers to allow any origin to access the resource.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053803Z" creationid="gitnacho" creationdate="20221012T053803Z">
@@ -48630,6 +48746,16 @@ p.fancy {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103838Z" creationid="Nachec" creationdate="20221021T103838Z">
         <seg>```css hidden
 .highlight {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css hidden
+div {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192908Z" creationid="Nachec" creationdate="20221021T192908Z">
+        <seg>```css hidden
+div {</seg>
       </tuv>
     </tu>
     <tu>
@@ -50846,6 +50972,16 @@ const tokenElements = Array.from(</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191503Z" creationid="Nachec" creationdate="20221021T191503Z">
         <seg>```js hidden
 const tokenElements = Array.from(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js hidden
+document.getElementById("showSolution").addEventListener(</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192909Z" creationid="Nachec" creationdate="20221021T192909Z">
+        <seg>```js hidden
+document.getElementById("showSolution").addEventListener(</seg>
       </tuv>
     </tu>
     <tu>
@@ -54783,6 +54919,14 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112316Z" creationid="gitnacho" creationdate="20221003T112316Z">
         <seg>document.getElementById("mybutton").addEventListener("click", () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>document.getElementById("solution").insertAdjacentHTML(</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192912Z" creationid="Nachec" creationdate="20221021T192912Z">
+        <seg>document.getElementById("solution").insertAdjacentHTML(</seg>
       </tuv>
     </tu>
     <tu>
