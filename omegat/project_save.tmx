@@ -11009,6 +11009,19 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- MathML:Token Elements
+browser-compat: mathml.elements.mn
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T215849Z" creationid="Nachec" creationdate="20221021T215849Z">
+        <seg>- MathML:Token Elements
+browser-compat: mathml.elements.mn
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Mathematical Markup Language</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065000Z" creationid="Nachec" creationdate="20221021T065000Z">
@@ -19007,6 +19020,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: &lt;mn&gt;
+slug: Web/MathML/Element/mn
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T215826Z" creationid="Nachec" creationdate="20221021T215826Z">
+        <seg>---
+title: &lt;mn&gt;
+slug: Web/MathML/Element/mn
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: &lt;view&gt;
 slug: Web/SVG/Element/view
 tags:</seg>
@@ -25328,6 +25355,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mn&gt;0&lt;/mn&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220014Z" creationid="Nachec" creationdate="20221021T220014Z">
+        <seg>&lt;mn&gt;0&lt;/mn&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;1.337&lt;/mn&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220015Z" creationid="Nachec" creationdate="20221021T220015Z">
+        <seg>&lt;mn&gt;1.337&lt;/mn&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mn&gt;1&lt;/mn&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061501Z" creationid="Nachec" creationdate="20221021T061501Z">
@@ -25340,6 +25387,18 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060534Z" creationid="Nachec" creationdate="20221021T060534Z">
         <seg>&lt;mn&gt;2&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;2e10&lt;/mn&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220031Z" creationid="Nachec" creationdate="20221021T220031Z">
+        <seg>&lt;mn&gt;2e10&lt;/mn&gt;
+&lt;/math&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -25408,6 +25467,26 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060545Z" creationid="Nachec" creationdate="20221021T060545Z">
         <seg>&lt;mn&gt;9&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;XVI&lt;/mn&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220029Z" creationid="Nachec" creationdate="20221021T220029Z">
+        <seg>&lt;mn&gt;XVI&lt;/mn&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;twelve&lt;/mn&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220027Z" creationid="Nachec" creationdate="20221021T220027Z">
+        <seg>&lt;mn&gt;doce&lt;/mn&gt;
+&lt;/math&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28186,8 +28265,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt;) and some CSS notions on text styling (read &lt;a href="/en-US/docs/Learn/CSS/Styling_text/Fundamentals"&gt;fundamental text and font styling&lt;/a&gt; and</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184905Z" creationid="Nachec" creationdate="20221021T184905Z">
-        <seg>&gt;) y algunas nociones de CSS sobre estilizar texto (lee &lt;a href="/es/docs/Learn/CSS/Styling_text/Fundamentals"&gt;fundamentos para estilizar texto y fuente&lt;/a&gt; —*tipo de letra*— y</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T215717Z" creationid="Nachec" creationdate="20221021T184905Z">
+        <seg>&gt;) y algunas nociones de CSS sobre estilizar texto (lee &lt;a href="/es/docs/Learn/CSS/Styling_text/Fundamentals"&gt;fundamentos para estilizar texto y fuente&lt;/a&gt; —tipo de letra— y</seg>
       </tuv>
     </tu>
     <tu>
@@ -33457,6 +33536,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053016Z" creationid="gitnacho" creationdate="20220922T205737Z">
         <seg>Sin embargo, en aquellos casos en los que un *worker* tiene que arrancar antes de que pueda comenzar a obtener un recurso remoto, la demora puede ser significativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, it is also allowed to have arbitrary text in it which is actually a numeric quantity, for example "eleven".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220013Z" creationid="Nachec" creationdate="20221021T220013Z">
+        <seg>Sin embargo, también se permite tener texto arbitrario que en realidad sea una cantidad numérica, por ejemplo, "once".</seg>
       </tuv>
     </tu>
     <tu>
@@ -40254,6 +40341,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205659Z" creationid="Nachec" creationdate="20221021T205659Z">
         <seg>El elemento **`&lt;mi&gt;`** [MathML](/es/docs/Web/MathML) indica que el contenido se debe renderizar como un **identificador**, como nombres de funciones, variables o constantes simbólicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`&lt;mn&gt;`** [MathML](/en-US/docs/Web/MathML) element represents a **numeric** literal which is normally a sequence of digits with a possible separator (a dot or a comma).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T215939Z" creationid="Nachec" creationdate="20221021T215939Z">
+        <seg>El elemento **`&lt;mn&gt;`** [MathML](/es/docs/Web/MathML) representa un literal numérico —`numeric`— que normalmente es una secuencia de dígitos con un posible separador (un punto o un coma).</seg>
       </tuv>
     </tu>
     <tu>
