@@ -1320,6 +1320,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Modules</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063832Z" creationid="Nachec" creationdate="20221021T063832Z">
+        <seg>## Módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Multi-value WebAssembly</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T075055Z" creationid="gitnacho" creationdate="20221007T075055Z">
@@ -6673,6 +6681,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : MathML is the markup language used to write mathematical formulas in Web pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063855Z" creationid="Nachec" creationdate="20221021T063855Z">
+        <seg>- : MathML es el lenguaje de marcado utilizado para escribir fórmulas matemáticas en páginas web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : MathML lets you display complex mathematical notation on the Web.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T095140Z" creationid="gitnacho" creationdate="20221002T095140Z">
@@ -7627,6 +7643,14 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070757Z" creationid="gitnacho" creationdate="20221005T070757Z">
         <seg>- : La configuración regional del documento MDN actual
 - `env.title`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : The main entry point for MathML documentation on MDN, where you'll find detailed reference documentation for all features of the MathML language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063930Z" creationid="Nachec" creationdate="20221021T063930Z">
+        <seg>- : El principal punto de entrada para la documentación de MathML en MDN, donde encontrarás documentación de referencia detallada para todas las funciones del lenguaje MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12120,6 +12144,18 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Getting started with the Web](/en-US/docs/Learn/Getting_started_with_the_web)
+- [Introduction to HTML](/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [Introduction to CSS](/en-US/docs/Learn/CSS/First_steps)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063729Z" creationid="Nachec" creationdate="20221021T063729Z">
+        <seg>- [Primeros pasos en la Web](/es/docs/Learn/Getting_started_with_the_web)
+- [Introducción a HTML](/es/docs/Learn/HTML/Introduction_to_HTML)
+- [Introducción a CSS](/es/docs/Learn/CSS/First_steps)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Getting started with the web](/en-US/docs/Learn/Getting_started_with_the_web)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124242Z" creationid="gitnacho" creationdate="20221020T124242Z">
@@ -12407,6 +12443,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200735Z" creationid="gitnacho" creationdate="20221008T200735Z">
         <seg>- [Consejo asesor de productos de MDN](/es/docs/MDN/MDN_Product_Advisory_Board)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [MathML first steps](/en-US/docs/Learn/MathML/First_steps)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063845Z" creationid="Nachec" creationdate="20221021T063845Z">
+        <seg>- [Primeros pasos en MathML](/es/docs/Learn/MathML/First_steps)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [MathML on MDN](/en-US/docs/Web/MathML)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063916Z" creationid="Nachec" creationdate="20221021T063916Z">
+        <seg>- [MathML en MDN](/es/docs/Web/MathML)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27191,6 +27243,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consequently, you are strongly advised to get familiar with at least these two technologies first.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063702Z" creationid="Nachec" creationdate="20221021T063702Z">
+        <seg>En consecuencia, te recomendamos encarecidamente que primero te familiarices con al menos estas dos tecnologías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consider possible real-world use cases you might try to demonstrate.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205413Z" creationid="gitnacho" creationdate="20221005T205413Z">
@@ -35022,6 +35082,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some familiarity with mathematical notations and [TeX](https://en.wikipedia.org/wiki/TeX) rendering rules might also come in handy, even though required concepts will be explained as needed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063825Z" creationid="Nachec" creationdate="20221021T063825Z">
+        <seg>Cierta familiaridad con las notaciones matemáticas y las reglas de renderizado de [TeX](https://en.wikipedia.org/wiki/TeX) también puede ser útil, aunque los conceptos requeridos se explicarán según sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some mathematical concepts are sometimes written using fraction-like notations such [binomial coefficients](https://en.wikipedia.org/wiki/Combination) or [Legendre symbols](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061604Z" creationid="Nachec" creationdate="20221021T061604Z">
@@ -35106,6 +35174,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211002T055534Z" creationid="gitnacho" creationdate="20211002T055534Z">
         <seg>Específicamente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start by working through the following modules:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063709Z" creationid="Nachec" creationdate="20221021T063709Z">
+        <seg>Comienza trabajando a través de los siguientes módulos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40015,6 +40091,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a good place to go.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064007Z" creationid="Nachec" creationdate="20221021T064007Z">
+        <seg>Este es un buen lugar para ir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a good simple program to test whether you can get the source code of libwebp to compile, as it doesn't require any parameters or complex data structures to invoke this function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053512Z" creationid="gitnacho" creationdate="20221004T053512Z">
@@ -40595,6 +40679,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053838Z" creationid="gitnacho" creationdate="20221007T053838Z">
         <seg>Este módulo está totalmente vacío, pero sigue siendo un módulo válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This module provides a gentle beginning to your path towards MathML mastery with the basics of how it works, what the syntax looks like, and how you can start using it inside HTML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063909Z" creationid="Nachec" creationdate="20221021T063909Z">
+        <seg>Este módulo proporciona un comienzo suave en tu camino hacia el dominio de MathML con los conceptos básicos de cómo funciona, cómo se ve la sintaxis y cómo puedes comenzar a usarlo dentro de HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41736,6 +41828,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T041347Z" creationid="gitnacho" creationdate="20220921T041347Z">
         <seg>Esperar en `event.preloadResponse`, que se pasa como `preloadResponsePromise` a la función `cacheFirst`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Want to know all the values a property can take?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063939Z" creationid="Nachec" creationdate="20221021T063939Z">
+        <seg>¿Quieres saber todos los valores que puede tomar una propiedad?</seg>
       </tuv>
     </tu>
     <tu>
