@@ -888,6 +888,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Conversion from a simple syntax</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075751Z" creationid="Nachec" creationdate="20221021T075751Z">
+        <seg>## Conversión desde una sintaxis simple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Converting the text .wat into a binary .wasm file</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182700Z" creationid="gitnacho" creationdate="20221007T182700Z">
@@ -2150,6 +2158,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T095313Z" creationid="gitnacho" creationdate="20221012T095313Z">
         <seg>### Sugerencias para el cliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Client-side conversion</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075943Z" creationid="Nachec" creationdate="20221021T075943Z">
+        <seg>### Conversión de lado del cliente</seg>
       </tuv>
     </tu>
     <tu>
@@ -25311,6 +25327,14 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A [custom element](/en-US/docs/Web/Web_Components/Using_custom_elements) can be used to host the source code and ensure the corresponding MathML output is inserted and rendered via a [shadow subtree](/en-US/docs/Web/Web_Components/Using_shadow_DOM).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080104Z" creationid="Nachec" creationdate="20221021T080104Z">
+        <seg>Se puede usar un [elemento personalizado](/es/docs/Web/Web_Components/Using_custom_elements) para alojar el código fuente y garantizar que la salida de MathML correspondiente se inserte y renderice a través de un [subárbol oculto](/es/docs/Web/Web_Components/Using_shadow_DOM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A _simple request_ is one that **meets all the following conditions**:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220344Z" creationid="gitnacho" creationdate="20221011T220344Z">
@@ -31408,6 +31432,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T182026Z" creationid="gitnacho" creationdate="20221006T182026Z">
         <seg>En este modelo de memoria, cualquier carga o almacenamiento puede acceder a cualquier byte en toda la memoria lineal, lo cual es necesario para representar fielmente conceptos de C/C++ como punteros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this section, we review some tools to convert MathML from a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) such as the popular [LaTeX](https://en.wikipedia.org/wiki/LaTeX) language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075936Z" creationid="Nachec" creationdate="20221021T075936Z">
+        <seg>En esta sección, revisamos algunas herramientas para convertir MathML de un [lenguaje de marcado ligero](https://en.wikipedia.org/wiki/Lightweight_markup_language) como el popular lenguaje [LaTeX](https://es.wikipedia.org/wiki/LaTeX).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40661,6 +40693,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is probably the easiest option, but it also has some issues: extra JavaScript code must be loaded and executed, authors must escape reserved characters, Web crawlers won't have access to the MathML output...</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080027Z" creationid="Nachec" creationdate="20221021T080027Z">
+        <seg>Esta es probablemente la opción más fácil, pero también tiene algunos problemas: se debe cargar y ejecutar código JavaScript adicional, los autores deben escapar los caracteres reservados, los rastreadores web no tendrán acceso a la salida de MathML...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is really the same kind of procedure as installing a native or Firefox OS app — making everything available for use offline.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T022937Z" creationid="gitnacho" creationdate="20220921T022937Z">
@@ -43571,6 +43611,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T023846Z" creationid="gitnacho" creationdate="20220923T023846Z">
         <seg>Con estos dos encabezados configurados, `postMessage()` ya no arroja objetos `SharedArrayBuffer` y, por lo tanto, la memoria compartida entre subprocesos está disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With this approach, formulas are written directly in Web pages and a JavaScript library takes care of performing their conversion to MathML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080002Z" creationid="Nachec" creationdate="20221021T080002Z">
+        <seg>Con este enfoque, las fórmulas se escriben directamente en las páginas web y una biblioteca de JavaScript se encarga de realizar su conversión a MathML.</seg>
       </tuv>
     </tu>
     <tu>
