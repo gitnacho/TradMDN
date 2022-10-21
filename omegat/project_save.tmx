@@ -6251,6 +6251,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : An integer attribute indicating if the element can take input focus (is _focusable_), if it should participate to sequential keyboard navigation, and if so, at what position.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214518Z" creationid="Nachec" creationdate="20221021T214518Z">
+        <seg>- : Un atributo entero que indica si el elemento puede tomar el foco de entrada (es _enfocable_), si debe participar en la navegación secuencial del teclado y, de ser así, en qué posición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : An object containing the values to be imported into the newly-created</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101857Z" creationid="gitnacho" creationdate="20221006T101857Z">
@@ -6463,6 +6471,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T100924Z" creationid="gitnacho" creationdate="20221006T100924Z">
         <seg>- : Compila y crea instancias de un módulo WebAssembly directamente desde una fuente subyacente transmitida, devolviendo tanto un `Module` como su primera `Instance`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Contains [CSS](/en-US/docs/Web/CSS) styling declarations to be applied to the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214421Z" creationid="Nachec" creationdate="20221021T214421Z">
+        <seg>- : Contiene declaraciones de estilo [CSS](/es/docs/Web/CSS) que se aplicarán al elemento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8001,6 +8017,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052306Z" creationid="gitnacho" creationdate="20221005T052306Z">
         <seg>- : Ordena los elementos de un arreglo en su lugar y devuelve el arreglo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Specifies a [math-depth](/en-US/docs/Web/CSS/math-depth) for the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214311Z" creationid="Nachec" creationdate="20221021T214311Z">
+        <seg>- : Especifica una [`math-depth`](/es/docs/Web/CSS/math-depth) para el elemento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15049,6 +15073,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [`style`](/en-US/docs/Web/HTML/Global_attributes/style)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214352Z" creationid="Nachec" creationdate="20221021T214352Z">
+        <seg>- [`style`](/es/docs/Web/HTML/Global_attributes/style)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`tabindex`](/en-US/docs/Web/HTML/Global_attributes/tabindex)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214501Z" creationid="Nachec" creationdate="20221021T214501Z">
+        <seg>- [`tabindex`](/es/docs/Web/HTML/Global_attributes/tabindex)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [`unreachable`](/en-US/docs/WebAssembly/Reference/Control_flow/unreachable)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094830Z" creationid="gitnacho" creationdate="20221007T094830Z">
@@ -15163,6 +15203,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T105728Z" creationid="gitnacho" creationdate="20221003T105728Z">
         <seg>- `-o hello.html` — Especifica que queremos que Emscripten genere una página HTML para ejecutar nuestro código (y un nombre de archivo a usar), así como el módulo `wasm` y el código "pegamento" de JavaScript para compilar e instanciar el `wasm` para que se pueda utilizar en el entorno web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `0` means that the element should be focusable and reachable via sequential keyboard navigation, but its relative order is defined by the platform convention;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214550Z" creationid="Nachec" creationdate="20221021T214550Z">
+        <seg>- `0` significa que el elemento debe ser enfocable y accesible a través de la navegación secuencial del teclado, pero su orden relativo está definido por la convención de la plataforma;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16437,6 +16485,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T175019Z" creationid="gitnacho" creationdate="20221008T175019Z">
         <seg>- `yaml` - YAML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- a _negative value_ means that the element should be focusable, but should not be reachable via sequential keyboard navigation;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214537Z" creationid="Nachec" creationdate="20221021T214537Z">
+        <seg>- un _valor negativo_ significa que el elemento debe ser enfocable, pero no debe ser accesible a través de la navegación secuencial del teclado;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35764,6 +35820,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can take several values:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214525Z" creationid="Nachec" creationdate="20221021T214525Z">
+        <seg>Puede tomar varios valores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It contains `{}`s, where variables will be interpolated.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063422Z" creationid="gitnacho" creationdate="20221004T063422Z">
@@ -37760,6 +37824,14 @@ simple value.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that it is recommended for styles to be defined in a separate file or files.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214431Z" creationid="Nachec" creationdate="20221021T214431Z">
+        <seg>Ten en cuenta que se recomienda que los estilos se definan en un archivo o archivos separados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that most images on the web, including in Google Images, are copyrighted.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062707Z" creationid="gitnacho" creationdate="20221019T062707Z">
@@ -39334,6 +39406,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081139Z" creationid="gitnacho" creationdate="20221007T081139Z">
         <seg>Consulta la [Semántica de WebAssembly](https://webassembly.github.io/spec/core/exec/index.html) para ver el tratamiento de cada instrucción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the [scriptlevel page](/en-US/docs/Web/MathML/Global_attributes/scriptlevel#values) for accepted values and mapping.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214347Z" creationid="Nachec" creationdate="20221021T214347Z">
+        <seg>Consulta la [página a nivel de script](/es/docs/Web/MathML/Global_attributes/scriptlevel#valores) para conocer los valores aceptados y la asignación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44472,6 +44552,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122904Z" creationid="gitnacho" creationdate="20221003T122904Z">
         <seg>Este atributo permite la eliminación de **JavaScript que bloquea el analizador** donde el navegador tendría que cargar y evaluar scripts antes de continuar con el análisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This attribute and the {{MathMLElement("style")}} element have mainly the purpose of allowing for quick styling, for example for testing purposes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214457Z" creationid="Nachec" creationdate="20221021T214457Z">
+        <seg>Este atributo y el elemento {{MathMLElement("style")}} tienen principalmente el propósito de permitir un estilizado rápido, por ejemplo, con fines de prueba.</seg>
       </tuv>
     </tu>
     <tu>
