@@ -10350,8 +10350,9 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Guide</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T084738Z" creationid="gitnacho" creationdate="20220921T014611Z">
-        <seg>- Guía</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225637Z" creationid="gitnacho" creationdate="20220921T014611Z">
+        <seg>- Guide
+  - Guía</seg>
       </tuv>
     </tu>
     <tu>
@@ -17579,6 +17580,17 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- values and units
+spec-urls:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225720Z" creationid="Nachec" creationdate="20221021T225720Z">
+        <seg>- values and units
+  - valores y unidades
+spec-urls:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- waapi</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092439Z" creationid="gitnacho" creationdate="20221006T092439Z">
@@ -19611,6 +19623,22 @@ tags:</seg>
         <seg>---
 title: Conceptos básicos de CSS
 slug: Learn/Getting_started_with_the_web/CSS_basics
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: CSS values and units
+slug: Web/CSS/CSS_Values_and_Units
+page-type: guide
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225619Z" creationid="Nachec" creationdate="20221021T225619Z">
+        <seg>---
+title: Valores y unidades CSS
+slug: Web/CSS/CSS_Values_and_Units
+page-type: guide
 tags:</seg>
       </tuv>
     </tu>
