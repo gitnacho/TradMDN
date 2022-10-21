@@ -10886,6 +10886,17 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Project
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195518Z" creationid="Nachec" creationdate="20221021T195518Z">
+        <seg>- Project
+  - Proyecto
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Promise</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T233620Z" creationid="gitnacho" creationdate="20221002T072416Z">
@@ -18743,6 +18754,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Fonts for MathML
+slug: Web/MathML/Fonts
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195504Z" creationid="Nachec" creationdate="20221021T195504Z">
+        <seg>---
+title: Fuentes para MathML
+slug: Web/MathML/Fonts
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Front-end web developer
 slug: Learn/Front-end_web_developer
 tags:</seg>
@@ -23742,8 +23767,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;input id="showSolution" type="button" value="Show solution" /&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192902Z" creationid="Nachec" creationdate="20221021T192902Z">
-        <seg>&lt;input id="showSolution" type="button" value="Muestra solución" /&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195139Z" creationid="Nachec" creationdate="20221021T192902Z">
+        <seg>&lt;input id="showSolution" type="button" value="Mostrar solución" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32206,8 +32231,8 @@ la aplicación.</seg>
       <tuv lang="en-US">
         <seg>However, some of them have no spacing added before while the parentheses still have no spacing around them.&lt;/li&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193430Z" creationid="Nachec" creationdate="20221021T193430Z">
-        <seg>Sin embargo, algunos de ellos no tienen espacios agregados antes, mientras que los paréntesis todavía **no** tienen espacios alrededor de ellos.&lt;/li&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195050Z" creationid="Nachec" creationdate="20221021T193430Z">
+        <seg>Sin embargo, algunos de ellos no tienen espacios agregados antes, mientras que los paréntesis todavía no tienen espacios alrededor de ellos.&lt;/li&gt;</seg>
       </tuv>
     </tu>
     <tu>
