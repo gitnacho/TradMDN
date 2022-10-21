@@ -792,6 +792,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## A bit of semantics</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190958Z" creationid="Nachec" creationdate="20221021T190958Z">
+        <seg>## Un poco de semántica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## A first look at the text format</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182551Z" creationid="gitnacho" creationdate="20221007T182551Z">
@@ -11327,6 +11335,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183131Z" creationid="gitnacho" creationdate="20221008T183131Z">
         <seg>- El elemento `&lt;li&gt;` en el `&lt;ul&gt;` final anidado se analizará como un elemento GFM `&lt;li&gt;` y su contenido interno comprenderá el contenido de `&lt;dd&gt;`, excepto por los ": " iniciales, que serán descartados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The `&lt;mi&gt;` element, which represents an "identifier" which could be a symbolic name or arbitrary text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191133Z" creationid="Nachec" creationdate="20221021T191133Z">
+        <seg>- El elemento `&lt;mi&gt;`, representa un "identificador" que puede ser un nombre simbólico o un texto arbitrario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24476,6 +24492,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;p style="font-family: Latin Modern Math"&gt;∀A∊𝔰𝔩(n,𝔽),TrA=0&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190919Z" creationid="Nachec" creationdate="20221021T190919Z">
+        <seg>&lt;p style="font-family: Latin Modern Math"&gt;∀A∊𝔰𝔩(n,𝔽),TrA=0&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;p&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T060038Z" creationid="gitnacho" creationdate="20220828T060038Z">
@@ -32912,6 +32936,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, MathML provides multiple token elements in order to distinguish different meanings of the text content:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191105Z" creationid="Nachec" creationdate="20221021T191105Z">
+        <seg>Además, MathML proporciona múltiples elementos de toquen para distinguir diferentes significados del contenido del texto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, newer implementations can also create [shared memories](/en-US/docs/WebAssembly/Understanding_the_text_format#shared_memories), which can be transferred between Window and Worker contexts using [`postMessage()`](/en-US/docs/Web/API/Window/postMessage), and used in multiple places.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T112225Z" creationid="gitnacho" creationdate="20221006T182231Z">
@@ -35408,6 +35440,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053746Z" creationid="gitnacho" creationdate="20221004T053746Z">
         <seg>Module.onRuntimeInitialized = async () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More generally, every text in MathML formulas must be included inside such container elements, called _token_ elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191051Z" creationid="Nachec" creationdate="20221021T191051Z">
+        <seg>De manera más general, cada texto en las fórmulas de MathML se debe incluir dentro de dichos elementos contenedores, llamados elementos _toquen_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45149,6 +45189,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T113227Z" creationid="gitnacho" creationdate="20221006T113227Z">
         <seg>Necesitamos reflejar este espacio de nombres de dos niveles en JavaScript al escribir el objeto que se importará al módulo `wasm`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We noticed in the [getting started with MathML](/en-US/docs/Learn/MathML/First_steps/Getting_started) article that the text in MathML formulas are wrapped in specific container elements such as the `&lt;mn&gt;` or `&lt;mo&gt;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191021Z" creationid="Nachec" creationdate="20221021T191021Z">
+        <seg>Notamos en el artículo [introducción a MathML](/es/docs/Learn/MathML/First_steps/Getting_started) que el texto de las fórmulas de MathML está envuelto en elementos contenedores específicos, como `&lt;mn&gt;` o `&lt;mes&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58931,6 +58979,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181627Z" creationid="Nachec" creationdate="20221021T181627Z">
         <seg>{{ EmbedLiveSample('The_display_attribute', 700, 100, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Unicode_characters_for_mathematics', 700, 100, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190951Z" creationid="Nachec" creationdate="20221021T190951Z">
+        <seg>{{ EmbedLiveSample('Unicode_characters_for_mathematics', 700, 100, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
