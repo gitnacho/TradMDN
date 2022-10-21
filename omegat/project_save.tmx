@@ -3714,6 +3714,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Units</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223917Z" creationid="Nachec" creationdate="20221021T223917Z">
+        <seg>### Unidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### User-agent client hints</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092335Z" creationid="gitnacho" creationdate="20221012T092335Z">
@@ -15378,6 +15386,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070003Z" creationid="gitnacho" creationdate="20221005T070003Z">
         <seg>- `&lt;%= expr %&gt;` — el valor de una expresión de JavaScript se escapa para HTML antes de incluirse en la salida (por ejemplo, caracteres como `&lt;` y `&gt;` se convierten en `&amp;lt;` y `&amp;gt;`) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `&lt;boolean&gt;`: A string `true` or `false` representing a boolean value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223732Z" creationid="Nachec" creationdate="20221021T223732Z">
+        <seg>- `&lt;boolean&gt;`: Una cadena `true` o `false` que representa un valor booleano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29412,6 +29428,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accepted values included non-zero unitless length values (e.g. `5` to mean `500%`), values containing numbers ending with a dot (e.g. `34.px`), or named spaces (e.g. `thinmathspace`).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223839Z" creationid="Nachec" creationdate="20221021T223839Z">
+        <seg>Los valores aceptados incluían valores de longitud sin unidad distintos de cero (por ejemplo, `5` para significar `500%`), valores que contienen números que terminan con un punto (por ejemplo, `34.px`) o espacios con nombre (por ejemplo, `thinmathspace`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accessing the `buffer` property after calling `grow`, will yield an `ArrayBuffer` with the correct length.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214350Z" creationid="gitnacho" creationdate="20221019T214350Z">
@@ -32628,6 +32652,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080441Z" creationid="Nachec" creationdate="20221021T080441Z">
         <seg>Para los autores que no están familiarizados con LaTeX, existen métodos de entrada alternativos, como la sintaxis [ASCIIMath](http://asciimath.org/#syntax) o [jqMath](https://mathscribe.com/author/jqmath.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For compatibility reasons, it is recommended to replace non-zero unitless length values with equivalent [`&lt;percentage&gt;`](/en-US/docs/Web/CSS/percentage) values, to remove unnecessary dots in numbers, and to use the following replacement for named lengths:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223903Z" creationid="Nachec" creationdate="20221021T223903Z">
+        <seg>Por razones de compatibilidad, se recomienda reemplazar los valores de longitud sin unidades distintos de cero con valores equivalentes de [`&lt;percentage&gt;`](/es/docs/Web/CSS/percentage), para eliminar los puntos innecesarios en los números y usar el siguiente reemplazo para las longitudes nombradas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36047,6 +36079,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053050Z" creationid="gitnacho" creationdate="20220921T022851Z">
         <seg>Se intenta la instalación del *worker* cuando se accede posteriormente a las páginas controladas por el *service worker*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of [`&lt;length-percentage&gt;`](/en-US/docs/Web/CSS/length-percentage), MathML used to define its own [type to describe lengths](https://www.w3.org/TR/MathML3/chapter2.html#type.length).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223818Z" creationid="Nachec" creationdate="20221021T223818Z">
+        <seg>En lugar de [`&lt;length-percentage&gt;`](/es/docs/Web/CSS/length-percentage), MathML solía definir su propio [tipo para describir longitudes](https://www.w3.org/TR/MathML3/chapter2.html#type.length).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50629,6 +50669,30 @@ f32.const -54.1</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```
+veryverythinmathspace  =&gt; 0.05555555555555555em
+verythinmathspace      =&gt; 0.1111111111111111em
+thinmathspace          =&gt; 0.16666666666666666em
+mediummathspace        =&gt; 0.2222222222222222em
+thickmathspace         =&gt; 0.2777777777777778em
+verythickmathspace     =&gt; 0.3333333333333333em
+veryverythickmathspace =&gt; 0.3888888888888889em
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223909Z" creationid="Nachec" creationdate="20221021T223909Z">
+        <seg>```
+veryverythinmathspace  =&gt; 0.05555555555555555em
+verythinmathspace      =&gt; 0.1111111111111111em
+thinmathspace          =&gt; 0.16666666666666666em
+mediummathspace        =&gt; 0.2222222222222222em
+thickmathspace         =&gt; 0.2777777777777778em
+verythickmathspace     =&gt; 0.3333333333333333em
+veryverythickmathspace =&gt; 0.3888888888888889em
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```
 {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T055855Z" creationid="gitnacho" creationdate="20221005T055855Z">
@@ -62573,6 +62637,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{deprecated_header}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223733Z" creationid="Nachec" creationdate="20221021T223733Z">
+        <seg>{{deprecated_header}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{jsxref("ArrayBuffer")}} containing the binary code of the .wasm module you want to</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T193458Z">
@@ -62917,6 +62989,20 @@ console.log(uintc8FromIterable);
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185626Z" creationid="gitnacho" creationdate="20221008T185626Z">
         <seg>| Algo corto | Algo corto |
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Unit | Description                                                                                                                 |
+| ---- | --------------------------------------------------------------------------------------------------------------------------- |
+| `em` | {{ Cssxref("font-size", "Font-relative") }} unit                                                               |
+| `ex` | {{ Cssxref("font-size", "Font-relative") }} unit.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224058Z" creationid="Nachec" creationdate="20221021T224058Z">
+        <seg>| Unidad | Descripción |
+| - | - |
+| `em` | unidad {{ Cssxref("font-size", "Font-relative") }} |
+| `ex` | unidad {{ Cssxref("font-size", "Font-relative") }}.</seg>
       </tuv>
     </tu>
     <tu>
