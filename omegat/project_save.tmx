@@ -1408,6 +1408,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Installation instructions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200848Z" creationid="Nachec" creationdate="20221021T200848Z">
+        <seg>## Instrucciones de instalación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Instance methods</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T051007Z" creationid="gitnacho" creationdate="20221005T051007Z">
@@ -28810,6 +28818,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a general rule of thumb, it is recommended to install both _Latin Modern Math_ (which uses [Computer Modern](https://en.wikipedia.org/wiki/Computer_Modern) style popular for math formulas) and _STIX Two Math_ (which has large unicode coverage for scientific characters).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200916Z" creationid="Nachec" creationdate="20221021T200916Z">
+        <seg>Como regla general, se recomienda instalar _Latin Modern Math_ (que usa el estilo [*Computer Modern*](https://en.wikipedia.org/wiki/Computer_Modern) popular para fórmulas matemáticas) y _STIX Two Math_ (que tiene una gran cobertura Unicode para caracteres científicos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a semi-experimental feature (not guaranteed to work), you can supply a JSON object for the first and only parameter, like so:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065357Z" creationid="gitnacho" creationdate="20221005T065357Z">
@@ -30243,6 +30259,22 @@ call, and it will pass the response into the function when it fulfills.</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T141017Z" creationid="gitnacho" creationdate="20221002T141017Z">
         <seg>Descarga
 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download [latinmodern-math-1959.zip](https://www.gust.org.pl/projects/e-foundry/lm-math/download/latinmodern-math-1959.zip).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201001Z" creationid="Nachec" creationdate="20221021T201001Z">
+        <seg>Descarga [latinmodern-math-1959.zip](https://www.gust.org.pl/projects/e-foundry/lm-math/download/latinmodern-math-1959.zip).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download [static_otf.zip](https://raw.githubusercontent.com/stipub/stixfonts/master/zipfiles/static_otf.zip).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201101Z" creationid="Nachec" creationdate="20221021T201101Z">
+        <seg>Descarga [static_otf.zip](https://raw.githubusercontent.com/stipub/stixfonts/master/zipfiles/static_otf.zip).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33980,6 +34012,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the next sections, you will find detailed instructions to install these fonts in various operating systems.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200929Z" creationid="Nachec" creationdate="20221021T200929Z">
+        <seg>En las siguientes secciones, encontrarás instrucciones detalladas para instalar estas fuentes en varios sistemas operativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the next sections, you will find other useful tips for installation and
 configuration of fonts for MathML.</seg>
       </tuv>
@@ -34320,6 +34360,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061330Z" creationid="gitnacho" creationdate="20221004T061330Z">
         <seg>Instala Rust yendo a la página [Instalar Rust](https://www.rust-lang.org/tools/install) y sigue las instrucciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install the _Latin Modern Math_ and _STIX Two Math_ fonts as follows:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200942Z" creationid="Nachec" creationdate="20221021T200942Z">
+        <seg>Instala las fuentes _Latin Modern Math_ y _STIX Two Math_ de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37195,6 +37243,30 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T111317Z" creationid="gitnacho" creationdate="20221003T111317Z">
         <seg>Ábrelo en tu navegador y verás casi el mismo resultado que el último ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the ZIP archive, move inside the `latinmodern-math-1959` directory and then inside the `otf` directory.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201023Z" creationid="Nachec" creationdate="20221021T201023Z">
+        <seg>Abre el archivo ZIP, muévete dentro del directorio `latinmodern-math-1959` y luego dentro del directorio `otf`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the `latinmodern-math` font file and click the **Install** button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201047Z" creationid="Nachec" creationdate="20221021T201047Z">
+        <seg>Abre el archivo de fuente `latinmodern-math` y haz clic en el botón **Instalar**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the `static_otf.zip` ZIP archive, and then move inside the `static_otf` directory.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201118Z" creationid="Nachec" creationdate="20221021T201118Z">
+        <seg>Abre el archivo ZIP `static_otf.zip` y luego muévete dentro del directorio `static_otf`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44471,6 +44543,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This page describes how users can install such math fonts to properly display MathML in browsers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200843Z" creationid="Nachec" creationdate="20221021T200843Z">
+        <seg>Esta página describe cómo los usuarios pueden instalar dichas fuentes matemáticas para mostrar correctamente MathML en los navegadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This page describes how we use Markdown to write documentation on MDN Web Docs.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T173516Z" creationid="gitnacho" creationdate="20221008T173516Z">
@@ -47813,6 +47893,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T211248Z" creationid="gitnacho" creationdate="20220911T211248Z">
         <seg>Utiliza esta interfaz para recuperar datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will find a `latinmodern-math` font file.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201032Z" creationid="Nachec" creationdate="20221021T201032Z">
+        <seg>Encontrarás un archivo de fuente `latinmodern-math`.</seg>
       </tuv>
     </tu>
     <tu>
