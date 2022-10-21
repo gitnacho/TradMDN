@@ -14255,6 +14255,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- _largeop_: The operator is drawn with a bigger glyph if the `&lt;math&gt;` tag has a `display="block"` attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105916Z" creationid="Nachec" creationdate="20221021T105916Z">
+        <seg>- _largeop_: El operador se dibuja con un glifo más grande si la etiqueta `&lt;math&gt;` tiene un atributo `display="block"`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `"activated"`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223800Z" creationid="gitnacho" creationdate="20221003T223800Z">
@@ -30011,6 +30019,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Focusing on the summation symbol, one can notice that the sigma is drawn smaller and that the scripts of the `&lt;munderover&gt;` element are now attached as a subscript and a superscript!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105843Z" creationid="Nachec" creationdate="20221021T105843Z">
+        <seg>Enfocándonos en el símbolo de suma, podemos notar que el sigma se dibuja más pequeño y que los scripts del elemento `&lt;munderover&gt;` ahora se adjuntan como un subíndice y un superíndice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211102T195511Z" creationid="gitnacho" creationdate="20211102T195511Z">
@@ -42547,6 +42563,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064500Z" creationid="gitnacho" creationdate="20221004T064500Z">
         <seg>Esto va más allá del alcance de este tutorial, pero si deseas obtener más información, consulta la documentación del grupo de trabajo de Rust WebAssembly sobre [Reducción del tamaño de .wasm](https://rustwasm.github.io/book/game-of -life/code-size.html#shrinking-wasm-size).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is due to two properties of the "∑" operator:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105850Z" creationid="Nachec" creationdate="20221021T105850Z">
+        <seg>Esto se debe a dos propiedades del operador "∑":</seg>
       </tuv>
     </tu>
     <tu>
