@@ -21691,6 +21691,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a href="/en-US/docs/Learn/HTML/Introduction_to_HTML"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055908Z" creationid="Nachec" creationdate="20221021T055908Z">
+        <seg>&lt;a href="/es/docs/Learn/HTML/Introduction_to_HTML"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a href="/en-US/docs/Web/CSS/Reference"&gt;CSS Reference&lt;/a&gt; (/Web/CSS/Reference)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200742Z" creationid="gitnacho" creationdate="20221005T105246Z">
@@ -22529,6 +22537,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;table&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055715Z" creationid="Nachec" creationdate="20221021T055715Z">
+        <seg>&lt;table&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;tbody&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201210T200312Z" creationid="nacho" creationdate="20201210T200312Z">
@@ -22781,6 +22797,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T121935Z" creationid="gitnacho" creationdate="20221003T121935Z">
         <seg>&lt;th scope="row"&gt;Padres permitidos&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Prerequisites:&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055731Z" creationid="Nachec" creationdate="20221021T055731Z">
+        <seg>&lt;th scope="row"&gt;Requisitos previos:&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24153,6 +24177,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;, and HTML basics (study</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055859Z" creationid="Nachec" creationdate="20221021T055859Z">
+        <seg>&gt;, y conceptos básicos de HTML (estudiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;, basic knowledge of</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055818Z" creationid="Nachec" creationdate="20221021T055818Z">
+        <seg>&gt;, conocimientos básicos de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;, or any element that accepts</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122107Z" creationid="gitnacho" creationdate="20221003T122107Z">
@@ -24233,6 +24273,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;basic software installed&lt;/a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055809Z" creationid="Nachec" creationdate="20221021T055809Z">
+        <seg>&gt;software básico instalado&lt;/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;metadata content&lt;/a</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122042Z" creationid="gitnacho" creationdate="20221003T122042Z">
@@ -24245,6 +24293,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T104638Z" creationid="gitnacho" creationdate="20221003T122131Z">
         <seg>&gt;redacción de contenido&lt;/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;working with files&lt;/a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055833Z" creationid="Nachec" creationdate="20221021T055833Z">
+        <seg>&gt;trabajar con archivos&lt;/a</seg>
       </tuv>
     </tu>
     <tu>
@@ -25646,6 +25702,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201125T191935Z" creationid="nacho" creationdate="20201125T191935Z">
         <seg>B,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basic computer literacy,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055744Z" creationid="Nachec" creationdate="20221021T055744Z">
+        <seg>Alfabetización informática básica,</seg>
       </tuv>
     </tu>
     <tu>
@@ -33169,6 +33233,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080120Z" creationid="gitnacho" creationdate="20221017T211812Z">
         <seg>Las redirecciones tienen cabeceras ({{HTTPHeader("Location")}}) obligatorias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relying on text containers, this article describes how to build more complex MathML expressions by nesting fractions and roots.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055712Z" creationid="Nachec" creationdate="20221021T055712Z">
+        <seg>Basándose en contenedores de texto, este artículo describe cómo crear expresiones MathML más complejas anidando fracciones y raíces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50402,6 +50474,22 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T075638Z" creationid="gitnacho" creationdate="20220828T075638Z">
         <seg>height="25"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>href="/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055824Z" creationid="Nachec" creationdate="20221021T055824Z">
+        <seg>href="/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>href="/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055754Z" creationid="Nachec" creationdate="20221021T055754Z">
+        <seg>href="/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software"</seg>
       </tuv>
     </tu>
     <tu>
