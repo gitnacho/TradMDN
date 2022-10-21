@@ -10003,9 +10003,9 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- Landing</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T075350Z" creationid="gitnacho" creationdate="20221002T001810Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083031Z" creationid="gitnacho" creationdate="20221002T001810Z">
         <seg>- Landing
-  - Aterrizaje</seg>
+  - Destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -15215,6 +15215,17 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- first steps
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083046Z" creationid="Nachec" creationdate="20221021T083046Z">
+        <seg>- first steps
+  - primeros pasos
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- get</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091231Z" creationid="gitnacho" creationdate="20221006T091231Z">
@@ -18424,6 +18435,20 @@ tags:</seg>
         <seg>---
 title: MathML
 slug: Glossary/MathML
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: MathML first steps overview
+slug: Learn/MathML/First_steps
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083010Z" creationid="Nachec" creationdate="20221021T083010Z">
+        <seg>---
+title: Primeros pasos en MathML
+slug: Learn/MathML/First_steps
 tags:</seg>
       </tuv>
     </tu>
@@ -57448,6 +57473,21 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T054016Z" creationid="Nachec" creationdate="20221021T054016Z">
         <seg>- Landing
   - Destino
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/mathml/first_steps/index.md</prop>
+      <prop type="prev">- Landing</prop>
+      <prop type="next">{{LearnSidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- first steps
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083108Z" creationid="Nachec" creationdate="20221021T083108Z">
+        <seg>- first steps
+  - primeros pasos
 reviewer: Nachec
 ---</seg>
       </tuv>
