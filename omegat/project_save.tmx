@@ -1488,6 +1488,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## List of global attributes</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213250Z" creationid="Nachec" creationdate="20221021T213250Z">
+        <seg>## Lista de atributos globales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Low entropy hints</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092055Z" creationid="gitnacho" creationdate="20221012T092055Z">
@@ -5412,6 +5420,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Global attributes** are attributes common to all MathML elements; they can be used on all elements, though they may have no effect on some elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213118Z" creationid="Nachec" creationdate="20221021T213118Z">
+        <seg>**Atributos globales** son atributos comunes a todos los elementos de MathML; se pueden usar en todos los elementos, aunque es posible que no tengan ningún efecto en algunos elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**HTTPS** (**_HyperText Transfer Protocol Secure_**) is an encrypted version of the {{Glossary("HTTP")}} protocol.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T202103Z" creationid="gitnacho" creationdate="20221018T202103Z">
@@ -9234,6 +9250,15 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Attribute</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213041Z" creationid="Nachec" creationdate="20221021T213041Z">
+        <seg>- Attribute
+  - Atributo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Babylon.js</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T085826Z" creationid="gitnacho" creationdate="20221002T085826Z">
@@ -11725,6 +11750,16 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- The [event handler](/en-US/docs/Web/Events/Event_handlers) attributes such as **`onclick`**, **`onfocus`**, etc.
+- The [`href`](/en-US/docs/Web/MathML/Global_attributes/href) attribute for making MathML element a hyperlink.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213241Z" creationid="Nachec" creationdate="20221021T213241Z">
+        <seg>- Los atributos [controladores de eventos](/es/docs/Web/Events/Event_handlers) como **`onclick`**, **`onfocus`**, etc.
+- El atributo [`href`](/es/docs/Web/MathML/Global_attributes/href) para hacer que el elemento MathML sea un hipervínculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- The `$throwException` function throws an exception using the `throw` instruction, taking the `$tagname` and the parameter argument.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023302Z" creationid="gitnacho" creationdate="20221008T023302Z">
@@ -12276,6 +12311,19 @@ browser-compat: javascript.builtins.SharedArrayBuffer
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T104058Z" creationid="gitnacho" creationdate="20221002T001812Z">
         <seg>- Web
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Web
+browser-compat: mathml.global_attributes
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213100Z" creationid="Nachec" creationdate="20221021T213100Z">
+        <seg>- Web
+browser-compat: mathml.global_attributes
+reviewer: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -14755,6 +14803,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094523Z" creationid="gitnacho" creationdate="20221007T094523Z">
         <seg>- [`call`](/es/docs/WebAssembly/Reference/Control_flow/call)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`class`](/en-US/docs/Web/HTML/Global_attributes/class)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213255Z" creationid="Nachec" creationdate="20221021T213255Z">
+        <seg>- [`class`](/es/docs/Web/HTML/Global_attributes/class)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19359,6 +19415,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Global attributes
+slug: Web/MathML/Global_attributes
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213032Z" creationid="Nachec" creationdate="20221021T213032Z">
+        <seg>---
+title: Atributos globales
+slug: Web/MathML/Global_attributes
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Grow
 slug: WebAssembly/Reference/Memory/Grow
 tags:</seg>
@@ -23040,6 +23110,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;!-- Multiple characters, default mathvariant is "normal".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212835Z" creationid="Nachec" creationdate="20221021T212835Z">
+        <seg>&lt;!-- Múltiples caracteres, la variante matemática predeterminada es "normal".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- Overriding default mathvariant.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212921Z" creationid="Nachec" creationdate="20221021T212911Z">
+        <seg>&lt;!-- Redefine la variante matemática predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- Single character, default mathvariant is "italic".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212846Z" creationid="Nachec" creationdate="20221021T212846Z">
+        <seg>&lt;!-- Un solo carácter, la variante matemática predeterminada es "italic".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;!-- Static --&gt;
 &lt;script&gt;</seg>
       </tuv>
@@ -24706,6 +24800,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi mathvariant="normal"&gt;F&lt;/mi&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212915Z" creationid="Nachec" creationdate="20221021T212915Z">
+        <seg>&lt;mi mathvariant="normal"&gt;F&lt;/mi&gt;
+&lt;/math&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi mathvariant="normal"&gt;Γ&lt;/mi&gt;
 &lt;/math&gt;
 ```</seg>
@@ -24830,6 +24936,16 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;sin&lt;/mi&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212836Z" creationid="Nachec" creationdate="20221021T212836Z">
+        <seg>&lt;mi&gt;sin&lt;/mi&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi&gt;t&lt;/mi&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090548Z" creationid="Nachec" creationdate="20221021T090548Z">
@@ -24870,6 +24986,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090555Z" creationid="Nachec" creationdate="20221021T090555Z">
         <seg>&lt;mi&gt;y&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;y&lt;/mi&gt;
+&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212847Z" creationid="Nachec" creationdate="20221021T212847Z">
+        <seg>&lt;mi&gt;y&lt;/mi&gt;
+&lt;/math&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31691,6 +31817,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For `&lt;mi&gt;` elements that contain a single character, the default value of the [`mathvariant`](/en-US/docs/Web/MathML/Global_attributes/mathvariant) attribute is `italic`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212826Z" creationid="Nachec" creationdate="20221021T212826Z">
+        <seg>Para los elementos `&lt;mi&gt;` que contienen un solo carácter, el valor predeterminado del atributo [`mathvariant`](/es/docs/Web/MathML/Global_attributes/mathvariant) es `italic`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a complete tutorial to show how to build up your first basic example, read [Using Service Workers](/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T145213Z" creationid="gitnacho" creationdate="20221002T145213Z">
@@ -32523,6 +32657,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224953Z" creationid="gitnacho" creationdate="20221018T224953Z">
         <seg>Dada la complejidad de trabajar con formularios, es un tema dedicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Global attributes may be specified on all [MathML elements](/en-US/docs/Web/MathML/Element), _even those not specified in the standard_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213139Z" creationid="Nachec" creationdate="20221021T213139Z">
+        <seg>Los atributos globales se pueden especificar en todos los [elementos de MathML](/es/docs/Web/MathML/Element), _incluso en aquellos que no están especificados en el estándar_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34325,6 +34467,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T085858Z" creationid="gitnacho" creationdate="20221003T081057Z">
         <seg>En resumen, el proceso es el siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the basic MathML global attributes, the following global attributes also exist:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213208Z" creationid="Nachec" creationdate="20221021T213208Z">
+        <seg>Además de los atributos globales básicos de MathML, también existen los siguientes atributos globales:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39716,6 +39866,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That means that any non-standard elements must still permit these attributes, even though using those elements means that the document is no longer MathML-compliant.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213158Z" creationid="Nachec" creationdate="20221021T213158Z">
+        <seg>Eso significa que cualquier elemento no estándar aún debe permitir estos atributos, aunque el uso de esos elementos signifique que el documento ya no es compatible con MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That page does contain any [`script`](/en-US/docs/Web/HTML/Element/script) tag.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080731Z" creationid="Nachec" creationdate="20221021T080731Z">
@@ -44286,6 +44444,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T212549Z" creationid="gitnacho" creationdate="20220921T034740Z">
         <seg>Esto no tiene mucho de un uso distinto la primera vez que se instala/activa tu *service worker*, pero significa más cuando se actualiza el *service worker* (consulta la sección [Actualizar tu *service worker*](#actualizar_tu_service_worker) más adelante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This element accepts the [global MathML attributes](/en-US/docs/Web/MathML/Global_attributes).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212758Z" creationid="Nachec" creationdate="20221021T212758Z">
+        <seg>Este elemento acepta los [atributos globales de MathML](/es/docs/Web/MathML/Global_attributes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61080,6 +61246,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184017Z" creationid="Nachec" creationdate="20221021T184017Z">
         <seg>{{ EmbedLiveSample('math_example', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('mi_example', 700, 200, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212924Z" creationid="Nachec" creationdate="20221021T212924Z">
+        <seg>{{ EmbedLiveSample('mi_example', 700, 200, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
