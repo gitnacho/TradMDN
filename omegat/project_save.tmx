@@ -2674,6 +2674,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Fonts with a MATH table</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190749Z" creationid="Nachec" creationdate="20221021T190749Z">
+        <seg>### Fuentes en una tabla MATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Force templates used on a page to be reloaded</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T075221Z" creationid="gitnacho" creationdate="20221005T075221Z">
@@ -31434,6 +31442,14 @@ Connection: Keep-Alive
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here is a basic template to use UTF-8 encoding and the [Latin Modern Math](/en-US/docs/Web/MathML/Fonts#fonts_with_a_math_table) font:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190913Z" creationid="Nachec" creationdate="20221021T190704Z">
+        <seg>Aquí hay una plantilla básica para usar la codificación UTF-8 y la fuente [*Latin Modern Math*](/es/docs/Web/MathML/Fonts#fuentes_en_una_tabla_math):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here is a sample exchange between client and server:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230607Z" creationid="gitnacho" creationdate="20221011T230607Z">
@@ -37467,10 +37483,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Since most of these characters are not part of Basic Latin Unicode block, it is recommended to specify your [document's character encoding](/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#specifying_your_documents_character_encoding) and to serve it with appropriate [web fonts](/en-US/docs/Learn/CSS/Styling_text/Web_fonts).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190157Z" creationid="Nachec" creationdate="20221021T190157Z">
-        <seg>Dado que la mayoría de estos caracteres no forman parte del bloque *Basic Latin Unicode*, se recomienda especificar su [codificación de caracteres del documento](/es/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#specifying_your_documents_character_encoding) y servirlo con [ fuentes web](/en-US/docs/Learn/CSS/Styling_text/Web_fonts).
-
-Aquí hay una plantilla básica para usar la codificación UTF-8 y la fuente [Latin Modern Math](/en-US/docs/Web/MathML/Fonts#fonts_with_a_math_table):</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190624Z" creationid="Nachec" creationdate="20221021T190157Z">
+        <seg>Dado que la mayoría de estos caracteres no forman parte del bloque *Basic Latin Unicode*, se recomienda especificar su [codificación de caracteres del documento](/es/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#especificar_la_codificación_de_caracteres_de_tu_documento) y servirlo con [fuentes web](/es/docs/Learn/CSS/Styling_text/Web_fonts).</seg>
       </tuv>
     </tu>
     <tu>
