@@ -22335,6 +22335,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="The square root of 'eight minus nine'." data-highlight="msqrt2"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061003Z" creationid="Nachec" creationdate="20221021T061003Z">
+        <seg>&lt;input type="checkbox" data-comment="La raíz cuadrada de 'ocho menos nueve'." data-highlight="msqrt2"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="The square root of two over the cubic root of four." data-highlight="mfrac1"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061041Z" creationid="Nachec" creationdate="20221021T061041Z">
+        <seg>&lt;input type="checkbox" data-comment="La raíz cuadrada de dos sobre la raíz cúbica de cuatro". data-highlight="mfrac1"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="checkbox" data-comment="The square root of two." data-highlight="msqrt1"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060842Z" creationid="Nachec" creationdate="20221021T060842Z">
@@ -22355,6 +22371,30 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060601Z" creationid="Nachec" creationdate="20221021T060601Z">
         <seg>&lt;input type="checkbox" data-comment="¡Verifica el orden de los hijos en un mfrac!"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="Verify the order of children in an mroot!"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060915Z" creationid="Nachec" creationdate="20221021T060915Z">
+        <seg>&lt;input type="checkbox" data-comment="¡Verifica el orden de los hijos en un mroot!"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="mfrac must have exactly two children!"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061125Z" creationid="Nachec" creationdate="20221021T061125Z">
+        <seg>&lt;input type="checkbox" data-comment="mfrac debe tener exactamente dos hijos!"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="mroot must have exactly two children!"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061141Z" creationid="Nachec" creationdate="20221021T061141Z">
+        <seg>&lt;input type="checkbox" data-comment="mroot debe tener exactamente dos hijos!"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25744,6 +25784,30 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An mfrac with an msqrt as its first child and an mroot as its second child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061112Z" creationid="Nachec" creationdate="20221021T061112Z">
+        <seg>Un mfrac con un msqrt como su primer hijo y un mroot como su segundo hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An mfrac with the following list of children: msqrt, mn, msqrt.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061131Z" creationid="Nachec" creationdate="20221021T061131Z">
+        <seg>Un mfrac con la siguiente lista de hijos: msqrt, mn, msqrt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An mroot with an mfrac as its first child and mn as its second child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060925Z" creationid="Nachec" creationdate="20221021T060925Z">
+        <seg>Un mroot con un mfrac como su primer hijo y mn como su segundo hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An mroot with an mn as its first child and mfrac as its second child.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060739Z" creationid="Nachec" creationdate="20221021T060739Z">
@@ -25752,10 +25816,34 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An mroot with one mn child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061158Z" creationid="Nachec" creationdate="20221021T061158Z">
+        <seg>Un mroot con un hijo mn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An msqrt containing an mfrac element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060807Z" creationid="Nachec" creationdate="20221021T060807Z">
         <seg>Un msqrt que contiene un elemento mfrac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An msqrt with one mn child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060857Z" creationid="Nachec" creationdate="20221021T060857Z">
+        <seg>Un msqrt con un niño mn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An msqrt with the following list of children: mn, mo, mn.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061012Z" creationid="Nachec" creationdate="20221021T061012Z">
+        <seg>Un msqrt con la siguiente lista de hijos: mn, mo, mn.</seg>
       </tuv>
     </tu>
     <tu>
