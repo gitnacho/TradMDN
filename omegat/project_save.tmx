@@ -22729,6 +22729,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;la-tex display="block"&gt;\frac{1}{\sqrt{2}}&lt;/la-tex&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080355Z" creationid="Nachec" creationdate="20221021T080355Z">
+        <seg>&lt;la-tex display="block"&gt;\frac{1}{\sqrt{2}}&lt;/la-tex&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;la-tex&gt;\frac{1}{\sqrt{2}}&lt;/la-tex&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080351Z" creationid="Nachec" creationdate="20221021T080351Z">
+        <seg>&lt;la-tex&gt;\frac{1}{\sqrt{2}}&lt;/la-tex&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="pizza"&gt;Pizza&lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T072034Z" creationid="gitnacho" creationdate="20221002T072034Z">
@@ -23247,6 +23263,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070028Z" creationid="gitnacho" creationdate="20221004T070028Z">
         <seg>&lt;script src="./index.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;script src="https://fred-wang.github.io/TeXZilla/TeXZilla-min.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080345Z" creationid="Nachec" creationdate="20221021T080345Z">
+        <seg>&lt;script src="https://fred-wang.github.io/TeXZilla/TeXZilla-min.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;script src="https://fred-wang.github.io/TeXZilla/examples/customElement.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080347Z" creationid="Nachec" creationdate="20221021T080347Z">
+        <seg>&lt;script src="https://fred-wang.github.io/TeXZilla/examples/customElement.js"&gt;&lt;/script&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28549,6 +28581,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For authors not familiar with LaTeX, alternative input methods are available such as the [ASCIIMath](http://asciimath.org/#syntax) or [jqMath](https://mathscribe.com/author/jqmath.html) syntax.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080441Z" creationid="Nachec" creationdate="20221021T080441Z">
+        <seg>Para los autores que no están familiarizados con LaTeX, existen métodos de entrada alternativos, como la sintaxis [ASCIIMath](http://asciimath.org/#syntax) o [jqMath](https://mathscribe.com/author/jqmath.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201228T150152Z" creationid="nacho" creationdate="20201228T150152Z">
@@ -28769,6 +28809,14 @@ a simple value):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210318Z" creationid="gitnacho" creationdate="20221006T210318Z">
         <seg>Por ejemplo, para escribir 42 directamente en la primera palabra de la memoria lineal, puedes hacer esto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, using [TeXZilla](https://github.com/fred-wang/TeXZilla)'s [`&lt;la-tex&gt;`](https://fred-wang.github.io/TeXZilla/examples/customElement.html) element, the [MathML example above](#mathml_in_html_pages) can just be rewritten more concisely as follows:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080342Z" creationid="Nachec" creationdate="20221021T080342Z">
+        <seg>Por ejemplo, usar el elemento [`&lt;la-tex&gt;`](https://fred-wang.github.io/TeXZilla/examples/customElement.html) de [TeXZilla](https://github.com/fred-wang/TeXZilla)), el [ejemplo anterior de MathML](#mathml_en_páginas_html) se puede reescribir de manera más concisa de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
