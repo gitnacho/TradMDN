@@ -1098,8 +1098,8 @@
       <tuv lang="en-US">
         <seg>## Getting our code examples</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131855Z" creationid="gitnacho" creationdate="20221020T131855Z">
-        <seg>## Obtener el código de los ejemplos</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001941Z" creationid="gitnacho" creationdate="20221020T131855Z">
+        <seg>## Obtener nuestro código de ejemplo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6067,8 +6067,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Even if you are concentrating on client-side web development, it is still useful to know how servers and server-side code features work.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131811Z" creationid="gitnacho" creationdate="20221020T131811Z">
-        <seg>- : Aunque te concentres en el desarrollo web de lado del cliente, sigue siendo útil saber cómo funcionan los servidores y las características del código de lado del servidor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001850Z" creationid="gitnacho" creationdate="20221020T131811Z">
+        <seg>- : Incluso si se estás concentrando en el desarrollo web de lado del cliente, sigue siendo útil saber cómo funcionan los servidores y las características del código de lado del servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12496,8 +12496,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Server-side website programming](/en-US/docs/Learn/Server-side)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131749Z" creationid="gitnacho" creationdate="20221020T131749Z">
-        <seg>- [Programación de lado del servidor](/es/docs/Learn/Server-side)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001830Z" creationid="gitnacho" creationdate="20221020T131749Z">
+        <seg>- [Programación de sitios web de lado del servidor](/es/docs/Learn/Server-side)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35615,8 +35615,8 @@ names custom section, for example:</seg>
       <tuv lang="en-US">
         <seg>The code examples you'll encounter in the Learning Area are all [available on GitHub](https://github.com/mdn/learning-area/).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173343Z" creationid="gitnacho" creationdate="20221020T131858Z">
-        <seg>Todo el código de los ejemplos propuestos en el área de aprendizaje se encuentra disponible en [GitHub](https://github.com/mdn/learning-area).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T002025Z" creationid="gitnacho" creationdate="20221020T131858Z">
+        <seg>El código de ejemplo que encontrarás en el Área de aprendizaje está [disponible en GitHub](https://github.com/mdn/learning-area/).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39877,8 +39877,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This topic provides a general introduction to how the server-side works and detailed tutorials showing how to build up a server-side app using two popular frameworks: Django (Python) and Express (Node.js).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131840Z" creationid="gitnacho" creationdate="20221020T131840Z">
-        <seg>Este tema proporciona una introducción general a cómo funciona el lado del servidor y tutoriales detallados que muestran cómo construir una aplicación de lado del servidor utilizando dos marcos de desarrollo populares: Django (Python) y Express (Node.js).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001918Z" creationid="gitnacho" creationdate="20221020T131840Z">
+        <seg>Este tema proporciona una introducción general sobre cómo funciona el lado del servidor y tutoriales detallados que muestran cómo crear una aplicación de lado del servidor utilizando dos marcos populares: Django (Python) y Express (Node.js).</seg>
       </tuv>
     </tu>
     <tu>
