@@ -18723,6 +18723,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: MathML scripted elements
+slug: Learn/MathML/First_steps/Scripts
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095917Z" creationid="Nachec" creationdate="20221021T095917Z">
+        <seg>---
+title: Elementos con scripts de MathML
+slug: Learn/MathML/First_steps/Scripts
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: MathML tables
 slug: Learn/MathML/First_steps/Tables
 tags:</seg>
@@ -24586,6 +24600,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;title&gt;My first matrix&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095647Z" creationid="Nachec" creationdate="20221021T095647Z">
+        <seg>&lt;title&gt;Mi primera matriz&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;title&gt;My matrix with columnspan&lt;/title&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095421Z" creationid="Nachec" creationdate="20221021T095421Z">
@@ -28000,8 +28022,8 @@ call, and it will pass the response into the function when it fulfills.</seg>
       <tuv lang="en-US">
         <seg>Besides representing matrix-like objects, MathML tables are sometimes used for advanced layout inside mathematical formulas, for example in [Wikipedia's definition of Legendre symbol](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095533Z" creationid="Nachec" creationdate="20221021T095533Z">
-        <seg>Además de representar objetos similares a matrices, las tablas de MathML a veces se usan para el diseño avanzado dentro de fórmulas matemáticas, por ejemplo, en [la definición de Wikipedia del símbolo de Legendre](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095639Z" creationid="Nachec" creationdate="20221021T095533Z">
+        <seg>Además de representar objetos similares a matrices, las tablas de MathML a veces se usan para el diseño avanzado dentro de fórmulas matemáticas, por ejemplo, en [la definición de Wikipedia del símbolo de Legendre](https://es.wikipedia.org/wiki/S%C3%ADmbolo_de_Legendre).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57635,6 +57657,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060859Z" creationid="gitnacho" creationdate="20221019T060859Z">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/Installing_basic_software", "Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Fractions_and_roots", "Learn/MathML/First_steps/Tables", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T101819Z" creationid="Nachec" creationdate="20221021T101819Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/MathML/First_steps/Fractions_and_roots", "Learn/MathML/First_steps/Tables", "Learn/MathML/First_steps")}}</seg>
       </tuv>
     </tu>
     <tu>
