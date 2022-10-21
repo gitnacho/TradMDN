@@ -1232,6 +1232,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Formal syntax</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224959Z" creationid="Nachec" creationdate="20221021T224959Z">
+        <seg>## Sintaxis formal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Fractions without bar</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061536Z" creationid="Nachec" creationdate="20221021T061536Z">
@@ -9680,6 +9688,15 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- CSS Data Type</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224713Z" creationid="Nachec" creationdate="20221021T224713Z">
+        <seg>- CSS Data Type
+  - Tipo de dato CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Cache</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T200810Z" creationid="gitnacho" creationdate="20221003T200810Z">
@@ -9890,6 +9907,15 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T001743Z" creationid="gitnacho" creationdate="20221002T001743Z">
         <seg>- DOM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Data Type</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224724Z" creationid="Nachec" creationdate="20221021T224724Z">
+        <seg>- Data Type
+  - Tipo de dato</seg>
       </tuv>
     </tu>
     <tu>
@@ -17095,6 +17121,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- length-percentage</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224727Z" creationid="Nachec" creationdate="20221021T224727Z">
+        <seg>- length-percentage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- macOS: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Chrome](https://www.google.com/chrome/), [Opera](https://www.opera.com/), [Safari](https://www.apple.com/safari/), [Brave](https://brave.com) (macOS and iOS come with Safari by default).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T054624Z" creationid="gitnacho" creationdate="20221012T164133Z">
@@ -17493,6 +17527,15 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- units</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224736Z" creationid="Nachec" creationdate="20221021T224736Z">
+        <seg>- units
+  - unidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- validate
 browser-compat: javascript.builtins.WebAssembly.validate
 ---</seg>
@@ -17500,6 +17543,20 @@ browser-compat: javascript.builtins.WebAssembly.validate
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085746Z" creationid="gitnacho" creationdate="20221007T195630Z">
         <seg>- validate
 browser-compat: javascript.builtins.WebAssembly.validate
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- values
+browser-compat: css.types.length-percentage
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224759Z" creationid="Nachec" creationdate="20221021T224759Z">
+        <seg>- values
+  - valores
+browser-compat: css.types.length-percentage
 reviewer: Nachec
 ---</seg>
       </tuv>
@@ -19258,6 +19315,22 @@ tags:</seg>
         <seg>---
 title: 'Yari: MDN''s rendering platform'
 slug: MDN/Yari
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: &lt;length-percentage&gt;
+slug: Web/CSS/length-percentage
+page-type: css-type
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224701Z" creationid="Nachec" creationdate="20221021T224701Z">
+        <seg>---
+title: &lt;length-percentage&gt;
+slug: Web/CSS/length-percentage
+page-type: css-type
 tags:</seg>
       </tuv>
     </tu>
@@ -39448,6 +39521,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Refer to the documentation for {{Cssxref("length")}} and {{Cssxref("percentage")}} for details of the individual syntaxes allowed by this type.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224946Z" creationid="Nachec" creationdate="20221021T224946Z">
+        <seg>Consulta la documentación de {{CSSxRef("length")}} y {{CSSxRef("percentage")}} para obtener detalles de las sintaxis individuales permitidas por este tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relying on text containers, this article describes how to build more complex MathML expressions by nesting fractions and roots.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055712Z" creationid="Nachec" creationdate="20221021T055712Z">
@@ -40759,6 +40840,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210626T133133Z">
         <seg>El</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`&lt;length-percentage&gt;`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) represents a value that can be either a {{Cssxref("length")}} or a {{Cssxref("percentage")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224912Z" creationid="Nachec" creationdate="20221021T224912Z">
+        <seg>**`&lt;length-percentage&gt;`** [CSS](/es/docs/Web/CSS) [tipo de dato](/es/docs/Web/CSS/CSS_Types) representa un valor que puede ser {{CSSxRef("length")}} o {{CSSxRef("percentage")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62241,6 +62330,14 @@ console.log(uintc8FromIterable);
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T115852Z" creationid="gitnacho" creationdate="20221005T115852Z">
         <seg>{{AvailableInWorkers}}
 {{AvailableInWorkers("notservice")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{CSSRef}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224806Z" creationid="Nachec" creationdate="20221021T224806Z">
+        <seg>{{CSSRef}}</seg>
       </tuv>
     </tu>
     <tu>
