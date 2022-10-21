@@ -13405,6 +13405,24 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Using MathML](/en-US/docs/Web/MathML/Authoring#using_mathml)
+- [The `&lt;math&gt;` element](/en-US/docs/Web/MathML/Element/math)
+- [The `&lt;mfrac&gt;` element](/en-US/docs/Web/MathML/Element/mfrac)
+- [The `&lt;mrow&gt;` element](/en-US/docs/Web/MathML/Element/mrow)
+- [The `math-style` property](/en-US/docs/Web/CSS/math-style)
+- [The `math-depth` property](/en-US/docs/Web/CSS/math-depth)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182416Z" creationid="Nachec" creationdate="20221021T182416Z">
+        <seg>- [Usar MathML](/es/docs/Web/MathML/Authoring#usar_mathml)
+- [El elemento `&lt;math&gt;`](/es/docs/Web/MathML/Element/math)
+- [El elemento `&lt;mfrac&gt;`](/es/docs/Web/MathML/Element/mfrac)
+- [El elemento `&lt;mrow&gt;`](/es/docs/Web/MathML/Element/mrow)
+- [La propiedad `math-style`](/es/docs/Web/CSS/math-style)
+- [La propiedad `math- depth`](/es/docs/Web/CSS/math-depth)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Using Service Workers](/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 - [Service workers basic code example](https://github.com/mdn/dom-examples/tree/main/service-worker/simple-service-worker)
 - [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/)
@@ -32778,6 +32796,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, we stumbled upon a couple of other MathML elements: `&lt;mfrac&gt;` for fractions, `&lt;mrow&gt;` for grouping and finally a few text elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182501Z" creationid="Nachec" creationdate="20221021T182501Z">
+        <seg>Además, nos topamos con un par de otros elementos de MathML: `&lt;mfrac&gt;` para fracciones, `&lt;mrow&gt;` para agrupar y finalmente algunos elementos de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, work is underway to change this to be a {{domxref("DOMHighResTimeStamp")}} instead.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T204628Z">
@@ -33227,6 +33253,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T095859Z" creationid="gitnacho" creationdate="20221003T095859Z">
         <seg>En este artículo te mostramos cómo usar WebAssembly mediante la API JavaScript de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this article, we have taken a look at how to use the `&lt;math&gt;` element to insert a mathematical formula inside a HTML document.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182428Z" creationid="Nachec" creationdate="20221021T182428Z">
+        <seg>En este artículo, hemos visto cómo usar el elemento `&lt;math&gt;` para insertar una fórmula matemática dentro de un documento HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44839,6 +44873,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We have learned about rendering differences between `&lt;math&gt;` elements that use `display="block"` or not.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182449Z" creationid="Nachec" creationdate="20221021T182449Z">
+        <seg>Hemos aprendido a renderizar las diferencias entre los elementos `&lt;math&gt;` que usan `display="block"` o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We have opted for this fallback image because the only updates that are likely to fail are new images, as everything else is depended on for installation in the `install` event listener we saw earlier.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T051555Z" creationid="gitnacho" creationdate="20220921T040737Z">
@@ -45058,6 +45100,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062351Z" creationid="gitnacho" creationdate="20221004T062351Z">
         <seg>Utilizaremos estas características en la siguiente sección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will analyze these [text containers](/en-US/docs/Learn/MathML/First_steps/Text_containers) further in the next article.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182515Z" creationid="Nachec" creationdate="20221021T182515Z">
+        <seg>Analizaremos estos [contenedores de texto](/es/docs/Learn/MathML/First_steps/Text_containers) más adelante en el próximo artículo.</seg>
       </tuv>
     </tu>
     <tu>
