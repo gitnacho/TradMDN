@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"beforeend",</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103854Z" creationid="Nachec" creationdate="20221021T103854Z">
+        <seg>"beforeend",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"buf.byteLength in main AFTER transfer back from worker:",</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T120108Z" creationid="gitnacho" creationdate="20221007T120108Z">
@@ -23256,6 +23264,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;div id="output"&gt;&lt;/div&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103837Z" creationid="Nachec" creationdate="20221021T103837Z">
+        <seg>&lt;div id="output"&gt;&lt;/div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;div&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180622T062854Z" creationid="nacho" creationdate="20180622T062854Z">
@@ -23332,6 +23348,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013809Z" creationid="gitnacho" creationdate="20220901T013809Z">
         <seg>&lt;input</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="button" id="clearOutput" value="Reset" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103835Z" creationid="Nachec" creationdate="20221021T103835Z">
+        <seg>&lt;input type="button" id="clearOutput" value="Reset" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23592,6 +23616,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;K&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103831Z" creationid="Nachec" creationdate="20221021T103831Z">
+        <seg>&lt;mi&gt;K&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi&gt;T&lt;/mi&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090620Z" creationid="Nachec" creationdate="20221021T090620Z">
@@ -23632,10 +23664,34 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mi&gt;i&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103829Z" creationid="Nachec" creationdate="20221021T103829Z">
+        <seg>&lt;mi&gt;i&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;n&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103830Z" creationid="Nachec" creationdate="20221021T103830Z">
+        <seg>&lt;mi&gt;n&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mi&gt;p&lt;/mi&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094429Z" creationid="Nachec" creationdate="20221021T094429Z">
         <seg>&lt;mi&gt;p&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;s&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103827Z" creationid="Nachec" creationdate="20221021T103827Z">
+        <seg>&lt;mi&gt;s&lt;/mi&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23660,6 +23716,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090555Z" creationid="Nachec" creationdate="20221021T090555Z">
         <seg>&lt;mi&gt;y&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;α&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103825Z" creationid="Nachec" creationdate="20221021T103825Z">
+        <seg>&lt;mi&gt;α&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mi&gt;β&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103822Z" creationid="Nachec" creationdate="20221021T103822Z">
+        <seg>&lt;mi&gt;β&lt;/mi&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23800,6 +23872,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;|&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103827Z" creationid="Nachec" creationdate="20221021T103827Z">
+        <seg>&lt;mo&gt;|&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;→&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103826Z" creationid="Nachec" creationdate="20221021T103826Z">
+        <seg>&lt;mo&gt;→&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;∑&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103829Z" creationid="Nachec" creationdate="20221021T103829Z">
+        <seg>&lt;mo&gt;∑&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;−&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060544Z" creationid="Nachec" creationdate="20221021T060544Z">
@@ -23812,6 +23908,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061635Z" creationid="Nachec" creationdate="20221021T061635Z">
         <seg>&lt;mo&gt;≠&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;⎵&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103823Z" creationid="Nachec" creationdate="20221021T103823Z">
+        <seg>&lt;mo&gt;⎵&lt;/mo&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23844,6 +23948,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060056Z" creationid="Nachec" creationdate="20221021T060056Z">
         <seg>&lt;mroot&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mrow</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103824Z" creationid="Nachec" creationdate="20221021T103824Z">
+        <seg>&lt;mrow</seg>
       </tuv>
     </tu>
     <tu>
@@ -24847,6 +24959,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060513Z" creationid="Nachec" creationdate="20221021T060513Z">
         <seg>&lt;title&gt;Mi página con caracteres matemáticos&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;title&gt;My page with scripted elements&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103821Z" creationid="Nachec" creationdate="20221021T103821Z">
+        <seg>&lt;title&gt;Mi página de elementos con scripts&lt;/title&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26299,6 +26419,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055920Z" creationid="Nachec" creationdate="20221021T055920Z">
         <seg>&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;&lt;mo&gt;|&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103825Z" creationid="Nachec" creationdate="20221021T103825Z">
+        <seg>&gt;&lt;mo&gt;|&lt;/mo&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29379,6 +29507,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each time you click such an element, it is highlighted and a confirmation message is displayed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103743Z" creationid="Nachec" creationdate="20221021T103743Z">
+        <seg>Cada vez que haces clic en un elemento de este tipo, se resalta y se muestra un mensaje de confirmación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each type of code example has its own use cases.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204343Z" creationid="gitnacho" creationdate="20221005T204343Z">
@@ -29620,6 +29756,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063703Z" creationid="gitnacho" creationdate="20221004T063703Z">
         <seg>Completa tu propio repositorio y usa la misma información que usa `git` para el campo `authors`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, read the MathML source to verify whether that corresponds to your expectation.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103755Z" creationid="Nachec" creationdate="20221021T103755Z">
+        <seg>Finalmente, lee la fuente de MathML para verificar si eso corresponde a tus expectativas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39008,6 +39152,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following MathML formula contains a more complex expression, nesting fractions, roots and scripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103708Z" creationid="Nachec" creationdate="20221021T103708Z">
+        <seg>La siguiente fórmula de MathML contiene una expresión más compleja, anidando fracciones, raíces y scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following assessment will test your understanding of the MathML basics covered in the guides above.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084019Z" creationid="Nachec" creationdate="20221021T084019Z">
@@ -43710,6 +43862,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try to guess the elements laid out with scripted elements `&lt;msub&gt;`, `&lt;msup&gt;`, `&lt;msubsup&gt;`, `&lt;munder&gt;`, `&lt;mover&gt;`, `&lt;munderover&gt;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103733Z" creationid="Nachec" creationdate="20221021T103733Z">
+        <seg>Trata de adivinar los elementos dispuestos con elementos con script `&lt;msub&gt;`, `&lt;msup&gt;`, `&lt;msubsup&gt;`, `&lt;munder&gt;`, `&lt;mover&gt;`, `&lt;munderover&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Two objects have the same origin only when the scheme, hostname, and port all match.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T151418Z" creationid="gitnacho" creationdate="20221017T151418Z">
@@ -46623,6 +46783,14 @@ crate-type = ["cdylib"]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`&lt;p&gt;&lt;strong&gt;You clicked an &lt;code&gt;&amp;lt;${scripted.tagName}&amp;gt;&lt;/code&gt; element.&lt;/strong&gt;&lt;/p&gt;`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104022Z" creationid="Nachec" creationdate="20221021T104022Z">
+        <seg>`&lt;p&gt;&lt;strong&gt;Hiciste clic en un elemento &lt;code&gt;&amp;lt;${scripted.tagName}&amp;gt;&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Access-Control-Allow-Origin` specifies either a single origin which tells browsers to allow that origin to access the resource; or else — for requests **without** credentials — the "`*`" wildcard tells browsers to allow any origin to access the resource.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053803Z" creationid="gitnacho" creationdate="20221012T053803Z">
@@ -47209,6 +47377,16 @@ p.fancy {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211455Z" creationid="gitnacho" creationdate="20221005T211455Z">
         <seg>```css
 p.fancy {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css hidden
+.highlight {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103838Z" creationid="Nachec" creationdate="20221021T103838Z">
+        <seg>```css hidden
+.highlight {</seg>
       </tuv>
     </tu>
     <tu>
@@ -49378,6 +49556,16 @@ function verifyOption(checkbox) {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js hidden
+const scriptedElements = Array.from(</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103843Z" creationid="Nachec" creationdate="20221021T103843Z">
+        <seg>```js hidden
+const scriptedElements = Array.from(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js hidden
 document.getElementById("showSolution").addEventListener("click", () =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102556Z" creationid="Nachec" creationdate="20221021T102556Z">
@@ -51431,6 +51619,14 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>clearHighlight();</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103850Z" creationid="Nachec" creationdate="20221021T103850Z">
+        <seg>clearHighlight();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220915T124304Z" creationid="gitnacho" creationdate="20220915T124304Z">
@@ -51447,6 +51643,18 @@ math [id] .highlight {</seg>
         <seg>color: red;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>color: red;
+}
+math {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103839Z" creationid="Nachec" creationdate="20221021T103839Z">
+        <seg>color: red;
+}
+math {</seg>
       </tuv>
     </tu>
     <tu>
@@ -53338,6 +53546,20 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>document.querySelectorAll("msub, msup, msubsup, munder, mover, munderover")
+);
+const outputDiv = document.getElementById("output");
+function clearHighlight() {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103845Z" creationid="Nachec" creationdate="20221021T103845Z">
+        <seg>document.querySelectorAll("msub, msup, msubsup, munder, mover, munderover")
+);
+const outputDiv = document.getElementById("output");
+function clearHighlight() {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>done();</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211004T004029Z" creationid="gitnacho" creationdate="20211004T004029Z">
@@ -53748,6 +53970,18 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061321Z" creationid="Nachec" creationdate="20221021T061321Z">
         <seg>font-family: Latin Modern Math, STIX Two Math;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>font-size: 200%;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103842Z" creationid="Nachec" creationdate="20221021T103842Z">
+        <seg>font-size: 200%;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -55670,6 +55904,14 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>outputDiv.insertAdjacentHTML(</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103852Z" creationid="Nachec" creationdate="20221021T103852Z">
+        <seg>outputDiv.insertAdjacentHTML(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>p1.then(</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080252Z" creationid="gitnacho" creationdate="20221002T080252Z">
@@ -56660,6 +56902,38 @@ api.free_result(resultPointer);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T024208Z" creationid="gitnacho" creationdate="20220921T024208Z">
         <seg>scope: "/",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scripted.addEventListener("click", () =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103849Z" creationid="Nachec" creationdate="20221021T103849Z">
+        <seg>scripted.addEventListener("click", () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scripted.classList.add("highlight");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103851Z" creationid="Nachec" creationdate="20221021T103851Z">
+        <seg>scripted.classList.add("highlight");</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scripted.classList.remove("highlight");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103847Z" creationid="Nachec" creationdate="20221021T103847Z">
+        <seg>scripted.classList.remove("highlight");</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scriptedElements.forEach((scripted) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103846Z" creationid="Nachec" creationdate="20221021T103846Z">
+        <seg>scriptedElements.forEach((scripted) =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
@@ -58858,6 +59132,18 @@ console.log(uintc8FromIterable);
         <seg>});
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>});
+}
+scriptedElements.forEach((scripted) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103848Z" creationid="Nachec" creationdate="20221021T103848Z">
+        <seg>});
+}
+scriptedElements.forEach((scripted) =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
