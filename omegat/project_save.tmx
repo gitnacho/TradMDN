@@ -2546,6 +2546,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Constants</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224155Z" creationid="Nachec" creationdate="20221021T224155Z">
+        <seg>### Constantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Cookies and Cache objects</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T205136Z" creationid="gitnacho" creationdate="20221003T205136Z">
@@ -4746,6 +4754,28 @@ for information on section structures, and how normal sections
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T223432Z" creationid="gitnacho" creationdate="20221019T222312Z">
         <seg>(Lee [Estructura de alto nivel](https://github.com/WebAssembly/design/blob/main/BinaryEncoding.md#high-level-structure)
 para obtener información sobre la estructura de las secciones y cómo se distinguen las secciones normales ("secciones conocidas") y las secciones personalizadas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The "x"-height of the element, `1ex ≈ 0.5em` in many fonts) |
+| `px` | Pixels                                                                                                                      |
+| `in` | Inches (1 inch = 2.54 centimeters)                                                                                          |
+| `cm` | Centimeters                                                                                                                 |
+| `mm` | Millimeters                                                                                                                 |
+| `pt` | Points (1 point = 1/72 inch)                                                                                                |
+| `pc` | Picas (1 pica = 12 points)                                                                                                  |
+| `%`  | Percentage of the default value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224152Z" creationid="Nachec" creationdate="20221021T224152Z">
+        <seg>(La altura "x" del elemento, `1ex ≈ 0.5em` en muchas fuentes) |
+| `px` | Píxeles |
+| `en` | Pulgadas (1 pulgada = 2.54 centímetros) |
+| `cm` | Centímetros |
+| `mm` | Milímetros |
+| `pt` | Puntos (1 punto = 1/72 de pulgada) |
+| `pc` | Picas (1 pica = 12 puntos) |
+| `%` | Porcentaje del valor predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62753,6 +62783,44 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185524Z" creationid="gitnacho" creationdate="20221008T185524Z">
         <seg>| Un encabezado 1        | Un encabezado 2        | Un encabezado 3        | Un encabezado 4        | Un encabezado 5        | Un encabezado 6        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Constant                         | Value     |
+| -------------------------------- | --------- |
+| `veryverythinmathspace`          | 1/18`em`  |
+| `verythinmathspace`              | 2/18`em`  |
+| `thinmathspace`                  | 3/18`em`  |
+| `mediummathspace`                | 4/18`em`  |
+| `thickmathspace`                 | 5/18`em`  |
+| `verythickmathspace`             | 6/18`em`  |
+| `veryverythickmathspace`         | 7/18`em`  |
+| `negativeveryverythinmathspace`  | -1/18`em` |
+| `negativeverythinmathspace`      | -2/18`em` |
+| `negativethinmathspace`          | -3/18`em` |
+| `negativemediummathspace`        | -4/18`em` |
+| `negativethickmathspace`         | -5/18`em` |
+| `negativeverythickmathspace`     | -6/18`em` |
+| `negativeveryverythickmathspace` | -7/18`em` |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224223Z" creationid="Nachec" creationdate="20221021T224223Z">
+        <seg>| Constante | Valor |
+| - | - |
+| `veryverythinmathspace`          | 1/18`em`  |
+| `verythinmathspace`              | 2/18`em`  |
+| `thinmathspace`                  | 3/18`em`  |
+| `mediummathspace`                | 4/18`em`  |
+| `thickmathspace`                 | 5/18`em`  |
+| `verythickmathspace`             | 6/18`em`  |
+| `veryverythickmathspace`         | 7/18`em`  |
+| `negativeveryverythinmathspace`  | -1/18`em` |
+| `negativeverythinmathspace`      | -2/18`em` |
+| `negativethinmathspace`          | -3/18`em` |
+| `negativemediummathspace`        | -4/18`em` |
+| `negativethickmathspace`         | -5/18`em` |
+| `negativeverythickmathspace`     | -6/18`em` |
+| `negativeveryverythickmathspace` | -7/18`em` |</seg>
       </tuv>
     </tu>
     <tu>
