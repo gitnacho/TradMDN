@@ -21273,6 +21273,38 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 &amp; x_1 &amp; x_1^2 &amp; \dots &amp; x_1^{n-1} \\</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084838Z" creationid="Nachec" creationdate="20221021T084838Z">
+        <seg>1 &amp; x_1 &amp; x_1^2 &amp; \dots &amp; x_1^{n-1} \\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 &amp; x_2 &amp; x_2^2 &amp; \dots &amp; x_2^{n-1} \\</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084840Z" creationid="Nachec" creationdate="20221021T084840Z">
+        <seg>1 &amp; x_2 &amp; x_2^2 &amp; \dots &amp; x_2^{n-1} \\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 &amp; x_3 &amp; x_3^2 &amp; \dots &amp; x_3^{n-1} \\</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084841Z" creationid="Nachec" creationdate="20221021T084841Z">
+        <seg>1 &amp; x_3 &amp; x_3^2 &amp; \dots &amp; x_3^{n-1} \\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 &amp; x_n &amp; x_n^2 &amp; \dots &amp; x_n^{n-1} \\</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084842Z" creationid="Nachec" creationdate="20221021T084842Z">
+        <seg>1 &amp; x_n &amp; x_n^2 &amp; \dots &amp; x_n^{n-1} \\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220803T123625Z" creationid="nachec" creationdate="20220803T123625Z">
@@ -23874,6 +23906,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;To have a play with some MathML and test your new-found</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085111Z" creationid="Nachec" creationdate="20221021T085111Z">
+        <seg>&lt;td&gt;Para jugar con algo de MathML y ​​probar tu recién descubierto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;{{domxref("HTMLScriptElement")}}&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135813Z" creationid="gitnacho" creationdate="20221003T122339Z">
@@ -24190,6 +24230,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173717Z" creationid="gitnacho" creationdate="20221005T173717Z">
         <seg>&lt;view id="two" viewBox="100 0 100 100" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>= {\prod_{1 \leq {i,j} \leq n} {(x_i - x_j)}}
+\]</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084844Z" creationid="Nachec" creationdate="20221021T084844Z">
+        <seg>= {\prod_{1 \leq {i,j} \leq n} {(x_i - x_j)}}
+\]</seg>
       </tuv>
     </tu>
     <tu>
@@ -25488,6 +25538,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211004T103639Z" creationid="gitnacho" creationdate="20211004T103639Z">
         <seg>&gt; ```js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085058Z" creationid="Nachec" creationdate="20221021T085058Z">
+        <seg>&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27348,6 +27406,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before attempting this assessment you should have already worked through</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084954Z" creationid="Nachec" creationdate="20221021T084954Z">
+        <seg>Antes de intentar esta evaluación, ya deberías haber trabajado en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before attempting to learn MathML, it is assumed that you have some basic knowledge of [HTML](/en-US/docs/Learn/HTML) and [CSS](/en-US/docs/Learn/CSS).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063651Z" creationid="Nachec" creationdate="20221021T063651Z">
@@ -28785,6 +28851,16 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063703Z" creationid="gitnacho" creationdate="20221004T063703Z">
         <seg>Completa tu propio repositorio y usa la misma información que usa `git` para el campo `authors`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, the determinant of a Vandermonde matrix can be calculated
+using the following expression:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084836Z" creationid="Nachec" creationdate="20221021T084836Z">
+        <seg>Finalmente, se puede calcular el determinante de una matriz de Vandermonde
+usando la siguiente expresión:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45326,6 +45402,64 @@ crate-type = ["cdylib"]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\begin{vmatrix}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084837Z" creationid="Nachec" creationdate="20221021T084837Z">
+        <seg>\begin{vmatrix}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\end{document}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084935Z" creationid="Nachec" creationdate="20221021T084935Z">
+        <seg>\end{document}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\end{vmatrix}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084843Z" creationid="Nachec" creationdate="20221021T084843Z">
+        <seg>\end{vmatrix}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\left( \sum_{k=1}^n {|u_k|} \right)^2</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084821Z" creationid="Nachec" creationdate="20221021T084821Z">
+        <seg>\left( \sum_{k=1}^n {|u_k|} \right)^2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\left( \sum_{k=1}^n {|v_k|} \right)^2</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084822Z" creationid="Nachec" creationdate="20221021T084822Z">
+        <seg>\left( \sum_{k=1}^n {|v_k|} \right)^2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\left| \sum_{k=1}^n {u_k \bar{v_k}} \right|^2</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084818Z" creationid="Nachec" creationdate="20221021T084818Z">
+        <seg>\left| \sum_{k=1}^n {u_k \bar{v_k}} \right|^2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\leq</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084819Z" creationid="Nachec" creationdate="20221021T084819Z">
+        <seg>\leq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\sqrt[{3}]{</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084732Z" creationid="Nachec" creationdate="20221021T084732Z">
@@ -45340,6 +45474,14 @@ crate-type = ["cdylib"]</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084707Z" creationid="Nachec" creationdate="20221021T084707Z">
         <seg>\usepackage{amsmath}
 \usepackage{amssymb}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\vdots &amp; \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084842Z" creationid="Nachec" creationdate="20221021T084842Z">
+        <seg>\vdots &amp; \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\</seg>
       </tuv>
     </tu>
     <tu>
@@ -49548,6 +49690,14 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>all the articles in this module, and also have an understanding of HTML</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085018Z" creationid="Nachec" creationdate="20221021T085010Z">
+        <seg>todos los artículos en este módulo, y también tener una comprensión de los</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180616T003630Z" creationid="nacho" creationdate="20180616T003630Z">
@@ -49792,6 +49942,14 @@ math [id] .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20200730T202146Z" creationid="nacho" creationdate="20200730T202146Z">
         <seg>bar,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>basics (study</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085051Z" creationid="Nachec" creationdate="20221021T085012Z">
+        <seg>conceptos básicos de HTML (estudiado</seg>
       </tuv>
     </tu>
     <tu>
@@ -53679,6 +53837,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
         <seg>js: { tbl },
 };
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>knowledge.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085134Z" creationid="Nachec" creationdate="20221021T085134Z">
+        <seg>conocimiento.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
