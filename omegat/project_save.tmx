@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Automatic italicization of \&lt;mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191737Z" creationid="Nachec" creationdate="20221021T191737Z">
+        <seg>## Cursiva automática de \&lt;mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Baseline: GitHub-Flavored Markdown</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T173727Z" creationid="gitnacho" creationdate="20221008T173727Z">
@@ -2268,8 +2276,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Active learning: recognize token elements</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191330Z" creationid="Nachec" creationdate="20221021T191330Z">
-        <seg>### Aprendizaje activo: Reconocer elementos simbólicos</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191455Z" creationid="Nachec" creationdate="20221021T191330Z">
+        <seg>### Aprendizaje activo: Reconocer elementos toquen</seg>
       </tuv>
     </tu>
     <tu>
@@ -24250,6 +24258,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mo&gt;≥&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191500Z" creationid="Nachec" creationdate="20221021T191500Z">
+        <seg>&lt;mo&gt;≥&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mo&gt;⎵&lt;/mo&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103823Z" creationid="Nachec" creationdate="20221021T103823Z">
@@ -24382,6 +24398,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094443Z" creationid="Nachec" creationdate="20221021T094443Z">
         <seg>&lt;mtext&gt;&amp;nbsp;y&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mtext&gt;&amp;nbsp;iff&amp;nbsp;&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191459Z" creationid="Nachec" creationdate="20221021T191459Z">
+        <seg>&lt;mtext&gt;&amp;nbsp;iff&amp;nbsp;&lt;/mtext&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25837,6 +25861,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142351Z" creationid="gitnacho" creationdate="20221019T142351Z">
         <seg>&gt; **Nota:** No es suficiente que la etiqueta tenga una secuencia idéntica de tipos de datos; debe tener la misma _identidad_ (ser la misma etiqueta) que se usó para crear la excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** It is sometimes difficult to decide the token element to use for a given text content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191633Z" creationid="Nachec" creationdate="20221021T191633Z">
+        <seg>&gt; **Nota:** A veces es difícil decidir qué elemento de toquen usar para un contenido de texto dado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30271,6 +30303,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, read the MathML source to verify whether that corresponds to your expectation:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191555Z" creationid="Nachec" creationdate="20221021T191555Z">
+        <seg>Finalmente, lee la fuente de MathML para verificar si eso corresponde a tu expectativa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally, the determinant of a Vandermonde matrix can be calculated
 using the following expression:</seg>
       </tuv>
@@ -31838,6 +31878,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, the `&lt;mi&gt;` and `&lt;mo&gt;` elements have special distinguishing features that one should be aware of.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191719Z" creationid="Nachec" creationdate="20221021T191719Z">
+        <seg>Sin embargo, los elementos `&lt;mi&gt;` y `&lt;mo&gt;` tienen características distintivas especiales que uno debe tener en cuenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the engine may ignore or clamp</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215842Z" creationid="gitnacho" creationdate="20221019T215356Z">
@@ -33145,6 +33193,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In order to help with that, `&lt;mi&gt;` elements with a single character may be automatically rendered as italic.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191800Z" creationid="Nachec" creationdate="20221021T191800Z">
+        <seg>Para ayudar con eso, los elementos `&lt;mi&gt;` con un solo carácter se pueden mostrar automáticamente en cursiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In order to make exception-throwing faster, exceptions thrown from WebAssembly generally do not include a stack trace.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T022929Z" creationid="gitnacho" creationdate="20221008T022929Z">
@@ -33229,6 +33285,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181527Z" creationid="gitnacho" creationdate="20221008T181527Z">
         <seg>En la práctica, esto significa que cada configuración regional admitida por MDN debe proporcionar su propia traducción de estas cadenas, y la plataforma debe reconocerlas como una indicación de que la construcción necesita un tratamiento especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In practice, choosing the wrong element should not cause major issues because all token elements are generally rendered the same by browser implementations (for visual display and for assistive technologies).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191707Z" creationid="Nachec" creationdate="20221021T191707Z">
+        <seg>En la práctica, elegir el elemento incorrecto no debería causar problemas importantes porque todos los elementos toquen generalmente se renderizan de la misma manera en las implementaciones del navegador (para la visualización y las tecnologías de asistencia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36566,6 +36630,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T021321Z" creationid="gitnacho" creationdate="20220921T015501Z">
         <seg>Un problema primordial del que los usuarios de la web han adolecido durante años es la pérdida de conectividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One typographic convention in mathematics is to use italic letters for variables.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191746Z" creationid="Nachec" creationdate="20221021T191746Z">
+        <seg>Una convención tipográfica en matemáticas es usar letras cursivas para las variables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42102,6 +42174,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040402Z" creationid="gitnacho" creationdate="20220921T040402Z">
         <seg>Cada uno se lee una vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are explained in the following sections.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191725Z" creationid="Nachec" creationdate="20221021T191725Z">
+        <seg>Se explican en las siguientes secciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47738,6 +47818,14 @@ crate-type = ["cdylib"]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`&lt;p&gt;&lt;strong&gt;You clicked an &lt;code&gt;&amp;lt;${token.tagName}&amp;gt;&lt;/code&gt; element.&lt;/strong&gt;&lt;/p&gt;`,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191539Z" creationid="Nachec" creationdate="20221021T191539Z">
+        <seg>`&lt;p&gt;&lt;strong&gt;Hiciste clic en un elemento &lt;code&gt;&lt;${token.tagName}&gt;&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;`,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Access-Control-Allow-Origin` specifies either a single origin which tells browsers to allow that origin to access the resource; or else — for requests **without** credentials — the "`*`" wildcard tells browsers to allow any origin to access the resource.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053803Z" creationid="gitnacho" creationdate="20221012T053803Z">
@@ -50545,6 +50633,16 @@ const scriptedElements = Array.from(</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js hidden
+const tokenElements = Array.from(</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191503Z" creationid="Nachec" creationdate="20221021T191503Z">
+        <seg>```js hidden
+const tokenElements = Array.from(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js hidden
 document.getElementById("showSolution").addEventListener("click", () =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102556Z" creationid="Nachec" creationdate="20221021T102556Z">
@@ -51668,6 +51766,16 @@ unreachable
         <seg>```wasm
 unreachable
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```xml
+&lt;math display="block"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191558Z" creationid="Nachec" creationdate="20221021T191558Z">
+        <seg>```xml
+&lt;math display="block"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54521,6 +54629,20 @@ total.reset();               // #count ahora = 7
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223940Z" creationid="gitnacho" creationdate="20221003T223940Z">
         <seg>document.querySelector('#kind').textContent = 'waiting';
 } else if (registration.active) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>document.querySelectorAll("mi, mo, mn, mtext"),
+);
+const outputDiv = document.getElementById("output");
+function clearHighlight() {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191506Z" creationid="Nachec" creationdate="20221021T191506Z">
+        <seg>document.querySelectorAll("mi, mo, mn, mtext"),
+);
+const outputDiv = document.getElementById("output");
+function clearHighlight() {</seg>
       </tuv>
     </tu>
     <tu>
@@ -58607,6 +58729,38 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>token.addEventListener("click", () =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191509Z" creationid="Nachec" creationdate="20221021T191509Z">
+        <seg>token.addEventListener("click", () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>token.classList.add("highlight");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191512Z" creationid="Nachec" creationdate="20221021T191512Z">
+        <seg>token.classList.add("highlight");</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>token.classList.remove("highlight");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191507Z" creationid="Nachec" creationdate="20221021T191507Z">
+        <seg>token.classList.remove("highlight");</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tokenElements.forEach((token) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191506Z" creationid="Nachec" creationdate="20221021T191506Z">
+        <seg>tokenElements.forEach((token) =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>transaction.onerror = (event) =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T212636Z" creationid="gitnacho" creationdate="20220922T212636Z">
@@ -58995,6 +59149,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104030Z" creationid="Nachec" creationdate="20221021T104030Z">
         <seg>{{ EmbedLiveSample('Active_learning_recognize_scripted_elements', 700, 400, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Active_learning_recognize_token_elements', 700, 400, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191542Z" creationid="Nachec" creationdate="20221021T191542Z">
+        <seg>{{ EmbedLiveSample('Active_learning_recognize_token_elements', 700, 400, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
@@ -60231,6 +60393,18 @@ scriptedElements.forEach((scripted) =&gt; {</seg>
         <seg>});
 }
 scriptedElements.forEach((scripted) =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>});
+}
+tokenElements.forEach((token) =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191508Z" creationid="Nachec" creationdate="20221021T191508Z">
+        <seg>});
+}
+tokenElements.forEach((token) =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
