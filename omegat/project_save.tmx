@@ -4734,6 +4734,16 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(automatic italicization for mi elements with one character) --&gt;
+&lt;mi&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203442Z" creationid="Nachec" creationdate="20221021T203442Z">
+        <seg>(cursiva automática para elementos mi con un carácter) --&gt;
+&lt;mi&gt;A&lt;/mi&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(block $my_block</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075336Z" creationid="gitnacho" creationdate="20221020T075336Z">
@@ -9848,6 +9858,15 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Global attributes</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203226Z" creationid="Nachec" creationdate="20221021T203226Z">
+        <seg>- Global attributes
+  - Atributos globales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Go beyond just demonstrating how each piece of the API or technology works.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205359Z" creationid="gitnacho" creationdate="20221005T205359Z">
@@ -11112,6 +11131,20 @@ browser-compat: javascript.builtins.Promise.resolve
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085746Z" creationid="gitnacho" creationdate="20221002T072431Z">
         <seg>- Reference
 browser-compat: javascript.builtins.Promise.resolve
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Reference
+browser-compat: mathml.global_attributes.mathvariant
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203250Z" creationid="Nachec" creationdate="20221021T203250Z">
+        <seg>- Reference
+  - Referencia
+browser-compat: mathml.global_attributes.mathvariant
 reviewer: Nachec
 ---</seg>
       </tuv>
@@ -20598,6 +20631,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: mathvariant
+slug: Web/MathML/Global_attributes/mathvariant
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203107Z" creationid="Nachec" creationdate="20221021T203107Z">
+        <seg>---
+title: mathvariant
+slug: Web/MathML/Global_attributes/mathvariant
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: nop
 slug: WebAssembly/Reference/Control_flow/nop
 tags:</seg>
@@ -22651,6 +22698,24 @@ i32.mul</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134338Z" creationid="gitnacho" creationdate="20221003T134338Z">
         <seg>&lt;!-- Static --&gt;
 &lt;script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- an italic "A" i.e. "𝐴"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203409Z" creationid="Nachec" creationdate="20221021T203409Z">
+        <seg>&lt;!-- una "A" cursiva, es decir "𝐴"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- an italic "A" i.e. "𝐴" --&gt;
+&lt;mtext mathvariant="italic"&gt;A&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203348Z" creationid="Nachec" creationdate="20221021T203348Z">
+        <seg>&lt;!-- una "A" cursiva, es decir  "𝐴" --&gt;
+&lt;mtext mathvariant="italic"&gt;A&lt;/mtext&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49747,6 +49812,20 @@ p {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```html
+&lt;math&gt;
+&lt;!-- a normal "A" --&gt;
+&lt;mtext&gt;A&lt;/mtext&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203322Z" creationid="Nachec" creationdate="20221021T203322Z">
+        <seg>```html
+&lt;math&gt;
+&lt;!-- a normal "A" --&gt;
+&lt;mtext&gt;A&lt;/mtext&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
 &lt;meta charset="utf-8" /&gt;
 ```</seg>
       </tuv>
@@ -60943,6 +61022,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T063216Z" creationid="gitnacho" creationdate="20221005T063216Z">
         <seg>{{MDNSidebar}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{MathMLRef("Global_attributes")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T203315Z" creationid="Nachec" creationdate="20221021T203315Z">
+        <seg>{{MathMLRef("Global_attributes")}}</seg>
       </tuv>
     </tu>
     <tu>
