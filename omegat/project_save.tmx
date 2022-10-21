@@ -12575,6 +12575,40 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Asana Math](https://www.ctan.org/tex-archive/fonts/Asana-Math/)
+- [Cambria Math](https://docs.microsoft.com/typography/font-list/?FID=360)
+- [DejaVu Math TeX Gyre](https://sourceforge.net/projects/dejavu/files/dejavu/)
+- [Garamond Math](https://github.com/YuanshengZhao/Garamond-Math)
+- [Latin Modern Math](https://www.gust.org.pl/projects/e-foundry/lm-math)
+- [Libertinus Math](https://github.com/alerque/libertinus)
+- [STIX Math](https://github.com/stipub/stixfonts)
+- [TeX Gyre Bonum Math](https://www.gust.org.pl/projects/e-foundry/tg-math/download/index_html#Bonum_Math)
+- [TeX Gyre Pagella Math](https://www.gust.org.pl/projects/e-foundry/tg-math/download/index_html#Pagella_Math)
+- [TeX Gyre Schola Math](https://www.gust.org.pl/projects/e-foundry/tg-math/download/index_html#Schola_Math)
+- [TeX Gyre Termes Math](https://www.gust.org.pl/projects/e-foundry/tg-math/download/index_html#Termes_Math)
+- [XITS Math](https://github.com/aliftype/xits/releases)
+- [Fira Math](https://github.com/firamath/firamath)
+- [GFS Neohellenic Math](https://greekfontsociety-gfs.gr/typefaces/Math)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202645Z" creationid="Nachec" creationdate="20221021T202645Z">
+        <seg>- [Asana Math](https://www.ctan.org/tex-archive/fonts/Asana-Math/)
+- [Cambria Math](https://docs.microsoft.com/typography/font-list/?FID=360)
+- [DejaVu Math TeX Gyre](https://sourceforge.net/projects/dejavu/files/dejavu/)
+- [Garamond Math](https://github.com/YuanshengZhao/Garamond-Math)
+- [Latin Modern Math](https://www.gust.org.pl/projects/e-foundry/lm-math)
+- [Libertinus Math](https://github.com/alerque/libertinus)
+- [STIX Math](https://github.com/stipub/stixfonts)
+- [TeX Gyre Bonum Math](https://www.gust.org.pl/projects/e-foundry/tg-math/download/index_html#Bonum_Math)
+- [TeX Gyre Pagella Math](https://www.gust.org.pl/projects/e-foundry/tg-math/download/index_html#Pagella_Math)
+- [TeX Gyre Schola Math](https://www.gust.org.pl/projects/e-foundry/tg-math/download/index_html#Schola_Math)
+- [TeX Gyre Termes Math](https://www.gust.org.pl/projects/e-foundry/tg-math/download/index_html#Termes_Math)
+- [XITS Math](https://github.com/aliftype/xits/releases)
+- [Fira Math](https://github.com/firamath/firamath)
+- [GFS Neohellenic Math](https://greekfontsociety-gfs.gr/typefaces/Math)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Async Clipboard API](/en-US/docs/Web/API/Clipboard)
 - [Background Sync](https://wicg.github.io/BackgroundSync/spec/) (see {{domxref("SyncManager")}}, for example)
 - [`Cache-Control: immutable`](/en-US/docs/Web/HTTP/Headers/Cache-Control)
@@ -27669,6 +27703,14 @@ fields:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A better alternative on UNIX systems is to install the OTF files for [Latin Modern Math](https://www.gust.org.pl/projects/e-foundry/lm-math/download/latinmodern-math-1959.zip) and [STIX](https://github.com/stipub/stixfonts) into some local font folder and (if necessary) to run `fc-cache` on it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202457Z" creationid="Nachec" creationdate="20221021T202457Z">
+        <seg>Una mejor alternativa en los sistemas UNIX es instalar los archivos OTF para [Latin Modern Math](https://www.gust.org.pl/projects/e-foundry/lm-math/download/latinmodern-math-1959.zip) y [STIX](https://github.com/stipub/stixfonts) en algún directorio de fuentes local y (si es necesario) ejecutar `fc-cache` allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A boolean `true` if the specified tag matches the exception, and `false` otherwise.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T144755Z" creationid="gitnacho" creationdate="20221019T144755Z">
@@ -28461,6 +28503,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075402Z" creationid="Nachec" creationdate="20221021T075402Z">
         <seg>Alternativamente, también puedes mostrar una advertencia en la parte superior de la página para los navegadores sin un buen soporte de MathML y ​​dejar que los usuarios elijan entre uno de los anteriores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, you can try the [MathML-fontsettings add-on](https://addons.mozilla.org/en-US/firefox/addon/mathml-font-settings/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202642Z" creationid="Nachec" creationdate="20221021T202642Z">
+        <seg>Como alternativa, puedes probar el [complemento MathML-fontsettings](https://addons.mozilla.org/es/firefox/addon/mathml-font-settings/).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37316,6 +37366,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On macOS and Linux, the standard paths are respectively `~/Library/Fonts/` and `~/.fonts`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202507Z" creationid="Nachec" creationdate="20221021T202507Z">
+        <seg>En macOS y Linux, las rutas estándar son respectivamente `~/Library/Fonts/` y `~/.fonts`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On other systems, consider installing a [font with a MATH table](#fonts_with_a_math_table) using your package manager.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202144Z" creationid="Nachec" creationdate="20221021T202144Z">
@@ -38847,6 +38905,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203723Z" creationid="gitnacho" creationdate="20221018T203723Z">
         <seg>Algunas APIs en la web son muy poderosas y le dan al atacante la capacidad de hacer lo siguiente y más:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some browsers provide a way to configure the default font for MathML in their font preference menu.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202550Z" creationid="Nachec" creationdate="20221021T202550Z">
+        <seg>Algunos navegadores proporcionan una forma de configurar la fuente predeterminada para MathML en su menú de preferencias de fuentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47662,6 +47728,14 @@ función exportada desde su interior.</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T224720Z">
         <seg>Puedes acceder a `CacheStorage` a través de la propiedad global
 {{DOMxRef("caches")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can actually install any [mathematical OpenType font](https://fred-wang.github.io/MathFonts/) and use them for MathML rendering.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202530Z" creationid="Nachec" creationdate="20221021T202530Z">
+        <seg>De hecho, puedes instalar cualquier [fuente matemática OpenType](https://fred-wang.github.io/MathFonts/) y usarla para el renderizado de MathML.</seg>
       </tuv>
     </tu>
     <tu>
