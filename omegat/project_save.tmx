@@ -1712,6 +1712,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Subscripts and superscripts</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T101948Z" creationid="Nachec" creationdate="20221021T101948Z">
+        <seg>## Subíndices y superíndices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Subtrees of \&lt;mfrac&gt;, \&lt;msqrt&gt; and \&lt;mroot&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060017Z" creationid="Nachec" creationdate="20221021T060017Z">
@@ -36403,6 +36411,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similarly to what we saw in the [previous article](/en-US/docs/Learn/MathML/First_steps/Fractions_and_roots), the `&lt;msub&gt;`, `&lt;msup&gt;` and `&lt;msubsup&gt;` have a special structure expecting exactly two elements (for `&lt;msub&gt;`, `&lt;msup&gt;`) or three elements (for `&lt;msubsup&gt;`):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102010Z" creationid="Nachec" creationdate="20221021T102010Z">
+        <seg>De manera similar a lo que vimos en el [artículo anterior](/es/docs/Learn/MathML/First_steps/Fractions_and_roots), `&lt;msub&gt;`, `&lt;msup&gt;` y `&lt;msubsup&gt;` tienen una estructura especial esperando exactamente dos elementos (para `&lt;msub&gt;`, `&lt;msup&gt;`) o tres elementos (para `&lt;msubsup&gt;`):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similarly, a module may also optionally export its memory.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225311Z" creationid="gitnacho" creationdate="20221006T210811Z">
@@ -43161,6 +43177,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To get familiar with basic MathML elements producing scripted elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T101940Z" creationid="Nachec" creationdate="20221021T101940Z">
+        <seg>Familiarizarte con los elementos básicos de MathML que producen elementos con scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get the most out of this series of articles you should already have basic to intermediate [JavaScript](/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) knowledge.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T100503Z">
@@ -43783,6 +43807,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214623Z" creationid="gitnacho" creationdate="20221019T214623Z">
         <seg>Luego podemos hacer crecer la instancia en una página así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We continue the review of basic math notations and focus on building MathML elements with scripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T101856Z" creationid="Nachec" creationdate="20221021T101856Z">
+        <seg>Continuamos con la revisión de las notaciones matemáticas básicas y nos enfocamos en crear elementos de MathML con scripts.</seg>
       </tuv>
     </tu>
     <tu>
