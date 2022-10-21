@@ -29266,8 +29266,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you prefer to copy the repo in a more flexible way that allows for automatic updates, you can follow the more complex instructions:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173422Z" creationid="Nachec" creationdate="20221020T173422Z">
-        <seg>Si prefieres copiar el código de una forma más flexible que te permita actualizaciones automáticas, puedes seguir estas instrucciones más complejas:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T002110Z" creationid="Nachec" creationdate="20221020T173422Z">
+        <seg>Si prefieres copiar el repositorio de una manera más flexible que permita actualizaciones automáticas, puedes seguir las instrucciones más complejas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29298,8 +29298,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you want to copy them all to your computer, the easiest way is to [download a ZIP of the latest master code branch](https://codeload.github.com/mdn/learning-area/zip/main).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173405Z" creationid="Nachec" creationdate="20221020T173405Z">
-        <seg>Si quieres, los puedes copiar para tenerlos en tu ordenador, la manera más fácil es [descargar un ZIP de la última rama del código maestro](https://github.com/mdn/learning-area/archive/master.zip).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T002050Z" creationid="Nachec" creationdate="20221020T173405Z">
+        <seg>Si deseas copiarlos todos en tu computadora, la forma más fácil es [descargar un ZIP de la última rama del código maestro](https://codeload.github.com/mdn/learning-area/zip/main).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42856,8 +42856,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>[Install Git](https://git-scm.com/downloads) on your machine.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173529Z" creationid="Nachec" creationdate="20221020T173529Z">
-        <seg>[Instala Git](https://git-scm.com/downloads) en tu máquina.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050516Z" creationid="Nachec" creationdate="20221020T173529Z">
+        <seg>[Instala Git](https://git-scm.com/downloads) en su máquina.</seg>
       </tuv>
     </tu>
     <tu>
