@@ -5789,6 +5789,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A [background-color](/en-US/docs/Web/CSS/background-color) for the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213945Z" creationid="Nachec" creationdate="20221021T213945Z">
+        <seg>- : Un color de fondo —[background-color](/es/docs/Web/CSS/background-color)— para el elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A [typed array](/en-US/docs/Web/JavaScript/Typed_arrays) or</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193444Z" creationid="gitnacho" creationdate="20221007T193444Z">
@@ -6623,6 +6631,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T124701Z" creationid="gitnacho" creationdate="20221003T124701Z">
         <seg>- : Predeterminado: Indica la determinación automática de la prioridad de obtención en relación con otros scripts externos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Defines a unique identifier (ID) which must be unique in the whole document.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213753Z" creationid="Nachec" creationdate="20221021T213753Z">
+        <seg>- : Define un identificador único (ID) que debe ser único en todo el documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8991,6 +9007,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140439Z" creationid="gitnacho" creationdate="20221019T140439Z">
         <seg>- : `true` si la `Exception` puede tener un seguimiento de pila adjunto a su propiedad [`stack`](/es/docs/WebAssembly/JavaScript_interface/Exception/stack), de lo contrario `false`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : a boolean setting the [math-style](/en-US/docs/Web/CSS/math-style) for the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213717Z" creationid="Nachec" creationdate="20221021T213717Z">
+        <seg>- : un booleano que configura el [estilo math](/es/docs/Web/CSS/math-style) para el elemento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14855,6 +14879,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [`displaystyle`](/en-US/docs/Web/MathML/Global_attributes/displaystyle):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213637Z" creationid="Nachec" creationdate="20221021T213637Z">
+        <seg>- [`displaystyle`](/es/docs/Web/MathML/Global_attributes/displaystyle):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [`drop`](/en-US/docs/WebAssembly/Reference/Control_flow/Drop)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094537Z" creationid="gitnacho" creationdate="20221007T094537Z">
@@ -14879,6 +14911,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [`id`](/en-US/docs/Web/HTML/Global_attributes/id)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213746Z" creationid="Nachec" creationdate="20221021T213746Z">
+        <seg>- [`id`](/es/docs/Web/HTML/Global_attributes/id)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [`if...else`](/en-US/docs/WebAssembly/Reference/Control_flow/if...else)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094623Z" creationid="gitnacho" creationdate="20221007T094623Z">
@@ -14891,6 +14931,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094658Z" creationid="gitnacho" creationdate="20221007T094658Z">
         <seg>- [`loop`](/es/docs/WebAssembly/Reference/Control_flow/loop)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`mathbackground`](/en-US/docs/Web/MathML/Global_attributes/mathbackground)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213858Z" creationid="Nachec" creationdate="20221021T213858Z">
+        <seg>- [`mathbackground`](/es/docs/Web/MathML/Global_attributes/mathbackground)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15351,6 +15399,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110605Z" creationid="gitnacho" creationdate="20221007T110605Z">
         <seg>- `f64`: Un número de coma flotante de 64 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `false`, which means `compact`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213742Z" creationid="Nachec" creationdate="20221021T213742Z">
+        <seg>- `false`, significa `compact`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15967,6 +16023,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `rtl`, which means _right to left_ and is used to render mathematical expressions from the right to the left (e.g. Maghreb or Machrek style);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213631Z" creationid="Nachec" creationdate="20221021T213631Z">
+        <seg>- `rtl`, significa _de derecha a izquierda_ y se utiliza para representar expresiones matemáticas de derecha a izquierda (por ejemplo, estilo Magreb o Machrek);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `rust` - Rust</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174809Z" creationid="gitnacho" creationdate="20221008T174809Z">
@@ -16187,6 +16251,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115626Z" creationid="gitnacho" creationdate="20221007T115626Z">
         <seg>- `transfer` {{optional_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `true`, which means `normal`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213727Z" creationid="Nachec" creationdate="20221021T213727Z">
+        <seg>- `true`, significa `normal`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36245,6 +36317,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T000548Z">
         <seg>Su propiedad [`buffer`](/es/docs/WebAssembly/JavaScript_interface/Memory/buffer) devolverá un {{JSxRef("ArrayBuffer")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its purpose is to identify the element when linking (using a fragment identifier), scripting, or styling (with CSS).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213851Z" creationid="Nachec" creationdate="20221021T213851Z">
+        <seg>Su propósito es identificar el elemento al enlazarlo (usando un fragmento identificador), al crear un script o al estilizarlo (con CSS).</seg>
       </tuv>
     </tu>
     <tu>
