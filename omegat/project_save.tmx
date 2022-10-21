@@ -21549,6 +21549,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/mfrac&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060538Z" creationid="Nachec" creationdate="20221021T060538Z">
+        <seg>&lt;/mfrac&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/mfrac&gt;
 &lt;/math&gt;
 &lt;br /&gt;
@@ -21563,6 +21571,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/mroot&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060537Z" creationid="Nachec" creationdate="20221021T060537Z">
+        <seg>&lt;/mroot&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/mroot&gt;
 &lt;/math&gt;
 ```</seg>
@@ -21571,6 +21587,14 @@ i32.mul</seg>
         <seg>&lt;/mroot&gt;
 &lt;/math&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/msqrt&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060535Z" creationid="Nachec" creationdate="20221021T060535Z">
+        <seg>&lt;/msqrt&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22311,6 +22335,38 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="The square root of two." data-highlight="msqrt1"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060842Z" creationid="Nachec" creationdate="20221021T060842Z">
+        <seg>&lt;input type="checkbox" data-comment="La raíz cuadrada de dos". data-highlight="msqrt1"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="This formula does not contain any fraction inside a square root!"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060756Z" creationid="Nachec" creationdate="20221021T060756Z">
+        <seg>&lt;input type="checkbox" data-comment="¡Esta fórmula no contiene ninguna fracción dentro de una raíz cuadrada!"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-comment="Verify the order of children in an mfrac!"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060601Z" creationid="Nachec" creationdate="20221021T060601Z">
+        <seg>&lt;input type="checkbox" data-comment="¡Verifica el orden de los hijos en un mfrac!"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" data-highlight="mroot2" data-comment="The '6 over 7'-th root of five."&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060706Z" creationid="Nachec" creationdate="20221021T060706Z">
+        <seg>&lt;input type="checkbox" data-highlight="mroot2" data-comment="El '6 sobre 7'ésima raíz de cinco."&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="pizza"&gt;Pizza&lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T072034Z" creationid="gitnacho" creationdate="20221002T072034Z">
@@ -22351,6 +22407,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060532Z" creationid="Nachec" creationdate="20221021T060532Z">
+        <seg>&lt;math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;meta charset="UTF-8" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210830T134533Z" creationid="gitnacho" creationdate="20210830T134533Z">
@@ -22375,6 +22439,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mfrac id="mfrac1"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060533Z" creationid="Nachec" creationdate="20221021T060533Z">
+        <seg>&lt;mfrac id="mfrac1"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mfrac id="mfrac2"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060540Z" creationid="Nachec" creationdate="20221021T060540Z">
+        <seg>&lt;mfrac id="mfrac2"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mfrac&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060047Z" creationid="Nachec" creationdate="20221021T060047Z">
@@ -22383,10 +22463,122 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;mn&gt;2&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060534Z" creationid="Nachec" creationdate="20221021T060534Z">
+        <seg>&lt;mn&gt;2&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;3&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060537Z" creationid="Nachec" creationdate="20221021T060537Z">
+        <seg>&lt;mn&gt;3&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;4&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060536Z" creationid="Nachec" creationdate="20221021T060536Z">
+        <seg>&lt;mn&gt;4&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;5&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060540Z" creationid="Nachec" creationdate="20221021T060540Z">
+        <seg>&lt;mn&gt;5&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;6&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060541Z" creationid="Nachec" creationdate="20221021T060541Z">
+        <seg>&lt;mn&gt;6&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;7&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060542Z" creationid="Nachec" creationdate="20221021T060542Z">
+        <seg>&lt;mn&gt;7&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;8&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060544Z" creationid="Nachec" creationdate="20221021T060544Z">
+        <seg>&lt;mn&gt;8&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mn&gt;9&lt;/mn&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060545Z" creationid="Nachec" creationdate="20221021T060545Z">
+        <seg>&lt;mn&gt;9&lt;/mn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;+&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060538Z" creationid="Nachec" creationdate="20221021T060538Z">
+        <seg>&lt;mo&gt;+&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mo&gt;−&lt;/mo&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060544Z" creationid="Nachec" creationdate="20221021T060544Z">
+        <seg>&lt;mo&gt;−&lt;/mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mroot id="mroot1"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060535Z" creationid="Nachec" creationdate="20221021T060535Z">
+        <seg>&lt;mroot id="mroot1"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;mroot id="mroot2"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060539Z" creationid="Nachec" creationdate="20221021T060539Z">
+        <seg>&lt;mroot id="mroot2"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;mroot&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060056Z" creationid="Nachec" creationdate="20221021T060056Z">
         <seg>&lt;mroot&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;msqrt id="msqrt1"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060534Z" creationid="Nachec" creationdate="20221021T060534Z">
+        <seg>&lt;msqrt id="msqrt1"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;msqrt id="msqrt2"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060543Z" creationid="Nachec" creationdate="20221021T060543Z">
+        <seg>&lt;msqrt id="msqrt2"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22435,6 +22627,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201118T111045Z" creationid="nacho" creationdate="20201118T111045Z">
         <seg>&lt;nav role="navigation"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;ol id="options"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060547Z" creationid="Nachec" creationdate="20221021T060547Z">
+        <seg>&lt;ol id="options"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25532,6 +25732,30 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T211239Z" creationid="gitnacho" creationdate="20220911T211239Z">
         <seg>Un índice es una especie de almacén de objetos para buscar registros en otro almacén de objetos, denominado almacén de objetos referido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An mfrac with an mroot as its first child and an msqrt as its second child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060622Z" creationid="Nachec" creationdate="20221021T060622Z">
+        <seg>Un mfrac con un mroot como su primer hijo y un msqrt como su segundo hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An mroot with an mn as its first child and mfrac as its second child.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060739Z" creationid="Nachec" creationdate="20221021T060739Z">
+        <seg>Un mroot con un mn como su primer hijo y mfrac como su segundo hijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An msqrt containing an mfrac element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060807Z" creationid="Nachec" creationdate="20221021T060807Z">
+        <seg>Un msqrt que contiene un elemento mfrac.</seg>
       </tuv>
     </tu>
     <tu>
