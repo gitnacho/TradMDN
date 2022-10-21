@@ -6685,8 +6685,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- : Our newsletter for web developers, which is an excellent resource for all levels of experience.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175810Z" creationid="Nachec" creationdate="20221020T175810Z">
-        <seg>- : Nuestro boletín para desarrolladores web, es un excelente recurso para todos los niveles de experiencia.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051138Z" creationid="Nachec" creationdate="20221020T175810Z">
+        <seg>- : Nuestro boletín para desarrolladores web, que es un excelente recurso para todos los niveles de experiencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12338,8 +12338,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Mozilla developer newsletter](https://www.mozilla.org/en-US/newsletter/developer/)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175343Z" creationid="Nachec" creationdate="20221020T174145Z">
-        <seg>- [Boletín informativo para desarrolladores de Mozilla](https://www.mozilla.org/es-ES/newsletter/developer/)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051126Z" creationid="Nachec" creationdate="20221020T174145Z">
+        <seg>- [Boletín informativo para desarrolladores de Mozilla](https://www.mozilla.org/es/newsletter/developer/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29314,8 +29314,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you want to get in touch with us about anything, the best way is to drop us a message on our [Discourse forum](https://discourse.mozilla.org/c/mdn/236).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T174012Z" creationid="Nachec" creationdate="20221020T174012Z">
-        <seg>Si tienes alguna pregunta o deseas saber hacia dónde ir, Mozilla es una comunidad mundial de entusiastas de la web, incluyendo mentores y profesores, encantados de ayudarte. Ponte en contacto con ellos mediante WebMaker: Conoce y dialoga con los mentores y profesores en el [Foro de Discusión en Español](https://discourse.mozilla.org/c/community-portal/mozilla-hispano/). Encuentra [Eventos](https://foro.mozilla-hispano.org/c/difusion-eventos) y aprende acerca de la Web con profesionales.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050930Z" creationid="Nachec" creationdate="20221020T174012Z">
+        <seg>Si deseas ponerte en contacto con nosotros sobre cualquier cosa, la mejor manera es enviarnos un mensaje en nuestro [foro de discusión](https://discourse.mozilla.org/c/mdn/236).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29354,8 +29354,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you're interested in helping develop/improve the content, take a look at [how you can help](/en-US/docs/MDN/Contribute) and get in touch!</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T181918Z" creationid="Nachec" creationdate="20221020T174130Z">
-        <seg>Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [cómo puedes ayudar](/es/docs/MDN/Contribute) y, ¡pónte en contacto!; estaremos más que felices de hablar contigo, bien seas un alumno, un maestro, un desarrollador web experimentado o alguien más, interesado en ayudar a mejorar la experiencia de aprendizaje.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051032Z" creationid="Nachec" creationdate="20221020T174130Z">
+        <seg>Si estás interesado en ayudar a desarrollar/mejorar el contenido, consulta [cómo puedes ayudar](/es/docs/MDN/Contribute) y comunícate con nosotros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40621,8 +40621,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>Update the repository using the following command:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T173735Z" creationid="Nachec" creationdate="20221020T173735Z">
-        <seg>Puedes realizar actualizaciones al repositorio usando el siguiente comando:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050903Z" creationid="Nachec" creationdate="20221020T173735Z">
+        <seg>Actualiza el repositorio usando el siguiente comando:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40805,8 +40805,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>We are more than happy to talk to you, whether you are a learner, teacher, experienced web developer, or someone else interested in helping to improve the learning experience.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175221Z" creationid="Nachec" creationdate="20221020T175221Z">
-        <seg>estaremos más que felices de hablar contigo, bien seas un alumno, un maestro, un desarrollador web experimentado o alguien más, interesado en ayudar a mejorar la experiencia de aprendizaje.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051107Z" creationid="Nachec" creationdate="20221020T175221Z">
+        <seg>Estaremos más que felices de hablar contigo, si bien eres un alumno, un maestro, un desarrollador web experimentado o cualquier otra persona interesada en ayudar a mejorar la experiencia de aprendizaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41132,8 +41132,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>We'd like to hear from you about anything you think is wrong or missing on the site, requests for new learning topics, requests for help with items you don't understand, or any other questions or concerns.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T174044Z" creationid="Nachec" creationdate="20221020T174044Z">
-        <seg>Nos gustaría saber cualquier cosa de ti, si bien crees que algo está mal o falta en el sitio, o quieres solicitar nuevos temas de aprendizaje, solicitar ayuda con elementos que no comprendes o cualquier otra duda o inquietud que tengas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050958Z" creationid="Nachec" creationdate="20221020T174044Z">
+        <seg>Nos gustaría saber de ti sobre cualquier cosa que creas que está mal o que falta en el sitio, solicitudes de nuevos temas de aprendizaje, solicitudes de ayuda con elementos que no comprendes o cualquier otra duda o inquietud.</seg>
       </tuv>
     </tu>
     <tu>
