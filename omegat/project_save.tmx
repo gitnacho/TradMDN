@@ -33448,6 +33448,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MathML is the markup language used to write mathematical formulas in web pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083715Z" creationid="Nachec" creationdate="20221021T083715Z">
+        <seg>MathML es el lenguaje de marcado utilizado para escribir fórmulas matemáticas en páginas web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mathematical Markup Language — or {{glossary("MathML")}} — is the markup language used to write mathematical formulas in web pages using fractions, scripts, radicals, matrices, integrals, series, etc.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063339Z" creationid="Nachec" creationdate="20221021T063339Z">
