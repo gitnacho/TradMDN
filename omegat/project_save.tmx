@@ -18209,9 +18209,9 @@ title: Authoring MathML
 slug: Web/MathML/Authoring
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T071822Z" creationid="Nachec" creationdate="20221021T071822Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193655Z" creationid="Nachec" creationdate="20221021T071822Z">
         <seg>---
-title: Autoría MathML
+title: Autoría de MathML
 slug: Web/MathML/Authoring
 tags:</seg>
       </tuv>
@@ -23090,6 +23090,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/ul&gt;`,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193439Z" creationid="Nachec" creationdate="20221021T193439Z">
+        <seg>&lt;/ul&gt;`,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/video&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211003T090215Z" creationid="gitnacho" creationdate="20211003T090215Z">
@@ -25887,6 +25895,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130324Z" creationid="gitnacho" creationdate="20221003T130324Z">
         <seg>&gt; **Nota:** Un valor de cadena vacío (`""`) es tanto el valor predeterminado como un valor alternativo si `referrerpolicy` no es compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** An obvious difference is that the source code became much more verbose with MathML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193517Z" creationid="Nachec" creationdate="20221021T193517Z">
+        <seg>&gt; **Nota:** Una diferencia obvia es que el código fuente se volvió mucho más detallado con MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32126,6 +32142,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, some of them have no spacing added before while the parentheses still have no spacing around them.&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193430Z" creationid="Nachec" creationdate="20221021T193430Z">
+        <seg>Sin embargo, algunos de ellos no tienen espacios agregados antes, mientras que los paréntesis todavía **no** tienen espacios alrededor de ellos.&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the &lt;code&gt;&amp;lt;mi&amp;gt;&lt;/code&gt; elements with multiple characters "𝔰𝔩" or whose character is "𝔽" are still rendered upright.&lt;/li&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193344Z" creationid="Nachec" creationdate="20221021T193058Z">
@@ -37310,6 +37334,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Recall that this tutorial is about learning the language but in practice MathML content is generally not written manually.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193533Z" creationid="Nachec" creationdate="20221021T193533Z">
+        <seg>Recuerda que este tutorial se trata de aprender el lenguaje pero, en la práctica, el contenido de MathML generalmente no se escribe manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Redirects have mandatory headers ({{HTTPHeader("Location")}}):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080120Z" creationid="gitnacho" creationdate="20221017T211812Z">
@@ -37773,6 +37805,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T210923Z" creationid="gitnacho" creationdate="20221005T210923Z">
         <seg>Consulta nuestra [guía de muestras en vivo](/es/docs/MDN/Writing_guidelines/Page_structures/Live_samples) para obtener más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the [Authoring MathML](/en-US/docs/Web/MathML/Authoring) page for more information.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193713Z" creationid="Nachec" creationdate="20221021T193640Z">
+        <seg>Consulta la página [Autoría de MathML](/es/docs/Web/MathML/Authoring) para obtener más información.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59477,6 +59517,18 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{ once: true },
+);
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193441Z" creationid="Nachec" creationdate="20221021T193441Z">
+        <seg>{ once: true },
+);
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220830T083949Z" creationid="gitnacho" creationdate="20220830T083949Z">
@@ -59609,6 +59661,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094622Z" creationid="Nachec" creationdate="20221021T094622Z">
         <seg>{{ EmbedLiveSample('Usage_for_advanced_layout', 700, 200, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('active_learning_spot_the_difference', 700, 500, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193507Z" creationid="Nachec" creationdate="20221021T193507Z">
+        <seg>{{ EmbedLiveSample('active_learning_spot_the_difference', 700, 500, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
