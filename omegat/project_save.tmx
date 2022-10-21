@@ -4046,6 +4046,22 @@ pub fn greet(name: &amp;str) {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>$$\frac{1}{\sqrt{2}}$$</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080715Z" creationid="Nachec" creationdate="20221021T080715Z">
+        <seg>$$\frac{1}{\sqrt{2}}$$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>$\frac{1}{\sqrt{2}}$</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080714Z" creationid="Nachec" creationdate="20221021T080714Z">
+        <seg>$\frac{1}{\sqrt{2}}$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>${original === cast}`);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T074006Z" creationid="gitnacho" creationdate="20221002T074006Z">
@@ -22817,6 +22833,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block"&gt;&lt;semantics&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;msqrt&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msqrt&gt;&lt;/mfrac&gt;&lt;annotation encoding="TeX"&gt;\frac{1}{\sqrt{2}}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080853Z" creationid="Nachec" creationdate="20221021T080853Z">
+        <seg>&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block"&gt;&lt;semantics&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;msqrt&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msqrt&gt;&lt;/mfrac&gt;&lt;annotation encoding="TeX"&gt;\frac{1}{\sqrt{2}}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;msqrt&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msqrt&gt;&lt;/mfrac&gt;&lt;annotation encoding="TeX"&gt;\frac{1}{\sqrt{2}}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080845Z" creationid="Nachec" creationdate="20221021T080845Z">
+        <seg>&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;msqrt&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msqrt&gt;&lt;/mfrac&gt;&lt;annotation encoding="TeX"&gt;\frac{1}{\sqrt{2}}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;math&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060532Z" creationid="Nachec" creationdate="20221021T060532Z">
@@ -26082,6 +26114,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After running that command, a file `output.html` containing the following HTML output is created.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080823Z" creationid="Nachec" creationdate="20221021T080823Z">
+        <seg>Después de ejecutar ese comando, se crea un archivo `output.html` que contiene la siguiente salida HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After that, it is updated when:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T141338Z" creationid="gitnacho" creationdate="20221002T141338Z">
@@ -28909,6 +28949,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, using [LaTeXML](https://math.nist.gov/~BMiller/LaTeXML/) the following commands will convert `foo.tex` into a HTML or EPUB document:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080928Z" creationid="Nachec" creationdate="20221021T080928Z">
+        <seg>Por ejemplo, usando [LaTeXML](https://math.nist.gov/~BMiller/LaTeXML/) los siguientes comandos convertirán `foo.tex` en un documento HTML o EPUB:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, using [TeXZilla](https://github.com/fred-wang/TeXZilla)'s [`&lt;la-tex&gt;`](https://fred-wang.github.io/TeXZilla/examples/customElement.html) element, the [MathML example above](#mathml_in_html_pages) can just be rewritten more concisely as follows:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080342Z" creationid="Nachec" creationdate="20221021T080342Z">
@@ -31674,6 +31722,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211101T215958Z" creationid="gitnacho" creationdate="20211101T215958Z">
         <seg>En lugar de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead, conversion is executed via the following command line using [Node.js](https://nodejs.org/) and [TeXZilla](https://github.com/fred-wang/TeXZilla/wiki/Using-TeXZilla#usage-from-the-command-line):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080809Z" creationid="Nachec" creationdate="20221021T080809Z">
+        <seg>En cambio, la conversión se ejecuta a través de la siguiente línea de comandos usando [Node.js](https://nodejs.org/) y [TeXZilla](https://github.com/fred-wang/TeXZilla/wiki/Using-TeXZilla#usage-from-the-command-line):</seg>
       </tuv>
     </tu>
     <tu>
@@ -35860,6 +35916,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That page does contain any [`script`](/en-US/docs/Web/HTML/Element/script) tag.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080731Z" creationid="Nachec" creationdate="20221021T080731Z">
+        <seg>Esa página contiene cualquier etiqueta [`script`](/es/docs/Web/HTML/Element/script).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That's a pretty good starting point.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053344Z" creationid="gitnacho" creationdate="20221004T053344Z">
@@ -37919,6 +37983,14 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The formulas delimited by dollars have been converted into MathML:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080833Z" creationid="Nachec" creationdate="20221021T080833Z">
+        <seg>Las fórmulas delimitadas por dólares se han convertido a MathML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The full module all together looks like this, and can be found in our [wasm-table.wat](https://github.com/mdn/webassembly-examples/blob/master/understanding-text-format/wasm-table.wat) example file:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073332Z" creationid="gitnacho" creationdate="20221007T073332Z">
@@ -39233,6 +39305,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T201713Z" creationid="gitnacho" creationdate="20221011T201713Z">
         <seg>Hay muchos tipos de eventos, algunos de los cuales usan otras interfaces basadas en la interfaz principal de `Event`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are more sophisticated tools that aim at converting an arbitrary LaTeX document into a document with MathML content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080914Z" creationid="Nachec" creationdate="20221021T080914Z">
+        <seg>Existen herramientas más sofisticadas que tienen como objetivo convertir un documento LaTeX arbitrario en un documento con contenido MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45290,6 +45370,18 @@ cargo install wasm-pack
     <tu>
       <tuv lang="en-US">
         <seg>```bash
+cat input.html | node TeXZilla.js streamfilter &gt; output.html
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080812Z" creationid="Nachec" creationdate="20221021T080812Z">
+        <seg>```bash
+cat input.html | node TeXZilla.js streamfilter &gt; output.html
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
 cd ..</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065630Z" creationid="gitnacho" creationdate="20221004T065630Z">
@@ -45320,6 +45412,20 @@ git clone https://github.com/webmproject/libwebp
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053346Z" creationid="gitnacho" creationdate="20221004T053346Z">
         <seg>```bash
 git clone https://github.com/webmproject/libwebp
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
+latexmlc --dest foo.html foo.tex # Generate a HTML document foo.html
+latexmlc --dest foo.epub foo.tex # Generate an EPUB document foo.epub
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081017Z" creationid="Nachec" creationdate="20221021T081017Z">
+        <seg>```bash
+latexmlc --dest foo.html foo.tex # Genera un documento HTML foo.html
+latexmlc --dest foo.epub foo.tex # Genera un documento EPUB foo.epub
 ```</seg>
       </tuv>
     </tu>
@@ -48755,6 +48861,14 @@ unreachable
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074959Z" creationid="gitnacho" creationdate="20221007T074959Z">
         <seg>`externref` se puede usar para tipos de valor y elementos de tabla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`latexmlc` accepts a `--javascript` parameter that you can use to include one of the [fallback scripts](#fallback_for_browsers_without_mathml_support) mentioned above:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081150Z" creationid="Nachec" creationdate="20221021T081150Z">
+        <seg>`latexmlc` acepta un parámetro `--javascript` que puedes usar para incluir uno de los [scripts alternativos](#respaldo_para_navegadores_sin_ compatibilidad_con_mathml) mencionados anteriormente:</seg>
       </tuv>
     </tu>
     <tu>
