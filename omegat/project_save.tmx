@@ -2338,6 +2338,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Android</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195820Z" creationid="Nachec" creationdate="20221021T195820Z">
+        <seg>### Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Aside on instantiate() overloads</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T055818Z" creationid="gitnacho" creationdate="20221005T055818Z">
@@ -3906,6 +3914,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Arch Linux</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195649Z" creationid="Nachec" creationdate="20221021T195649Z">
+        <seg>#### Arch Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Built-in API modules</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072741Z" creationid="gitnacho" creationdate="20221005T072741Z">
@@ -4182,6 +4198,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T184835Z" creationid="gitnacho" creationdate="20221008T184835Z">
         <seg>#### Características de la tabla que no son compatibles con GFM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### TeXLive packages</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195706Z" creationid="Nachec" creationdate="20221021T195706Z">
+        <seg>#### Paquetes TeXLive</seg>
       </tuv>
     </tu>
     <tu>
@@ -23653,6 +23677,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;dir&gt;/your/path/to/texmf-dist/fonts/opentype&lt;/dir&gt;
+&lt;/fontconfig&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195734Z" creationid="Nachec" creationdate="20221021T195734Z">
+        <seg>&lt;dir&gt;/tu/ruta/toa/texmf-dist/fonts/opentype&lt;/dir&gt;
+&lt;/fontconfig&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;div</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T060158Z" creationid="gitnacho" creationdate="20220828T060158Z">
@@ -30821,6 +30857,14 @@ a simple value):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105843Z" creationid="Nachec" creationdate="20221021T105843Z">
         <seg>Enfocándonos en el símbolo de suma, podemos notar que el sigma se dibuja más pequeño y que los scripts del elemento `&lt;munderover&gt;` ahora se adjuntan como un subíndice y un superíndice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fonts with appropriate Unicode coverage and Open Font Format features are required for good math rendering.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195635Z" creationid="Nachec" creationdate="20221021T195635Z">
+        <seg>Se requieren fuentes con cobertura Unicode adecuada y características de formato de fuente abierta para un buen renderizado matemático.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48794,6 +48838,20 @@ latexmlc --dest foo.epub foo.tex # Genera un documento EPUB foo.epub
     <tu>
       <tuv lang="en-US">
         <seg>```bash
+ln -sf /etc/fonts/conf.avail/09-texlive-fonts.conf /etc/fonts/conf.d/
+fc-cache -sf
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195755Z" creationid="Nachec" creationdate="20221021T195755Z">
+        <seg>```bash
+ln -sf /etc/fonts/conf.avail/09-texlive-fonts.conf /etc/fonts/conf.d/
+fc-cache -sf
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
 npm install
 npm run serve
 ```</seg>
@@ -48802,6 +48860,54 @@ npm run serve
         <seg>```bash
 npm install
 npm run serve
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
+sudo dnf install texlive-lm-math stix-math-fonts
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195640Z" creationid="Nachec" creationdate="20221021T195640Z">
+        <seg>```bash
+sudo dnf install texlive-lm-math stix-math-fonts
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
+sudo pacman -S otf-latinmodern-math otf-stix
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195654Z" creationid="Nachec" creationdate="20221021T195654Z">
+        <seg>```bash
+sudo pacman -S otf-latinmodern-math otf-stix
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
+sudo urpmi texlive-dist texlive-fontsextra
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195712Z" creationid="Nachec" creationdate="20221021T195712Z">
+        <seg>```bash
+sudo urpmi texlive-dist texlive-fontsextra
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
+sudo zypper install texlive-lm-math stix-fonts
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195644Z" creationid="Nachec" creationdate="20221021T195644Z">
+        <seg>```bash
+sudo zypper install texlive-lm-math stix-fonts
 ```</seg>
       </tuv>
     </tu>
@@ -52289,6 +52395,20 @@ unreachable
         <seg>```wasm
 unreachable
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```xml
+&lt;?xml version="1.0"?&gt;
+&lt;!DOCTYPE fontconfig SYSTEM "fonts.dtd"&gt;
+&lt;fontconfig&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195718Z" creationid="Nachec" creationdate="20221021T195718Z">
+        <seg>```xml
+&lt;?xml version="1.0"?&gt;
+&lt;!DOCTYPE fontconfig SYSTEM "fonts.dtd"&gt;
+&lt;fontconfig&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61710,6 +61830,21 @@ tags:</prop>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085638Z" creationid="gitnacho" creationdate="20221002T092645Z">
         <seg>- Web
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">web/mathml/fonts/index.md</prop>
+      <prop type="prev">- MathML</prop>
+      <prop type="next">Fonts with appropriate Unicode coverage and Open Font Format features are required for good math rendering.</prop>
+      <tuv lang="en-US">
+        <seg>- Project
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195546Z" creationid="Nachec" creationdate="20221021T195546Z">
+        <seg>- Project
+  - Proyecto
 reviewer: Nachec
 ---</seg>
       </tuv>
