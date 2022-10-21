@@ -26196,6 +26196,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** If you are using macOS Ventura (version 13) or higher then _STIX Two Math_ is already pre-installed and you can skip the steps below.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201410Z" creationid="Nachec" creationdate="20221021T201410Z">
+        <seg>&gt; **Nota:** Si estás utilizando macOS Ventura (versión 13) o superior, _STIX Two Math_ ya está preinstalado y puedes omitir los siguientes pasos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** If you are working on a computer/tablet/other device where you don't have the ability to create your own files, you could try out the code examples in an online coding program such as [JSBin](https://jsbin.com/) or [Glitch](https://glitch.com/).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083812Z" creationid="Nachec" creationdate="20221021T083812Z">
@@ -26915,6 +26923,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T034924Z" creationid="gitnacho" creationdate="20220921T034924Z">
         <seg>&gt; **Nota:** [localStorage](/es/docs/Web/API/Web_Storage_API) funciona de manera similar a la memoria caché del *service worker*, pero es síncrono, por lo que no está permitido en el *service worker*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** _Cambria Math_ is installed by default on Windows 7 and later versions and should ensure relatively good MathML rendering.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201245Z" creationid="Nachec" creationdate="20221021T201245Z">
+        <seg>&gt; **Nota:** _Cambria Math_ está instalado de forma predeterminada en Windows 7 y versiones posteriores y debería garantizar un renderizado de MathML relativamente bueno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28412,6 +28428,22 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085240Z" creationid="Nachec" creationdate="20221021T085240Z">
         <seg>Aunque no es necesario estar familiarizado con [LaTeX](https://en.wikipedia.org/wiki/LaTeX), puede ser útil conocer la fuente de LaTeX desde la que se generó:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Among the files there, you will find a `STIXTwoMath-Regular.otf` file.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201453Z" creationid="Nachec" creationdate="20221021T201453Z">
+        <seg>Entre los archivos que están allí, encontrarás un archivo `STIXTwoMath-Regular.otf`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Among the files there, you will find a `STIXTwoMath-Regular` file.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201142Z" creationid="Nachec" creationdate="20221021T201142Z">
+        <seg>Entre los archivos que están allí, encontrarás un archivo `STIXTwoMath-Regular`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30253,6 +30285,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click the `latinmodern-math` font file click the **Install font** button from the window that opens.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201340Z" creationid="Nachec" creationdate="20221021T201340Z">
+        <seg>Haz doble clic en el archivo de fuente `latinmodern-math` y haz clic en el botón **Instalar fuente** en la ventana que se abre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download
 2.</seg>
       </tuv>
@@ -30742,6 +30782,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T103748Z" creationid="gitnacho" creationdate="20221006T084751Z">
         <seg>Las Funciones WebAssembly exportadas son cómo se representan las funciones de WebAssembly en JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extract the ZIP archive, move inside the `latinmodern-math-1959` directory and then inside the `otf` directory.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201316Z" creationid="Nachec" creationdate="20221021T201316Z">
+        <seg>Extrae el archivo ZIP, muévete dentro del directorio `latinmodern-math-1959` y luego dentro del directorio `otf`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32632,6 +32680,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If desired, you may also do the same for the other font files in the directory.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201213Z" creationid="Nachec" creationdate="20221021T201213Z">
+        <seg>Si lo deseas, también puedes hacer lo mismo con los demás archivos de fuentes del directorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If enabled, the [navigation preload](/en-US/docs/Web/API/NavigationPreloadManager) feature starts downloading resources as soon as the fetch request is made, and in parallel with service worker bootup.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T222052Z" creationid="gitnacho" creationdate="20220921T040847Z">
@@ -34368,6 +34424,22 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200942Z" creationid="Nachec" creationdate="20221021T200942Z">
         <seg>Instala las fuentes _Latin Modern Math_ y _STIX Two Math_ de la siguiente manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install the _Latin Modern Math_ font as follows:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201256Z" creationid="Nachec" creationdate="20221021T201256Z">
+        <seg>Instala la fuente _Latin Modern Math_ de la siguiente manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install the _STIX Two Math_ font as follows:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201421Z" creationid="Nachec" creationdate="20221021T201421Z">
+        <seg>Instala la fuente _STIX Two Math_ de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37251,6 +37323,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201023Z" creationid="Nachec" creationdate="20221021T201023Z">
         <seg>Abre el archivo ZIP, muévete dentro del directorio `latinmodern-math-1959` y luego dentro del directorio `otf`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the `STIXTwoMath-Regular` file and click the **Install** button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201201Z" creationid="Nachec" creationdate="20221021T201201Z">
+        <seg>Abre el archivo `STIXTwoMath-Regular` y haz clic en el botón **Instalar**.</seg>
       </tuv>
     </tu>
     <tu>
