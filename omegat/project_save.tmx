@@ -13477,6 +13477,20 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [The `&lt;mi&gt;` element](/en-US/docs/Web/MathML/Element/mi)
+- [The `&lt;mn&gt;` element](/en-US/docs/Web/MathML/Element/mn)
+- [The `&lt;mo&gt;` element](/en-US/docs/Web/MathML/Element/mo)
+- [The `&lt;mtext&gt;` element](/en-US/docs/Web/MathML/Element/mtext)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194419Z" creationid="Nachec" creationdate="20221021T194419Z">
+        <seg>- [El elemento `&lt;mi&gt;`](/es/docs/Web/MathML/Element/mi)
+- [El elemento `&lt;mn&gt;`](/es/docs/Web/MathML/Element/mn)
+- [El elemento `&lt;mo&gt;`](/es/docs/Web/MathML/Element/mo)
+- [El elemento `&lt;mtext&gt;`](/es/docs/Web/MathML/Element/mtext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [The `&lt;msub&gt;` element](/en-US/docs/Web/MathML/Element/msub)
 - [The `&lt;msup&gt;` element](/en-US/docs/Web/MathML/Element/msup)
 - [The `&lt;msubsup&gt;` element](/en-US/docs/Web/MathML/Element/msubsup)
@@ -23736,8 +23750,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;input type="button" id="clearOutput" value="Reset" /&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103835Z" creationid="Nachec" creationdate="20221021T103835Z">
-        <seg>&lt;input type="button" id="clearOutput" value="Reset" /&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194731Z" creationid="Nachec" creationdate="20221021T103835Z">
+        <seg>&lt;input type="button" id="clearOutput" value="Restablecer" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33829,6 +33843,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061757Z" creationid="Nachec" creationdate="20221021T061757Z">
         <seg>En el próximo artículo, continuaremos con las notaciones matemáticas básicas y consideraremos [scripts](/es/docs/Learn/MathML/First_steps/Scripts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the next article, we will see how to rely on _token_ elements to build much complex expressions such as [fractions and roots](/en-US/docs/Learn/MathML/First_steps/Fractions_and_roots).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194359Z" creationid="Nachec" creationdate="20221021T194359Z">
+        <seg>En el próximo artículo, veremos cómo confiar en los elementos _toquen_ para crear expresiones mucho más complejas, como [fracciones y raíces](/es/docs/Learn/MathML/First_steps/Fractions_and_roots).</seg>
       </tuv>
     </tu>
     <tu>
