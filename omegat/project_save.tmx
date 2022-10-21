@@ -11084,6 +11084,20 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- MathML Reference
+browser-compat: mathml.attribute_values
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223608Z" creationid="Nachec" creationdate="20221021T223608Z">
+        <seg>- MathML Reference
+  - Referencia MathML
+browser-compat: mathml.attribute_values
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- MathML:Element</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205405Z" creationid="Nachec" creationdate="20221021T205345Z">
@@ -15364,6 +15378,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070003Z" creationid="gitnacho" creationdate="20221005T070003Z">
         <seg>- `&lt;%= expr %&gt;` — el valor de una expresión de JavaScript se escapa para HTML antes de incluirse en la salida (por ejemplo, caracteres como `&lt;` y `&gt;` se convierten en `&amp;lt;` y `&amp;gt;`) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `&lt;unsigned-integer&gt;`: An [`&lt;integer&gt;`](/en-US/docs/Web/CSS/integer), whose first character is neither U+002D HYPHEN-MINUS character (-) nor U+002B PLUS SIGN (+); for example `1234`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223716Z" creationid="Nachec" creationdate="20221021T223716Z">
+        <seg>- `&lt;unsigned-integer&gt;`: Un [`&lt;integer&gt;`](/es/docs/Web/CSS/integer), cuyo primer carácter no es U+002D GUIÓN-MENOS (-) ni U+002B SIGNO MÁS (+); por ejemplo `1234`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20242,6 +20264,20 @@ tags:</seg>
         <seg>---
 title: MathML
 slug: Glossary/MathML
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: MathML Attribute Values
+slug: Web/MathML/Attribute/Values
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223515Z" creationid="Nachec" creationdate="20221021T223515Z">
+        <seg>---
+title: Valores de atributos de MathML
+slug: Web/MathML/Attribute/Values
 tags:</seg>
       </tuv>
     </tu>
@@ -35146,6 +35182,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T085858Z" creationid="gitnacho" creationdate="20221003T081057Z">
         <seg>En resumen, el proceso es el siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to [CSS data types](/en-US/docs/Web/CSS/CSS_Types), some MathML attributes accept the following types:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223621Z" creationid="Nachec" creationdate="20221021T223621Z">
+        <seg>Además de los [tipos de datos CSS](/es/docs/Web/CSS/CSS_Types), algunos atributos de MathML aceptan los siguientes tipos:</seg>
       </tuv>
     </tu>
     <tu>
