@@ -23870,14 +23870,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;li&gt;&lt;strong&gt;Spacing is automatically added around the &lt;code&gt;&amp;lt;mo&amp;gt;&lt;/code&gt; elements whose text is "∀", "∊", "=" or a comma&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193405Z" creationid="Nachec" creationdate="20221021T193405Z">
+        <seg>&lt;li&gt;&lt;strong&gt;El espaciado se agrega automáticamente alrededor de los elementos &lt;code&gt;&lt;mo&gt;&lt;/code&gt; cuyo texto es "∀", "∊", "=" o una coma&lt;/strong&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;li&gt;&lt;strong&gt;The &lt;code&gt;&amp;lt;mi&amp;gt;&lt;/code&gt; elements containing the "A" and "n" variables are rendered in italic&lt;/strong&gt;.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193056Z" creationid="Nachec" creationdate="20221021T193056Z">
-        <seg>&gt;&gt;li&gt;in embargo, los elementos &lt;code&gt;&amp;lt;mi&amp;gt;&lt;/code&gt; con varios caracteres "𝔰𝔩" o cuyo carácter es "𝔽" todavía se muestran en posición vertical.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;El espaciado se agrega automáticamente alrededor de los elementos &lt;code&gt;&amp;lt;mo&amp;gt;&lt;/code&gt; cuyo texto es "∀", "∊", "=" o una coma&lt;/strong&gt;.
-
-Sin embargo, algunos de ellos no tienen espacios agregados antes, mientras que los paréntesis todavía no tienen espacios alrededor de ellos.&lt;/li&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193236Z" creationid="Nachec" creationdate="20221021T193056Z">
+        <seg>&lt;li&gt;&lt;strong&gt;Los elementos &lt;code&gt;&amp;lt;mi&amp;gt;&lt;/code&gt; que contienen las variables "A" y "n" aparecen en cursiva&lt;/strong&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32118,6 +32122,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224848Z" creationid="gitnacho" creationdate="20221011T224848Z">
         <seg>Sin embargo, no todos los navegadores han implementado el cambio y, por lo tanto, aún exhiben el comportamiento requerido originalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the &lt;code&gt;&amp;lt;mi&amp;gt;&lt;/code&gt; elements with multiple characters "𝔰𝔩" or whose character is "𝔽" are still rendered upright.&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193344Z" creationid="Nachec" creationdate="20221021T193058Z">
+        <seg>Sin embargo, los elementos &lt;code&gt;&amp;lt;mi&amp;gt;&lt;/code&gt; con varios caracteres "𝔰𝔩" o cuyo carácter es "𝔽" todavía se muestran en posición vertical.&lt;/li&gt;</seg>
       </tuv>
     </tu>
     <tu>
