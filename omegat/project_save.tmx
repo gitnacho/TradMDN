@@ -24287,8 +24287,9 @@ i32.mul</seg>
         <seg>&lt;p&gt;&lt;input type="button" id="showSolution" value="Show solution" /&gt;&lt;/p&gt;
 ```</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102553Z" creationid="Nachec" creationdate="20221021T102553Z">
-        <seg>&lt;p&gt;&lt;input type="button" id="showSolution" value="Mostrar solución" /&gt;&lt;/p&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T111845Z" creationid="Nachec" creationdate="20221021T102553Z">
+        <seg>&lt;p&gt;&lt;input type="button" id="showSolution" value="Mostrar solución" /&gt;&lt;/p&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
