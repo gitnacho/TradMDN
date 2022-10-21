@@ -28791,6 +28791,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As usual, you are invited to read the source code when you are done:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194247Z" creationid="Nachec" creationdate="20221021T194247Z">
+        <seg>Como de costumbre, estás invitado a leer el código fuente cuando hayas terminado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As we've said elsewhere, WebAssembly doesn't aim to replace JavaScript; the two instead can work together, drawing on each other's strengths.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181521Z" creationid="gitnacho" creationdate="20221006T181521Z">
@@ -33889,6 +33897,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T095859Z" creationid="gitnacho" creationdate="20221003T095859Z">
         <seg>En este artículo te mostramos cómo usar WebAssembly mediante la API JavaScript de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this article, we have learnt about a few _token_ elements that are used as text containers as well as their different semantics, namely `&lt;mi&gt;` (identifier), `&lt;mn&gt;` (numbers), `&lt;mo&gt;` (operators), `&lt;mtext&gt;` (generic text).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194311Z" creationid="Nachec" creationdate="20221021T194311Z">
+        <seg>En este artículo, hemos aprendido acerca de algunos elementos _toquen_ que se utilizan como contenedores de texto, así como sus diferentes semánticas, a saber, `&lt;mi&gt;` (identificador), `&lt;mn&gt;` (números), `&lt;mo&gt;` ( operadores), `&lt;mtext&gt;` (texto genérico).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45721,6 +45737,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We have seen special Unicode characters that are commonly found in math formulas and given an overview of some observable behaviors of the `&lt;mi&gt;` and `&lt;mo&gt;` elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194337Z" creationid="Nachec" creationdate="20221021T194337Z">
+        <seg>Hemos visto caracteres Unicode especiales que comúnmente, se encuentran en fórmulas matemáticas y hemos dado una descripción general de algunos comportamientos observables de los elementos `&lt;mi&gt;` y `&lt;mo&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We have tried to make learning front-end web development as comfortable as possible, but you will probably still get stuck because you don't understand something, or some code is just not working.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223712Z" creationid="gitnacho" creationdate="20221018T223712Z">
@@ -48222,6 +48246,14 @@ crate-type = ["cdylib"]</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210930T105157Z" creationid="gitnacho" creationdate="20210930T105157Z">
         <seg>`;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`&lt;p&gt;&lt;strong&gt;${message}&lt;/strong&gt;&lt;/p&gt;`,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194225Z" creationid="Nachec" creationdate="20221021T194225Z">
+        <seg>`&lt;p&gt;&lt;strong&gt;${message}&lt;/strong&gt;&lt;/p&gt;`,</seg>
       </tuv>
     </tu>
     <tu>
@@ -55031,6 +55063,20 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>document.getElementsByTagName("mo"),
+).slice(0, 2);
+const outputDiv = document.getElementById("output");
+function clearHighlight() {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194040Z" creationid="Nachec" creationdate="20221021T194040Z">
+        <seg>document.getElementsByTagName("mo"),
+).slice(0, 2);
+const outputDiv = document.getElementById("output");
+function clearHighlight() {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>document.querySelector("#kind").textContent = "active";</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T213321Z" creationid="gitnacho" creationdate="20221003T213321Z">
@@ -55099,6 +55145,18 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>document.querySelectorAll("mi, mo, mn, mtext"),
+);
+const stretchyMoElements = Array.from(</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194036Z" creationid="Nachec" creationdate="20221021T194036Z">
+        <seg>document.querySelectorAll("mi, mo, mn, mtext"),
+);
+const stretchyMoElements = Array.from(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>document.querySelectorAll("msub, msup, msubsup, munder, mover, munderover")
 );
 const outputDiv = document.getElementById("output");
@@ -55157,6 +55215,14 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>else</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194143Z" creationid="Nachec" creationdate="20221021T194143Z">
+        <seg>else</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>else a</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T102131Z" creationid="gitnacho" creationdate="20221006T101949Z">
@@ -55169,6 +55235,14 @@ function clearHighlight() {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193520Z" creationid="gitnacho" creationdate="20221007T193520Z">
         <seg>de lo contrario, se genera un [`WebAssembly.LinkError`](/es/docs/WebAssembly/JavaScript_interface/LinkError).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>else if (!stretchyMoElements.includes(token))</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194116Z" creationid="Nachec" creationdate="20221021T194116Z">
+        <seg>else if (!stretchyMoElements.includes(token))</seg>
       </tuv>
     </tu>
     <tu>
@@ -56379,6 +56453,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>if (token.tagName !== "mo") message = `No, this is an ${tagName} element!`;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194114Z" creationid="Nachec" creationdate="20221021T194114Z">
+        <seg>if (token.tagName !== "mo") message = `¡No, este es un elemento ${tagName}!`;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>if (true) {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Pacho" changedate="20200607T121240Z" creationid="Pacho" creationdate="20200607T121240Z">
@@ -56765,6 +56847,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>let message = "";</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194043Z" creationid="Nachec" creationdate="20221021T194043Z">
+        <seg>let message = "";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>let options = {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20181129T062001Z" creationid="nacho" creationdate="20181129T062001Z">
@@ -56793,6 +56883,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210921T070217Z" creationid="gitnacho" creationdate="20210921T070217Z">
         <seg>let sum = 0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>let tagName = `&lt;code&gt;&amp;lt;${token.tagName}&amp;gt;&lt;/code&gt;`;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194044Z" creationid="Nachec" creationdate="20221021T194044Z">
+        <seg>let tagName = `&lt;code&gt;&amp;lt;${token.tagName}&amp;gt;&lt;/code&gt;`;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56999,6 +57097,22 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074328Z" creationid="gitnacho" creationdate="20221007T074328Z">
         <seg>memory: new WebAssembly.Memory({ initial: 1 }),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>message = `Correct, this ${tagName} element is indeed stretched to the height of its &lt;code&gt;&amp;lt;mfrac&amp;gt;&lt;/code&gt; sibling.`;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194221Z" creationid="Nachec" creationdate="20221021T194221Z">
+        <seg>message = `Correcto, este elemento ${tagName} está de hecho extendido a la altura de su hermano &lt;code&gt;&amp;lt;mfrac&amp;gt;&lt;/code&gt;.`;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>message = `No, this is an ${tagName} element, but it's not vertically stretched.`;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194142Z" creationid="Nachec" creationdate="20221021T194142Z">
+        <seg>message = `No, este es un elemento ${tagName}, pero no está estirado verticalmente.`;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59621,6 +59735,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191542Z" creationid="Nachec" creationdate="20221021T191542Z">
         <seg>{{ EmbedLiveSample('Active_learning_recognize_token_elements', 700, 400, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Active_learning_stretchy_fences', 700, 400, "", "") }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194227Z" creationid="Nachec" creationdate="20221021T194227Z">
+        <seg>{{ EmbedLiveSample('Active_learning_stretchy_fences', 700, 400, "", "") }}</seg>
       </tuv>
     </tu>
     <tu>
