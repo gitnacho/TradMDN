@@ -18215,6 +18215,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: MathML
+slug: Glossary/MathML
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064947Z" creationid="Nachec" creationdate="20221021T064947Z">
+        <seg>---
+title: MathML
+slug: Glossary/MathML
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: MathML fractions and roots
 slug: Learn/MathML/First_steps/Fractions_and_roots
 tags:</seg>
@@ -24662,8 +24676,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Warning:** In practice, MathML content is generated from [lightweight markup languages](https://en.wikipedia.org/wiki/Lightweight_markup_language) (e.g. [LaTeX](https://en.wikipedia.org/wiki/LaTeX)) or using [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface): if you just need to integrate mathematical formulas in your web pages, the tips from the [Authoring MathML](/en-US/docs/Web/MathML/Authoring) page should be enough.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063610Z" creationid="Nachec" creationdate="20221021T063610Z">
-        <seg>&gt; **Advertencia:** En la práctica, el contenido de MathML se genera a partir de [lenguaje de marcado ligero](https://en.wikipedia.org/wiki/Lightweight_markup_language) (por ejemplo, [LaTeX](https://es.wikipedia.org/wiki/LaTeX)) o usando la [interfaz gráfica de usuario](https://es.wikipedia.org/wiki/Graphical_user_interface): si solo necesitas integrar fórmulas matemáticas en tus páginas web, los consejos del [Autor MathML](/es/docs/Web/MathML/Authoring) deberían ser suficientes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064549Z" creationid="Nachec" creationdate="20221021T063610Z">
+        <seg>&gt; **Advertencia:** En la práctica, el contenido de MathML se genera a partir de [lenguajes de marcado ligero](https://en.wikipedia.org/wiki/Lightweight_markup_language) (por ejemplo, [LaTeX](https://es.wikipedia.org/wiki/LaTeX)) o usando la [interfaz gráfica de usuario](https://es.wikipedia.org/wiki/Graphical_user_interface): si solo necesitas integrar fórmulas matemáticas en tus páginas web, los consejos del [Autor MathML](/es/docs/Web/MathML/Authoring) deberían ser suficientes.</seg>
       </tuv>
     </tu>
     <tu>
