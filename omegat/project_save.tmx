@@ -3626,6 +3626,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Fallback for browsers without MathML support</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075235Z" creationid="Nachec" creationdate="20221021T075235Z">
+        <seg>#### Respaldo para navegadores sin compatibilidad con MathML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### File objects</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T071119Z" creationid="gitnacho" creationdate="20221005T071119Z">
@@ -24244,6 +24252,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Some email or instant messaging clients are able to send and receive messages in the HTML format.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075146Z" creationid="Nachec" creationdate="20221021T075146Z">
+        <seg>&gt; **Nota:** Algunos clientes de correo electrónico o mensajería instantánea pueden enviar y recibir mensajes en formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Some enterprise authentication services require that TLS client certificates be sent in preflight requests, in contravention of the [Fetch](https://fetch.spec.whatwg.org/#cors-protocol-and-credentials) specification.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T052954Z" creationid="gitnacho" creationdate="20221011T230745Z">
@@ -24372,6 +24388,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T231303Z" creationid="gitnacho" creationdate="20221002T231303Z">
         <seg>&gt; **Nota:** Hay otro ejemplo un poco más complejo para explorar en [Usar la API de almacenamiento web](/es/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** These small scripts perform feature detection (of the [mspace](/en-US/docs/Web/MathML/Element/mspace) or [mpadded](/en-US/docs/Web/MathML/Element/mpadded) elements) which is preferred over [browser sniffing](/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075440Z" creationid="Nachec" creationdate="20221021T075440Z">
+        <seg>&gt; **Nota:** Estos pequeños scripts realizan la detección de características (de elementos [mspace](/es/docs/Web/MathML/Element/mspace) o [mpadded](/es/docs/Web/MathML/Element/mpadded)) que se prefiere sobre [exploración del navegador](/es/docs/Web/HTTP/Browser_detection_using_the_user_agent).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26072,6 +26096,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062614Z" creationid="gitnacho" creationdate="20221019T062614Z">
         <seg>Alternativamente, copia la dirección web de la imagen de la barra de direcciones de tu navegador para su posterior uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, you can also just display a warning at the top of the page for browsers without good MathML support and let the users choose between one of the fallback above:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075402Z" creationid="Nachec" creationdate="20221021T075402Z">
+        <seg>Alternativamente, también puedes mostrar una advertencia en la parte superior de la página para los navegadores sin un buen soporte de MathML y ​​dejar que los usuarios elijan entre uno de los anteriores:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30367,6 +30399,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you need more complex constructions, you might instead consider using the heavier [MathJax](https://www.mathjax.org) library as a MathML polyfill:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075334Z" creationid="Nachec" creationdate="20221021T075334Z">
+        <seg>Si necesitas construcciones más complejas, podrías considerar usar la biblioteca [MathJax](https://www.mathjax.org) más pesada como un `polyfill` de MathML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you need to call another template from within a block of code, do not use `&lt;%` … `%&gt;`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072430Z" creationid="gitnacho" creationdate="20221005T072430Z">
@@ -30507,6 +30547,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061809Z" creationid="gitnacho" creationdate="20221004T061809Z">
         <seg>Si has utilizado `Gemfile` de Bundler o `package.json` de npm, es probable que te resulte familiar; Cargo funciona de manera similar a ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If your document contains only basic mathematical formulas then a small [mathml.css](https://github.com/fred-wang/mathml.css) stylesheet might be enough.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075301Z" creationid="Nachec" creationdate="20221021T075301Z">
+        <seg>Si tu documento contiene solo fórmulas matemáticas básicas, entonces una pequeña hoja de estilo [mathml.css](https://github.com/fred-wang/mathml.css) podría ser suficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31858,6 +31906,22 @@ y \{{cssxref("margin-left")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224759Z" creationid="gitnacho" creationdate="20221018T224759Z">
         <seg>Es recomendable que tengas conocimientos básicos de HTML antes de comenzar a aprender JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is recommended to provide a fallback mechanism for browsers without MathML support.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075247Z" creationid="Nachec" creationdate="20221021T075247Z">
+        <seg>Se recomienda proporcionar un mecanismo de respaldo para navegadores sin compatibilidad con MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is thus possible to embed mathematical formulas inside such messages, as long as MathML tags are not filtered out by markup sanitizers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075226Z" creationid="Nachec" creationdate="20221021T075226Z">
+        <seg>Por lo tanto, es posible incrustar fórmulas matemáticas dentro de dichos mensajes, siempre y cuando, las etiquetas MathML no sean filtradas por desinfectantes de marcado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41602,6 +41666,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To load it conditionally, just insert one line in your document header:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075314Z" creationid="Nachec" creationdate="20221021T075314Z">
+        <seg>Para cargarlo condicionalmente, simplemente inserta una línea en la cabecera de tu documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To make it a little more "safe", here we also test that we have the right tag using the [`is()` method](/en-US/docs/WebAssembly/JavaScript_interface/Exception/is).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143239Z" creationid="gitnacho" creationdate="20221019T143239Z">
@@ -45258,6 +45330,42 @@ math {</seg>
         <seg>```html
 &lt;script src="./a.out.js"&gt;&lt;/script&gt;
 &lt;script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;script src="https://fred-wang.github.io/mathjax.js/mpadded-min.js"&gt;&lt;/script&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075335Z" creationid="Nachec" creationdate="20221021T075335Z">
+        <seg>```html
+&lt;script src="https://fred-wang.github.io/mathjax.js/mpadded-min.js"&gt;&lt;/script&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;script src="https://fred-wang.github.io/mathml-warning.js/mpadded-min.js"&gt;&lt;/script&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075403Z" creationid="Nachec" creationdate="20221021T075403Z">
+        <seg>```html
+&lt;script src="https://fred-wang.github.io/mathml-warning.js/mpadded-min.js"&gt;&lt;/script&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;script src="https://fred-wang.github.io/mathml.css/mspace.js"&gt;&lt;/script&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075316Z" creationid="Nachec" creationdate="20221021T075316Z">
+        <seg>```html
+&lt;script src="https://fred-wang.github.io/mathml.css/mspace.js"&gt;&lt;/script&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
