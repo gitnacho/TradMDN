@@ -24218,6 +24218,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Command-line tools can be used server-side e.g. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) performs LaTeX-to-MathML conversion via [Mathoid](https://github.com/wikimedia/mathoid).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081340Z" creationid="Nachec" creationdate="20221021T081305Z">
+        <seg>&gt; **Nota:** Las herramientas de línea de comandos se pueden usar en el lado del servidor, p. ej. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) realiza la conversión de LaTeX a MathML a través de [Mathoid](https://github.com/wikimedia/mathoid).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Complex projects need detailed guidelines that go into all the details of colors, fonts, spacing between items on a page, appropriate writing style, and so on.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061211Z" creationid="gitnacho" creationdate="20221019T061211Z">
@@ -45412,6 +45420,20 @@ git clone https://github.com/webmproject/libwebp
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053346Z" creationid="gitnacho" creationdate="20221004T053346Z">
         <seg>```bash
 git clone https://github.com/webmproject/libwebp
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```bash
+latexmlc --dest foo.html --javascript=https://fred-wang.github.io/mathml.css/mspace.js foo.tex  # Add the CSS fallback
+latexmlc --dest foo.html --javascript=https://fred-wang.github.io/mathjax.js/mpadded-min.js foo.tex # Add the MathJax fallback
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081314Z" creationid="Nachec" creationdate="20221021T081231Z">
+        <seg>```bash
+latexmlc --dest foo.html --javascript=https://fred-wang.github.io/mathml.css/mspace.js foo.tex  # Agrega  el respaldo de CSS
+latexmlc --dest foo.html --javascript=https://fred-wang.github.io/mathjax.js/mpadded-min.js foo.tex # Agrega el respaldo de MathJax
 ```</seg>
       </tuv>
     </tu>
