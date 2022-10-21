@@ -44405,6 +44405,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are a common set of data types — values and units — that CSS properties accept.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233424Z" creationid="Nachec" creationdate="20221021T233424Z">
+        <seg>Hay un conjunto común de tipos de datos (valores y unidades) que aceptan las propiedades CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are a few important limitations to note about the interactive examples:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205850Z" creationid="gitnacho" creationdate="20221005T205850Z">
