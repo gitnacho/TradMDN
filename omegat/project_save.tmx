@@ -4114,6 +4114,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Angle units</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235649Z" creationid="Nachec" creationdate="20221021T235649Z">
+        <seg>#### Unidades angulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Arch Linux</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195649Z" creationid="Nachec" creationdate="20221021T195649Z">
@@ -29817,6 +29825,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Absolute length units are fixed to a physical length: either an inch or a centimeter.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235357Z" creationid="Nachec" creationdate="20221021T235357Z">
+        <seg>Las unidades de longitud absoluta se fijan a una longitud física: ya sea una pulgada o un centímetro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accepted values included non-zero unitless length values (e.g. `5` to mean `500%`), values containing numbers ending with a dot (e.g. `34.px`), or named spaces (e.g. `thinmathspace`).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223839Z" creationid="Nachec" creationdate="20221021T223839Z">
@@ -30596,6 +30612,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T073642Z" creationid="gitnacho" creationdate="20221005T073642Z">
         <seg>Y, la salida de esta plantilla sería:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Angle values are represented by the type {{cssxref("&amp;lt;angle&amp;gt;")}} and accept the following values:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235701Z" creationid="Nachec" creationdate="20221021T235701Z">
+        <seg>Los valores de ángulo están representados por el tipo {{CSSxRef("&amp;lt;angle&amp;gt;")}} y aceptan los siguientes valores:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33201,6 +33225,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T055030Z" creationid="gitnacho" creationdate="20221007T055030Z">
         <seg>Por ejemplo, `local.get` se define para insertar el valor del local que leyó en la pila, e `i32.add` saca dos valores `i32` (implícitamente toma los dos valores anteriores colocados en la pila), calcula su suma (módulo 2^32) y empuja el valor i32 resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, `mm` is a physical millimeter, 1/10th of a centimeter.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235531Z" creationid="Nachec" creationdate="20221021T235531Z">
+        <seg>Por ejemplo, `mm` es un milímetro físico, 1/10 de centímetro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38209,6 +38241,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Many of these units are therefore more useful when the output is a fixed size media, such as print.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235521Z" creationid="Nachec" creationdate="20221021T235358Z">
+        <seg>Por lo tanto, muchas de estas unidades son más útiles cuando la salida es un medio de tamaño fijo, como una impresión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many people use npm packages through various bundler tools, and we'll be using one of them, `webpack`, in this tutorial.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065513Z" creationid="gitnacho" creationdate="20221004T065513Z">
@@ -39647,6 +39687,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210113T060940Z" creationid="nacho" creationdate="20210113T060940Z">
         <seg>De otra manera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Otherwise, the unit identifier is required, is case insensitive, and must come immediately after the numeric part of the value, with no space in-between.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235639Z" creationid="Nachec" creationdate="20221021T235639Z">
+        <seg>De lo contrario, se requiere el identificador de la unidad, no distingue entre mayúsculas y minúsculas y debe ir inmediatamente después de la parte numérica del valor, sin espacios intermedios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49453,6 +49501,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065543Z" creationid="gitnacho" creationdate="20221005T065543Z">
         <seg>En caso de duda, [intenta ejecutar tu JSON a través de un validador](https://jsonlint.com/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When including a length value, if the length is `0`, the unit identifier is not required.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235620Z" creationid="Nachec" creationdate="20221021T235620Z">
+        <seg>Al incluir un valor de longitud, si la longitud es `0`, no se requiere el identificador de la unidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63847,6 +63903,16 @@ console.log(uintc8FromIterable);
     <tu>
       <tuv lang="en-US">
         <seg>|
+| `vmax` | 1% of viewport's larger dimension.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235338Z" creationid="Nachec" creationdate="20221021T235338Z">
+        <seg>|
+| `vmáx` | 1% de la dimensión más grande de la ventana gráfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
 | `vmin` | 1% of viewport's smaller dimension.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235326Z" creationid="Nachec" creationdate="20221021T235326Z">
@@ -64156,6 +64222,18 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| Unit   | Name     | Description                              |
+| ------ | -------- | ---------------------------------------- |
+| `deg`  | Degrees  | There are 360 degrees in a full circle.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235725Z" creationid="Nachec" creationdate="20221021T235725Z">
+        <seg>| Unidad | Nombre | Descripción |
+| - | - | - |
+| `deg` | Grados | Hay 360 grados en un círculo completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| Unit   | Relative to                                                                                                                            |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | `em`   | Font size of the element.</seg>
@@ -64178,6 +64256,30 @@ console.log(uintc8FromIterable);
 | - | - |
 | `em` | unidad {{ Cssxref("font-size", "Font-relative") }} |
 | `ex` | unidad {{ Cssxref("font-size", "Font-relative") }}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Unit | Name                | Equivalent to       |
+| ---- | ------------------- | ------------------- |
+| `cm` | Centimeters         | 1cm = 96px/2.54     |
+| `mm` | Millimeters         | 1mm = 1/10th of 1cm |
+| `Q`  | Quarter-millimeters | 1Q = 1/40th of 1cm  |
+| `in` | Inches              | 1in = 2.54cm = 96px |
+| `pc` | Picas               | 1pc = 1/6th of 1in  |
+| `pt` | Points              | 1pt = 1/72th of 1in |
+| `px` | Pixels              | 1px = 1/96th of 1in |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235608Z" creationid="Nachec" creationdate="20221021T235608Z">
+        <seg>| Unidad | Nombre | Equivalente a |
+| - | - | - |
+| `cm` | Centímetros | 1cm = 96px/2.54 |
+| `mm` | Milímetros | 1 mm = 1/10 de 1 cm |
+| `Q` | Cuartos de milímetro | 1Q = 1/40 de 1cm |
+| `en` | Pulgadas | 1 pulgada = 2,54 cm = 96 px |
+| `pc` | picas | 1 pica = 1/6 de 1 pulgada |
+| `pt` | Puntos | 1pt = 1/72 de 1 pulgada |
+| `px` | Píxeles | 1px = 1/96 de 1 pulgada |</seg>
       </tuv>
     </tu>
     <tu>
