@@ -3802,6 +3802,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### The `Accept` header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092201Z" creationid="Nachec" creationdate="20221022T092201Z">
+        <seg>### La cabecera `Accept`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### The display attribute</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181528Z" creationid="Nachec" creationdate="20221021T181528Z">
@@ -9695,6 +9703,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- As several representations of a given resource are sent, shared caches are less efficient and server implementations are more complex.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092153Z" creationid="Nachec" creationdate="20221022T092153Z">
+        <seg>- Como se envían varias representaciones de un recurso dado, las cachés compartidas son menos eficientes y las implementaciones del servidor son más complejas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- AssemblyScript</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T003603Z" creationid="gitnacho" creationdate="20221003T003603Z">
@@ -12485,6 +12501,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072127Z" creationid="gitnacho" creationdate="20221007T072127Z">
         <seg>- Las secciones de funciones (`func`) son como cualquier otra función `wasm` declarada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The information from the client is quite verbose (HTTP/2 header compression mitigates this problem) and a privacy risk (HTTP fingerprinting).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092135Z" creationid="Nachec" creationdate="20221022T092135Z">
+        <seg>- La información del cliente es bastante detallada (la compresión de la cabecera HTTP/2 mitiga este problema) y un riesgo de privacidad (huella digital HTTP).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33690,6 +33714,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, fetching an HTML page or an image, a video, or a script.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092400Z" creationid="Nachec" creationdate="20221022T092400Z">
+        <seg>Por ejemplo, obtener una página HTML o una imagen, un video o un script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, following `Accept-CH` in a response below, the client could append {{HTTPHeader("Width")}}, {{HTTPHeader("Downlink")}} and {{HTTPHeader("Sec-CH-UA")}} headers to all subsequent requests.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091531Z" creationid="gitnacho" creationdate="20221012T091531Z">
@@ -37954,6 +37986,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042311Z" creationid="gitnacho" creationdate="20220925T042311Z">
         <seg>Es mucho trabajo crear un sitio web profesional, así que si eres nuevo en el desarrollo web, te animamos a que empieces poco a poco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's different when fetching a document entered in the address bar or an element linked via an {{ HTMLElement("img") }}, {{ HTMLElement("video") }}, or {{ HTMLElement("audio") }} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092416Z" creationid="Nachec" creationdate="20221022T092416Z">
+        <seg>Es diferente cuando se obtiene un documento ingresado en la barra de direcciones o un elemento vinculado a través de un elemento {{ HTMLElement("img") }}, {{ HTMLElement("video") }} o {{ HTMLElement("audio") }}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42933,6 +42973,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `Accept` header is defined by the browser, or any other user agent, and can vary according to the context.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092243Z" creationid="Nachec" creationdate="20221022T092243Z">
+        <seg>La cabecera `Accept` la define el navegador o cualquier otro agente de usuario y puede variar según el contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `Link` macro [is now deprecated](https://github.com/mdn/yari/pull/6865) and
 should no longer be used.</seg>
       </tuv>
@@ -45464,6 +45512,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The {{HTTPHeader("Accept")}} header lists the MIME types of media resources that the agent is willing to process.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092213Z" creationid="Nachec" creationdate="20221022T092213Z">
+        <seg>La cabecera {{HTTPHeader("Accept")}} enumera los tipos MIME de recursos multimedia que el agente está dispuesto a procesar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Allow-Credentials")}} header indicates whether or not the response to the request can be exposed when the `credentials` flag is true.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054152Z" creationid="gitnacho" creationdate="20221012T054152Z">
@@ -47236,6 +47292,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122941Z" creationid="gitnacho" creationdate="20221003T122941Z">
         <seg>Este es un atributo booleano: la presencia de un atributo booleano en un elemento representa el valor `true` y la ausencia del atributo representa el valor `false`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a comma-separated list of MIME types, each combined with a quality factor, a parameter that indicates the relative degree of preference between the different MIME types.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092230Z" creationid="Nachec" creationdate="20221022T092230Z">
+        <seg>Esta es una lista separada por comas de tipos MIME, cada uno combinado con un factor de calidad, un parámetro que indica el grado relativo de preferencia entre los diferentes tipos MIME.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49027,6 +49091,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221009T003320Z" creationid="gitnacho" creationdate="20221009T003320Z">
         <seg>A diferencia de la mayoría de los otros objetos globales, `WebAssembly` no es un constructor (no es un objeto `function`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlike reactive content negotiation where the client makes the choice, the server choice is always somewhat arbitrary.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092121Z" creationid="Nachec" creationdate="20221022T092121Z">
+        <seg>A diferencia de la negociación de contenido reactivo en la que el cliente elige, la elección del servidor siempre es algo arbitraria.</seg>
       </tuv>
     </tu>
     <tu>
