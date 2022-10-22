@@ -10781,6 +10781,15 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Headers</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T101249Z" creationid="Nachec" creationdate="20221022T101249Z">
+        <seg>- Headers
+  - Cabeceras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- History</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T112504Z" creationid="gitnacho" creationdate="20221019T112504Z">
@@ -11995,6 +12004,20 @@ browser-compat: html.elements.canvas
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T202331Z" creationid="gitnacho" creationdate="20221002T061941Z">
         <seg>- Reference
 browser-compat: html.elements.canvas
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Reference
+browser-compat: http.headers.Content-Language
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T101313Z" creationid="Nachec" creationdate="20221022T101313Z">
+        <seg>- Reference
+  - Referencia
+browser-compat: http.headers.Content-Language
+reviewer: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -20422,6 +20445,20 @@ tags:</seg>
         <seg>---
 title: Negociación de contenido
 slug: Web/HTTP/Content_negotiation
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Content-Language
+slug: Web/HTTP/Headers/Content-Language
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T101238Z" creationid="Nachec" creationdate="20221022T101238Z">
+        <seg>---
+title: Content-Language
+slug: Web/HTTP/Headers/Content-Language
 tags:</seg>
       </tuv>
     </tu>
@@ -44772,8 +44809,8 @@ detalles en la consola:</seg>
       <tuv lang="en-US">
         <seg>The headers must then be sent with every request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094414Z" creationid="Nachec" creationdate="20221022T094414Z">
-        <seg>Los cabeceras se deben enviar con cada solicitud.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T100921Z" creationid="Nachec" creationdate="20221022T094414Z">
+        <seg>Las cabeceras se deben enviar con cada solicitud.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44998,8 +45035,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The more precisely headers are sent, the more entropy is sent, allowing for more HTTP fingerprinting and corresponding privacy concerns.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094509Z" creationid="Nachec" creationdate="20221022T094451Z">
-        <seg>Cuanto más precisas se envían los cabeceras, más entropía se envía, lo que permite más huellas dactilares HTTP y las preocupaciones de privacidad correspondientes aumentan exponencialmente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T100940Z" creationid="Nachec" creationdate="20221022T094451Z">
+        <seg>Cuanto más precisas se envían las cabeceras, más entropía se envía, lo que permite más huellas dactilares HTTP y las preocupaciones de privacidad correspondientes aumentan exponencialmente.</seg>
       </tuv>
     </tu>
     <tu>
