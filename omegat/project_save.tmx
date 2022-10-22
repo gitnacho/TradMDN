@@ -20889,11 +20889,12 @@ slug: MDN/Writing_guidelines/Page_structures/Code_examples
 page-type: mdn-writing-guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T085618Z" creationid="gitnacho" creationdate="20221005T202333Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193204Z" creationid="gitnacho" creationdate="20221005T202333Z">
         <seg>---
 title: Código de ejemplo
 slug: MDN/Writing_guidelines/Page_structures/Code_examples
 page-type: mdn-writing-guide
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20919,11 +20920,12 @@ slug: MDN/Writing_guidelines/Page_structures/Macros/Commonly_used_macros
 page-type: mdn-writing-guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T101552Z" creationid="gitnacho" creationdate="20221005T101517Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193313Z" creationid="gitnacho" creationdate="20221005T101517Z">
         <seg>---
 title: Macros usadas comúnmente
 slug: MDN/Writing_guidelines/Page_structures/Macros/Commonly_used_macros
 page-type: mdn-writing-guide
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21425,11 +21427,12 @@ slug: MDN/Writing_guidelines/Page_structures/Macros/Deprecated_macros
 page-type: mdn-writing-guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T215856Z" creationid="gitnacho" creationdate="20221005T215829Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193330Z" creationid="gitnacho" creationdate="20221005T215829Z">
         <seg>---
 title: Cómo reemplazar las macros obsoletas de KumaScript
 slug: MDN/Writing_guidelines/Page_structures/Macros/Deprecated_macros
 page-type: mdn-writing-guide
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21440,10 +21443,11 @@ title: How to write in markdown
 slug: MDN/Writing_guidelines/Howto/Markdown_in_MDN
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T164903Z" creationid="gitnacho" creationdate="20221008T164903Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193141Z" creationid="gitnacho" creationdate="20221008T164903Z">
         <seg>---
 title: Cómo escribir en Markdown
 slug: MDN/Writing_guidelines/Howto/Markdown_in_MDN
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21512,10 +21516,11 @@ title: KumaScript
 slug: MDN/Tools/KumaScript
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T064416Z" creationid="gitnacho" creationdate="20221005T064416Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193055Z" creationid="gitnacho" creationdate="20221005T064416Z">
         <seg>---
 title: KumaScript
 slug: MDN/Tools/KumaScript
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22115,10 +22120,11 @@ title: Troubleshooting KumaScript errors
 slug: MDN/Tools/KumaScript/Troubleshooting
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T091647Z" creationid="gitnacho" creationdate="20221005T091647Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193109Z" creationid="gitnacho" creationdate="20221005T091647Z">
         <seg>---
 title: Solución de errores KumaScript
 slug: MDN/Tools/KumaScript/Troubleshooting
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
