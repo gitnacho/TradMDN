@@ -3058,10 +3058,26 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Indicating a target audience for a resource</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T103022Z" creationid="Nachec" creationdate="20221022T103022Z">
+        <seg>### Indicar un público objetivo para un recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Indicating that a feature is available in web workers</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T115655Z" creationid="gitnacho" creationdate="20221005T115655Z">
         <seg>### Indicar que una función está disponible en *web workers*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Indicating the language a document is written in</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102922Z" creationid="Nachec" creationdate="20221022T102922Z">
+        <seg>### Indicar el idioma en el que está escrito un documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -18478,6 +18494,18 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Accept-Language")}}
+- [HTTP headers, meta elements and language information](https://www.w3.org/International/questions/qa-http-and-lang.en)
+- [HTML `lang` attribute](/en-US/docs/Web/HTML/Global_attributes/lang)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T103105Z" creationid="Nachec" creationdate="20221022T103105Z">
+        <seg>- {{HTTPHeader("Accept-Language")}}
+- [Cabeceras HTTP, metaelementos e información sobre el idioma](https://www.w3.org/International/questions/qa-http-and-lang.en)
+- [El atributo `lang` de HTML](/es/docs/Web/HTML/Global_attributes/lang)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{HTTPHeader("Access-Control-Allow-Credentials")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210650Z" creationid="gitnacho" creationdate="20221017T210650Z">
@@ -28541,6 +28569,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Language tags are formally defined in [RFC 5646](https://datatracker.ietf.org/doc/html/rfc5646), which rely on the [ISO 639](https://en.wikipedia.org/wiki/ISO_639) standard (quite often the [ISO 639-1 code list](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)) for [language codes](https://en.wikipedia.org/wiki/Language_code) to be used.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102915Z" creationid="Nachec" creationdate="20221022T102915Z">
+        <seg>&gt; **Nota:** Las etiquetas de idioma se definen formalmente en [RFC 5646](https://datatracker.ietf.org/doc/html/rfc5646), que se basan en [ISO 639](https://en. wikipedia.org/wiki/ISO_639) estándar (muy a menudo la [lista de códigos ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)) para [códigos de idioma](https://en .wikipedia.org/wiki/Language_code) que se utilizará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Make sure to use an up-to-date web server that supports the `application/wasm` MIME type.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065016Z" creationid="gitnacho" creationdate="20221004T065016Z">
@@ -32895,6 +32931,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030548Z" creationid="gitnacho" creationdate="20220923T030548Z">
         <seg>El acceso directo entre dos contextos *window* de nivel superior esencialmente solo funciona si son del mismo origen y llevan los mismos dos encabezados con los dos mismos valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do **not** use this meta element like this for stating a document language:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102958Z" creationid="Nachec" creationdate="20221022T102958Z">
+        <seg>**No** uses un metaelemento como este para indicar el idioma de un documento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43498,6 +43542,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `Content-Language` header is used to specify the **page's intended audience** and can indicate that this is more than one language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T103034Z" creationid="Nachec" creationdate="20221022T103034Z">
+        <seg>La cabecera `Content-Language` se utiliza para especificar el **público objetivo de la página** y puede indicar que se trata de más de un idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `Link` macro [is now deprecated](https://github.com/mdn/yari/pull/6865) and
 should no longer be used.</seg>
       </tuv>
@@ -44915,6 +44967,14 @@ detalles en la consola:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081740Z" creationid="gitnacho" creationdate="20221003T081740Z">
         <seg>El documento HTML generado carga el archivo de enlace JavaScript y escribe `stdout` en un elemento {{htmlelement("textarea")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The global [`lang`](/en-US/docs/Web/HTML/Global_attributes/lang) attribute is used on HTML elements to indicate the language of an entire [HTML](/en-US/docs/Web/HTML) document or parts of it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102937Z" creationid="Nachec" creationdate="20221022T102937Z">
+        <seg>El atributo global [`lang`](/es/docs/Web/HTML/Global_attributes/lang) se usa en elementos HTML para indicar el idioma de un documento [HTML](/es/docs/Web/HTML) completo o de partes de él.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53800,6 +53860,18 @@ p {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```html
+&lt;html lang="de"&gt;…&lt;/html&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102938Z" creationid="Nachec" creationdate="20221022T102938Z">
+        <seg>```html
+&lt;html lang="de"&gt;…&lt;/html&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
 &lt;img src="example.svg" alt="three circles" width="300" height="100" /&gt;
 &lt;br /&gt;
 &lt;img src="example.svg#three" alt="blue circle" width="100" height="100" /&gt;
@@ -54026,6 +54098,20 @@ p {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183350Z" creationid="gitnacho" creationdate="20221008T183350Z">
         <seg>```html
 &lt;ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html example-bad
+&lt;!-- /!\ This is bad practice --&gt;
+&lt;meta http-equiv="content-language" content="de" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T103015Z" creationid="Nachec" creationdate="20221022T103015Z">
+        <seg>```html example-bad
+&lt;!-- /!\ Esta es una mala práctica --&gt;
+&lt;meta http-equiv="content-language" content="de" /&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -54317,6 +54403,18 @@ Access-Control-Request-Headers: X-PINGOTHER, Content-Type
         <seg>```http
 Access-Control-Request-Method: POST
 Access-Control-Request-Headers: X-PINGOTHER, Content-Type
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+Content-Language: de, en
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T103035Z" creationid="Nachec" creationdate="20221022T103035Z">
+        <seg>```http
+Content-Language: de, en
 ```</seg>
       </tuv>
     </tu>
