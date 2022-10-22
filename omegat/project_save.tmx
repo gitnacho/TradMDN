@@ -3842,6 +3842,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### The `User-Agent` header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093303Z" creationid="Nachec" creationdate="20221022T093303Z">
+        <seg>### La cabecera `User-Agent`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### The display attribute</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181528Z" creationid="Nachec" creationdate="20221021T181528Z">
@@ -11732,6 +11740,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Once a user has overridden the server-chosen language, a site should no longer use language detection and should stick with the explicitly chosen language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093243Z" creationid="Nachec" creationdate="20221022T093243Z">
+        <seg>- Una vez que un usuario ha redefinido el idioma elegido por el servidor, un sitio ya no debe usar la detección de idioma y se debe ceñir al idioma elegido explícitamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- One memory or table instance can be used by 0–N module instances — these instances all share the same address space, allowing [dynamic linking](https://github.com/WebAssembly/tool-conventions/blob/main/DynamicLinking.md).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T234217Z" creationid="gitnacho" creationdate="20221006T234217Z">
@@ -12757,6 +12773,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205908Z" creationid="gitnacho" creationdate="20221005T205908Z">
         <seg>- Están especializados en una tecnología en particular: la interfaz de usuario para JavaScript es diferente de la interfaz de usuario para CSS y solo ilustran una tecnología de forma aislada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- They should always provide a way to override the server-chosen language, e.g., by providing a language menu on the site.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093158Z" creationid="Nachec" creationdate="20221022T093158Z">
+        <seg>- Siempre deben proporcionar una forma de redefinir el idioma elegido por el servidor, por ejemplo, proporcionando un menú de idioma en el sitio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28728,6 +28752,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Though there are legitimate uses of this header for selecting content, [it's considered bad practice](/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent) to rely on it to define what features are supported by the user agent.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093325Z" creationid="Nachec" creationdate="20221022T093325Z">
+        <seg>&gt; **Nota:** Aunque hay usos legítimos de esta cabecera para seleccionar contenido, [se considera una mala práctica](/es/docs/Web/HTTP/Browser_detection_using_the_user_agent) confiar en él para definir qué características son compatibles con el agente de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** To obtain libreoffice's MathML code, save the document as `mml` and open it with your favorite text editor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081720Z" creationid="Nachec" creationdate="20221021T081720Z">
@@ -29839,6 +29871,14 @@ fields:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053216Z" creationid="gitnacho" creationdate="20221004T053216Z">
         <seg>Un caso de uso central para WebAssembly es tomar el ecosistema existente de bibliotecas C y permitir que los desarrolladores las usen en la web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A default value is often set according to the language of the graphical interface of the user agent, but most browsers allow different language preferences to be set.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093055Z" creationid="Nachec" creationdate="20221022T093055Z">
+        <seg>A menudo se establece un valor predeterminado de acuerdo con el idioma de la interfaz gráfica del agente de usuario, pero la mayoría de los navegadores permiten establecer diferentes preferencias de idioma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32768,6 +32808,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Due to the [configuration-based entropy](https://www.eff.org/deeplinks/2010/01/primer-information-theory-and-privacy) increase, a modified value can be used to fingerprint the user.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093115Z" creationid="Nachec" creationdate="20221022T093115Z">
+        <seg>Debido al aumento de la [entropía basada en la configuración](https://www.eff.org/deeplinks/2010/01/primer-information-theory-and-privacy), se puede usar un valor modificado para tomar la huella digital del usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During this state, {{DOMxRef("ExtendableEvent.waitUntil()")}} can be called inside the `install` event handler to extend the life of the installing worker until the passed promise resolves successfully.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223609Z" creationid="gitnacho" creationdate="20221003T223609Z">
@@ -33034,6 +33082,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081151Z" creationid="gitnacho" creationdate="20221003T081151Z">
         <seg>Emscripten transforma el resultado de la compilación de clang+LLVM en un binario `.wasm`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End users often don't modify it because they either don't know how or aren't able to do so based on their computing environment.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093227Z" creationid="Nachec" creationdate="20221022T093227Z">
+        <seg>Los usuarios finales a menudo no lo modifican porque no saben cómo hacerlo o no pueden hacerlo en función de su entorno informático.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36581,6 +36637,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In other words, only entry pages for a site should use this header to select the proper language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093257Z" creationid="Nachec" creationdate="20221022T093257Z">
+        <seg>En otras palabras, solo las páginas de entrada de un sitio deben usar esta cabecera para seleccionar el idioma adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In other words, the request for a specific set of hints does not expire until the browser is shut down.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092015Z" creationid="gitnacho" creationdate="20221012T092015Z">
@@ -38094,10 +38158,26 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's best for site designers to avoid using language detection via this header as it can lead to a poor user experience.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093144Z" creationid="Nachec" creationdate="20221022T093144Z">
+        <seg>Es mejor que los diseñadores de sitios eviten usar la detección de idioma a través de esta cabecera, ya que puede generar una experiencia de usuario deficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's different when fetching a document entered in the address bar or an element linked via an {{ HTMLElement("img") }}, {{ HTMLElement("video") }}, or {{ HTMLElement("audio") }} element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092416Z" creationid="Nachec" creationdate="20221022T092416Z">
         <seg>Es diferente cuando se obtiene un documento ingresado en la barra de direcciones o un elemento vinculado a través de un elemento {{ HTMLElement("img") }}, {{ HTMLElement("video") }} o {{ HTMLElement("audio") }}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's not recommended to change it and a website can't trust this value to reflect the actual intention of the user.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093128Z" creationid="Nachec" creationdate="20221022T093128Z">
+        <seg>No se recomienda cambiarlo y un sitio web no puede confiar en que este valor refleje la intención real del usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39169,6 +39249,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T232742Z" creationid="gitnacho" creationdate="20221002T134857Z">
         <seg>Aún más importante, las conexiones HTTP son susceptibles a la inyección de código malicioso por medio de {{Glossary("MitM", "ataques man in the middle")}}, y dichos ataques podrían ser peores si se permite el acceso a estas potentes APIs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most user agents provide a default value for the `Accept-Language` header that's adapted to the user interface language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093212Z" creationid="Nachec" creationdate="20221022T093212Z">
+        <seg>La mayoría de los agentes de usuario proporcionan un valor predeterminado para la cabecera `Accept-Language` que se adapta al idioma de la interfaz de usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45768,6 +45856,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The {{HTTPHeader("User-Agent")}} header identifies the browser sending the request.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093339Z" creationid="Nachec" creationdate="20221022T093339Z">
+        <seg>La cabecera {{HTTPHeader("User-Agent")}} identifica el navegador que envía la solicitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The {{cssxref("&amp;lt;color&amp;gt;")}} value specifies the color of an element feature (e.g. it's background color), and is defined in the [CSS Color Module](https://drafts.csswg.org/css-color-3/).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001313Z" creationid="Nachec" creationdate="20221022T001313Z">
@@ -48361,6 +48457,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070058Z" creationid="gitnacho" creationdate="20221004T070058Z">
         <seg>Esto inicia un servidor web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This string may contain a space-separated list of _product tokens_ and _comments_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093352Z" creationid="Nachec" creationdate="20221022T093352Z">
+        <seg>Esta cadena puede contener una lista separada por espacios de _toquens de productos_ y _comentarios_.</seg>
       </tuv>
     </tu>
     <tu>
