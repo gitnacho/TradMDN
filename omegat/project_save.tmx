@@ -10060,6 +10060,24 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Content Negotiation</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T080359Z" creationid="Nachec" creationdate="20221022T080359Z">
+        <seg>- Content Negotiation
+  - Negociación de contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Content Negotiation Reference</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T080414Z" creationid="Nachec" creationdate="20221022T080414Z">
+        <seg>- Content Negotiation Reference
+  - Referencia de negociación de contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Control flow
 ---</seg>
       </tuv>
@@ -18521,14 +18539,14 @@ reviewer: Nachec
 - {{cssxref("toggle", "toggle()")}}
 - {{cssxref("attr", "attr()")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001535Z" creationid="Nachec" creationdate="20221022T001535Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T075908Z" creationid="Nachec" creationdate="20221022T001535Z">
         <seg>- {{CSSxRef("calc", "calc()")}}
 - {{CSSxRef("min", "min()")}}
 - {{CSSxRef("max", "max()")}}
 - {{CSSxRef("minmax", "minmax()")}}
 - {{CSSxRef("clamp", "clamp()")}}
 - {{CSSxRef("toggle", "toggle()")}}
-- {{CSSxRef("attr, "attr()")}}</seg>
+- {{CSSxRef("attr", "attr()")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20230,6 +20248,20 @@ tags:</seg>
         <seg>---
 title: Compilar de Rust a WebAssembly
 slug: WebAssembly/Rust_to_wasm
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Content negotiation
+slug: Web/HTTP/Content_negotiation
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T080350Z" creationid="Nachec" creationdate="20221022T080350Z">
+        <seg>---
+title: Negociación de contenido
+slug: Web/HTTP/Content_negotiation
 tags:</seg>
       </tuv>
     </tu>
@@ -66044,6 +66076,21 @@ original_slug: Web/HTTP/Client_hints
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205533Z" creationid="Nachec" creationdate="20221020T205533Z">
         <seg>- Performance
   - Rendimiento
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">web/http/content_negotiation/index.md</prop>
+      <prop type="prev">- HTTP</prop>
+      <prop type="next">{{HTTPSidebar}}</prop>
+      <tuv lang="en-US">
+        <seg>- Reference
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T080700Z" creationid="Nachec" creationdate="20221022T080700Z">
+        <seg>- Reference
+  - Referencia
 reviewer: Nachec
 ---</seg>
       </tuv>
