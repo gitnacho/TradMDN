@@ -4314,6 +4314,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Additional restrictions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172245Z" creationid="Nachec" creationdate="20221022T172245Z">
+        <seg>#### Restricciones adicionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Angle units</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235649Z" creationid="Nachec" creationdate="20221021T235649Z">
@@ -10660,6 +10668,30 @@ rue: Nachec✓
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191407Z" creationid="gitnacho" creationdate="20221008T191407Z">
         <seg>- Para expresiones ordinales como 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- For {{HTTPHeader("Accept")}} and {{HTTPHeader("Content-Type")}}: can't contain a _CORS-unsafe request header byte_: `0x00-0x1F` (except for `0x09 (HT)`, which is allowed), `"():&lt;&gt;?@[\]{}`, and `0x7F (DEL)`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172333Z" creationid="Nachec" creationdate="20221022T172333Z">
+        <seg>- Para {{HTTPHeader("Accept")}} y {{HTTPHeader("Content-Type")}}: no puede contener un byte de cabecera de solicitud _CORS-no seguro_: `0x00-0x1F` (excepto `0x09 (HT )`, que está permitido), `"():&lt;&gt;?@[\]{}` y `0x7F (DEL)`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- For {{HTTPHeader("Accept-Language")}} and {{HTTPHeader("Content-Language")}}: can only have values consisting of `0-9`, `A-Z`, `a-z`, space or `*,-.;=`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172316Z" creationid="Nachec" creationdate="20221022T172316Z">
+        <seg>- Para {{HTTPHeader("Accept-Language")}} y {{HTTPHeader("Content-Language")}}: solo puede tener valores que consistan en `0-9`, `A-Z`, `a-z`, espacio o `*,-.;=`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- For {{HTTPHeader("Content-Type")}}: needs to have a MIME type of its parsed value (ignoring parameters) of either `application/x-www-form-urlencoded`, `multipart/form-data`, or `text/plain`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172358Z" creationid="Nachec" creationdate="20221022T172358Z">
+        <seg>- Para {{HTTPHeader("Content-Type")}}: debe tener un tipo MIME de su valor analizado (ignorando los parámetros) de `application/x-www-form-urlencoded`, `multipart/form-data` , o `text/plain`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30476,6 +30508,14 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A [CORS-safelisted request header](https://fetch.spec.whatwg.org/#cors-safelisted-request-header) is one of the following [HTTP headers](/en-US/docs/Web/HTTP/Headers):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172148Z" creationid="Nachec" creationdate="20221022T172148Z">
+        <seg>Una [cabecera de solicitud incluida en la lista segura de CORS](https://fetch.spec.whatwg.org/#cors-safelisted-request-header) es una de las siguientes [cabeceras HTTP](/es/docs/Web/HTTP/Headers):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A [custom element](/en-US/docs/Web/Web_Components/Using_custom_elements) can be used to host the source code and ensure the corresponding MathML output is inserted and rendered via a [shadow subtree](/en-US/docs/Web/Web_Components/Using_shadow_DOM).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080104Z" creationid="Nachec" creationdate="20221021T080104Z">
@@ -32947,6 +32987,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230715Z" creationid="gitnacho" creationdate="20221011T230715Z">
         <seg>Las solicitudes de preverificación de CORS nunca deben incluir credenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CORS-safelisted headers must also fulfill the following requirements in order to be a CORS-safelisted request header:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172303Z" creationid="Nachec" creationdate="20221022T172303Z">
+        <seg>Las cabeceras incluidas en la lista segura de CORS también deben cumplir los siguientes requisitos para ser una cabecera de solicitud incluida en la lista segura de CORS:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52067,6 +52115,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When containing only these headers (and values that meet the additional requirements laid out below), a request doesn't need to send a {{glossary("preflight request")}} in the context of [CORS](/en-US/docs/Glossary/CORS).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172226Z" creationid="Nachec" creationdate="20221022T172226Z">
+        <seg>Cuando contiene solo estas cabeceras (y valores que cumplen con los requisitos adicionales establecidos a continuación), una solicitud no necesita enviar una {{Glossary("preflight request", "solicitud de verificación previa — preflight")}} en el contexto de [CORS](/es/docs/Glossary/CORS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When creating a [`WebAssembly.Exception`](/en-US/docs/WebAssembly/JavaScript_interface/Exception), the tag defines the data types and order of the values carried by the exception.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T015032Z" creationid="gitnacho" creationdate="20221008T015032Z">
@@ -52937,6 +52993,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085014Z" creationid="gitnacho" creationdate="20221006T085014Z">
         <seg>Puedes recuperar funciones WebAssembly exportadas de dos formas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can safelist more headers using the {{HTTPHeader("Access-Control-Allow-Headers")}} header and also list the above headers there to circumvent the following additional restrictions:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172240Z" creationid="Nachec" creationdate="20221022T172240Z">
+        <seg>Puedes incluir en la lista segura más cabeceras usando la cabecera {{HTTPHeader("Access-Control-Allow-Headers")}} y también enumerar los cabeceras anteriores allí para eludir las siguientes restricciones adicionales:</seg>
       </tuv>
     </tu>
     <tu>
