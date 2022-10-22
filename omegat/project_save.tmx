@@ -30252,6 +30252,14 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A **payload header** is an {{Glossary("HTTP_header", "HTTP header")}} that describes the payload information related to safe transport and reconstruction of the original resource {{Glossary("Representation header", "representation")}}, from one or more messages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141846Z" creationid="Nachec" creationdate="20221022T141846Z">
+        <seg>Una **cabecera de carga útil** —`payload`— es una {{Glossary("HTTP_header", "Cabecera HTTP")}} que describe la información de carga útil relacionada con el transporte seguro y la reconstrucción del recurso {{Glossary("Representation header", "representación")}} original, de uno o más mensajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A **representation header** is an {{glossary("HTTP_header", "HTTP header")}} that describes the particular _representation_ of the resource sent in an HTTP message body.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021758Z" creationid="Nachec" creationdate="20221022T021758Z">
@@ -41506,6 +41514,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Payload headers may be present in both HTTP request and response messages (i.e. in any message that is carrying payload data).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141916Z" creationid="Nachec" creationdate="20221022T141916Z">
+        <seg>Las cabeceras de carga útil pueden estar presentes tanto en la solicitud HTTP como en los mensajes de respuesta (es decir, en cualquier mensaje que transporte datos de carga útil).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Percentage values are always relative to another quantity, for example a length.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000836Z" creationid="Nachec" creationdate="20221022T000836Z">
@@ -46089,6 +46105,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The payload headers include: {{HTTPHeader("Content-Length")}}, {{HTTPHeader("Content-Range")}}, {{HTTPHeader("Trailer")}}, and {{HTTPHeader("Transfer-Encoding")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141934Z" creationid="Nachec" creationdate="20221022T141934Z">
+        <seg>Las cabeceras de carga útil incluyen: {{HTTPHeader("Content-Length")}}, {{HTTPHeader("Content-Range")}}, {{HTTPHeader("Trailer")}} y {{HTTPHeader("Transfer-Encoding")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The point where this event fires is generally a good time to clean up old caches and other things associated with the previous version of your service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T001316Z" creationid="gitnacho" creationdate="20221002T144857Z">
@@ -48617,6 +48641,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221004T050451Z">
         <seg>Esto incluye módulos `wasm` compilados (objetos JavaScript [`WebAssembly.Module`](/es/docs/WebAssembly/JavaScript_interface/Module)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes information like the length of the message payload, which part of the resource is carried in this payload (for a multi-part message), any encoding applied for transport, message integrity checks, etc.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141903Z" creationid="Nachec" creationdate="20221022T141903Z">
+        <seg>Esto incluye información como la longitud de la carga útil del mensaje, qué parte del recurso se transporta en esta carga útil (para un mensaje de varias partes), cualquier codificación aplicada para el transporte, verificaciones de integridad del mensaje, etc.</seg>
       </tuv>
     </tu>
     <tu>
