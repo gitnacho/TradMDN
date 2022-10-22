@@ -1144,6 +1144,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Directives</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102801Z" creationid="Nachec" creationdate="20221022T102801Z">
+        <seg>## Directivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## DocumentParsingError</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T092021Z" creationid="gitnacho" creationdate="20221005T092021Z">
@@ -7837,6 +7845,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T095140Z" creationid="gitnacho" creationdate="20221002T095140Z">
         <seg>- : MathML te permite mostrar notaciones matemáticas complejas en la Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Multiple language tags are separated by a comma.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102810Z" creationid="Nachec" creationdate="20221022T102810Z">
+        <seg>- : Las etiquetas de varios idiomas están separadas por una coma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16493,6 +16509,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T073333Z" creationid="gitnacho" creationdate="20221005T073333Z">
         <seg>- `kuma.url`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `language-tag`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102802Z" creationid="Nachec" creationdate="20221022T102802Z">
+        <seg>- `language-tag`</seg>
       </tuv>
     </tu>
     <tu>
@@ -25644,6 +25668,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;code&gt;*,-.;=&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102751Z" creationid="Nachec" creationdate="20221022T102751Z">
+        <seg>&lt;code&gt;*,-.;=&lt;/code&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;0-9&lt;/code&gt;, &lt;code&gt;A-Z&lt;/code&gt;, &lt;code&gt;a-z&lt;/code&gt;, space or</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102747Z" creationid="Nachec" creationdate="20221022T102747Z">
+        <seg>&lt;code&gt;0-9&lt;/code&gt;, &lt;code&gt;A-Z&lt;/code&gt;, &lt;code&gt;a-z&lt;/code&gt;, espacio o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;code&gt;&lt;a href="https://github.com/mdn/yari/blob/main/kumascript/macros/httpheader.ejs"&gt;HTTPHeader&lt;/a&gt;&lt;/code&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T112820Z" creationid="gitnacho" creationdate="20221005T112820Z">
@@ -27578,6 +27618,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;no&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102714Z" creationid="Nachec" creationdate="20221022T102714Z">
+        <seg>&lt;td&gt;no&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;yes&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102724Z" creationid="Nachec" creationdate="20221022T102724Z">
+        <seg>&lt;td&gt;sí&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;{{Glossary("Representation header")}}&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102705Z" creationid="Nachec" creationdate="20221022T102705Z">
+        <seg>&lt;td&gt;{{Glossary("Representation header")}}&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;{{domxref("HTMLScriptElement")}}&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135813Z" creationid="gitnacho" creationdate="20221003T122339Z">
@@ -27638,6 +27702,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122337Z" creationid="gitnacho" creationdate="20221003T122337Z">
         <seg>&lt;th scope="row"&gt;interfaz DOM&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Header type&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102702Z" creationid="Nachec" creationdate="20221022T102702Z">
+        <seg>&lt;th scope="row"&gt;Tipo de cabecera&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27710,6 +27782,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T121914Z" creationid="gitnacho" creationdate="20221003T121914Z">
         <seg>&lt;th scope="row"&gt;Etiquetas por omisión&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102712Z" creationid="Nachec" creationdate="20221022T102712Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33041,6 +33121,14 @@ void free_result(uint8_t* result) {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each language tag is a sequence of one or more case-insensitive subtags, each separated by a hyphen character ("`-`", `%x2D`).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102827Z" creationid="Nachec" creationdate="20221022T102827Z">
+        <seg>Cada etiqueta de idioma es una secuencia de una o más subetiquetas que no distinguen entre mayúsculas y minúsculas, cada una separada por un carácter de guión ("`-`", `%x2D`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each locale may also take an object containing a mapping of keys to strings, for more than one string.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T083013Z" creationid="gitnacho" creationdate="20221005T083013Z">
@@ -34011,6 +34099,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T043644Z" creationid="gitnacho" creationdate="20220925T043644Z">
         <seg>Por ejemplo, ¿mi contenido es un conjunto de párrafos o una lista de viñetas?,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, it might be written in English as part of a language course for German speakers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102549Z" creationid="Nachec" creationdate="20221022T102549Z">
+        <seg>Por ejemplo, podría estar escrito en inglés como parte de un curso de idiomas para hablantes de alemán.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35560,6 +35656,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If no `Content-Language` is specified, the default is that the content is intended for all language audiences.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102616Z" creationid="Nachec" creationdate="20221022T102616Z">
+        <seg>Si no se especifica `Content-Language`, el valor predeterminado es que el contenido está destinado a audiencias en todos los idiomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If no match is found in the cache, the code returns the resolved preloaded response ({{domxref("FetchEvent.preloadResponse")}}).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T210517Z">
@@ -36177,6 +36281,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to indicate which language the document is written in, use the [`lang` attribute](/en-US/docs/Web/HTML/Global_attributes/lang) instead).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102600Z" creationid="Nachec" creationdate="20221022T102600Z">
+        <seg>Si deseas indicar en qué idioma está escrito el documento, usa el atributo [`lang`](/es/docs/Web/HTML/Global_attributes/lang) en su lugar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to submit an example, you can find out how at the [interactive examples repo Contribution guide](https://github.com/mdn/interactive-examples/blob/main/CONTRIBUTING.md).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T210127Z" creationid="gitnacho" creationdate="20221005T210127Z">
@@ -36701,6 +36813,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T232907Z" creationid="gitnacho" creationdate="20221006T232907Z">
         <seg>En iteraciones futuras, se agregarán más tipos de elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases, a language tag consists of a primary language subtag that identifies a broad family of related languages (e.g., "`en`" = English) and is optionally followed by a series of subtags that refine or narrow that language's range (e.g., "`en-CA`" = the variety of English as communicated in Canada).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102853Z" creationid="Nachec" creationdate="20221022T102853Z">
+        <seg>En la mayoría de los casos, una etiqueta de idioma consta de una subetiqueta de idioma principal que identifica una amplia familia de idiomas relacionados (por ejemplo, "`en`" = inglés) y, opcionalmente, va seguida de una serie de subetiquetas que refinan o reducen el rango de ese idioma (por ejemplo, , "`en-CA`" = la variedad del inglés tal como se comunica en Canadá).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39422,6 +39542,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T151706Z" creationid="gitnacho" creationdate="20221002T151706Z">
         <seg>Se pueden asociar múltiples contextos de navegación (por ejemplo, páginas, *workers*, etc.) con el mismo objeto `ServiceWorker`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple language tags are also possible, as well as applying the `Content-Language` header to various media types and not only to textual documents.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102639Z" creationid="Nachec" creationdate="20221022T102639Z">
+        <seg>También son posibles las etiquetas de varios idiomas, así como la aplicación de la cabecera `Content-Language` a varios tipos de medios y no solo a documentos de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54195,6 +54323,22 @@ Access-Control-Request-Headers: X-PINGOTHER, Content-Type
     <tu>
       <tuv lang="en-US">
         <seg>```http
+Content-Language: de-DE
+Content-Language: en-US
+Content-Language: de-DE, en-CA
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102755Z" creationid="Nachec" creationdate="20221022T102755Z">
+        <seg>```http
+Content-Language: de-DE
+Content-Language: en-US
+Content-Language: de-DE, en-CA
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
 Cross-Origin-Opener-Policy: same-origin
 Cross-Origin-Embedder-Policy: require-corp
 ```</seg>
@@ -64508,6 +64652,14 @@ xhr.send();
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>yes, with the additional restriction that values can only be</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102733Z" creationid="Nachec" creationdate="20221022T102733Z">
+        <seg>sí, con la restricción adicional de que los valores solo pueden ser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>yield 1;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20200818T012658Z" creationid="nacho" creationdate="20200818T012658Z">
@@ -65000,6 +65152,22 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T013756Z" creationid="gitnacho" creationdate="20220921T013756Z">
         <seg>{{GamesSidebar}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Glossary("CORS-safelisted request header")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102725Z" creationid="Nachec" creationdate="20221022T102725Z">
+        <seg>{{Glossary("CORS-safelisted request header")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Glossary("CORS-safelisted response header")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102717Z" creationid="Nachec" creationdate="20221022T102717Z">
+        <seg>{{Glossary("CORS-safelisted response header")}}</seg>
       </tuv>
     </tu>
     <tu>
