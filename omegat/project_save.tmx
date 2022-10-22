@@ -3802,6 +3802,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### The `Accept-CH` header {{experimental_inline}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092506Z" creationid="Nachec" creationdate="20221022T092506Z">
+        <seg>### La cabecera `Accept-CH` {{experimental_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### The `Accept` header</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092201Z" creationid="Nachec" creationdate="20221022T092201Z">
@@ -28664,6 +28672,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** This is part of an **experimental** technology called _Client Hints_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092517Z" creationid="Nachec" creationdate="20221022T092517Z">
+        <seg>&gt; **Nota:** Esto es parte de una tecnología **experimental** llamada _Client Hints_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** This is potentially overkill if you are a web developer who just wants to load a wasm module into a page and use it in your code (see [Using the WebAssembly JavaScript API](/en-US/docs/WebAssembly/Using_the_JavaScript_API)), but it is more useful if for example, you want to write wasm modules to optimize the performance of your JavaScript library, or build your own WebAssembly compiler.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053448Z" creationid="gitnacho" creationdate="20221007T053448Z">
@@ -31690,6 +31706,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browsers are free to use the value of the header that they think is the most adequate; an exhaustive list of [default values for common browsers](/en-US/docs/Web/HTTP/Content_negotiation/List_of_default_Accept_values) is available.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092453Z" creationid="Nachec" creationdate="20221022T092453Z">
+        <seg>Los navegadores son libres de utilizar el valor de la cabecera que consideren más adecuada; se encuentra disponible una lista exhaustiva de [valores predeterminados para navegadores comunes](/es/docs/Web/HTTP/Content_negotiation/List_of_default_Accept_values).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browsers that support the `module` value for the {{htmlattrxref("type", "script")}} attribute ignore any script with a `nomodule` attribute.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134118Z" creationid="gitnacho" creationdate="20221003T134118Z">
@@ -33614,6 +33638,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180528T195636Z" creationid="nacho" creationdate="20180528T195636Z">
         <seg>Por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, 512 megabytes will be reported as `0.5`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092638Z" creationid="Nachec" creationdate="20221022T092638Z">
+        <seg>Por ejemplo, 512 megabytes se reportarán como `0.5`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37111,6 +37143,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T025439Z">
         <seg>Heredado de {{JSxRef("Error")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initial support comes in Chrome 46 or later.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092529Z" creationid="Nachec" creationdate="20221022T092529Z">
+        <seg>El soporte inicial viene en Chrome 46 o posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42621,6 +42661,14 @@ of the service worker.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Device-Memory value is in Chrome 61 or later.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092542Z" creationid="Nachec" creationdate="20221022T092542Z">
+        <seg>El valor `Device-Memory` está en Chrome 61 o posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Emscripten tool is able to take just about any C/C++ source code and compile it into a .wasm module, plus the necessary JavaScript "glue" code for loading and running the module, and an HTML document to display the results of the code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081034Z" creationid="gitnacho" creationdate="20221003T081034Z">
@@ -43797,6 +43845,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023558Z" creationid="gitnacho" creationdate="20221008T023558Z">
         <seg>La excepción se captura en JavaScript usando el bloque `catch`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The experimental {{HTTPHeader("Accept-CH")}} lists configuration data that the server can use to select an appropriate response.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092610Z" creationid="Nachec" creationdate="20221022T092610Z">
+        <seg>El {{HTTPHeader("Accept-CH")}} experimental enumera los datos de configuración que el servidor puede usar para seleccionar una respuesta adecuada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49283,6 +49339,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183709Z" creationid="gitnacho" creationdate="20221008T183709Z">
         <seg>Usando esta sintaxis, no es posible escribir una lista con más de un elemento `&lt;dt&gt;` consecutivo o más de un elemento `&lt;dd&gt;` consecutivo: el analizador lo tratará como un error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valid values are:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092619Z" creationid="Nachec" creationdate="20221022T092619Z">
+        <seg>Los valores válidos son:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64798,6 +64862,16 @@ console.log(uintc8FromIterable);
     <tu>
       <tuv lang="en-US">
         <seg>|
+| `Viewport-Width` | Indicates the layout viewport width in CSS pixels.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092708Z" creationid="Nachec" creationdate="20221022T092708Z">
+        <seg>|
+| `Viewport-Width` | Indica el ancho de la ventana gráfica de diseño en píxeles CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
 | `cap`  | Cap height (the nominal height of capital letters) of the element's font.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235056Z" creationid="Nachec" creationdate="20221021T235056Z">
@@ -65385,6 +65459,18 @@ console.log(uintc8FromIterable);
         <seg>| Unidad | Nombre | Descripción |
 | - | - | - |
 | `fr` | Flex | Representa una longitud flexible dentro de un contenedor de cuadrícula — `grid`. |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Value            | Meaning                                                                                                                                                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `Device-Memory`  | Indicates the approximate amount of device RAM. This value is an approximation given by rounding to the nearest power of 2 and dividing that number by 1024.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092731Z" creationid="Nachec" creationdate="20221022T092630Z">
+        <seg>| Valor | significado |
+| - | - |
+| `Device-Memory` | Indica la cantidad aproximada de RAM del dispositivo. Este valor es una aproximación dada redondeando a la potencia de 2 más cercana y dividiendo ese número por 1024.</seg>
       </tuv>
     </tu>
     <tu>
