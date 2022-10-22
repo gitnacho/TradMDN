@@ -14807,10 +14807,10 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - {{Glossary("Site")}}
 - [HTML specification: origin](https://html.spec.whatwg.org/multipage/origin.html#origin)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T072556Z" creationid="gitnacho" creationdate="20221017T151609Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T204419Z" creationid="gitnacho" creationdate="20221017T151609Z">
         <seg>- [Política del mismo origen](/es/docs/Web/Security/Same-origin_policy)
 - {{Glossary("Site")}}
-- [Especificación de `Origin` HTML](https://html.spec.whatwg.org/multipage/origin.html#origin)</seg>
+- [Especificación HTML de `Origin`](https://html.spec.whatwg.org/multipage/origin.html#origin)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17951,8 +17951,9 @@ browser-compat: api.CacheStorage.open
         <seg>- origin
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T151342Z" creationid="gitnacho" creationdate="20221017T151342Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T204726Z" creationid="gitnacho" creationdate="20221017T151342Z">
         <seg>- origin
+  - origen
 ---</seg>
       </tuv>
     </tu>
@@ -21756,11 +21757,11 @@ title: Origin
 slug: Glossary/Origin
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T191157Z" creationid="gitnacho" creationdate="20221017T151341Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T204501Z" creationid="gitnacho" creationdate="20221017T151341Z">
         <seg>---
 title: Origen
 slug: Glossary/Origin
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21983,11 +21984,11 @@ title: Simple header
 slug: Glossary/Simple_header
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T191330Z" creationid="Nachec" creationdate="20221022T072028Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T205144Z" creationid="Nachec" creationdate="20221022T072028Z">
         <seg>---
-title: Simple header
+title: Cabecera simple
 slug: Glossary/Simple_header
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -41343,8 +41344,8 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>Old term for {{Glossary("CORS-safelisted request header")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T072056Z" creationid="Nachec" creationdate="20221022T072056Z">
-        <seg>Término antiguo para {{Glossary("CORS-safelisted request header")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T205053Z" creationid="Nachec" creationdate="20221022T072056Z">
+        <seg>Término antiguo para {{Glossary("CORS-safelisted request header", "Cabecera de solicitud incluida en la lista segura de CORS")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68170,20 +68171,6 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">glossary/internationalization_and_localization/index.md</prop>
-      <prop type="prev">- Internationalization</prop>
-      <prop type="next">**Internationalization**, often shortened to "[i18n](/en-US/docs/Glossary/I18N)", is the adapting of a web site or web application to different languages, regional differences, and technical requirements for different regions and countries.</prop>
-      <tuv lang="en-US">
-        <seg>- Reference
----</seg>
-      </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T190654Z">
-        <seg>- Reference
-  - Referencia
----</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">glossary/mathml/index.md</prop>
       <prop type="prev">- Mathematical Markup Language</prop>
       <prop type="next">**MathML** (an {{glossary("XML")}} application) is an open standard for representing mathematical expressions in webpages.</prop>
@@ -68197,20 +68184,6 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="file">glossary/origin/index.md</prop>
-      <prop type="prev">- WebMechanics</prop>
-      <prop type="next">Web content's **origin** is defined by the _scheme_ (protocol), _hostname_ (domain), and _port_ of the {{Glossary("URL")}} used to access it.</prop>
-      <tuv lang="en-US">
-        <seg>- origin
----</seg>
-      </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T072230Z">
-        <seg>- origin
-  - origen
----</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">glossary/payload_header/index.md</prop>
       <prop type="prev">- Headers</prop>
       <prop type="next">A **payload header** is an {{Glossary("HTTP_header", "HTTP header")}} that describes the payload information related to safe transport and reconstruction of the original resource {{Glossary("Representation header", "representation")}}, from one or more messages.</prop>
@@ -68219,22 +68192,6 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
 ---</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201729Z" creationid="Nachec" creationdate="20221022T141137Z">
-        <seg>- WebMechanics
----</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">glossary/quality_values/index.md</prop>
-      <prop type="prev">---
-title: Quality values
-slug: Glossary/Quality_values
-tags:</prop>
-      <prop type="next">**Quality values**, or _q-values_ and _q-factors_, are used to describe the order of priority of values in a comma-separated list.</prop>
-      <tuv lang="en-US">
-        <seg>- WebMechanics
----</seg>
-      </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221022T131302Z">
         <seg>- WebMechanics
 ---</seg>
       </tuv>
