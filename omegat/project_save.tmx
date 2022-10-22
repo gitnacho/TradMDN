@@ -20314,10 +20314,11 @@ title: '&lt;script&gt;: The Script element'
 slug: Web/HTML/Element/script
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T115901Z" creationid="gitnacho" creationdate="20221003T115901Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193946Z" creationid="gitnacho" creationdate="20221003T115901Z">
         <seg>---
 title: '&lt;script&gt;: El elemento Script'
 slug: Web/HTML/Element/script
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20343,11 +20344,12 @@ slug: Web/API/ServiceWorker/statechange_event
 page-type: web-api-event
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T000856Z" creationid="gitnacho" creationdate="20221003T224710Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193802Z" creationid="gitnacho" creationdate="20221003T224710Z">
         <seg>---
 title: 'ServiceWorker: Evento statechange'
 slug: Web/API/ServiceWorker/statechange_event
 page-type: web-api-event
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20359,11 +20361,12 @@ slug: Web/API/ServiceWorkerContainer/controllerchange_event
 page-type: web-api-event
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T001023Z" creationid="gitnacho" creationdate="20221003T230406Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193819Z" creationid="gitnacho" creationdate="20221003T230406Z">
         <seg>---
 title: 'ServiceWorkerContainer: Evento controllerchange'
 slug: Web/API/ServiceWorkerContainer/controllerchange_event
 page-type: web-api-event
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20403,11 +20406,12 @@ slug: Web/CSS/length-percentage
 page-type: css-type
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224701Z" creationid="Nachec" creationdate="20221021T224701Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193926Z" creationid="Nachec" creationdate="20221021T224701Z">
         <seg>---
 title: &lt;length-percentage&gt;
 slug: Web/CSS/length-percentage
 page-type: css-type
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20731,11 +20735,12 @@ slug: Web/CSS/CSS_Values_and_Units
 page-type: guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225619Z" creationid="Nachec" creationdate="20221021T225619Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193913Z" creationid="Nachec" creationdate="20221021T225619Z">
         <seg>---
 title: Valores y unidades CSS
 slug: Web/CSS/CSS_Values_and_Units
 page-type: guide
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21358,10 +21363,11 @@ title: HTTP Client hints
 slug: Web/HTTP/Client_hints
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T084725Z" creationid="gitnacho" creationdate="20221012T084725Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194022Z" creationid="gitnacho" creationdate="20221012T084725Z">
         <seg>---
 title: Sugerencias de cliente HTTP
 slug: Web/HTTP/Client_hints
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21983,11 +21989,12 @@ slug: Web/API/ServiceWorker/state
 page-type: web-api-instance-property
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223030Z" creationid="gitnacho" creationdate="20221003T223030Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193725Z" creationid="gitnacho" creationdate="20221003T223030Z">
         <seg>---
 title: ServiceWorker.state
 slug: Web/API/ServiceWorker/state
 page-type: web-api-instance-property
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22920,11 +22927,12 @@ slug: Web/API/Worker/postMessage
 page-type: web-api-instance-method
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115206Z" creationid="gitnacho" creationdate="20221007T115206Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193853Z" creationid="gitnacho" creationdate="20221007T115206Z">
         <seg>---
 title: Worker.postMessage()
 slug: Web/API/Worker/postMessage
 page-type: web-api-instance-method
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
