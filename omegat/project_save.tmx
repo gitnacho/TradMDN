@@ -14353,8 +14353,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Secure Contexts](/en-US/docs/Web/Security/Secure_Contexts)
 - [MDN Web Docs Glossary](/en-US/docs/Glossary)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T202341Z" creationid="gitnacho" creationdate="20221018T202341Z">
-        <seg>- [HTTPS](https://en.wikipedia.org/wiki/HTTPS) en Wikipedia
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T202915Z" creationid="gitnacho" creationdate="20221018T202341Z">
+        <seg>- [HTTPS](https://es.wikipedia.org/wiki/Protocolo_seguro_de_transferencia_de_hipertexto) en Wikipedia
 - [Guía de la comunidad para pasar a HTTPS](https://movingtohttps.com/)
 - [Contextos seguros](/es/docs/Web/Security/Secure_Contexts)
 - [Glosario de documentos web de MDN](/es/docs/Glossary)</seg>
@@ -21364,11 +21364,11 @@ title: HTTPS
 slug: Glossary/https
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T191031Z" creationid="gitnacho" creationdate="20221018T201913Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T203025Z" creationid="gitnacho" creationdate="20221018T201913Z">
         <seg>---
 title: HTTPS
 slug: Glossary/https
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21441,11 +21441,11 @@ title: Internationalization
 slug: Glossary/Internationalization_and_localization
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T191051Z" creationid="Nachec" creationdate="20221020T190714Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T203357Z" creationid="Nachec" creationdate="20221020T190714Z">
         <seg>---
 title: Internacionalización
 slug: Glossary/Internationalization_and_localization
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
