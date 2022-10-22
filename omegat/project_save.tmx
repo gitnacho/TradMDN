@@ -36614,8 +36614,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In contrast to the previous `Accept-*` headers, which are sent by the client, the {{HTTPHeader("Vary")}} HTTP header is sent by the web server in its response.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093508Z" creationid="Nachec" creationdate="20221022T093508Z">
-        <seg>A diferencia de los cabeceras `Accept-*` anteriores, que son enviadas por el cliente, el servidor web envía la cabecera HTTP {{HTTPHeader("Vary")}} en su respuesta.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T100655Z" creationid="Nachec" creationdate="20221022T093508Z">
+        <seg>A diferencia de las cabeceras `Accept-*` anteriores, que son enviadas por el cliente, el servidor web envía la cabecera HTTP {{HTTPHeader("Vary")}} en su respuesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38264,8 +38264,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>It's best for site designers to avoid using language detection via this header as it can lead to a poor user experience.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093144Z" creationid="Nachec" creationdate="20221022T093144Z">
-        <seg>Es mejor que los diseñadores de sitios eviten usar la detección de idioma a través de esta cabecera, ya que puede generar una experiencia de usuario deficiente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T100509Z" creationid="Nachec" creationdate="20221022T093144Z">
+        <seg>Es mejor que los diseñadores de sitios eviten usar la detección de idioma a través de esta cabecera, ya que puede generar una deficiente experiencia de usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44043,8 +44043,8 @@ y devuelve su valor.</seg>
       <tuv lang="en-US">
         <seg>The default value `identity` is at the lowest priority (unless otherwise noted).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092936Z" creationid="Nachec" creationdate="20221022T092936Z">
-        <seg>El valor predeterminado `identity` tiene la prioridad más baja (a menos que se indique lo contrario).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T100243Z" creationid="Nachec" creationdate="20221022T092936Z">
+        <seg>El valor predeterminado de `identity` tiene la prioridad más baja (a menos que se indique lo contrario).</seg>
       </tuv>
     </tu>
     <tu>
