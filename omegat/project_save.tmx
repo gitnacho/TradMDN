@@ -10820,6 +10820,17 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- HTTP
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125352Z" creationid="Nachec" creationdate="20221022T125352Z">
+        <seg>- HTTP
+rue: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- HTTP Access Controls</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T211009Z" creationid="gitnacho" creationdate="20221011T211009Z">
@@ -14242,6 +14253,20 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T094640Z">
         <seg>- [HTTP](/es/docs/Web/HTTP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [HTTP](/en-US/docs/Web/HTTP)
+- [HTTP headers](/en-US/docs/Web/HTTP/Headers)
+- {{HTTPHeader("Access-Control-Expose-Headers")}}
+- [Glossary](/en-US/docs/Glossary)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125448Z" creationid="Nachec" creationdate="20221022T125448Z">
+        <seg>- [HTTP](/es/docs/Web/HTTP)
+- [Cabeceras HTTP](/es/docs/Web/HTTP/Headers)
+- {{HTTPHeader("Access-Control-Expose-Headers")}}
+- [Glosario](/es/docs/Glossary)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18660,6 +18685,26 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Cache-Control")}}
+- {{HTTPHeader("Content-Language")}}
+- {{HTTPHeader("Content-Length")}}
+- {{HTTPHeader("Content-Type")}}
+- {{HTTPHeader("Expires")}}
+- {{HTTPHeader("Last-Modified")}}
+- {{HTTPHeader("Pragma")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125419Z" creationid="Nachec" creationdate="20221022T125419Z">
+        <seg>- {{HTTPHeader("Cache-Control")}}
+- {{HTTPHeader("Content-Language")}}
+- {{HTTPHeader("Content-Length")}}
+- {{HTTPHeader("Content-Type")}}
+- {{HTTPHeader("Expires")}}
+- {{HTTPHeader("Last-Modified")}}
+- {{HTTPHeader("Pragma")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{HTTPHeader("Content-Language")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220454Z" creationid="gitnacho" creationdate="20221011T220454Z">
@@ -20285,6 +20330,20 @@ tags:</seg>
         <seg>---
 title: CORS
 slug: Glossary/CORS
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: CORS-safelisted response header
+slug: Glossary/CORS-safelisted_response_header
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125329Z" creationid="Nachec" creationdate="20221022T125329Z">
+        <seg>---
+title: Cabecera de respuesta incluida en la lista CORS
+slug: Glossary/CORS-safelisted_response_header
 tags:</seg>
       </tuv>
     </tu>
