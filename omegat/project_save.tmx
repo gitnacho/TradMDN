@@ -12087,11 +12087,11 @@ browser-compat: html.elements.canvas
 browser-compat: http.headers.Content-Language
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221022T101313Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T124637Z" creationid="Nachec" creationdate="20221022T101313Z">
         <seg>- Reference
   - Referencia
 browser-compat: http.headers.Content-Language
-rue: Nachec
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -20917,6 +20917,20 @@ tags:</seg>
         <seg>---
 title: HTTP authentication
 slug: Web/HTTP/Authentication
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: HTTP caching
+slug: Web/HTTP/Caching
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T124514Z" creationid="Nachec" creationdate="20221022T124514Z">
+        <seg>---
+title: HTTP caching
+slug: Web/HTTP/Caching
 tags:</seg>
       </tuv>
     </tu>
