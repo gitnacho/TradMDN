@@ -18665,8 +18665,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Representation header")}}: metadata about the resource in the message body (e.g. encoding, media type, etc.).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080025Z" creationid="gitnacho" creationdate="20221017T211646Z">
-        <seg>- {{Glossary("Representation header")}}: Metadatos sobre el recurso en el cuerpo del mensaje (por ejemplo, codificación, tipo de medio, etc.).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161400Z" creationid="gitnacho" creationdate="20221017T211646Z">
+        <seg>- {{Glossary("Representation header", "Cabecera de representación")}}: Metadatos sobre el recurso en el cuerpo del mensaje (por ejemplo, codificación, tipo de medio, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18681,8 +18681,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Request header")}}: Headers containing more information about the resource to be fetched or about the client itself.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T083042Z" creationid="gitnacho" creationdate="20221017T211558Z">
-        <seg>- {{Glossary("Request header")}}: Cabeceras que contienen más información sobre el recurso a buscar o sobre el propio cliente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161318Z" creationid="gitnacho" creationdate="20221017T211558Z">
+        <seg>- {{Glossary("Request header", "Cabecera de solicitud — request")}}: Cabeceras que contienen más información sobre el recurso a buscar o sobre el propio cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18697,8 +18697,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Response header")}}: Headers with additional information about the response, like its location or about the server itself (name, version, …).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211616Z" creationid="gitnacho" creationdate="20221017T211616Z">
-        <seg>- {{Glossary("Response header")}}: Cabeceras con información adicional sobre la respuesta, como su ubicación o sobre el propio servidor (nombre, versión,…).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161342Z" creationid="gitnacho" creationdate="20221017T211616Z">
+        <seg>- {{Glossary("Response header", "Cabecera de respuesta — response")}}: Cabeceras con información adicional sobre la respuesta, como su ubicación o sobre el propio servidor (nombre, versión,…).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43872,8 +43872,8 @@ of the service worker.</seg>
       <tuv lang="en-US">
         <seg>The HTTP and Fetch specifications refer to a number of header categories, including:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T075926Z" creationid="gitnacho" creationdate="20221017T211535Z">
-        <seg>Las especificaciones de HTTP y Fetch se refieren a una serie de categorías de cabeceras, que incluyen:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161230Z" creationid="gitnacho" creationdate="20221017T211535Z">
+        <seg>Las especificaciones de HTTP y `Fetch` se refieren a una serie de categorías de cabeceras, que incluyen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46830,8 +46830,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The value finishes at the next CRLF or at the end of the message.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211519Z" creationid="gitnacho" creationdate="20221017T211519Z">
-        <seg>El valor finaliza en el CRLF siguiente o al final del mensaje.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161201Z" creationid="gitnacho" creationdate="20221017T211519Z">
+        <seg>El valor finaliza en el siguiente CRLF o al final del mensaje.</seg>
       </tuv>
     </tu>
     <tu>
