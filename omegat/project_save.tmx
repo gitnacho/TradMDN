@@ -10837,6 +10837,16 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- HTTP [content negotiation](/en-US/docs/Web/HTTP/Content_negotiation)
+- A header with the result of the content negotiation:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110533Z" creationid="Nachec" creationdate="20221022T110533Z">
+        <seg>- [Negociación de contenido](/es/docs/Web/HTTP/Content_negotiation) HTTP
+- Una cabecera con el resultado de la negociación de contenido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- HTTPS</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T201915Z" creationid="gitnacho" creationdate="20221018T201915Z">
@@ -27768,8 +27778,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;td&gt;{{Glossary("Request header")}}&lt;/td&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110011Z" creationid="Nachec" creationdate="20221022T110011Z">
-        <seg>&lt;td&gt;{{Glossary("Request header")}}&lt;/td&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110837Z" creationid="Nachec" creationdate="20221022T110011Z">
+        <seg>&lt;td&gt;{{Glossary("Request header", "Cabecera de solicitud — request")}}&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54451,6 +54461,42 @@ Accept-Language: *</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```http
+Accept-Language: de
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110510Z" creationid="Nachec" creationdate="20221022T110510Z">
+        <seg>```http
+Accept-Language: de
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+Accept-Language: de-CH
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110511Z" creationid="Nachec" creationdate="20221022T110511Z">
+        <seg>```http
+Accept-Language: de-CH
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+Accept-Language: en-US,en;q=0.5
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110512Z" creationid="Nachec" creationdate="20221022T110512Z">
+        <seg>```http
+Accept-Language: en-US,en;q=0.5
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
 Access-Control-Allow-Credentials: true
 ```</seg>
       </tuv>
@@ -65530,6 +65576,16 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{HTTPHeader("Content-Language")}}
+- Other similar headers: {{HTTPHeader("TE")}}, {{HTTPHeader("Accept-Encoding")}}, {{HTTPHeader("Accept")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110545Z" creationid="Nachec" creationdate="20221022T110545Z">
+        <seg>{{HTTPHeader("Content-Language")}}
+- Otras cabeceras similares: {{HTTPHeader("TE")}}, {{HTTPHeader("Accept-Encoding")}}, {{HTTPHeader("Accept")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{HTTPSidebar}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T212716Z" creationid="gitnacho" creationdate="20221011T212716Z">
@@ -65780,6 +65836,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223733Z" creationid="Nachec" creationdate="20221021T223733Z">
         <seg>{{deprecated_header}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{glossary("Quality values", "quality value")}} called _weight_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110507Z" creationid="Nachec" creationdate="20221022T110507Z">
+        <seg>{{Glossary("Quality values", "valor de calidad")}} relativo llamado _weight_.</seg>
       </tuv>
     </tu>
     <tu>
