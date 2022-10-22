@@ -4418,6 +4418,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Resolution units</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000641Z" creationid="Nachec" creationdate="20221022T000641Z">
+        <seg>#### Unidades de resolución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Result</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211501Z" creationid="gitnacho" creationdate="20221005T211501Z">
@@ -36784,10 +36792,26 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It accepts the following value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000555Z" creationid="Nachec" creationdate="20221022T000555Z">
+        <seg>Acepta el siguiente valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It accepts the following values.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235844Z" creationid="Nachec" creationdate="20221021T235844Z">
         <seg>Acepta los siguientes valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It accepts the following values:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000728Z" creationid="Nachec" creationdate="20221022T000728Z">
+        <seg>Acepta los siguientes valores:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40059,6 +40083,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055712Z" creationid="Nachec" creationdate="20221021T055712Z">
         <seg>Basándose en contenedores de texto, este artículo describe cómo crear expresiones MathML más complejas anidando fracciones y raíces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resolution units are represented by the type {{cssxref("&amp;lt;resolution&amp;gt;")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000701Z" creationid="Nachec" creationdate="20221022T000701Z">
+        <seg>Las unidades de resolución están representadas por el tipo {{CSSxRef("&amp;lt;resolution&amp;gt;")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45551,6 +45583,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200707Z" creationid="gitnacho" creationdate="20221008T200707Z">
         <seg>Describen las políticas para el tipo de contenido que escribimos y el tipo de contenido que no aceptamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They represent the size of a single dot in a graphical representation, such as a screen, by indicating how many of these dots fit in a CSS inch, centimeter, or pixel.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000720Z" creationid="Nachec" creationdate="20221022T000720Z">
+        <seg>Representan el tamaño de un solo punto en una representación gráfica, como una pantalla, al indicar cuántos de estos puntos caben en una pulgada, centímetro o píxel de CSS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64418,6 +64458,18 @@ console.log(uintc8FromIterable);
 | - | - | - |
 | `s` | Segundos | |
 | `ms` | Milisegundos | Hay 1,000 milisegundos en un segundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Unit | Name | Description                                          |
+| ---- | ---- | ---------------------------------------------------- |
+| `fr` | Flex | Represents a flexible length within a grid container |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000636Z" creationid="Nachec" creationdate="20221022T000636Z">
+        <seg>| Unidad | Nombre | Descripción |
+| - | - | - |
+| `fr` | Flex | Representa una longitud flexible dentro de un contenedor de cuadrícula — `grid`. |</seg>
       </tuv>
     </tu>
     <tu>
