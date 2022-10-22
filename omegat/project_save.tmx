@@ -23369,6 +23369,18 @@ console.log(y[0]); // 21</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Multiple types, weighted with the {{glossary("quality values", "quality value")}} syntax:
+Accept-Language: fr-CH, fr;q=0.9, en;q=0.8, de;q=0.7, *;q=0.5
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110153Z" creationid="Nachec" creationdate="20221022T110153Z">
+        <seg>// Múltiples tipos, ponderados con la sintaxis {{Glossary("quality values", "quality values")}}:
+Accept-Language: fr-CH, fr;q=0.9, en;q=0.8, de;q=0.7, *;q=0.5
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Next try to get the resource from the network</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040522Z" creationid="gitnacho" creationdate="20220921T040522Z">
@@ -27706,6 +27718,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;{{Glossary("Request header")}}&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110011Z" creationid="Nachec" creationdate="20221022T110011Z">
+        <seg>&lt;td&gt;{{Glossary("Request header")}}&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;{{domxref("HTMLScriptElement")}}&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135813Z" creationid="gitnacho" creationdate="20221003T122339Z">
@@ -30411,6 +30431,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A user may also want to visit a page in a language different from the user interface language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105940Z" creationid="Nachec" creationdate="20221022T105940Z">
+        <seg>Un usuario también puede querer visitar una página en un idioma diferente al idioma de la interfaz de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A view is a defined way to view the image, like a zoom level or a detail view.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T181112Z" creationid="gitnacho" creationdate="20221005T121943Z">
@@ -32035,6 +32063,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092453Z" creationid="Nachec" creationdate="20221022T092453Z">
         <seg>Los navegadores son libres de utilizar el valor de la cabecera que consideren más adecuada; se encuentra disponible una lista exhaustiva de [valores predeterminados para navegadores comunes](/es/docs/Web/HTTP/Content_negotiation/List_of_default_Accept_values).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browsers set required values for this header according to their active user interface language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105831Z" creationid="Nachec" creationdate="20221022T105831Z">
+        <seg>Los navegadores establecen los valores necesarios para esta cabecera de acuerdo con el idioma de la interfaz de usuario activa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35387,6 +35423,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195050Z" creationid="Nachec" creationdate="20221021T193430Z">
         <seg>Sin embargo, algunos de ellos no tienen espacios agregados antes, mientras que los paréntesis todavía no tienen espacios alrededor de ellos.&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, such a behavior is rarely implemented for a better user experience, and servers often ignore the `Accept-Language` header in such cases.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110009Z" creationid="Nachec" creationdate="20221022T110009Z">
+        <seg>Sin embargo, este comportamiento rara vez se implementa para una mejor experiencia del usuario, y los servidores a menudo ignoran la cabecera `Accept-Language` en tales casos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44262,6 +44306,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The content of `Accept-Language` is often out of a user's control (when traveling, for instance).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105929Z" creationid="Nachec" creationdate="20221022T105929Z">
+        <seg>El contenido de `Accept-Language` a menudo está fuera del control del usuario (cuando viaja, por ejemplo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The contents are initialized to `0`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050324Z" creationid="gitnacho" creationdate="20221005T050324Z">
@@ -45831,10 +45883,34 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The server possibly can send back a {{HTTPStatus("406")}} (Not Acceptable) error code when unable to serve content in a matching language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105952Z" creationid="Nachec" creationdate="20221022T105952Z">
+        <seg>Es posible que el servidor envíe un código de error {{HTTPStatus("406")}} (No aceptable) cuando no pueda servir contenido en un idioma coincidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The server responds with `Access-Control-Allow-Origin: https://foo.example`, restricting access to the requesting origin domain only.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T223024Z" creationid="gitnacho" creationdate="20221011T223024Z">
         <seg>El servidor responde con `Access-Control-Allow-Origin: https://foo.example`, restringiendo el acceso solo al dominio de origen solicitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The server should never override an explicit user language choice.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105913Z" creationid="Nachec" creationdate="20221022T105913Z">
+        <seg>El servidor nunca debe redefinir una elección explícita de idioma del usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The server uses [content negotiation](/en-US/docs/Web/HTTP/Content_negotiation) to select one of the proposals and informs the client of the choice with the {{HTTPHeader("Content-Language")}} response header.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105811Z" creationid="Nachec" creationdate="20221022T105811Z">
+        <seg>El servidor utiliza [negociación de contenido](/es/docs/Web/HTTP/Content_negotiation) para seleccionar una de las propuestas e informa al cliente de la elección con la cabecera de respuesta {{HTTPHeader("Content-Language")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47933,6 +48009,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This header serves as a hint when the server cannot determine the target content language otherwise (for example, use a specific URL that depends on an explicit user decision).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105905Z" creationid="Nachec" creationdate="20221022T105905Z">
+        <seg>Esta cabecera sirve como sugerencia cuando el servidor no puede determinar el idioma del contenido de destino de otra manera (por ejemplo, usa una URL específica que dependa de una decisión explícita del usuario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This helps compile the code to WebAssembly, as well as produce the right packaging for use in the browser.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061602Z" creationid="gitnacho" creationdate="20221004T061602Z">
@@ -50016,6 +50100,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092352Z" creationid="gitnacho" creationdate="20221012T092352Z">
         <seg>Los encabezados de sugerencia de cliente del agente de usuario (UA) permiten que un servidor varíe las respuestas según el agente de usuario (navegador), el sistema operativo y el dispositivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users rarely change it, and such changes are not recommended because they may lead to fingerprinting.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105844Z" creationid="Nachec" creationdate="20221022T105844Z">
+        <seg>Los usuarios rara vez lo cambian, y dichos cambios no se recomiendan porque pueden llevar a la toma de huellas dactilares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54270,6 +54362,18 @@ Accept-CH: Width, Downlink, Sec-CH-UA
         <seg>```http
 Accept-CH: Width, Downlink, Sec-CH-UA
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+Accept-Language: &lt;language&gt;
+Accept-Language: *</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110020Z" creationid="Nachec" creationdate="20221022T110020Z">
+        <seg>```http
+Accept-Language: &lt;language&gt;
+Accept-Language: *</seg>
       </tuv>
     </tu>
     <tu>
