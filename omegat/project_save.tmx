@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![](httpnego.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091424Z" creationid="Nachec" creationdate="20221022T091424Z">
+        <seg>![Negociación de contenido](httpnego.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![](important-notes.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T031308Z" creationid="gitnacho" creationdate="20220921T031308Z">
@@ -1660,6 +1668,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223556Z" creationid="gitnacho" creationdate="20221018T223556Z">
         <seg>## Prerrequisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Principles of content negotiation</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091240Z" creationid="Nachec" creationdate="20221022T091240Z">
+        <seg>## Principios de negociación de contenido</seg>
       </tuv>
     </tu>
     <tu>
@@ -28878,6 +28894,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** You'll find some disadvantages of HTTP content negotiation in [a wiki page from WHATWG](https://wiki.whatwg.org/wiki/Why_not_conneg).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091216Z" creationid="Nachec" creationdate="20221022T091216Z">
+        <seg>&gt; **Nota:** Encontrarás algunas desventajas de la negociación de contenido HTTP en [una página wiki de WHATWG](https://wiki.whatwg.org/wiki/Why_not_conneg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** You'll probably want to use
 &gt; [`WebAssembly.compileStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/compileStreaming) in most cases, as it is more efficient
 &gt; than `compile()`.</seg>
@@ -29938,6 +29962,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T025126Z" creationid="gitnacho" creationdate="20220921T025126Z">
         <seg>Un solo *service worker* puede controlar muchas páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A specific document is called a _resource_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091251Z" creationid="Nachec" creationdate="20221022T091251Z">
+        <seg>Un documento específico se denomina _recurso_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34346,6 +34378,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTML provides alternatives to content negotiation via, for example, the [`&lt;source&gt;` element](/en-US/docs/Web/HTML/Element/source).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091233Z" creationid="Nachec" creationdate="20221022T091233Z">
+        <seg>HTML proporciona alternativas a la negociación de contenido a través, por ejemplo, del elemento [`&lt;source&gt;`](/es/docs/Web/HTML/Element/source).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTTP follows a classical [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), with a client opening a connection to make a request, then waiting until it receives a response.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T070625Z" creationid="gitnacho" creationdate="20221012T062253Z">
@@ -36032,6 +36072,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T063506Z" creationid="gitnacho" creationdate="20221007T063506Z">
         <seg>En formato de texto de WebAssembly, se parece a esto (ve [global.wat](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/global.wat) en nuestro repositorio de GitHub; también consulta [global.html](https://mdn.github.io/webassembly-examples/js-api-examples/global.html) para ver un ejemplo de JavaScript en vivo):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In [HTTP](/en-US/docs/Glossary/HTTP), **_content negotiation_** is the mechanism that is used for serving different {{Glossary("Representation header","representations")}} of a resource to the same URI to help the user agent specify which representation is best suited for the user (for example, which document language, which image format, or which content encoding).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091200Z" creationid="Nachec" creationdate="20221022T091200Z">
+        <seg>En [HTTP](/es/docs/Glossary/HTTP), **_negociación de contenido_** es el mecanismo que se utiliza para servir diferentes {{Glossary("Representation header","representaciones")}} de un recurso a la misma URI para ayudar al agente de usuario a especificar qué representación es la más adecuada para el usuario (por ejemplo, qué idioma del documento, qué formato de imagen o qué codificación de contenido).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43167,6 +43215,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The best-suited representation is identified through one of two mechanisms:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091434Z" creationid="Nachec" creationdate="20221022T091434Z">
+        <seg>La representación más adecuada se identifica a través de uno de dos mecanismos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The big part to add is the `[package]`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063716Z" creationid="gitnacho" creationdate="20221004T063716Z">
@@ -44580,6 +44636,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The overall resource, as well as each of the representations, has a specific URL.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091341Z" creationid="Nachec" creationdate="20221022T091341Z">
+        <seg>El recurso global, así como cada una de las representaciones, tiene una URL específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The parameter for `url()` can be either quoted or unquoted.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234445Z" creationid="Nachec" creationdate="20221021T234445Z">
@@ -44918,6 +44982,14 @@ de elementos en la tabla.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T223024Z" creationid="gitnacho" creationdate="20221011T223024Z">
         <seg>El servidor responde con `Access-Control-Allow-Origin: https://foo.example`, restringiendo el acceso solo al dominio de origen solicitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The server uses this URL to choose one of the variants available–each variant is called a _representation_–and returns a specific representation to the client.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091329Z" creationid="Nachec" creationdate="20221022T091329Z">
+        <seg>El servidor utiliza esta URL para elegir una de las variantes disponibles (cada variante se denomina _representación_) y devuelve una representación específica al cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45524,6 +45596,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T101148Z" creationid="gitnacho" creationdate="20221003T010749Z">
         <seg>Hay varios conceptos clave que son necesarios para entender cómo se ejecuta WebAssembly en un navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are several ways of negotiating between the client and the server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091415Z" creationid="Nachec" creationdate="20221022T091415Z">
+        <seg>Hay varias formas de negociar entre el cliente y el servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50006,6 +50086,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a client wants to obtain a resource, the client requests it via a URL.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091305Z" creationid="Nachec" creationdate="20221022T091305Z">
+        <seg>Cuando un cliente quiere obtener un recurso, lo solicita a través de una URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a function is called, it starts with an empty stack which is gradually filled up and emptied as the body's instructions are executed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T055043Z" creationid="gitnacho" creationdate="20221007T055043Z">
@@ -51740,6 +51828,14 @@ crate-type = ["cdylib"]</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062305Z" creationid="gitnacho" creationdate="20221004T062305Z">
         <seg>_Cargo_ viene con _crates_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_Content negotiation_ determines how a specific representation is chosen when the resource is called.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091407Z" creationid="Nachec" creationdate="20221022T091407Z">
+        <seg>La _negociación de contenido_ determina cómo se elige una representación específica cuando se llama al recurso.</seg>
       </tuv>
     </tu>
     <tu>
