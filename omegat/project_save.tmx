@@ -18617,8 +18617,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Fetch metadata request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080353Z" creationid="gitnacho" creationdate="20221017T211951Z">
-        <seg>- {{Glossary("Fetch metate request header")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161029Z" creationid="gitnacho" creationdate="20221017T211951Z">
+        <seg>- {{Glossary("Fetch metadata request header")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31451,8 +31451,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An **HTTP header** is a field of an HTTP request or response that passes additional context and metadata about the request or response.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T083345Z" creationid="gitnacho" creationdate="20221017T211423Z">
-        <seg>Una **cabecera HTTP** es un campo de una solicitud —`request` en inglés— o respuesta —`response`— HTTP que transmite contexto y metadatos adicionales sobre la solicitud o respuesta.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161115Z" creationid="gitnacho" creationdate="20221017T211423Z">
+        <seg>Una **cabecera HTTP** es un campo de una solicitud o respuesta —`request` y `response` respectivamente en inglés— HTTP que transmite contexto y metadatos adicionales sobre la solicitud o respuesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67825,9 +67825,9 @@ rue: Nachec
         <seg>- WebMechanics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T190559Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T160831Z" creationid="Nachec" creationdate="20221020T190559Z">
         <seg>- WebMechanics
-rue: Nachec
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
