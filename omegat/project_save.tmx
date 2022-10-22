@@ -20747,11 +20747,12 @@ slug: Web/API/Cache
 page-type: web-api-interface
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T200758Z" creationid="gitnacho" creationdate="20221003T161919Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193435Z" creationid="gitnacho" creationdate="20221003T161919Z">
         <seg>---
 title: Caché
 slug: Web/API/Cache
 page-type: web-api-interface
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20843,11 +20844,12 @@ slug: Web/API/CacheStorage/open
 page-type: web-api-instance-method
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T224553Z" creationid="gitnacho" creationdate="20220921T224553Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193456Z" creationid="gitnacho" creationdate="20220921T224553Z">
         <seg>---
 title: CacheStorage.open()
 slug: Web/API/CacheStorage/open
 page-type: web-api-instance-method
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21095,11 +21097,12 @@ slug: Web/API/Document/timeline
 page-type: web-api-instance-property
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092404Z" creationid="gitnacho" creationdate="20221006T092404Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193540Z" creationid="gitnacho" creationdate="20221006T092404Z">
         <seg>---
 title: Document.timeline
 slug: Web/API/Document/timeline
 page-type: web-api-instance-property
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21140,11 +21143,12 @@ slug: Web/API/Event
 page-type: web-api-interface
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T200801Z" creationid="gitnacho" creationdate="20221011T200801Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193556Z" creationid="gitnacho" creationdate="20221011T200801Z">
         <seg>---
 title: Event
 slug: Web/API/Event
 page-type: web-api-interface
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21736,10 +21740,11 @@ title: Mozilla
 slug: Mozilla
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T205640Z" creationid="gitnacho" creationdate="20221006T205640Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193416Z" creationid="gitnacho" creationdate="20221006T205640Z">
         <seg>---
 title: Mozilla
 slug: Mozilla
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21765,11 +21770,12 @@ slug: Web/API/NavigationPreloadManager
 page-type: web-api-interface
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T203636Z" creationid="gitnacho" creationdate="20220922T203636Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193626Z" creationid="gitnacho" creationdate="20220922T203636Z">
         <seg>---
 title: NavigationPreloadManager
 slug: Web/API/NavigationPreloadManager
 page-type: web-api-interface
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21960,11 +21966,12 @@ slug: Web/API/ServiceWorker
 page-type: web-api-interface
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T002400Z" creationid="gitnacho" creationdate="20221003T002400Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193657Z" creationid="gitnacho" creationdate="20221003T002400Z">
         <seg>---
 title: ServiceWorker
 slug: Web/API/ServiceWorker
 page-type: web-api-interface
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22178,11 +22185,12 @@ slug: Web/API/Service_Worker_API/Using_Service_Workers
 page-type: guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T021126Z" creationid="gitnacho" creationdate="20220921T014611Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193637Z" creationid="gitnacho" creationdate="20220921T014611Z">
         <seg>---
 title: Usar Service Workers
 slug: Web/API/Service_Worker_API/Using_Service_Workers
 page-type: guide
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22194,11 +22202,12 @@ slug: MDN/Writing_guidelines/Page_structures/Macros
 page-type: mdn-writing-guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T094602Z" creationid="gitnacho" creationdate="20221005T094602Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193401Z" creationid="gitnacho" creationdate="20221005T094602Z">
         <seg>---
 title: Usar macros
 slug: MDN/Writing_guidelines/Page_structures/Macros
 page-type: mdn-writing-guide
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22240,11 +22249,12 @@ slug: Web/API
 page-type: landing-page
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T001742Z" creationid="gitnacho" creationdate="20221002T001742Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193608Z" creationid="gitnacho" creationdate="20221002T001742Z">
         <seg>---
 title: APIs Web
 slug: Web/API
 page-type: landing-page
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
