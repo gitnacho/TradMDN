@@ -6042,10 +6042,9 @@ para obtener información sobre la estructura de las secciones y cómo se distin
 browser-compat: http.headers.Access-Control-Allow-Origin
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221011T211012Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221011T211012Z">
         <seg>- "l10n:priority"
 browser-compat: http.headers.Access-Control-Allow-Origin
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -10543,10 +10542,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Exception.getArg
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T141619Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T141619Z">
         <seg>- Exception
 browser-compat: javascript.builtins.WebAssembly.Exception.getArg
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -10556,11 +10554,10 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Exception.is
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T145127Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T145127Z">
         <seg>- Exception
   - Excepción
 browser-compat: javascript.builtins.WebAssembly.Exception.is
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -10570,10 +10567,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Tag.type
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T071338Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T071338Z">
         <seg>- Exception
 browser-compat: javascript.builtins.WebAssembly.Tag.type
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -10590,9 +10586,8 @@ rue: Nachec
         <seg>- Fetch
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T163307Z" creationid="Nachec" creationdate="20221022T163307Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201723Z" creationid="Nachec" creationdate="20221022T163307Z">
         <seg>- Fetch
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -10940,9 +10935,8 @@ rue: Nachec✓
         <seg>- HTTP
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T130442Z" creationid="Nachec" creationdate="20221022T125352Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201722Z" creationid="Nachec" creationdate="20221022T125352Z">
         <seg>- HTTP
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -11675,10 +11669,9 @@ rue: Nachec✓
         <seg>- MathML Project
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T182211Z" creationid="Nachec" creationdate="20221021T072032Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201734Z" creationid="Nachec" creationdate="20221021T072032Z">
         <seg>- MathML Project
   - Proyecto MathML
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -11697,11 +11690,10 @@ rue: Nachec✓
 browser-compat: mathml.attribute_values
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T223608Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T223608Z">
         <seg>- MathML Reference
   - Referencia MathML
 browser-compat: mathml.attribute_values
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -11719,10 +11711,9 @@ rue: Nachec
 browser-compat: mathml.elements.mi
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T205359Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T205359Z">
         <seg>- MathML:Token Elements
 browser-compat: mathml.elements.mi
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -11732,10 +11723,9 @@ rue: Nachec
 browser-compat: mathml.elements.mn
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T215849Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T215849Z">
         <seg>- MathML:Token Elements
 browser-compat: mathml.elements.mn
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -11745,11 +11735,10 @@ rue: Nachec
 browser-compat: mathml.elements.mo
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T220909Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T220909Z">
         <seg>- MathML:Token Elements
   - MathML:Elementos Toquen
 browser-compat: mathml.elements.mo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -11759,11 +11748,10 @@ rue: Nachec
 browser-compat: mathml.elements.mtext
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T222319Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T222319Z">
         <seg>- MathML:Token Elements
   - MathML:Elementos Toquen
 browser-compat: mathml.elements.mtext
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -11930,10 +11918,9 @@ browser-compat: http.headers.X-XSS-Protection
 browser-compat: javascript.builtins.WebAssembly.Exception.stack
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T145819Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T145819Z">
         <seg>- Non-standard
 browser-compat: javascript.builtins.WebAssembly.Exception.stack
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12087,11 +12074,10 @@ rue: Nachec
 browser-compat: javascript.builtins.Uint8ClampedArray
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221005T050200Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221005T050200Z">
         <seg>- Polyfill
   - Polirelleno
 browser-compat: javascript.builtins.Uint8ClampedArray
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12198,11 +12184,10 @@ rue: Nachec
 browser-compat: api.Event
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221011T200809Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221011T200809Z">
         <seg>- Reference
   - Referencia
 browser-compat: api.Event
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12224,11 +12209,10 @@ browser-compat: html.elements.canvas
 browser-compat: http.headers.Content-Language
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T124637Z" creationid="Nachec" creationdate="20221022T101313Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201733Z" creationid="Nachec" creationdate="20221022T101313Z">
         <seg>- Reference
   - Referencia
 browser-compat: http.headers.Content-Language
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -12238,10 +12222,9 @@ rue: Nachec✓
 browser-compat: javascript.builtins.Promise.resolve
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221002T072431Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221002T072431Z">
         <seg>- Reference
 browser-compat: javascript.builtins.Promise.resolve
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12251,11 +12234,10 @@ rue: Nachec
 browser-compat: mathml.global_attributes.mathvariant
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T203250Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T203250Z">
         <seg>- Reference
   - Referencia
 browser-compat: mathml.global_attributes.mathvariant
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12265,11 +12247,10 @@ rue: Nachec
 browser-compat: http.headers.Accept-Language
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135518Z" creationid="Nachec" creationdate="20221022T104530Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201733Z" creationid="Nachec" creationdate="20221022T104530Z">
         <seg>- Request header
   - Cabecera de respuesta
 browser-compat: http.headers.Accept-Language
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -12304,10 +12285,9 @@ rue: Nachec✓
 browser-compat: svg.elements.view
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221005T121905Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221005T121905Z">
         <seg>- SVG
 browser-compat: svg.elements.view
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12399,10 +12379,9 @@ spec-urls: https://w3c.github.io/webappsec-secure-contexts/
 browser-compat: api.NavigationPreloadManager
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20220922T203711Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20220922T203711Z">
         <seg>- Service Workers
 browser-compat: api.NavigationPreloadManager
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12468,10 +12447,9 @@ rue: Nachec
         <seg>- Site-wide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221005T064438Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221005T064438Z">
         <seg>- Site-wide
   - En todo el sitio
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12521,11 +12499,10 @@ rue: Nachec
 browser-compat: http.status.406
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T140827Z" creationid="Nachec" creationdate="20221022T135641Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201734Z" creationid="Nachec" creationdate="20221022T135641Z">
         <seg>- Status code
   - Código de estado
 browser-compat: http.status.406
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -12535,11 +12512,10 @@ rue: Nachec✓
 browser-compat: api.Cache
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221003T161936Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T161936Z">
         <seg>- Storage
   - Almacenamiento
 browser-compat: api.Cache
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12576,10 +12552,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Tag.Tag
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T070646Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T070646Z">
         <seg>- Tag
 browser-compat: javascript.builtins.WebAssembly.Tag.Tag
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -12588,10 +12563,9 @@ rue: Nachec
         <seg>- Terminology
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170143Z" creationid="Nachec" creationdate="20221022T170143Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201727Z" creationid="Nachec" creationdate="20221022T170143Z">
         <seg>- Terminology
   - Terminología
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -13295,10 +13269,9 @@ browser-compat: javascript.builtins.SharedArrayBuffer
 browser-compat: mathml.global_attributes
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T175157Z" creationid="Nachec" creationdate="20221021T213100Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201734Z" creationid="Nachec" creationdate="20221021T213100Z">
         <seg>- Web
 browser-compat: mathml.global_attributes
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -13361,10 +13334,9 @@ rue: Nachec✓
 browser-compat: javascript.builtins.WebAssembly
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221009T003224Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221009T003224Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13374,10 +13346,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.CompileError
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221008T025303Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221008T025303Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.CompileError
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13387,10 +13358,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.CompileError.CompileError
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T134657Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T134657Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.CompileError.CompileError
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13400,10 +13370,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Exception
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221008T022723Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221008T022723Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Exception
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13413,10 +13382,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Exception.Exception
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T135819Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T135819Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Exception.Exception
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13426,10 +13394,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Global
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T104347Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T104347Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Global
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13439,10 +13406,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Global.Global
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T110153Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T110153Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Global.Global
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13452,10 +13418,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Instance
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221005T223405Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221005T223405Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Instance
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13465,10 +13430,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Instance.Instance
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T205701Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T205701Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Instance.Instance
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13478,10 +13442,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.LinkError
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221008T075056Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221008T075056Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.LinkError
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13491,10 +13454,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.LinkError.LinkError
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T211405Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T211405Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.LinkError.LinkError
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13504,10 +13466,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Memory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T234700Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T234700Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Memory
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13517,10 +13478,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Memory.Memory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T214957Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T214957Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Memory.Memory
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13530,10 +13490,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Module
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T111350Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T111350Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Module
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13543,10 +13502,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Module.Module
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T231028Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T231028Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Module.Module
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13556,10 +13514,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.RuntimeError
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221008T080110Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221008T080110Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.RuntimeError
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13569,10 +13526,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.RuntimeError.RuntimeError
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T232201Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T232201Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.RuntimeError.RuntimeError
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13582,10 +13538,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Table.Table
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T235907Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T235907Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Table.Table
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13595,10 +13550,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Tag
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221008T002725Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221008T002725Z">
         <seg>- WebAssembly
 browser-compat: javascript.builtins.WebAssembly.Tag
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -13700,10 +13654,9 @@ rue: Nachec
 browser-compat: api.ServiceWorker
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221003T211823Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T211823Z">
         <seg>- Workers
 browser-compat: api.ServiceWorker
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17614,10 +17567,9 @@ spec-urls: https://w3c.github.io/ServiceWorker/
         <seg>- basics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20220921T014615Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20220921T014615Z">
         <seg>- basics
   - lo esencial
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17626,10 +17578,9 @@ rue: Nachec
         <seg>- bytecode
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221004T071130Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221004T071130Z">
         <seg>- bytecode
   - código de bytes
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17657,10 +17608,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.compile
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T122142Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T122142Z">
         <seg>- compile
 browser-compat: javascript.builtins.WebAssembly.compile
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17687,10 +17637,9 @@ rue: Nachec
 browser-compat: api.ServiceWorkerContainer.controllerchange_event
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221003T230418Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T230418Z">
         <seg>- controllerchange
 browser-compat: api.ServiceWorkerContainer.controllerchange_event
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17709,10 +17658,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Module.customSections
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T221652Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T221652Z">
         <seg>- customSections
 browser-compat: javascript.builtins.WebAssembly.Module.customSections
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17756,10 +17704,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Module.exports
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T224530Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T224530Z">
         <seg>- exports
 browser-compat: javascript.builtins.WebAssembly.Module.exports
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17854,11 +17801,10 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Module.imports
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T230119Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T230119Z">
         <seg>- imports
   - importaciones
 browser-compat: javascript.builtins.WebAssembly.Module.imports
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17868,10 +17814,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Instance.exports
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221006T093456Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221006T093456Z">
         <seg>- instance
 browser-compat: javascript.builtins.WebAssembly.Instance.exports
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17890,10 +17835,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.instantiate
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T191354Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T191354Z">
         <seg>- instantiate
 browser-compat: javascript.builtins.WebAssembly.instantiate
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17952,10 +17896,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Memory.buffer
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T213031Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T213031Z">
         <seg>- memory
 browser-compat: javascript.builtins.WebAssembly.Memory.buffer
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17965,11 +17908,10 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Memory.grow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T213906Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T213906Z">
         <seg>- memory
   - memoria
 browser-compat: javascript.builtins.WebAssembly.Memory.grow
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -17997,11 +17939,10 @@ rue: Nachec
 browser-compat: api.CacheStorage.open
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20220921T224616Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20220921T224616Z">
         <seg>- open
   - abrir
 browser-compat: api.CacheStorage.open
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18021,10 +17962,9 @@ rue: Nachec
 browser-compat: api.Worker.postMessage
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T115214Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T115214Z">
         <seg>- postMessage
 browser-compat: api.Worker.postMessage
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18088,11 +18028,10 @@ rue: Nachec
 browser-compat: api.ServiceWorker.state
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221003T223059Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T223059Z">
         <seg>- state
   - estado
 browser-compat: api.ServiceWorker.state
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18102,10 +18041,9 @@ rue: Nachec
 browser-compat: api.ServiceWorker.statechange_event
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221003T224752Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T224752Z">
         <seg>- statechange
 browser-compat: api.ServiceWorker.statechange_event
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18128,11 +18066,10 @@ original_slug: Learn/Getting_started_with_the_web/¿Cual_será_la_apariencia_de_
 browser-compat: javascript.builtins.WebAssembly.compileStreaming
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T185826Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T185826Z">
         <seg>- streaming
   - transmisión en directo
 browser-compat: javascript.builtins.WebAssembly.compileStreaming
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18142,10 +18079,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.instantiateStreaming
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221006T101054Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221006T101054Z">
         <seg>- streaming
 browser-compat: javascript.builtins.WebAssembly.instantiateStreaming
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18154,10 +18090,9 @@ rue: Nachec
         <seg>- support
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221018T232523Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221018T232523Z">
         <seg>- support
   - apoyo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18202,10 +18137,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Table
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221006T100005Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221006T100005Z">
         <seg>- table
 browser-compat: javascript.builtins.WebAssembly.Table
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18215,10 +18149,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Table.get
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221006T091548Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221006T091548Z">
         <seg>- table
 browser-compat: javascript.builtins.WebAssembly.Table.get
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18228,11 +18161,10 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Table.grow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T233239Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T233239Z">
         <seg>- table
   - tabla
 browser-compat: javascript.builtins.WebAssembly.Table.grow
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18242,10 +18174,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Table.length
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221006T105951Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221006T105951Z">
         <seg>- table
 browser-compat: javascript.builtins.WebAssembly.Table.length
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18255,10 +18186,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.Table.set
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T233850Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T233850Z">
         <seg>- table
 browser-compat: javascript.builtins.WebAssembly.Table.set
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18280,10 +18210,9 @@ rue: Nachec
 browser-compat: html.elements.script
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221003T120239Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T120239Z">
         <seg>- tag
 browser-compat: html.elements.script
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18312,10 +18241,9 @@ rue: Nachec
         <seg>- theory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20220925T035538Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20220925T035538Z">
         <seg>- theory
   - teoría
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18342,10 +18270,9 @@ rue: Nachec
 browser-compat: javascript.builtins.WebAssembly.validate
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T195630Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T195630Z">
         <seg>- validate
 browser-compat: javascript.builtins.WebAssembly.validate
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18355,11 +18282,10 @@ rue: Nachec
 browser-compat: css.types.length-percentage
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T224759Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T224759Z">
         <seg>- values
   - valores
 browser-compat: css.types.length-percentage
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18422,10 +18348,9 @@ spec-urls:</seg>
 browser-compat: javascript.builtins.WebAssembly
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221003T093944Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T093944Z">
         <seg>- wasm
 browser-compat: javascript.builtins.WebAssembly
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18442,9 +18367,8 @@ rue: Nachec
         <seg>- wat2wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221007T182434Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221007T182434Z">
         <seg>- wat2wasm
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18454,11 +18378,10 @@ rue: Nachec
 browser-compat: api.Document.timeline
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221006T092500Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221006T092500Z">
         <seg>- web animations api
   - api de animaciones web
 browser-compat: api.Document.timeline
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -18467,10 +18390,9 @@ rue: Nachec
         <seg>- web platform
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221003T003653Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T003653Z">
         <seg>- web platform
   - plataforma web
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68228,10 +68150,9 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
         <seg>- Security
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T165446Z" creationid="Nachec" creationdate="20221020T190501Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201724Z" creationid="Nachec" creationdate="20221020T190501Z">
         <seg>- Security
   - Seguridad
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -68243,24 +68164,8 @@ rue: Nachec✓
         <seg>- WebMechanics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T160831Z" creationid="Nachec" creationdate="20221020T190559Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201726Z" creationid="Nachec" creationdate="20221020T190559Z">
         <seg>- WebMechanics
-rue: Nachec✓
----</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">glossary/https/index.md</prop>
-      <prop type="prev">- Infrastructure</prop>
-      <prop type="next">**HTTPS** (**_HyperText Transfer Protocol Secure_**) is an encrypted version of the {{Glossary("HTTP")}} protocol.</prop>
-      <tuv lang="en-US">
-        <seg>- Security
----</seg>
-      </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T071335Z">
-        <seg>- Security
-  - Seguridad
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68272,10 +68177,9 @@ rue: Nachec
         <seg>- Reference
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T190654Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T190654Z">
         <seg>- Reference
   - Referencia
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68287,9 +68191,8 @@ rue: Nachec
         <seg>- XML
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184236Z" creationid="Nachec" creationdate="20221021T065014Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201728Z" creationid="Nachec" creationdate="20221021T065014Z">
         <seg>- XML
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -68301,10 +68204,9 @@ rue: Nachec✓
         <seg>- origin
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T072230Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T072230Z">
         <seg>- origin
   - origen
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68316,9 +68218,8 @@ rue: Nachec
         <seg>- WebMechanics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141137Z" creationid="Nachec" creationdate="20221022T141137Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201729Z" creationid="Nachec" creationdate="20221022T141137Z">
         <seg>- WebMechanics
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -68333,9 +68234,8 @@ tags:</prop>
         <seg>- WebMechanics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T131302Z" creationid="Nachec" creationdate="20221022T131302Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221022T131302Z">
         <seg>- WebMechanics
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68350,9 +68250,8 @@ tags:</prop>
         <seg>- WebMechanics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153332Z" creationid="Nachec" creationdate="20221022T021655Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201729Z" creationid="Nachec" creationdate="20221022T021655Z">
         <seg>- WebMechanics
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -68367,9 +68266,8 @@ tags:</prop>
         <seg>- WebMechanics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123348Z" creationid="Nachec" creationdate="20221022T020416Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201730Z" creationid="Nachec" creationdate="20221022T020416Z">
         <seg>- WebMechanics
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -68381,10 +68279,9 @@ rue: Nachec✓
         <seg>- Infrastructure
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221022T072114Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221022T072114Z">
         <seg>- Infrastructure
   - Infraestructura
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68396,10 +68293,9 @@ rue: Nachec
         <seg>- Web Standards
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T070815Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T070815Z">
         <seg>- Web Standards
   - Estándares Web
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68411,10 +68307,9 @@ rue: Nachec
         <seg>- text editor
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T001121Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T001121Z">
         <seg>- text editor
   - editor de texto
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68426,9 +68321,8 @@ rue: Nachec
         <seg>- Web
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T122601Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T122601Z">
         <seg>- Web
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68440,10 +68334,9 @@ rue: Nachec
         <seg>- Landing
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T054016Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T054016Z">
         <seg>- Landing
   - Destino
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68455,10 +68348,9 @@ rue: Nachec
         <seg>- Landing
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T175938Z" creationid="Nachec" creationdate="20221021T180933Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201732Z" creationid="Nachec" creationdate="20221021T180933Z">
         <seg>- Landing
   - Destino
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -68470,10 +68362,9 @@ rue: Nachec✓
         <seg>- first steps
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T083108Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T083108Z">
         <seg>- first steps
   - primeros pasos
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68485,10 +68376,9 @@ rue: Nachec
         <seg>- Landing
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T180758Z" creationid="Nachec" creationdate="20221021T094940Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201733Z" creationid="Nachec" creationdate="20221021T094940Z">
         <seg>- Landing
   - Destino
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -68500,10 +68390,9 @@ rue: Nachec✓
         <seg>- Landing
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T184600Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T184600Z">
         <seg>- Landing
   - Destino
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68515,10 +68404,9 @@ rue: Nachec
         <seg>- Landing
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T084633Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T084633Z">
         <seg>- Landing
   - Destino
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68530,10 +68418,9 @@ rue: Nachec
         <seg>- Topic
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T064113Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T064113Z">
         <seg>- Topic
   - Tema
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68559,9 +68446,8 @@ Hola:
         <seg>- MDN Meta
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T150022Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T150022Z">
         <seg>- MDN Meta
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68573,10 +68459,9 @@ rue: Nachec
         <seg>- Tools
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221012T182655Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221012T182655Z">
         <seg>- Tools
   - Herramientas
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68588,10 +68473,9 @@ rue: Nachec
         <seg>- Tools
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221012T182912Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221012T182912Z">
         <seg>- Tools
   - Herramientas
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68603,9 +68487,8 @@ rue: Nachec
         <seg>- writing-guide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T083208Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T083208Z">
         <seg>- writing-guide
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68617,10 +68500,9 @@ rue: Nachec
         <seg>- writing-guide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T084441Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T084441Z">
         <seg>- writing-guide
   - guía de escritura
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68632,10 +68514,9 @@ rue: Nachec
         <seg>- writing-guide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T090057Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T090057Z">
         <seg>- writing-guide
   - guía de escritura
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68647,9 +68528,8 @@ rue: Nachec
         <seg>- writing-guide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T091108Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T091108Z">
         <seg>- writing-guide
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68661,10 +68541,9 @@ rue: Nachec
         <seg>- writing-guide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T095423Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T095423Z">
         <seg>- writing-guide
   - guía de escritura
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68676,9 +68555,8 @@ rue: Nachec
         <seg>- Mozilla
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T091900Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T091900Z">
         <seg>- Mozilla
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68690,9 +68568,8 @@ rue: Nachec
         <seg>- Web
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T094153Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T094153Z">
         <seg>- Web
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68704,9 +68581,8 @@ rue: Nachec
         <seg>- https://drafts.csswg.org/css-images/
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T225933Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T225933Z">
         <seg>- https://drafts.csswg.org/css-images/
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68736,10 +68612,9 @@ original_slug: Web/HTTP/Client_hints
         <seg>- Performance
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T205533Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T205533Z">
         <seg>- Performance
   - Rendimiento
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68751,10 +68626,9 @@ rue: Nachec
         <seg>- Reference
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T173131Z" creationid="Nachec" creationdate="20221022T080700Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201733Z" creationid="Nachec" creationdate="20221022T080700Z">
         <seg>- Reference
   - Referencia
-rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -68784,9 +68658,8 @@ tags:</prop>
         <seg>- Web
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221002T092645Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221002T092645Z">
         <seg>- Web
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68798,10 +68671,9 @@ rue: Nachec
         <seg>- Project
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T195546Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T195546Z">
         <seg>- Project
   - Proyecto
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68813,10 +68685,9 @@ rue: Nachec
         <seg>- Reference
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T205857Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T205857Z">
         <seg>- Reference
   - Referencia
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68828,9 +68699,8 @@ rue: Nachec
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T105701Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T105701Z">
         <seg>- wasm
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68842,9 +68712,8 @@ rue: Nachec
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T105924Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T105924Z">
         <seg>- wasm
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68856,9 +68725,8 @@ rue: Nachec
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T110719Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T110719Z">
         <seg>- wasm
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68870,9 +68738,8 @@ rue: Nachec
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T111048Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T111048Z">
         <seg>- wasm
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68895,10 +68762,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T074927Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T074927Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68910,10 +68776,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T081522Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T081522Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68925,10 +68790,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T082817Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T082817Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68940,10 +68804,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T083100Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T083100Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68955,10 +68818,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T083539Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T083539Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68970,10 +68832,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T083955Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T083955Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -68985,10 +68846,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T123110Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T123110Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69000,10 +68860,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T084713Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T084713Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69015,10 +68874,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221020T090006Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221020T090006Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69030,10 +68888,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T210434Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T210434Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69045,10 +68902,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T210819Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T210819Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69060,10 +68916,9 @@ rue: Nachec
         <seg>- Control flow
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T212130Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T212130Z">
         <seg>- Control flow
   - Control de flujo
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69075,10 +68930,9 @@ rue: Nachec
         <seg>- Reference
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T123311Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T123311Z">
         <seg>- Reference
   - Referencia
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69090,10 +68944,9 @@ rue: Nachec
         <seg>- Memory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T215901Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T215901Z">
         <seg>- Memory
   - Memoria
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69105,10 +68958,9 @@ rue: Nachec
         <seg>- Memory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T124445Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T124445Z">
         <seg>- Memory
   - Memoria
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69120,10 +68972,9 @@ rue: Nachec
         <seg>- Memory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T222132Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221020T222132Z">
         <seg>- Memory
   - Memoria
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69135,10 +68986,9 @@ rue: Nachec
         <seg>- Arithmetic
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T124811Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T124811Z">
         <seg>- Arithmetic
   - Aritmética
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69150,9 +69000,8 @@ rue: Nachec
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T125001Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T125001Z">
         <seg>- wasm
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69164,9 +69013,8 @@ rue: Nachec
         <seg>- wasm
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T125441Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T125441Z">
         <seg>- wasm
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
@@ -69178,9 +69026,8 @@ rue: Nachec
         <seg>- table
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T125730Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T125730Z">
         <seg>- table
-rue: Nachec
 ---</seg>
       </tuv>
     </tu>
