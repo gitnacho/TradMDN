@@ -3282,6 +3282,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Mixing percentages and dimensions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000936Z" creationid="Nachec" creationdate="20221022T000936Z">
+        <seg>### Mezcla de porcentajes y dimensiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Modern tooling</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T225236Z" creationid="gitnacho" creationdate="20221018T225236Z">
@@ -3382,6 +3390,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T225039Z" creationid="gitnacho" creationdate="20220921T225039Z">
         <seg>### Parámetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Percentages</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000813Z" creationid="Nachec" creationdate="20221022T000813Z">
+        <seg>### Porcentajes</seg>
       </tuv>
     </tu>
     <tu>
@@ -29785,6 +29801,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A {{cssxref("&amp;lt;percentage&amp;gt;")}} is a type that represents a fraction of some other value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000825Z" creationid="Nachec" creationdate="20221022T000825Z">
+        <seg>Un {{CSSxRef("&amp;lt;percentage&amp;gt;")}} es un tipo que representa una fracción de algún otro valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A {{cssxref("url","url()")}} type uses functional notation, which accepts a `&lt;string&gt;` that is a URL.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234402Z" creationid="Nachec" creationdate="20221021T234402Z">
@@ -30782,6 +30806,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183820Z" creationid="gitnacho" creationdate="20221008T183820Z">
         <seg>Como solución para los casos en los que un autor necesita asociar varios elementos `&lt;dt&gt;` con un solo `&lt;dd&gt;`, considera proporcionarlos como un solo `&lt;dt&gt;` que contenga varios términos, separados por comas, como este:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As an example, if you specify the {{cssxref("width")}} of a box as a percentage, it refers to the percentage of the box's parent's computed width:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000929Z" creationid="Nachec" creationdate="20221022T000929Z">
+        <seg>Por ejemplo, si especificas el {{CSSxRef("width")}} de un cuadro como un porcentaje, se refiere al porcentaje del ancho calculado del padre del cuadro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32493,6 +32525,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054422Z" creationid="gitnacho" creationdate="20221007T054422Z">
         <seg>Cada parámetro tiene un tipo declarado explícitamente; `wasm` [Tipos `Number`](#tipos_number), [Tipos `Reference`](#tipos_reference), [Tipos `Vector`](#tipos_vector).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each property that allows percentages also defines the quantity to which the percentage refers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000846Z" creationid="Nachec" creationdate="20221022T000846Z">
+        <seg>Cada propiedad que permite porcentajes también define la cantidad a la que se refiere el porcentaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36430,6 +36470,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this case the allowed value is detailed in the specification as a combination unit, e.g. {{cssxref("&amp;lt;length-percentage&amp;gt;")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001048Z" creationid="Nachec" creationdate="20221022T001048Z">
+        <seg>En este caso, el valor permitido se detalla en la especificación como una  combinación de unidades, p. ej. {{CSSxRef("&amp;lt;length-percentage&amp;gt;")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this case, it is just "1".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143120Z" creationid="gitnacho" creationdate="20221019T143120Z">
@@ -39867,6 +39915,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Percentage values are always relative to another quantity, for example a length.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000836Z" creationid="Nachec" creationdate="20221022T000836Z">
+        <seg>Los valores porcentuales siempre son relativos a otra cantidad, por ejemplo, una longitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Performance entries are also created in indirect ways such as loading a resource (such as an image).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T205835Z" creationid="gitnacho" creationdate="20220913T205835Z">
@@ -41134,6 +41190,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204418Z" creationid="gitnacho" creationdate="20221005T204418Z">
         <seg>Algunas personas solo quieren algo para copiar y pegar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some properties accept a dimension that could be either one of two types, for example a `&lt;length&gt;` **or** a `&lt;percentage&gt;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000958Z" creationid="Nachec" creationdate="20221022T000958Z">
+        <seg>Algunas propiedades aceptan una dimensión que podría ser de dos tipos, por ejemplo, `&lt;length&gt;` **o** un `&lt;percentage&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47324,6 +47388,14 @@ locals in the module (like "symbols" in a native build).</seg>
         <seg>Esto proporciona a los desarrolladores una forma de incluir datos personalizados dentro de los módulos `wasm` para otros fines, por ejemplo, la [sección personalizada `name`](https://github.com/WebAssembly/design/blob/main/BinaryEncoding.md#name-section),
 que permite a los desarrolladores proporcionar nombres para todas las funciones y
 locales en el módulo (como "símbolos" en una compilación nativa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This quantity can be a value of another property of the same element, the value of a property of an ancestor element, a measurement of a containing block, or something else.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000910Z" creationid="Nachec" creationdate="20221022T000910Z">
+        <seg>Esta cantidad puede ser un valor de otra propiedad del mismo elemento, el valor de una propiedad de un elemento antepasado, una medida de un bloque contenedor o cualquier otra cosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62970,6 +63042,18 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>width: 50%;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000931Z" creationid="Nachec" creationdate="20221022T000931Z">
+        <seg>width: 50%;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>width: 75%;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225118Z" creationid="Nachec" creationdate="20221021T225118Z">
@@ -63935,6 +64019,26 @@ console.log(uintc8FromIterable);
     <tu>
       <tuv lang="en-US">
         <seg>|
+| `dpcm`      | Dots per centimeter.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000754Z" creationid="Nachec" creationdate="20221022T000754Z">
+        <seg>|
+| `dpcm` | Puntos por centímetro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `dppx`, `x` | Dots per px unit.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000808Z" creationid="Nachec" creationdate="20221022T000808Z">
+        <seg>|
+| `dppx`, `x` | Puntos por unidad de px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
 | `ex`   | x-height of the element's font.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235019Z" creationid="Nachec" creationdate="20221021T235019Z">
@@ -64370,6 +64474,18 @@ console.log(uintc8FromIterable);
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185626Z" creationid="gitnacho" creationdate="20221008T185626Z">
         <seg>| Algo corto | Algo corto |
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Unit        | Description          |
+| ----------- | -------------------- |
+| `dpi`       | Dots per inch.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000746Z" creationid="Nachec" creationdate="20221022T000746Z">
+        <seg>| Unidad | Descripción |
+| - | - |
+| `dpi` | Puntos por pulgada.</seg>
       </tuv>
     </tu>
     <tu>
