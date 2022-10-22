@@ -14404,9 +14404,9 @@ spec-urls: https://w3c.github.io/ServiceWorker/
         <seg>- [List of all HTTP headers](/en-US/docs/Web/HTTP/Headers)
 - [RFC 9110, section 6.3: Header Fields](https://httpwg.org/specs/rfc9110.html#header.fields)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021153Z" creationid="Nachec" creationdate="20221022T021153Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T112006Z" creationid="Nachec" creationdate="20221022T021153Z">
         <seg>- [Lista de todas la cabeceras HTTP](/es/docs/Web/HTTP/Headers)
-- [RFC 9110, sección 6.3: Campos de Header](https://httpwg.org/specs/rfc9110.html#header.fields)</seg>
+- [RFC 9110, sección 6.3: Campos de la cabecera — Header](https://httpwg.org/specs/rfc9110.html#header.fields)</seg>
       </tuv>
     </tu>
     <tu>
