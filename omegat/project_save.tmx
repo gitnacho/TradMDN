@@ -14319,6 +14319,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Header field definitions.](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134813Z" creationid="Nachec" creationdate="20221022T134813Z">
+        <seg>- [Definiciones de campo de Cabecera](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [How Browsers Work (2011)](https://web.dev/howbrowserswork/)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064901Z" creationid="gitnacho" creationdate="20221012T064901Z">
