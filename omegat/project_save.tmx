@@ -3802,10 +3802,34 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### The `Accept-CH-Lifetime` header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092758Z" creationid="Nachec" creationdate="20221022T092758Z">
+        <seg>### La cabecera `Accept-CH-Lifetime`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### The `Accept-CH` header {{experimental_inline}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092506Z" creationid="Nachec" creationdate="20221022T092506Z">
         <seg>### La cabecera `Accept-CH` {{experimental_inline}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### The `Accept-Encoding` header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092849Z" creationid="Nachec" creationdate="20221022T092849Z">
+        <seg>### La cabecera `Accept-Encoding`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### The `Accept-Language` header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093019Z" creationid="Nachec" creationdate="20221022T093019Z">
+        <seg>### La cabecera `Accept-Language`</seg>
       </tuv>
     </tu>
     <tu>
@@ -28672,6 +28696,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** This is part of an **experimental** technology called _Client Hints_ and is only available in Chrome 61 or later.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092812Z" creationid="Nachec" creationdate="20221022T092812Z">
+        <seg>&gt; **Nota:** Esto es parte de una tecnología **experimental** llamada _Client Hints_ y solo está disponible en Chrome 61 o posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** This is part of an **experimental** technology called _Client Hints_.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092517Z" creationid="Nachec" creationdate="20221022T092517Z">
@@ -31706,6 +31738,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browsers always send this header and the server should be configured to use compression.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093011Z" creationid="Nachec" creationdate="20221022T093011Z">
+        <seg>Los navegadores siempre envían esta cabecera y el servidor se debe configurar para usar compresión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browsers are free to use the value of the header that they think is the most adequate; an exhaustive list of [default values for common browsers](/en-US/docs/Web/HTTP/Content_negotiation/List_of_default_Accept_values) is available.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092453Z" creationid="Nachec" creationdate="20221022T092453Z">
@@ -32264,6 +32304,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224225Z" creationid="gitnacho" creationdate="20221018T224225Z">
         <seg>Completar las evaluaciones confirma que estás listo para pasar al siguiente módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compressing HTTP messages is one of the most important ways to improve the performance of a website.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092950Z" creationid="Nachec" creationdate="20221022T092950Z">
+        <seg>La compresión de mensajes HTTP es una de las formas más importantes de mejorar el rendimiento de un sitio web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37949,6 +37997,14 @@ y \{{cssxref("margin-left")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shrinks the size of the data transmitted and makes better use of the available bandwidth.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093000Z" creationid="Nachec" creationdate="20221022T093000Z">
+        <seg>Reduce el tamaño de los datos transmitidos y hace un mejor uso del ancho de banda disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It takes the form of a JavaScript file that can control the web-page/site that it is associated with, intercepting and modifying navigation and resource requests, and caching resources in a very granular fashion to give you complete control over how your app behaves in certain situations (the most obvious one being when the network is not available).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T134131Z" creationid="gitnacho" creationdate="20221002T134131Z">
@@ -38018,6 +38074,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203702Z" creationid="gitnacho" creationdate="20221003T203702Z">
         <seg>Devolverá un objeto `response` normal que tiene el código de error apropiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's a list of values with quality factors (e.g., `"de, en;q=0.7`").</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093041Z" creationid="Nachec" creationdate="20221022T093041Z">
+        <seg>Es una lista de valores con factores de calidad (por ejemplo, `"de, en;q=0.7`").</seg>
       </tuv>
     </tu>
     <tu>
@@ -43737,6 +43801,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default value `identity` is at the lowest priority (unless otherwise noted).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092936Z" creationid="Nachec" creationdate="20221022T092936Z">
+        <seg>El valor predeterminado `identity` tiene la prioridad más baja (a menos que se indique lo contrario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default value is 5 seconds.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224344Z" creationid="gitnacho" creationdate="20221011T224344Z">
@@ -45496,6 +45568,22 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The value is a q-factor list (e.g., `br, gzip;q=0.8`) that indicates the priority of the encoding values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092917Z" creationid="Nachec" creationdate="20221022T092917Z">
+        <seg>El valor es una lista de factores (por ejemplo, `br, gzip;q=0.8`) que indica la prioridad de los valores de codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The value is given in milliseconds and it's optional.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092837Z" creationid="Nachec" creationdate="20221022T092837Z">
+        <seg>El valor se da en milisegundos y es opcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The value of the argument at `index`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T142533Z" creationid="gitnacho" creationdate="20221019T142533Z">
@@ -45572,6 +45660,30 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092213Z" creationid="Nachec" creationdate="20221022T092213Z">
         <seg>La cabecera {{HTTPHeader("Accept")}} enumera los tipos MIME de recursos multimedia que el agente está dispuesto a procesar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{HTTPHeader("Accept-CH-Lifetime")}} header is used with the `Device-Memory` value of the `Accept-CH` header and indicates the amount of time the device should opt in to sharing the device memory with the server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092831Z" creationid="Nachec" creationdate="20221022T092831Z">
+        <seg>La cabecera {{HTTPHeader("Accept-CH-Lifetime")}} se usa con el valor `Device-Memory` de la cabecera `Accept-CH` e indica la cantidad de tiempo que el dispositivo debe optar por compartir la memoria del dispositivo con el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{HTTPHeader("Accept-Encoding")}} header defines the acceptable content encoding (supported compressions).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092903Z" creationid="Nachec" creationdate="20221022T092903Z">
+        <seg>La cabecera {{HTTPHeader("Accept-Encoding")}} define la codificación de contenido aceptable (compresiones admitidas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{HTTPHeader("Accept-Language")}} header is used to indicate the language preference of the user.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093031Z" creationid="Nachec" creationdate="20221022T093031Z">
+        <seg>La cabecera {{HTTPHeader("Accept-Language")}} se utiliza para indicar la preferencia de idioma del usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64867,6 +64979,16 @@ console.log(uintc8FromIterable);
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092708Z" creationid="Nachec" creationdate="20221022T092708Z">
         <seg>|
 | `Viewport-Width` | Indica el ancho de la ventana gráfica de diseño en píxeles CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `Width`          | Indicates the resource width in physical pixels (in other words the intrinsic size of an image).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092751Z" creationid="Nachec" creationdate="20221022T092751Z">
+        <seg>|
+| `Width` | Indica el ancho del recurso en píxeles físicos (en otras palabras, el tamaño intrínseco de una imagen).</seg>
       </tuv>
     </tu>
     <tu>
