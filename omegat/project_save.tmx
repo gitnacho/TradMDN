@@ -12739,8 +12739,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- The {{HTTPStatus("300")}} (Multiple Choices) or {{HTTPStatus("406")}} (Not Acceptable), {{HTTPStatus("415")}} (Unsupported Media Type) [HTTP response codes](/en-US/docs/Web/HTTP/Status) by the server (_agent-driven negotiation_ or _reactive negotiation_), that are used as fallback mechanisms.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091523Z" creationid="Nachec" creationdate="20221022T091523Z">
-        <seg>- {{HTTPStatus("300")}} (opciones múltiples) o {{HTTPStatus("406")}} (no aceptable), {{HTTPStatus("415")}} (tipo de medio no compatible) [códigos de respuesta HTTP](/es/docs/Web/HTTP/Status) por el servidor (_agent-driven negotiation_ o _reactive negotiation_), que se utilizan como mecanismos de respaldo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T095234Z" creationid="Nachec" creationdate="20221022T091523Z">
+        <seg>- {{HTTPStatus("300")}} (opciones múltiples) o {{HTTPStatus("406")}} (no aceptable), {{HTTPStatus("415")}} (tipo de medio no compatible) [códigos de respuesta HTTP](/es/docs/Web/HTTP/Status) por el servidor (_negociación impulsada por el agente_ o _negociación reactiva_), que se utilizan como mecanismos de respaldo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36518,8 +36518,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In addition to these, there's an experimental proposal to add more headers to the list of available headers, called _client hints_.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092000Z" creationid="Nachec" creationdate="20221022T092000Z">
-        <seg>Además de estos, hay una propuesta experimental para agregar más cabeceras a la lista de cabeceras disponibles, llamada _sugerencias de cliente_.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T095604Z" creationid="Nachec" creationdate="20221022T092000Z">
+        <seg>Además de estas, hay una propuesta experimental para agregar más cabeceras a la lista de cabeceras disponibles, llamada _sugerencias de cliente_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42999,8 +42999,8 @@ of the service worker.</seg>
       <tuv lang="en-US">
         <seg>The HTTP/1.1 standard defines list of the standard headers that start server-driven negotiation (such as {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Encoding")}}, and {{HTTPHeader("Accept-Language")}}).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091854Z" creationid="Nachec" creationdate="20221022T091854Z">
-        <seg>El estándar HTTP/1.1 define la lista de cabeceras estándar que inician la negociación impulsada por el servidor (como {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Encoding")}} y {{HTTPHeader(" Aceptar-Language")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T095502Z" creationid="Nachec" creationdate="20221022T091854Z">
+        <seg>El estándar HTTP/1.1 define la lista de cabeceras estándar que inician la negociación impulsada por el servidor (como {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Encoding")}} y {{HTTPHeader("Accept-Language")}}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65925,8 +65925,8 @@ console.log(uintc8FromIterable);
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `Device-Memory`  | Indicates the approximate amount of device RAM. This value is an approximation given by rounding to the nearest power of 2 and dividing that number by 1024.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092731Z" creationid="Nachec" creationdate="20221022T092630Z">
-        <seg>| Valor | significado |
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T095918Z" creationid="Nachec" creationdate="20221022T092630Z">
+        <seg>| Valor | Significado |
 | - | - |
 | `Device-Memory` | Indica la cantidad aproximada de RAM del dispositivo. Este valor es una aproximación dada redondeando a la potencia de 2 más cercana y dividiendo ese número por 1024.</seg>
       </tuv>
