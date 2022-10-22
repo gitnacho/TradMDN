@@ -5850,6 +5850,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Quality values**, or _q-values_ and _q-factors_, are used to describe the order of priority of values in a comma-separated list.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134321Z" creationid="Nachec" creationdate="20221022T134321Z">
+        <seg>**Valores de calidad**, o `q-values` y `q-factors`, se utilizan para describir el orden de prioridad de los valores en una lista separada por comas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**This value is unsafe**, because it leaks origins and paths from TLS-protected resources to insecure origins.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130308Z" creationid="gitnacho" creationdate="20221003T130308Z">
@@ -21466,9 +21474,9 @@ title: Quality values
 slug: Glossary/Quality_values
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T130735Z" creationid="Nachec" creationdate="20221022T130735Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134252Z" creationid="Nachec" creationdate="20221022T130735Z">
         <seg>---
-title: Calidad de valores
+title: Valores de calidad
 slug: Glossary/Quality_values
 tags:</seg>
       </tuv>
@@ -38325,6 +38333,14 @@ y \{{cssxref("margin-left")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is a special syntax allowed in some [HTTP headers](/en-US/docs/Web/HTTP/Headers) and in HTML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134337Z" creationid="Nachec" creationdate="20221022T134337Z">
+        <seg>Es una sintaxis especial permitida en algunas [cabeceras HTTP](/es/docs/Web/HTTP/Headers) y en HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is also designed to run alongside JavaScript, allowing both to work together.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T094145Z" creationid="gitnacho" creationdate="20221003T094145Z">
@@ -45202,6 +45218,14 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following syntax</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134416Z" creationid="Nachec" creationdate="20221022T134416Z">
+        <seg>La siguiente sintaxis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following values are the pre-defined keyword values allowed for {{cssxref("float")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234153Z" creationid="Nachec" creationdate="20221021T234153Z">
@@ -45382,6 +45406,14 @@ detalles en la consola:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023439Z" creationid="gitnacho" creationdate="20221008T023439Z">
         <seg>El objeto `import` define un objeto con propiedades que coinciden con la declaración "`import`" en el código WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The importance of a value is marked by the suffix `';q='` immediately followed by a value between `0` and `1` included, with up to three decimal digits, the highest value denoting the highest priority.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134401Z" creationid="Nachec" creationdate="20221022T134401Z">
+        <seg>La importancia de un valor está marcada por el sufijo `';q='` seguido inmediatamente por un valor entre `0` y `1` incluidos, con hasta tres dígitos decimales, el valor más alto indica la prioridad más alta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51582,6 +51614,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When not present, the default value is `1`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134411Z" creationid="Nachec" creationdate="20221022T134411Z">
+        <seg>Cuando no está presente, el valor predeterminado es `1`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When present, the `maximum` parameter acts as a hint</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215206Z" creationid="gitnacho" creationdate="20221019T215206Z">
@@ -55076,6 +55116,18 @@ Vary: Accept, Width, ECT
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091806Z" creationid="gitnacho" creationdate="20221012T091806Z">
         <seg>```http
 Vary: Accept, Width, ECT
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134417Z" creationid="Nachec" creationdate="20221022T134417Z">
+        <seg>```http
+text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 ```</seg>
       </tuv>
     </tu>
@@ -62077,6 +62129,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>indicates the order of priority:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134426Z" creationid="Nachec" creationdate="20221022T134426Z">
+        <seg>indica el orden de prioridad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>information is the country or region variant (like `'en-US'` or</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110313Z" creationid="Nachec" creationdate="20221022T110313Z">
@@ -66737,6 +66797,22 @@ console.log(uintc8FromIterable);
         <seg>| Unidad | Nombre | Descripción |
 | - | - | - |
 | `fr` | Flex | Representa una longitud flexible dentro de un contenedor de cuadrícula — `grid`. |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Value                                   | Priority |
+| --------------------------------------- | -------- |
+| `text/html` and `application/xhtml+xml` | `1.0`    |
+| `application/xml`                       | `0.9`    |
+| `*/*`                                   | `0.8`    |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134507Z" creationid="Nachec" creationdate="20221022T134507Z">
+        <seg>| Valor | Prioridad |
+| -| - |
+| `text/html` y `application/xhtml+xml` | `1.0` |
+| `application/xml` | `0.9` |
+| `*/*` | `0.8` |</seg>
       </tuv>
     </tu>
     <tu>
