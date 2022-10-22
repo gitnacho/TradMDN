@@ -18652,10 +18652,10 @@ rue: Nachec
 - {{Glossary("Forbidden header name")}}
 - {{Glossary("Request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T171313Z" creationid="Nachec" creationdate="20221022T171157Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172015Z" creationid="Nachec" creationdate="20221022T171157Z">
         <seg>- {{Glossary("CORS-safelisted response header", "Cabecera de respuesta incluida en la lista segura de CORS")}}
-- {{Glossary("Forbidden header name")}}
-- {{Glossary("Request header")}}</seg>
+- {{Glossary("Forbidden header name", "Cabecera de nombre prohibido — forbidden")}}
+- {{Glossary("Request header", "Cabecera de solicitud — request")}}</seg>
       </tuv>
     </tu>
     <tu>
