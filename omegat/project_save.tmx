@@ -32993,6 +32993,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flex units are represented by the type {{cssxref("&amp;lt;flex&amp;gt;")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000548Z" creationid="Nachec" creationdate="20221022T000046Z">
+        <seg>Las unidades flexibles están representadas por el tipo {{CSSxRef("&amp;lt;flex&amp;gt;")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Focusing on the summation symbol, one can notice that the sigma is drawn smaller and that the scripts of the `&lt;munderover&gt;` element are now attached as a subscript and a superscript!</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105843Z" creationid="Nachec" creationdate="20221021T105843Z">
