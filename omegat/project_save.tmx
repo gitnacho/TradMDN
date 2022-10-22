@@ -2866,6 +2866,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Extending the safelist</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T130004Z" creationid="Nachec" creationdate="20221022T130004Z">
+        <seg>### Extender la lista segura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Feature detection and enabling navigation preloading</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210102Z" creationid="gitnacho" creationdate="20220922T210102Z">
@@ -10823,9 +10831,9 @@ rue: Nachec
         <seg>- HTTP
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125352Z" creationid="Nachec" creationdate="20221022T125352Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T130442Z" creationid="Nachec" creationdate="20221022T125352Z">
         <seg>- HTTP
-rue: Nachec
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -21454,6 +21462,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Quality values
+slug: Glossary/Quality_values
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T130735Z" creationid="Nachec" creationdate="20221022T130735Z">
+        <seg>---
+title: Calidad de valores
+slug: Glossary/Quality_values
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Representation header
 slug: Glossary/Representation_header
 tags:</seg>
@@ -29535,8 +29557,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** {{HTTPHeader("Content-Length")}} was not part of the original set of safelisted response headers \[[ref](https://github.com/whatwg/fetch/pull/626)]</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125954Z" creationid="Nachec" creationdate="20221022T125954Z">
-        <seg>&gt; **Nota:** {{HTTPHeader("Content-Length")}} no formaba parte del conjunto original de cabeceras de respuesta incluidas en la lista segura \\[[ref](https://github.com/whatwg/fetch/pull/ 626)]</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T130333Z" creationid="Nachec" creationdate="20221022T125954Z">
+        <seg>&gt; **Nota:** {{HTTPHeader("Content-Length")}} no formaba parte del conjunto original de cabeceras de respuesta incluidas en la lista segura \[[ref](https://github.com/whatwg/fetch/pull/626)]</seg>
       </tuv>
     </tu>
     <tu>
@@ -52194,6 +52216,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can extend the list of CORS-safelisted response headers by using the {{HTTPHeader("Access-Control-Expose-Headers")}} header:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T130037Z" creationid="Nachec" creationdate="20221022T130037Z">
+        <seg>Puedes ampliar la lista de cabeceras de respuesta incluidas en la lista segura de CORS mediante la cabecera {{HTTPHeader("Access-Control-Expose-Headers")}}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can find full documentation on Emscripten at [emscripten.org](https://emscripten.org), and a guide to implementing the toolchain and compiling your own C/C++ app across to wasm at [Compiling from C/C++ to WebAssembly](/en-US/docs/WebAssembly/C_to_wasm).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221003T090231Z">
@@ -54750,6 +54780,18 @@ Access-Control-Expose-Headers: &lt;header-name&gt;[, &lt;header-name&gt;]*
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053957Z" creationid="gitnacho" creationdate="20221012T053957Z">
         <seg>```http
 Access-Control-Expose-Headers: &lt;header-name&gt;[, &lt;header-name&gt;]*
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+Access-Control-Expose-Headers: X-Custom-Header, Content-Encoding
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T130040Z" creationid="Nachec" creationdate="20221022T130040Z">
+        <seg>```http
+Access-Control-Expose-Headers: X-Custom-Header, Content-Encoding
 ```</seg>
       </tuv>
     </tu>
@@ -67330,6 +67372,23 @@ rue: Nachec
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="gitnacho" creationdate="20221019T072230Z">
         <seg>- origin
   - origen
+rue: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">glossary/quality_values/index.md</prop>
+      <prop type="prev">---
+title: Quality values
+slug: Glossary/Quality_values
+tags:</prop>
+      <prop type="next">**Quality values**, or _q-values_ and _q-factors_, are used to describe the order of priority of values in a comma-separated list.</prop>
+      <tuv lang="en-US">
+        <seg>- WebMechanics
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T131302Z" creationid="Nachec" creationdate="20221022T131302Z">
+        <seg>- WebMechanics
 rue: Nachec
 ---</seg>
       </tuv>
