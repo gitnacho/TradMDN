@@ -4266,6 +4266,22 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Flex units</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000039Z" creationid="Nachec" creationdate="20221022T000039Z">
+        <seg>#### Unidades flexibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Frequency units</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235916Z" creationid="Nachec" creationdate="20221021T235916Z">
+        <seg>#### Unidades de frecuencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### GFM table maximum width</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185025Z" creationid="gitnacho" creationdate="20221008T185025Z">
@@ -4446,6 +4462,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053434Z" creationid="gitnacho" creationdate="20221012T053434Z">
         <seg>#### *Cookies*&amp;nbsp;de terceros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Time units</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235813Z" creationid="Nachec" creationdate="20221021T235813Z">
+        <seg>#### Unidades de tiempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -33749,6 +33773,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Frequency values are represented by the type {{cssxref("&amp;lt;frequency&amp;gt;")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235937Z" creationid="Nachec" creationdate="20221021T235937Z">
+        <seg>Los valores de frecuencia se representan con el tipo {{CSSxRef("&amp;lt;frequency&amp;gt;")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From JavaScript's point of view, it's as though memory is all inside one big (resizable) {{jsxref("ArrayBuffer")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T063958Z">
@@ -36740,6 +36772,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065107Z" creationid="gitnacho" creationdate="20221005T065107Z">
         <seg>Invocar la plantilla anterior se vería así (siempre que se haya guardado en el directorio de macros con un nombre de archivo de `hello.ejs`):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It accepts the following values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235844Z" creationid="Nachec" creationdate="20221021T235844Z">
+        <seg>Acepta los siguientes valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47584,6 +47624,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time values are represented by the type {{cssxref("&amp;lt;time&amp;gt;")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235824Z" creationid="Nachec" creationdate="20221021T235824Z">
+        <seg>Los valores de tiempo están representados por el tipo {{CSSxRef("&amp;lt;time&amp;gt;")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To achieve that, you need to attach a `display="block"` attribute on the `&lt;math&gt;` element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181625Z" creationid="Nachec" creationdate="20221021T181625Z">
@@ -49513,6 +49561,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When including a time value, the unit identifier — the `s` or `ms` — is required.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235836Z" creationid="Nachec" creationdate="20221021T235836Z">
+        <seg>Cuando se incluye un valor de tiempo, se requiere el identificador de la unidad, `s` o `ms`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When it comes to picking a version, choose any one you'd like; this tutorial isn't version-specific.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065245Z" creationid="gitnacho" creationdate="20221004T065245Z">
@@ -51183,6 +51239,14 @@ crate-type = ["cdylib"]</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T211204Z" creationid="nachec" creationdate="20220804T211204Z">
         <seg>`);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`1Hz`, which can also be written as `1hz` or `1HZ`, is one cycle per second.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000033Z" creationid="Nachec" creationdate="20221022T000033Z">
+        <seg>`1Hz`, que también se puede escribir como `1hz` o `1HZ`, es un ciclo por segundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63833,6 +63897,16 @@ console.log(uintc8FromIterable);
     <tu>
       <tuv lang="en-US">
         <seg>|
+| `grad` | Gradians | There are 400 gradians in a full circle.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235740Z" creationid="Nachec" creationdate="20221021T235740Z">
+        <seg>|
+| `grad` | Gradianes | Hay 400 gradianes en un círculo completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
 | `ic`   | Average character advance of a full width glyph in the element's font, as represented by the "水" (CJK water ideograph, U+6C34) glyph.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235156Z" creationid="Nachec" creationdate="20221021T235156Z">
@@ -63843,11 +63917,31 @@ console.log(uintc8FromIterable);
     <tu>
       <tuv lang="en-US">
         <seg>|
+| `kHz` | KiloHertz | A kiloHertz is 1000 Hertz.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000017Z" creationid="Nachec" creationdate="20221022T000017Z">
+        <seg>|
+| `kHz` | kilohercios | Un kilohercio son 1000 hercios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
 | `lh`   | Line height of the element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235217Z" creationid="Nachec" creationdate="20221021T235217Z">
         <seg>|
 | `lh` | Altura de línea del elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `rad`  | Radians  | There are 2π radians in a full circle.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235749Z" creationid="Nachec" creationdate="20221021T235749Z">
+        <seg>|
+| `rad` | Radianes | Hay 2π radianes en un círculo completo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63868,6 +63962,16 @@ console.log(uintc8FromIterable);
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235225Z" creationid="Nachec" creationdate="20221021T235225Z">
         <seg>|
 | `rlh` | Altura de línea del elemento raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+| `turn` | Turns    | There is 1 turn in a full circle.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235805Z" creationid="Nachec" creationdate="20221021T235805Z">
+        <seg>|
+| `turn` | Vueltas | Hay 1 vuelta en un círculo completo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64246,6 +64350,18 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| Unit  | Name      | Description                                      |
+| ----- | --------- | ------------------------------------------------ |
+| `Hz`  | Hertz     | Represents the number of occurrences per second.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235950Z" creationid="Nachec" creationdate="20221021T235950Z">
+        <seg>| Unidad | Nombre | Descripción |
+| - | - | - |
+| 'Hz' | hercios | Representa el número de ocurrencias por segundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| Unit | Description                                                                                                                 |
 | ---- | --------------------------------------------------------------------------------------------------------------------------- |
 | `em` | {{ Cssxref("font-size", "Font-relative") }} unit                                                               |
@@ -64280,6 +64396,20 @@ console.log(uintc8FromIterable);
 | `pc` | picas | 1 pica = 1/6 de 1 pulgada |
 | `pt` | Puntos | 1pt = 1/72 de 1 pulgada |
 | `px` | Píxeles | 1px = 1/96 de 1 pulgada |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Unit | Name         | Description                               |
+| ---- | ------------ | ----------------------------------------- |
+| `s`  | Seconds      |                                           |
+| `ms` | Milliseconds | There are 1,000 milliseconds in a second.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235902Z" creationid="Nachec" creationdate="20221021T235902Z">
+        <seg>| Unidad | Nombre | Descripción |
+| - | - | - |
+| `s` | Segundos | |
+| `ms` | Milisegundos | Hay 1,000 milisegundos en un segundo.</seg>
       </tuv>
     </tu>
     <tu>
