@@ -3850,6 +3850,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### The `Vary` response header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093453Z" creationid="Nachec" creationdate="20221022T093453Z">
+        <seg>### La cabecera de respuesta `Vary`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### The display attribute</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181528Z" creationid="Nachec" creationdate="20221021T181528Z">
@@ -29727,6 +29735,22 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A _comment_ is an optional string delimited by parentheses.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093422Z" creationid="Nachec" creationdate="20221022T093422Z">
+        <seg>Un _comentario_ es una cadena opcional delimitada por paréntesis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A _product token_ is a name followed by a '`/`' and a version number, like `Firefox/4.0.1`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093404Z" creationid="Nachec" creationdate="20221022T093404Z">
+        <seg>Un _toquen de producto_ es un nombre seguido de un '`/`' y un número de versión, como 'Firefox/4.0.1'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A _simple request_ is one that **meets all the following conditions**:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220344Z" creationid="gitnacho" creationdate="20221011T220344Z">
@@ -34186,6 +34210,24 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information, see [HTTP caching &gt; Varying responses](/en-US/docs/Web/HTTP/Caching#varying_responses).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093720Z" creationid="Nachec" creationdate="20221022T093720Z">
+        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP &gt; Variación de respuestas](/es/docs/Web/HTTP/Caching#varying_responses).
+
+## Negociación impulsada por agentes
+
+La negociación impulsada por el servidor tiene algunos inconvenientes: no se escala bien. En la negociación se utiliza una cabecera por característica. Si deseas utilizar el tamaño de la pantalla, la resolución u otras dimensiones, debes crear una nueva cabecera HTTP. Los cabeceras se deben enviar con cada solicitud. Esto no es un problema si solo hay unas pocas cabeceras, pero a medida que aumenta la cantidad de cabeceras, el tamaño del mensaje podría afectar el rendimiento. Cuanto más precisamente se envían los cabeceras, más entropía se envía, lo que permite más huellas dactilares HTTP y las preocupaciones de privacidad correspondientes.
+
+HTTP permite otro tipo de negociación: _negociación dirigida por agentes_ o _negociación reactiva_. En este caso, el servidor devuelve una página que contiene enlaces a los recursos alternativos disponibles ante una solicitud ambigua. Al usuario se le presentan los recursos y elige el que va a utilizar.
+
+![Negociación de contenido 3](httpnego3.png)
+
+Desafortunadamente, el estándar HTTP no especifica el formato de la página para elegir entre los recursos disponibles, lo que impide automatizar el proceso. Además de recurrir a la _negociación impulsada por el servidor_, este método casi siempre se usa con scripts, especialmente con la redirección de JavaScript: después de haber verificado los criterios de negociación, el script realiza la redirección. Un segundo problema es que se necesita una solicitud más para obtener el recurso real, lo que ralentiza la disponibilidad del recurso para el usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more, consult the [Cargo](https://doc.rust-lang.org/cargo/guide/) and [Rust Linkage](https://doc.rust-lang.org/reference/linkage.html) documentation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063904Z" creationid="gitnacho" creationdate="20221004T063904Z">
@@ -36532,6 +36574,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In contrast to the previous `Accept-*` headers, which are sent by the client, the {{HTTPHeader("Vary")}} HTTP header is sent by the web server in its response.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093508Z" creationid="Nachec" creationdate="20221022T093508Z">
+        <seg>A diferencia de los cabeceras `Accept-*` anteriores, que son enviadas por el cliente, el servidor web envía la cabecera HTTP {{HTTPHeader("Vary")}} en su respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In earlier browsers, this identified the scripting language of the embedded or imported (via the `src` attribute) code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130618Z" creationid="gitnacho" creationdate="20221003T130618Z">
@@ -37693,6 +37743,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T203840Z">
         <seg>Contiene el objeto `CacheStorage`, mediante el cual puede acceder a la interfaz {{DOMxRef("CacheStorage")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It indicates the list of headers the server uses during the server-driven content negotiation phase.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093522Z" creationid="Nachec" creationdate="20221022T093522Z">
+        <seg>Indica la lista de cabeceras que utiliza el servidor durante la fase de negociación de contenido impulsada por el servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40104,6 +40162,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Obviously, the wildcard '`*`' prevents caching from occurring, as the cache can't know what element is behind it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093659Z" creationid="Nachec" creationdate="20221022T093659Z">
+        <seg>Obviamente, el comodín '`*`' evita que se produzca el almacenamiento en caché, ya que la caché no puede saber qué elemento hay detrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Office document editors are not suitable for this use, as they rely on hidden elements that interfere with the rendering engines used by web browsers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164641Z" creationid="gitnacho" creationdate="20221012T164641Z">
@@ -42215,6 +42281,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That way, the cache can replay the algorithm and will be able to serve acceptable content directly, without more requests to the server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093647Z" creationid="Nachec" creationdate="20221022T093647Z">
+        <seg>De esa manera, la caché puede reproducir el algoritmo y podrá entregar contenido aceptable directamente, sin más solicitudes al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That's a pretty good starting point.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053344Z" creationid="gitnacho" creationdate="20221004T053344Z">
@@ -43221,6 +43295,22 @@ función exportada contenida.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T212302Z" creationid="gitnacho" creationdate="20221003T212253Z">
         <seg>La interfaz `ServiceWorker` recibe un conjunto de eventos del ciclo de vida, `install` y `activate` — y eventos funcionales que incluyen `fetch`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `Vary` header is needed to inform the cache of the decision criteria so that it can reproduce it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093538Z" creationid="Nachec" creationdate="20221022T093538Z">
+        <seg>La cabecera `Vary` es necesaria para informar a la memoria caché de los criterios de decisión para que lo pueda reproducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `Vary` header was added in version 1.1 of HTTP and allows caches to work appropriately.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093621Z" creationid="Nachec" creationdate="20221022T093621Z">
+        <seg>La cabecera `Vary` se agregó en la versión 1.1 de HTTP y permite que las cachés funcionen correctamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44666,6 +44756,14 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The information provided in a comment isn't standardized, though several browsers add several tokens to it separated by '`;`'.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093442Z" creationid="Nachec" creationdate="20221022T093442Z">
+        <seg>La información proporcionada en un comentario no está estandarizada, aunque muchos usuarios le agregan varios toquens separados por '`;`'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The install event is fired when an install is successfully completed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T034044Z" creationid="gitnacho" creationdate="20220921T034044Z">
@@ -45474,6 +45572,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The special value '`*`' means that the server-driven content negotiation also uses information not conveyed in a header to choose the appropriate content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093609Z" creationid="Nachec" creationdate="20221022T093609Z">
+        <seg>El valor especial '`*`' significa que la negociación de contenido impulsada por el servidor también usa información que no se transmite en una cabecera para elegir el contenido apropiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stack contains exactly one `i32` value — the result of the expression (`$p + $p`), which is handled by `i32.add`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T055108Z" creationid="gitnacho" creationdate="20221007T055108Z">
@@ -45636,6 +45742,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092004Z" creationid="gitnacho" creationdate="20221012T092004Z">
         <seg>El agente de usuario agrega los encabezados de sugerencia de cliente solicitados, o al menos el subconjunto que desea compartir con ese servidor, a todas las solicitudes posteriores en la sesión de navegación actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The user agent can include as many of these as it wants.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093413Z" creationid="Nachec" creationdate="20221022T093413Z">
+        <seg>El agente de usuario puede incluir tantos como quiera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46733,6 +46847,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210751Z" creationid="gitnacho" creationdate="20220922T210751Z">
         <seg>Esto permite a los servidores diferenciar entre solicitudes de recuperación normales y precargadas, y enviar diferentes respuestas en cada caso si es necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This allows the cache to be functional while ensuring that the right content is served to the user.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093552Z" creationid="Nachec" creationdate="20221022T093552Z">
+        <seg>Esto permite que la memoria caché sea funcional al mismo tiempo que garantiza que el usuario reciba el contenido correcto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49227,6 +49349,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181750Z" creationid="gitnacho" creationdate="20221006T181750Z">
         <seg>Para verlo, puedes ir al Panel del depurador y hacer clic en la entrada "wasm://".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To work with server-driven content negotiation, a cache needs to know which criteria the server used to select the transmitted content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093633Z" creationid="Nachec" creationdate="20221022T093633Z">
+        <seg>Para trabajar con la negociación de contenido impulsada por el servidor, una caché necesita saber qué criterios utilizó el servidor para seleccionar el contenido transmitido.</seg>
       </tuv>
     </tu>
     <tu>
