@@ -21132,10 +21132,11 @@ title: Drop
 slug: WebAssembly/Reference/Control_flow/Drop
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083040Z" creationid="gitnacho" creationdate="20221020T083040Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200423Z" creationid="gitnacho" creationdate="20221020T083040Z">
         <seg>---
 title: Instrucción Drop
 slug: WebAssembly/Reference/Control_flow/Drop
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21589,10 +21590,11 @@ title: Loading and running WebAssembly code
 slug: WebAssembly/Loading_and_running
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070828Z" creationid="gitnacho" creationdate="20221004T070828Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200327Z" creationid="gitnacho" creationdate="20221004T070828Z">
         <seg>---
 title: Cargar y ejecutar código WebAssembly
 slug: WebAssembly/Loading_and_running
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21962,10 +21964,11 @@ title: Select
 slug: WebAssembly/Reference/Control_flow/Select
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210754Z" creationid="Nachec" creationdate="20221020T210754Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200553Z" creationid="Nachec" creationdate="20221020T210754Z">
         <seg>---
 title: Select
 slug: WebAssembly/Reference/Control_flow/Select
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22354,10 +22357,11 @@ title: WebAssembly control flow instructions
 slug: WebAssembly/Reference/Control_flow
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T094255Z" creationid="gitnacho" creationdate="20221007T094255Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200505Z" creationid="gitnacho" creationdate="20221007T094255Z">
         <seg>---
 title: Instrucciones de control de flujo WebAssembly
 slug: WebAssembly/Reference/Control_flow
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22966,10 +22970,11 @@ title: WebAssembly.validate()
 slug: WebAssembly/JavaScript_interface/validate
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T195632Z" creationid="gitnacho" creationdate="20221007T195632Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200308Z" creationid="gitnacho" creationdate="20221007T195632Z">
         <seg>---
 title: WebAssembly.validate()
 slug: WebAssembly/JavaScript_interface/validate
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23036,10 +23041,11 @@ title: block
 slug: WebAssembly/Reference/Control_flow/block
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075130Z" creationid="gitnacho" creationdate="20221020T074823Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200339Z" creationid="gitnacho" creationdate="20221020T074823Z">
         <seg>---
 title: Instrucción block
 slug: WebAssembly/Reference/Control_flow/block
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23050,10 +23056,11 @@ title: br
 slug: WebAssembly/Reference/Control_flow/br
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T075710Z" creationid="gitnacho" creationdate="20221020T075710Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200359Z" creationid="gitnacho" creationdate="20221020T075710Z">
         <seg>---
 title: Instrucción br
 slug: WebAssembly/Reference/Control_flow/br
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23080,10 +23087,11 @@ title: call
 slug: WebAssembly/Reference/Control_flow/call
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T082756Z" creationid="gitnacho" creationdate="20221020T082756Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200412Z" creationid="gitnacho" creationdate="20221020T082756Z">
         <seg>---
 title: Instrucción call
 slug: WebAssembly/Reference/Control_flow/call
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23094,10 +23102,11 @@ title: end
 slug: WebAssembly/Reference/Control_flow/end
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083516Z" creationid="gitnacho" creationdate="20221020T083516Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200436Z" creationid="gitnacho" creationdate="20221020T083516Z">
         <seg>---
 title: Instrucción end
 slug: WebAssembly/Reference/Control_flow/end
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23108,10 +23117,11 @@ title: if...else
 slug: WebAssembly/Reference/Control_flow/if...else
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T083935Z" creationid="gitnacho" creationdate="20221020T083935Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200457Z" creationid="gitnacho" creationdate="20221020T083935Z">
         <seg>---
 title: Instrucción if...else
 slug: WebAssembly/Reference/Control_flow/if...else
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23122,10 +23132,11 @@ title: loop
 slug: WebAssembly/Reference/Control_flow/loop
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084616Z" creationid="gitnacho" creationdate="20221020T084616Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200517Z" creationid="gitnacho" creationdate="20221020T084616Z">
         <seg>---
 title: Instrucción loop
 slug: WebAssembly/Reference/Control_flow/loop
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23150,10 +23161,11 @@ title: nop
 slug: WebAssembly/Reference/Control_flow/nop
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085941Z" creationid="gitnacho" creationdate="20221020T085941Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200532Z" creationid="gitnacho" creationdate="20221020T085941Z">
         <seg>---
 title: Instrucción nop
 slug: WebAssembly/Reference/Control_flow/nop
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23164,10 +23176,11 @@ title: return
 slug: WebAssembly/Reference/Control_flow/return
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T120619Z" creationid="gitnacho" creationdate="20221020T120619Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200543Z" creationid="gitnacho" creationdate="20221020T120619Z">
         <seg>---
 title: return
 slug: WebAssembly/Reference/Control_flow/return
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
