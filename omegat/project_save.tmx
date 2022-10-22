@@ -11062,6 +11062,17 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Infrastructure
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T072042Z" creationid="Nachec" creationdate="20221022T072042Z">
+        <seg>- Infrastructure
+  - Infraestructura
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Inside the function, we add one value to the stack — whatever value is passed in as the parameter `$i`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072757Z" creationid="gitnacho" creationdate="20221007T072757Z">
@@ -21107,6 +21118,20 @@ tags:</seg>
         <seg>---
 title: SharedArrayBuffer
 slug: Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Simple header
+slug: Glossary/Simple_header
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T072028Z" creationid="Nachec" creationdate="20221022T072028Z">
+        <seg>---
+title: Simple header
+slug: Glossary/Simple_header
 tags:</seg>
       </tuv>
     </tu>
@@ -39683,6 +39708,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081855Z" creationid="gitnacho" creationdate="20221007T054040Z">
         <seg>¡Bien!, eso no es muy interesante, agreguemos un código ejecutable a este módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Old term for {{Glossary("CORS-safelisted request header")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T072056Z" creationid="Nachec" creationdate="20221022T072056Z">
+        <seg>Término antiguo para {{Glossary("CORS-safelisted request header")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65641,6 +65674,21 @@ tags:</prop>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020416Z" creationid="Nachec" creationdate="20221022T020416Z">
         <seg>- WebMechanics
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">glossary/simple_header/index.md</prop>
+      <prop type="prev">- HTTP</prop>
+      <prop type="next">Old term for {{Glossary("CORS-safelisted request header")}}.</prop>
+      <tuv lang="en-US">
+        <seg>- Infrastructure
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T072114Z" creationid="Nachec" creationdate="20221022T072114Z">
+        <seg>- Infrastructure
+  - Infraestructura
 reviewer: Nachec
 ---</seg>
       </tuv>
