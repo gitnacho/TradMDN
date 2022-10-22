@@ -18233,8 +18233,8 @@ reviewer: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Request header")}}: Headers containing more information about the resource to be fetched or about the client itself.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T075942Z" creationid="gitnacho" creationdate="20221017T211558Z">
-        <seg>- {{Glossary("Request header")}}: cabeceras que contienen más información sobre el recurso a buscar o sobre el propio cliente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T083042Z" creationid="gitnacho" creationdate="20221017T211558Z">
+        <seg>- {{Glossary("Request header")}}: Cabeceras que contienen más información sobre el recurso a buscar o sobre el propio cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30583,8 +30583,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An **HTTP header** is a field of an HTTP request or response that passes additional context and metadata about the request or response.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T075816Z" creationid="gitnacho" creationdate="20221017T211423Z">
-        <seg>Una **cabecera HTTP** es un campo de una solicitud o respuesta HTTP que transmite contexto y metadatos adicionales sobre la solicitud o respuesta.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T083345Z" creationid="gitnacho" creationdate="20221017T211423Z">
+        <seg>Una **cabecera HTTP** es un campo de una solicitud —`request` en inglés— o respuesta —`response`— HTTP que transmite contexto y metadatos adicionales sobre la solicitud o respuesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34460,8 +34460,8 @@ Connection: Keep-Alive
       <tuv lang="en-US">
         <seg>Headers are case-insensitive, begin at the start of a line and are immediately followed by a `':'` and a header-dependent value.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T075904Z" creationid="gitnacho" creationdate="20221017T211508Z">
-        <seg>Las cabeceras no distinguen entre mayúsculas y minúsculas, comienzan al principio de una línea y son seguidos inmediatamente por `':'` y un valor dependiente de la cabecera.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T083031Z" creationid="gitnacho" creationdate="20221017T211508Z">
+        <seg>Las cabeceras no distinguen entre mayúsculas y minúsculas, comienzan al principio de una línea y están seguidas inmediatamente por `':'` y un valor dependiente de la cabecera.</seg>
       </tuv>
     </tu>
     <tu>
