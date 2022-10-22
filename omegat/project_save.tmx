@@ -880,6 +880,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Agent-driven negotiation</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094334Z" creationid="Nachec" creationdate="20221022T094334Z">
+        <seg>## Negociación impulsada por agentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Allowing cells to span multiple rows and columns</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095213Z" creationid="Nachec" creationdate="20221021T095213Z">
@@ -34212,18 +34220,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For more information, see [HTTP caching &gt; Varying responses](/en-US/docs/Web/HTTP/Caching#varying_responses).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093720Z" creationid="Nachec" creationdate="20221022T093720Z">
-        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP &gt; Variación de respuestas](/es/docs/Web/HTTP/Caching#varying_responses).
-
-## Negociación impulsada por agentes
-
-La negociación impulsada por el servidor tiene algunos inconvenientes: no se escala bien. En la negociación se utiliza una cabecera por característica. Si deseas utilizar el tamaño de la pantalla, la resolución u otras dimensiones, debes crear una nueva cabecera HTTP. Los cabeceras se deben enviar con cada solicitud. Esto no es un problema si solo hay unas pocas cabeceras, pero a medida que aumenta la cantidad de cabeceras, el tamaño del mensaje podría afectar el rendimiento. Cuanto más precisamente se envían los cabeceras, más entropía se envía, lo que permite más huellas dactilares HTTP y las preocupaciones de privacidad correspondientes.
-
-HTTP permite otro tipo de negociación: _negociación dirigida por agentes_ o _negociación reactiva_. En este caso, el servidor devuelve una página que contiene enlaces a los recursos alternativos disponibles ante una solicitud ambigua. Al usuario se le presentan los recursos y elige el que va a utilizar.
-
-![Negociación de contenido 3](httpnego3.png)
-
-Desafortunadamente, el estándar HTTP no especifica el formato de la página para elegir entre los recursos disponibles, lo que impide automatizar el proceso. Además de recurrir a la _negociación impulsada por el servidor_, este método casi siempre se usa con scripts, especialmente con la redirección de JavaScript: después de haber verificado los criterios de negociación, el script realiza la redirección. Un segundo problema es que se necesita una solicitud más para obtener el recurso real, lo que ralentiza la disponibilidad del recurso para el usuario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094324Z" creationid="Nachec" creationdate="20221022T093720Z">
+        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP &gt; Respuestas `Vary`](/es/docs/Web/HTTP/Caching#vary).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36114,6 +36112,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200520Z" creationid="gitnacho" creationdate="20221008T200520Z">
         <seg>Si deseas hablar con nosotros y hacer preguntas, únete a la discusión en la [sala de chat de MDN Web Docs](https://chat.mozilla.org/#/room/#mdn:mozilla.org) en [Matrix](https://wiki.mozilla.org/Matrix).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to use screen size, resolution, or other dimensions, you need to create a new HTTP header.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094406Z" creationid="Nachec" creationdate="20221022T094406Z">
+        <seg>Si deseas utilizar el tamaño de la pantalla, la resolución u otras dimensiones, debes crear una nueva cabecera HTTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40386,6 +40392,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One header per feature is used in the negotiation.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094357Z" creationid="Nachec" creationdate="20221022T094357Z">
+        <seg>En la negociación se utiliza una cabecera por característica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One over square root of two (display style):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075054Z" creationid="Nachec" creationdate="20221021T075054Z">
@@ -41493,6 +41507,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064801Z" creationid="gitnacho" creationdate="20221004T064801Z">
         <seg>Sirve el directorio raíz del proyecto con un servidor web local (por ejemplo, `python3 -m http.server`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Server-driven negotiation has a few drawbacks: it doesn't scale well.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094348Z" creationid="Nachec" creationdate="20221022T094348Z">
+        <seg>La negociación impulsada por el servidor tiene algunos inconvenientes: no escala bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44704,6 +44726,14 @@ detalles en la consola:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T210836Z">
         <seg>El valor del encabezado se puede cambiar a cualquier otro valor de cadena usando {{DOMxRef("NavigationPreloadManager.setHeaderValue()")}} para proporcionar contexto adicional para la operación de precarga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The headers must then be sent with every request.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094414Z" creationid="Nachec" creationdate="20221022T094414Z">
+        <seg>Los cabeceras se deben enviar con cada solicitud.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48102,6 +48132,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233731Z" creationid="gitnacho" creationdate="20221006T233731Z">
         <seg>Esto es muy útil, ya que permite la vinculación dinámica de múltiples módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This isn't an issue if there are only a few headers, but as the number of headers increases, the message size could eventually affect performance.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094426Z" creationid="Nachec" creationdate="20221022T094426Z">
+        <seg>Esto no es un problema si solo hay unas pocas cabeceras, pero a medida que aumenta la cantidad de cabeceras, el tamaño del mensaje podría afectar el rendimiento.</seg>
       </tuv>
     </tu>
     <tu>
