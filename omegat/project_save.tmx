@@ -20497,10 +20497,11 @@ title: &lt;view&gt;
 slug: Web/SVG/Element/view
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T121847Z" creationid="gitnacho" creationdate="20221005T121847Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194739Z" creationid="gitnacho" creationdate="20221005T121847Z">
         <seg>---
 title: &lt;view&gt;
 slug: Web/SVG/Element/view
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20872,10 +20873,11 @@ title: Caching compiled WebAssembly modules
 slug: WebAssembly/Caching_modules
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T043251Z" creationid="gitnacho" creationdate="20221004T043251Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194843Z" creationid="gitnacho" creationdate="20221004T043251Z">
         <seg>---
 title: Cacheo de módulos WebAssembly compilados
 slug: WebAssembly/Caching_modules
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20982,10 +20984,11 @@ title: Compiling a New C/C++ Module to WebAssembly
 slug: WebAssembly/C_to_wasm
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000847Z" creationid="gitnacho" creationdate="20221003T105056Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194829Z" creationid="gitnacho" creationdate="20221003T105056Z">
         <seg>---
 title: Compilar un nuevo módulo C/C++ a WebAssembly
 slug: WebAssembly/C_to_wasm
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20996,10 +20999,11 @@ title: Compiling an Existing C Module to WebAssembly
 slug: WebAssembly/existing_C_to_wasm
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T052726Z" creationid="gitnacho" creationdate="20221004T052639Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194915Z" creationid="gitnacho" creationdate="20221004T052639Z">
         <seg>---
 title: Compilar un módulo C existente a WebAssembly
 slug: WebAssembly/existing_C_to_wasm
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21202,10 +21206,11 @@ title: Exported WebAssembly functions
 slug: WebAssembly/Exported_functions
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T103748Z" creationid="gitnacho" creationdate="20221006T074818Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194931Z" creationid="gitnacho" creationdate="20221006T074818Z">
         <seg>---
 title: Funciones WebAssembly exportadas
 slug: WebAssembly/Exported_functions
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21216,10 +21221,11 @@ title: Features restricted to secure contexts
 slug: Web/Security/Secure_Contexts/features_restricted_to_secure_contexts
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T232403Z" creationid="gitnacho" creationdate="20221018T232403Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194723Z" creationid="gitnacho" creationdate="20221018T232403Z">
         <seg>---
 title: Características restringidas a contextos seguros
 slug: Web/Security/Secure_Contexts/features_restricted_to_secure_contexts
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21318,10 +21324,11 @@ title: Global attributes
 slug: Web/MathML/Global_attributes
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213032Z" creationid="Nachec" creationdate="20221021T213032Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194708Z" creationid="Nachec" creationdate="20221021T213032Z">
         <seg>---
 title: Atributos globales
 slug: Web/MathML/Global_attributes
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21494,10 +21501,11 @@ title: Interface list
 slug: Web/XSLT/XSLT_JS_interface_in_Gecko/Interface_List
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205906Z" creationid="Nachec" creationdate="20221020T205906Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194759Z" creationid="Nachec" creationdate="20221020T205906Z">
         <seg>---
 title: Interfaz list
 slug: Web/XSLT/XSLT_JS_interface_in_Gecko/Interface_List
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22329,10 +22337,11 @@ title: WebAssembly Concepts
 slug: WebAssembly/Concepts
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T003559Z" creationid="gitnacho" creationdate="20221003T003559Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194901Z" creationid="gitnacho" creationdate="20221003T003559Z">
         <seg>---
 title: Conceptos WebAssembly
 slug: WebAssembly/Concepts
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -42685,8 +42694,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>See {{domxref("XSLTProcessor")}} in the Web API documentation section.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205934Z" creationid="Nachec" creationdate="20221020T205934Z">
-        <seg>Consulta {{domxref("XSLTProcessor")}} en la sección de documentación de la API Web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194816Z" creationid="Nachec" creationdate="20221020T205934Z">
+        <seg>Consulta {{DOMxRef("XSLTProcessor")}} en la sección de documentación de la API Web.</seg>
       </tuv>
     </tu>
     <tu>
