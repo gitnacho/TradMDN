@@ -20949,6 +20949,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Representation header
+slug: Glossary/Representation_header
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021633Z" creationid="Nachec" creationdate="20221022T021633Z">
+        <seg>---
+title: Representación de header
+slug: Glossary/Representation_header
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Request header
 slug: Glossary/Request_header
 tags:</seg>
@@ -29400,6 +29414,14 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A **representation header** is an {{glossary("HTTP_header", "HTTP header")}} that describes the particular _representation_ of the resource sent in an HTTP message body.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021758Z" creationid="Nachec" creationdate="20221022T021758Z">
+        <seg>Una **representación de `header`** es una {{Glossary("HTTP_header", "Cabecera HTTP")}} que describe la _representación_ particular del recurso enviado en el cuerpo de un mensaje HTTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A **request header** is an {{glossary("HTTP header")}} that can be used in an HTTP request to provide information about the request context, so that the server can tailor the response.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020745Z" creationid="Nachec" creationdate="20221022T020509Z">
@@ -33591,6 +33613,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T210253Z" creationid="gitnacho" creationdate="20221005T210253Z">
         <seg>Por ejemplo, la llamada a la macro \\{{EmbedInteractiveExample("pages/js/array-push.html")}} muestra el siguiente código de ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the same data might be formatted as a particular media type such as XML or JSON, localized to a particular written language or geographical region, and/or compressed or otherwise encoded for transmission.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021920Z" creationid="Nachec" creationdate="20221022T021920Z">
+        <seg>Por ejemplo, los mismos datos pueden estar formateados como un tipo de medio en particular, como XML o JSON, localizados en un idioma escrito o una región geográfica en particular, y/o comprimidos o codificados de otro modo para la transmisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40337,6 +40367,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055712Z" creationid="Nachec" creationdate="20221021T055712Z">
         <seg>Basándose en contenedores de texto, este artículo describe cómo crear expresiones MathML más complejas anidando fracciones y raíces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Representations are different forms of a particular resource.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021852Z" creationid="Nachec" creationdate="20221022T021852Z">
+        <seg>Las representaciones son diferentes formas de un recurso particular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65513,6 +65551,23 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085638Z" creationid="gitnacho" creationdate="20221019T072230Z">
         <seg>- origin
   - origen
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">glossary/representation_header/index.md</prop>
+      <prop type="prev">---
+title: Representation header
+slug: Glossary/Representation_header
+tags:</prop>
+      <prop type="next">A **representation header** is an {{glossary("HTTP_header", "HTTP header")}} that describes the particular _representation_ of the resource sent in an HTTP message body.</prop>
+      <tuv lang="en-US">
+        <seg>- WebMechanics
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021655Z" creationid="Nachec" creationdate="20221022T021655Z">
+        <seg>- WebMechanics
 reviewer: Nachec
 ---</seg>
       </tuv>
