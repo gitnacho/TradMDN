@@ -20939,6 +20939,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Request header
+slug: Glossary/Request_header
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020351Z" creationid="Nachec" creationdate="20221022T020351Z">
+        <seg>---
+title: Cabecera request
+slug: Glossary/Request_header
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: SVGPointList.getItem()
 slug: Web/API/SVGPointList/getItem
 page-type: web-api-instance-method
@@ -29376,6 +29390,14 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A **request header** is an {{glossary("HTTP header")}} that can be used in an HTTP request to provide information about the request context, so that the server can tailor the response.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020745Z" creationid="Nachec" creationdate="20221022T020509Z">
+        <seg>Una **cabecera `request`** es una {{Glossary("HTTP header", "Cabecera HttP")}} que se puede usar en una solicitud HTTP para proporcionar información sobre el contexto de la solicitud, de modo que el servidor pueda adaptar la respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A **secure context** is a `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203309Z" creationid="gitnacho" creationdate="20221018T203129Z">
@@ -33567,6 +33589,22 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233816Z" creationid="Nachec" creationdate="20221021T233816Z">
         <seg>Por ejemplo, el valor de {{CSSxRef("grid-area")}} puede ser `&lt;custom-ident&gt;`, por lo que si tuviéramos un área de cuadrícula llamada `content`, la usaríamos sin comillas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the {{HTTPHeader("Accept", "Accept-*")}} headers indicate the allowed and preferred formats of the response.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020802Z" creationid="Nachec" creationdate="20221022T020802Z">
+        <seg>Por ejemplo, las cabeceras {{HTTPHeader("Accept", "Accept-*")}} indican los formatos permitidos y preferidos de la respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the {{HTTPHeader("Content-Type")}} header is referred to as a {{glossary("representation header")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020927Z" creationid="Nachec" creationdate="20221022T020927Z">
+        <seg>Por ejemplo, la cabecera {{HTTPHeader("Content-Type")}} se denomina {{Glossary("representation header")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38968,6 +39006,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not all headers that can appear in a request are referred to as _request headers_ by the specification.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020902Z" creationid="Nachec" creationdate="20221022T020902Z">
+        <seg>No todas las cabeceras que pueden aparecer en una solicitud se denominan _cabeceras de solicitud_ en la especificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not everything is supported yet, but we're working on it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062929Z" creationid="gitnacho" creationdate="20221004T062929Z">
@@ -39909,6 +39955,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081735Z" creationid="Nachec" creationdate="20221021T081735Z">
         <seg>Otros editores brindan funciones de edición matemática que están directamente integradas en su interfaz WYSIYWG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other headers can be used to supply authentication credentials (e.g. {{HTTPHeader("Authorization")}}), to control caching, or to get information about the user agent or referrer, etc.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020827Z" creationid="Nachec" creationdate="20221022T020827Z">
+        <seg>Se pueden usar otras cabeceras para proporcionar credenciales de autenticación (por ejemplo, {{HTTPHeader("Authorization")}}), para controlar el almacenamiento en caché o para obtener información sobre el agente de usuario o referente, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65399,6 +65453,23 @@ reviewer: Nachec
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T085638Z" creationid="gitnacho" creationdate="20221019T072230Z">
         <seg>- origin
   - origen
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">glossary/request_header/index.md</prop>
+      <prop type="prev">---
+title: Request header
+slug: Glossary/Request_header
+tags:</prop>
+      <prop type="next">A **request header** is an {{glossary("HTTP header")}} that can be used in an HTTP request to provide information about the request context, so that the server can tailor the response.</prop>
+      <tuv lang="en-US">
+        <seg>- WebMechanics
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020416Z" creationid="Nachec" creationdate="20221022T020416Z">
+        <seg>- WebMechanics
 reviewer: Nachec
 ---</seg>
       </tuv>
