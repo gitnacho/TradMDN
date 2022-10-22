@@ -64504,9 +64504,9 @@ console.log(uintc8FromIterable);
         <seg>|
 | `ex`   | x-height of the element's font.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235019Z" creationid="Nachec" creationdate="20221021T235019Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T081959Z" creationid="Nachec" creationdate="20221021T235019Z">
         <seg>|
-| `ex` | Altura x de la fuente del elemento.</seg>
+| `ex` | Altura de la fuente del elemento x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65013,13 +65013,13 @@ console.log(uintc8FromIterable);
 | `pt` | Points              | 1pt = 1/72th of 1in |
 | `px` | Pixels              | 1px = 1/96th of 1in |</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T235608Z" creationid="Nachec" creationdate="20221021T235608Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T082156Z" creationid="Nachec" creationdate="20221021T235608Z">
         <seg>| Unidad | Nombre | Equivalente a |
 | - | - | - |
 | `cm` | Centímetros | 1cm = 96px/2.54 |
 | `mm` | Milímetros | 1 mm = 1/10 de 1 cm |
 | `Q` | Cuartos de milímetro | 1Q = 1/40 de 1cm |
-| `en` | Pulgadas | 1 pulgada = 2,54 cm = 96 px |
+| `en` | Pulgadas | 1 pulgada = 2.54 cm = 96 px |
 | `pc` | picas | 1 pica = 1/6 de 1 pulgada |
 | `pt` | Puntos | 1pt = 1/72 de 1 pulgada |
 | `px` | Píxeles | 1px = 1/96 de 1 pulgada |</seg>
@@ -66088,10 +66088,10 @@ reviewer: Nachec
         <seg>- Reference
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T080700Z" creationid="Nachec" creationdate="20221022T080700Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T082925Z" creationid="Nachec" creationdate="20221022T080700Z">
         <seg>- Reference
   - Referencia
-reviewer: Nachec
+reviewer: Nachec voy
 ---</seg>
       </tuv>
     </tu>
