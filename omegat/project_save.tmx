@@ -12179,11 +12179,11 @@ rue: Nachec
 browser-compat: http.headers.Accept-Language
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221022T104530Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135518Z" creationid="Nachec" creationdate="20221022T104530Z">
         <seg>- Request header
   - Cabecera de respuesta
 browser-compat: http.headers.Accept-Language
-rue: Nachec
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -12427,6 +12427,20 @@ rue: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204013Z" creationid="gitnacho" creationdate="20221005T204013Z">
         <seg>- Ejemplos estáticos: bloques de código sin formato, posiblemente con una captura de pantalla para mostrar estáticamente el resultado de dicho código si se ejecutara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Status code
+browser-compat: http.status.406
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135641Z" creationid="Nachec" creationdate="20221022T135641Z">
+        <seg>- Status code
+  - Código de estado
+browser-compat: http.status.406
+rue: Nachec
+---</seg>
       </tuv>
     </tu>
     <tu>
@@ -18663,6 +18677,32 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Accept")}}
+- {{HTTPHeader("Accept-Encoding")}}
+- {{HTTPHeader("Accept-Language")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135656Z" creationid="Nachec" creationdate="20221022T135656Z">
+        <seg>- {{HTTPHeader("Accept")}}
+- {{HTTPHeader("Accept-Encoding")}}
+- {{HTTPHeader("Accept-Language")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Accept")}}
+- {{HTTPHeader("Accept-Encoding")}}
+- {{HTTPHeader("Accept-Language")}}
+- HTTP [content negotiation](/en-US/docs/Web/HTTP/Content_negotiation)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135802Z" creationid="Nachec" creationdate="20221022T135802Z">
+        <seg>- {{HTTPHeader("Accept")}}
+- {{HTTPHeader("Accept-Encoding")}}
+- {{HTTPHeader("Accept-Language")}}
+- [Negociación de contenido](/es/docs/Web/HTTP/Content_negotiation) HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{HTTPHeader("Accept-Language")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220453Z" creationid="gitnacho" creationdate="20221011T220453Z">
@@ -20134,6 +20174,20 @@ tags:</seg>
         <seg>---
 title: 'Yari: MDN''s rendering platform'
 slug: MDN/Yari
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: 406 Not Acceptable
+slug: Web/HTTP/Status/406
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135619Z" creationid="Nachec" creationdate="20221022T135619Z">
+        <seg>---
+title: 406 No Aceptable
+slug: Web/HTTP/Status/406
 tags:</seg>
       </tuv>
     </tu>
@@ -37357,6 +37411,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In practice, this error is very rarely used.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135810Z" creationid="Nachec" creationdate="20221022T135810Z">
+        <seg>En la práctica, este error se usa muy raramente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In response, the server returns a {{HTTPHeader("Access-Control-Allow-Origin")}} header with `Access-Control-Allow-Origin: *`, which means that the resource can be accessed by **any** origin.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222133Z" creationid="gitnacho" creationdate="20221011T222133Z">
@@ -38009,6 +38071,16 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102316Z" creationid="Nachec" creationdate="20221021T102316Z">
         <seg>En lugar de dar detalles, te dejaremos descubrir sus definiciones por ti mismo con el siguiente ejercicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of responding using this error
+code, which would be cryptic for the end user and difficult to fix, servers ignore the
+relevant header and serve an actual page to the user.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135848Z" creationid="Nachec" creationdate="20221022T135848Z">
+        <seg>En lugar de responder usando este código de  error, que sería críptico para el usuario final y difícil de arreglar, los servidores ignoran la cabecera relevante y muestran una página real al usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53599,6 +53671,18 @@ ${url}:wasm-function[${funcIndex}]:${pcOffset}
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203735Z" creationid="gitnacho" creationdate="20221019T203735Z">
         <seg>```
 ${url}:wasm-function[${funcIndex}]:${pcOffset}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```
+406 Not Acceptable
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135706Z" creationid="Nachec" creationdate="20221022T135706Z">
+        <seg>```
+406 Not Acceptable
 ```</seg>
       </tuv>
     </tu>
