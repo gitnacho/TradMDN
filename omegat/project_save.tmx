@@ -6060,8 +6060,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- **A graphics editor**, like [GIMP](https://www.gimp.org/), [Figma](https://www.figma.com/), [Paint.NET](https://www.getpaint.net/), [Photoshop](https://www.adobe.com/products/photoshop.html), [Sketch](https://www.sketch.com) or [XD](https://www.adobe.com/products/xd.html), to make images or graphics for your web pages.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T165036Z" creationid="gitnacho" creationdate="20221012T165036Z">
-        <seg>- **Un editor de gráficos**, como [GIMP](https://www.gimp.org/), [Figma](https://www.figma.com/), [Paint.NET](https: //www.getpaint.net/), [Photoshop](https://www.adobe.com/products/photoshop.html), [Sketch](https://www.sketch.com) o [XD]( https://www.adobe.com/products/xd.html), para realizar imágenes o gráficos para tus páginas web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T225841Z" creationid="gitnacho" creationdate="20221012T165036Z">
+        <seg>- **Un editor de gráficos**, como [GIMP](https://www.gimp.org/), [Figma](https://www.figma.com/), [Paint.NET](https://www.getpaint.net/), [Photoshop](https://www.adobe.com/products/photoshop.html), [Sketch](https://www.sketch.com) o [XD]( https://www.adobe.com/products/xd.html), para realizar imágenes o gráficos para tus páginas web.</seg>
       </tuv>
     </tu>
     <tu>
