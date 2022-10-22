@@ -27664,8 +27664,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;td&gt;{{Glossary("Representation header")}}&lt;/td&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102705Z" creationid="Nachec" creationdate="20221022T102705Z">
-        <seg>&lt;td&gt;{{Glossary("Representation header")}}&lt;/td&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T103959Z" creationid="Nachec" creationdate="20221022T102705Z">
+        <seg>&lt;td&gt;{{Glossary("Representation header", "Cabecera de representación")}}&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42666,8 +42666,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>The **`Content-Language`** {{Glossary("representation header")}} is used to **describe the language(s) intended for the audience**, so users can differentiate it according to their own preferred language.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102519Z" creationid="Nachec" creationdate="20221022T102519Z">
-        <seg>**`Content-Language`** {{Glossary("representation header")}} se utiliza para **describir los idiomas destinados a la audiencia**, de modo que los usuarios puedan diferenciarlos según su propio idioma preferido.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T103626Z" creationid="Nachec" creationdate="20221022T102519Z">
+        <seg>La {{Glossary("representation header", "cabecera de representación")}} **`Content-Language`** se utiliza para **describir los idiomas destinados a la audiencia**, de modo que los usuarios puedan diferenciarlos según su propio idioma preferido.</seg>
       </tuv>
     </tu>
     <tu>
