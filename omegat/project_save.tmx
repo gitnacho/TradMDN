@@ -9674,6 +9674,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Accept-Language</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T104504Z" creationid="Nachec" creationdate="20221022T104504Z">
+        <seg>- Accept-Language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Accessibility</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T231041Z" creationid="gitnacho" creationdate="20220922T231041Z">
@@ -12076,6 +12084,20 @@ browser-compat: mathml.global_attributes.mathvariant
         <seg>- Reference
   - Referencia
 browser-compat: mathml.global_attributes.mathvariant
+reviewer: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Request header
+browser-compat: http.headers.Accept-Language
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T104530Z" creationid="Nachec" creationdate="20221022T104530Z">
+        <seg>- Request header
+  - Cabecera de respuesta
+browser-compat: http.headers.Accept-Language
 reviewer: Nachec
 ---</seg>
       </tuv>
@@ -20067,6 +20089,20 @@ tags:</seg>
         <seg>---
 title: Abstracción
 slug: Glossary/Abstraction
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Accept-Language
+slug: Web/HTTP/Headers/Accept-Language
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T104457Z" creationid="Nachec" creationdate="20221022T104457Z">
+        <seg>---
+title: Accept-Language
+slug: Web/HTTP/Headers/Accept-Language
 tags:</seg>
       </tuv>
     </tu>
@@ -36863,8 +36899,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In most cases, a language tag consists of a primary language subtag that identifies a broad family of related languages (e.g., "`en`" = English) and is optionally followed by a series of subtags that refine or narrow that language's range (e.g., "`en-CA`" = the variety of English as communicated in Canada).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102853Z" creationid="Nachec" creationdate="20221022T102853Z">
-        <seg>En la mayoría de los casos, una etiqueta de idioma consta de una subetiqueta de idioma principal que identifica una amplia familia de idiomas relacionados (por ejemplo, "`en`" = inglés) y, opcionalmente, va seguida de una serie de subetiquetas que refinan o reducen el rango de ese idioma (por ejemplo, , "`en-CA`" = la variedad del inglés tal como se comunica en Canadá).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T104243Z" creationid="Nachec" creationdate="20221022T102853Z">
+        <seg>En la mayoría de los casos, una etiqueta de idioma consta de una subetiqueta de idioma principal que identifica una amplia familia de idiomas relacionados (por ejemplo, "`en`" = inglés) y, opcionalmente, va seguida de una serie de subetiquetas que refinan o reducen el rango de ese idioma (por ejemplo, "`en-CA`" = la variedad del inglés tal como se comunica en Canadá).</seg>
       </tuv>
     </tu>
     <tu>
