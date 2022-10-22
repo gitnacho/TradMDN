@@ -1744,6 +1744,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Server-driven content negotiation</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091647Z" creationid="Nachec" creationdate="20221022T091617Z">
+        <seg>## Negociación de contenido impulsado por el servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Service Worker Navigation Preload</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T142753Z" creationid="gitnacho" creationdate="20220921T040812Z">
@@ -12133,6 +12141,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Specific [HTTP headers](/en-US/docs/Web/HTTP/Headers) by the client (_server-driven negotiation_ or _proactive negotiation_), which is the standard way of negotiating a specific kind of resource.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091457Z" creationid="Nachec" creationdate="20221022T091457Z">
+        <seg>- [Cabeceras HTTP](/es/docs/Web/HTTP/Headers) específicas por parte del cliente (_negociación dirigida por el servidor_ o _negociación proactiva_), que es la forma estándar de negociar un tipo específico de recurso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Start by inserting empty `&lt;math&gt;` tags, deciding whether they should have a `display="block"` attribute or not.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085624Z" creationid="Nachec" creationdate="20221021T085624Z">
@@ -12605,6 +12621,14 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T182815Z" creationid="gitnacho" creationdate="20221008T182815Z">
         <seg>- El elemento GFM `&lt;li&gt;` de nivel superior se analizará como un elemento GFM `&lt;li&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The {{HTTPStatus("300")}} (Multiple Choices) or {{HTTPStatus("406")}} (Not Acceptable), {{HTTPStatus("415")}} (Unsupported Media Type) [HTTP response codes](/en-US/docs/Web/HTTP/Status) by the server (_agent-driven negotiation_ or _reactive negotiation_), that are used as fallback mechanisms.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091523Z" creationid="Nachec" creationdate="20221022T091523Z">
+        <seg>- {{HTTPStatus("300")}} (opciones múltiples) o {{HTTPStatus("406")}} (no aceptable), {{HTTPStatus("415")}} (tipo de medio no compatible) [códigos de respuesta HTTP](/es/docs/Web/HTTP/Status) por el servidor (_agent-driven negotiation_ o _reactive negotiation_), que se utilizan como mecanismos de respaldo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35169,6 +35193,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it can't provide a suitable resource, it might respond with {{HTTPStatus("406")}} (Not Acceptable) or {{HTTPStatus("415")}} (Unsupported Media Type) and set headers for the types of media that it does support (e.g., using the {{HTTPHeader("Accept-Post")}} or {{HTTPHeader("Accept-Patch")}} for POST and PATCH requests, respectively).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091801Z" creationid="Nachec" creationdate="20221022T091801Z">
+        <seg>Si no puede proporcionar un recurso adecuado, puede responder con {{HTTPStatus("406")}} (No aceptable) o {{HTTPStatus("415")}} (Tipo de medio no admitido) y establecer cabeceras para los tipos de medios que admite (por ejemplo, usando {{HTTPHeader("Accept-Post")}} o {{HTTPHeader("Accept-Patch")}} para solicitudes POST y PATCH, respectivamente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If module is not a [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module) object instance, a
 {{jsxref("TypeError")}} is thrown.</seg>
       </tuv>
@@ -36088,6 +36120,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T154605Z" creationid="gitnacho" creationdate="20221012T154605Z">
         <seg>La _Instalación de software básico_, te muestra las herramientas que necesitas para hacer el desarrollo web simple, y la forma de instalarlas correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In _server-driven content negotiation_, or proactive content negotiation, the browser (or any other kind of user agent) sends several HTTP headers along with the URL.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091706Z" creationid="Nachec" creationdate="20221022T091706Z">
+        <seg>En la _negociación de contenido impulsado por el servidor_, o negociación de contenido proactivo, el navegador (o cualquier otro tipo de agente de usuario) envía varias cabeceras HTTP junto con la URL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40260,6 +40300,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T080721Z" creationid="gitnacho" creationdate="20221007T080721Z">
         <seg>En el lado de la API de JavaScript, la inicialización del objeto constructor [`WebAssembly.Memory()`](/es/docs/WebAssembly/JavaScript_interface/Memory/Memory) ahora tiene una propiedad `shared`, que cuando se establece en `true ` creará una memoria compartida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Over the years, other content negotiation proposals, like [transparent content negotiation](https://datatracker.ietf.org/doc/html/rfc2295) and the `Alternates` header, have been proposed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091631Z" creationid="Nachec" creationdate="20221022T091609Z">
+        <seg>A lo largo de los años, se han postulado otras propuestas de negociación de contenido, como [negociación de contenido transparente](https://datatracker.ietf.org/doc/html/rfc2295) y la cabecera `Alternates`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44986,6 +45034,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The server uses them as hints and an internal algorithm chooses the best content to serve to the client.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091737Z" creationid="Nachec" creationdate="20221022T091737Z">
+        <seg>El servidor las usa como sugerencias y un algoritmo interno elige el mejor contenido para servir al cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The server uses this URL to choose one of the variants available–each variant is called a _representation_–and returns a specific representation to the client.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091329Z" creationid="Nachec" creationdate="20221022T091329Z">
@@ -45896,6 +45952,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These headers describe the user's preferred choice.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091719Z" creationid="Nachec" creationdate="20221022T091719Z">
+        <seg>Estas cabeceras describen la opción preferida del usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These hints include: {{HTTPHeader("Save-Data")}}, {{HTTPHeader("Sec-CH-UA")}}, {{HTTPHeader("Sec-CH-UA-Mobile")}}, {{HTTPHeader("Sec-CH-UA-Platform")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T093852Z" creationid="gitnacho" creationdate="20221012T092219Z">
@@ -46092,6 +46156,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204751Z" creationid="gitnacho" creationdate="20221005T204751Z">
         <seg>Sin embargo, puede ser incómodo editarlos y trabajar con ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They failed to get traction and were abandoned.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091636Z" creationid="Nachec" creationdate="20221022T091611Z">
+        <seg>No lograron tracción y fueron abandonadas.</seg>
       </tuv>
     </tu>
     <tu>
