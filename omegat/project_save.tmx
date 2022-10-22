@@ -3658,6 +3658,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Special data types (defined in other specs)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001220Z" creationid="Nachec" creationdate="20221022T001220Z">
+        <seg>### Tipos de datos especiales (definidos en otras especificaciones)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Specific attributes</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173705Z" creationid="gitnacho" creationdate="20221005T173705Z">
@@ -4186,6 +4194,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Color</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001244Z" creationid="Nachec" creationdate="20221022T001244Z">
+        <seg>#### Color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Creating modules</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T073456Z" creationid="gitnacho" creationdate="20221005T073456Z">
@@ -4338,6 +4354,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Image</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001319Z" creationid="Nachec" creationdate="20221022T001319Z">
+        <seg>#### Imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Mathematical fonts</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075458Z" creationid="Nachec" creationdate="20221021T075458Z">
@@ -4390,6 +4414,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T191256Z" creationid="gitnacho" creationdate="20221007T191256Z">
         <seg>#### Parámetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Position</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001353Z" creationid="Nachec" creationdate="20221022T001353Z">
+        <seg>#### Posición</seg>
       </tuv>
     </tu>
     <tu>
@@ -18328,6 +18360,18 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{cssxref("&amp;lt;color&amp;gt;")}}
+- {{cssxref("&amp;lt;image&amp;gt;")}}
+- {{cssxref("&amp;lt;position&amp;gt;")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001243Z" creationid="Nachec" creationdate="20221022T001243Z">
+        <seg>- {{CSSxRef("&amp;lt;color&amp;gt;")}}
+- {{CSSxRef("&amp;lt;image&amp;gt;")}}
+- {{CSSxRef("&amp;lt;position&amp;gt;")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{cssxref("&amp;lt;custom-ident&amp;gt;")}}
 - Pre-defined keywords as an `&lt;ident&gt;`
 - {{cssxref("&amp;lt;string&amp;gt;")}}
@@ -18338,6 +18382,18 @@ reviewer: Nachec
 - Palabras clave predefinidas como `&lt;ident&gt;`
 - {{CSSxRef("&amp;lt;string&amp;gt;")}}
 - {{CSSxRef("url","url()")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{cssxref("&amp;lt;frequency-percentage&amp;gt;")}}
+- {{cssxref("&amp;lt;angle-percentage&amp;gt;")}}
+- {{cssxref("&amp;lt;time-percentage&amp;gt;")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001150Z" creationid="Nachec" creationdate="20221022T001150Z">
+        <seg>- {{CSSxRef("&amp;lt;frequency-percentage&amp;gt;")}}
+- {{CSSxRef("&amp;lt;angle-percentage&amp;gt;")}}
+- {{CSSxRef("&amp;lt;time-percentage&amp;gt;")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39795,6 +39851,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other possible combinations are as follows:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001056Z" creationid="Nachec" creationdate="20221022T001056Z">
+        <seg>Otras posibles combinaciones son las siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other variants of `br` are `br_if` for branching on condition, and `br_table` for branching to different blocks based on an argument.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081559Z" creationid="gitnacho" creationdate="20221020T081559Z">
@@ -44943,6 +45007,22 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060541Z" creationid="gitnacho" creationdate="20221012T060541Z">
         <seg>El encabezado {{HTTPHeader("Origin")}} indica el origen de la solicitud de acceso de origen cruzado o solicitud de preverificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{cssxref("&amp;lt;color&amp;gt;")}} value specifies the color of an element feature (e.g. it's background color), and is defined in the [CSS Color Module](https://drafts.csswg.org/css-color-3/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001313Z" creationid="Nachec" creationdate="20221022T001313Z">
+        <seg>El valor {{CSSxRef("&amp;lt;color&amp;gt;")}} especifica el color de la característica de un elemento (por ejemplo, es el color de fondo) y se define en el [Módulo de color CSS](https://drafts.csswg.org/css-color-3/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{cssxref("&amp;lt;image&amp;gt;")}} value specifies all the different types of image that can be used in CSS, and is defined in the [CSS Image Values and Replaced Content Module](https://www.w3.org/TR/css-images-4/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001348Z" creationid="Nachec" creationdate="20221022T001348Z">
+        <seg>El valor {{CSSxRef("&amp;lt;image&amp;gt;")}} especifica todos los diferentes tipos de imagen que se pueden usar en CSS, y se define en el [Módulo de contenido reemplazado y valores de imagen CSS](https://www.w3.org/TR/css-images-4/).</seg>
       </tuv>
     </tu>
     <tu>
