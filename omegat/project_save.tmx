@@ -21661,9 +21661,9 @@ title: Representation header
 slug: Glossary/Representation_header
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021633Z" creationid="Nachec" creationdate="20221022T021633Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153214Z" creationid="Nachec" creationdate="20221022T021633Z">
         <seg>---
-title: Representación de header
+title: Cabecera de representación
 slug: Glossary/Representation_header
 tags:</seg>
       </tuv>
@@ -30270,8 +30270,8 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
       <tuv lang="en-US">
         <seg>A **representation header** is an {{glossary("HTTP_header", "HTTP header")}} that describes the particular _representation_ of the resource sent in an HTTP message body.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021758Z" creationid="Nachec" creationdate="20221022T021758Z">
-        <seg>Una **representación de `header`** es una {{Glossary("HTTP_header", "Cabecera HTTP")}} que describe la _representación_ particular del recurso enviado en el cuerpo de un mensaje HTTP.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153350Z" creationid="Nachec" creationdate="20221022T021758Z">
+        <seg>Una **cabecera de representación** es una {{Glossary("HTTP_header", "Cabecera HTTP")}} que describe la _representación_ particular del recurso enviado en el cuerpo de un mensaje HTTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34681,8 +34681,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, the same data might be formatted as a particular media type such as XML or JSON, localized to a particular written language or geographical region, and/or compressed or otherwise encoded for transmission.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021920Z" creationid="Nachec" creationdate="20221022T021920Z">
-        <seg>Por ejemplo, los mismos datos pueden estar formateados como un tipo de medio en particular, como XML o JSON, localizados en un idioma escrito o una región geográfica en particular, y/o comprimidos o codificados de otro modo para la transmisión.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153441Z" creationid="Nachec" creationdate="20221022T021920Z">
+        <seg>Por ejemplo, los mismos datos pueden estar formateados como un tipo de medio en particular, como XML o JSON, escrito en un idioma localizado o una región geográfica en particular, y/o comprimidos o codificados de otro modo para la transmisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67851,9 +67851,9 @@ tags:</prop>
         <seg>- WebMechanics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221022T021655Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153332Z" creationid="Nachec" creationdate="20221022T021655Z">
         <seg>- WebMechanics
-rue: Nachec
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
