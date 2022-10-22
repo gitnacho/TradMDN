@@ -18625,8 +18625,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Fetch metadata request header")}}: Headers with metadata about the resource in the message body (e.g. encoding, media type, etc.).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080043Z" creationid="gitnacho" creationdate="20221017T211720Z">
-        <seg>- {{Glossary("Fetch metadata request header")}}: Cabeceras con metadatos sobre el recurso en el cuerpo del mensaje (por ejemplo, codificación, tipo de medio, etc.).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162317Z" creationid="gitnacho" creationdate="20221017T211720Z">
+        <seg>- {{Glossary("Fetch metadata request header", "Cabecera de solicitud para obtener metadatos")}}: Cabeceras con metadatos sobre el recurso en el cuerpo del mensaje (por ejemplo, codificación, tipo de medio, etc.).</seg>
       </tuv>
     </tu>
     <tu>
