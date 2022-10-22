@@ -42692,6 +42692,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **`Accept-Language`** request HTTP header indicates the natural language and locale that the client prefers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105755Z" creationid="Nachec" creationdate="20221022T105755Z">
+        <seg>La cabecera de solicitud HTTP **`Accept-Language`** indica el idioma natural y la configuración regional que prefiere el cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`Cache`** interface provides a persistent storage mechanism for {{domxref("Request")}} / {{domxref("Response")}} object pairs that are cached in long lived memory.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T092315Z" creationid="gitnacho" creationdate="20221003T201004Z">
