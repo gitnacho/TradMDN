@@ -47959,8 +47959,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This type is interpreted as a {{cssxref("background-position")}} and therefore specified in the [CSS Backgrounds and Borders specification](https://www.w3.org/TR/css-backgrounds-3/).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001425Z" creationid="Nachec" creationdate="20221022T001425Z">
-        <seg>Este tipo se interpreta como {{CSSxRef("background-position")}} y, por lo tanto, se especifica en la [especificación de fondos y bordes CSS](https://www.w3.org/TR/css-backgrounds-3/) .</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T075250Z" creationid="Nachec" creationdate="20221022T001425Z">
+        <seg>Este tipo se interpreta como {{CSSxRef("background-position")}} y, por lo tanto, se especifica en la [especificación de fondos y bordes CSS](https://www.w3.org/TR/css-backgrounds-3/).</seg>
       </tuv>
     </tu>
     <tu>
