@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![](httpnego3.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094547Z" creationid="Nachec" creationdate="20221022T094547Z">
+        <seg>![Negociación de contenido 3](httpnego3.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![](httpnegoserver.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091833Z" creationid="Nachec" creationdate="20221022T091833Z">
@@ -30053,6 +30061,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A second problem is that one more request is needed to fetch the real resource, slowing the availability of the resource to the user.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094635Z" creationid="Nachec" creationdate="20221022T094635Z">
+        <seg>Un segundo problema es que se necesita una solicitud más para obtener el recurso real, lo que ralentiza la disponibilidad del recurso para el usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A server can replace the set of client hints it is interested in receiving by resending the `Accept-CH` response header with a new list.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092038Z" creationid="gitnacho" creationdate="20221012T092038Z">
@@ -31742,6 +31758,14 @@ package manager.</seg>
         <seg>A continuación, puedes encontrar comandos para ejecutar en distribuciones populares de Linux
 para instalar las fuentes _Latin Modern Math_ y _STIX Two Math_ desde tu
 gestor de paquetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides falling back to the _server-driven negotiation_, this method is almost always used with scripting, especially with JavaScript redirection: after having checked for the negotiation criteria, the script performs the redirection.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094620Z" creationid="Nachec" creationdate="20221022T094620Z">
+        <seg>Además de recurrir a la _negociación impulsada por el servidor_, este método casi siempre se usa con scripts, especialmente con la redirección de JavaScript: después de haber verificado los criterios de negociación, el script realiza la redirección.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34658,6 +34682,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTTP allows another negotiation type: _agent-driven negotiation_ or _reactive negotiation_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094519Z" creationid="Nachec" creationdate="20221022T094456Z">
+        <seg>HTTP permite otro tipo de negociación: _negociación dirigida por agentes_ o _negociación reactiva_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTTP follows a classical [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), with a client opening a connection to make a request, then waiting until it receives a response.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T070625Z" creationid="gitnacho" creationdate="20221012T062253Z">
@@ -37167,6 +37199,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062548Z" creationid="gitnacho" creationdate="20221004T062548Z">
         <seg>En este caso, esa declaración es una `extern`, que le dice a Rust que queremos llamar a algunas funciones definidas externamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, the server sends back a page that contains links to the available alternative resources when faced with an ambiguous request.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094533Z" creationid="Nachec" creationdate="20221022T094533Z">
+        <seg>En este caso, el servidor devuelve una página que contiene enlaces a los recursos alternativos disponibles ante una solicitud ambigua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44956,6 +44996,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The more precisely headers are sent, the more entropy is sent, allowing for more HTTP fingerprinting and corresponding privacy concerns.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094509Z" creationid="Nachec" creationdate="20221022T094451Z">
+        <seg>Cuanto más precisas se envían los cabeceras, más entropía se envía, lo que permite más huellas dactilares HTTP y las preocupaciones de privacidad correspondientes aumentan exponencialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most "relevant" part of this code is the line where the exception is created:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204444Z" creationid="gitnacho" creationdate="20221019T204444Z">
@@ -45788,6 +45836,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220902T054357Z" creationid="gitnacho" creationdate="20220902T054357Z">
         <seg>El usuario inicia un arrastre colocando un dispositivo de puntero (como un mouse) en la superficie táctil y luego arrastrando el puntero a una nueva ubicación (como otro elemento DOM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The user is presented the resources and chooses the one to use.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094541Z" creationid="Nachec" creationdate="20221022T094541Z">
+        <seg>Al usuario se le presentan los recursos y elige el que va a utilizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49499,6 +49555,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082358Z" creationid="gitnacho" creationdate="20221005T082358Z">
         <seg>Desafortunadamente, parece que la migración no ha logrado convertir algunas de ellas satisfactoriamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unfortunately, the HTTP standard doesn't specify the format of the page for choosing between the available resources, which prevents the process from being automated.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094601Z" creationid="Nachec" creationdate="20221022T094601Z">
+        <seg>Desafortunadamente, el estándar HTTP no especifica el formato de la página para elegir entre los recursos disponibles, lo que impide automatizar el proceso.</seg>
       </tuv>
     </tu>
     <tu>
