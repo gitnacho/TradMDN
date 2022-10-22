@@ -22741,10 +22741,11 @@ title: WebAssembly.RuntimeError
 slug: WebAssembly/JavaScript_interface/RuntimeError
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T080108Z" creationid="gitnacho" creationdate="20221008T080108Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195933Z" creationid="gitnacho" creationdate="20221008T080108Z">
         <seg>---
 title: WebAssembly.RuntimeError
 slug: WebAssembly/JavaScript_interface/RuntimeError
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22755,10 +22756,11 @@ title: WebAssembly.RuntimeError() constructor
 slug: WebAssembly/JavaScript_interface/RuntimeError/RuntimeError
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T085935Z" creationid="gitnacho" creationdate="20221008T085935Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195950Z" creationid="gitnacho" creationdate="20221008T085935Z">
         <seg>---
 title: WebAssembly.RuntimeError() constructor
 slug: WebAssembly/JavaScript_interface/RuntimeError/RuntimeError
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22769,10 +22771,11 @@ title: WebAssembly.Table
 slug: WebAssembly/JavaScript_interface/Table
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095954Z" creationid="gitnacho" creationdate="20221006T095954Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200042Z" creationid="gitnacho" creationdate="20221006T095954Z">
         <seg>---
 title: WebAssembly.Table
 slug: WebAssembly/JavaScript_interface/Table
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22783,10 +22786,11 @@ title: WebAssembly.Table() constructor
 slug: WebAssembly/JavaScript_interface/Table/Table
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T235624Z" creationid="gitnacho" creationdate="20221019T235624Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200148Z" creationid="gitnacho" creationdate="20221019T235624Z">
         <seg>---
 title: Constructor WebAssembly.Table()
 slug: WebAssembly/JavaScript_interface/Table/Table
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22797,10 +22801,11 @@ title: WebAssembly.Table.prototype.get()
 slug: WebAssembly/JavaScript_interface/Table/get
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T091227Z" creationid="gitnacho" creationdate="20221006T091227Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200000Z" creationid="gitnacho" creationdate="20221006T091227Z">
         <seg>---
 title: WebAssembly.Table.prototype.get()
 slug: WebAssembly/JavaScript_interface/Table/get
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22811,10 +22816,11 @@ title: WebAssembly.Table.prototype.grow()
 slug: WebAssembly/JavaScript_interface/Table/grow
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233205Z" creationid="gitnacho" creationdate="20221019T233205Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200011Z" creationid="gitnacho" creationdate="20221019T233205Z">
         <seg>---
 title: WebAssembly.Table.prototype.grow()
 slug: WebAssembly/JavaScript_interface/Table/grow
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22825,10 +22831,11 @@ title: WebAssembly.Table.prototype.length
 slug: WebAssembly/JavaScript_interface/Table/length
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T105938Z" creationid="gitnacho" creationdate="20221006T105938Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200121Z" creationid="gitnacho" creationdate="20221006T105938Z">
         <seg>---
 title: WebAssembly.Table.prototype.length
 slug: WebAssembly/JavaScript_interface/Table/length
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22839,10 +22846,11 @@ title: WebAssembly.Table.prototype.set()
 slug: WebAssembly/JavaScript_interface/Table/set
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T233756Z" creationid="gitnacho" creationdate="20221019T233756Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200136Z" creationid="gitnacho" creationdate="20221019T233756Z">
         <seg>---
 title: WebAssembly.Table.prototype.set()
 slug: WebAssembly/JavaScript_interface/Table/set
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22853,10 +22861,11 @@ title: WebAssembly.Tag
 slug: WebAssembly/JavaScript_interface/Tag
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T001957Z" creationid="gitnacho" creationdate="20221008T001957Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200158Z" creationid="gitnacho" creationdate="20221008T001957Z">
         <seg>---
 title: WebAssembly.Tag
 slug: WebAssembly/JavaScript_interface/Tag
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22867,10 +22876,11 @@ title: WebAssembly.Tag() constructor
 slug: WebAssembly/JavaScript_interface/Tag/Tag
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070750Z" creationid="gitnacho" creationdate="20221019T125950Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200220Z" creationid="gitnacho" creationdate="20221019T125950Z">
         <seg>---
 title: Constructor WebAssembly.Tag()
 slug: WebAssembly/JavaScript_interface/Tag/Tag
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22881,10 +22891,11 @@ title: WebAssembly.Tag.prototype.type()
 slug: WebAssembly/JavaScript_interface/Tag/type
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071314Z" creationid="gitnacho" creationdate="20221020T071314Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200258Z" creationid="gitnacho" creationdate="20221020T071314Z">
         <seg>---
 title: WebAssembly.Tag.prototype.type()
 slug: WebAssembly/JavaScript_interface/Tag/type
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
