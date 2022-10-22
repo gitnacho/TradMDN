@@ -33967,6 +33967,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if "`Content-Language: de-DE`" is set, it says that the document is intended for German language speakers (however, it doesn't indicate the document is written in German.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102534Z" creationid="Nachec" creationdate="20221022T102534Z">
+        <seg>Por ejemplo, si se configura "`Content-Language: de-DE`", dice que el documento está destinado a hablantes de alemán (sin embargo, no indica que el documento esté escrito en alemán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if we want to use "Warnung" for "Warning" in German, then in German pages we would write:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T182103Z" creationid="gitnacho" creationdate="20221008T182103Z">
@@ -42480,6 +42488,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T092315Z" creationid="gitnacho" creationdate="20221003T201004Z">
         <seg>La interfaz **`Cache`** proporciona un mecanismo de almacenamiento persistente para pares de objetos {{DOMxRef("Request")}} / {{DOMxRef("Response")}} que se almacenan en memoria caché de larga duración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`Content-Language`** {{Glossary("representation header")}} is used to **describe the language(s) intended for the audience**, so users can differentiate it according to their own preferred language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102519Z" creationid="Nachec" creationdate="20221022T102519Z">
+        <seg>**`Content-Language`** {{Glossary("representation header")}} se utiliza para **describir los idiomas destinados a la audiencia**, de modo que los usuarios puedan diferenciarlos según su propio idioma preferido.</seg>
       </tuv>
     </tu>
     <tu>
