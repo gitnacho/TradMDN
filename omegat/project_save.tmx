@@ -22309,10 +22309,11 @@ title: WebAssembly
 slug: WebAssembly
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T093916Z" creationid="gitnacho" creationdate="20221003T093916Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195001Z" creationid="gitnacho" creationdate="20221003T093916Z">
         <seg>---
 title: WebAssembly
 slug: WebAssembly
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22394,10 +22395,11 @@ title: WebAssembly.CompileError
 slug: WebAssembly/JavaScript_interface/CompileError
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T042501Z" creationid="gitnacho" creationdate="20221007T042501Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195059Z" creationid="gitnacho" creationdate="20221007T042501Z">
         <seg>---
 title: WebAssembly.CompileError
 slug: WebAssembly/JavaScript_interface/CompileError
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22408,10 +22410,11 @@ title: WebAssembly.CompileError() constructor
 slug: WebAssembly/JavaScript_interface/CompileError/CompileError
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T024813Z" creationid="gitnacho" creationdate="20221008T024813Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195033Z" creationid="gitnacho" creationdate="20221008T024813Z">
         <seg>---
 title: WebAssembly.CompileError() constructor
 slug: WebAssembly/JavaScript_interface/CompileError/CompileError
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22422,10 +22425,11 @@ title: WebAssembly.Exception
 slug: WebAssembly/JavaScript_interface/Exception
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T010538Z" creationid="gitnacho" creationdate="20221006T010538Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195235Z" creationid="gitnacho" creationdate="20221006T010538Z">
         <seg>---
 title: WebAssembly.Exception
 slug: WebAssembly/JavaScript_interface/Exception
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22436,10 +22440,11 @@ title: WebAssembly.Exception constructor
 slug: WebAssembly/JavaScript_interface/Exception/Exception
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135543Z" creationid="gitnacho" creationdate="20221006T010544Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195136Z" creationid="gitnacho" creationdate="20221006T010544Z">
         <seg>---
 title: Constructor WebAssembly.Exception
 slug: WebAssembly/JavaScript_interface/Exception/Exception
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22450,10 +22455,11 @@ title: WebAssembly.Exception.prototype.getArg()
 slug: WebAssembly/JavaScript_interface/Exception/getArg
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T010542Z" creationid="gitnacho" creationdate="20221006T010542Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195216Z" creationid="gitnacho" creationdate="20221006T010542Z">
         <seg>---
 title: WebAssembly.Exception.prototype.getArg()
 slug: WebAssembly/JavaScript_interface/Exception/getArg
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22464,10 +22470,11 @@ title: WebAssembly.Exception.prototype.is()
 slug: WebAssembly/JavaScript_interface/Exception/is
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T010516Z" creationid="gitnacho" creationdate="20221006T010516Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195253Z" creationid="gitnacho" creationdate="20221006T010516Z">
         <seg>---
 title: WebAssembly.Exception.prototype.is()
 slug: WebAssembly/JavaScript_interface/Exception/is
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22870,10 +22877,11 @@ title: WebAssembly.compile()
 slug: WebAssembly/JavaScript_interface/compile
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T122117Z" creationid="gitnacho" creationdate="20221007T122117Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195020Z" creationid="gitnacho" creationdate="20221007T122117Z">
         <seg>---
 title: WebAssembly.compile()
 slug: WebAssembly/JavaScript_interface/compile
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22884,10 +22892,11 @@ title: WebAssembly.compileStreaming()
 slug: WebAssembly/JavaScript_interface/compileStreaming
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T010557Z" creationid="gitnacho" creationdate="20221006T010557Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195121Z" creationid="gitnacho" creationdate="20221006T010557Z">
         <seg>---
 title: WebAssembly.compileStreaming()
 slug: WebAssembly/JavaScript_interface/compileStreaming
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
