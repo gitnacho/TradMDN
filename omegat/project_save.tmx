@@ -11987,6 +11987,15 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Payload header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141037Z" creationid="Nachec" creationdate="20221022T141037Z">
+        <seg>- Payload header
+  - Cabecera payload</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Performance
 ---</seg>
       </tuv>
@@ -12443,11 +12452,11 @@ rue: Nachec
 browser-compat: http.status.406
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135641Z" creationid="Nachec" creationdate="20221022T135641Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T140827Z" creationid="Nachec" creationdate="20221022T135641Z">
         <seg>- Status code
   - Código de estado
 browser-compat: http.status.406
-rue: Nachec
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -18833,6 +18842,22 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Content-Length")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141138Z" creationid="Nachec" creationdate="20221022T141138Z">
+        <seg>- {{HTTPHeader("Content-Length")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Content-Range")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141140Z" creationid="Nachec" creationdate="20221022T141140Z">
+        <seg>- {{HTTPHeader("Content-Range")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{HTTPHeader("Content-Type")}} (please note the additional requirements below)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220752Z" creationid="gitnacho" creationdate="20221011T220513Z">
@@ -18853,6 +18878,22 @@ rue: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220822Z" creationid="gitnacho" creationdate="20221011T220514Z">
         <seg>- {{HTTPHeader("Range")}} (solo con un [valor de encabezado de rango simple](https://fetch.spec.whatwg.org/#simple-range-header-value); por ejemplo, `bytes=256 -` o `bytes=127-255`)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Trailer")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141143Z" creationid="Nachec" creationdate="20221022T141143Z">
+        <seg>- {{HTTPHeader("Trailer")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Transfer-Encoding")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141208Z" creationid="Nachec" creationdate="20221022T141208Z">
+        <seg>- {{HTTPHeader("Transfer-Encoding")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21552,6 +21593,20 @@ tags:</seg>
         <seg>---
 title: Estructuras de página
 slug: MDN/Writing_guidelines/Page_structures
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Payload header
+slug: Glossary/Payload_header
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141025Z" creationid="Nachec" creationdate="20221022T141025Z">
+        <seg>---
+title: Cabecera payload
+slug: Glossary/Payload_header
 tags:</seg>
       </tuv>
     </tu>
@@ -43749,8 +43804,8 @@ client error response code indicates that the server cannot produce a response m
 the list of acceptable values defined in the request's proactive [content negotiation](/en-US/docs/Web/HTTP/Content_negotiation) headers, and
 that the server is unwilling to supply a default representation.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T140519Z" creationid="Nachec" creationdate="20221022T140519Z">
-        <seg>El código de respuesta de error **`406 No Aceptable`** del cliente del Protocolo de Transferencia de Hipertexto (HTTP) indica que el servidor no puede producir una respuesta que coincida con la lista de valores aceptables definidos en la [negociación de contenido](/es/docs/Web /HTTP/Content_negotiation) proactiva de la solicitud y que el servidor no está dispuesto a proporcionar una representación predeterminada.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T140717Z" creationid="Nachec" creationdate="20221022T140519Z">
+        <seg>El código de respuesta de error **`406 No Aceptable`** del cliente del Protocolo de Transferencia de Hipertexto (HTTP) indica que el servidor no puede producir una respuesta que coincida con la lista de valores aceptables definidos en la [negociación de contenido](/es/docs/Web/HTTP/Content_negotiation) proactiva de la solicitud y que el servidor no está dispuesto a proporcionar una representación predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67703,6 +67758,20 @@ rue: Nachec
         <seg>- origin
   - origen
 rue: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">glossary/payload_header/index.md</prop>
+      <prop type="prev">- Headers</prop>
+      <prop type="next">A **payload header** is an {{Glossary("HTTP_header", "HTTP header")}} that describes the payload information related to safe transport and reconstruction of the original resource {{Glossary("Representation header", "representation")}}, from one or more messages.</prop>
+      <tuv lang="en-US">
+        <seg>- WebMechanics
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141137Z" creationid="Nachec" creationdate="20221022T141137Z">
+        <seg>- WebMechanics
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
