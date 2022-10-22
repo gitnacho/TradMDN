@@ -21014,10 +21014,11 @@ title: Compiling from Rust to WebAssembly
 slug: WebAssembly/Rust_to_wasm
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T060419Z" creationid="gitnacho" creationdate="20221004T060419Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200803Z" creationid="gitnacho" creationdate="20221004T060419Z">
         <seg>---
 title: Compilar de Rust a WebAssembly
 slug: WebAssembly/Rust_to_wasm
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21072,10 +21073,11 @@ title: Converting WebAssembly text format to wasm
 slug: WebAssembly/Text_format_to_wasm
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182413Z" creationid="gitnacho" creationdate="20221007T182315Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200813Z" creationid="gitnacho" creationdate="20221007T182315Z">
         <seg>---
 title: Convertir de formato de texto WebAssembly a wasm
 slug: WebAssembly/Text_format_to_wasm
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21340,10 +21342,11 @@ title: Grow
 slug: WebAssembly/Reference/Memory/Grow
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T215818Z" creationid="Nachec" creationdate="20221020T215818Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200653Z" creationid="Nachec" creationdate="20221020T215818Z">
         <seg>---
 title: Grow
 slug: WebAssembly/Reference/Memory/Grow
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21576,10 +21579,11 @@ title: Load
 slug: WebAssembly/Reference/Memory/Load
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T222111Z" creationid="Nachec" creationdate="20221020T222111Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200723Z" creationid="Nachec" creationdate="20221020T222111Z">
         <seg>---
 title: Load
 slug: WebAssembly/Reference/Memory/Load
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21783,10 +21787,11 @@ title: Multiplication
 slug: WebAssembly/Reference/Numeric/Multiplication
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T091343Z" creationid="gitnacho" creationdate="20221007T091343Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200754Z" creationid="gitnacho" creationdate="20221007T091343Z">
         <seg>---
 title: Multiplicación
 slug: WebAssembly/Reference/Numeric/Multiplication
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22202,10 +22207,11 @@ title: Understanding WebAssembly text format
 slug: WebAssembly/Understanding_the_text_format
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T103545Z" creationid="gitnacho" creationdate="20221007T044730Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200822Z" creationid="gitnacho" creationdate="20221007T044730Z">
         <seg>---
 title: Entender el formato de texto WebAssembly
 slug: WebAssembly/Understanding_the_text_format
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22250,10 +22256,11 @@ title: Using the WebAssembly JavaScript API
 slug: WebAssembly/Using_the_JavaScript_API
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T111239Z" creationid="gitnacho" creationdate="20221006T111239Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200845Z" creationid="gitnacho" creationdate="20221006T111239Z">
         <seg>---
 title: Usar la API JavaScript de WebAssembly
 slug: WebAssembly/Using_the_JavaScript_API
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22372,10 +22379,11 @@ title: WebAssembly instruction reference
 slug: WebAssembly/Reference
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T123340Z" creationid="gitnacho" creationdate="20221019T123340Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200625Z" creationid="gitnacho" creationdate="20221019T123340Z">
         <seg>---
 title: Referencia de instrucciones WebAssembly
 slug: WebAssembly/Reference
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22386,10 +22394,11 @@ title: WebAssembly memory instructions
 slug: WebAssembly/Reference/Memory
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T095159Z" creationid="gitnacho" creationdate="20221007T095159Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200703Z" creationid="gitnacho" creationdate="20221007T095159Z">
         <seg>---
 title: Instrucciones memory de WebAssembly
 slug: WebAssembly/Reference/Memory
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -23207,10 +23216,11 @@ title: unreachable
 slug: WebAssembly/Reference/Control_flow/unreachable
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211919Z" creationid="Nachec" creationdate="20221020T211919Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200611Z" creationid="Nachec" creationdate="20221020T211919Z">
         <seg>---
 title: unreachable
 slug: WebAssembly/Reference/Control_flow/unreachable
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
