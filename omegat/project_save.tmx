@@ -29651,8 +29651,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** You can also use the **Insert &gt; HTML** command to paste any MathML content.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081636Z" creationid="Nachec" creationdate="20221021T081636Z">
-        <seg>&gt; **Nota:** También puedes usar el comando **Insert &gt; HTML** para pegar cualquier contenido de MathML.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183905Z" creationid="Nachec" creationdate="20221021T081636Z">
+        <seg>&gt; **Nota:** También puedes usar el comando **Insert → HTML** para pegar cualquier contenido de MathML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30722,8 +30722,8 @@ fields:</seg>
       <tuv lang="en-US">
         <seg>A final option to enter mathematics is to rely on user interface for [Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) or [Handwriting recognition](https://en.wikipedia.org/wiki/Handwriting_recognition).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T082109Z" creationid="Nachec" creationdate="20221021T082109Z">
-        <seg>Una opción final para ingresar a matemáticas es confiar en la interfaz de usuario para [Reconocimiento óptico de caracteres](https://es.wikipedia.org/wiki/Reconocimiento_%C3%B3ptico_de_caracteres) o [Reconocimiento de escritura a mano](https://en.wikipedia.org/wiki/Handwriting_recognition).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184115Z" creationid="Nachec" creationdate="20221021T082109Z">
+        <seg>Una opción final para ingresar matemáticas es confiar en la interfaz de usuario para [Reconocimiento óptico de caracteres](https://es.wikipedia.org/wiki/Reconocimiento_%C3%B3ptico_de_caracteres) o [Reconocimiento de escritura a mano](https://en.wikipedia.org/wiki/Handwriting_recognition).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34681,8 +34681,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, [Thunderbird](https://www.thunderbird.net/en-US/) and [SeaMonkey](https://www.seamonkey-project.org/) provide an **Insert &gt; Math** command that will open a popup window, with a LaTeX-to-MathML input field and a live MathML preview:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081618Z" creationid="Nachec" creationdate="20221021T081618Z">
-        <seg>Por ejemplo, [Thunderbird](https://www.thunderbird.net/en-US/) y [SeaMonkey](https://www.seamonkey-project.org/) proporcionan un comando **Insert &gt; Math** eso abrirá una ventana emergente, con un campo de entrada de LaTeX a MathML y ​​una vista previa de MathML en vivo:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183849Z" creationid="Nachec" creationdate="20221021T081618Z">
+        <seg>Por ejemplo, [Thunderbird](https://www.thunderbird.net/en-US/) y [SeaMonkey](https://www.seamonkey-project.org/) proporcionan un comando **Insert → Math** eso abrirá una ventana emergente, con un campo de entrada de LaTeX a MathML y ​​una vista previa de MathML en vivo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35105,8 +35105,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For more information see [HTTP Caching &gt; Varying responses](/en-US/docs/Web/HTTP/Caching#varying_responses).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094253Z" creationid="gitnacho" creationdate="20221012T091926Z">
-        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP &gt; Respuestas `Vary`](/es/docs/Web/HTTP/Caching#vary).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183803Z" creationid="gitnacho" creationdate="20221012T091926Z">
+        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP → Respuestas `Vary`](/es/docs/Web/HTTP/Caching#vary).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35129,8 +35129,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For more information, see [HTTP caching &gt; Varying responses](/en-US/docs/Web/HTTP/Caching#varying_responses).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094324Z" creationid="Nachec" creationdate="20221022T093720Z">
-        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP &gt; Respuestas `Vary`](/es/docs/Web/HTTP/Caching#vary).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183822Z" creationid="Nachec" creationdate="20221022T093720Z">
+        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP → Respuestas `Vary`](/es/docs/Web/HTTP/Caching#vary).</seg>
       </tuv>
     </tu>
     <tu>
@@ -68094,9 +68094,9 @@ rue: Nachec
         <seg>- XML
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221021T065014Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184236Z" creationid="Nachec" creationdate="20221021T065014Z">
         <seg>- XML
-rue: Nachec
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
