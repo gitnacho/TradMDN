@@ -13516,6 +13516,16 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [CSS Basic Data Types](/en-US/docs/Web/CSS/CSS_Types)
+- [Introduction to CSS: Values and Units](/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001818Z" creationid="Nachec" creationdate="20221022T001818Z">
+        <seg>- [Tipos de datos básicos CSS](/es/docs/Web/CSS/CSS_Types)
+- [Introducción a CSS: Valores y Unidades](/es/docs/Learn/CSS/Building_blocks/Values_and_units)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [CSS Shapes from images.](/en-US/docs/Web/CSS/CSS_Shapes/Shapes_From_Images)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213641Z" creationid="gitnacho" creationdate="20221011T213641Z">
