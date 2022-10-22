@@ -22576,10 +22576,11 @@ title: WebAssembly.LinkError
 slug: WebAssembly/JavaScript_interface/LinkError
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T073839Z" creationid="gitnacho" creationdate="20221008T073839Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195616Z" creationid="gitnacho" creationdate="20221008T073839Z">
         <seg>---
 title: WebAssembly.LinkError
 slug: WebAssembly/JavaScript_interface/LinkError
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22590,10 +22591,11 @@ title: WebAssembly.LinkError() constructor
 slug: WebAssembly/JavaScript_interface/LinkError/LinkError
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T211229Z" creationid="gitnacho" creationdate="20221019T211229Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195635Z" creationid="gitnacho" creationdate="20221019T211229Z">
         <seg>---
 title: WebAssembly.LinkError() constructor
 slug: WebAssembly/JavaScript_interface/LinkError/LinkError
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22604,10 +22606,11 @@ title: WebAssembly.Memory
 slug: WebAssembly/JavaScript_interface/Memory
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T234638Z" creationid="gitnacho" creationdate="20221007T234638Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195744Z" creationid="gitnacho" creationdate="20221007T234638Z">
         <seg>---
 title: WebAssembly.Memory
 slug: WebAssembly/JavaScript_interface/Memory
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22618,10 +22621,11 @@ title: WebAssembly.Memory() constructor
 slug: WebAssembly/JavaScript_interface/Memory/Memory
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214852Z" creationid="gitnacho" creationdate="20221019T214852Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195756Z" creationid="gitnacho" creationdate="20221019T214852Z">
         <seg>---
 title: WebAssembly.Memory() constructor
 slug: WebAssembly/JavaScript_interface/Memory/Memory
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22632,10 +22636,11 @@ title: WebAssembly.Memory.prototype.buffer
 slug: WebAssembly/JavaScript_interface/Memory/buffer
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T212949Z" creationid="gitnacho" creationdate="20221019T212949Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195646Z" creationid="gitnacho" creationdate="20221019T212949Z">
         <seg>---
 title: WebAssembly.Memory.prototype.buffer
 slug: WebAssembly/JavaScript_interface/Memory/buffer
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22646,10 +22651,11 @@ title: WebAssembly.Memory.prototype.grow()
 slug: WebAssembly/JavaScript_interface/Memory/grow
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213812Z" creationid="gitnacho" creationdate="20221019T213812Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195728Z" creationid="gitnacho" creationdate="20221019T213812Z">
         <seg>---
 title: WebAssembly.Memory.prototype.grow()
 slug: WebAssembly/JavaScript_interface/Memory/grow
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22660,10 +22666,11 @@ title: WebAssembly.Module
 slug: WebAssembly/JavaScript_interface/Module
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T111436Z" creationid="gitnacho" creationdate="20221007T111436Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195906Z" creationid="gitnacho" creationdate="20221007T111436Z">
         <seg>---
 title: WebAssembly.Module
 slug: WebAssembly/JavaScript_interface/Module
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22674,10 +22681,11 @@ title: WebAssembly.Module() constructor
 slug: WebAssembly/JavaScript_interface/Module/Module
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T230925Z" creationid="gitnacho" creationdate="20221019T230925Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195919Z" creationid="gitnacho" creationdate="20221019T230925Z">
         <seg>---
 title: Constructor WebAssembly.Module()
 slug: WebAssembly/JavaScript_interface/Module/Module
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22688,10 +22696,11 @@ title: WebAssembly.Module.customSections()
 slug: WebAssembly/JavaScript_interface/Module/customSections
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T221617Z" creationid="gitnacho" creationdate="20221019T221617Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195810Z" creationid="gitnacho" creationdate="20221019T221617Z">
         <seg>---
 title: WebAssembly.Module.customSections()
 slug: WebAssembly/JavaScript_interface/Module/customSections
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22702,10 +22711,11 @@ title: WebAssembly.Module.exports()
 slug: WebAssembly/JavaScript_interface/Module/exports
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T224504Z" creationid="gitnacho" creationdate="20221019T224504Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195823Z" creationid="gitnacho" creationdate="20221019T224504Z">
         <seg>---
 title: WebAssembly.Module.exports()
 slug: WebAssembly/JavaScript_interface/Module/exports
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22716,10 +22726,11 @@ title: WebAssembly.Module.imports()
 slug: WebAssembly/JavaScript_interface/Module/imports
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T225835Z" creationid="gitnacho" creationdate="20221019T225835Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T195854Z" creationid="gitnacho" creationdate="20221019T225835Z">
         <seg>---
 title: WebAssembly.Module.imports()
 slug: WebAssembly/JavaScript_interface/Module/imports
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
