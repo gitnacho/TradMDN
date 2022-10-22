@@ -10640,6 +10640,14 @@ rue: Nachec✓
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- For any header: the value's length can't be greater than 128.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172413Z" creationid="Nachec" creationdate="20221022T172413Z">
+        <seg>- Para cualquier cabecera: la longitud del valor no puede ser mayor a 128.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- For exponentiation, use the caret: `2^53`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191343Z" creationid="gitnacho" creationdate="20221008T191343Z">
@@ -10690,8 +10698,8 @@ rue: Nachec✓
       <tuv lang="en-US">
         <seg>- For {{HTTPHeader("Content-Type")}}: needs to have a MIME type of its parsed value (ignoring parameters) of either `application/x-www-form-urlencoded`, `multipart/form-data`, or `text/plain`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172358Z" creationid="Nachec" creationdate="20221022T172358Z">
-        <seg>- Para {{HTTPHeader("Content-Type")}}: debe tener un tipo MIME de su valor analizado (ignorando los parámetros) de `application/x-www-form-urlencoded`, `multipart/form-data` , o `text/plain`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172650Z" creationid="Nachec" creationdate="20221022T172358Z">
+        <seg>- Para {{HTTPHeader("Content-Type")}}: debe tener un tipo MIME de su valor analizado (ignorando los parámetros) de `application/x-www-form-urlencoded`, `multipart/form-data`, o `text/plain`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52999,8 +53007,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You can safelist more headers using the {{HTTPHeader("Access-Control-Allow-Headers")}} header and also list the above headers there to circumvent the following additional restrictions:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172240Z" creationid="Nachec" creationdate="20221022T172240Z">
-        <seg>Puedes incluir en la lista segura más cabeceras usando la cabecera {{HTTPHeader("Access-Control-Allow-Headers")}} y también enumerar los cabeceras anteriores allí para eludir las siguientes restricciones adicionales:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172549Z" creationid="Nachec" creationdate="20221022T172240Z">
+        <seg>Puedes incluir en la lista segura más cabeceras usando la cabecera {{HTTPHeader("Access-Control-Allow-Headers")}} y también enumerar las cabeceras anteriores allí para eludir las siguientes restricciones adicionales:</seg>
       </tuv>
     </tu>
     <tu>
