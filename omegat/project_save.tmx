@@ -2874,6 +2874,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Functional notation</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001431Z" creationid="Nachec" creationdate="20221022T001431Z">
+        <seg>### Notación funcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### GFM table syntax style</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T184503Z" creationid="gitnacho" creationdate="20221008T184503Z">
@@ -4887,6 +4895,14 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091852Z" creationid="gitnacho" creationdate="20221012T091852Z">
         <seg>(Se crea una nueva entrada de caché para cada valor único). Esto se aplica en particular a sugerencias de clientes de red como {{HTTPHeader("Downlink")}} y {{HTTPHeader("RTT")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(But see notes regarding whitespace within pages for `min()`, `max()`, `minmax()`, and `clamp()` functions.)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001645Z" creationid="Nachec" creationdate="20221022T001645Z">
+        <seg>(Pero consulta las notas sobre los espacios en blanco dentro de las páginas para las funciones `min()`, `max()`, `minmax()` y `clamp()`).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18446,6 +18462,26 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200455Z" creationid="gitnacho" creationdate="20221005T200455Z">
         <seg>- {{cssxref(":dir")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{cssxref("calc", "calc()")}}
+- {{cssxref("min", "min()")}}
+- {{cssxref("max", "max()")}}
+- {{cssxref("minmax", "minmax()")}}
+- {{cssxref("clamp", "clamp()")}}
+- {{cssxref("toggle", "toggle()")}}
+- {{cssxref("attr", "attr()")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001535Z" creationid="Nachec" creationdate="20221022T001535Z">
+        <seg>- {{CSSxRef("calc", "calc()")}}
+- {{CSSxRef("min", "min()")}}
+- {{CSSxRef("max", "max()")}}
+- {{CSSxRef("minmax", "minmax()")}}
+- {{CSSxRef("clamp", "clamp()")}}
+- {{CSSxRef("toggle", "toggle()")}}
+- {{CSSxRef("attr, "attr()")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33933,6 +33969,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Functions can take multiple arguments, which are formatted similarly to a CSS property value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001620Z" creationid="Nachec" creationdate="20221022T001620Z">
+        <seg>Las funciones pueden tomar múltiples argumentos, que tienen un formato similar a un valor de propiedad CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Further, multiple lines without a space are also treated like normal markdown lines, and concatenated.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181433Z" creationid="gitnacho" creationdate="20221008T181433Z">
@@ -34786,6 +34830,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211102T195412Z" creationid="gitnacho" creationdate="20211102T195412Z">
         <seg>Si un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a comma is used to separate arguments, white space is optional before and after the comma.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001721Z" creationid="Nachec" creationdate="20221022T001721Z">
+        <seg>Si se usa una coma para separar los argumentos, el espacio en blanco es opcional antes y después de la coma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41218,6 +41270,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some legacy functional notations such as `rgba()` use commas, but generally commas are only used to separate items in a list.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001700Z" creationid="Nachec" creationdate="20221022T001700Z">
+        <seg>Algunas notaciones funcionales heredadas como `rgba()` usan comas, pero generalmente las comas solo se usan para separar elementos en una lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some mathematical concepts are sometimes written using fraction-like notations such [binomial coefficients](https://en.wikipedia.org/wiki/Combination) or [Legendre symbols](https://en.wikipedia.org/wiki/Legendre_symbol).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061604Z" creationid="Nachec" creationdate="20221021T061604Z">
@@ -44743,6 +44803,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The syntax starts with the name of the function immediately followed by a left parenthesis `(` followed by the argument(s) to the notation followed by a right parenthesis `)`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001609Z" creationid="Nachec" creationdate="20221022T001609Z">
+        <seg>La sintaxis comienza con el nombre de la función seguido inmediatamente de un paréntesis izquierdo `(` seguido de los argumentos de la notación seguido de un paréntesis derecho `)`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The table2.wasm module contains two functions (one that returns 42 and another that returns 83) and stores both into elements 0 and 1 of the imported table (see [text representation](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table2.wat)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T100451Z" creationid="gitnacho" creationdate="20221006T095650Z">
@@ -45023,6 +45091,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001348Z" creationid="Nachec" creationdate="20221022T001348Z">
         <seg>El valor {{CSSxRef("&amp;lt;image&amp;gt;")}} especifica todos los diferentes tipos de imagen que se pueden usar en CSS, y se define en el [Módulo de contenido reemplazado y valores de imagen CSS](https://www.w3.org/TR/css-images-4/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{cssxref("&amp;lt;position&amp;gt;")}} type defines 2D positioning of an object inside a positioning area, for example a background image inside a container.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001408Z" creationid="Nachec" creationdate="20221022T001408Z">
+        <seg>El tipo {{CSSxRef("&amp;lt;position&amp;gt;")}} define el posicionamiento 2D de un objeto dentro de un área de posicionamiento, por ejemplo, una imagen de fondo dentro de un contenedor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47664,6 +47740,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This type is interpreted as a {{cssxref("background-position")}} and therefore specified in the [CSS Backgrounds and Borders specification](https://www.w3.org/TR/css-backgrounds-3/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001425Z" creationid="Nachec" creationdate="20221022T001425Z">
+        <seg>Este tipo se interpreta como {{CSSxRef("background-position")}} y, por lo tanto, se especifica en la [especificación de fondos y bordes CSS](https://www.w3.org/TR/css-backgrounds-3/) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This type is used when performing type checking of the table function reference calls later on.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072713Z" creationid="gitnacho" creationdate="20221007T072713Z">
@@ -50063,6 +50147,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>White space is allowed, but optional inside the parentheses.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001632Z" creationid="Nachec" creationdate="20221022T001632Z">
+        <seg>Se permite el espacio en blanco, pero es opcional dentro de los paréntesis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210105T215438Z" creationid="nacho" creationdate="20210105T215438Z">
@@ -50969,6 +51061,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T055405Z" creationid="gitnacho" creationdate="20221005T055405Z">
         <seg>[Fetch](/es/docs/Web/API/Fetch_API) es una API moderna y conveniente para obtener recursos de red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Functional notation](/en-US/docs/Web/CSS/CSS_Functions) is a type of value that can represent more complex types or invoke special processing by CSS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001552Z" creationid="Nachec" creationdate="20221022T001552Z">
+        <seg>[Notación funcional](/es/docs/Web/CSS/CSS_Functions) es un tipo de valor que puede representar tipos más complejos o invocar un procesamiento especial por parte de CSS.</seg>
       </tuv>
     </tu>
     <tu>
