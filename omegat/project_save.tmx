@@ -14515,9 +14515,9 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - Syntax of [headers](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2) in the HTTP specification
 - [Glossary](/en-US/docs/Glossary)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211949Z" creationid="gitnacho" creationdate="20221017T211949Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162500Z" creationid="gitnacho" creationdate="20221017T211949Z">
         <seg>- [Lista de todas las cabeceras HTTP](/es/docs/Web/HTTP/Headers)
-- Sintaxis de [headers](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2) en la especificación HTTP</seg>
+- Sintaxis de [cabeceras](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2) en la especificación HTTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -18617,8 +18617,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Fetch metadata request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161029Z" creationid="gitnacho" creationdate="20221017T211951Z">
-        <seg>- {{Glossary("Fetch metadata request header")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162354Z" creationid="gitnacho" creationdate="20221017T211951Z">
+        <seg>- {{Glossary("Fetch metadata request header", "Cabecera de solicitud para obtener metadatos")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18633,8 +18633,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Forbidden header name")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211952Z" creationid="gitnacho" creationdate="20221017T211952Z">
-        <seg>- {{Glossary("Forbidden header name")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162638Z" creationid="gitnacho" creationdate="20221017T211952Z">
+        <seg>- {{Glossary("Forbidden header name", "Cabecera de nombre prohibido — forbidden")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18649,8 +18649,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("HTTP header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211950Z" creationid="gitnacho" creationdate="20221017T211950Z">
-        <seg>- {{Glossary("HTTP header")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162512Z" creationid="gitnacho" creationdate="20221017T211950Z">
+        <seg>- {{Glossary("HTTP header", "Cabecera HTTP")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18673,8 +18673,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211950Z" creationid="gitnacho" creationdate="20221017T211950Z">
-        <seg>- {{Glossary("Request header")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162532Z" creationid="gitnacho" creationdate="20221017T211950Z">
+        <seg>- {{Glossary("Request header", "Cabecera de solicitud — request")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18689,8 +18689,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Response header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211951Z" creationid="gitnacho" creationdate="20221017T211951Z">
-        <seg>- {{Glossary("Response header")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162549Z" creationid="gitnacho" creationdate="20221017T211951Z">
+        <seg>- {{Glossary("Response header", "Cabecera de respuesta — response")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29032,10 +29032,10 @@ i32.mul</seg>
 &gt;
 &gt; - {{Glossary("General header")}}: Headers applying to both requests and responses but with no relation to the data eventually transmitted in the body.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080207Z" creationid="gitnacho" creationdate="20221017T211855Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162408Z" creationid="gitnacho" creationdate="20221017T211855Z">
         <seg>&gt; **Nota:** Las versiones anteriores de la especificación se refieren a:
 &gt;
-&gt; - {{Glossary("General header")}}: Cabeceras que se aplican tanto a las solicitudes como a las respuestas, pero sin relación con los datos finalmente transmitidos en el cuerpo.</seg>
+&gt; - {{Glossary("General header", "Cabecera general")}}: Cabeceras que se aplican tanto a las solicitudes como a las respuestas, pero sin relación con los datos finalmente transmitidos en el cuerpo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29883,8 +29883,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; - {{Glossary("Entity header")}}: Headers containing more information about the body of the entity, like its content length or its MIME-type (this is a superset of what are now referred to as the Representation metadata headers)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080254Z" creationid="gitnacho" creationdate="20221017T211931Z">
-        <seg>&gt; - {{Glossary("Entity header")}}: Cabeceras que contienen más información sobre el cuerpo de la entidad, como la longitud de su contenido o su tipo MIME (este es un superconjunto de lo que ahora se conoce como cabeceras de representación de metadatos)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162430Z" creationid="gitnacho" creationdate="20221017T211931Z">
+        <seg>&gt; - {{Glossary("Entity header", "Cabecera de entidad — entity")}}: Cabeceras que contienen más información sobre el cuerpo de la entidad, como la longitud de su contenido o su tipo MIME (este es un superconjunto de lo que ahora se conoce como cabeceras de representación de metadatos)</seg>
       </tuv>
     </tu>
     <tu>
