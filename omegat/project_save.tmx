@@ -32003,6 +32003,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clients specify the formats that they prefer to be sent during [content negotiation](/en-US/docs/Web/HTTP/Content_negotiation) (using `Accept-*` headers), and the representation headers tell the client the format of the _selected representation_ they actually received.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T022038Z" creationid="Nachec" creationdate="20221022T022038Z">
+        <seg>Los clientes especifican los formatos que prefieren que se envíen durante la [negociación de contenido](/es/docs/Web/HTTP/Content_negotiation) (usando cabeceras `Accept-*`), y la representación de cabeceras le dicen al cliente el formato de la _representación seleccionada_ que realmente recibieron.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cloning the response is necessary because request and response streams can only be read once.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040319Z" creationid="gitnacho" creationdate="20220921T040319Z">
@@ -35110,6 +35118,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T051825Z" creationid="gitnacho" creationdate="20221004T051825Z">
         <seg>Si falla la apertura de la base de datos (por ejemplo, debido a permisos o cuotas), recurrimos a buscar y compilar el módulo y no intentamos almacenar los resultados (puesto que no hay una base de datos para almacenarlos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If sent as a response to a `HEAD` request, they describe the body content that _would_ be selected if the resource was actually requested.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T022144Z" creationid="Nachec" creationdate="20221022T022144Z">
+        <seg>Si se envían como respuesta a una solicitud `HEAD`, describen el contenido del cuerpo que _sería_ seleccionado si el recurso fuera realmente solicitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40371,6 +40387,22 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Representation headers include: {{HTTPHeader("Content-Type")}}, {{HTTPHeader("Content-Encoding")}}, {{HTTPHeader("Content-Language")}}, and {{HTTPHeader("Content-Location")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T022235Z" creationid="Nachec" creationdate="20221022T022235Z">
+        <seg>La representación de cabeceras incluye: {{HTTPHeader("Content-Type")}}, {{HTTPHeader("Content-Encoding")}}, {{HTTPHeader("Content-Language")}} y {{HTTPHeader("Content-Location")}}")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Representation headers may be present in both HTTP request and response messages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T022107Z" creationid="Nachec" creationdate="20221022T022107Z">
+        <seg>La representación de cabeceras puede estar presente tanto en la solicitud HTTP como en los mensajes de respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Representations are different forms of a particular resource.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021852Z" creationid="Nachec" creationdate="20221022T021852Z">
@@ -45019,6 +45051,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225142Z" creationid="gitnacho" creationdate="20221011T225142Z">
         <seg>El típico [MSS](https://en.wikipedia.org/wiki/Maximum_segment_size) (Tamaño máximo del segmento) es lo suficientemente grande como para contener varias solicitudes simples, aunque la demanda de tamaño de las solicitudes HTTP continúa creciendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The underlying resource is the same in each case, but its representation is different.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021932Z" creationid="Nachec" creationdate="20221022T021932Z">
+        <seg>El recurso subyacente es el mismo en cada caso, pero su representación es diferente.</seg>
       </tuv>
     </tu>
     <tu>
