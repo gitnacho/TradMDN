@@ -23604,8 +23604,8 @@ console.log(y[0]); // 21</seg>
 Accept-Language: fr-CH, fr;q=0.9, en;q=0.8, de;q=0.7, *;q=0.5
 ```</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134055Z" creationid="Nachec" creationdate="20221022T110153Z">
-        <seg>// Múltiples tipos, ponderados con la sintaxis {{Glossary("quality values", "valores de calidad")}}:
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135318Z" creationid="Nachec" creationdate="20221022T110153Z">
+        <seg>// Múltiples tipos, ponderados con la sintaxis de {{Glossary("quality values", "valores de calidad")}}:
 Accept-Language: fr-CH, fr;q=0.9, en;q=0.8, de;q=0.7, *;q=0.5
 ```</seg>
       </tuv>
