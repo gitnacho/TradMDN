@@ -5812,8 +5812,8 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       <tuv lang="en-US">
         <seg>**CORS** (Cross-Origin Resource Sharing) is a system, consisting of transmitting {{Glossary("HTTP_header", "HTTP headers")}}, that determines whether browsers block frontend JavaScript code from accessing responses for cross-origin requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T104559Z" creationid="gitnacho" creationdate="20221017T210008Z">
-        <seg>**CORS** (*Cross-Origin Resource Sharing* o en español *Intercambio de recursos de origen cruzado*) es un sistema que consiste en transmitir {{Glossary("HTTP_header", "HTTP headers")}}, que determina si los navegadores bloquean el acceso del código JavaScript frontend a las respuestas de peticiones de origen cruzado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T165804Z" creationid="gitnacho" creationdate="20221017T210008Z">
+        <seg>**CORS** (*Cross-Origin Resource Sharing* o en español *Intercambio de recursos de origen cruzado*) es un sistema que consiste en transmitir {{Glossary("HTTP_header", "cabeceras HTTP")}}, que determina si los navegadores bloquean el acceso del código JavaScript frontend a las respuestas de peticiones de origen cruzado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10354,6 +10354,15 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Definitions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170057Z" creationid="Nachec" creationdate="20221022T170057Z">
+        <seg>- Definitions
+  - Definiciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Demos</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T072607Z" creationid="gitnacho" creationdate="20221018T072607Z">
@@ -10384,6 +10393,15 @@ rue: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T111241Z" creationid="gitnacho" creationdate="20221006T111241Z">
         <seg>- DevTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Dictionary</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170106Z" creationid="Nachec" creationdate="20221022T170106Z">
+        <seg>- Dictionary
+  - Diccionario</seg>
       </tuv>
     </tu>
     <tu>
@@ -12522,6 +12540,18 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
         <seg>- Tag
 browser-compat: javascript.builtins.WebAssembly.Tag.Tag
 rue: Nachec
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Terminology
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170143Z" creationid="Nachec" creationdate="20221022T170143Z">
+        <seg>- Terminology
+  - Terminología
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -20191,6 +20221,20 @@ tags:</seg>
         <seg>---
 title: "IMSC: subtitles and captioning for the Web"
 slug: Related/IMSC
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: "MDN Web Docs Glossary: Definitions of Web-related terms"
+slug: Glossary
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170049Z" creationid="Nachec" creationdate="20221022T170049Z">
+        <seg>---
+title: "Glosario de MDN Web Docs: Definiciones de términos relacionados con la Web"
+slug: Glossary
 tags:</seg>
       </tuv>
     </tu>
@@ -67849,10 +67893,10 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
         <seg>- Security
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T123618Z" creationid="Nachec" creationdate="20221020T190501Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T165446Z" creationid="Nachec" creationdate="20221020T190501Z">
         <seg>- Security
   - Seguridad
-rue: Nachec
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
