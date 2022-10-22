@@ -18479,6 +18479,14 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{Glossary("CORS")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125529Z" creationid="Nachec" creationdate="20221022T125529Z">
+        <seg>- {{Glossary("CORS")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{Glossary("CORS-safelisted request header")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211953Z" creationid="gitnacho" creationdate="20221017T211953Z">
@@ -18491,6 +18499,14 @@ rue: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080414Z" creationid="gitnacho" creationdate="20221018T080414Z">
         <seg>- {{Glossary("CORS-safelisted response header")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{Glossary("CORS-safelisted_request_header", "CORS-safelisted request header")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125624Z" creationid="Nachec" creationdate="20221022T125624Z">
+        <seg>- {{Glossary("CORS-safelisted_request_header", "Cabecera de solicitud incluida en la lista segura de CORS")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20692,6 +20708,20 @@ tags:</seg>
         <seg>---
 title: Convertir de formato de texto WebAssembly a wasm
 slug: WebAssembly/Text_format_to_wasm
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Crawler
+slug: Glossary/Crawler
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125729Z" creationid="Nachec" creationdate="20221022T125729Z">
+        <seg>---
+title: Crawler
+slug: Glossary/Crawler
 tags:</seg>
       </tuv>
     </tu>
@@ -29503,6 +29533,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** {{HTTPHeader("Content-Length")}} was not part of the original set of safelisted response headers \[[ref](https://github.com/whatwg/fetch/pull/626)]</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125954Z" creationid="Nachec" creationdate="20221022T125954Z">
+        <seg>&gt; **Nota:** {{HTTPHeader("Content-Length")}} no formaba parte del conjunto original de cabeceras de respuesta incluidas en la lista segura \\[[ref](https://github.com/whatwg/fetch/pull/ 626)]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Warning:** Do not call `Promise.resolve()` on a thenable that resolves to itself.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080725Z" creationid="gitnacho" creationdate="20221002T080725Z">
@@ -30087,6 +30125,14 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080104Z" creationid="Nachec" creationdate="20221021T080104Z">
         <seg>Se puede usar un [elemento personalizado](/es/docs/Web/Web_Components/Using_custom_elements) para alojar el código fuente y garantizar que la salida de MathML correspondiente se inserte y renderice a través de un [subárbol oculto](/es/docs/Web/Web_Components/Using_shadow_DOM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A _CORS-safelisted response header_ is an [HTTP header](/en-US/docs/Web/HTTP/Headers) in a [CORS](/en-US/docs/Web/HTTP/CORS) response that it is considered _safe_ to expose to client scripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125841Z" creationid="Nachec" creationdate="20221022T125841Z">
+        <seg>Una _cabecera de respuesta en la lista segura de CORS_ es una [cabecera HTTP](/es/docs/Web/HTTP/Headers) en una respuesta [CORS](/es/docs/Web/HTTP/CORS) que se considera _segura_ para exponerla a los scripts del cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30782,6 +30828,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T212839Z" creationid="gitnacho" creationdate="20220921T212839Z">
         <seg>AddType text/cache-manifest           appcache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional headers can be added to the safelist using {{HTTPHeader("Access-Control-Expose-Headers")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125929Z" creationid="Nachec" creationdate="20221022T125929Z">
+        <seg>Se pueden agregar cabeceras adicionales a la lista segura usando {{HTTPHeader("Access-Control-Expose-Headers")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32426,6 +32480,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230508Z" creationid="gitnacho" creationdate="20221011T230508Z">
         <seg>De manera predeterminada, la invocación se realiza sin *Cookies*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, the safelist includes the following response headers:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125914Z" creationid="Nachec" creationdate="20221022T125914Z">
+        <seg>De forma predeterminada, la lista segura incluye las siguientes cabeceras de respuesta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40896,6 +40958,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191746Z" creationid="Nachec" creationdate="20221021T191746Z">
         <seg>Una convención tipográfica en matemáticas es usar letras cursivas para las variables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only safelisted response headers are made available to web pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125857Z" creationid="Nachec" creationdate="20221022T125857Z">
+        <seg>Solo las cabeceras de respuesta de la lista segura están disponibles para las páginas web.</seg>
       </tuv>
     </tu>
     <tu>
