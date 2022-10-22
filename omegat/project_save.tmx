@@ -10561,6 +10561,17 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Fetch
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T163307Z" creationid="Nachec" creationdate="20221022T163307Z">
+        <seg>- Fetch
+rue: Nachec✓
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Fetch API</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T211008Z" creationid="gitnacho" creationdate="20221011T211008Z">
@@ -20522,6 +20533,20 @@ tags:</seg>
         <seg>---
 title: CORS
 slug: Glossary/CORS
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: CORS-safelisted request header
+slug: Glossary/CORS-safelisted_request_header
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T163217Z" creationid="Nachec" creationdate="20221022T163217Z">
+        <seg>---
+title: Cabecera de solicitud incluida en la lista segura de CORS
+slug: Glossary/CORS-safelisted_request_header
 tags:</seg>
       </tuv>
     </tu>
