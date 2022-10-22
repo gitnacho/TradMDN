@@ -6463,6 +6463,14 @@ reviewer: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : A language tag (which is sometimes referred to as a "locale identifier").</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110203Z" creationid="Nachec" creationdate="20221022T110203Z">
+        <seg>- : Una etiqueta de idioma (que a veces se denomina "identificador de configuración regional").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : A new service worker is replacing the current service worker, or the current service worker is being discarded due to an install failure.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223902Z" creationid="gitnacho" creationdate="20221003T223902Z">
@@ -6781,6 +6789,22 @@ reviewer: Nachec
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115658Z" creationid="gitnacho" creationdate="20221007T115658Z">
         <seg>- : Un [arreglo](/es/docs/Web/JavaScript/Reference/Global_Objects/Array) opcional de {{Glossary("Transferable Objects")}} para transferir la propiedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Any language; `'*'` is used as a wildcard.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110414Z" creationid="Nachec" creationdate="20221022T110414Z">
+        <seg>- : Cualquier idioma; el `'*'` se utiliza como comodín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Any value placed in an order of preference expressed using a relative</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110431Z" creationid="Nachec" creationdate="20221022T110431Z">
+        <seg>- : Cualquier valor colocado en un orden de preferencia expresado usando un</seg>
       </tuv>
     </tu>
     <tu>
@@ -15909,6 +15933,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `*`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110401Z" creationid="Nachec" creationdate="20221022T110401Z">
+        <seg>- `*`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `-o hello.html` — Specifies that we want Emscripten to generate an HTML page to run our code in (and a filename to use), as well as the wasm module and the JavaScript "glue" code to compile and instantiate the wasm so it can be used in the web environment.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T105728Z" creationid="gitnacho" creationdate="20221003T105728Z">
@@ -15921,6 +15953,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214550Z" creationid="Nachec" creationdate="20221021T214550Z">
         <seg>- `0` significa que el elemento debe ser enfocable y accesible a través de la navegación secuencial del teclado, pero su orden relativo está definido por la convención de la plataforma;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `;q=` (q-factor weighting)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110415Z" creationid="Nachec" creationdate="20221022T110415Z">
+        <seg>- `;q=` (q-factor weighting)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15945,6 +15985,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223732Z" creationid="Nachec" creationdate="20221021T223732Z">
         <seg>- `&lt;boolean&gt;`: Una cadena `true` o `false` que representa un valor booleano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `&lt;language&gt;`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110154Z" creationid="Nachec" creationdate="20221022T110154Z">
+        <seg>- `&lt;language&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -40921,6 +40969,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other variants, like the type of orthography (`'de-DE-1996'`), are usually</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110349Z" creationid="Nachec" creationdate="20221022T110349Z">
+        <seg>Otras variantes, como el tipo de ortografía (`'de-DE-1996''), usualmente no se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Otherwise</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210113T060940Z" creationid="nacho" creationdate="20210113T060940Z">
@@ -45353,6 +45409,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T194419Z" creationid="gitnacho" creationdate="20221005T092141Z">
         <seg>La causa más común es un error de sintaxis en una [macro](/es/docs/MDN/Writing_guidelines/Page_structures/Macros).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most common extra</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110300Z" creationid="Nachec" creationdate="20221022T110300Z">
+        <seg>La información extra más común</seg>
       </tuv>
     </tu>
     <tu>
@@ -53009,6 +53073,14 @@ crate-type = ["cdylib"]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`'fr-CA'`) or the type of alphabet to use (like `'sr-Latn'`).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110327Z" creationid="Nachec" creationdate="20221022T110327Z">
+        <seg>tipo de alfabeto a utilizar (como `'sr-Latn'').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T211204Z" creationid="nachec" creationdate="20220804T211204Z">
@@ -58427,6 +58499,14 @@ math {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>consists of a 2-3 letter base language tag that indicates a language, optionally</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110227Z" creationid="Nachec" creationdate="20221022T110227Z">
+        <seg>consiste en una etiqueta de idioma base de 2-3 letras que indica un idioma, seguida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>console.assert(Object.hasOwn(ClassWithStaticField, 'staticField'));
 console.log(ClassWithStaticField.staticField);
 // expected output: "undefined"
@@ -60762,6 +60842,14 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>followed by additional subtags separated by `'-'`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110238Z" creationid="Nachec" creationdate="20221022T110238Z">
+        <seg>opcionalmente por subetiquetas adicionales separadas por `'-'`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font-family: Latin Modern Math, STIX Two Math;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061321Z" creationid="Nachec" creationdate="20221021T061321Z">
@@ -61758,6 +61846,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>information is the country or region variant (like `'en-US'` or</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110313Z" creationid="Nachec" creationdate="20221022T110313Z">
+        <seg>es la variante de país o región (como `'en-US'` o `'fr-CA'`) o el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>init().then(() =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064617Z" creationid="gitnacho" creationdate="20221004T064617Z">
@@ -62558,6 +62654,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211005T033027Z" creationid="gitnacho" creationdate="20211005T033027Z">
         <seg>none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>not used in the context of this header.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110400Z" creationid="Nachec" creationdate="20221022T110400Z">
+        <seg>utilizan en el contexto de esta cabecera.</seg>
       </tuv>
     </tu>
     <tu>
