@@ -20437,10 +20437,11 @@ title: &lt;mi&gt;
 slug: Web/MathML/Element/mi
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205307Z" creationid="Nachec" creationdate="20221021T205307Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194506Z" creationid="Nachec" creationdate="20221021T205307Z">
         <seg>---
 title: &lt;mi&gt;
 slug: Web/MathML/Element/mi
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20451,10 +20452,11 @@ title: &lt;mn&gt;
 slug: Web/MathML/Element/mn
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T215826Z" creationid="Nachec" creationdate="20221021T215826Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194524Z" creationid="Nachec" creationdate="20221021T215826Z">
         <seg>---
 title: &lt;mn&gt;
 slug: Web/MathML/Element/mn
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20465,10 +20467,11 @@ title: &lt;mo&gt;
 slug: Web/MathML/Element/mo
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220516Z" creationid="Nachec" creationdate="20221021T220516Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194537Z" creationid="Nachec" creationdate="20221021T220516Z">
         <seg>---
 title: &lt;mo&gt;
 slug: Web/MathML/Element/mo
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20479,10 +20482,11 @@ title: &lt;mtext&gt;
 slug: Web/MathML/Element/mtext
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222243Z" creationid="Nachec" creationdate="20221021T222243Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194549Z" creationid="Nachec" creationdate="20221021T222243Z">
         <seg>---
 title: &lt;mtext&gt;
 slug: Web/MathML/Element/mtext
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -20609,10 +20613,11 @@ title: Authoring MathML
 slug: Web/MathML/Authoring
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193655Z" creationid="Nachec" creationdate="20221021T071822Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194447Z" creationid="Nachec" creationdate="20221021T071822Z">
         <seg>---
 title: Autoría de MathML
 slug: Web/MathML/Authoring
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21239,10 +21244,11 @@ title: Fonts for MathML
 slug: Web/MathML/Fonts
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195504Z" creationid="Nachec" creationdate="20221021T195504Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194625Z" creationid="Nachec" creationdate="20221021T195504Z">
         <seg>---
 title: Fuentes para MathML
 slug: Web/MathML/Fonts
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21647,10 +21653,11 @@ title: MathML Attribute Values
 slug: Web/MathML/Attribute/Values
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223515Z" creationid="Nachec" creationdate="20221021T223515Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194428Z" creationid="Nachec" creationdate="20221021T223515Z">
         <seg>---
 title: Valores de atributos de MathML
 slug: Web/MathML/Attribute/Values
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22169,10 +22176,11 @@ title: Uint8ClampedArray
 slug: Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050153Z" creationid="gitnacho" creationdate="20221005T050153Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194411Z" creationid="gitnacho" creationdate="20221005T050153Z">
         <seg>---
 title: Uint8ClampedArray
 slug: Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -29966,6 +29974,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201245Z" creationid="Nachec" creationdate="20221021T201245Z">
         <seg>&gt; **Nota:** _Cambria Math_ está instalado de forma predeterminada en Windows 7 y versiones posteriores y debería garantizar un renderizado de MathML relativamente bueno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** _Cambria Math_ is installed by default on Windows and should ensure relatively good MathML rendering.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194652Z" creationid="Nachec" creationdate="20221022T194652Z">
+        <seg>&gt; **Nota:** _Cambria Math_ está instalada de forma predeterminada en Windows y debería garantizar una representación MathML relativamente buena.</seg>
       </tuv>
     </tu>
     <tu>
