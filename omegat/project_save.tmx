@@ -20571,9 +20571,9 @@ title: CORS-safelisted response header
 slug: Glossary/CORS-safelisted_response_header
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125329Z" creationid="Nachec" creationdate="20221022T125329Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T165023Z" creationid="Nachec" creationdate="20221022T125329Z">
         <seg>---
-title: Cabecera de respuesta incluida en la lista CORS
+title: Cabecera de respuesta incluida en la lista segura de CORS
 slug: Glossary/CORS-safelisted_response_header
 tags:</seg>
       </tuv>
