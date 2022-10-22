@@ -18593,16 +18593,16 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("CORS-safelisted request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211953Z" creationid="gitnacho" creationdate="20221017T211953Z">
-        <seg>- {{Glossary("CORS-safelisted request header")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162933Z" creationid="gitnacho" creationdate="20221017T211953Z">
+        <seg>- {{Glossary("CORS-safelisted request header", "Cabecera de solicitud incluida en la lista segura de CORS")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{Glossary("CORS-safelisted response header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080414Z" creationid="gitnacho" creationdate="20221018T080414Z">
-        <seg>- {{Glossary("CORS-safelisted response header")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162914Z" creationid="gitnacho" creationdate="20221018T080414Z">
+        <seg>- {{Glossary("CORS-safelisted response header", "Cabecera de respuesta incluida en la lista segura de CORS")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18641,8 +18641,8 @@ rue: Nachec
       <tuv lang="en-US">
         <seg>- {{Glossary("Forbidden response header name")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211952Z" creationid="gitnacho" creationdate="20221017T211952Z">
-        <seg>- {{Glossary("Forbidden response header name")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162716Z" creationid="gitnacho" creationdate="20221017T211952Z">
+        <seg>- {{Glossary("Forbidden response header name", "Cabecera de respuesta a nombre prohibido — forbidden")}}</seg>
       </tuv>
     </tu>
     <tu>
