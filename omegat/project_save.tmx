@@ -976,6 +976,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Browser-specific information</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134637Z" creationid="Nachec" creationdate="20221022T134637Z">
+        <seg>## Información específica del navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Building our WebAssembly package</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061643Z" creationid="gitnacho" creationdate="20221004T061643Z">
@@ -1604,6 +1612,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063832Z" creationid="Nachec" creationdate="20221021T063832Z">
         <seg>## Módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## More information</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134702Z" creationid="Nachec" creationdate="20221022T134702Z">
+        <seg>## Más información</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +2902,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082414Z" creationid="gitnacho" creationdate="20221005T082414Z">
         <seg>### Buscar el idioma de la página actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Firefox</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134638Z" creationid="Nachec" creationdate="20221022T134638Z">
+        <seg>### Firefox</seg>
       </tuv>
     </tu>
     <tu>
@@ -14247,6 +14271,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064551Z" creationid="gitnacho" creationdate="20221012T064551Z">
         <seg>- [Códigos de Respuesta de Estado HTTP](/es/docs/Web/HTTP/Status)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [HTTP headers](/en-US/docs/Web/HTTP/Headers) using q-values in their syntax: {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Language")}}, {{HTTPHeader("TE")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134749Z" creationid="Nachec" creationdate="20221022T134749Z">
+        <seg>- [Cabeceras HTTP](/es/docs/Web/HTTP/Headers) usando ``-values` en su sintaxis: {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Language")}}, { {HTTPHeader("TE")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36300,6 +36332,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If there is no priority defined for the first two values, the order in the list is irrelevant.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134521Z" creationid="Nachec" creationdate="20221022T134521Z">
+        <seg>Si no hay una prioridad definida para los dos primeros valores, el orden en la lista es irrelevante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If there is no result type, the stack must be empty.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T055146Z" creationid="gitnacho" creationdate="20221007T055146Z">
@@ -39973,6 +40013,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nevertheless, with the same quality, more specific values have priority over less specific ones:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134532Z" creationid="Nachec" creationdate="20221022T134532Z">
+        <seg>No obstante, con la misma calidad, los valores más específicos tienen prioridad sobre los menos específicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New in Firefox 58 is the ability to compile and instantiate WebAssembly modules directly from underlying sources.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T113347Z" creationid="gitnacho" creationdate="20221006T113347Z">
@@ -42631,6 +42679,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some syntax, like the one of {{HTTPHeader("Accept")}}, allow additional specifiers like `text/html;level=1`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134615Z" creationid="Nachec" creationdate="20221022T134615Z">
+        <seg>Algunas sintaxis, como la de {{HTTPHeader("Accept")}}, permiten especificadores adicionales como `text/html;level=1`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some text values are not valid if encompassed in quotes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233758Z" creationid="Nachec" creationdate="20221021T233758Z">
@@ -42699,6 +42755,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063709Z" creationid="Nachec" creationdate="20221021T063709Z">
         <seg>Comienza trabajando a través de los siguientes módulos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Starting with Firefox 18, the quality factor values are clamped to 2 decimal places.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134648Z" creationid="Nachec" creationdate="20221022T134648Z">
+        <seg>A partir de Firefox 18, los valores del factor de calidad se limitan a 2 decimales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46744,6 +46808,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Their use is extremely rare.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134631Z" creationid="Nachec" creationdate="20221022T134631Z">
+        <seg>Su uso es extremadamente raro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then add subsections with following H4 headings (`####`), in the order listed:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211046Z" creationid="gitnacho" creationdate="20221005T211025Z">
@@ -47208,6 +47280,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These increase the specificity of the value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134625Z" creationid="Nachec" creationdate="20221022T134625Z">
+        <seg>Estos aumentan la especificidad del valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These instructions are allowed on non-shared memories as of Firefox 80.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081042Z" creationid="gitnacho" creationdate="20221007T081042Z">
@@ -47460,6 +47540,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T113759Z" creationid="gitnacho" creationdate="20221005T113759Z">
         <seg>Por lo general, se vinculan a la página principal de la referencia/guía/tutorial (esto a menudo es necesario porque nuestras migas de pan a veces no pueden hacer esto) y colocan el artículo en la categoría adecuada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They used to be clamped to only 1 decimal place in earlier versions ({{bug(672448)}}).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134657Z" creationid="Nachec" creationdate="20221022T134657Z">
+        <seg>Solían estar limitados a solo 1 lugar decimal en versiones anteriores ({{bug(672448)}}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55128,6 +55216,18 @@ text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134417Z" creationid="Nachec" creationdate="20221022T134417Z">
         <seg>```http
 text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+text/html;q=0.8,text/*;q=0.8,*/*;q=0.8
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134533Z" creationid="Nachec" creationdate="20221022T134533Z">
+        <seg>```http
+text/html;q=0.8,text/*;q=0.8,*/*;q=0.8
 ```</seg>
       </tuv>
     </tu>
@@ -66825,6 +66925,22 @@ console.log(uintc8FromIterable);
         <seg>| Valor | Significado |
 | - | - |
 | `Device-Memory` | Indica la cantidad aproximada de RAM del dispositivo. Este valor es una aproximación dada redondeando a la potencia de 2 más cercana y dividiendo ese número por 1024.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Value       | Priority                      |
+| ----------- | ----------------------------- |
+| `text/html` | `0.8` (but totally specified) |
+| `text/*`    | `0.8` (partially specified)   |
+| `*/*`       | `0.8` (not specified)         |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134553Z" creationid="Nachec" creationdate="20221022T134553Z">
+        <seg>| Valor | Prioridad |
+| - | - |
+| `text/html` | `0.8` (pero totalmente especificado) |
+| `text/*` | `0.8` (parcialmente especificado) |
+| `*/*` | `0.8` (no especificado) |</seg>
       </tuv>
     </tu>
     <tu>
