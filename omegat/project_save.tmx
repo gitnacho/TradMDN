@@ -20670,10 +20670,11 @@ title: CORS
 slug: Glossary/CORS
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T084850Z" creationid="gitnacho" creationdate="20221017T205202Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T185938Z" creationid="gitnacho" creationdate="20221017T205202Z">
         <seg>---
 title: CORS
 slug: Glossary/CORS
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -20684,10 +20685,11 @@ title: CORS-safelisted request header
 slug: Glossary/CORS-safelisted_request_header
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T163217Z" creationid="Nachec" creationdate="20221022T163217Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T185853Z" creationid="Nachec" creationdate="20221022T163217Z">
         <seg>---
 title: Cabecera de solicitud incluida en la lista segura de CORS
 slug: Glossary/CORS-safelisted_request_header
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21119,10 +21121,11 @@ title: Entity header
 slug: Glossary/Entity_header
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154330Z" creationid="Nachec" creationdate="20221022T154330Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T190051Z" creationid="Nachec" creationdate="20221022T154330Z">
         <seg>---
 title: Cabecera entity
 slug: Glossary/Entity_header
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21387,10 +21390,11 @@ title: HTTP header
 slug: Glossary/HTTP_header
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T075744Z" creationid="gitnacho" creationdate="20221017T211152Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T190116Z" creationid="gitnacho" creationdate="20221017T211152Z">
         <seg>---
 title: Cabecera HTTP
 slug: Glossary/HTTP_header
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
