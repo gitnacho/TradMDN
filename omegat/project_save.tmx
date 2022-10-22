@@ -36214,8 +36214,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In comparison, a data type that is a {{cssxref("&amp;lt;string&amp;gt;")}}, such as a string value of the {{cssxref("content")}} property, must be quoted:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233841Z" creationid="Nachec" creationdate="20221021T233841Z">
-        <seg>En comparación, un tipo de dato que es {{CSSxRef("&amp;lt;string&amp;gt;")}}, como un valor de cadena de la propiedad {{CSSxRef("content")}}, se debe citar:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T081121Z" creationid="Nachec" creationdate="20221021T233841Z">
+        <seg>En comparación, un tipo de dato que es {{CSSxRef("&amp;lt;string&amp;gt;")}}, como un valor de cadena de la propiedad {{CSSxRef("content")}}, se debe citar con comillas simples o dobles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50254,8 +50254,8 @@ función exportada desde su interior.</seg>
       <tuv lang="en-US">
         <seg>When viewing CSS property value syntax in a CSS specification or the MDN property page, allowable keywords will be listed in the following form.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234137Z" creationid="Nachec" creationdate="20221021T234137Z">
-        <seg>Al ver la sintaxis del valor de propiedad CSS en una especificación de CSS o en la página de propiedades de MDN, las palabras clave permitidas se enumerarán en al siguiente forma.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T081315Z" creationid="Nachec" creationdate="20221021T234137Z">
+        <seg>Al ver la sintaxis del valor de propiedad CSS en una especificación de CSS o en la página de propiedades de MDN, las palabras clave permitidas se enumerarán en la siguiente forma.</seg>
       </tuv>
     </tu>
     <tu>
