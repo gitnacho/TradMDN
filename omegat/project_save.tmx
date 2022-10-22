@@ -35113,8 +35113,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For more information see [`NavigationPreloadManager` &gt; Custom responses](/en-US/docs/Web/API/NavigationPreloadManager#custom_responses).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T214334Z" creationid="gitnacho" creationdate="20220921T041652Z">
-        <seg>Para obtener más información, consulta [NavigationPreloadManager &gt; Respuestas personalizadas](/es/docs/Web/API/NavigationPreloadManager#respuestas_personalizadas).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183725Z" creationid="gitnacho" creationdate="20220921T041652Z">
+        <seg>Para obtener más información, consulta [NavigationPreloadManager → Respuestas personalizadas](/es/docs/Web/API/NavigationPreloadManager#respuestas_personalizadas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53475,8 +53475,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>[Speed up Service Worker with Navigation Preloads &gt; Custom responses for preloads](https://developer.chrome.com/blog/navigation-preload/) provides a more complete example of a site where the response for an article web page is constructed from a cached header and footer, so that only the article content is returned for a prefetch.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T212956Z" creationid="gitnacho" creationdate="20220922T211117Z">
-        <seg>[Acelera el *Service Worker*&amp;nbsp;con precargas de navegación &gt; Respuestas personalizadas para precargas](https://developer.chrome.com/blog/navigation-preload/) proporciona un ejemplo más completo de un sitio donde se construye la respuesta para una página web de artículo desde un encabezado y pie de página en caché, de modo que solo devuelva el contenido del artículo para una precarga.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183714Z" creationid="gitnacho" creationdate="20220922T211117Z">
+        <seg>[Acelera el *Service Worker*&amp;nbsp;con precargas de navegación → Respuestas personalizadas para precargas](https://developer.chrome.com/blog/navigation-preload/) proporciona un ejemplo más completo de un sitio donde se construye la respuesta para una página web de artículo desde un encabezado y pie de página en caché, de modo que solo devuelva el contenido del artículo para una precarga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58423,8 +58423,8 @@ unreachable
       <tuv lang="en-US">
         <seg>`latexmlc` accepts a `--javascript` parameter that you can use to include one of the [fallback scripts](#fallback_for_browsers_without_mathml_support) mentioned above:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081150Z" creationid="Nachec" creationdate="20221021T081150Z">
-        <seg>`latexmlc` acepta un parámetro `--javascript` que puedes usar para incluir uno de los [scripts alternativos](#respaldo_para_navegadores_sin_ compatibilidad_con_mathml) mencionados anteriormente:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183417Z" creationid="Nachec" creationdate="20221021T081150Z">
+        <seg>`latexmlc` acepta un parámetro `--javascript` que puedes usar para incluir uno de los [scripts alternativos](#respaldo_para_navegadores_sin_compatibilidad_con_mathml) mencionados anteriormente:</seg>
       </tuv>
     </tu>
     <tu>
