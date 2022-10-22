@@ -14731,12 +14731,12 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - {{glossary("Entity header")}}
 - {{HTTPHeader("Digest")}}/ {{HTTPHeader("Want-Digest")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153845Z" creationid="Nachec" creationdate="20221022T022425Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T164107Z" creationid="Nachec" creationdate="20221022T022425Z">
         <seg>- [RFC 9110, sección 3.2: Representaciones](https://httpwg.org/specs/rfc9110.html#representations)
 - [Lista de todas las cabeceras HTTP](/es/docs/Web/HTTP/Headers)
-- {{Glossary("Payload header")}}
-- {{Glossary("Entity header")}}
-- {{HTTPHeader("Digest")}} / {{HTTPHeader("Want-Digest")}}</seg>
+- {{Glossary("Payload header", "Cabecera de carga útil — payload")}}
+- {{Glossary("Entity header", "Cabecera de entidad — entity")}}
+- {{HTTPHeader("Digest", "Asimilar — digest")}} / {{HTTPHeader("Want-Digest", "Deseo asimilar — want-digest")}}</seg>
       </tuv>
     </tu>
     <tu>
