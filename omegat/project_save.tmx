@@ -14835,6 +14835,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Safari](&lt;https://en.wikipedia.org/wiki/Safari_(web_browser)&gt;) on Wikipedia
+- [Safari on apple.com](https://www.apple.com/safari/)
+- [The WebKit project](https://webkit.org/)
+- [WebKit nightly build](https://webkit.org/build-archives/)
+- [Reporting a bug for Safari](https://bugs.webkit.org/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184913Z" creationid="Nachec" creationdate="20221022T184913Z">
+        <seg>- [Safari](&lt;https://en.wikipedia.org/wiki/Safari_(web_browser)&gt;) en Wikipedia
+- [Safari en apple.com](https://www.apple.com/safari/)
+- [El proyecto WebKit](https://webkit.org/)
+- [Compilación nocturna de WebKit](https://webkit.org/build-archives/)
+- [Reportar un error para Safari](https://bugs.webkit.org/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Same-origin policy](/en-US/docs/Web/Security/Same-origin_policy)
 - {{Glossary("Site")}}
 - [HTML specification: origin](https://html.spec.whatwg.org/multipage/origin.html#origin)</seg>
@@ -20561,6 +20577,20 @@ tags:</seg>
         <seg>---
 title: Anatomía de un video juego
 slug: Games/Anatomy
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Apple Safari
+slug: Glossary/Apple_Safari
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184656Z" creationid="Nachec" creationdate="20221022T184656Z">
+        <seg>---
+title: Apple Safari
+slug: Glossary/Apple_Safari
 tags:</seg>
       </tuv>
     </tu>
@@ -39248,6 +39278,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's based on the open source [WebKit](https://webkit.org/) engine.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184733Z" creationid="Nachec" creationdate="20221022T184733Z">
+        <seg>Se basa en el motor [WebKit](https://webkit.org/) de código abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's best for site designers to avoid using language detection via this header as it can lead to a poor user experience.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T100509Z" creationid="Nachec" creationdate="20221022T093144Z">
@@ -53459,6 +53497,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T165012Z" creationid="gitnacho" creationdate="20221012T165012Z">
         <seg>[Lynx](https://lynx.browser.org/), un navegador web de terminal basado en texto, es ideal para ver cómo los usuarios con discapacidades visuales experimentan tu sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Safari](https://www.apple.com/safari/) is a {{Glossary("Browser","Web browser")}} developed by Apple and bundled with both macOS and iOS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184719Z" creationid="Nachec" creationdate="20221022T184719Z">
+        <seg>[Safari](https://www.apple.com/safari/) es un {{Glossary("Navegador","Navegador web")}} desarrollado por Apple e incluido con macOS e iOS.</seg>
       </tuv>
     </tu>
     <tu>
