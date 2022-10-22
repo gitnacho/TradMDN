@@ -14502,6 +14502,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [List of all HTTP headers](/en-US/docs/Web/HTTP/Headers)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141947Z" creationid="Nachec" creationdate="20221022T141947Z">
+        <seg>- [Lista de todas las cabeceras HTTP](/es/docs/Web/HTTP/Headers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [List of all HTTP headers](/en-US/docs/Web/HTTP/Headers)
 - Syntax of [headers](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2) in the HTTP specification
 - [Glossary](/en-US/docs/Glossary)</seg>
@@ -30254,8 +30262,8 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
       <tuv lang="en-US">
         <seg>A **payload header** is an {{Glossary("HTTP_header", "HTTP header")}} that describes the payload information related to safe transport and reconstruction of the original resource {{Glossary("Representation header", "representation")}}, from one or more messages.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141846Z" creationid="Nachec" creationdate="20221022T141846Z">
-        <seg>Una **cabecera de carga útil** —`payload`— es una {{Glossary("HTTP_header", "Cabecera HTTP")}} que describe la información de carga útil relacionada con el transporte seguro y la reconstrucción del recurso {{Glossary("Representation header", "representación")}} original, de uno o más mensajes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T142222Z" creationid="Nachec" creationdate="20221022T141846Z">
+        <seg>Una **cabecera de carga útil** —`payload`— es una {{Glossary("HTTP_header", "Cabecera HTTP")}} que describe la información de carga útil relacionada con el transporte seguro y la reconstrucción y  {{Glossary("Representation header", "representación")}} del recurso original, de uno o más mensajes.</seg>
       </tuv>
     </tu>
     <tu>
