@@ -34359,8 +34359,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, the {{HTTPHeader("Content-Type")}} header is referred to as a {{glossary("representation header")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020927Z" creationid="Nachec" creationdate="20221022T020927Z">
-        <seg>Por ejemplo, la cabecera {{HTTPHeader("Content-Type")}} se denomina {{Glossary("representation header")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T111442Z" creationid="Nachec" creationdate="20221022T020927Z">
+        <seg>Por ejemplo, la cabecera {{HTTPHeader("Content-Type")}} se denomina {{Glossary("representation header", "Cabecera de representación — representation")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36881,8 +36881,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In addition, [CORS](/en-US/docs/Glossary/CORS) defines a subset of request headers as {{glossary('simple header', 'simple headers')}}, request headers that are always considered authorized and are not explicitly listed in responses to {{glossary("preflight request", "preflight")}} requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021045Z" creationid="Nachec" creationdate="20221022T021045Z">
-        <seg>Además, [CORS](/es/docs/Glossary/CORS) define un subconjunto de cabeceras de solicitud como {{Glossary('simple header', 'simple headers')}}, cabeceras de solicitud que siempre se consideran autorizadas y no se enumeran explícitamente en las respuestas a solicitudes {{Glossary("preflight request", "preflight")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T111839Z" creationid="Nachec" creationdate="20221022T021045Z">
+        <seg>Además, [CORS](/es/docs/Glossary/CORS) define un subconjunto de cabeceras de solicitud como {{Glossary('simple header', 'Cabeceras simples')}}, cabeceras de solicitud que siempre se consideran autorizadas y no se enumeran explícitamente en las respuestas a solicitudes de {{Glossary("preflight request", "preverificación — preflight")}}.</seg>
       </tuv>
     </tu>
     <tu>
