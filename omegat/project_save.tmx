@@ -43253,6 +43253,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some, like [Sublime Text](https://www.sublimetext.com/), you can test as long as you like, but you're encouraged to pay.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T225613Z" creationid="Nachec" creationdate="20221022T225613Z">
+        <seg>Some, like [Sublime Text](https://www.sublimetext.com/), you can test as long as you like, but you're encouraged to pay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Something much longer that really goes into a lot of detail about</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185215Z" creationid="gitnacho" creationdate="20221008T185215Z">
@@ -48608,8 +48616,8 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       <tuv lang="en-US">
         <seg>This could be a text editor (e.g. [Visual Studio Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [GNU Emacs](https://www.gnu.org/software/emacs/), or [VIM](https://www.vim.org/)), or a hybrid editor (e.g. [Dreamweaver](https://www.adobe.com/products/dreamweaver.html) or [WebStorm](https://www.jetbrains.com/webstorm/)).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164629Z" creationid="gitnacho" creationdate="20221012T164629Z">
-        <seg>Podría ser un editor de texto (por ejemplo, [Visual Studio Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https ://www.sublimetext.com/), [GNU Emacs](https://www.gnu.org/software/emacs/), o [VIM](https://www.vim.org/)), o un editor híbrido (por ejemplo, [Dreamweaver](https://www.adobe.com/products/dreamweaver.html) o [WebStorm](https://www.jetbrains.com/webstorm/)).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T225640Z" creationid="gitnacho" creationdate="20221012T164629Z">
+        <seg>Podría ser un editor de texto (por ejemplo, [Visual Studio Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [GNU Emacs](https://www.gnu.org/software/emacs/), o [VIM](https://www.vim.org/)), o un editor híbrido (por ejemplo, [Dreamweaver](https://www.adobe.com/products/dreamweaver.html) o [WebStorm](https://www.jetbrains.com/webstorm/)).</seg>
       </tuv>
     </tu>
     <tu>
