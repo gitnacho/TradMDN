@@ -46123,8 +46123,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The more precisely headers are sent, the more entropy is sent, allowing for more HTTP fingerprinting and corresponding privacy concerns.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T100940Z" creationid="Nachec" creationdate="20221022T094451Z">
-        <seg>Cuanto más precisas se envían las cabeceras, más entropía se envía, lo que permite más huellas dactilares HTTP y las preocupaciones de privacidad correspondientes aumentan exponencialmente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T174708Z" creationid="Nachec" creationdate="20221022T094451Z">
+        <seg>Cuanto más precisas se envíen las cabeceras, más entropía se envía, lo que permite más huellas dactilares HTTP y las correspondientes preocupaciones de privacidad aumentan exponencialmente.</seg>
       </tuv>
     </tu>
     <tu>
