@@ -34188,8 +34188,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For more information see [HTTP Caching &gt; Varying responses](/en-US/docs/Web/HTTP/Caching#varying_responses).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091926Z" creationid="gitnacho" creationdate="20221012T091926Z">
-        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP &gt; Variación de respuestas](/es/docs/Web/HTTP/Caching#respuestas_vary_).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094253Z" creationid="gitnacho" creationdate="20221012T091926Z">
+        <seg>Para obtener más información, consulta [Almacenamiento en caché HTTP &gt; Respuestas `Vary`](/es/docs/Web/HTTP/Caching#vary).</seg>
       </tuv>
     </tu>
     <tu>
