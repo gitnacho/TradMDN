@@ -27784,8 +27784,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;td&gt;{{Glossary("Representation header")}}&lt;/td&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T103959Z" creationid="Nachec" creationdate="20221022T102705Z">
-        <seg>&lt;td&gt;{{Glossary("Representation header", "Cabecera de representación")}}&lt;/td&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T124703Z" creationid="Nachec" creationdate="20221022T102705Z">
+        <seg>&lt;td&gt;{{Glossary("Representation header", "Cabecera de representación — representation")}}&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28699,8 +28699,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** Language tags are formally defined in [RFC 5646](https://datatracker.ietf.org/doc/html/rfc5646), which rely on the [ISO 639](https://en.wikipedia.org/wiki/ISO_639) standard (quite often the [ISO 639-1 code list](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)) for [language codes](https://en.wikipedia.org/wiki/Language_code) to be used.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102915Z" creationid="Nachec" creationdate="20221022T102915Z">
-        <seg>&gt; **Nota:** Las etiquetas de idioma se definen formalmente en [RFC 5646](https://datatracker.ietf.org/doc/html/rfc5646), que se basan en [ISO 639](https://en. wikipedia.org/wiki/ISO_639) estándar (muy a menudo la [lista de códigos ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)) para [códigos de idioma](https://en .wikipedia.org/wiki/Language_code) que se utilizará.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125100Z" creationid="Nachec" creationdate="20221022T102915Z">
+        <seg>&gt; **Nota:** Las etiquetas de idioma se definen formalmente en [RFC 5646](https://datatracker.ietf.org/doc/html/rfc5646), que se basan en [ISO 639](https://en.wikipedia.org/wiki/ISO_639) estándar (muy a menudo la [lista de códigos ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)) para [códigos de idioma](https://en .wikipedia.org/wiki/Language_code) que se utilizará.</seg>
       </tuv>
     </tu>
     <tu>
