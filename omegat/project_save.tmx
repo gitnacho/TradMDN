@@ -20231,9 +20231,9 @@ title: "MDN Web Docs Glossary: Definitions of Web-related terms"
 slug: Glossary
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170049Z" creationid="Nachec" creationdate="20221022T170049Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170843Z" creationid="Nachec" creationdate="20221022T170049Z">
         <seg>---
-title: "Glosario de MDN Web Docs: Definiciones de términos relacionados con la Web"
+title: "Glosario de MDN Web Docs: Definición de términos relacionados con la Web"
 slug: Glossary
 tags:</seg>
       </tuv>
@@ -25678,6 +25678,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220830T082331Z" creationid="gitnacho" creationdate="20220830T082331Z">
         <seg>&lt;/ol&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/ol&gt;
+&lt;/section&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170454Z" creationid="Nachec" creationdate="20221022T170454Z">
+        <seg>&lt;/ol&gt;
+&lt;/section&gt;</seg>
       </tuv>
     </tu>
     <tu>
