@@ -18748,6 +18748,20 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{HTTPHeader("Accept")}},
+- {{HTTPHeader("Accept-Language")}},
+- {{HTTPHeader("Content-Language")}},
+- {{HTTPHeader("Content-Type")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T163346Z" creationid="Nachec" creationdate="20221022T163346Z">
+        <seg>- {{HTTPHeader("Accept")}},
+- {{HTTPHeader("Accept-Language")}},
+- {{HTTPHeader("Content-Language")}},
+- {{HTTPHeader("Content-Type")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{HTTPHeader("Accept-Language")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220453Z" creationid="gitnacho" creationdate="20221011T220453Z">
