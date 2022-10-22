@@ -20391,10 +20391,11 @@ title: 406 Not Acceptable
 slug: Web/HTTP/Status/406
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T135619Z" creationid="Nachec" creationdate="20221022T135619Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194238Z" creationid="Nachec" creationdate="20221022T135619Z">
         <seg>---
 title: 406 No Aceptable
 slug: Web/HTTP/Status/406
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -20536,10 +20537,11 @@ title: Accept-Language
 slug: Web/HTTP/Headers/Accept-Language
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T104457Z" creationid="Nachec" creationdate="20221022T104457Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194159Z" creationid="Nachec" creationdate="20221022T104457Z">
         <seg>---
 title: Accept-Language
 slug: Web/HTTP/Headers/Accept-Language
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21017,10 +21019,11 @@ title: Content negotiation
 slug: Web/HTTP/Content_negotiation
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T080350Z" creationid="Nachec" creationdate="20221022T080350Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194041Z" creationid="Nachec" creationdate="20221022T080350Z">
         <seg>---
 title: Negociación de contenido
 slug: Web/HTTP/Content_negotiation
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21031,10 +21034,11 @@ title: Content-Language
 slug: Web/HTTP/Headers/Content-Language
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T101238Z" creationid="Nachec" creationdate="20221022T101238Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194214Z" creationid="Nachec" creationdate="20221022T101238Z">
         <seg>---
 title: Content-Language
 slug: Web/HTTP/Headers/Content-Language
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21087,10 +21091,11 @@ title: Cross-Origin Resource Sharing (CORS)
 slug: Web/HTTP/CORS
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T211008Z" creationid="gitnacho" creationdate="20221011T211008Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194141Z" creationid="gitnacho" creationdate="20221011T211008Z">
         <seg>---
 title: Intercambio de recursos de origen cruzado (CORS)
 slug: Web/HTTP/CORS
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -21852,10 +21857,11 @@ title: Promise.resolve()
 slug: Web/JavaScript/Reference/Global_Objects/Promise/resolve
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T072414Z" creationid="gitnacho" creationdate="20221002T072414Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194356Z" creationid="gitnacho" creationdate="20221002T072414Z">
         <seg>---
 title: Promise.resolve()
 slug: Web/JavaScript/Reference/Global_Objects/Promise/resolve
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
@@ -22272,10 +22278,11 @@ title: Web technology for developers
 slug: Web
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T092115Z" creationid="gitnacho" creationdate="20221002T091930Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194306Z" creationid="gitnacho" creationdate="20221002T091930Z">
         <seg>---
 title: Tecnología para desarrolladores Web
 slug: Web
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
