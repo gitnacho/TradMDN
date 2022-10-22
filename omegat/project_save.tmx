@@ -14841,12 +14841,12 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [WebKit nightly build](https://webkit.org/build-archives/)
 - [Reporting a bug for Safari](https://bugs.webkit.org/)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184913Z" creationid="Nachec" creationdate="20221022T184913Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T185127Z" creationid="Nachec" creationdate="20221022T184913Z">
         <seg>- [Safari](&lt;https://en.wikipedia.org/wiki/Safari_(web_browser)&gt;) en Wikipedia
 - [Safari en apple.com](https://www.apple.com/safari/)
 - [El proyecto WebKit](https://webkit.org/)
 - [Compilación nocturna de WebKit](https://webkit.org/build-archives/)
-- [Reportar un error para Safari](https://bugs.webkit.org/)</seg>
+- [Reportar un error de Safari](https://bugs.webkit.org/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53503,8 +53503,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>[Safari](https://www.apple.com/safari/) is a {{Glossary("Browser","Web browser")}} developed by Apple and bundled with both macOS and iOS.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184719Z" creationid="Nachec" creationdate="20221022T184719Z">
-        <seg>[Safari](https://www.apple.com/safari/) es un {{Glossary("Navegador","Navegador web")}} desarrollado por Apple e incluido con macOS e iOS.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T185011Z" creationid="Nachec" creationdate="20221022T184719Z">
+        <seg>[Safari](https://www.apple.com/safari/) es un {{Glossary("Browser","Navegador web")}} desarrollado por Apple e incluido con macOS e iOS.</seg>
       </tuv>
     </tu>
     <tu>
