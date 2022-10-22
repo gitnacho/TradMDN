@@ -14687,6 +14687,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [RFC 7231, section 3.3: Payload semantics](https://datatracker.ietf.org/doc/html/rfc7231#section-3.3)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141739Z" creationid="Nachec" creationdate="20221022T141739Z">
+        <seg>- [RFC 7231, sección 3.3: semántica de carga útil — `payload`](https://datatracker.ietf.org/doc/html/rfc7231#section-3.3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [RFC 7469](https://datatracker.ietf.org/doc/html/rfc7469)
 - Wikipedia: [HTTP Public Key Pinning](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning)</seg>
       </tuv>
