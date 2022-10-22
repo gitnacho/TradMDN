@@ -14285,6 +14285,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [RFC 9110, section 3.2: Representations](https://httpwg.org/specs/rfc9110.html#representations)
+- [List of all HTTP headers](/en-US/docs/Web/HTTP/Headers)
+- {{Glossary("Payload header")}}
+- {{glossary("Entity header")}}
+- {{HTTPHeader("Digest")}}/ {{HTTPHeader("Want-Digest")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T022425Z" creationid="Nachec" creationdate="20221022T022425Z">
+        <seg>- [RFC 9110, sección 3.2: Representaciones](https://httpwg.org/specs/rfc9110.html#representations)
+- [Lista de todas las cabeceras HTTP](/es/docs/Web/HTTP/Headers)
+- {{Glossary("Payload header")}}
+- {{Glossary("Entity header")}}
+- {{HTTPHeader("Digest")}}/ {{HTTPHeader("Want-Digest")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [RedBot](https://redbot.org/)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064813Z" creationid="gitnacho" creationdate="20221012T064813Z">
