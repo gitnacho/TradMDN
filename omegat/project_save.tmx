@@ -26650,6 +26650,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;li&gt;&lt;strong&gt;&lt;a href="/en-US/docs/Glossary"&gt;MDN Web Docs Glossary&lt;/a&gt;&lt;/strong&gt;{{ListSubpagesForSidebar("/en-us/docs/Glossary", 1)}}&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170452Z" creationid="Nachec" creationdate="20221022T170452Z">
+        <seg>&lt;li&gt;&lt;strong&gt;&lt;a href="/es/docs/Glossary"&gt;Glosario de documentos web de MDN&lt;/a&gt;&lt;/strong&gt;{{ListSubpagesForSidebar("/es/docs/Glossary", 1) }}&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;li&gt;&lt;strong&gt;Spacing is automatically added around the &lt;code&gt;&amp;lt;mo&amp;gt;&lt;/code&gt; elements whose text is "∀", "∊", "=" or a comma&lt;/strong&gt;.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193405Z" creationid="Nachec" creationdate="20221021T193405Z">
@@ -29395,6 +29403,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T090731Z" creationid="gitnacho" creationdate="20221019T090731Z">
         <seg>&gt; **Nota:** Esta característica está disponible en [Web Workers](/es/docs/Web/API/Web_Workers_API).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** This glossary is a never-ending work in progress.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170416Z" creationid="Nachec" creationdate="20221022T170416Z">
+        <seg>&gt; **Nota:** Este glosario es un trabajo en progreso interminable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35373,6 +35389,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213139Z" creationid="Nachec" creationdate="20221021T213139Z">
         <seg>Los atributos globales se pueden especificar en todos los [elementos de MathML](/es/docs/Web/MathML/Element), _incluso en aquellos que no están especificados en el estándar_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glossary terms can be selected from the sidebar.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170405Z" creationid="Nachec" creationdate="20221022T170405Z">
+        <seg>Los términos del glosario se pueden seleccionar en la barra lateral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48711,6 +48735,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This glossary provides definitions of words and abbreviations you need to know to successfully understand and build for the web.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170357Z" creationid="Nachec" creationdate="20221022T170357Z">
+        <seg>Este glosario proporciona definiciones de palabras y abreviaturas que necesitas conocer para comprender y crear correctamente para la web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This has huge implications for the web platform — it provides a way to run code written in multiple languages on the web at near-native speed, with client apps running on the web that previously couldn't have done so.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T004039Z" creationid="gitnacho" creationdate="20221003T004039Z">
@@ -51493,6 +51525,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web technologies contain long lists of jargon and abbreviations that are used in documentation and coding.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170342Z" creationid="Nachec" creationdate="20221022T170159Z">
+        <seg>Las tecnologías web contienen largas listas de la jerga y abreviaturas que se utilizan en la documentación y codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WebAssembly Threads (supported in [Firefox 79](/en-US/docs/Mozilla/Firefox/Releases/79) onwards) allow WebAssembly Memory objects to be shared across multiple WebAssembly instances running in separate Web Workers, in the same fashion as [`SharedArrayBuffer`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer)s in JavaScript.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T080411Z" creationid="gitnacho" creationdate="20221007T080344Z">
@@ -52779,6 +52819,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221003T090927Z">
         <seg>Puedes comenzar instalando la cadena de herramientas necesaria, compilando un programa Rust de ejemplo en un paquete npm de WebAssembly y usándolo en una aplicación web de muestra, en nuestro artículo [Compilar de Rust a WebAssembly](/es/docs/WebAssembly/Rust_to_wasm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can help improve it by [writing new entries](/en-US/docs/MDN/Writing_guidelines/Howto/Write_a_new_entry_in_the_Glossary) or by making the existing ones better.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170431Z" creationid="Nachec" creationdate="20221022T170431Z">
+        <seg>Puedes ayudar a mejorarlo [escribiendo nuevas entradas](/es/docs/MDN/Writing_guidelines/Howto/Write_a_new_entry_in_the_Glossary) o mejorando las existentes.</seg>
       </tuv>
     </tu>
     <tu>
