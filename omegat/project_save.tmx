@@ -13552,8 +13552,9 @@ rue: Nachec
         <seg>- WebMechanics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T211405Z" creationid="gitnacho" creationdate="20221017T211405Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154356Z" creationid="gitnacho" creationdate="20221017T211405Z">
         <seg>- WebMechanics
+rue: Nachec✓
 ---</seg>
       </tuv>
     </tu>
@@ -20941,6 +20942,20 @@ tags:</seg>
         <seg>---
 title: Instrucción Drop
 slug: WebAssembly/Reference/Control_flow/Drop
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Entity header
+slug: Glossary/Entity_header
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154330Z" creationid="Nachec" creationdate="20221022T154330Z">
+        <seg>---
+title: Cabecera entity
+slug: Glossary/Entity_header
 tags:</seg>
       </tuv>
     </tu>
@@ -29832,6 +29847,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Warning:** The current HTTP/1.1 specification no longer refers to entities, entity headers or entity-body.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154726Z" creationid="Nachec" creationdate="20221022T154726Z">
+        <seg>&gt; **Advertencia:** La especificación HTTP/1.1 actual ya no hace referencia a entidades, cabeceras de entidad o cuerpo de entidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Warning:** This attribute must not be used if the `src` attribute is absent (i.e. for inline scripts), in this case it would have no effect.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T192353Z" creationid="gitnacho" creationdate="20221003T123718Z">
@@ -34681,8 +34704,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, the same data might be formatted as a particular media type such as XML or JSON, localized to a particular written language or geographical region, and/or compressed or otherwise encoded for transmission.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153441Z" creationid="Nachec" creationdate="20221022T021920Z">
-        <seg>Por ejemplo, los mismos datos pueden estar formateados como un tipo de medio en particular, como XML o JSON, escrito en un idioma localizado o una región geográfica en particular, y/o comprimidos o codificados de otro modo para la transmisión.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154119Z" creationid="Nachec" creationdate="20221022T021920Z">
+        <seg>Por ejemplo, los mismos datos pueden estar formateados como un tipo de medio en particular, como XML o JSON, escrito en un idioma localizado o una región geográfica en particular, y/o comprimidos o codificados de otro modo para su transmisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41768,8 +41791,8 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>Representation headers include: {{HTTPHeader("Content-Type")}}, {{HTTPHeader("Content-Encoding")}}, {{HTTPHeader("Content-Language")}}, and {{HTTPHeader("Content-Location")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153800Z" creationid="Nachec" creationdate="20221022T022235Z">
-        <seg>Las cabeceras de representación incluyen: {{HTTPHeader("Content-Type")}}, {{HTTPHeader("Content-Encoding")}}, {{HTTPHeader("Content-Language")}} y {{HTTPHeader("Content-Location")}}")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154111Z" creationid="Nachec" creationdate="20221022T022235Z">
+        <seg>Las cabeceras de representación incluyen: {{HTTPHeader("Content-Type")}}, {{HTTPHeader("Content-Encoding")}}, {{HTTPHeader("Content-Language")}} y {{HTTPHeader("Content-Location")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55434,6 +55457,24 @@ Content-Length: 55
 Origin: https://foo.example
 Pragma: no-cache
 Cache-Control: no-cache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```http
+POST /myform.html HTTP/1.1
+Host: developer.mozilla.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0
+Content-Length: 128
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154704Z" creationid="Nachec" creationdate="20221022T154704Z">
+        <seg>```http
+POST /myform.html HTTP/1.1
+Host: developer.mozilla.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0
+Content-Length: 128
+```</seg>
       </tuv>
     </tu>
     <tu>
