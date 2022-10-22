@@ -18648,6 +18648,18 @@ rue: Nachec
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{Glossary("CORS-safelisted response header")}}
+- {{Glossary("Forbidden header name")}}
+- {{Glossary("Request header")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T171313Z" creationid="Nachec" creationdate="20221022T171157Z">
+        <seg>- {{Glossary("CORS-safelisted response header", "Cabecera de respuesta incluida en la lista segura de CORS")}}
+- {{Glossary("Forbidden header name")}}
+- {{Glossary("Request header")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{Glossary("CORS-safelisted_request_header", "CORS-safelisted request header")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125624Z" creationid="Nachec" creationdate="20221022T125624Z">
@@ -52835,8 +52847,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You can help improve it by [writing new entries](/en-US/docs/MDN/Writing_guidelines/Howto/Write_a_new_entry_in_the_Glossary) or by making the existing ones better.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170431Z" creationid="Nachec" creationdate="20221022T170431Z">
-        <seg>Puedes ayudar a mejorarlo [escribiendo nuevas entradas](/es/docs/MDN/Writing_guidelines/Howto/Write_a_new_entry_in_the_Glossary) o mejorando las existentes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170943Z" creationid="Nachec" creationdate="20221022T170431Z">
+        <seg>Puedes ayudar a mejorarlo [escribiendo nuevas entradas](/es/docs/MDN/Writing_guidelines/Howto/Write_a_new_entry_in_the_glossary) o mejorando las existentes.</seg>
       </tuv>
     </tu>
     <tu>
