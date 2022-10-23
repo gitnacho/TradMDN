@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![A big stack of boxes or crates sat on top of one another](boxes.jpg)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140839Z" creationid="Nachec" creationdate="20221023T140839Z">
+        <seg>![Una gran pila de cajas o cajones puestos uno encima del otro.](boxes.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![A file structure in macOS finder, showing an images folder with an image in, empty scripts and styles folders, and an index.html file](file-structure.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050240Z" creationid="Nachec" creationdate="20221023T050240Z">
@@ -1068,6 +1076,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074414Z" creationid="gitnacho" creationdate="20221007T074414Z">
         <seg>## Operaciones masivas de memoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## CSS: all about boxes</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140655Z" creationid="Nachec" creationdate="20221023T140655Z">
+        <seg>## Cajas, cajas, en CSS todo se trata de cajas</seg>
       </tuv>
     </tu>
     <tu>
@@ -42156,6 +42172,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most HTML elements on your page can be thought of as boxes sitting on top of other boxes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140819Z" creationid="Nachec" creationdate="20221023T140819Z">
+        <seg>Puedes pensar en la mayoría de los elementos HTML de tu página como cajas apiladas una sobre la otra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most macros will also take a second argument allowing you to change the display text (documentation can be found at the links in the left-most column below).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T105047Z" creationid="gitnacho" creationdate="20221005T105047Z">
@@ -43738,6 +43762,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Photo from [https://www.geograph.org.uk/photo/3418115](https://www.geograph.org.uk/photo/3418115) Copyright © [Jim Barton](https://www.geograph.org.uk/profile/26362) [cc-by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140919Z" creationid="Nachec" creationdate="20221023T140919Z">
+        <seg>Foto de [https://www.geograph.org.uk/photo/3418115](https://www.geograph.org.uk/photo/3418115) Copyright © [Jim Barton](https://www.geograph .org.uk/profile/26362) [cc-by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please [file bugs](https://github.com/rustwasm/wasm-bindgen/issues/new) if something is missing.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063034Z" creationid="gitnacho" creationdate="20221004T063034Z">
@@ -45205,6 +45237,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185215Z" creationid="gitnacho" creationdate="20221008T185215Z">
         <seg>Algo mucho más largo que realmente entra en muchos detalles sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Something you'll notice about writing CSS: a lot of it is about boxes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140744Z" creationid="Nachec" creationdate="20221023T140713Z">
+        <seg>Una cosa que notarás sobre la escritura de CSS es que trata mucho sobre cajas</seg>
       </tuv>
     </tu>
     <tu>
@@ -51313,6 +51353,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T205030Z" creationid="gitnacho" creationdate="20221011T205030Z">
         <seg>Esto incluye escuchas adjuntos al mismo elemento, así como aquellos adjuntos a elementos que se atravesarán más adelante (durante la fase de captura, por ejemplo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes setting size, color, and position.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140801Z" creationid="Nachec" creationdate="20221023T140719Z">
+        <seg>—ajustar su tamaño, color, posición, etc—.</seg>
       </tuv>
     </tu>
     <tu>
