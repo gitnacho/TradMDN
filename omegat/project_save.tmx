@@ -1280,6 +1280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## File paths</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044717Z" creationid="Nachec" creationdate="20221023T044717Z">
+        <seg>## Rutas de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## First things first: planning</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060933Z" creationid="gitnacho" creationdate="20221019T060933Z">
@@ -29392,6 +29400,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** On Windows computers, you might have trouble seeing the file names, because Windows has an option called **Hide extensions for known file types** turned on by default.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044619Z" creationid="Nachec" creationdate="20221023T044619Z">
+        <seg>&gt; **Nota:** En las computadoras con Windows, es posible que tengas problemas para ver los nombres de los archivos, porque de manera predeterminada, Windows tiene activada una opción llamada **Ocultar extensiones para tipos de archivos conocidos**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** One element can have several such handlers, even for the exact same event—particularly if separate, independent code modules attach them, each for its own independent purposes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T201914Z" creationid="gitnacho" creationdate="20221011T201914Z">
@@ -35398,6 +35414,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more specific information covering your version of Windows, you can search on the web.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044707Z" creationid="Nachec" creationdate="20221023T044707Z">
+        <seg>Para obtener información más específica sobre tu versión de Windows, puedes buscar en la web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more, consult the [Cargo](https://doc.rust-lang.org/cargo/guide/) and [Rust Linkage](https://doc.rust-lang.org/reference/linkage.html) documentation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063904Z" creationid="gitnacho" creationdate="20221004T063904Z">
@@ -35674,6 +35698,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T173839Z" creationid="gitnacho" creationdate="20221008T173839Z">
         <seg>GFM, a su vez, es un superconjunto de CommonMark ([https://spec.commonmark.org/](https://spec.commonmark.org/)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally, you can turn this off by going to Windows Explorer, selecting the **Folder options…** option, unchecking the **Hide extensions for known file types** check box, then clicking **OK**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044658Z" creationid="Nachec" creationdate="20221023T044658Z">
+        <seg>Generalmente, la puedes desactivar yendo al Explorador de Windows, selecciona la opción **Opciones de directorio...**, desmarca la casilla de verificación **Ocultar extensiones para tipos de archivo conocidos** y luego haz clic en **Aceptar**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50737,6 +50769,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To demonstrate this, we will insert a little bit of HTML into our `index.html` file, and make it display the image you chose in the article ["What will your website look like?"](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like) Alternatively, you can choose an existing image at your disposal, on your computer or from the Web, and use it in the following steps:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045002Z" creationid="Nachec" creationdate="20221023T045002Z">
+        <seg>Para demostrarlo, insertaremos un poco de HTML en nuestro archivo `index.html` y haremos que muestre la imagen que elegiste en el artículo [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#imágenes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To display text _with_ notational meaning, use {{ MathMLElement("mi") }}, {{ MathMLElement("mn") }}, {{ MathMLElement("mo") }} or {{ MathMLElement("ms") }} instead.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222655Z" creationid="Nachec" creationdate="20221021T222430Z">
@@ -50885,6 +50925,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075314Z" creationid="Nachec" creationdate="20221021T075314Z">
         <seg>Para cargarlo condicionalmente, simplemente inserta una línea en la cabecera de tu documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To make files talk to one another, you have to provide a file path between them — basically a route, so one file knows where another one is.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044731Z" creationid="Nachec" creationdate="20221023T044731Z">
+        <seg>Para que los archivos se comuniquen entre sí, debes proporcionar una ruta de archivo entre ellos, básicamente una ruta, para que un archivo sepa dónde está otro.</seg>
       </tuv>
     </tu>
     <tu>
