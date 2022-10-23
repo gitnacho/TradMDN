@@ -29555,6 +29555,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="col"&gt;Explanation&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182800Z" creationid="Nachec" creationdate="20221023T182800Z">
+        <seg>&lt;th scope="col"&gt;Explicación&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="col"&gt;Selector name&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132623Z" creationid="Nachec" creationdate="20221023T132623Z">
@@ -29699,10 +29707,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Variable&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182742Z" creationid="Nachec" creationdate="20221023T182742Z">
+        <seg>&lt;th scope="row"&gt;Variable&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102712Z" creationid="Nachec" creationdate="20221022T102712Z">
         <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("String")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182805Z" creationid="Nachec" creationdate="20221023T182805Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("String")}}&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32830,6 +32854,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After assigning a value to a variable, you can change it later in the code:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182712Z" creationid="Nachec" creationdate="20221023T182642Z">
+        <seg>Después de haberle dado un valor a la variable, lo puedes volver a cambiar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After converting to assembly, we then use `shared0.wasm` and `shared1.wasm` in JavaScript via the following code:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074325Z" creationid="gitnacho" creationdate="20221007T074158Z">
@@ -32840,8 +32872,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>After declaring a variable, you can give it a value:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182452Z" creationid="Nachec" creationdate="20221023T182452Z">
-        <seg>After declaring a variable, you can give it a value:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182552Z" creationid="Nachec" creationdate="20221023T182452Z">
+        <seg>Tras declarar una variable, puedes asignarle un valor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33080,6 +33112,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075453Z" creationid="Nachec" creationdate="20221021T075453Z">
         <seg>Además, se distribuyen bajo una licencia de código abierto, así que siéntete libre de copiarlos en tu propio servidor y adaptarlos a tus necesidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, you can do both these operations on the same line:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182611Z" creationid="Nachec" creationdate="20221023T182611Z">
+        <seg>Puedes hacer las dos cosas en la misma línea si lo necesitas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43558,6 +43598,14 @@ conversion from text format over to .wasm.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that variables may hold values that have different [data types](/en-US/docs/Web/JavaScript/Data_structures):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182741Z" creationid="Nachec" creationdate="20221023T182741Z">
+        <seg>Advierte que las variables tienen distintos [tipos de datos](/es/docs/Web/JavaScript/Data_structures):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that we don't recommend the general use of `&lt;caption&gt;` elements on tables, since that would also rule out the GFM syntax.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185019Z" creationid="gitnacho" creationdate="20221008T185019Z">
@@ -52418,6 +52466,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a sequence of text known as a string.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182822Z" creationid="Nachec" creationdate="20221023T182822Z">
+        <seg>Esta es una secuencia de texto conocida como cadena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a special type of {{DOMxRef("Client")}} object, with some additional methods and properties available.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T152010Z" creationid="gitnacho" creationdate="20221002T152010Z">
@@ -57092,6 +57148,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You retrieve the value by calling the variable name:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182648Z" creationid="Nachec" creationdate="20221023T182626Z">
+        <seg>Puedes obtener el valor de la variable llamándola por su nombre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should also test how your site performs on mobile devices and on any old browsers your target audience may still be using (such as IE 8–10).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164953Z" creationid="gitnacho" creationdate="20221012T164953Z">
@@ -61043,6 +61107,32 @@ instantiating.then((obj) =&gt; {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+let myVariable = "Bob";
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182617Z" creationid="Nachec" creationdate="20221023T182617Z">
+        <seg>```js
+let nombreDeLaVariable = 'Bob';
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+let myVariable = "Bob";
+myVariable = "Steve";
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182724Z" creationid="Nachec" creationdate="20221023T182724Z">
+        <seg>```js
+let nombreDeLaVariable = 'Bob';
+nombreDeLaVariable = 'Steve';
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 let myVariable;
 ```</seg>
       </tuv>
@@ -61095,6 +61185,30 @@ memory.grow(1);
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210500Z" creationid="gitnacho" creationdate="20221006T210500Z">
         <seg>```js
 memory.grow(1);
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+myVariable = "Bob";
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182600Z" creationid="Nachec" creationdate="20221023T182600Z">
+        <seg>```js
+nombreDeLaVariable = 'Bob';
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+myVariable;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182653Z" creationid="Nachec" creationdate="20221023T182634Z">
+        <seg>```js
+nombreDeLaVariable;
 ```</seg>
       </tuv>
     </tu>
