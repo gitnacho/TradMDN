@@ -28922,6 +28922,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;p&lt;/code&gt;&lt;br /&gt;selects &lt;code&gt;&amp;#x3C;p&gt;&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133817Z" creationid="Nachec" creationdate="20221023T132723Z">
+        <seg>&lt;td&gt;&lt;code&gt;p&lt;/code&gt;&lt;br /&gt;selecciona &lt;code&gt;&amp;#x3C;p&gt;&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;All HTML elements of the specified type.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132705Z" creationid="Nachec" creationdate="20221023T132705Z">
+        <seg>&lt;td&gt;Todos los elementos HTML del tipo especificado.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;Closed source&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122352Z" creationid="gitnacho" creationdate="20221020T122352Z">
@@ -28934,6 +28950,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T121835Z" creationid="gitnacho" creationdate="20221003T121835Z">
         <seg>&lt;td&gt;Script dinámico como &lt;code&gt;text/javascript&lt;/code&gt;.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;Element selector (sometimes called a tag or type selector)&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132659Z" creationid="Nachec" creationdate="20221023T132659Z">
+        <seg>&lt;td&gt;Selector de elementos (a veces llamada etiqueta o selector de tipo)&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29050,6 +29074,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="col"&gt;Example&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132642Z" creationid="Nachec" creationdate="20221023T132642Z">
+        <seg>&lt;th scope="col"&gt;Ejemplo&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="col"&gt;Selector name&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132623Z" creationid="Nachec" creationdate="20221023T132623Z">
@@ -29062,6 +29094,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T140825Z" creationid="gitnacho" creationdate="20221002T140825Z">
         <seg>&lt;th scope="col"&gt;URL&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="col"&gt;What does it select&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132630Z" creationid="Nachec" creationdate="20221023T132630Z">
+        <seg>&lt;th scope="col"&gt;Qué selecciona&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
