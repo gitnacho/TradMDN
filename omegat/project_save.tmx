@@ -3778,6 +3778,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Operators</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184038Z" creationid="Nachec" creationdate="20221023T184038Z">
+        <seg>### Operadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Optical character and handwriting recognitions</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081912Z" creationid="Nachec" creationdate="20221021T081912Z">
@@ -27315,6 +27323,15 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;code
+&gt;9 - 3;&lt;br /&gt;8 * 2; // multiply in JS is an asterisk&lt;br /&gt;9 / 3;&lt;/code</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184419Z" creationid="Nachec" creationdate="20221023T184419Z">
+        <seg>&lt;code&gt;9 - 3;&lt;br /&gt;8 * 2; // La multiplicación en JS es un asterisco&lt;br /&gt;9 / 3;&lt;/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;code class="brush: js"&gt;const thing = 1;&lt;/code&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183516Z" creationid="gitnacho" creationdate="20221008T183516Z">
@@ -27407,6 +27424,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102747Z" creationid="Nachec" creationdate="20221022T102747Z">
         <seg>&lt;code&gt;0-9&lt;/code&gt;, &lt;code&gt;A-Z&lt;/code&gt;, &lt;code&gt;a-z&lt;/code&gt;, espacio o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;6 + 9;&lt;br /&gt;'Hello ' + 'world!';&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184225Z" creationid="Nachec" creationdate="20221023T184225Z">
+        <seg>&lt;code&gt;6 + 9;&lt;br /&gt;"Hola " + "mundo!";&lt;/code&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29381,6 +29406,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;+&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184207Z" creationid="Nachec" creationdate="20221023T184207Z">
+        <seg>&lt;td&gt;&lt;code&gt;+&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;/&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184306Z" creationid="Nachec" creationdate="20221023T184306Z">
+        <seg>&lt;td&gt;&lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;/&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;&lt;code&gt;0&lt;/code&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T190947Z" creationid="gitnacho" creationdate="20221008T190947Z">
@@ -29433,6 +29474,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133817Z" creationid="Nachec" creationdate="20221023T132723Z">
         <seg>&lt;td&gt;&lt;code&gt;p&lt;/code&gt;&lt;br /&gt;selecciona &lt;code&gt;&amp;#x3C;p&gt;&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;Add two numbers together or combine two strings.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184204Z" creationid="Nachec" creationdate="20221023T184204Z">
+        <seg>&lt;td&gt;Se usa para sumar dos números, o juntar dos cadenas en una.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29565,6 +29614,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;These do what you'd expect them to do in basic math.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184303Z" creationid="Nachec" creationdate="20221023T184303Z">
+        <seg>&lt;td&gt;Estos hacen lo que esperarías que hicieran en las matemáticas básicas.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;This is a number.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182936Z" creationid="Nachec" creationdate="20221023T182936Z">
@@ -29653,6 +29710,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="col"&gt;Symbol(s)&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184134Z" creationid="Nachec" creationdate="20221023T184134Z">
+        <seg>&lt;th scope="col"&gt;Símbolo(s)&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="col"&gt;URL&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T140825Z" creationid="gitnacho" creationdate="20221002T140825Z">
@@ -29673,6 +29738,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T120811Z" creationid="gitnacho" creationdate="20221003T120811Z">
         <seg>&lt;th scope="row"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Addition&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184151Z" creationid="Nachec" creationdate="20221023T184151Z">
+        <seg>&lt;th scope="row"&gt;Suma/concatena&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29749,6 +29822,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Operator&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184120Z" creationid="Nachec" creationdate="20221023T184120Z">
+        <seg>&lt;th scope="row"&gt;Operador&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;Permitted ARIA roles&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122250Z" creationid="gitnacho" creationdate="20221003T122250Z">
@@ -29777,6 +29858,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055731Z" creationid="Nachec" creationdate="20221021T055731Z">
         <seg>&lt;th scope="row"&gt;Requisitos previos:&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Subtraction, Multiplication, Division&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184238Z" creationid="Nachec" creationdate="20221023T184238Z">
+        <seg>&lt;th scope="row"&gt;Resta, multiplicación, división&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33379,6 +33468,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T095100Z" creationid="Nachec" creationdate="20221021T095100Z">
         <seg>Un elemento `&lt;mtable&gt;` se puede insertar en cualquier lugar de una fórmula MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An `{{Glossary("operator")}}` is a mathematical symbol that produces a result based on two values (or variables).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184053Z" creationid="Nachec" creationdate="20221023T184053Z">
+        <seg>Un {{Glossary("operator", "operador")}} es básicamente un símbolo matemático que puede actuar sobre dos valores (o variables) y producir un resultado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40311,6 +40408,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T155005Z" creationid="Nachec" creationdate="20221022T155005Z">
         <seg>En el siguiente ejemplo, {{HTTPHeader("Content-Length")}} es una cabecera de entidad, mientras que {{HTTPHeader("Host")}} y {{HTTPHeader("User-Agent")}} son cabeceras de solicitudes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the following table, you can see some of the simplest operators, along with some examples to try in the JavaScript console.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184112Z" creationid="Nachec" creationdate="20221023T184112Z">
+        <seg>En la tabla de abajo aparecen los operadores más simples, con algunos ejemplos para probarlos en la consola del navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60291,6 +60396,18 @@ console.log(test);
 // Este es un ejemplo de JS
 const test = "Hello";
 console.log(test);
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+// This is a comment
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184026Z" creationid="Nachec" creationdate="20221023T184026Z">
+        <seg>```js
+// Este es un comentario
 ```</seg>
       </tuv>
     </tu>
