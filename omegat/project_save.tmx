@@ -5544,6 +5544,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(See [this section about naming rules](/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#variables).) If you are unsure, you can [check your variable name](https://mothereff.in/js-variables) to see if it's valid.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182316Z" creationid="Nachec" creationdate="20221023T182316Z">
+        <seg>(ve [este artículo sobre las reglas existentes](/es/docs/Web/JavaScript/Guide/Grammar_and_types#variables)). Si no estás seguro, puedes [comprobar el nombre de la variable](https://mothereff.in/js-variables) para ver si es válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The "x"-height of the element, `1ex ≈ 0.5em` in many fonts) |
 | `px` | Pixels                                                                                                                      |
 | `in` | Inches (1 inch = 2.54 centimeters)                                                                                          |
@@ -32830,6 +32838,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After declaring a variable, you can give it a value:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182452Z" creationid="Nachec" creationdate="20221023T182452Z">
+        <seg>After declaring a variable, you can give it a value:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After exposing the function to JavaScript using cwrap, you can use that number to find the start of our buffer and copy the image data:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T054348Z" creationid="gitnacho" creationdate="20221004T054348Z">
@@ -39086,6 +39102,16 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have problems in your code, check the case!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182538Z" creationid="Nachec" creationdate="20221023T182447Z">
+        <seg>Si estás teniendo problemas en tu código, revisa las mayúsculas y minúsculas.
+
+&gt; **Nota:** para más detalles sobre la diferencia entre `var` y `let`, ve la [Diferencia entre var y let](/es/docs/Learn/JavaScript/First_steps/Variables#diferencia_entre_var_y_let).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have some Rust code, you can compile it into [WebAssembly](/en-US/docs/WebAssembly) (wasm).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T060930Z" creationid="gitnacho" creationdate="20221004T060930Z">
@@ -41887,6 +41913,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171521Z" creationid="Nachec" creationdate="20221023T171401Z">
         <seg>JavaScript es el lenguaje de programación que debes usar para añadir características interactivas a tu sitio web,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JavaScript is case sensitive.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182422Z" creationid="Nachec" creationdate="20221023T182334Z">
+        <seg>&gt; **Nota:** JavaScript distingue entre mayúsculas y minúsculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52920,6 +52954,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This means `myVariable` is not the same as `myvariable`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182440Z" creationid="Nachec" creationdate="20221023T182340Z">
+        <seg>`miVariable` es una variable distinta a `mivariable`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This means all we need to do to pass a string to JavaScript is to pass out the offset of the string in linear memory along with some way to indicate the length.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064257Z" creationid="gitnacho" creationdate="20221007T064257Z">
@@ -56692,6 +56734,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T144942Z" creationid="gitnacho" creationdate="20221002T144942Z">
         <seg>Puedes modificar la respuesta a estas solicitudes de la forma que desees, utilizando el método {{DOMxRef("FetchEvent.respondWith()")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can name a variable nearly anything, but there are some restrictions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182228Z" creationid="Nachec" creationdate="20221023T182228Z">
+        <seg>&gt; **Nota:** puedes llamar a una variable con casi cualquier nombre, pero hay algunas restricciones</seg>
       </tuv>
     </tu>
     <tu>
