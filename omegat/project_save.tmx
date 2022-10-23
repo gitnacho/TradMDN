@@ -29374,8 +29374,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;td&gt;The element(s) on the page with the specified attribute.&lt;/td&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134052Z" creationid="Nachec" creationdate="20221023T134052Z">
-        <seg>&lt;td&gt;El/los elemento/s en la página con el atributo especificado.&lt;/td&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T165559Z" creationid="Nachec" creationdate="20221023T134052Z">
+        <seg>&lt;td&gt;El(los) elemento(s) en la página con el atributo especificado.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40758,8 +40758,8 @@ relevant header and serve an actual page to the user.</seg>
       <tuv lang="en-US">
         <seg>It defines the element(s) to be styled (in this example, {{HTMLElement("p")}} elements).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131652Z" creationid="Nachec" creationdate="20221023T131652Z">
-        <seg>Esta define el/los elemento/s a dar estilo (en este caso, los elementos {{HTMLElement("p")}} ).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T165521Z" creationid="Nachec" creationdate="20221023T131652Z">
+        <seg>Esta define el(los) elemento(s) a dar estilo (en este caso, los elementos {{HTMLElement("p")}} ).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43398,8 +43398,8 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>Now that we've explored some CSS fundamentals, let's improve the appearance of the example by adding more rules and information to the `style.css` file.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134831Z" creationid="Nachec" creationdate="20221023T134738Z">
-        <seg>Ahora que has explorado lo básico de CSS, empieza por añadir información y algunas reglas más a tu archivo `style.css` para que tu ejemplo se vea bonito. Primero, haz que tus fuentes y texto luzcan un poco mejor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T165948Z" creationid="Nachec" creationdate="20221023T134738Z">
+        <seg>Ahora que has explorado lo básico de CSS, empieza por añadir información y algunas reglas más a tu archivo `style.css` para que tu ejemplo se vea bonito. Ahora, haz que tus fuentes y texto luzcan un poco mejor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44190,8 +44190,8 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>Photo from [https://www.geograph.org.uk/photo/3418115](https://www.geograph.org.uk/photo/3418115) Copyright © [Jim Barton](https://www.geograph.org.uk/profile/26362) [cc-by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0/)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140919Z" creationid="Nachec" creationdate="20221023T140919Z">
-        <seg>Foto de [https://www.geograph.org.uk/photo/3418115](https://www.geograph.org.uk/photo/3418115) Copyright © [Jim Barton](https://www.geograph .org.uk/profile/26362) [cc-by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0/)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T170204Z" creationid="Nachec" creationdate="20221023T140919Z">
+        <seg>Foto de [https://www.geograph.org.uk/photo/3418115](https://www.geograph.org.uk/photo/3418115) Copyright © [Jim Barton](https://www.geograph.org.uk/profile/26362) [cc-by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49085,8 +49085,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The paragraph text has been styled red by our css.](website-screenshot-styled.png)If your paragraph text is red, congratulations!</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130538Z" creationid="Nachec" creationdate="20221023T130538Z">
-        <seg>El texto del párrafo ha sido estilizado en rojo por nuestro css](website-screenshot-styled.png). Si tu texto del párrafo ahora es rojo, ¡felicidades, ya has escrito tu primer CSS de forma exitosa!</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T165749Z" creationid="Nachec" creationdate="20221023T130538Z">
+        <seg>El texto del párrafo ha sido estilizado en rojo por nuestro css](website-screenshot-styled.png). Si tu texto del párrafo ahora es rojo,</seg>
       </tuv>
     </tu>
     <tu>
@@ -56707,8 +56707,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>Your CSS is working.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130545Z" creationid="Nachec" creationdate="20221023T130545Z">
-        <seg>Tu CSS está funcionando.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T165757Z" creationid="Nachec" creationdate="20221023T130545Z">
+        <seg>¡felicidades, ya has escrito tu primer CSS de forma exitosa!</seg>
       </tuv>
     </tu>
     <tu>
