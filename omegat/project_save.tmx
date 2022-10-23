@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![The words: my test image](alt-text-example.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070115Z" creationid="Nachec" creationdate="20221023T070115Z">
+        <seg>![Las palabras: mi imagen de prueba](alt-text-example.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![](cors_principle.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213007Z" creationid="gitnacho" creationdate="20221011T213007Z">
@@ -35639,6 +35647,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, try deliberately changing the path inside your `src` attribute to make it incorrect.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070045Z" creationid="Nachec" creationdate="20221023T070045Z">
+        <seg>Como ejemplo, modifica deliberadamente la ubicación dentro del atributo `src` para que este sea incorrecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, using [LaTeXML](https://math.nist.gov/~BMiller/LaTeXML/) the following commands will convert `foo.tex` into a HTML or EPUB document:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080928Z" creationid="Nachec" creationdate="20221021T080928Z">
@@ -37779,6 +37795,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you save and reload the page, you should see something like this in place of the image:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070055Z" creationid="Nachec" creationdate="20221023T070055Z">
+        <seg>Si guardas y recargas la página, deberías ver algo así en lugar de la imagen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you save your example code now and load it a browser that supports WebAssembly, you'll see this in action!</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181438Z" creationid="gitnacho" creationdate="20221006T181438Z">
@@ -39030,6 +39054,118 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230416Z" creationid="gitnacho" creationdate="20221011T230416Z">
         <seg>En este ejemplo, el contenido cargado originalmente desde `https://foo.example` hace una simple Solicitud GET a un recurso en `https://bar.other` que establece *Cookies*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this example, our current text of "My test image" is no good at all.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070227Z" creationid="Nachec" creationdate="20221023T070227Z">
+        <seg>El texto alt debe proporcionarle al lector la suficiente información como para que este tenga una buena idea de qué muestra la imagen. Por lo que tu texto actual «Mi imagen de prueba» no es para nada bueno. Un texto mucho mejor para el logo de Firefox sería: _«El logo de Firefox: un zorro en llamas rodeando la Tierra»_.
+
+Prueba a dar con mejores textos alt para tu imagen.
+
+&gt; **Nota:** Descubre más acerca de la accesibilidad en el [módulo de aprendizaje sobre la accesibilidad](/es/docs/Web/Accessibility).
+
+## Marcado de texto
+
+Esta sección cubrirá algunos de los elementos HTML básicos que usarás para el marcado de texto.
+
+### Encabezados
+
+Los elementos de encabezado permiten especificar que ciertas partes del contenido son encabezados, o subencabezados del contenido. De la misma forma que un libro tiene un título principal, y que a su vez puede tener títulos por cada capítulo individual, y subtítulos dentro de ellos, un documento HTML puede tenerlos también. HTML posee seis niveles de encabezados, {{htmlelement("h1")}}–{{htmlelement("h6")}}, aunque probablemente solo llegues a usar 3-4 como mucho:
+
+```html
+&lt;h1&gt;Mi título principal&lt;/h1&gt;
+&lt;h2&gt;Mi título de nivel superior&lt;/h2&gt;
+&lt;h3&gt;Mi subtítulo&lt;/h3&gt;
+&lt;h4&gt;Mi sub-subtítulo&lt;/h4&gt;
+```
+
+Intenta ahora añadir un título apropiado para tu página HTML, antes de tu elemento {{htmlelement("img")}}.
+
+&gt; **Nota:** verás que el encabezamiento de nivel 1 tiene un estilo implícito. No utilices elementos de encabezado para hacer el texto más grande o más oscuro, porque este elemento se utiliza por [accesibilidad](/es/docs/Learn/Accessibility/HTML#Contenido_del_texto) y otras [razones como el posicionamiento en buscadores](/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#¿Por_qué_necesitamos_estructura) (_Search Engine Optimization, SEO_). Intenta crear una secuencia significativa de encabezados en tus páginas, sin saltarte niveles.
+
+### Párrafos
+
+Como se explicó más arriba, los elementos {{htmlelement("p")}} se utilizan para encerrar párrafos de texto; los usarás frecuentemente para el marcado de contenido de texto regular:
+
+```html
+&lt;p&gt;Este es un simple parrafo&lt;/p&gt;
+```
+
+Agrega uno o algunos párrafos a tu texto de ejemplo (deberías tenerlo de cuando estudiaste [_¿Cuál será la apariencia de tu sitio web?_](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)), colocados directamente debajo del elemento \&lt;img&gt;.
+
+### Listas
+
+Mucho del contenido web está dado por listas, así que HTML tiene elementos especiales para ellas. El marcado de listas se realiza siempre en al menos dos elementos. Los dos tipos de listas más comunes son las listas ordenadas y las desordenadas:
+
+1. **Las listas desordenadas** son aquellas en las que el orden de los items no es relevante, como en una lista de compras. Estas son encerradas en un elemento {{htmlelement("ul")}} (_unordered list_).
+2. **Las listas ordenadas** son aquellas en las que el orden sí es relevante, como en una receta. Estas son encerradas en un elemento {{htmlelement("ol")}} (_ordered list_).
+
+Cada elemento de la lista se coloca dentro de un elemento {{htmlelement("li")}} _(list item_).
+
+Por ejemplo, si quieres transformar parte del siguiente párrafo en una lista:
+
+```html
+&lt;p&gt;En Mozilla, somos una comunidad de tecnólogos, pensadores, y constructores que trabajan juntos... &lt;/p&gt;
+```
+
+Podrías hacer lo siguiente:
+
+```html
+&lt;p&gt;En Mozilla, somos una comunidad de&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tecnólogos&lt;/li&gt;
+  &lt;li&gt;pensadores&lt;/li&gt;
+  &lt;li&gt;constructores&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;trabajando juntos... &lt;/p&gt;
+```
+
+Intenta agregar una lista ordenada o desordenada en tu página de ejemplo.
+
+## Vínculos
+
+Los vínculos o enlaces son muy importantes —son los que hacen de la web, la web—. Para implementar un vínculo, necesitas usar un vínculo simple — {{htmlelement("a")}} — la _a_ es la abreviatura de la palabra inglesa «anchor» («_ancla_»). Para convertir algún texto dentro de un párrafo en un vínculo, sigue estos pasos:
+
+1. Elige algún texto. Nosotros elegimos «Manifesto Mozilla».
+2. Encierra el texto en un elemento \&lt;a&gt;, así:
+
+    ```html
+    &lt;a&gt;Manifesto Mozilla&lt;/a&gt;
+    ```
+
+3. Proporciónale al elemento \&lt;a&gt; un atributo href, así:
+
+    ```html
+    &lt;a href=""&gt;Manifesto Mozilla&lt;/a&gt;
+    ```
+
+4. Completa el valor de este atributo con la dirección web con la que quieras conectar al vínculo:
+
+    ```html
+    &lt;a href="https://www.mozilla.org/es-AR/about/manifesto/"&gt;Manifesto Mozilla&lt;/a&gt;
+    ```
+
+Podrías obtener resultados inesperados si al comienzo de la dirección web omites la parte `https://` o `http://` llamada _protocolo_. Así que luego del marcado del vínculo, haz clic en él para asegurarte que te dirige a la dirección deseada.
+
+&gt; **Nota:** `href` podría parecer, en principio, una opción un tanto oscura para un nombre de atributo. Si tienes problemas para recordarla, recuerda que se refiere a _**h**ypertext **ref**erence_ (referencia de hipertexto).
+
+Ahora agrega un vínculo a tu página, si es que aún no lo hiciste.
+
+## Conclusión
+
+Si lograste seguir todas las instrucciones de este artículo, deberías terminar con una página que se vea así (también puedes [verla aquí](http://mdn.github.io/beginner-html-site/)):
+
+![Una captura de pantalla de la página web que muestra el logo de Firefox, un encabezado que dice «mozilla es genial» y dos párrafos de texto de relleno.](https://mdn.mozillademos.org/files/9351/finished-test-page-small.png)
+
+Si te estancas en algún paso, puedes comparar tu trabajo con el [código de ejemplo terminado](https://github.com/mdn/beginner-html-site/blob/gh-pages/index.html) en Github.
+
+Aquí realmente solo has rasguñado la superficie de HTML. Para aprender más, ve a la [página de Aprendizaje HTML](/es/Learn/HTML).
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -44153,6 +44289,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Something has gone wrong causing the image not to display.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070030Z" creationid="Nachec" creationdate="20221023T070030Z">
+        <seg>Se produjo algún error en el código que impide que la imagen sea cargada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Something much longer that really goes into a lot of detail about</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185215Z" creationid="gitnacho" creationdate="20221008T185215Z">
@@ -47145,6 +47289,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The keywords for alt text are "descriptive text".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070201Z" creationid="Nachec" creationdate="20221023T070201Z">
+        <seg>Las palabras clave para el texto alternativo son "texto descriptivo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The last missing piece of the puzzle is where `consoleLogString` gets access to the WebAssembly `memory`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064418Z" creationid="gitnacho" creationdate="20221007T064418Z">
@@ -49087,8 +49239,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>They are visually impaired.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T063559Z" creationid="Nachec" creationdate="20221023T063559Z">
-        <seg>Crear descripciones alternas significativas</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T065939Z" creationid="Nachec" creationdate="20221023T063559Z">
+        <seg>Son ciegos o tienen deficiencias visuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52240,6 +52392,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105844Z" creationid="Nachec" creationdate="20221022T105844Z">
         <seg>Los usuarios rara vez lo cambian, y dichos cambios no se recomiendan porque pueden llevar a la toma de huellas dactilares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users with significant visual impairments often use tools called screen readers to read out the alt text to them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070012Z" creationid="Nachec" creationdate="20221023T070012Z">
+        <seg>Los usuarios con impedimentos visuales usualmente utilizan herramientas llamadas _Lectores de pantalla (*Screen Readers*),_ los cuales les leen el texto contenido en el atributo `alt`.</seg>
       </tuv>
     </tu>
     <tu>
