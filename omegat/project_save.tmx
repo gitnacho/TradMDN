@@ -904,6 +904,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## An aside on casing and spacing</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T043958Z" creationid="Nachec" creationdate="20221023T043958Z">
+        <seg>## Una acotación sobre la envoltura y el espaciado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## An example</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085244Z" creationid="gitnacho" creationdate="20221006T085244Z">
@@ -32838,6 +32846,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browsers, web servers, and programming languages do not handle spaces consistently.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044103Z" creationid="Nachec" creationdate="20221023T044103Z">
+        <seg>Los navegadores, servidores web y lenguajes de programación no manejan los espacios de manera consistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bulk memory operations are a newer addition to the language (for example, in [Firefox 79](/en-US/docs/Mozilla/Firefox/Releases/79)) — seven new built-in operations are provided for bulk memory operations such as copying and initializing, to allow WebAssembly to model native functions such as `memcpy` and `memmove` in a more efficient, performant way.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074640Z" creationid="gitnacho" creationdate="20221007T074640Z">
@@ -33194,6 +33210,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T044834Z" creationid="gitnacho" creationdate="20221004T044834Z">
         <seg>El almacenamiento en caché es útil para mejorar el rendimiento de una aplicación: podemos almacenar módulos WebAssembly compilados en el cliente, por lo que no es necesario descargarlos y compilarlos cada vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Call it `test-site` (or something more imaginative).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T043944Z" creationid="Nachec" creationdate="20221023T043944Z">
+        <seg>Llámalo `pruebasitio` (o algo más imaginativo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34986,6 +35010,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223544Z" creationid="gitnacho" creationdate="20221018T223544Z">
         <seg>Por ejemplo, si ya conoces HTML, puedes pasar a la sección CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if you use spaces in your filename, some systems may treat the filename as two filenames.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044118Z" creationid="Nachec" creationdate="20221023T044118Z">
+        <seg>Por ejemplo, si usas espacios en tu nombre de archivo, algunos sistemas pueden tratar el nombre de archivo como dos nombres de archivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39447,6 +39479,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's better to separate words with hyphens, rather than underscores: `my-file.html` vs. `my_file.html`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044222Z" creationid="Nachec" creationdate="20221023T044222Z">
+        <seg>Es mejor separar las palabras con guiones, en lugar de guiones bajos: `mi-archivo.html` vs. `mi_archivo.html`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's different when fetching a document entered in the address bar or an element linked via an {{ HTMLElement("img") }}, {{ HTMLElement("video") }}, or {{ HTMLElement("audio") }} element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092416Z" creationid="Nachec" creationdate="20221022T092416Z">
@@ -40291,6 +40331,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203326Z" creationid="gitnacho" creationdate="20221018T203326Z">
         <seg>Muchas funciones y APIs web solo son accesibles en un contexto seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many computers, particularly web servers, are case-sensitive.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044030Z" creationid="Nachec" creationdate="20221023T044030Z">
+        <seg>Muchas computadoras, particularmente los servidores web, distinguen entre mayúsculas y minúsculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43040,6 +43088,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So for example, if you put an image on your website at `test-site/MyImage.jpg` and then in a different file you try to invoke the image as `test-site/myimage.jpg`, it may not work.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044053Z" creationid="Nachec" creationdate="20221023T044053Z">
+        <seg>Entonces, por ejemplo, si colocas una imagen en tu sitio web en `pruebasitio/MiImagen.jpg` y luego, en un archivo diferente intentas invocar la imagen como `pruebasitio/miimagen.jpg`, puede que no funcione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So given the following function:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054630Z" creationid="gitnacho" creationdate="20221007T054630Z">
@@ -43316,6 +43372,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220029Z" creationid="gitnacho" creationdate="20221011T220029Z">
         <seg>Algunas solicitudes no activan un {{Glossary("Preflight_request","CORS preflight")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some servers will replace the areas in your filenames with "%20" (the character code for spaces in URLs), resulting in all your links being broken.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044143Z" creationid="Nachec" creationdate="20221023T044143Z">
+        <seg>Algunos servidores reemplazarán las áreas en tus nombres de archivo con "%20" (el código de caracteres para espacios en URIs), lo cual provocará que todos tus enlaces se rompan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46982,6 +47046,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The short answer is that you should use a hyphen for your file names.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044250Z" creationid="Nachec" creationdate="20221023T044250Z">
+        <seg>La respuesta corta es que debes usar un guión para los nombres de tus archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The signature is a sequence of parameter type declarations followed by a list of return type declarations.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054304Z" creationid="gitnacho" creationdate="20221007T054304Z">
@@ -49344,6 +49416,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T225116Z" creationid="gitnacho" creationdate="20221003T225116Z">
         <seg>Esto se debe a que el estado cambia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is because:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044019Z" creationid="Nachec" creationdate="20221023T044019Z">
+        <seg>Esto es porque:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53570,6 +53650,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200720Z" creationid="gitnacho" creationdate="20221008T200720Z">
         <seg>También encontrarás nuestra guía de estilo de escritura aquí, guías prácticas para realizar varias tareas de contenido y también información sobre la estructura de nuestras diferentes páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll notice that throughout this article, we ask you to name folders and files completely in lowercase with no spaces.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044012Z" creationid="Nachec" creationdate="20221023T044012Z">
+        <seg>Notarás que a lo largo de este artículo, te pedimos que nombres los directorios y archivos completamente en minúsculas sin espacios.</seg>
       </tuv>
     </tu>
     <tu>
