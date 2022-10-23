@@ -35303,6 +35303,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, take the following line of content:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054006Z" creationid="Nachec" creationdate="20221023T054006Z">
+        <seg>Por ejemplo, toma la siguiente línea de contenido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the following module contains two functions — one just returns the value 42, the other returns the result of calling the first plus one:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T061137Z" creationid="gitnacho" creationdate="20221007T061137Z">
@@ -37279,6 +37287,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221005T055703Z">
         <seg>Si usáramos el método anterior [`WebAssembly.instantiate()`](/es/docs/WebAssembly/JavaScript_interface/instantiate), que no funciona en la transmisión directa, necesitaríamos un paso adicional para convertir el código de bytes obtenido en un {{JSxRef("ArrayBuffer")}}, así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If we wanted the line to stand by itself, we could specify that it is a paragraph by enclosing it in paragraph tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054130Z" creationid="Nachec" creationdate="20221023T054130Z">
+        <seg>Si quieres especificar que se trata de un párrafo, podrías encerrar el texto con la etiqueta ({{HTMLElement("p")}}) de párrafo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45810,6 +45826,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140352Z" creationid="gitnacho" creationdate="20221019T140352Z">
         <seg>Los elementos deben coincidir con los tipos de datos de los elementos correspondientes en la etiqueta — `tag`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The enclosing {{Glossary("tag", "tags")}} can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T053953Z" creationid="Nachec" creationdate="20221023T053953Z">
+        <seg>Las {{Glossary("tag", "etiquetas")}} pueden hacer de una palabra o una imagen un hipervínculo a otro sitio, se pueden cambiar palabras a cursiva, agrandar o achicar la letra, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54958,6 +54982,18 @@ Hello #2
 Hello #0
 Hello #1
 Hello #2
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```
+My cat is very grumpy
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054024Z" creationid="Nachec" creationdate="20221023T054024Z">
+        <seg>```html
+Mi gato es muy gruñón
 ```</seg>
       </tuv>
     </tu>
