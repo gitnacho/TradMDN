@@ -40525,6 +40525,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In human language, this means: If `myName` has no value, run `setUserName()` again from the start.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200156Z" creationid="Nachec" creationdate="20221023T200156Z">
+        <seg>En el lenguaje humano, esto significa que si `miNombre` no tiene ningún valor, ejecuta `estableceNombreUsuario()` de nuevo desde el principio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In most cases, a language tag consists of a primary language subtag that identifies a broad family of related languages (e.g., "`en`" = English) and is optionally followed by a series of subtags that refine or narrow that language's range (e.g., "`en-CA`" = the variety of English as communicated in Canada).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T104243Z" creationid="Nachec" creationdate="20221022T102853Z">
@@ -54840,6 +54848,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To avoid these problems, you could check that the user hasn't entered a blank name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200014Z" creationid="Nachec" creationdate="20221023T200014Z">
+        <seg>Para evitar estos problemas, podrías comprobar que el usuario no ha introducido un nombre en blanco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To begin, let's examine how to add JavaScript to your page for creating a _Hello world!_ example.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175318Z" creationid="Nachec" creationdate="20221023T175305Z">
@@ -55686,6 +55702,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050903Z" creationid="Nachec" creationdate="20221020T173735Z">
         <seg>Actualiza el repositorio usando el siguiente comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update your `setUserName()` function to this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200051Z" creationid="Nachec" creationdate="20221023T200051Z">
+        <seg>Actualiza tu función `estableceNombreUsuario()` a lo siguiente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58425,6 +58449,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T195033Z" creationid="Nachec" creationdate="20221023T195033Z">
         <seg>Deberías terminar con un título que diga que _Mozilla es genial, null_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should end up with a title that reads _Mozilla is cool,_ for fairly obvious reasons.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200002Z" creationid="Nachec" creationdate="20221023T200002Z">
+        <seg>Deberías terminar con un título que diga que _Mozilla es genial_, por razones bastante obvias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62363,6 +62395,15 @@ function openDatabase() {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T043358Z" creationid="gitnacho" creationdate="20221004T043358Z">
         <seg>```js
 function openDatabase() {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+function setUserName() {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200108Z" creationid="Nachec" creationdate="20221023T200108Z">
+        <seg>function estableceNombreUsuario() {</seg>
       </tuv>
     </tu>
     <tu>
@@ -68268,6 +68309,14 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194514Z" creationid="Nachec" creationdate="20221023T194514Z">
         <seg>if (!localStorage.getItem('nombre')) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>if (!myName) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200127Z" creationid="Nachec" creationdate="20221023T200127Z">
+        <seg>if(!miNombre) {</seg>
       </tuv>
     </tu>
     <tu>
