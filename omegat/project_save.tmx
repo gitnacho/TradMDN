@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Final look of HTML page after creating elements: a header, large centered logo, content, and a button](website-screen-scripted.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200420Z" creationid="Nachec" creationdate="20221023T200420Z">
+        <seg>![Aspecto final de la página HTML después de crear los elementos: un encabezado, un logotipo grande centrado, contenido y un botón](website-screen-scripted.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Heading "hello world" above a firefox logo](hello-world.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175736Z" creationid="Nachec" creationdate="20221023T175736Z">
@@ -39136,6 +39144,14 @@ among them.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it does have a value (if the above statement is not true), then store the value in `localStorage` and set it as the heading's text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200222Z" creationid="Nachec" creationdate="20221023T200222Z">
+        <seg>Si tiene un valor (si la afirmación anterior no es verdadera), entonces almacena el valor en `localStorage` y lo establece como el texto del título.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it exists (that is, the user set a user name during a previous visit), we retrieve the stored name using `getItem()` and set the `textContent` of the heading to a string, plus the user's name, as we did inside `setUserName()`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194715Z" creationid="Nachec" creationdate="20221023T194715Z">
@@ -39731,6 +39747,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you enjoyed playing, and wish to go further, take advantage of the resources listed below.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200539Z" creationid="Nachec" creationdate="20221023T200539Z">
+        <seg>Si disfrutaste jugando y deseas ir más allá, aprovecha los recursos que se enumeran a continuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you enter `35 + 25` you'll get the total of the two numbers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190324Z" creationid="Nachec" creationdate="20221023T190324Z">
@@ -39763,6 +39787,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you get stuck, you can compare your work with our [finished example code on GitHub](https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200438Z" creationid="Nachec" creationdate="20221023T200438Z">
+        <seg>Si tuviste problemas, siempre puedes comparar tu trabajo con el [código terminado del ejemplo en GitHub](https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have a function defined in your C code that you want to call as needed from JavaScript, you can do this using the Emscripten `ccall()` function, and the `EMSCRIPTEN_KEEPALIVE` declaration (which adds your functions to the exported functions list (see [Why do functions in my C/C++ source code vanish when I compile to JavaScript, and/or I get No functions to process?](https://emscripten.org/docs/getting_started/FAQ.html#why-do-functions-in-my-c-c-source-code-vanish-when-i-compile-to-javascript-and-or-i-get-no-functions-to-process))).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T044637Z" creationid="gitnacho" creationdate="20221003T111559Z">
@@ -39791,6 +39823,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105830Z" creationid="Nachec" creationdate="20221023T105228Z">
         <seg>Si lograste seguir todas las instrucciones de este artículo, deberías terminar con una página que se ve así (también la puedes [ver aquí](https://mdn.github.io/beginner-html-site/)):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have followed all the instructions in this article, you should end up with a page that looks something like the image below.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200314Z" creationid="Nachec" creationdate="20221023T200314Z">
+        <seg>Si has seguido las instrucciones en este artículo, tendrás una página que luce como esta</seg>
       </tuv>
     </tu>
     <tu>
@@ -56122,6 +56162,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We have just scratched the surface of JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200449Z" creationid="Nachec" creationdate="20221023T200449Z">
+        <seg>Aquí solo has rozado la superficie de JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We have learned about rendering differences between `&lt;math&gt;` elements that use `display="block"` or not.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182449Z" creationid="Nachec" creationdate="20221021T182449Z">
@@ -57797,6 +57845,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202530Z" creationid="Nachec" creationdate="20221021T202530Z">
         <seg>De hecho, puedes instalar cualquier [fuente matemática OpenType](https://fred-wang.github.io/MathFonts/) y usarla para el renderizado de MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also [view our version](https://mdn.github.io/beginner-html-site-scripted/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200331Z" creationid="Nachec" creationdate="20221023T200331Z">
+        <seg>(también puedes [ver nuestra versión aquí](http://mdn.github.io/beginner-html-site-scripted/)).</seg>
       </tuv>
     </tu>
     <tu>
