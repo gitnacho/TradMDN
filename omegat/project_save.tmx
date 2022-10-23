@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Heading "hello world" above a firefox logo](hello-world.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175736Z" creationid="Nachec" creationdate="20221023T175736Z">
+        <seg>![Título "hola mundo" sobre un logotipo de Firefox](hello-world.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![LaTeX input box in Thunderbird](thunderbird.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081624Z" creationid="Nachec" creationdate="20221021T081624Z">
@@ -29974,6 +29982,16 @@ i32.mul</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&gt;
+&gt; If the JavaScript loads first and it is supposed to affect the HTML that hasn't loaded yet, there could be problems.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175854Z" creationid="Nachec" creationdate="20221023T175854Z">
+        <seg>&gt;
+&gt; Si se cargara primero JavaScript y se supone que debe afectar al HTML que tiene debajo, podría no funcionar, ya que ha sido cargado antes que el HTML sobre el que se supone debe trabajar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;
 &gt; It can contain code blocks.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T182243Z" creationid="gitnacho" creationdate="20221008T182243Z">
@@ -30730,6 +30748,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203125Z" creationid="gitnacho" creationdate="20221003T203125Z">
         <seg>&gt; **Nota:** El algoritmo de coincidencia de claves depende del valor en el [encabezado VARY](https://www.fastly.com/blog/best-practices-using-vary-header).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** The reason the instructions (above) place the {{htmlelement("script")}} element near the bottom of the HTML file is that **the browser reads code in the order it appears in the file**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175758Z" creationid="Nachec" creationdate="20221023T175758Z">
+        <seg>&gt; **Nota:** la razón por la que has puesto el elemento {{htmlelement("script")}} casi al final del documento HTML es porque **el navegador carga el HTML en el orden en que aparece en el archivo**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42529,6 +42555,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure the HTML and JavaScript files are saved.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175636Z" creationid="Nachec" creationdate="20221023T175636Z">
+        <seg>Finalmente, asegúrate de que has guardado los archivos HTML y JavaScript,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure to version caches by name and use the caches only from the version of the script that they can safely operate on.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T202829Z" creationid="gitnacho" creationdate="20221003T202829Z">
@@ -50282,6 +50316,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211046Z" creationid="gitnacho" creationdate="20221005T211025Z">
         <seg>Luego agrega subsecciones con los siguientes encabezados H4 (`####`), en el orden indicado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then load `index.html` in your browser.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175648Z" creationid="Nachec" creationdate="20221023T175648Z">
+        <seg>y abre `index.html` en el navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67526,6 +67568,14 @@ npm link hello-wasm
         <seg>myBuf.byteLength
 );
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>myHeading.textContent = "Hello world!";</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175602Z" creationid="Nachec" creationdate="20221023T175602Z">
+        <seg>miTitulo.textContent = '¡Hola mundo!';</seg>
       </tuv>
     </tu>
     <tu>
