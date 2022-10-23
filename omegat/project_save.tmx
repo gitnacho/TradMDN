@@ -2818,6 +2818,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Changing the page color</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141716Z" creationid="Nachec" creationdate="20221023T141716Z">
+        <seg>### Cambiar el color de la página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Client Hints</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T095313Z" creationid="gitnacho" creationdate="20221012T095313Z">
@@ -5906,91 +5914,8 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       <tuv lang="en-US">
         <seg>(keep reading to learn more)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141535Z" creationid="Nachec" creationdate="20221023T141535Z">
-        <seg>(no te preocupes de esto por ahora)
-
-Bien, ¡continúa y agrega más código CSS a la página! Sigue añadiendo estas reglas nuevas al final de la página, y no temas experimentar cambiando los valores para ver cómo resulta.
-
-### Cambiar el color de la página
-
-```css
-html {
-  background-color: #00539F;
-}
-```
-
-Esta regla asigna un color de fondo a la página entera. Puedes cambiar el código de color por cualquiera [como el que elegiste usar en tu proyecto](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#Color_de_tema).
-
-### Dar estilo al cuerpo del documento
-
-```css
-body {
-  width: 600px;
-  margin: 0 auto;
-  background-color: #FF9500;
-  padding: 0 20px 20px 20px;
-  border: 5px solid black;
-}
-```
-
-Ahora tienes varias declaraciones en el elemento [body](/es/docs/Web/HTML/Element/body). Revisa una por una:
-
-- `width: 600px;` — esto hará que el cuerpo siempre tenga 600 píxeles de ancho.
-- `margin: 0 auto;` — cuando seleccionas dos valores dentro de propiedades como `margin` o `padding`, el primer valor afectará los lados superior (top) **e** inferior (bottom) (en este caso haciéndolo en 0), y el segundo valor los lados izquierdo (left) **y** derecho (right) (aquí, `auto` es un valor especial que divide el espacio disponible entre derecha e izquierda). Puedes usar esta propiedad con uno, dos, tres o cuatro valores como se explica en la [sintaxis de padding](/es/docs/Web/CSS/padding#Sintaxis).
-- `background-color: #FF9500;` — como antes, este selecciona el color de fondo de un elemento. Se ha usado un naranja rojizo para el elemento `body` en contraste con el azul oscuro del elemento {{htmlelement("html")}}. Sigue y experimenta. Siéntete libre de usar `white` o cualquiera que sea de tu agrado.
-- `padding: 0 20px 20px 20px;` — tienes 4 valores puestos en el relleno, para dar un poco de espacio alrededor del contenido. Esta vez no pondrás relleno en la parte de arriba de `body`, 20 píxeles a la izquierda, abajo y derecha. Los valores se ponen: arriba, derecha, abajo e izquierda, en ese orden. Como con `margin` usar esta propiedad con uno, dos, tres o cuatro valores como se explica en la [sintaxis de padding](/es/docs/Web/CSS/padding#Sintaxis).
-- `border: 5px solid black;` — este simplemente pone un borde de 5 píxeles de ancho, continuo y de color negro alrededor del elemento `body`.
-
-### Posicionar y dar estilo al título principal de la página
-
-```css
-h1 {
-  margin: 0;
-  padding: 20px 0;
-  color: #00539F;
-  text-shadow: 3px 3px 1px black;
-}
-```
-
-Puedes haber notado que hay un hueco horrible en la parte superior de _body_. Esto sucede porque los navegadores vienen con estilos por defecto, ¡incluso cuando aún no se ha aplicado ningún archivo CSS! Esto podría parecer una mala idea, pero se quiere que aun una página sin estilizar sea legible. Para deshacerte de este espacio elimina el estilo por defecto, agregando `margin: 0;`.
-
-Enseguida, se ha puesto un relleno arriba y abajo del título de 20 píxeles, y se hizo que el color del texto sea el mismo que el color de fondo de `html`.
-
-Una propiedad muy interesante que se ha usado aquí es `text-shadow`, que aplica una sombra al texto del elemento. Sus cuatro valores son como sigue:
-
-- El primer valor en píxeles asigna el **desplazamiento horizontal** de la sombra desde el texto —qué tan lejos la mueve a la derecha—. Un valor negativo la moverá a la izquierda.
-- El segundo valor en píxeles asigna el **desplazamiento vertical** de la sombra desde el texto —qué tan lejos la mueve hacia abajo—. En este ejemplo, un valor negativo la desplazaría hacia arriba.
-- El tercer valor en píxeles asigna **radio de desenfoque** de la sombra —un valor grande es igual a una sombra borrosa—.
-- El cuarto valor asigna el color base de la sombra.
-
-Una vez más, trata de experimentar con diferentes valores para ver cómo resulta.
-
-### Centrar la imagen
-
-```css
-img {
-  display: block;
-  margin: 0 auto;
-}
-```
-
-Finalmente, centra la imagen para hacer que luzca mejor. Puedes usar nuevamente el truco de `margin: 0 auto` que usaste antes para `body`, pero existen diferencias que requieren que hagas algo más para que el código CSS funcione.
-
-El elemento {{htmlelement("body")}} es un elemento en nivel de bloque (**block-level**), lo que significa que tomará espacio en la página y que puede tener otros valores de espacio aplicables como margen. Las imágenes, por otra parte, son elementos **inline**, lo que quiere decir que no puedes aplicarles márgenes, debes dar a la imagen un comportamiento de _block-level_ usando `display: block;`.
-
-&gt; **Nota:** las instrucciones anteriores asumen que estás usando una imagen más pequeña que el ancho establecido en `body` (600 píxeles). Si tu imagen es más grande, desbordará el cuerpo, derramándose en el resto de la página. Para solucionar esto, puedes hacer lo siguiente: 1) reducir el ancho de la imagen usando un [editor gráfico](https://es.wikipedia.org/wiki/Editor_de_gráficos_rasterizados), o 2) usar CSS para dimensionar la imagen estableciendo la propiedad {{cssxref("width")}} en el elemento `&lt;img&gt;` con un valor menor.
-
-&gt; **Nota:** no te preocupes si aún no entiendes `display: block;` y la diferencia entre un elemento de bloque y un elemento _inline_. Lo entenderás en tanto estudies CSS a profundidad. Puedes encontrar más en cuanto a los diferentes valores disponibles para _display_ en la [página de referencia de display](/es/docs/Web/CSS/display).
-
-## Conclusión
-
-Si has seguido las instrucciones de esta publicación, deberías terminar con una página que luce algo así (también puedes [ver nuestra versión aquí](http://mdn.github.io/beginner-html-site-styled/)):
-
-![El logo de Mozilla centrado con título y párrafos. Ahora se ve muy bien de estilo, con un fondo azul para toda la página y un fondo naranja para la franja de contenido principal centrada.](https://mdn.mozillademos.org/files/9455/website-screenshot-final.png)
-
-Si te atoraste, puedes comparar tu trabajo con el [código del ejemplo finalizado en GitHub](https://github.com/mdn/beginner-html-site-styled/blob/gh-pages/styles/style.css).
-
-Aquí, solo has arañado la superficie de CSS. Si quieres encontrar más, puedes ir a la [página de aprendizaje de CSS](/es/docs/Learn/CSS).CSS comments are a way for you to write helpful notes about your code or logic.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141553Z" creationid="Nachec" creationdate="20221023T141535Z">
+        <seg>(no te preocupes de esto por ahora)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17122,8 +17047,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `display` sets the display mode of an element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141509Z" creationid="Nachec" creationdate="20221023T141509Z">
-        <seg>- `display` sets the display mode of an element.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141545Z" creationid="Nachec" creationdate="20221023T141509Z">
+        <seg>- `display`: selecciona el modo de visualización para el elemento</seg>
       </tuv>
     </tu>
     <tu>
@@ -34450,6 +34375,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change the color code to [the color you chose in What will my website look like?](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#theme_color).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141923Z" creationid="Nachec" creationdate="20221023T141923Z">
+        <seg>Puedes cambiar el código de color por cualquiera [como el que elegiste usar en tu proyecto](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#color_del_tema).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the contents of the `alt` attribute to a [description of the image](/en-US/docs/Web/HTML/Element/img#authoring_meaningful_alternate_descriptions) you are including.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045752Z" creationid="Nachec" creationdate="20221023T045432Z">
@@ -35703,6 +35636,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203433Z" creationid="gitnacho" creationdate="20221019T203433Z">
         <seg>Las excepciones del código de WebAssembly no incluyen un seguimiento de pila de forma predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experiment with changing values to see what happens.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141709Z" creationid="Nachec" creationdate="20221023T141656Z">
+        <seg>y no temas experimentar cambiando los valores para ver cómo resulta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41431,6 +41372,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T075406Z" creationid="gitnacho" creationdate="20221005T075406Z">
         <seg>Al usar Recargar por sí solo hará que el contenido de la página se regenere, pero usando plantillas en caché y contenido incluido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep adding these new rules at the bottom of `style.css`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141702Z" creationid="Nachec" creationdate="20221023T141651Z">
+        <seg>Sigue añadiendo estas nuevas reglas al final del archivo `style.css`,</seg>
       </tuv>
     </tu>
     <tu>
@@ -52509,6 +52458,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This rule sets a background color for the entire page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141758Z" creationid="Nachec" creationdate="20221023T141758Z">
+        <seg>Esta regla asigna un color de fondo a la página entera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section lists APIs that specifications make available only in secure contexts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T232709Z" creationid="gitnacho" creationdate="20221018T232709Z">
@@ -52993,6 +52950,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053603Z" creationid="gitnacho" creationdate="20221004T053603Z">
         <seg>Para compilar este programa, necesitas decirle al compilador dónde puede encontrar los archivos de encabezado de `libwebp` usando el indicador `-I` y también pasarle todos los archivos C de `libwebp` que necesita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To continue, let's add more CSS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141603Z" creationid="Nachec" creationdate="20221023T141603Z">
+        <seg>Bien, ¡continúa y agrega más código CSS a la página!</seg>
       </tuv>
     </tu>
     <tu>
@@ -57769,6 +57734,16 @@ void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```css
+html {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141718Z" creationid="Nachec" creationdate="20221023T141718Z">
+        <seg>```css
+html {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
 p {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225103Z" creationid="Nachec" creationdate="20221021T225103Z">
@@ -61938,6 +61913,18 @@ unreachable
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210112T220229Z" creationid="nacho" creationdate="20210112T220229Z">
         <seg>b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>background-color: #00539f;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141742Z" creationid="Nachec" creationdate="20221023T141742Z">
+        <seg>background-color: #00539f;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
