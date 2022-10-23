@@ -3538,6 +3538,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Nesting elements</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055725Z" creationid="Nachec" creationdate="20221023T055725Z">
+        <seg>### Anidar elementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Network client hints</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092725Z" creationid="gitnacho" creationdate="20221012T092725Z">
@@ -29601,6 +29609,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Simple attribute values that don't contain ASCII whitespace (or any of the characters `"` `'` `` ` `` `=` `&lt;` `&gt;`) can remain unquoted, but it is recommended that you quote all attribute values, as it makes the code more consistent and understandable.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055719Z" creationid="Nachec" creationdate="20221023T055625Z">
+        <seg>&gt; **Nota:** El atributo con valores simples que no contengan espacios en blanco ASCII (o cualesquiera de los caracteres `"` `'` `` ` `` `=` `&lt;` `&gt;`) pueden permanecer sin entrecomillar, pero se recomienda entrecomillar todos los valores de atributo, ya que esto hace que el código sea más consistente y comprensible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Some email or instant messaging clients are able to send and receive messages in the HTML format.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075146Z" creationid="Nachec" creationdate="20221021T075146Z">
@@ -37407,6 +37423,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072340Z" creationid="gitnacho" creationdate="20221007T072340Z">
         <seg>Si quisiéramos comenzar a escribir nuestras referencias en el desplazamiento 1, tendríamos que escribir `( i32.const 1)`, y el tamaño de la tabla tendría que ser 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If we wanted to state that our cat is **very** grumpy, we could wrap the word "very" in a {{htmlelement("strong")}} element, which means that the word is to be strongly emphasized:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055915Z" creationid="Nachec" creationdate="20221023T055915Z">
+        <seg>Si, por ejemplo, quieres resaltar una palabra del texto (en el ejemplo la palabra «muy»), podemos encerrarla en un elemento {{HTMLElement("strong")}}, con lo cual especificamos que dicha palabra se debe enfatizar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45584,6 +45608,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062558Z" creationid="gitnacho" creationdate="20221004T062558Z">
         <seg>El atributo dice "wasm-bindgen sabe cómo encontrar estas funciones".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The attribute value wrapped by opening and closing quotation marks.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055639Z" creationid="Nachec" creationdate="20221023T055612Z">
+        <seg>Comillas de apertura y de cierre, encerrando el valor del atributo. Los atributos siempre se incluyen en la etiqueta de apertura de un elemento, nunca en la de cierre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53889,6 +53921,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212206Z" creationid="gitnacho" creationdate="20221005T212123Z">
         <seg>Puedes omitir el nombre del archivo si se llama `index.html`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can put elements inside other elements too — this is called **nesting**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055747Z" creationid="Nachec" creationdate="20221023T055747Z">
+        <seg>También puedes colocar elementos dentro de otros elementos —esto se llama **anidamiento**—.</seg>
       </tuv>
     </tu>
     <tu>
