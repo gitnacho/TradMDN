@@ -33545,6 +33545,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, try clicking _OK_ without entering a name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T195947Z" creationid="Nachec" creationdate="20221023T195947Z">
+        <seg>Además, prueba a dar clic en _Aceptar_ sin introducir un nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, you can do both these operations on the same line:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182611Z" creationid="Nachec" creationdate="20221023T182611Z">
@@ -53195,6 +53203,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This happens because—when you cancel the prompt—the value is set as [`null`](/en-US/docs/Web/JavaScript/Reference/Operators/null).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T195102Z" creationid="Nachec" creationdate="20221023T195102Z">
+        <seg>Esto sucede porque, cuando cancelas el mensaje, el valor se establece como [`null`](/en-US/docs/Web/JavaScript/Reference/Operators/null).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171525Z" creationid="Nachec" creationdate="20221023T171404Z">
@@ -57335,6 +57351,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you run the example and get the dialog box that prompts you to enter your user name, try pressing the _Cancel_ button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T195002Z" creationid="Nachec" creationdate="20221023T195002Z">
+        <seg>Cuando ejecutes el ejemplo y obtengas el cuadro de diálogo que solicita que introduzcas tu nombre de usuario, intenta pulsar el botón _Cancelar_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you want to do something to an element, you need to select it first.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181524Z" creationid="Nachec" creationdate="20221023T181524Z">
@@ -58397,6 +58421,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should end up with a title that reads _Mozilla is cool, null_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T195033Z" creationid="Nachec" creationdate="20221023T195033Z">
+        <seg>Deberías terminar con un título que diga que _Mozilla es genial, null_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class materials, a hobbyist, or someone who just wants to understand more about how web technologies work.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T235924Z" creationid="gitnacho" creationdate="20221012T231814Z">
@@ -59079,6 +59111,14 @@ crate-type = ["cdylib"]</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042220Z" creationid="gitnacho" creationdate="20220925T040459Z">
         <seg>_Introducción a la Web_ es una serie concisa que te presenta los aspectos prácticos del desarrollo web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_Null_ is a special value in JavaScript that refers to the absence of a value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T195117Z" creationid="Nachec" creationdate="20221023T195117Z">
+        <seg>`Null` (nulo) es un valor especial en JavaScript que se refiere a la ausencia de un valor.</seg>
       </tuv>
     </tu>
     <tu>
