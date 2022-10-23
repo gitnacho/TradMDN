@@ -26727,6 +26727,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html lang="en-US"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045217Z" creationid="Nachec" creationdate="20221023T045217Z">
+        <seg>&lt;html lang="es-ES"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Pacho" changedate="20200521T140001Z" creationid="Pacho" creationdate="20200521T140001Z">
@@ -26739,6 +26747,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T075732Z" creationid="gitnacho" creationdate="20220828T075732Z">
         <seg>&lt;img</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;img src="" alt="My test image" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045248Z" creationid="Nachec" creationdate="20221023T045248Z">
+        <seg>&lt;img src="" alt="Mi imagen de prueba" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28797,6 +28813,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194030Z" creationid="Nachec" creationdate="20221021T194030Z">
         <seg>&lt;title&gt;Mi página con operadores elásticos&lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;title&gt;My test page&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045233Z" creationid="Nachec" creationdate="20221023T045233Z">
+        <seg>&lt;title&gt;Mi página de prueba&lt;/title&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33624,6 +33648,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy the image you chose earlier into your `images` folder.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045023Z" creationid="Nachec" creationdate="20221023T045023Z">
+        <seg>Copia la imagen que elegiste anteriormente en tu directorio `images`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy the lines of code Google gives you into your text editor to save for later.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T063144Z" creationid="gitnacho" creationdate="20221019T063021Z">
@@ -33926,6 +33958,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223718Z" creationid="gitnacho" creationdate="20221018T223718Z">
         <seg>No entres en pánico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't worry about what it all means for now — we'll look at the structures in more detail later in the series.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045204Z" creationid="Nachec" creationdate="20221023T045204Z">
+        <seg>Por ahora, no te preocupes por lo que significa todo esto; veremos las estructuras con más detalle más adelante en la serie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41905,6 +41945,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open up your `index.html` file, and insert the following code into the file exactly as shown.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045151Z" creationid="Nachec" creationdate="20221023T045151Z">
+        <seg>Abre tu archivo `index.html` e inserta el siguiente código en el archivo exactamente como se muestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open your computer's [command prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089) (Windows) or terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [macOS](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050633Z" creationid="Nachec" creationdate="20221020T173616Z">
@@ -46318,6 +46366,14 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The image is inside the _images_ directory, which is in the same directory as `index.html`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045330Z" creationid="Nachec" creationdate="20221023T045330Z">
+        <seg>La imagen está dentro del directorio _images_, que está en el mismo directorio que `index.html`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The image is now available in wasm.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T054613Z" creationid="gitnacho" creationdate="20221004T054613Z">
@@ -46444,6 +46500,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063916Z" creationid="gitnacho" creationdate="20221004T063916Z">
         <seg>La última sección es la sección `[dependencies]`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The line `&lt;img src="" alt="My test image"&gt;` is the HTML code that inserts an image into the page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045308Z" creationid="Nachec" creationdate="20221023T045308Z">
+        <seg>La línea `&lt;img src="" alt="Mi imagen de prueba"&gt;` es el código HTML que inserta una imagen en la página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51767,6 +51831,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T113227Z" creationid="gitnacho" creationdate="20221006T113227Z">
         <seg>Necesitamos reflejar este espacio de nombres de dos niveles en JavaScript al escribir el objeto que se importará al módulo `wasm`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We need to tell the HTML where the image is.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045320Z" creationid="Nachec" creationdate="20221023T045320Z">
+        <seg>Necesitamos decirle al HTML dónde está la imagen.</seg>
       </tuv>
     </tu>
     <tu>
