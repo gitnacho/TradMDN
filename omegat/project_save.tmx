@@ -11303,6 +11303,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- FTP</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204203Z" creationid="Nachec" creationdate="20221023T204203Z">
+        <seg>- FTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Fetch</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070833Z" creationid="gitnacho" creationdate="20221004T070833Z">
@@ -11526,6 +11534,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- GitHub</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204204Z" creationid="Nachec" creationdate="20221023T204204Z">
+        <seg>- GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- GitHub "live samples" — A macro that takes a document in a GitHub repo inside the [MDN organization](https://github.com/mdn/), puts it inside an {{htmlelement("iframe")}} element, and embeds it into the page to show the code running live.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204237Z" creationid="gitnacho" creationdate="20221005T204237Z">
@@ -11555,6 +11571,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205359Z" creationid="gitnacho" creationdate="20221005T205359Z">
         <seg>- Ve más allá de simplemente demostrar cómo funciona cada pieza de la API o tecnología.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Google App Engine</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204207Z" creationid="Nachec" creationdate="20221023T204207Z">
+        <seg>- Google App Engine</seg>
       </tuv>
     </tu>
     <tu>
@@ -19426,6 +19450,17 @@ browser-compat: api.Document.timeline
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- web server
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204217Z" creationid="Nachec" creationdate="20221023T204217Z">
+        <seg>- web server
+  - servidor web
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- website
 ---</seg>
       </tuv>
@@ -22875,6 +22910,21 @@ tags:</seg>
 title: Promise.resolve()
 slug: Web/JavaScript/Reference/Global_Objects/Promise/resolve
 rue: Nachec
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Publishing your website
+slug: Learn/Getting_started_with_the_web/Publishing_your_website
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204202Z" creationid="Nachec" creationdate="20221023T204202Z">
+        <seg>---
+title: Publishing your website
+slug: Learn/Getting_started_with_the_web/Publishing_your_website
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -45048,6 +45098,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060501Z" creationid="Nachec" creationdate="20221021T060501Z">
         <seg>Una vez que hayas terminado, puedes inspeccionar la fuente de la fórmula MathML y ​​verificar si coincide con tus expectativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you finish writing the code and organizing the files that make up your website, you need to put it all online so people can find it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204537Z" creationid="Nachec" creationdate="20221023T204537Z">
+        <seg>Una vez que termines de escribir tu código y organizar los archivos que forman parte de tu sitio, lo debes poner en línea para que la gente pueda consultarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72921,6 +72979,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060859Z" creationid="gitnacho" creationdate="20221019T060859Z">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/Installing_basic_software", "Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/JavaScript_basics", "Learn/Getting_started_with_the_web/How_the_Web_works", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204516Z" creationid="Nachec" creationdate="20221023T204516Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/JavaScript_basics", "Learn/Getting_started_with_the_web/How_the_Web_works", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
     </tu>
     <tu>
