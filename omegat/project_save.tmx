@@ -51941,8 +51941,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>These are code structures that listen for activity in the browser, and run code in response.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191901Z" creationid="Nachec" creationdate="20221023T191901Z">
-        <seg>Estos son unas estructuras de código que captan lo que sucede en el navegador, y permiten que en respuesta a las acciones que suceden se ejecute un código.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T202623Z" creationid="Nachec" creationdate="20221023T191901Z">
+        <seg>Estos son estructuras de código que captan lo que sucede en el navegador, y permiten que en respuesta a las acciones que suceden se ejecute un código.</seg>
       </tuv>
     </tu>
     <tu>
