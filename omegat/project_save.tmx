@@ -2562,6 +2562,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Anatomy of an HTML document</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060512Z" creationid="Nachec" creationdate="20221023T060512Z">
+        <seg>### Anatomía de un documento HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Anatomy of an HTML element</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054149Z" creationid="Nachec" creationdate="20221023T054149Z">
@@ -4262,6 +4270,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181716Z" creationid="gitnacho" creationdate="20221006T181716Z">
         <seg>### Visualizar `wasm` en herramientas de desarrollo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Void elements</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060243Z" creationid="Nachec" creationdate="20221023T060243Z">
+        <seg>### Elementos vacíos</seg>
       </tuv>
     </tu>
     <tu>
@@ -40056,6 +40072,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its purpose is to embed an image in the HTML page in the place it appears.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060503Z" creationid="Nachec" creationdate="20221023T060503Z">
+        <seg>Su propósito es desplegar una imagen en la página HTML, en el lugar en que aparece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its purpose is to identify the element when linking (using a fragment identifier), scripting, or styling (with CSS).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213851Z" creationid="Nachec" creationdate="20221021T213851Z">
@@ -41834,6 +41858,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now we'll look at how individual elements are combined to form an entire HTML page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060538Z" creationid="Nachec" creationdate="20221023T060538Z">
+        <seg>Ahora verás cómo los elementos individuales son combinados para formar una página HTML entera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now we've covered the real basics, let's move on to look at some more advanced features.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T061102Z" creationid="gitnacho" creationdate="20221007T061102Z">
@@ -43569,6 +43601,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So don't do it!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060238Z" creationid="Nachec" creationdate="20221023T060238Z">
+        <seg>Así que, ¡no lo hagas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So far our example has actually been rendered with the [`display="block"`](/en-US/docs/Learn/MathML/First_steps/Getting_started#the_display_attribute) attribute.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105122Z" creationid="Nachec" creationdate="20221021T105122Z">
@@ -43765,6 +43805,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220903T144826Z" creationid="gitnacho" creationdate="20220903T144826Z">
         <seg>Algunos elementos implementan directamente esta interfaz, mientras que otros la implementan a través de una interfaz que hereda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some elements have no content and are called **{{glossary("void element", "void elements")}}**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060327Z" creationid="Nachec" creationdate="20221023T060327Z">
+        <seg>Algunos elementos no poseen contenido, y son llamados **{{glossary("void element", "elementos vacíos")}}**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44097,6 +44145,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take the {{htmlelement("img")}} element that we already have in our HTML page:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060339Z" creationid="Nachec" creationdate="20221023T060339Z">
+        <seg>Toma, por ejemplo, el elemento {{htmlelement("img")}} de nuestro HTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Templates are not translated like wiki pages, rather any single template might be used for any number of locales.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082930Z" creationid="gitnacho" creationdate="20221005T082930Z">
@@ -44197,6 +44253,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093647Z" creationid="Nachec" creationdate="20221022T093647Z">
         <seg>De esa manera, la caché puede reproducir el algoritmo y podrá entregar contenido aceptable directamente, sin más solicitudes al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That wraps up the basics of individual HTML elements, but they aren't handy on their own.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060526Z" creationid="Nachec" creationdate="20221023T060526Z">
+        <seg>Hasta ahora has visto lo básico de elementos HTML individuales, pero estos no son muy útiles por sí solos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49386,6 +49450,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This contains two attributes, but there is no closing `&lt;/img&gt;` tag and no inner content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060438Z" creationid="Nachec" creationdate="20221023T060407Z">
+        <seg>Posee dos atributos, pero no hay etiqueta de cierre `&lt;/img&gt;` ni contenido encerrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This could be a text editor (e.g. [Visual Studio Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [GNU Emacs](https://www.gnu.org/software/emacs/), or [VIM](https://www.vim.org/)), or a hybrid editor (e.g. [Dreamweaver](https://www.adobe.com/products/dreamweaver.html) or [WebStorm](https://www.jetbrains.com/webstorm/)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T225640Z" creationid="gitnacho" creationdate="20221012T164629Z">
@@ -50033,6 +50105,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T071603Z" creationid="gitnacho" creationdate="20221004T071603Z">
         <seg>Esto es análogo a `new function(string)`, excepto que estamos sustituyendo una cadena de caracteres (código fuente de JavaScript) con un búfer de arreglo de bytes (código fuente de WebAssembly).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is because an image element doesn't wrap content to affect it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060453Z" creationid="Nachec" creationdate="20221023T060453Z">
+        <seg>Esto es porque un elemento de imagen no encierra contenido al cual afectar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55990,6 +56070,18 @@ p {</seg>
 &lt;img src="example.svg" alt="tres círculos" width="300" height="100" /&gt;
 &lt;br /&gt;
 &lt;img src="example.svg#three" alt="círculo azul" width="100" height="100" /&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;img src="images/firefox-icon.png" alt="My test image" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060422Z" creationid="Nachec" creationdate="20221023T060347Z">
+        <seg>```html
+&lt;img src="images/firefox-icon.png" alt="Mi imagen de prueba"&gt;
 ```</seg>
       </tuv>
     </tu>
