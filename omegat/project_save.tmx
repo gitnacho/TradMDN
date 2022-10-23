@@ -37571,10 +37571,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, our friend Bob Smith would enter _bobsmith.github.io_.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T212001Z" creationid="Nachec" creationdate="20221023T212001Z">
-        <seg>Así por ejemplo, nuestro amigo Bob Smith ingresaría _&lt;kbd&gt;bobsmith.github.io&lt;/kbd&gt;_.
-
-![](https://mdn.mozillademos.org/files/9479/github-create-repo.png)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T212602Z" creationid="Nachec" creationdate="20221023T212001Z">
+        <seg>Así por ejemplo, nuestro amigo Bob Smith ingresaría _&lt;kbd&gt;bobsmith.github.io&lt;/kbd&gt;_.</seg>
       </tuv>
     </tu>
     <tu>
