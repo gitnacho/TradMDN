@@ -39078,6 +39078,22 @@ among them.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is, the code changes the `src` value to the path of the second image, forcing the other image to be loaded inside the {{htmlelement("img")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193509Z" creationid="Nachec" creationdate="20221023T193509Z">
+        <seg>Si es así, el código cambia el valor de `src` a la ruta de la segunda imagen, forzando a que se cargue la otra imagen en el elemento {{htmlelement("img")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it isn't (meaning it must already have changed), the `src` value swaps back to the original image path, to the original state.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193605Z" creationid="Nachec" creationdate="20221023T193605Z">
+        <seg>Si no es así (significa que ya fue modificada), se cambiará el valor de `src` nuevamente a la ruta de la imagen original, regresando a como era en un principio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If module is not a [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module) object instance, a
 {{jsxref("TypeError")}} is thrown.</seg>
       </tuv>
@@ -43937,6 +43953,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next, you made this variable's `onclick` event handler property equal to a function with no name (an "anonymous" function).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193422Z" creationid="Nachec" creationdate="20221023T193422Z">
+        <seg>Luego, haces que esta propiedad del manejador del evento `onclick` de la variable sea igual a una función sin nombre (una función "anónima").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No functional events are dispatched until the state becomes activated.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223800Z" creationid="gitnacho" creationdate="20221003T223800Z">
@@ -44534,6 +44558,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T234032Z" creationid="gitnacho" creationdate="20221006T234032Z">
         <seg>Ahora que hemos demostrado el uso de los principales bloques de construcción clave de WebAssembly, este es un buen lugar para mencionar el concepto de multiplicidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now when you click the image, it should change to the other one.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193338Z" creationid="Nachec" creationdate="20221023T193338Z">
+        <seg>Ahora, cuando hagas clic en la imagen, ¡esta debe cambiar por otra!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45630,6 +45662,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save all files and load `index.html` in the browser.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193323Z" creationid="Nachec" creationdate="20221023T193323Z">
+        <seg>Guarda todos los archivos y carga `index.html` en tu navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save the file as `style.css` in a directory named `styles`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T125739Z" creationid="Nachec" creationdate="20221023T125739Z">
@@ -46381,6 +46421,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060238Z" creationid="Nachec" creationdate="20221023T060238Z">
         <seg>Así que, ¡no lo hagas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So every time this element is clicked:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193432Z" creationid="Nachec" creationdate="20221023T193432Z">
+        <seg>Ahora, cada vez que se haga clic en la imagen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48762,6 +48810,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The code retrieves the value of the image's `src` attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193441Z" creationid="Nachec" creationdate="20221023T193441Z">
+        <seg>El código recupera el valor del atributo `src` de la imagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The code snippet also shows a best practice for versioning caches used by the service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203721Z" creationid="gitnacho" creationdate="20221003T203721Z">
@@ -48774,6 +48830,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T203611Z">
         <seg>Luego, el código usa {{DOMxRef("Cache.match()")}} para ver si ya hay una fuente coincidente en la caché y, de ser así, la devuelve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The code uses a conditional to check if the `src` value is equal to the path of the original image:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193456Z" creationid="Nachec" creationdate="20221023T193456Z">
+        <seg>El código usa una condicional para comprobar si el valor `src` es igual a la ruta de la imagen original:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53681,6 +53745,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is what happened.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193346Z" creationid="Nachec" creationdate="20221023T193346Z">
+        <seg>Esto fue lo que sucedió:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is where all your website projects will live.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T043923Z" creationid="Nachec" creationdate="20221023T043923Z">
@@ -58175,6 +58247,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181940Z" creationid="Nachec" creationdate="20221023T181909Z">
         <seg>Primero debes declarar la variable con la palabra clave [`var`](/es/docs/Web/JavaScript/Reference/Statements/var) (menos recomendado) o [`let`](/es/docs/Web/JavaScript/Reference/Statements/let), seguida del nombre que le quieras dar. Se recomienda más el uso de `let` que de `var` (más adelante se profundiza un poco sobre esto):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You stored a reference to your {{htmlelement("img")}} element in the `myImage` variable.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193357Z" creationid="Nachec" creationdate="20221023T193357Z">
+        <seg>se almacena una referencia a tu elemento {{htmlelement("img")}} en la variable `miImage`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69102,6 +69182,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193208Z" creationid="Nachec" creationdate="20221023T193208Z">
         <seg>miImage.onclick = () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>myImage.setAttribute("src", "images/firefox-icon.png");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193311Z" creationid="Nachec" creationdate="20221023T193311Z">
+        <seg>miImage.setAttribute('src', 'images/firefox-icon.png');</seg>
       </tuv>
     </tu>
     <tu>
