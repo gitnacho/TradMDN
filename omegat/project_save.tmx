@@ -10336,6 +10336,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- A [domain name](/en-US/docs/Learn/Common_questions/What_is_a_domain_name) is the unique address where people find your website, such as `http://www.mozilla.org` or `http://www.bbc.co.uk`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204949Z" creationid="Nachec" creationdate="20221023T204949Z">
+        <seg>- Un [nombre de dominio](/es/docs/Learn/Common_questions/What_is_a_domain_name) — dirección única mediante la cual la gente puede encontrar tu sitio web, como `https://www.mozilla.org`, o `https://es.wikipedia.org/`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- A cache version, which — as we explained above — you need to update when any wasm module is updated or moved to a different URL.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T052011Z" creationid="gitnacho" creationdate="20221004T052011Z">
@@ -40567,6 +40575,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, you will need a {{Glossary("FTP", "File Transfer Protocol (FTP)")}} program (see [How much does it cost: software](/en-US/docs/Learn/Common_questions/How_much_does_it_cost#software) for more details) to actually transfer the website files over to the server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T205423Z" creationid="Nachec" creationdate="20221023T205423Z">
+        <seg>Además, necesitarás un programa {{Glossary("FTP", "File Transfer Protocol (FTP)")}} (consulta [Cuánto cuesta: software](/es/docs/Learn/Common_questions/ How_much_does_it_cost#software) para más detalles) para transferir los archivos del sitio web al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, you'll find helpful articles about how the code works, how to build add-ons for Mozilla applications and the like.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T205751Z" creationid="gitnacho" creationdate="20221006T205751Z">
@@ -43688,6 +43704,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065513Z" creationid="gitnacho" creationdate="20221004T065513Z">
         <seg>Mucha gente usa paquetes npm a través de varias herramientas de agrupación, y usaremos una de ellas, `webpack`, en este tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many professional websites go online this way.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T205016Z" creationid="Nachec" creationdate="20221023T205016Z">
+        <seg>Muchos sitios web profesionales toman esta opción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51397,6 +51421,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The web server provides website content to website visitors.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204917Z" creationid="Nachec" creationdate="20221023T204917Z">
+        <seg>y el servidor web suministra el contenido a los usuarios que lo solicitan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The whole structure is called a **ruleset**.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131531Z" creationid="Nachec" creationdate="20221023T131350Z">
@@ -58317,6 +58349,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can rent your domain name for as many years as you want from a **domain registrar**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T205003Z" creationid="Nachec" creationdate="20221023T205003Z">
+        <seg>Puedes tomar en alquiler el nombre de tu dominio durante algunos años en un **registrador de dominio**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can retrieve a lot of information about each request by calling parameters of the {{domxref("Request")}} object returned by the {{domxref("FetchEvent")}}:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T035905Z">
@@ -58627,6 +58667,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T154718Z" creationid="gitnacho" creationdate="20221012T154718Z">
         <seg>Probablemente ya tengas un editor de texto básico en tu computadora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You put website files on the web server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204909Z" creationid="Nachec" creationdate="20221023T204909Z">
+        <seg>Pones los archivos de tu sitio web en este espacio,</seg>
       </tuv>
     </tu>
     <tu>
