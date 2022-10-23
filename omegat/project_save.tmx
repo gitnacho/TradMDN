@@ -14554,10 +14554,10 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050900Z" creationid="gitnacho" creationdate="20221012T165500Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T051505Z" creationid="gitnacho" creationdate="20221012T165500Z">
         <seg>- [Instalar software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
 - [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
-- [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [Manejo de archivos](#%C2%BFd%C3%B3nde_deber%C3%ADa_estar_tu_sitio_web_en_tu_computadora)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
@@ -68898,6 +68898,31 @@ tags:</prop>
         <seg>- Web Standards
   - Estándares Web
 ---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/getting_started_with_the_web/css_basics/index.md</prop>
+      <prop type="prev">## In this module</prop>
+      <prop type="next"></prop>
+      <tuv lang="en-US">
+        <seg>- [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [What will your website look like?](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Dealing with files](/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [HTML basics](/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS basics](/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [JavaScript basics](/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T051801Z" creationid="Nachec" creationdate="20221023T051801Z">
+        <seg>- [Instalar software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Conceptos básicos de CSS](#)
+- [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publicar tu sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
     </tu>
     <tu>
