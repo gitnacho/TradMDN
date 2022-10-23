@@ -5566,6 +5566,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(_Hello world!_ is [the standard for introductory programming examples](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175328Z" creationid="Nachec" creationdate="20221023T175309Z">
+        <seg>([el estándar en los ejemplos básicos de programación](https://es.wikipedia.org/wiki/Hola_mundo)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(`{}`)
 - Within each declaration, you must use a colon (`:`) to separate the property from its value or values.</seg>
       </tuv>
@@ -29099,6 +29107,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;script src="scripts/main.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175451Z" creationid="Nachec" creationdate="20221023T175451Z">
+        <seg>&lt;script src="scripts/main.js"&gt;&lt;/script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;script type="module"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064615Z" creationid="gitnacho" creationdate="20221004T064615Z">
@@ -31281,6 +31297,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Warning:** If you haven't been following along with the rest of our course, [download this example code](https://codeload.github.com/mdn/beginner-html-site-styled/zip/refs/heads/gh-pages) and use it as a starting point.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175348Z" creationid="Nachec" creationdate="20221023T175348Z">
+        <seg>&gt; **Advertencia:** si no has venido siguiendo el resto de nuestro curso, [descarga este código de ejemplo](https://github.com/mdn/beginner-html-site-styled/archive/gh-pages.zip) y úsalo como punto de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Warning:** If you just see "1 3" instead of a fraction, then your browser may not support MathML.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181419Z" creationid="Nachec" creationdate="20221021T181419Z">
@@ -32640,6 +32664,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T135652Z" creationid="Nachec" creationdate="20221023T135424Z">
         <seg>Agrega el elemento {{htmlelement("link")}}`...` en algún lugar del _head_ de tu archivo `index.html` (de nuevo, en cualquier lugar entre las etiquetas {{htmlelement("head")}} y `&lt;/head&gt;`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add this code to the `main.js` file:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175533Z" creationid="Nachec" creationdate="20221023T175533Z">
+        <seg>Ahora añade el siguiente código al archivo `main.js`:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37336,6 +37368,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to your test site and create a new folder named `scripts`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175406Z" creationid="Nachec" creationdate="20221023T175406Z">
+        <seg>Primero, ve a tu sitio de pruebas y crea un directorio llamado `scripts`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good luck!</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223926Z" creationid="gitnacho" creationdate="20221018T223926Z">
@@ -40419,6 +40459,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In your `index.html` file, enter this code on a new line, just before the closing `&lt;/body&gt;` tag:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175450Z" creationid="Nachec" creationdate="20221023T175450Z">
+        <seg>A continuación, abre tu archivo `index.html` e introduce el siguiente código en una nueva línea, justo antes de la etiqueta de cierre `&lt;/body&gt;`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In your command prompt/terminal, go inside the `learning-area` directory using `cd`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050836Z" creationid="Nachec" creationdate="20221020T173717Z">
@@ -40763,6 +40811,14 @@ relevant header and serve an actual page to the user.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225628Z" creationid="gitnacho" creationdate="20221011T225024Z">
         <seg>Aparece cuando la solicitud se califica como ["para preverificar"](/es/docs/Web/HTTP/CORS#preflighted_requests) y se omite para [solicitudes simples](/es/docs/Web/HTTP/CORS #solicitudes_simples).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It applies the JavaScript to the page, so it can have an effect on the HTML (along with the CSS, and anything else on the page).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175523Z" creationid="Nachec" creationdate="20221023T175523Z">
+        <seg>aplica el código JavaScript a la página, para que pueda actuar sobre el HTML (y CSS, o cualquier cosa en la página).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52262,6 +52318,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is doing the same job as the {{htmlelement("link")}} element for CSS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175509Z" creationid="Nachec" creationdate="20221023T175509Z">
+        <seg>Esto hace básicamente el mismo trabajo que el elemento {{htmlelement("link")}} para CSS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is due to two properties of the "∑" operator:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105850Z" creationid="Nachec" creationdate="20221021T105850Z">
@@ -53383,6 +53447,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T123503Z" creationid="gitnacho" creationdate="20221003T123503Z">
         <seg>Para permitir el registro de errores para sitios que usan un dominio separado para medios estáticos, usa este atributo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To begin, let's examine how to add JavaScript to your page for creating a _Hello world!_ example.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175318Z" creationid="Nachec" creationdate="20221023T175305Z">
+        <seg>Para comenzar, mostraremos cómo añadir JavaScript básico a tu página, creando un "_¡Hola Mundo!_" de ejemplo</seg>
       </tuv>
     </tu>
     <tu>
@@ -56018,6 +56090,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Within the scripts folder, create a new text document called `main.js`, and save it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175434Z" creationid="Nachec" creationdate="20221023T175434Z">
+        <seg>Luego, dentro del nuevo directorio de scripts, crea un nuevo archivo llamado `main.js` y guárdalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Without overwhelming you, this article will provide enough information to make you familiar with HTML.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T043747Z" creationid="gitnacho" creationdate="20220925T043747Z">
@@ -56700,6 +56780,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142919Z" creationid="Nachec" creationdate="20221023T142919Z">
         <seg>Puedes haber notado que hay un hueco horrible en la parte superior de `body`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may have to start small, and progress gradually.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175243Z" creationid="Nachec" creationdate="20221023T175243Z">
+        <seg>Deberás comenzar poco a poco y continuar trabajando en pasos pequeños y consistentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64527,6 +64615,15 @@ api.destroy_buffer(p);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T223610Z" creationid="gitnacho" creationdate="20221005T223610Z">
         <seg>const mod = new WebAssembly.Module(bytes);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>const myHeading = document.querySelector("h1");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175551Z" creationid="Nachec" creationdate="20221023T175551Z">
+        <seg>```js
+const miTitulo = document.querySelector('h1');</seg>
       </tuv>
     </tu>
     <tu>
