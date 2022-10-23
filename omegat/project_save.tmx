@@ -3658,6 +3658,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Paragraphs</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T103819Z" creationid="Nachec" creationdate="20221023T103819Z">
+        <seg>### Párrafos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Parameters</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T225039Z" creationid="gitnacho" creationdate="20220921T225039Z">
@@ -31787,6 +31795,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add your sample text (you should have it from [_What will your website look like?_](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)) into one or a few paragraphs, placed directly below your {{htmlelement("img")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104011Z" creationid="Nachec" creationdate="20221023T104011Z">
+        <seg>Agrega uno o algunos párrafos a tu texto de ejemplo (deberías tenerlo de cuando estudiaste [_¿Cuál será la apariencia de tu sitio web?_](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)), colocados directamente debajo del elemento {{HTMLElement("img")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AddType text/cache-manifest           appcache</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T212839Z" creationid="gitnacho" creationdate="20220921T212839Z">
@@ -32696,6 +32712,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105805Z" creationid="Nachec" creationdate="20221021T105805Z">
         <seg>Como era de esperar, la fórmula ya no está centrada y el renderizado se modifica para minimizar la altura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As explained above, {{htmlelement("p")}} elements are for containing paragraphs of text; you'll use these frequently when marking up regular text content:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T103846Z" creationid="Nachec" creationdate="20221023T103846Z">
+        <seg>Como se explicó más arriba, los elementos {{htmlelement("p")}} se utilizan para encerrar párrafos de texto; los usarás frecuentemente para el marcado de contenido de texto regular:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52180,6 +52204,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try to create a meaningful sequence of headings on your pages, without skipping levels.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T103812Z" creationid="Nachec" creationdate="20221023T103812Z">
+        <seg>Intenta crear una secuencia significativa de encabezados en tus páginas, sin saltarte niveles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try to guess the elements laid out with scripted elements `&lt;msub&gt;`, `&lt;msup&gt;`, `&lt;msubsup&gt;`, `&lt;munder&gt;`, `&lt;mover&gt;`, `&lt;munderover&gt;`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103733Z" creationid="Nachec" creationdate="20221021T103733Z">
@@ -56649,6 +56681,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054142Z" creationid="Nachec" creationdate="20221023T054142Z">
         <seg>```html
 &lt;p&gt;Mi gato es muy gruñón&lt;/p&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;p&gt;This is a single paragraph&lt;/p&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T103903Z" creationid="Nachec" creationdate="20221023T103903Z">
+        <seg>```html
+&lt;p&gt;Este es un simple párrafo&lt;/p&gt;
 ```</seg>
       </tuv>
     </tu>
