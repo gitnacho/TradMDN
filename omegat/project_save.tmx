@@ -2706,6 +2706,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Adding a personalized welcome message</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193616Z" creationid="Nachec" creationdate="20221023T193616Z">
+        <seg>### Añadir un mensaje de bienvenida personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Adding an image changer</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192726Z" creationid="Nachec" creationdate="20221023T192726Z">
@@ -27359,6 +27367,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;button&gt;Change user&lt;/button&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193903Z" creationid="Nachec" creationdate="20221023T193903Z">
+        <seg>&lt;button&gt;Cambiar de usuario&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;circle cx="150" cy="50" r="40" fill="green" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173718Z" creationid="gitnacho" creationdate="20221005T173718Z">
@@ -40195,6 +40211,22 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In `index.html`, add the following line just before the {{htmlelement("script")}} element:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193851Z" creationid="Nachec" creationdate="20221023T193851Z">
+        <seg>En `index.html`, agrega el siguiente código antes del elemento {{htmlelement("script")}}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In `main.js`, place the following code at the bottom of the file, exactly as it is written.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193912Z" creationid="Nachec" creationdate="20221023T193912Z">
+        <seg>En `main.js`, agrega el siguiente código al final del archivo, exactamente como está escrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In `shared1.wat`, we export a function called `doIt` — this function creates two constants containing the values `0` and `42`, then calls `i32.store` to store a provided value at a provided index of the imported memory.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074023Z" creationid="gitnacho" creationdate="20221007T074023Z">
@@ -43843,6 +43875,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061302Z" creationid="gitnacho" creationdate="20221019T061302Z">
         <seg>A continuación, toma papel y lápiz y dibuja aproximadamente cómo deseas que se vea tu sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, let's change the page title to a personalized welcome message when the user first visits the site.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193638Z" creationid="Nachec" creationdate="20221023T193638Z">
+        <seg>Ahora añadirás un poco más de código, para cambiar el título de la página o incluir un mensaje de bienvenida personalizado para cuando el usuario ingrese por primera vez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54366,6 +54406,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This takes references to the new button and the heading, storing each inside variables:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193925Z" creationid="Nachec" creationdate="20221023T193925Z">
+        <seg>Esto toma referencia al nuevo botón que se agregó y al título y los almacena en variables:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This timeline is a special instance of {{domxref("DocumentTimeline")}} that is automatically created on page load.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221006T092617Z">
@@ -54458,6 +54506,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190912Z" creationid="Nachec" creationdate="20221023T190829Z">
         <seg>este usa al operador de identidad (descrito arriba) para comparar la variable `helado` con la cadena `chocolate` para ver si las dos son iguales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This welcome message will persist.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193825Z" creationid="Nachec" creationdate="20221023T193652Z">
+        <seg>Este mensaje de bienvenida permanecerá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56171,6 +56227,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062351Z" creationid="gitnacho" creationdate="20221004T062351Z">
         <seg>Utilizaremos estas características en la siguiente sección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will also include an option to change the user, and therefore, the welcome message.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193837Z" creationid="Nachec" creationdate="20221023T193837Z">
+        <seg>También se incluirá una opción para cambiar el usuario y por lo tanto también el mensaje de bienvenida en cualquier momento que se requiera.</seg>
       </tuv>
     </tu>
     <tu>
