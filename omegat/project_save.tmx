@@ -31890,6 +31890,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A sans-serif font has been set, the font sizes, line height and letter spacing are adjusted, and the main page heading has been centered](website-screenshot-font-small.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140533Z" creationid="Nachec" creationdate="20221023T140533Z">
+        <seg>Se ha configurado una fuente sans-serif, se han ajustado los tamaños de fuente, la altura de línea y el espaciado entre letras, y se ha centrado el encabezado de la página principal](website-screenshot-font-small.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A script in KumaScript is a _template_, and each template is a file in [the macros directory](https://github.com/mdn/yari/tree/main/kumascript/macros) of the `mdn/yari` repository on GitHub.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065005Z" creationid="gitnacho" creationdate="20221005T065005Z">
@@ -32367,6 +32375,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T005621Z" creationid="gitnacho" creationdate="20221003T005621Z">
         <seg>Adicionalmente, el costo de descargar, analizar gramaticalmente (*parsing*) y compilar aplicaciones JavaScript muy grandes resulta prohibitivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust the `px` values as you like.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140447Z" creationid="Nachec" creationdate="20221023T140447Z">
+        <seg>Ajusta los valores `px` como desees.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34191,6 +34207,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CSS comments are a way for you to write helpful notes about your code or logic.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140227Z" creationid="Nachec" creationdate="20221023T140227Z">
+        <seg>Este es un espacio donde puedes escribir notas útiles sobre lo que estás haciendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CSS uses dimensions to specify:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234737Z" creationid="Nachec" creationdate="20221021T234737Z">
@@ -35556,6 +35580,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201844Z" creationid="Nachec" creationdate="20221021T201844Z">
         <seg>Finalmente, agrega este archivo de configuración a la lista de ubicaciones de fuentes del sistema y regenera la caché `fontconfig`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, let's expand the second ruleset (below) with settings for line height and letter spacing to make body content more readable.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140402Z" creationid="Nachec" creationdate="20221023T140402Z">
+        <seg>Finalmente, ampliemos el segundo conjunto de reglas (a continuación) con configuraciones para la altura de línea y el espacio entre letras para que el contenido del cuerpo sea más legible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42870,6 +42902,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222057Z" creationid="gitnacho" creationdate="20221011T222057Z">
         <seg>Ahora veamos cómo responde el servidor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's set font sizes for elements that will have text inside the HTML body ({{htmlelement("h1")}}, {{htmlelement("li")}}, and {{htmlelement("p")}}).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140254Z" creationid="Nachec" creationdate="20221023T140254Z">
+        <seg>Ahora escoge el tamaño de fuente para los elementos que contienen texto dentro del cuerpo del HTML ({{htmlelement("h1")}}, {{htmlelement("li")}} y {{htmlelement("p")}}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54083,6 +54123,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We'll also center the heading.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140422Z" creationid="Nachec" creationdate="20221023T140317Z">
+        <seg>También centraremos el encabezado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'll answer questions like: How do I make text red?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120422Z" creationid="Nachec" creationdate="20221023T120422Z">
@@ -56067,6 +56115,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T144926Z" creationid="gitnacho" creationdate="20221002T144926Z">
         <seg>Tu *service worker* puede responder a las solicitudes mediante el evento {{DOMxRef("FetchEvent")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your work-in-progress should look similar to this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140505Z" creationid="Nachec" creationdate="20221023T140505Z">
+        <seg>Tu trabajo en progreso se debería ver similar a esto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64676,6 +64732,14 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font-size: 16px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140426Z" creationid="Nachec" creationdate="20221023T140426Z">
+        <seg>font-size: 16px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font-size: 200%;
 }
 ```</seg>
@@ -64704,6 +64768,14 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225120Z" creationid="Nachec" creationdate="20221021T225120Z">
         <seg>font-size: 250%;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>font-size: 60px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140423Z" creationid="Nachec" creationdate="20221023T140423Z">
+        <seg>font-size: 60px;</seg>
       </tuv>
     </tu>
     <tu>
@@ -65028,6 +65100,14 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210830T114203Z" creationid="gitnacho" creationdate="20210830T114203Z">
         <seg>gulp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>h1 {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140422Z" creationid="Nachec" creationdate="20221023T140422Z">
+        <seg>h1 {</seg>
       </tuv>
     </tu>
     <tu>
@@ -66030,10 +66110,26 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>letter-spacing: 1px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140428Z" creationid="Nachec" creationdate="20221023T140428Z">
+        <seg>letter-spacing: 1px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>letter-spacing: 3px;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225131Z" creationid="Nachec" creationdate="20221021T225131Z">
         <seg>letter-spacing: 3px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>li {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140425Z" creationid="Nachec" creationdate="20221023T140425Z">
+        <seg>li {</seg>
       </tuv>
     </tu>
     <tu>
@@ -66052,6 +66148,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225121Z" creationid="Nachec" creationdate="20221021T225121Z">
         <seg>line-height: 1.5em;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>line-height: 2;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140427Z" creationid="Nachec" creationdate="20221023T140427Z">
+        <seg>line-height: 2;</seg>
       </tuv>
     </tu>
     <tu>
@@ -66770,6 +66874,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103852Z" creationid="Nachec" creationdate="20221021T103852Z">
         <seg>outputDiv.insertAdjacentHTML(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>p,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140424Z" creationid="Nachec" creationdate="20221023T140424Z">
+        <seg>p,</seg>
       </tuv>
     </tu>
     <tu>
@@ -68241,6 +68353,14 @@ tags:</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T174241Z" creationid="gitnacho" creationdate="20221012T174241Z">
         <seg>template_name = 'books/my_arbitrary_template_name_list.html'
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>text-align: center;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140424Z" creationid="Nachec" creationdate="20221023T140424Z">
+        <seg>text-align: center;</seg>
       </tuv>
     </tu>
     <tu>
