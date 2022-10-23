@@ -36714,6 +36714,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FTP programs vary widely, but generally, you have to connect to your web server using details provided by your hosting company (typically username, password, hostname).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T205500Z" creationid="Nachec" creationdate="20221023T205500Z">
+        <seg>Los programas FTP varían ampliamente, pero en general tienes que conectarte a tu servidor web contratado mediante detalles proporcionados por tu empresa de alojamiento (por ejemplo: nombre de usuario, contraseña, nombre del _host_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055139Z" creationid="Nachec" creationdate="20221023T055139Z">
