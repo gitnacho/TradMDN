@@ -56387,6 +56387,37 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When it is used</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185104Z" creationid="Nachec" creationdate="20221023T185104Z">
+        <seg>&lt;p&gt;
+          La expresión básica es &lt;code&gt;true&lt;/code&gt;, pero la comparación devuelve
+          &lt;code&gt;false&lt;/code&gt; porque lo hemos negado:
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;code&gt;let miVariable = 3;&lt;br /&gt;!miVariable === 3;&lt;/code&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+          Aquí estamos comprobando "&lt;code&gt;miVariable&lt;/code&gt; NO es igual a 3".
+          Esto devuelve &lt;code&gt;false&lt;/code&gt;, porque &lt;code&gt;miVariable&lt;/code&gt; ES
+          igual a 3.
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;code&gt;&lt;code&gt;let miVariable = 3;&lt;/code&gt;&lt;br /&gt;miVariable !== 3;&lt;/code&gt;
+        &lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+Hay muchos operadores por explorar, pero con esto será suficiente por ahora. Mira [Expresiones y operadores](/es/docs/Web/JavaScript/Reference/Operators) para ver la lista completa.
+
+&gt; **Nota:** mezclar tipos de datos puede dar lugar a resultados extraños cuando se hacen cálculos, así que asegúrate de que relacionas tus variables correctamente y de que recibes los resultados que esperabas. Por ejemplo, teclea: `"3" + "25"` en tu consola. ¿Por qué no obtienes lo que esperabas? Porque las comillas convierten los números en "strings" (el término inglés para denominar cadenas de caracteres) y de este modo has acabado con los "strings" concatenados entre sí, y no con los números sumados. Si tecleas: `35 + 25`, obtendrás el resultado correcto.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When no pages are using the current version, the new worker activates and becomes responsible for fetches.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053210Z" creationid="gitnacho" creationdate="20220921T041903Z">
@@ -63197,6 +63228,14 @@ unreachable
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101833Z" creationid="gitnacho" creationdate="20221006T101833Z">
         <seg>un módulo `.wasm` que deseas transmitir, compilar e instanciar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a &lt;code&gt;true&lt;/code&gt; into a &lt;code&gt;false&lt;/code&gt;, etc..</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185014Z" creationid="Nachec" creationdate="20221023T185014Z">
+        <seg>&lt;code&gt;true&lt;/code&gt; por &lt;code&gt;false&lt;/code&gt; y viceversa.</seg>
       </tuv>
     </tu>
     <tu>
