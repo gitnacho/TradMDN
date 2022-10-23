@@ -5978,6 +5978,30 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**The closing tag:** This is the same as the opening tag, except that it includes a _forward slash_ before the element name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055020Z" creationid="Nachec" creationdate="20221023T055020Z">
+        <seg>**La etiqueta de cierre**: Es igual que la etiqueta de apertura, excepto que incluye una barra de cierre (/) antes del nombre de la etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**The content:** This is the content of the element, which in this case, is just text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055205Z" creationid="Nachec" creationdate="20221023T055205Z">
+        <seg>**El contenido**: Este es el contenido del elemento, que en este caso sólo es texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**The element:** The opening tag, the closing tag, and the content together comprise the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055229Z" creationid="Nachec" creationdate="20221023T055229Z">
+        <seg>**El elemento**: La etiqueta de apertura, más la etiqueta de cierre, más el contenido equivalen al elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**The opening tag:** This consists of the name of the element (in this case, p), wrapped in opening and closing **angle brackets**.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054908Z" creationid="Nachec" creationdate="20221023T054908Z">
@@ -34379,6 +34403,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Elements can also have attributes that look like the following:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055245Z" creationid="Nachec" creationdate="20221023T055245Z">
+        <seg>Los elementos también pueden tener atributos, que se ven así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emscripten first feeds the C/C++ into clang+LLVM — a mature open-source C/C++ compiler toolchain, shipped as part of XCode on OSX for example.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081135Z" creationid="gitnacho" creationdate="20221003T081135Z">
@@ -34668,6 +34700,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201316Z" creationid="Nachec" creationdate="20221021T201316Z">
         <seg>Extrae el archivo ZIP, muévete dentro del directorio `latinmodern-math-1959` y luego dentro del directorio `otf`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055139Z" creationid="Nachec" creationdate="20221023T055139Z">
+        <seg>No agregar una etiqueta de cierre es uno de los errores estándar de los principiantes y puede generar extraños resultados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50654,6 +50694,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054959Z" creationid="Nachec" creationdate="20221023T054959Z">
         <seg>Estos establecen dónde comienza o empieza a tener efecto el elemento —en este caso, dónde es el comienzo del párrafo—.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This states where the element ends — in this case where the paragraph ends.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055047Z" creationid="Nachec" creationdate="20221023T055047Z">
+        <seg>Esta determina dónde termina el elemento —en este caso dónde termina el párrafo—.</seg>
       </tuv>
     </tu>
     <tu>
