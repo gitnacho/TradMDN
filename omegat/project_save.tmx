@@ -62506,8 +62506,9 @@ function openDatabase() {</seg>
         <seg>```js
 function setUserName() {</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200108Z" creationid="Nachec" creationdate="20221023T200108Z">
-        <seg>function estableceNombreUsuario() {</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T203602Z" creationid="Nachec" creationdate="20221023T200108Z">
+        <seg>```js
+function estableceNombreUsuario() {</seg>
       </tuv>
     </tu>
     <tu>
