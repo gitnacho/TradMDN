@@ -79751,3 +79751,4 @@ zygote	cigoto
 literacy	alfabetización	alfabetización
 double-struck	doble golpe
 fraktur	fractura
+drop	difuminada
