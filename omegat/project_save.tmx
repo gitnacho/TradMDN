@@ -33145,6 +33145,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the following function to set the personalized greeting.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193952Z" creationid="Nachec" creationdate="20221023T193952Z">
+        <seg>Ahora agrega la siguiente función para poner el saludo personalizado,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add the following into your code, where indicated:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225838Z" creationid="gitnacho" creationdate="20221006T225838Z">
@@ -48453,6 +48461,14 @@ synchronously compile given WebAssembly binary code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `setUserName()` function contains a [`prompt()`](/en-US/docs/Web/API/Window/prompt) function, which displays a dialog box, similar to `alert()`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194256Z" creationid="Nachec" creationdate="20221023T194104Z">
+        <seg>La función `estableceNombreUsuario()` contiene una función [`prompt()`](/es/docs/Web/API/Window/prompt), que crea un cuadro de diálogo como lo hace `alert()`;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `shared` attribute is only documented in [the Threading proposal for WebAssembly](https://github.com/WebAssembly/threads/blob/master/proposals/threads/Overview.md#javascript-api-changes) and not part of the official specs.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T220727Z" creationid="gitnacho" creationdate="20221019T220727Z">
@@ -54554,6 +54570,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072744Z" creationid="gitnacho" creationdate="20221007T072744Z">
         <seg>Esto tomará un `i32` como parámetro, al que se le asigna el nombre de argumento `$i`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This won't do anything yet, but this will change soon.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194004Z" creationid="Nachec" creationdate="20221023T194004Z">
+        <seg>lo que no causará nada aún, pero arreglarás esto en un momento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66284,6 +66308,14 @@ api.destroy_buffer(p);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>const myName = prompt("Please enter your name.");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194125Z" creationid="Nachec" creationdate="20221023T194022Z">
+        <seg>const miNombre = prompt('Por favor, ingresa tu nombre.');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>const mySrc = myImage.getAttribute("src");</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193221Z" creationid="Nachec" creationdate="20221023T193221Z">
@@ -67620,6 +67652,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>function setUserName() {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194016Z" creationid="Nachec" creationdate="20221023T194016Z">
+        <seg>function estableceNombreUsuario() {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>function throwExceptionWithStack(param) {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T204231Z" creationid="gitnacho" creationdate="20221019T204231Z">
@@ -68736,6 +68776,22 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>let myButton = document.querySelector("button");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193935Z" creationid="Nachec" creationdate="20221023T193935Z">
+        <seg>let miBoton = document.querySelector('button');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>let myHeading = document.querySelector("h1");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193942Z" creationid="Nachec" creationdate="20221023T193942Z">
+        <seg>let miTitulo = document.querySelector( 'h1');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>let options = {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20181129T062001Z" creationid="nacho" creationdate="20181129T062001Z">
@@ -68904,6 +68960,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054633Z" creationid="gitnacho" creationdate="20221007T054633Z">
         <seg>local.get 2)
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>localStorage.setItem("name", myName);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194028Z" creationid="Nachec" creationdate="20221023T194028Z">
+        <seg>localStorage.setItem('nombre', miNombre);</seg>
       </tuv>
     </tu>
     <tu>
@@ -69238,6 +69302,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175602Z" creationid="Nachec" creationdate="20221023T175602Z">
         <seg>miTitulo.textContent = '¡Hola mundo!';</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>myHeading.textContent = `Mozilla is cool, ${myName}`;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194211Z" creationid="Nachec" creationdate="20221023T194038Z">
+        <seg>miTitulo.textContent = `Mozilla es genial, ${miNombre}`;</seg>
       </tuv>
     </tu>
     <tu>
