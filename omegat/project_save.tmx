@@ -26632,6 +26632,15 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a&gt;Mozilla Manifesto&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104847Z" creationid="Nachec" creationdate="20221023T104847Z">
+        <seg>```html
+&lt;a&gt;Manifesto Mozilla&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;article&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T012131Z" creationid="gitnacho" creationdate="20220901T012131Z">
@@ -33821,6 +33830,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose some text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104720Z" creationid="Nachec" creationdate="20221023T104720Z">
+        <seg>Elige algún texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose your operating system below and click the relevant links to download installers for your favorite browsers:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T154953Z" creationid="gitnacho" creationdate="20221012T154953Z">
@@ -36327,6 +36344,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211939Z" creationid="gitnacho" creationdate="20221005T211939Z">
         <seg>Las muestras en vivo de GitHub se insertan en la página mediante la macro [`EmbedGHLiveSample`](https://github.com/mdn/yari/blob/main/kumascript/macros/EmbedGHLiveSample.ejs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Give the {{htmlelement("a")}} element an `href` attribute, as shown below:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104954Z" creationid="Nachec" creationdate="20221023T104954Z">
+        <seg>Proporciónale al elemento {{HTMLElement("a")}} un atributo `href`, así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52110,6 +52135,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To make text within your paragraph into a link, follow these steps:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104710Z" creationid="Nachec" creationdate="20221023T104710Z">
+        <seg>Para convertir algún texto dentro de un párrafo en un enlace, sigue estos pasos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To prove that it worked, turn your result buffer into a blob and use it on an `&lt;img&gt;` element:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T055213Z" creationid="gitnacho" creationdate="20221004T055213Z">
@@ -52796,6 +52829,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T214623Z" creationid="gitnacho" creationdate="20221019T214623Z">
         <seg>Luego podemos hacer crecer la instancia en una página así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We chose the text "Mozilla Manifesto".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104742Z" creationid="Nachec" creationdate="20221023T104742Z">
+        <seg>Nosotros elegimos "*Manifesto Mozilla*".</seg>
       </tuv>
     </tu>
     <tu>
@@ -54337,6 +54378,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223420Z" creationid="gitnacho" creationdate="20221018T223420Z">
         <seg>Simplemente trabaja en cada sección, aprendiendo nuevas habilidades (o mejorando las existentes) sobre la marcha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wrap the text in an {{htmlelement("a")}} element, as shown below:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104817Z" creationid="Nachec" creationdate="20221023T104817Z">
+        <seg>Encierra el texto en un elemento {{HTMLElement("a")}}, así:</seg>
       </tuv>
     </tu>
     <tu>
