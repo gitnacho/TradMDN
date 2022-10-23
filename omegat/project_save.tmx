@@ -44421,6 +44421,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Placing JavaScript near the bottom of an HTML page is one way to accommodate this dependency.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175905Z" creationid="Nachec" creationdate="20221023T175905Z">
+        <seg>Por lo tanto, colocar el JavaScript cerca del final de la página es normalmente la mejor estrategia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please [file bugs](https://github.com/rustwasm/wasm-bindgen/issues/new) if something is missing.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063034Z" creationid="gitnacho" creationdate="20221004T063034Z">
@@ -53817,6 +53825,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064103Z" creationid="gitnacho" creationdate="20221004T064103Z">
         <seg>Para conocerlos en detalle, consulta [esta publicación del blog sobre Mozilla Hacks](https://hacks.mozilla.org/2018/04/hello-wasm-pack/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn more about alternative approaches, see [Script loading strategies](/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript#script_loading_strategies).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180331Z" creationid="Nachec" creationdate="20221023T180331Z">
+        <seg>Para aprender más sobre enfoques alternativos, mira [Estrategias de carga de scripts](/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript#estrategias_para_la_carga_de_scripts).</seg>
       </tuv>
     </tu>
     <tu>
