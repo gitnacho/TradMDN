@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Three boxes sat inside one another.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141041Z" creationid="Nachec" creationdate="20221023T141041Z">
+        <seg>![tres cajas puestas una dentro de otra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![](cors_principle.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213007Z" creationid="gitnacho" creationdate="20221011T213007Z">
@@ -16853,6 +16861,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `background-color`, the color behind an element's content and padding.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141158Z" creationid="Nachec" creationdate="20221023T141158Z">
+        <seg>- `background-color`, el color de fondo del contenido y del relleno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `batch` - Batch (Windows Shell)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T175003Z" creationid="gitnacho" creationdate="20221008T175003Z">
@@ -16901,6 +16917,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `border`, the solid line that is just outside the padding.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141024Z" creationid="Nachec" creationdate="20221023T141024Z">
+        <seg>- `border` (marco), la línea que se encuentra fuera del relleno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `bufferSource`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T122223Z" creationid="gitnacho" creationdate="20221007T122223Z">
@@ -16945,6 +16969,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174801Z" creationid="gitnacho" creationdate="20221008T174801Z">
         <seg>- `clike` - C-like (para cualquier lenguaje similar a C no definido)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `color`, the color of an element's content (usually text).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141206Z" creationid="Nachec" creationdate="20221023T141206Z">
+        <seg>- `color`, el color del contenido del elemento (generalmente texto)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17433,6 +17465,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `margin`, the space around the outside of the border.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141034Z" creationid="Nachec" creationdate="20221023T141034Z">
+        <seg>- `margin` (margen), el espacio fuera del elemento que lo separa de los demás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `mathml` - MathML</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174829Z" creationid="gitnacho" creationdate="20221008T174829Z">
@@ -17647,6 +17687,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125601Z" creationid="gitnacho" creationdate="20221003T125601Z">
         <seg>- `origin`: La referencia enviada se limitará al origen de la página de referencia: su [esquema](/es/docs/Learn/Common_questions/What_is_a_URL), {{Glossary("host")}}, y {{Glossary("port")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `padding`, the space around the content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140955Z" creationid="Nachec" creationdate="20221023T140955Z">
+        <seg>- `padding` (relleno), el espacio alrededor del contenido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17965,6 +18013,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `text-shadow` sets a drop shadow on the text inside an element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141301Z" creationid="Nachec" creationdate="20221023T141301Z">
+        <seg>- `text-shadow`: coloca una sombra difuminada en el texto dentro del elemento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `text/plain`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220854Z" creationid="gitnacho" creationdate="20221011T220854Z">
@@ -18099,6 +18155,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174820Z" creationid="gitnacho" creationdate="20221008T174820Z">
         <seg>- `wasm` - WebAssembly
 - Estilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `width` (of an element).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141149Z" creationid="Nachec" creationdate="20221023T141149Z">
+        <seg>- `width` (ancho del elemento)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34231,6 +34295,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CSS layout is mostly based on the _box model._ Each box taking up space on your page has properties like:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140945Z" creationid="Nachec" creationdate="20221023T140945Z">
+        <seg>No es de extrañar que el diseño de CSS esté basado principalmente en el _modelo de caja_. Cada una de las cajas que ocupa espacio en tu página tiene propiedades como estas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CSS uses dimensions to specify:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234737Z" creationid="Nachec" creationdate="20221021T234737Z">
@@ -36763,6 +36835,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T111938Z" creationid="gitnacho" creationdate="20221003T111938Z">
         <seg>Desde dentro de tu directorio más reciente (y dentro de la ventana de terminal del entorno del compilador Emscripten), compila tu código C con el siguiente comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From outside to in they are labelled margin, border and padding](box-model.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141132Z" creationid="Nachec" creationdate="20221023T141132Z">
+        <seg>Desde fuera hasta adentro están etiquetadas con el margen, el borde y el relleno](box-model.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39484,6 +39564,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the example below, it is the space around the paragraph text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141012Z" creationid="Nachec" creationdate="20221023T141012Z">
+        <seg>En el siguiente ejemplo, es el espacio alrededor del texto del párrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the following code snippet, we make a request to open a database, and include handlers for the success and error cases.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T210952Z" creationid="gitnacho" creationdate="20220911T210952Z">
@@ -39926,6 +40014,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T182026Z" creationid="gitnacho" creationdate="20221006T182026Z">
         <seg>En este modelo de memoria, cualquier carga o almacenamiento puede acceder a cualquier byte en toda la memoria lineal, lo cual es necesario para representar fielmente conceptos de C/C++ como punteros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this section we also use:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141141Z" creationid="Nachec" creationdate="20221023T141141Z">
+        <seg>En esta sección también se utiliza:</seg>
       </tuv>
     </tu>
     <tu>
