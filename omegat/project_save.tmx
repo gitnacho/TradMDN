@@ -3170,6 +3170,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Events</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191820Z" creationid="Nachec" creationdate="20221023T191820Z">
+        <seg>### Eventos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Examples</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181533Z" creationid="gitnacho" creationdate="20221008T181533Z">
@@ -5580,6 +5588,14 @@ for information on section structures, and how normal sections
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T223432Z" creationid="gitnacho" creationdate="20221019T222312Z">
         <seg>(Lee [Estructura de alto nivel](https://github.com/WebAssembly/design/blob/main/BinaryEncoding.md#high-level-structure)
 para obtener información sobre la estructura de las secciones y cómo se distinguen las secciones normales ("secciones conocidas") y las secciones personalizadas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Read more about [variable scoping](/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#variable_scope).)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191817Z" creationid="Nachec" creationdate="20221023T191817Z">
+        <seg>Lee más sobre [ámbito o alcance de la variable](/es/docs/Web/JavaScript/Guide/Grammar_and_types#%C3%81mbito_de_variable).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45326,6 +45342,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Real interactivity on a website requires event handlers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191835Z" creationid="Nachec" creationdate="20221023T191835Z">
+        <seg>Para crear una interacción real en tu sitio web, debes usar eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recall that [some vertical operators can stretch](/en-US/docs/Learn/MathML/First_steps/Text_containers#active_learning_stretchy_operators) to cover the height of non-stretchy siblings inside an `&lt;mrow&gt;`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104952Z" creationid="Nachec" creationdate="20221021T104923Z">
@@ -49905,6 +49929,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most obvious example is handling the [click event](/en-US/docs/Web/API/Element/click_event), which is fired by the browser when you click on something with your mouse.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192004Z" creationid="Nachec" creationdate="20221023T192004Z">
+        <seg>El ejemplo más obvio es un clic ([click event](/es/docs/Web/API/Element/click_event)), que se activa al hacer clic sobre algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The motivation is that the {{HTMLElement("form")}} element from HTML 4.0 (which predates cross-site {{domxref("XMLHttpRequest")}} and {{domxref("fetch")}}) can submit simple requests to any origin, so anyone writing a server must already be protecting against {{Glossary("CSRF", "cross-site request forgery")}} (CSRF).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T220139Z">
@@ -51489,6 +51521,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234841Z" creationid="Nachec" creationdate="20221021T234841Z">
         <seg>Todos estos están cubiertos en las subsecciones a continuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are code structures that listen for activity in the browser, and run code in response.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191901Z" creationid="Nachec" creationdate="20221023T191901Z">
+        <seg>Estos son unas estructuras de código que captan lo que sucede en el navegador, y permiten que en respuesta a las acciones que suceden se ejecute un código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53213,6 +53253,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is called variable {{Glossary("Scope", "scoping")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191759Z" creationid="Nachec" creationdate="20221023T191759Z">
+        <seg>Esto se conoce como {{Glossary("Scope", "ámbito")}} (_scope_ en inglés) de la variable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is doing the same job as the {{htmlelement("link")}} element for CSS.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175509Z" creationid="Nachec" creationdate="20221023T175509Z">
@@ -53289,6 +53337,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082839Z" creationid="gitnacho" creationdate="20221005T082839Z">
         <seg>Esto está destinado a permitirte acceder al contenido de los archivos de texto adjuntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is necessary because variables defined inside functions are only available inside those functions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191734Z" creationid="Nachec" creationdate="20221023T191734Z">
+        <seg>Esto es necesario porque las variables definidas dentro de funciones, solo están disponibles dentro de esas funciones.</seg>
       </tuv>
     </tu>
     <tu>
