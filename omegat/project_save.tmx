@@ -33318,6 +33318,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change the contents of the `alt` attribute to a [description of the image](/en-US/docs/Web/HTML/Element/img#authoring_meaningful_alternate_descriptions) you are including.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045752Z" creationid="Nachec" creationdate="20221023T045432Z">
+        <seg>Cambia el contenido del atributo `alt` a una [descripción de la imagen](/es/docs/Web/HTML/Element/img#authoring_meaningful_alternate_descriptions) que estás incluyendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changes done on it are reflected on the object it relates to.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T033823Z" creationid="gitnacho" creationdate="20220913T033823Z">
@@ -35178,6 +35186,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075707Z" creationid="Nachec" creationdate="20221021T075707Z">
         <seg>Por ejemplo, simplemente inserta la siguiente línea en la cabecera de tu documento para seleccionar las fuentes Latin Modern con fuentes Web alternativas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, our image is called `firefox-icon.png`, so the file path is `images/firefox-icon.png`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045405Z" creationid="Nachec" creationdate="20221023T045405Z">
+        <seg>Por ejemplo, nuestra imagen se llama `firefox-icon.png`, por lo que la ruta del archivo es `images/firefox-icon.png`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38481,6 +38497,47 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this case, `alt="Firefox logo: flaming fox wrapping the world"`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045511Z" creationid="Nachec" creationdate="20221023T045511Z">
+        <seg>¡Deberías ver tu nueva página web mostrando tu imagen!
+
+![Una captura de pantalla del sitio web básico que muestra solo el logotipo de Firefox: un zorro en llamas envolviendo el mundo](https://mdn.mozillademos.org/files/9229/website-screenshot.png)
+
+Algunas reglas generales para las rutas de archivo:
+
+- Para vincular a un archivo destino en el mismo directorio que el archivo HTML de invocación, simplemente usa el nombre del archivo, p. ej. `mi-imagen.jpg`.
+- Para hacer referencia a un archivo en un subdirectorio, escribe el nombre del directorio delante de la ruta, más una barra inclinada, p. ej. `subdirectorio/mi-imagen.jpg`.
+- Para vincular a un archivo destino en el directorio **arriba** del archivo HTML que lo invoca, escribe dos puntos. Por ejemplo, si `index.html` estuviera dentro de un subdirectorio de `pruebasitio` y `mi-imagen.jpg` estuviera dentro de `pruebasitio`, puedes hacer referencia a `mi-imagen.jpg` desde `index.html` utilizando `../mi-imagen.jpg`.
+- Los puedes combinar tanto como desees, por ejemplo, `../subdirectorio/otro-subdirectorio/mi-imagen.jpg`.
+
+Por ahora, esto es todo lo que necesitas saber.
+
+&gt; **Nota:** El sistema de archivos de Windows tiende a utilizar barras invertidas, no barras diagonales, p. ej. `C:\windows`. Esto no importa en HTML, incluso si estás desarrollando tu sitio web en Windows, debes usar barras diagonales en tu código.
+
+## ¿Qué más se debería hacer?
+
+Eso es todo por ahora. La estructura de tu directorio debería verse así:
+
+![Una estructura de archivos en mac os x finder, que muestra un directorio de imágenes con una imagen, directorios de estilos y scripts vacíos, y un archivo index.html](https://mdn.mozillademos.org/files/9231/file-structure.png)
+
+{{PreviousMenuNext("Learn/Getting_started_with_the_web/What_will_your_website_look_like", "Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web")}}
+
+## En este módulo
+
+- [Instalación de software básico](/es/Learn/Getting_started_with_the_web/Instalacion_de_software_basico)
+- [¿Cómo se verá tu sitio web?](/es/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Manejo de archivos](/es/Learn/Getting_started_with_the_web/Manejando_los_archivos)
+- [Conceptos básicos de HTML](/es/Learn/Getting_started_with_the_web/HTML_basics)
+- [Conceptos básicos de CSS](/es/Learn/Getting_started_with_the_web/CSS_basics)
+- [Conceptos básicos de JavaScript](/es/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publicar tu sitio web](/es/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [Cómo funciona la Web](/es/docs/Learn/Getting_started_with_the_web/Cómo_funciona_la_Web)
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this case, it is just "1".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143120Z" creationid="gitnacho" creationdate="20221019T143120Z">
@@ -38661,6 +38718,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092529Z" creationid="Nachec" creationdate="20221022T092529Z">
         <seg>El soporte inicial viene en Chrome 46 o posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert the file path into your HTML code between the double quote marks of the `src=""` code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045420Z" creationid="Nachec" creationdate="20221023T045420Z">
+        <seg>Inserta la ruta del archivo en tu código HTML entre las comillas dobles del código `src=""`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51175,6 +51240,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181750Z" creationid="gitnacho" creationdate="20221006T181750Z">
         <seg>Para verlo, puedes ir al Panel del depurador y hacer clic en la entrada "wasm://".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To walk down the file structure from `index.html` to our image, the file path we'd need is `images/your-image-filename`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045348Z" creationid="Nachec" creationdate="20221023T045348Z">
+        <seg>Para recorrer la estructura del archivo desde `index.html` hasta nuestra imagen, la ruta del archivo que necesitamos es `images/nombre-archivo-imagen`.</seg>
       </tuv>
     </tu>
     <tu>
