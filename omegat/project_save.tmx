@@ -27529,6 +27529,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;code&gt;let myVariable = [1,'Bob','Steve',10];&lt;/code&gt;&lt;br /&gt;Refer to each</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183424Z" creationid="Nachec" creationdate="20221023T183424Z">
+        <seg>&lt;code&gt;let miVariable = [1,'Bob','Steve',10];&lt;/code&gt;&lt;br /&gt;Llama a cada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;let myVariable = document.querySelector('h1');&lt;/code&gt;&lt;br /&gt;All of</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183656Z" creationid="Nachec" creationdate="20221023T183558Z">
+        <seg>&lt;code&gt;let myVariable = document.querySelector('h1');&lt;/code&gt;&lt;br /&gt;Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;myVariable[1]&lt;/code&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183450Z" creationid="Nachec" creationdate="20221023T183450Z">
+        <seg>&lt;code&gt;miVariable[1]&lt;/code&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;dd&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183611Z" creationid="gitnacho" creationdate="20221008T183611Z">
@@ -29783,6 +29807,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182919Z" creationid="Nachec" creationdate="20221023T182919Z">
         <seg>&lt;th scope="row"&gt;{{Glossary("Number")}}&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Object")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183451Z" creationid="Nachec" creationdate="20221023T183451Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Object")}}&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35998,6 +36030,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Everything in JavaScript is an object and can be</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183532Z" creationid="Nachec" creationdate="20221023T183511Z">
+        <seg>Todo en JavaScript es un objeto y se puede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Pacho" changedate="20200408T063834Z" creationid="Pacho" creationdate="20200408T063834Z">
@@ -42105,6 +42145,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062258Z" creationid="gitnacho" creationdate="20221019T062258Z">
         <seg>Mantenlos cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep this in mind as you learn.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183553Z" creationid="Nachec" creationdate="20221023T183553Z">
+        <seg>Mantén esto en mente mientras aprendes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51791,6 +51839,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110742Z" creationid="gitnacho" creationdate="20221007T110742Z">
         <seg>Puede ser cualquier valor, siempre que su tipo coincida con el tipo de dato de la variable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be anything.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183500Z" creationid="Nachec" creationdate="20221023T183500Z">
+        <seg>Básicamente cualquier cosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67867,6 +67923,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>member of the array like this:&lt;br /&gt;&lt;code&gt;myVariable[0]&lt;/code&gt;,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183433Z" creationid="Nachec" creationdate="20221023T183433Z">
+        <seg>miembro del array así: &lt;code&gt;miVariable[0]&lt;/code&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>memory: new WebAssembly.Memory({ initial: 1 }),</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074328Z" creationid="gitnacho" creationdate="20221007T074328Z">
@@ -68611,6 +68675,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T174219Z" creationid="gitnacho" creationdate="20221012T174219Z">
         <seg>queryset = Book.objects.filter(title__icontains='war')[:5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>reference.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183403Z" creationid="Nachec" creationdate="20221023T183403Z">
+        <seg>referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69734,6 +69806,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>stored in a variable.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183528Z" creationid="Nachec" creationdate="20221023T183528Z">
+        <seg>almacenar en una variable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>string</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210916T211335Z" creationid="nacho" creationdate="20201211T191432Z">
@@ -69944,6 +70024,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T102431Z" creationid="gitnacho" creationdate="20221006T102431Z">
         <seg>las [Funciones WebAssembly exportadas](/es/docs/WebAssembly/Exported_functions).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the above examples too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183643Z" creationid="Nachec" creationdate="20221023T183643Z">
+        <seg>los ejemplos anteriores también.</seg>
       </tuv>
     </tu>
     <tu>
