@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Screenshot of JS Bin web based IDE](jsbin-screen.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211340Z" creationid="Nachec" creationdate="20221023T211340Z">
+        <seg>![Captura de pantalla del IDE basado en web de JS Bin](jsbin-screen.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Screenshot of a console output in developer tools](console-example.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205640Z" creationid="gitnacho" creationdate="20221005T205640Z">
@@ -1924,6 +1932,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T212323Z" creationid="gitnacho" creationdate="20221003T212323Z">
         <seg>## Propiedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Publishing via GitHub</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211403Z" creationid="Nachec" creationdate="20221023T211403Z">
+        <seg>## Publicar a través de GitHub</seg>
       </tuv>
     </tu>
     <tu>
@@ -15466,6 +15482,20 @@ spec-urls: https://w3c.github.io/ServiceWorker/
         <seg>- [Introducción a HTML](/es/docs/Learn/HTML/Introduction_to_HTML) (15 a 20 horas de lectura/ejercicios)
 - [Multimedia e inserción](/es/docs/Learn/HTML/Multimedia_and_embedding) (15 a 20 horas de lectura/ejercicios)
 - [Tablas HTML](/es/docs/Learn/HTML/Tables) (5 a 10 horas de lectura/ejercicios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [JSFiddle](https://jsfiddle.net/)
+- [Glitch](https://glitch.com/)
+- [JS Bin](https://jsbin.com/)
+- [CodePen](https://codepen.io/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211330Z" creationid="Nachec" creationdate="20221023T211330Z">
+        <seg>- [JSFiddle](https://jsfiddle.net/)
+- [Glitch](https://glitch.com/)
+- [JS Bin](https://jsbin.com/)
+- [CodePen](https://codepen.io/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36955,6 +36985,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First of all, [sign up for GitHub](https://github.com/) and verify your email address.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211625Z" creationid="Nachec" creationdate="20221023T211540Z">
+        <seg>Si aún no lo has hecho [da de alta una cuenta en GitHub](https://github.com/join). Es simple y sencillo, solo debes verificar tu dirección de correo electrónico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First of all, open up your hello3.html file in a text editor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112218Z" creationid="gitnacho" creationdate="20221003T112218Z">
@@ -44375,6 +44413,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next, you need to [create a repository](https://github.com/new) to store files.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211711Z" creationid="Nachec" creationdate="20221023T211711Z">
+        <seg>Una vez registrado, ingresa a tu cuenta en GitHub.com con tu usuario y contraseña suministrados al crear tu cuenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No functional events are dispatched until the state becomes activated.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223800Z" creationid="gitnacho" creationdate="20221003T223800Z">
@@ -44812,6 +44858,18 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233445Z" creationid="gitnacho" creationdate="20221006T233445Z">
         <seg>Ahora accedamos a los datos en las tablas: agrega las siguientes líneas a tu código en el lugar indicado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's examine how to easily publish your site via GitHub Pages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211605Z" creationid="Nachec" creationdate="20221023T211427Z">
+        <seg>Explicados estos tres métodos veamos ahora cómo publicar fácilmente, de forma muy visual e intuitiva, o bien por medio de comandos, tu sitio a través de [GitHub Pages](https://pages.github.com/).
+
+### De manera visual y sin necesidad de más herramientas
+
+Esta no es la única manera, pero sí la que te permite poner manos a la obra inmediatamente.</seg>
       </tuv>
     </tu>
     <tu>
