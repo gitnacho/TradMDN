@@ -29423,6 +29423,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Anything in HTML between `&lt;!--` and `--&gt;` is an **HTML comment**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070826Z" creationid="Nachec" creationdate="20221023T070826Z">
+        <seg>&gt; **Nota:** Cualquier cosa en HTML entre `&lt;!--` y `--&gt;` es un **comentario HTML**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** As described below, the actual `POST` request does not include the `Access-Control-Request-*` headers; they are needed only for the `OPTIONS` request.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222708Z" creationid="gitnacho" creationdate="20221011T222708Z">
@@ -36319,6 +36327,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTML contains 6 heading levels, {{htmlelement("Heading_Elements", "&amp;lt;h1&amp;gt; - &amp;lt;h6&amp;gt;")}}, although you'll commonly only use 3 to 4 at most:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070634Z" creationid="Nachec" creationdate="20221023T070634Z">
+        <seg>HTML posee seis niveles de encabezados, {{htmlelement("Heading_Elements", "&amp;lt;h1&amp;gt; - &amp;lt;h6&amp;gt;")}}, aunque probablemente solo llegues a usar 3-4 como mucho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTML is a _markup language_ that defines the structure of your content.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T053659Z" creationid="Nachec" creationdate="20221023T053659Z">
@@ -38512,6 +38528,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092015Z" creationid="gitnacho" creationdate="20221012T092015Z">
         <seg>En otras palabras, la solicitud de un conjunto específico de sugerencias no caduca hasta que se cierra el navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, they are not visible on the page - just in the code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070846Z" creationid="Nachec" creationdate="20221023T070846Z">
+        <seg>En otras palabras, no son visibles en la página, solo en el código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46064,6 +46088,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T202738Z" creationid="gitnacho" creationdate="20221003T202738Z">
         <seg>El navegador hace lo mejor que puede para administrar el espacio en disco, pero puede eliminar el almacenamiento en `Cache` para un origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The browser ignores comments as it renders the code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070839Z" creationid="Nachec" creationdate="20221023T070839Z">
+        <seg>El navegador ignora los comentarios mientras procesa el código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56341,6 +56373,26 @@ p {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112244Z" creationid="gitnacho" creationdate="20221003T112244Z">
         <seg>```html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;!-- 4 heading levels: --&gt;
+&lt;h1&gt;My main title&lt;/h1&gt;
+&lt;h2&gt;My top level heading&lt;/h2&gt;
+&lt;h3&gt;My subheading&lt;/h3&gt;
+&lt;h4&gt;My sub-subheading&lt;/h4&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070715Z" creationid="Nachec" creationdate="20221023T070715Z">
+        <seg>```html
+&lt;!-- 4 niveles de encabezado: --&gt;
+&lt;h1&gt;Mi título principal&lt;/h1&gt;
+&lt;h2&gt;Mi título de nivel superior&lt;/h2&gt;
+&lt;h3&gt;Mi subtítulo&lt;/h3&gt;
+&lt;h4&gt;Mi sub-subtítulo&lt;/h4&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
