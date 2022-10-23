@@ -27513,6 +27513,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;code&gt;false&lt;/code&gt; are special keywords that don't need quote marks.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183336Z" creationid="Nachec" creationdate="20221023T183336Z">
+        <seg>palabras especiales en JS, y no necesitan comillas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;code&gt;img[src]&lt;/code&gt;&lt;br /&gt;selects</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134100Z" creationid="Nachec" creationdate="20221023T134100Z">
@@ -29355,6 +29363,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;let myVariable = 'Bob';&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182916Z" creationid="Nachec" creationdate="20221023T182916Z">
+        <seg>&lt;td&gt;&lt;code&gt;let myVariable = 'Bob';&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;let myVariable = 10;&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183016Z" creationid="Nachec" creationdate="20221023T183016Z">
+        <seg>&lt;td&gt;&lt;code&gt;let myVariable = 10;&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;let myVariable = true;&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183337Z" creationid="Nachec" creationdate="20221023T183337Z">
+        <seg>&lt;td&gt;&lt;code&gt;let myVariable = true;&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;&lt;code&gt;p&lt;/code&gt;&lt;br /&gt;selects &lt;code&gt;&amp;#x3C;p&gt;&lt;/code&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133817Z" creationid="Nachec" creationdate="20221023T132723Z">
@@ -29487,6 +29519,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T165559Z" creationid="Nachec" creationdate="20221023T134052Z">
         <seg>&lt;td&gt;El(los) elemento(s) en la página con el atributo especificado.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;This is a number.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182936Z" creationid="Nachec" creationdate="20221023T182936Z">
+        <seg>&lt;td&gt;&lt;p&gt;Esto es un número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29715,10 +29755,34 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Array")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183339Z" creationid="Nachec" creationdate="20221023T183339Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Array")}}&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Boolean")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183204Z" creationid="Nachec" creationdate="20221023T183204Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Boolean")}}&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102712Z" creationid="Nachec" creationdate="20221022T102712Z">
         <seg>&lt;th scope="row"&gt;{{Glossary("Forbidden header name")}}&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Number")}}&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182919Z" creationid="Nachec" creationdate="20221023T182919Z">
+        <seg>&lt;th scope="row"&gt;{{Glossary("Number")}}&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43951,6 +44015,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Numbers don't have quotes around them.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182953Z" creationid="Nachec" creationdate="20221023T182953Z">
+        <seg>Los números no tienen comillas.&lt;/p&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Numbers may also be preceded by a `+` or `-` symbol.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234643Z" creationid="Nachec" creationdate="20221021T234643Z">
@@ -50314,6 +50386,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The words &lt;code&gt;true&lt;/code&gt; and</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183314Z" creationid="Nachec" creationdate="20221023T183250Z">
+        <seg>&lt;code&gt;true&lt;/code&gt;/&lt;code&gt;false&lt;/code&gt; son</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The worker function [`wasm_worker.js`](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/wasm_worker.js) defines an import object for the module to use.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T112149Z" creationid="gitnacho" creationdate="20221007T112149Z">
@@ -52378,6 +52458,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a True/False value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183257Z" creationid="Nachec" creationdate="20221023T183242Z">
+        <seg>Tienen valor verdadero/falso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a boolean attribute: the presence of a boolean attribute on an element represents the true value, and the absence of the attribute represents the false value.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122941Z" creationid="gitnacho" creationdate="20221003T122941Z">
@@ -52478,6 +52566,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T152010Z" creationid="gitnacho" creationdate="20221002T152010Z">
         <seg>Este es un tipo especial de objeto {{DOMxRef("Client")}}, con algunos métodos y propiedades adicionales disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a structure that allows you to store multiple values in a single</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183351Z" creationid="Nachec" creationdate="20221023T183351Z">
+        <seg>Una estructura que te permite almacenar varios valores en una sola</seg>
       </tuv>
     </tu>
     <tu>
@@ -54195,6 +54291,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T233017Z">
         <seg>Para compartir memoria usando objetos {{JSxRef("SharedArrayBuffer")}} de un agente en el clúster a otro (un agente es el programa principal de la página web o uno de sus *web workers*), [`postMessage`](/es/docs/Web/API/Worker/postMessage) y [clonación estructurada](/es/docs/Web/API/Web_Workers_API/Structured_clone_algorithm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To signify that the value</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182849Z" creationid="Nachec" creationdate="20221023T182849Z">
+        <seg>Para indicar que la variable</seg>
       </tuv>
     </tu>
     <tu>
@@ -67297,6 +67401,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230426Z" creationid="gitnacho" creationdate="20221011T230426Z">
         <seg>invocation.withCredentials = true;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>is a string, enclose it in single quote marks.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182908Z" creationid="Nachec" creationdate="20221023T182908Z">
+        <seg>es una cadena, la debes encerrar entre comillas.</seg>
       </tuv>
     </tu>
     <tu>
