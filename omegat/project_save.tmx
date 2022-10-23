@@ -3274,6 +3274,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Functions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190939Z" creationid="Nachec" creationdate="20221023T190939Z">
+        <seg>### Funciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### GFM table syntax style</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T184503Z" creationid="gitnacho" creationdate="20221008T184503Z">
@@ -39121,6 +39129,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the comparison is not true, the second block of code—after the `else` statement—runs instead.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190934Z" creationid="Nachec" creationdate="20221023T190934Z">
+        <seg>Si no, ese código se omite y se ejecuta el segundo bloque de código después de la declaración `else`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the condition is false (0), another statement can be executed</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T084434Z" creationid="gitnacho" creationdate="20221020T084055Z">
@@ -39317,6 +39333,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060233Z" creationid="Nachec" creationdate="20221023T060233Z">
         <seg>Si estos se encuentran solapados, el navegador web tratará de adivinar lo que intentas decirle, pero puede que obtengas resultados inesperados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this comparison returns `true`, the first block of code runs.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190920Z" creationid="Nachec" creationdate="20221023T190920Z">
+        <seg>Si esta comparación devuelve `true`, el primer bloque de código se ejecuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48846,6 +48870,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The expression inside the `if ()` is the test.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190851Z" creationid="Nachec" creationdate="20221023T190824Z">
+        <seg>La expresión dentro de `if (... )` es el criterio —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The file objects for a page can be accessed through the array `env.files`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082623Z" creationid="gitnacho" creationdate="20221005T082623Z">
@@ -54078,6 +54110,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072713Z" creationid="gitnacho" creationdate="20221007T072713Z">
         <seg>Este tipo se utiliza cuando se realiza la comprobación de tipo de las llamadas de referencia de función de tabla más adelante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This uses the strict equality operator (as described above) to compare the variable `iceCream` with the string `chocolate` to see if the two are equal.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190912Z" creationid="Nachec" creationdate="20221023T190829Z">
+        <seg>este usa al operador de identidad (descrito arriba) para comparar la variable `helado` con la cadena `chocolate` para ver si las dos son iguales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61726,6 +61766,18 @@ instantiating.then((obj) =&gt; {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+let iceCream = "chocolate";
+if (iceCream === "chocolate") {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190743Z" creationid="Nachec" creationdate="20221023T190743Z">
+        <seg>```js
+let helado = 'chocolate';
+if (helado === 'chocolate') {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 let myVariable = "Bob";
 ```</seg>
       </tuv>
@@ -63409,6 +63461,18 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>alert("Awwww, but chocolate is my favorite…");
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190809Z" creationid="Nachec" creationdate="20221023T190809Z">
+        <seg>alert('Awwww, pero mi favorito es el de chocolate...');
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>alert("Hello World!");
 &lt;/script&gt;
 ```</seg>
@@ -63417,6 +63481,16 @@ unreachable
         <seg>alert("¡Hola Mundo!");
 &lt;/script&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>alert("Yay, I love chocolate ice cream!");
+} else {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190754Z" creationid="Nachec" creationdate="20221023T190754Z">
+        <seg>alert('¡Sí, amo el helado de chocolate!');
+} else {</seg>
       </tuv>
     </tu>
     <tu>
@@ -71675,6 +71749,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102717Z" creationid="Nachec" creationdate="20221022T102717Z">
         <seg>{{Glossary("CORS-safelisted response header")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Glossary("Function", "Functions")}} are a way of packaging functionality that you wish to reuse.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191112Z" creationid="Nachec" creationdate="20221023T191112Z">
+        <seg>Las {{Glossary("Function", "funciones")}} son una manera de encapsular una funcionalidad que quieres reutilizar,</seg>
       </tuv>
     </tu>
     <tu>
