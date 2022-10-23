@@ -37363,6 +37363,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If they overlap as shown above, then your web browser will try to make the best guess at what you were trying to say, which can lead to unexpected results.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060233Z" creationid="Nachec" creationdate="20221023T060233Z">
+        <seg>Si estos se encuentran solapados, el navegador web tratará de adivinar lo que intentas decirle, pero puede que obtengas resultados inesperados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is the first time a service worker has been made available, installation is attempted, then after a successful installation, it is activated.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T141614Z" creationid="gitnacho" creationdate="20221002T141614Z">
@@ -38472,6 +38480,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053525Z" creationid="gitnacho" creationdate="20221012T053525Z">
         <seg>En el ejemplo anterior, la página se carga desde `foo.example` pero `bar.other` envía la *cookie* de la línea 19 y, por lo tanto, no se guardaría si el navegador del usuario está configurado para rechazar todas las *cookies* de terceros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the example above, we opened the {{htmlelement("p")}} element first, then the {{htmlelement("strong")}} element; therefore, we have to close the {{htmlelement("strong")}} element first, then the {{htmlelement("p")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060109Z" creationid="Nachec" creationdate="20221023T060109Z">
+        <seg>en el ejemplo de abajo, creaste la etiqueta de apertura del elemento {{htmlelement("p")}} primero, luego la del elemento {{htmlelement("strong")}}, por lo tanto, debes cerrar esta etiqueta primero, y luego la del elemento {{htmlelement("p")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45982,6 +45998,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The elements have to open and close correctly so that they are clearly inside or outside one another.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060215Z" creationid="Nachec" creationdate="20221023T060215Z">
+        <seg>Los elementos se deben abrir y cerrar ordenadamente, de forma tal que se encuentren claramente dentro o fuera el uno del otro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The elements must match the data types of the corresponding elements in the `tag`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140352Z" creationid="gitnacho" creationdate="20221019T140352Z">
@@ -46453,6 +46477,14 @@ if a loaded module instance contains a "name" custom section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222555Z" creationid="gitnacho" creationdate="20221011T222555Z">
         <seg>El siguiente es un ejemplo de una solicitud que se verificará previamente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following is incorrect:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060117Z" creationid="Nachec" creationdate="20221023T060117Z">
+        <seg>Esto es incorrecto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54119,6 +54151,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You do however need to make sure that your elements are properly nested.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055956Z" creationid="Nachec" creationdate="20221023T055956Z">
+        <seg>Debes asegurarte que los elementos estén correctamente anidados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You don't have to use it in conjunction with service workers, even though it is defined in the service worker spec.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T162006Z" creationid="gitnacho" creationdate="20220901T015502Z">
@@ -56031,6 +56071,18 @@ p {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```html
+&lt;p&gt;My cat is &lt;strong&gt;very&lt;/strong&gt; grumpy.&lt;/p&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055934Z" creationid="Nachec" creationdate="20221023T055934Z">
+        <seg>```html
+&lt;p&gt;Mi gato es &lt;strong&gt;muy&lt;/strong&gt; gruñón.&lt;/p&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
 &lt;p&gt;My cat is very grumpy&lt;/p&gt;
 ```</seg>
       </tuv>
@@ -56244,6 +56296,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211833Z" creationid="gitnacho" creationdate="20221005T211833Z">
         <seg>```html hidden
 &lt;p&gt;No soy elegante.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html-nolint example-bad
+&lt;p&gt;My cat is &lt;strong&gt;very grumpy.&lt;/p&gt;&lt;/strong&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060155Z" creationid="Nachec" creationdate="20221023T060155Z">
+        <seg>```html-nolint example-bad
+&lt;p&gt;Mi gato es &lt;strong&gt;muy gruñón.&lt;/p&gt;&lt;/strong&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
