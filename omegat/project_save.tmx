@@ -5331,6 +5331,14 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(In this example, `color` is a property of the {{htmlelement("p")}} elements.) In CSS, you choose which properties you want to affect in the rule.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131906Z" creationid="Nachec" creationdate="20221023T131906Z">
+        <seg>(En este caso, `color` es una propiedad del elemento {{HTMLElement("p")}}). En CSS, seleccionas qué propiedad quieres afectar en tu regla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Note that WebAssembly has the [high-level goal](https://webassembly.org/docs/high-level-goals/) of supporting languages with garbage-collected memory models in the future.)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T083725Z" creationid="gitnacho" creationdate="20221003T010506Z">
@@ -9494,6 +9502,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : These are ways in which you can style an HTML element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131827Z" creationid="Nachec" creationdate="20221023T131827Z">
+        <seg>- : Hay maneras en las cuales puedes dar estilo a un elemento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : These guides help you get started with contributing to MDN Web Docs.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T203456Z" creationid="gitnacho" creationdate="20221008T200548Z">
@@ -9566,6 +9582,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : This is a single rule like `color: red;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131801Z" creationid="Nachec" creationdate="20221023T131728Z">
+        <seg>- : Una sola regla como `color: red;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : This is the HTML element name at the start of the ruleset.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131556Z" creationid="Nachec" creationdate="20221023T131556Z">
@@ -9602,6 +9626,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T070934Z" creationid="gitnacho" creationdate="20221020T070934Z">
         <seg>- : Se lanza si se cumple al menos una de estas condiciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : To the right of the property—after the colon—there is the **property value**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131929Z" creationid="Nachec" creationdate="20221023T131929Z">
+        <seg>- : A la derecha de la propiedad, después de los dos puntos (:), tienes el **valor de la propiedad**,</seg>
       </tuv>
     </tu>
     <tu>
@@ -10685,6 +10717,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224724Z" creationid="Nachec" creationdate="20221021T224724Z">
         <seg>- Data Type
   - Tipo de dato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Declaration</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131709Z" creationid="Nachec" creationdate="20221023T131709Z">
+        <seg>- Declaración</seg>
       </tuv>
     </tu>
     <tu>
@@ -12464,11 +12504,27 @@ browser-compat: javascript.builtins.Uint8ClampedArray
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Properties</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131806Z" creationid="Nachec" creationdate="20221023T131806Z">
+        <seg>- Propiedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Property</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223042Z" creationid="gitnacho" creationdate="20221003T223042Z">
         <seg>- Property
   - Propiedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Property value</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131911Z" creationid="Nachec" creationdate="20221023T131911Z">
+        <seg>- Valor de la propiedad</seg>
       </tuv>
     </tu>
     <tu>
@@ -40501,6 +40557,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It specifies which of the element's **properties** you want to style.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131744Z" creationid="Nachec" creationdate="20221023T131744Z">
+        <seg>especifica a cuál de las **propiedades** del elemento quieres dar estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It takes the form of a JavaScript file that can control the web-page/site that it is associated with, intercepting and modifying navigation and resource requests, and caching resources in a very granular fashion to give you complete control over how your app behaves in certain situations (the most obvious one being when the network is not available).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T134131Z" creationid="gitnacho" creationdate="20221002T134131Z">
@@ -50262,6 +50326,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This chooses one out of many possible appearances for a given property.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131959Z" creationid="Nachec" creationdate="20221023T131959Z">
+        <seg>para elegir una de las muchas posibles apariencias para una propiedad determinada (hay muchos valores para `color` además de `red`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This code accesses each function reference stored in the table in turn, and instantiates them to print the values they hold to the console — note how each function reference is retrieved with a [`Table.prototype.get()`](/en-US/docs/WebAssembly/JavaScript_interface/Table/get) call, then we add an extra set of parentheses on the end to actually invoke the function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233621Z" creationid="gitnacho" creationdate="20221006T233453Z">
@@ -52574,6 +52646,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T111632Z" creationid="gitnacho" creationdate="20221003T111632Z">
         <seg>Para empezar, guarda el siguiente código como `hello3.c` en un nuevo directorio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To style a different element, change the selector.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131703Z" creationid="Nachec" creationdate="20221023T131703Z">
+        <seg>Para dar estilo a un elemento diferente, solo cambia el selector.</seg>
       </tuv>
     </tu>
     <tu>
