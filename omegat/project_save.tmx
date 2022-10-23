@@ -30360,6 +30360,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** You'll see that your heading level 1 has an implicit style.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070936Z" creationid="Nachec" creationdate="20221023T070936Z">
+        <seg>&gt; **Nota:** Verás que el encabezado de nivel 1 tiene un estilo implícito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Your service worker functions like a proxy server, allowing you to modify requests and responses, replace them with items from its own cache, and more.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T213847Z" creationid="gitnacho" creationdate="20220921T025248Z">
@@ -34307,6 +34315,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't use heading elements to make text bigger or bold, because they are used for [accessibility](/en-US/docs/Learn/Accessibility/HTML#text_content) and [other reasons such as SEO](/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#why_do_we_need_structure).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T103759Z" creationid="Nachec" creationdate="20221023T103759Z">
+        <seg>No utilices elementos de encabezado para hacer el texto más grande o más oscuro, porque este elemento se utiliza por [accesibilidad](/es/docs/Learn/Accessibility/HTML#contenido_del_texto) y otras [razones como el posicionamiento en buscadores](/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#¿por_qué_necesitamos_estructura) (_Search Engine Optimization, SEO_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't worry about what it all means for now — we'll look at the structures in more detail later in the series.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045204Z" creationid="Nachec" creationdate="20221023T045204Z">
@@ -36315,6 +36331,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T053537Z" creationid="Nachec" creationdate="20221023T053343Z">
         <seg>El Lenguaje de Marcado de Hipertexto (HTML por las siglas en inglés de **H**yper**T**ext **M**arkup **L**anguage) es el código que se utiliza para estructurar y desplegar una página web y su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HTML comments are a way for you to write helpful notes about your code or logic.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070857Z" creationid="Nachec" creationdate="20221023T070857Z">
+        <seg>Los comentarios HTML son una forma de escribir notas útiles sobre tu código o lógica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42126,6 +42150,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222945Z" creationid="gitnacho" creationdate="20221011T222945Z">
         <seg>Ahora el servidor tiene la oportunidad de determinar si puede aceptar una solicitud en estas condiciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now try adding a suitable title to your HTML page just above your {{htmlelement("img")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070916Z" creationid="Nachec" creationdate="20221023T070916Z">
+        <seg>Intenta ahora añadir un título apropiado para tu página HTML, antes de tu elemento {{htmlelement("img")}}.</seg>
       </tuv>
     </tu>
     <tu>
