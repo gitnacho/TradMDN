@@ -41609,6 +41609,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JavaScript is a programming language that adds interactivity to your website.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171428Z" creationid="Nachec" creationdate="20221023T171401Z">
+        <seg>JavaScript es el lenguaje de programación que debes usar para añadir características interactivas a tu sitio web, (por ejemplo, juegos, eventos que ocurren cuando los botones son presionados o los datos son introducidos en los formularios, efectos de estilo dinámicos, animación, y mucho más).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JavaScript.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201119T001011Z" creationid="nacho" creationdate="20201119T001011Z">
@@ -51159,6 +51167,280 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This article helps you get started with JavaScript and furthers your understanding of what is possible.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171507Z" creationid="Nachec" creationdate="20221023T171507Z">
+        <seg>Este artículo te ayudará a comenzar con este lenguaje extraordinario y te dará una idea de qué es posible hacer con él.
+
+## ¿Qué es JavaScript realmente?
+
+{{Glossary("JavaScript")}} es un robusto lenguaje de programación que se puede aplicar a un documento {{Glossary("HTML")}} y usarse para crear interactividad dinámica en los sitios web. Fue inventado por Brendan Eich, cofundador del proyecto Mozilla, Mozilla Foundation y la Corporación Mozilla.
+
+Puedes hacer casi cualquier cosa con JavaScript. Puedes empezar con pequeñas cosas como carruseles, galerías de imágenes, diseños fluctuantes, y respuestas a las pulsaciones de botones. Con más experiencia, serás capaz de crear juegos, animaciones 2D y gráficos 3D, aplicaciones integradas basadas en bases de datos ¡y mucho más!
+
+JavaScript por sí solo es bastante compacto aunque muy flexible, y los desarrolladores han escrito gran cantidad de herramientas encima del núcleo del lenguaje JavaScript, desbloqueando una gran cantidad de funcionalidad adicional con un mínimo esfuerzo. Esto incluye:
+
+- Interfaces de Programación de Aplicaciones del Navegador ({{Glossary("API","APIs")}}) — APIs construidas dentro de los navegadores que ofrecen funcionalidades como crear dinámicamente contenido HTML y establecer estilos CSS, hasta capturar y manipular un vídeo desde la cámara web del usuario, o generar gráficos 3D y muestras de sonido.
+- APIs de terceros, que permiten a los desarrolladores incorporar funcionalidades en sus sitios de otros proveedores de contenidos como Twitter o Facebook.
+- Marcos de trabajo y librerías de terceros que puedes aplicar a tu HTML para que puedas construir y publicar rápidamente sitios y aplicaciones.
+
+Ya que se supone que este artículo es solo una introducción ligera a JavaScript, la intención no es confundirte en esta etapa hablando en detalle sobre cuál es la diferencia entre el núcleo del lenguaje JavaScript y las diferentes herramientas listadas arriba. Puedes aprender todo eso en detalle más tarde, en el [Área de Aprendizaje en MDN](/es/docs/Learn/JavaScript), y en el resto de MDN.
+
+Debajo se presentan algunos aspectos del núcleo del lenguaje y también jugarás con unas pocas características de la API del navegador. ¡Diviértete!
+
+## Ejemplo «_¡Hola Mundo!_»
+
+La sección de arriba suena realmente emocionante, y debería serlo. JavaScript es una de las tecnologías web más emocionantes, y cuando comiences a ser bueno en su uso, tus sitios web entrarán en una nueva dimensión de energía y creatividad.
+
+Sin embargo, sentirse cómodo con JavaScript es un poco más difícil que sentirse cómodo con HTML y CSS. Deberás comenzar poco a poco y continuar trabajando en pasos pequeños y consistentes. Para comenzar, mostraremos cómo añadir JavaScript básico a tu página, creando un «_¡Hola Mundo!_» de ejemplo ([el estándar en los ejemplos básicos de programación](https://es.wikipedia.org/wiki/Hola_mundo)).
+
+&gt; **Advertencia:** si no has venido siguiendo el resto de nuestro curso, [descarga este código de ejemplo](https://github.com/mdn/beginner-html-site-styled/archive/gh-pages.zip) y úsalo como punto de partida.
+
+1. Primero, ve a tu sitio de pruebas y crea una carpeta llamada `scripts`. Luego, dentro de la nueva carpeta de scripts, crea un nuevo archivo llamado `main.js` y guárdalo.
+2. A continuación, abre tu archivo `index.html` e introduce el siguiente código en una nueva línea, justo antes de la etiqueta de cierre `&lt;/body&gt;`:
+
+    ```html
+    &lt;script src="scripts/main.js"&gt;&lt;/script&gt;
+    ```
+
+3. Esto hace básicamente el mismo trabajo que el elemento {{htmlelement("link")}} para CSS: aplica el código JavaScript a la página, para que pueda actuar sobre el HTML (y CSS, o cualquier cosa en la página).
+4. Ahora añade el siguiente código al archivo `main.js`:
+
+    ```js
+    const miTitulo = document.querySelector('h1');
+    miTitulo.textContent = '¡Hola mundo!';
+    ```
+
+5. Finalmente, asegúrate de que has guardado los archivos HTML y JavaScript, y abre `index.html` en el navegador. Deberías ver algo así: ![](https://mdn.mozillademos.org/files/9543/hello-world.png)
+
+&gt; **Nota:** la razón por la que has puesto el elemento {{htmlelement("script")}} casi al final del documento HTML es porque **el navegador carga el HTML en el orden en que aparece en el archivo**.
+&gt;
+&gt; Si se cargara primero JavaScript y se supone que debe afectar al HTML que tiene debajo, podría no funcionar, ya que ha sido cargado antes que el HTML sobre el que se supone debe trabajar. Por lo tanto, colocar el JavaScript cerca del final de la página es normalmente la mejor estrategia. Para aprender más sobre enfoques alternativos, mira [Estrategias de carga de scripts](/es/docs/Learn/JavaScript/First_steps/Qué_es_JavaScript#Estrategias_de_carga_de_scripts).
+
+### ¿Qué ha ocurrido?
+
+El texto del título ha sido cambiado por _¡Hola mundo!_ usando JavaScript. Hiciste esto primero usando la función `{{domxref("Document.querySelector", "querySelector()")}}` para obtener una referencia al título y almacenarla en una variable llamada `miTitulo`. Esto es muy similar a lo que hiciste con CSS usando selectores —quieres hacer algo con un elemento, así que tienes que seleccionarlo primero—.
+
+Después de eso, estableciste el valor de la propiedad {{domxref("Node.textContent", "textContent")}} de la variable `miTitulo` (que representa el contenido del título) como _¡Hola mundo!_
+
+&gt; **Nota:** Las dos características que has utilizado en este ejercicio forman parte de la API del [Modelo de Objeto de Documento (DOM)](/es/docs/Web/API/Document_Object_Model), que tiene la capacidad de manipular documentos.
+
+## Curso intensivo de fundamentos del lenguaje
+
+Ahora se explicarán algunas de las funciones básicas del lenguaje JavaScript para que puedas comprender mejor cómo funciona todo. Mejor aún, estas características son comunes para todos los lenguajes de programación. Si puedes entender esos fundamentos, deberías ser capaz de comenzar a programar en casi cualquier cosa.
+
+&gt; **Advertencia:** en este artículo, trata de introducir las líneas de código de ejemplo en la consola de tu navegador para ver lo que sucede. Para más detalles sobre consolas JavaScript, mira [Descubre las herramientas de desarrollo de los navegadores](/es/docs/Learn/Common_questions/What_are_browser_developer_tools).
+
+### Variables
+
+Las {{Glossary("Variable", "Variables")}} son contenedores en los que puedes almacenar valores. Primero debes declarar la variable con la palabra clave [`var`](/es/docs/Web/JavaScript/Reference/Statements/var) (menos recomendado) o [`let`](/es/docs/Web/JavaScript/Reference/Statements/let), seguida del nombre que le quieras dar. Se recomienda más el uso de `let` que de `var` (más adelante se profundiza un poco sobre esto):
+
+```js
+let nombreDeLaVariable;
+```
+
+&gt; **Nota:** todas las líneas en JS deben acabar en punto y coma (;) para indicar que es ahí donde termina la declaración. Si no los incluyes puedes obtener resultados inesperados. Sin embargo, algunas personas creen que es una buena práctica tener punto y coma al final de cada declaración. Hay otras reglas para cuando se debe y no se debe usar punto y coma. Para más detalles, vea [Guía del punto y coma en JavaScript](http://news.codecademy.com/your-guide-to-semicolons-in-javascript/) (en inglés).
+
+&gt; **Nota:** puedes llamar a una variable con casi cualquier nombre, pero hay algunas restricciones (ver [este artículo sobre las reglas existentes](/es/docs/Web/JavaScript/Guide/Grammar_and_Types#Variables)). Si no estás seguro, puedes [comprobar el nombre de la variable](https://mothereff.in/js-variables) para ver si es válido.
+
+&gt; **Nota:** JavaScript distingue entre mayúsculas y minúsculas. `miVariable` es una variable distinta a `mivariable`. Si estás teniendo problemas en tu código, revisa las mayúsculas y minúsculas.
+
+&gt; **Nota:** para más detalles sobre la diferencia entre `var` y `let`, vea [Diferencia entre var y let](/es/docs/Learn/JavaScript/First_steps/Variables#Diferencia_entre_var_y_let).
+
+Tras declarar una variable, puedes asignarle un valor:
+
+```js
+nombreDeLaVariable = 'Bob';
+```
+
+Puedes hacer las dos cosas en la misma línea si lo necesitas:
+
+```js
+let nombreDeLaVariable = 'Bob';
+```
+
+Puedes obtener el valor de la variable llamándola por su nombre:
+
+```js
+nombreDeLaVariable;
+```
+
+Después de haberle dado un valor a la variable, puedes volver a cambiarlo:
+
+```js
+let nombreDeLaVariable = 'Bob';
+nombreDeLaVariable = 'Steve';
+```
+
+Advierte que las variables tienen distintos [tipos de datos](/es/docs/Web/JavaScript/Data_structures):
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;Variable&lt;/th&gt;
+      &lt;th scope="col"&gt;Explicación&lt;/th&gt;
+      &lt;th scope="col"&gt;Ejemplo&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;{{Glossary("String","String")}}&lt;/th&gt;
+      &lt;td&gt;
+        Esto es una secuencia de texto conocida como cadena. Para indicar que la
+        variable es una cadena, debes escribirlo entre comillas.
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;let miVariable = 'Bob';&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;{{Glossary("Number")}}&lt;/th&gt;
+      &lt;td&gt;&lt;p&gt;Esto es un número. Los números no tienen comillas.&lt;/p&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;let miVariable = 10;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;{{Glossary("Boolean")}}&lt;/th&gt;
+      &lt;td&gt;
+        Tienen valor verdadero/falso. &lt;code&gt;true&lt;/code&gt;/&lt;code&gt;false&lt;/code&gt; son
+        palabras especiales en JS, y no necesitan comillas.
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;let miVariable = true;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;{{Glossary("Array")}}&lt;/th&gt;
+      &lt;td&gt;
+        Una estructura que te permite almacenar varios valores en una sola
+        referencia.
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;code&gt;let miVariable = [1,'Bob','Steve',10];&lt;/code&gt;&lt;br /&gt;Llama a cada
+        miembro del array así: &lt;code&gt;miVariable[0]&lt;/code&gt;,
+        &lt;code&gt;miVariable[1]&lt;/code&gt;, etc.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;{{Glossary("Object")}}&lt;/th&gt;
+      &lt;td&gt;
+        &lt;p&gt;
+          Básicamente cualquier cosa. Todo en JavaScript es un objeto y puede
+          ser almacenado en una variable. Mantén esto en mente mientras
+          aprendes.
+        &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;code&gt;let miVariable = document.querySelector('h1');&lt;/code&gt;&lt;br /&gt;Todos
+        los ejemplos anteriores también.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+Entonces, ¿para qué necesitamos las variables? Las variables son necesarias para hacer cualquier cosa interesante en programación. Si los valores no pudieran cambiar, entonces no podrías hacer nada dinámico, como personalizar un mensaje de bienvenida de un usuario que visita tu página, cambiar la imagen que se muestra en una galería de imágenes, etc.
+
+### Comentarios
+
+Puedes escribir comentarios entre el código JavaScript, igual que puedes en CSS. El navegador ignora el texto marcado como comentario. En JavaScript, los comentarios de una sola línea se escriben así:
+
+```js
+// Esto es un comentario
+```
+
+Pero también puedes escribir comentarios en más de una línea, igual que en CSS:
+
+```js
+/*
+Esto es un comentario
+de varias líneas.
+*/
+```
+
+### Operadores
+
+Un {{Glossary("operator", "operador")}} es básicamente un símbolo matemático que puede actuar sobre dos valores (o variables) y producir un resultado. En la tabla de abajo aparecen los operadores más simples, con algunos ejemplos para probarlos en la consola del navegador.
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;Operador&lt;/th&gt;
+      &lt;th scope="col"&gt;Explicación&lt;/th&gt;
+      &lt;th scope="col"&gt;Símbolo(s)&lt;/th&gt;
+      &lt;th scope="col"&gt;Ejemplo&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;Suma/concatena&lt;/th&gt;
+      &lt;td&gt;Se usa para sumar dos números, o juntar dos cadenas en una.&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;+&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;code&gt;6 + 9;&lt;br /&gt;"Hola " + "mundo!";&lt;/code&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;Resta, multiplicación, división&lt;/th&gt;
+      &lt;td&gt;
+        Estos hacen lo que esperarías que hicieran en las matemáticas básicas.
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;/&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;code
+          &gt;9 - 3;&lt;br /&gt;8 * 2; // La multiplicación en JS es un asterisco&lt;br /&gt;9
+          / 3;&lt;/code
+        &gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;Operador de asignación&lt;/th&gt;
+      &lt;td&gt;Los has visto anteriormente: asigna un valor a una variable.&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;=&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;let miVariable = 'Bob';&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;identidad/igualdad&lt;/th&gt;
+      &lt;td&gt;
+        Comprueba si dos valores son iguales entre sí, y devuelve un valor de
+        &lt;code&gt;true&lt;/code&gt;/&lt;code&gt;false&lt;/code&gt; (booleano).
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;===&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;code&gt;let miVariable = 3;&lt;br /&gt;miVariable === 4;&lt;/code&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope="row"&gt;Negación, distinto (no igual)&lt;/th&gt;
+      &lt;td&gt;
+        &lt;br /&gt;En ocasiones utilizado con el operador de identidad, la negación
+        es en JS el equivalente al operador lógico NOT — cambia
+        &lt;code&gt;true&lt;/code&gt; por &lt;code&gt;false&lt;/code&gt; y viceversa.
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;!&lt;/code&gt;, &lt;code&gt;!==&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;
+          La expresión básica es &lt;code&gt;true&lt;/code&gt;, pero la comparación devuelve
+          &lt;code&gt;false&lt;/code&gt; porque lo hemos negado:
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;code&gt;let miVariable = 3;&lt;br /&gt;!miVariable === 3;&lt;/code&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+          Aquí estamos comprobando "&lt;code&gt;miVariable&lt;/code&gt; NO es igual a 3".
+          Esto devuelve &lt;code&gt;false&lt;/code&gt;, porque &lt;code&gt;miVariable&lt;/code&gt; ES
+          igual a 3.
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;code&gt;&lt;code&gt;let miVariable = 3;&lt;/code&gt;&lt;br /&gt;miVariable !== 3;&lt;/code&gt;
+        &lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+Hay muchos operadores por explorar, pero con esto será suficiente por ahora. Mira [Expresiones y operadores](/es/docs/Web/JavaScript/Reference/Operators) para ver la lista completa.
+
+&gt; **Nota:** mezclar tipos de datos puede dar lugar a resultados extraños cuando se hacen cálculos, así que asegúrate de que relacionas tus variables correctamente y de que recibes los resultados que esperabas. Por ejemplo, teclea: `"3" + "25"` en tu consola. ¿Por qué no obtienes lo que esperabas? Porque las comillas convierten los números en "strings" (el término inglés para denominar cadenas de caracteres) y de este modo has acabado con los "strings" concatenados entre sí, y no con los números sumados. Si tecleas: `35 + 25`, obtendrás el resultado correcto.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This article provides a reference for the different mechanisms that can be used to fetch WebAssembly bytecode, as well as how to compile/instantiate then run it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T061817Z" creationid="gitnacho" creationdate="20221004T071248Z">
@@ -51746,6 +52028,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170357Z" creationid="Nachec" creationdate="20221022T170357Z">
         <seg>Este glosario proporciona definiciones de palabras y abreviaturas que necesitas conocer para comprender y crear correctamente para la web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171404Z" creationid="Nachec" creationdate="20221023T171404Z">
+        <seg>This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70400,6 +70690,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084704Z" creationid="Nachec" creationdate="20221021T084704Z">
         <seg>{{LearnSidebar}}{{PreviousMenu("Learn/MathML/First_steps/Tables", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171347Z" creationid="Nachec" creationdate="20221023T171347Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
     </tu>
     <tu>
