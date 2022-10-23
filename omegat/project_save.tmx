@@ -33145,6 +33145,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the following condition block.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194441Z" creationid="Nachec" creationdate="20221023T194441Z">
+        <seg>Luego, agregarás este bloque `if ... else`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add the following function to set the personalized greeting.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193952Z" creationid="Nachec" creationdate="20221023T193952Z">
@@ -36689,6 +36697,14 @@ a simple value):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070027Z" creationid="gitnacho" creationdate="20221004T070027Z">
         <seg>Finalmente, necesitamos modificar el archivo HTML; abre el archivo `index.html` y reemplaza el contenido actual con lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, we set the `textContent` of the heading to a string, plus the user's newly stored name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194411Z" creationid="Nachec" creationdate="20221023T194411Z">
+        <seg>Finalmente, establecerás el `textContent` del título a una cadena, más el nombre de usuario recientemente almacenado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43923,6 +43939,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221005T060933Z">
         <seg>A continuación, envía la solicitud mediante {{DOMxRef("XMLHttpRequest.send()")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, the code calls on an API `localStorage`, which allows us to store data in the browser and retrieve it later.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194337Z" creationid="Nachec" creationdate="20221023T194337Z">
+        <seg>Luego, llamarás la API `localStorage`, que nos permite almacenar datos en el navegador y recuperarlos luego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52298,6 +52322,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This `prompt()` function does more than `alert()`, asking the user to enter data, and storing it in a variable after the user clicks _OK._ In this case, we are asking the user to enter a name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194322Z" creationid="Nachec" creationdate="20221023T194322Z">
+        <seg>la diferencia es que `prompt()` pide al usuario un dato, y almacena este dato en una variable cuando el botón **Aceptar** del cuadro de diálogo es presionado. En este caso, pedirás al usuario que ingrese su nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This accepts a single parameter, which is the data to send to the worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115304Z" creationid="gitnacho" creationdate="20221007T115304Z">
@@ -55912,6 +55944,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We could call this initialization code, as it structures the app when it first loads.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194504Z" creationid="Nachec" creationdate="20221023T194504Z">
+        <seg>Se podría llamar a esto el código de inicialización, como se ha establecido para cuando carga la app por primera vez:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We could do this:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040043Z" creationid="gitnacho" creationdate="20220921T040043Z">
@@ -56235,6 +56275,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062444Z" creationid="gitnacho" creationdate="20221004T062444Z">
         <seg>Usamos la funcionalidad `wasm-bindgen` en nuestro paquete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We use localStorage's `setItem()` function to create and store a data item called `'name'`, setting its value to the `myName` variable which contains the user's entry for the name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194400Z" creationid="Nachec" creationdate="20221023T194400Z">
+        <seg>Usarás la función `setItem()` de `localStorage`, que crea y almacena un dato en el elemento llamado `'nombre'`, y coloca este valor en la variable `miNombre` que contiene el nombre que el usuario ingresó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66520,6 +66568,14 @@ p3.then(</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>const storedName = localStorage.getItem("name");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194550Z" creationid="Nachec" creationdate="20221023T194550Z">
+        <seg>const nombreAlmacenado = localStorage.getItem('nombre');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>const string = new TextDecoder("utf8").decode(bytes);</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064352Z" creationid="gitnacho" creationdate="20221007T064352Z">
@@ -68106,6 +68162,14 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T201914Z" creationid="gitnacho" creationdate="20221003T201914Z">
         <seg>if (!expectedCacheNamesSet.has(cacheName)) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>if (!localStorage.getItem("name")) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194514Z" creationid="Nachec" creationdate="20221023T194514Z">
+        <seg>if (!localStorage.getItem('nombre')) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -70902,6 +70966,14 @@ api.free_result(resultPointer);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210921T064812Z" creationid="gitnacho" creationdate="20210921T064812Z">
         <seg>setTimeout(function () {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>setUserName();</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194522Z" creationid="Nachec" creationdate="20221023T194522Z">
+        <seg>estableceNombreUsuario();</seg>
       </tuv>
     </tu>
     <tu>
