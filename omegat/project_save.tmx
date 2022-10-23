@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![A Mozilla logo, centered, and a header and paragraphs.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144238Z" creationid="Nachec" creationdate="20221023T144238Z">
+        <seg>![Un logotipo de Mozilla, centrado, y un encabezado y párrafos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![A big stack of boxes or crates sat on top of one another](boxes.jpg)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140839Z" creationid="Nachec" creationdate="20221023T140839Z">
@@ -5530,6 +5538,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064350Z" creationid="gitnacho" creationdate="20221007T064350Z">
         <seg>(Especificamos `utf8` aquí, pero se admiten muchas otras codificaciones).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(You can [view our version here](https://mdn.github.io/beginner-html-site-styled/).) If you get stuck, you can always compare your work with our [finished example code on GitHub](https://github.com/mdn/beginner-html-site-styled/blob/gh-pages/styles/style.css).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144438Z" creationid="Nachec" creationdate="20221023T144438Z">
+        <seg>(también puedes [ver nuestra versión aquí](http://mdn.github.io/beginner-html-site-styled/)). Si te atoraste, siempre puedes comparar tu trabajo con el [código final del ejemplo en GitHub](https://github.com/mdn/beginner-html-site-styled/blob/gh-pages/styles/style.css).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38781,6 +38797,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you followed all the instructions in this article, you should have a page that looks similar to this one:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144216Z" creationid="Nachec" creationdate="20221023T144216Z">
+        <seg>Si has seguido las instrucciones de este artículo, deberías terminar con una página que luce algo así</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you get stuck, you can always compare your work with our [finished example code](https://github.com/mdn/beginner-html-site/blob/gh-pages/index.html) on GitHub.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105340Z" creationid="Nachec" creationdate="20221023T105340Z">
@@ -41125,6 +41149,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T021525Z" creationid="gitnacho" creationdate="20220901T021525Z">
         <seg>Puede contener uno o más elementos de datos, cada uno de uno o más tipos de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It now looks nicely styled, with a blue background for the whole page and orange background for the centered main content strip.](website-screenshot-final.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144314Z" creationid="Nachec" creationdate="20221023T144314Z">
+        <seg>Ahora se ve bien estilizado, con un fondo azul para toda la página y un fondo naranja para la franja de contenido principal centrada.](website-screenshot-final.png)</seg>
       </tuv>
     </tu>
     <tu>
