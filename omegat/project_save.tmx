@@ -2160,6 +2160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Supercharging our example website</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192559Z" creationid="Nachec" creationdate="20221023T192559Z">
+        <seg>## Sobrecargar tu sitio web de ejemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Superscript and subscript</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191304Z" creationid="gitnacho" creationdate="20221008T191304Z">
@@ -33664,6 +33672,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An arrow function uses `() =&gt;` instead of `function ()`:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192518Z" creationid="Nachec" creationdate="20221023T192518Z">
+        <seg>Una función de flecha usa `() =&gt;` en lugar de `function()`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An attribute should always have the following:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055523Z" creationid="Nachec" creationdate="20221023T055523Z">
@@ -49555,6 +49571,14 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The function we just passed to `addEventListener()` here is called an _anonymous function_, because it doesn't have a name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192407Z" creationid="Nachec" creationdate="20221023T192407Z">
+        <seg>La función que acabamos de pasar a `addEventListener()` aquí se llama _función anónima_, porque no tiene nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The generated HTML document loads the JavaScript glue file and writes stdout to a {{htmlelement("textarea")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081740Z" creationid="gitnacho" creationdate="20221003T081740Z">
@@ -51525,6 +51549,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101931Z" creationid="gitnacho" creationdate="20221006T101931Z">
         <seg>Debe haber una propiedad coincidente para cada importación declarada del módulo compilado o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's an alternative way of writing anonymous functions, which we call an _arrow function_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192457Z" creationid="Nachec" creationdate="20221023T192457Z">
+        <seg>Existe una forma alternativa de escribir funciones anónimas, a la que llamamos _función de flecha_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57197,6 +57229,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With this review of JavaScript basics completed (above), let's add some new features to our example site.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192626Z" creationid="Nachec" creationdate="20221023T192626Z">
+        <seg>Ahora vas a repasar un poco lo básico de JavaScript. Añadirás un par de funcionalidades a tu sitio para demostrar lo que puedes hacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Within the scripts folder, create a new text document called `main.js`, and save it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175434Z" creationid="Nachec" creationdate="20221023T175434Z">
@@ -61819,6 +61859,16 @@ xhr.setRequestHeader("Content-Type", "text/xml");
 xhr.onreadystatechange = handler;
 xhr.send("&lt;person&gt;&lt;name&gt;Arun&lt;/name&gt;&lt;/person&gt;");
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+document.querySelector("html").addEventListener("click", () =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192530Z" creationid="Nachec" creationdate="20221023T192530Z">
+        <seg>```js
+document.querySelector("html").addEventListener("click", () =&gt; {</seg>
       </tuv>
     </tu>
     <tu>
