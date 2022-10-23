@@ -31055,6 +31055,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** The [`return`](/en-US/docs/Web/JavaScript/Reference/Statements/return) statement tells the browser to return the `result` variable out of the function so it is available to use.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191718Z" creationid="Nachec" creationdate="20221023T191718Z">
+        <seg>&gt; **Nota:** la instrucción [`return`](/es/docs/Web/JavaScript/Reference/Statements/return) le dice al navegador que devuelva la variable `resultado` fuera de la función, para que esté disponible para su uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** The [wasm-bindgen](https://rustwasm.github.io/docs/wasm-bindgen/) documentation contains some useful information on how to take advantage of `externref` from Rust.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T075025Z" creationid="gitnacho" creationdate="20221007T075025Z">
@@ -33982,6 +33990,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080208Z" creationid="gitnacho" creationdate="20221003T080208Z">
         <seg>Se puede llamar arbitrariamente a funciones JavaScript sincrónicamente también desde el código WebAssembly, pasando dichas funciones de JavaScript como `imports` a la instancia de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arguments go inside the parentheses, separated by commas if there is more than one argument.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191404Z" creationid="Nachec" creationdate="20221023T191404Z">
+        <seg>Estos se colocan dentro de los paréntesis, y se separan con comas si hay más de uno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37221,6 +37237,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, the `alert()` function makes a pop-up box appear inside the browser window, but we need to give it a string as an argument to tell the function what message to display.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191446Z" creationid="Nachec" creationdate="20221023T191446Z">
+        <seg>Por ejemplo, la función `alert()` hace aparecer una ventana emergente dentro de la ventana del navegador, pero necesitas asignarle una cadena como argumento para decirle qué mensaje debe mostrar en la ventana emergente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the following module contains two functions — one just returns the value 42, the other returns the result of calling the first plus one:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T061137Z" creationid="gitnacho" creationdate="20221007T061137Z">
@@ -37761,6 +37785,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001620Z" creationid="Nachec" creationdate="20221022T001620Z">
         <seg>Las funciones pueden tomar múltiples argumentos, que tienen un formato similar a un valor de propiedad CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Functions often take {{Glossary("Argument", "arguments")}}: bits of data they need to do their job.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191350Z" creationid="Nachec" creationdate="20221023T191350Z">
+        <seg>Las funciones con frecuencia toman {{Glossary("Argument", "argumentos")}} —fragmentos de datos que necesitan para hacer su trabajo—.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40720,6 +40752,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194359Z" creationid="Nachec" creationdate="20221021T194359Z">
         <seg>En el próximo artículo, veremos cómo confiar en los elementos _toquen_ para crear expresiones mucho más complejas, como [fracciones y raíces](/es/docs/Learn/MathML/First_steps/Fractions_and_roots).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the next example, we create a simple function which takes two numbers as arguments and multiplies them:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191508Z" creationid="Nachec" creationdate="20221023T191508Z">
+        <seg>—en el siguiente ejemplo escribimos una función simple que toma dos números como argumentos y los multiplica entre sí—:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55004,6 +55044,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try running this in the console; then test with several arguments.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191614Z" creationid="Nachec" creationdate="20221023T191601Z">
+        <seg>Trata de ejecutar la función anterior en la consola. Después trata de usar la nueva función algunas veces,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try this now in your demo — save what you've added so far, load it in your browser, then try entering the above two lines in your JavaScript console.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210413Z" creationid="gitnacho" creationdate="20221006T210413Z">
@@ -57215,6 +57263,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202530Z" creationid="Nachec" creationdate="20221021T202530Z">
         <seg>De hecho, puedes instalar cualquier [fuente matemática OpenType](https://fred-wang.github.io/MathFonts/) y usarla para el renderizado de MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also define your own functions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191457Z" creationid="Nachec" creationdate="20221023T191457Z">
+        <seg>Las buenas noticias son que podemos definir nuestras propias funciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -61738,6 +61794,16 @@ function lookupInDatabase(db) {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+function multiply(num1, num2) {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191520Z" creationid="Nachec" creationdate="20221023T191520Z">
+        <seg>```js
+function multiplica(num1,num2) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 function openDatabase() {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T043358Z" creationid="gitnacho" creationdate="20221004T043358Z">
@@ -61920,6 +61986,22 @@ memory.grow(1);
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210500Z" creationid="gitnacho" creationdate="20221006T210500Z">
         <seg>```js
 memory.grow(1);
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+multiply(4, 7);
+multiply(20, 20);
+multiply(0.5, 3);
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191624Z" creationid="Nachec" creationdate="20221023T191624Z">
+        <seg>```js
+multiplica(4, 7);
+multiplica(20, 20);
+multiplica(0.5, 3);
 ```</seg>
       </tuv>
     </tu>
@@ -68254,6 +68336,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>let result = num1 * num2;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191525Z" creationid="Nachec" creationdate="20221023T191525Z">
+        <seg>let resultado = num1 * num2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>let serviceWorker;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T213310Z" creationid="gitnacho" creationdate="20221003T213310Z">
@@ -69954,6 +70044,18 @@ api.free_result(resultPointer);
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170430T104052Z" creationid="nacho" creationdate="20170430T104052Z">
         <seg>return result;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>return result;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191532Z" creationid="Nachec" creationdate="20221023T191532Z">
+        <seg>return resultado;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
