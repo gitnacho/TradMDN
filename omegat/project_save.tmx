@@ -3364,6 +3364,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Getting hosting and a domain name</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204748Z" creationid="Nachec" creationdate="20221023T204702Z">
+        <seg>### Obtener alojamiento y un nombre de dominio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Getting started</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223937Z" creationid="gitnacho" creationdate="20221018T223937Z">
@@ -14184,6 +14192,14 @@ browser-compat: mathml.global_attributes
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115207Z" creationid="gitnacho" creationdate="20221007T115207Z">
         <seg>- Web Workers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Web hosting is rented file space on a hosting company's [web server](/en-US/docs/Learn/Common_questions/What_is_a_web_server).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204843Z" creationid="Nachec" creationdate="20221023T204843Z">
+        <seg>- _Alojamiento_ (_Hosting_) — espacio de almacenamiento alquilado en el [servidor web](/es/docs/Learn/Common_questions/What_is_a_web_server) de una compañia de alojamientos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41650,6 +41666,14 @@ relevant header and serve an actual page to the user.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instead, it explains the advantages and disadvantages of three approaches that are practical for beginners.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204719Z" creationid="Nachec" creationdate="20221023T204641Z">
+        <seg>En su lugar, abordaremos los pros y contras de tres amplias estrategias desde el punto de vista de un principiante,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Instead, it is designed to complement and work alongside JavaScript, allowing web developers to take advantage of both languages' strong points:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T005754Z" creationid="gitnacho" creationdate="20221003T005754Z">
@@ -45646,6 +45670,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T190832Z" creationid="gitnacho" creationdate="20221008T185712Z">
         <seg>Las tablas de propiedades son un tipo específico de tabla que se utiliza para mostrar contenido estructurado de valores de propiedad en un conjunto de páginas de un tipo particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Publishing a website is a complex topic because there are many ways to go about it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204607Z" creationid="Nachec" creationdate="20221023T204607Z">
+        <seg>Publicar un sitio no es un tema sencillo, principalmente porque hay muchas maneras diferentes de hacerlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51597,6 +51629,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then it steps through one method that can work right away for many readers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204740Z" creationid="Nachec" creationdate="20221023T204657Z">
+        <seg> y luego debes seleccionar qué método usarás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then load `index.html` in your browser.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175648Z" creationid="Nachec" creationdate="20221023T175648Z">
@@ -52678,6 +52718,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This article doesn't attempt to document all the possible methods.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204616Z" creationid="Nachec" creationdate="20221023T204616Z">
+        <seg>En este artículo no se trata de ver todos los modos posibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This article explains a little bit about how it works, and how to use available tools to convert text format files to the `.wasm` assembly format.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182521Z" creationid="gitnacho" creationdate="20221007T182521Z">
@@ -52690,6 +52738,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053317Z" creationid="gitnacho" creationdate="20221007T053317Z">
         <seg>Este artículo explica cómo funciona ese formato de texto, en términos de sintaxis sin procesar, y cómo se relaciona con el código de bytes subyacente que representa, y el objeto contenedor que representa `wasm` en JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This article explains how to get your simple sample code online with little effort.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204551Z" creationid="Nachec" creationdate="20221023T204551Z">
+        <seg>Este artículo muestra cómo conseguir de manera sencilla que tu código esté en línea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55334,6 +55390,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144516Z" creationid="Nachec" creationdate="20221023T144516Z">
         <seg>Si quieres encontrar más, puedes ir a la [página de aprendizaje de CSS](/es/docs/Learn/CSS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To have more control over content and website appearance, most people choose to buy web hosting and a domain name:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204808Z" creationid="Nachec" creationdate="20221023T204808Z">
+        <seg>Si deseas un control total sobre tu sitio web publicado, probablemente necesitarás gastar dinero para comprar:</seg>
       </tuv>
     </tu>
     <tu>
