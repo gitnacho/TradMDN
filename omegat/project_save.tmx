@@ -2898,6 +2898,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Comments</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183742Z" creationid="Nachec" creationdate="20221023T183742Z">
+        <seg>### Comentarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Compatibility notes</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134423Z" creationid="gitnacho" creationdate="20221003T134423Z">
@@ -6530,6 +6538,16 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20170430T051129Z" creationid="nacho" creationdate="20170430T051129Z">
         <seg>*/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*/
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183910Z" creationid="Nachec" creationdate="20221023T183910Z">
+        <seg>*/
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -35052,6 +35070,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comments are snippets of text that can be added along with code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183831Z" creationid="Nachec" creationdate="20221023T183822Z">
+        <seg>Puedes escribir comentarios entre el código JavaScript, igual que puedes en CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare the rendering of the two `&lt;mi&gt;` elements in the following formula:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191837Z" creationid="Nachec" creationdate="20221021T191837Z">
@@ -39038,6 +39064,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If values couldn't change, then you couldn't do anything dynamic, like personalize a greeting message or change an image displayed in an image gallery.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183737Z" creationid="Nachec" creationdate="20221023T183737Z">
+        <seg>Si los valores no pudieran cambiar, entonces no podrías hacer nada dinámico, como personalizar un mensaje de bienvenida de un usuario que visita tu página, cambiar la imagen que se muestra en una galería de imágenes, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If we convert our module to binary now (see [Converting WebAssembly text format to wasm](/en-US/docs/WebAssembly/Text_format_to_wasm)), we'll see just the 8 byte module header described in the [binary format](https://webassembly.github.io/spec/core/binary/index.html#high-level-structure):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053945Z" creationid="gitnacho" creationdate="20221007T053945Z">
@@ -39492,6 +39526,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201743Z" creationid="Nachec" creationdate="20221021T201743Z">
         <seg>Si tu distribución de Linux no proporciona paquetes para las fuentes _Latin Modern Math_ y _STIX_, considera instalar los paquetes `texlive` que contienen las fuentes _Latin Modern Math_ y _XITS_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If your comment contains no line breaks, it's an option to put it behind two slashes like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184018Z" creationid="Nachec" creationdate="20221023T183931Z">
+        <seg>Si tu comentario no contiene saltos de línea, es una opción ponerlo detrás de dos barras como este:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45974,6 +46016,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So why do we need variables?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183712Z" creationid="Nachec" creationdate="20221023T183712Z">
+        <seg>Entonces, ¿para qué necesitamos las variables?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So,</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211101T221006Z" creationid="gitnacho" creationdate="20211101T221006Z">
@@ -48053,6 +48103,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070839Z" creationid="Nachec" creationdate="20221023T070839Z">
         <seg>El navegador ignora los comentarios mientras procesa el código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The browser ignores text marked as comments.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183840Z" creationid="Nachec" creationdate="20221023T183825Z">
+        <seg>El navegador ignora el texto marcado como comentario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54889,6 +54947,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Variables are necessary to do anything interesting in programming.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183719Z" creationid="Nachec" creationdate="20221023T183719Z">
+        <seg>Las variables son necesarias para hacer cualquier cosa interesante en programación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait on `event.preloadResponse`, which is passed as `preloadResponsePromise` to the `cacheFirst` function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T041347Z" creationid="gitnacho" creationdate="20220921T041347Z">
@@ -57120,6 +57186,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T071422Z" creationid="gitnacho" creationdate="20221005T071422Z">
         <seg>Puedes trabajar con estos de muchas maneras, por supuesto, pero aquí hay un par de sugerencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can write comments in JavaScript just as you can in CSS:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183849Z" creationid="Nachec" creationdate="20221023T183849Z">
+        <seg>En JavaScript, los comentarios de una sola línea se escriben así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60097,6 +60171,18 @@ text/html;q=0.8,text/*;q=0.8,*/*;q=0.8
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035450Z" creationid="gitnacho" creationdate="20220921T035450Z">
         <seg>```js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+/*
+Everything in between is a comment.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183909Z" creationid="Nachec" creationdate="20221023T183909Z">
+        <seg>```js
+/*
+Todo lo que hay en el medio es un comentario.</seg>
       </tuv>
     </tu>
     <tu>
