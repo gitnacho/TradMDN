@@ -41968,6 +41968,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It turns</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184954Z" creationid="Nachec" creationdate="20221023T184938Z">
+        <seg>es en JS el equivalente al operador lógico NOT — cambia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It uses a promise-powered function to read image data from a JSON object and load the images using Ajax, before displaying the images in a line down the page.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T023801Z" creationid="gitnacho" creationdate="20220921T023801Z">
@@ -53694,6 +53702,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064850Z" creationid="gitnacho" creationdate="20221007T064850Z">
         <seg>Esto da como resultado que se imprima "Hola" en la consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This returns the logically opposite value of what it precedes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184943Z" creationid="Nachec" creationdate="20221023T184854Z">
+        <seg>&lt;br /&gt;En ocasiones utilizado con el operador de identidad, la negación</seg>
       </tuv>
     </tu>
     <tu>
