@@ -12854,9 +12854,9 @@ browser-compat: api.Cache
       <tuv lang="en-US">
         <seg>- Styling</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120057Z" creationid="Nachec" creationdate="20221023T120057Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130953Z" creationid="Nachec" creationdate="20221023T120057Z">
         <seg>- Styling
-  _ Estilizado</seg>
+  - Estilizado</seg>
       </tuv>
     </tu>
     <tu>
@@ -21087,11 +21087,11 @@ title: CSS basics
 slug: Learn/Getting_started_with_the_web/CSS_basics
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120041Z" creationid="gitnacho" creationdate="20221002T100533Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130822Z" creationid="gitnacho" creationdate="20221002T100533Z">
         <seg>---
 title: Conceptos básicos de CSS
 slug: Learn/Getting_started_with_the_web/CSS_basics
-rue_ Nachec✓
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -48823,6 +48823,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T005158Z" creationid="gitnacho" creationdate="20221003T005158Z">
         <seg>Se puede pensar en la plataforma web como si tuviera dos partes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The whole structure is called a **ruleset**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131350Z" creationid="Nachec" creationdate="20221023T131350Z">
+        <seg>La estructura completa se conoce cómo **regla predeterminada** (pero a menudo *regla* para abreviar).</seg>
       </tuv>
     </tu>
     <tu>
