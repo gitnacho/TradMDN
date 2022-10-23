@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Paragraph opening tag with a class attribute highlighted: class=editor-note](grumpy-cat-attribute-small.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055336Z" creationid="Nachec" creationdate="20221023T055301Z">
+        <seg>![Etiqueta de apertura de párrafo con un atributo de clase resaltado: class=editor-note](grumpy-cat-attribute-small.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Screenshot of a console output in developer tools](console-example.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205640Z" creationid="gitnacho" creationdate="20221005T205640Z">
@@ -31315,6 +31323,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A space between it and the element name (or the previous attribute, if the element already has one or more attributes).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055547Z" creationid="Nachec" creationdate="20221023T055547Z">
+        <seg>Un espacio entre este y el nombre del elemento (o del atributo previo, si el elemento ya posee uno o más atributos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A specific document is called a _resource_.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091251Z" creationid="Nachec" creationdate="20221022T091251Z">
@@ -32058,6 +32074,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An attribute should always have the following:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055523Z" creationid="Nachec" creationdate="20221023T055523Z">
+        <seg>Un atributo siempre debe tener:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An entity header is an {{glossary("HTTP_header", "HTTP header")}} that describes the payload of an HTTP message (i.e. metadata about the message body).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154843Z" creationid="Nachec" creationdate="20221022T154843Z">
@@ -32656,6 +32680,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T141010Z" creationid="gitnacho" creationdate="20221002T141010Z">
         <seg>En este punto, tu *service worker* observará el siguiente ciclo de vida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attributes contain extra information about the element that you don't want to appear in the actual content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055353Z" creationid="Nachec" creationdate="20221023T055312Z">
+        <seg>Los atributos contienen información adicional acerca del elemento, la cual no quieres que aparezca en el contenido real del elemento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36467,6 +36499,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T060806Z" creationid="gitnacho" creationdate="20221007T060806Z">
         <seg>Aquí, `add` es el nombre con el que se identificará la función en JavaScript, mientras que `$add` selecciona qué función de WebAssembly dentro del Módulo se está exportando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here, `class` is the attribute _name_ and `editor-note` is the attribute _value_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055406Z" creationid="Nachec" creationdate="20221023T055406Z">
+        <seg>Aquí `class` es el _nombre_ del atributo y `editor-note` el _valor_ del atributo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45257,6 +45297,14 @@ synchronously compile given WebAssembly binary code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `class` attribute allows you to give the element a non-unique identifier that can be used to target it (and any other elements with the same `class` value) with style information and other things.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055456Z" creationid="Nachec" creationdate="20221023T055456Z">
+        <seg>En este caso, el atributo `class` permite darle al elemento un nombre identificativo, que se puede utilizar luego para apuntar información de estilo y demás cosas al elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `create_buffer()` function allocates a buffer for the RGBA image — hence 4 bytes per pixel.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T054302Z" creationid="gitnacho" creationdate="20221004T054302Z">
@@ -45520,6 +45568,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234719Z" creationid="Nachec" creationdate="20221021T234719Z">
         <seg>El identificador de unidad adjunto no distingue entre mayúsculas y minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The attribute name followed by an equal sign.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055601Z" creationid="Nachec" creationdate="20221023T055601Z">
+        <seg>El nombre del atributo, seguido por un signo de igual (**=**).</seg>
       </tuv>
     </tu>
     <tu>
