@@ -22301,6 +22301,21 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: JavaScript basics
+slug: Learn/Getting_started_with_the_web/JavaScript_basics
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171304Z" creationid="Nachec" creationdate="20221023T171304Z">
+        <seg>---
+title: Conceptos básicos de JavaScript
+slug: Learn/Getting_started_with_the_web/JavaScript_basics
+rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: KumaScript
 slug: MDN/Tools/KumaScript
 tags:</seg>
@@ -39487,8 +39502,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In contrast, images are **inline** elements, for the auto margin trick to work on this image, we must give it block-level behavior using `display: block;`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143830Z" creationid="Nachec" creationdate="20221023T143713Z">
-        <seg>Las imágenes, por otra parte, son elementos **inline**, lo cual quiere decir que no les puedes aplicar márgenes, debes dar a la imagen un comportamiento de a nivel de bloque —`block-level`` usando `display: block;`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T170827Z" creationid="Nachec" creationdate="20221023T143713Z">
+        <seg>Las imágenes, por otra parte, son elementos **inline**, lo cual quiere decir que no les puedes aplicar márgenes, debes dar a la imagen un comportamiento a nivel de bloque —`block-level`` usando `display: block;`.</seg>
       </tuv>
     </tu>
     <tu>
