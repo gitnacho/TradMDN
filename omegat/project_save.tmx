@@ -21442,10 +21442,11 @@ title: HTML basics
 slug: Learn/Getting_started_with_the_web/HTML_basics
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T100031Z" creationid="gitnacho" creationdate="20221002T095937Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T052715Z" creationid="gitnacho" creationdate="20221002T095937Z">
         <seg>---
 title: Conceptos básicos de HTML
 slug: Learn/Getting_started_with_the_web/HTML_basics
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -67302,6 +67303,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T053031Z" creationid="Nachec" creationdate="20221023T053031Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/Installing_basic_software", "Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060859Z" creationid="gitnacho" creationdate="20221019T060859Z">
@@ -67408,6 +67417,14 @@ console.log(uintc8FromIterable);
         <seg>{{Non-standard_Header}}
 {{Deprecated_Header}}
 [![Iceberg pic](iceberg.jpg)](iceberg.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T052616Z" creationid="Nachec" creationdate="20221023T052616Z">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
     </tu>
     <tu>
