@@ -58423,8 +58423,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You have already seen some uses of functions.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191236Z" creationid="Nachec" creationdate="20221023T191207Z">
-        <seg>Ya has visto algunas funciones más arriba, por ejemplo:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T202415Z" creationid="Nachec" creationdate="20221023T191207Z">
+        <seg>Ya has visto algunas funciones más arriba.</seg>
       </tuv>
     </tu>
     <tu>
