@@ -26952,6 +26952,54 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;code&gt;#my-id&lt;/code&gt;&lt;br /&gt;selects &lt;code&gt;&amp;#x3C;p id="my-id"&gt;&lt;/code&gt; or</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133933Z" creationid="Nachec" creationdate="20221023T133933Z">
+        <seg>&lt;code&gt;#my-id&lt;/code&gt;&lt;br /&gt;selecciona &lt;code&gt;&lt;p id="my-id"&gt;&lt;/code&gt; o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;&amp;#x3C;a class="my-class"&gt;&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134024Z" creationid="Nachec" creationdate="20221023T134024Z">
+        <seg>&lt;code&gt;&amp;#x3C;a class="my-class"&gt;&lt;/code&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;&amp;#x3C;a id="my-id"&gt;&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133938Z" creationid="Nachec" creationdate="20221023T133938Z">
+        <seg>&lt;code&gt;&amp;#x3C;a id="my-id"&gt;&lt;/code&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;&amp;#x3C;img src="myimage.png"&gt;&lt;/code&gt; but not</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134110Z" creationid="Nachec" creationdate="20221023T134110Z">
+        <seg>&lt;code&gt;&amp;#x3C;img src="myimage.png"&gt;&lt;/code&gt; pero no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;&amp;#x3C;img&gt;&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134142Z" creationid="Nachec" creationdate="20221023T134142Z">
+        <seg>&lt;code&gt;&amp;#x3C;img&gt;&lt;/code&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;&amp;#x3C;p class="my-class"&gt;&lt;/code&gt; and</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134023Z" creationid="Nachec" creationdate="20221023T134023Z">
+        <seg>&lt;code&gt;&amp;#x3C;p class="my-class"&gt;&lt;/code&gt; y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;code&gt;&amp;lt;&lt;span&gt;????????&lt;/span&gt;&amp;gt;&lt;/code&gt; element with exactly three children</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102523Z" creationid="Nachec" creationdate="20221021T102523Z">
@@ -26972,6 +27020,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102751Z" creationid="Nachec" creationdate="20221022T102751Z">
         <seg>&lt;code&gt;*,-.;=&lt;/code&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;.my-class&lt;/code&gt;&lt;br /&gt;selects</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134016Z" creationid="Nachec" creationdate="20221023T134016Z">
+        <seg>&lt;code&gt;.my-class&lt;/code&gt;&lt;br /&gt;selecciona</seg>
       </tuv>
     </tu>
     <tu>
@@ -27092,6 +27148,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T112810Z" creationid="gitnacho" creationdate="20221005T112810Z">
         <seg>&lt;code&gt;\{{SVGElement("view")}}&lt;/code&gt; resulta en {{SVGElement("view")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;img[src]&lt;/code&gt;&lt;br /&gt;selects</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134100Z" creationid="Nachec" creationdate="20221023T134100Z">
+        <seg>&lt;code&gt;img[src]&lt;/code&gt;&lt;br /&gt;selecciona</seg>
       </tuv>
     </tu>
     <tu>
@@ -28938,6 +29002,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;Attribute selector&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134031Z" creationid="Nachec" creationdate="20221023T134031Z">
+        <seg>&lt;td&gt;Selector de atributos&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;Class selector&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133954Z" creationid="Nachec" creationdate="20221023T133954Z">
+        <seg>&lt;td&gt;Selector de clase&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;Closed source&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122352Z" creationid="gitnacho" creationdate="20221020T122352Z">
@@ -28958,6 +29038,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132659Z" creationid="Nachec" creationdate="20221023T132659Z">
         <seg>&lt;td&gt;Selector de elementos (a veces llamada etiqueta o selector de tipo)&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;ID selector&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133835Z" creationid="Nachec" creationdate="20221023T133835Z">
+        <seg>&lt;td&gt;Selector de ID&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29014,6 +29102,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185153Z" creationid="gitnacho" creationdate="20221008T185153Z">
         <seg>&lt;td&gt;Algo corto&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;The element(s) on the page with the specified attribute.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134052Z" creationid="Nachec" creationdate="20221023T134052Z">
+        <seg>&lt;td&gt;El/los elemento/s en la página con el atributo especificado.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42007,6 +42103,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple instances</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134002Z" creationid="Nachec" creationdate="20221023T134002Z">
+        <seg>Múltiples instancias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple language tags are also possible, as well as applying the `Content-Language` header to various media types and not only to textual documents.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102639Z" creationid="Nachec" creationdate="20221022T102639Z">
@@ -42942,6 +43046,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T202349Z" creationid="gitnacho" creationdate="20221005T202304Z">
         <seg>En MDN, verás numerosos ejemplos de código insertados en las páginas para demostrar el uso de las funciones de la plataforma web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On a given HTML page,</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133851Z" creationid="Nachec" creationdate="20221023T133851Z">
+        <seg>En una página HTML dada,</seg>
       </tuv>
     </tu>
     <tu>
@@ -47058,6 +47170,22 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060448Z" creationid="Nachec" creationdate="20221021T060448Z">
         <seg>El documento contiene una fórmula MathML y ​​debe verificar todos los subárboles correspondientes a un subárbol en esa fórmula MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The element on the page with the specified ID.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133845Z" creationid="Nachec" creationdate="20221023T133845Z">
+        <seg>El elemento de la página con el ID especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The element(s) on the page with the specified class.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133959Z" creationid="Nachec" creationdate="20221023T133959Z">
+        <seg>Los elementos en la página con la clase especificada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63922,6 +64050,14 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>each id value should be unique.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T133916Z" creationid="Nachec" creationdate="20221023T133916Z">
+        <seg>cada valor de id debe ser único.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>element:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211001T194634Z" creationid="gitnacho" creationdate="20211001T194634Z">
@@ -66288,6 +66424,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T185009Z" creationid="Nachec" creationdate="20221021T185009Z">
         <seg>de conductas especiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of the same class can appear on a page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134007Z" creationid="Nachec" creationdate="20221023T134007Z">
+        <seg>de la misma clase pueden aparecer en una página.</seg>
       </tuv>
     </tu>
     <tu>
