@@ -32325,6 +32325,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A semicolon at the end of a line indicates where a statement ends.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182013Z" creationid="Nachec" creationdate="20221023T182013Z">
+        <seg>&gt; **Nota:** todas las líneas en JS deben acabar en punto y coma (;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A server can replace the set of client hints it is interested in receiving by resending the `Accept-CH` response header with a new list.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092038Z" creationid="gitnacho" creationdate="20221012T092038Z">
@@ -37002,6 +37010,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more details, see [Your Guide to Semicolons in JavaScript](https://www.codecademy.com/resources/blog/your-guide-to-semicolons-in-javascript/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182144Z" creationid="Nachec" creationdate="20221023T182144Z">
+        <seg>Para más detalles, ve [Guía del punto y coma en JavaScript](http://news.codecademy.com/your-guide-to-semicolons-in-javascript/) (en inglés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information see [HTTP Caching &gt; Varying responses](/en-US/docs/Web/HTTP/Caching#varying_responses).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183803Z" creationid="gitnacho" creationdate="20221012T091926Z">
@@ -38126,6 +38142,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195050Z" creationid="Nachec" creationdate="20221021T193430Z">
         <seg>Sin embargo, algunos de ellos no tienen espacios agregados antes, mientras que los paréntesis todavía no tienen espacios alrededor de ellos.&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, some people believe it's good practice to have semicolons at the end of each statement.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182116Z" creationid="Nachec" creationdate="20221023T182116Z">
+        <seg>Sin embargo, algunas personas creen que es una buena práctica tener punto y coma al final de cada declaración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41278,6 +41302,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T041733Z" creationid="gitnacho" creationdate="20220921T041733Z">
         <seg>Solo se activa cuando ya no hay páginas cargadas que todavía estén usando el antiguo *service worker*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is only required when you need to separate statements on a single line.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182105Z" creationid="Nachec" creationdate="20221023T182105Z">
+        <seg>para indicar que es ahí donde termina la declaración. Si no los incluyes puedes obtener resultados inesperados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50568,6 +50600,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are other rules for when you should and shouldn't use semicolons.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182126Z" creationid="Nachec" creationdate="20221023T182126Z">
+        <seg>Hay otras reglas para cuando se debe y no se debe usar punto y coma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are several declarations for the {{htmlelement("body")}} element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142019Z" creationid="Nachec" creationdate="20221023T142019Z">
@@ -57068,8 +57108,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You start by declaring a variable with the [`let`](/en-US/docs/Web/JavaScript/Reference/Statements/let) keyword, followed by the name you give to the variable:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181909Z" creationid="Nachec" creationdate="20221023T181909Z">
-        <seg>Primero debes declarar la variable con la palabra clave [`var`](/es/docs/Web/JavaScript/Reference/Statements/var) (menos recomendado) o [`let`](/es/docs/Web/JavaScript/Reference/Statements/let), seguida del nombre que le quieras dar.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181940Z" creationid="Nachec" creationdate="20221023T181909Z">
+        <seg>Primero debes declarar la variable con la palabra clave [`var`](/es/docs/Web/JavaScript/Reference/Statements/var) (menos recomendado) o [`let`](/es/docs/Web/JavaScript/Reference/Statements/let), seguida del nombre que le quieras dar. Se recomienda más el uso de `let` que de `var` (más adelante se profundiza un poco sobre esto):</seg>
       </tuv>
     </tu>
     <tu>
@@ -60948,6 +60988,18 @@ instantiating.then((obj) =&gt; {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T000327Z" creationid="gitnacho" creationdate="20221020T000327Z">
         <seg>```js
 instantiating.then((obj) =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+let myVariable;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181958Z" creationid="Nachec" creationdate="20221023T181913Z">
+        <seg>```js
+let nombreDeLaVariable;
+```</seg>
       </tuv>
     </tu>
     <tu>
