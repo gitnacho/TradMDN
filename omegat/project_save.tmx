@@ -928,6 +928,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## A "Hello world!" example</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175136Z" creationid="Nachec" creationdate="20221023T175136Z">
+        <seg>## Ejemplo "_¡Hola Mundo!_"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## A bit of semantics</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190958Z" creationid="Nachec" creationdate="20221021T190958Z">
@@ -13675,6 +13683,22 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093158Z" creationid="Nachec" creationdate="20221022T093158Z">
         <seg>- Siempre deben proporcionar una forma de redefinir el idioma elegido por el servidor, por ejemplo, proporcionando un menú de idioma en el sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Twitter or Facebook.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T174954Z" creationid="Nachec" creationdate="20221023T174954Z">
+        <seg>- APIs de terceros, que permiten a los desarrolladores incorporar funcionalidades en sus sitios de otros proveedores de contenido como Twitter o Facebook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175005Z" creationid="Nachec" creationdate="20221023T175005Z">
+        <seg>- Marcos de trabajo y librerías de terceros que puedes aplicar a tu HTML para que puedas construir y publicar rápidamente sitios y aplicaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33669,6 +33693,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As your JavaScript skills grow, your websites will enter a new dimension of power and creativity.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175219Z" creationid="Nachec" creationdate="20221023T175219Z">
+        <seg>JavaScript es una de las tecnologías web más emocionantes, y cuando comiences a ser bueno en su uso, tus sitios web entrarán en una nueva dimensión de energía y creatividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aside from the specific system for presenting the live samples, there are style and content considerations to keep in mind when adding or updating samples on MDN.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204945Z" creationid="gitnacho" creationdate="20221005T204945Z">
@@ -37528,6 +37560,14 @@ Connection: Keep-Alive
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have fun!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175115Z" creationid="Nachec" creationdate="20221023T175115Z">
+        <seg>¡Diviértete!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Header fields are kept in an [IANA registry](https://www.iana.org/assignments/message-headers/message-headers.xhtml#perm-headers).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T070441Z" creationid="gitnacho" creationdate="20221012T064343Z">
@@ -37884,6 +37924,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023628Z" creationid="gitnacho" creationdate="20221008T023628Z">
         <seg>Sin embargo, como tenemos una etiqueta, usamos [`Exception.prototype.is()`](/es/docs/WebAssembly/JavaScript_interface/Exception/is) para comprobar que es la correcta, y como es correcta, llama a [`Exception.prototype.getArg()`](/es/docs/WebAssembly/JavaScript_interface/Exception/getArg) para leer el valor "42".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, getting comfortable with JavaScript is more challenging than getting comfortable with HTML and CSS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175231Z" creationid="Nachec" creationdate="20221023T175231Z">
+        <seg>Sin embargo, sentirse cómodo con JavaScript es un poco más difícil que sentirse cómodo con HTML y CSS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41489,6 +41537,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's outside the scope of this article—as a light introduction to JavaScript—to present the details of how the core JavaScript language is different from the tools listed above.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175027Z" creationid="Nachec" creationdate="20221023T175027Z">
+        <seg>Ya que se supone que este artículo es solo una introducción ligera a JavaScript, la intención no es confundirte en esta etapa hablando en detalle sobre cuál es la diferencia entre el núcleo del lenguaje JavaScript y las diferentes herramientas listadas arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's permissible for the info string to contain multiple words, like:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174627Z" creationid="gitnacho" creationdate="20221008T174627Z">
@@ -41645,6 +41701,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171521Z" creationid="Nachec" creationdate="20221023T171401Z">
         <seg>JavaScript es el lenguaje de programación que debes usar para añadir características interactivas a tu sitio web,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JavaScript is one of the most popular modern web technologies!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175156Z" creationid="Nachec" creationdate="20221023T175156Z">
+        <seg>¡La sección de arriba suena realmente emocionante, y debería serlo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49480,6 +49544,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The section below introduces some aspects of the core language and offers an opportunity to play with a few browser API features too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175110Z" creationid="Nachec" creationdate="20221023T175110Z">
+        <seg>Debajo se presentan algunos aspectos del núcleo del lenguaje y también jugarás con unas pocas características de la API del navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The server also sends `Access-Control-Allow-Headers` with a value of "`X-PINGOTHER, Content-Type`", confirming that these are permitted headers to be used with the actual request.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T223124Z" creationid="gitnacho" creationdate="20221011T223124Z">
@@ -56306,6 +56378,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T041544Z" creationid="gitnacho" creationdate="20220921T041544Z">
         <seg>En su lugar, puedes optar por descargar y almacenar en caché un recurso diferente en la precarga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can learn more in MDN's [JavaScript learning area](/en-US/docs/Learn/JavaScript), as well as in other parts of MDN.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175055Z" creationid="Nachec" creationdate="20221023T175055Z">
+        <seg>Puedes aprender todo eso en detalle más tarde, en el [Área de Aprendizaje en MDN](/es/docs/Learn/JavaScript), y en el resto de MDN.</seg>
       </tuv>
     </tu>
     <tu>
