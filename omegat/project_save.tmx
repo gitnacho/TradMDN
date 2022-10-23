@@ -2818,6 +2818,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Centering the image</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143539Z" creationid="Nachec" creationdate="20221023T143539Z">
+        <seg>### Centrar la imagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Changing the page color</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141716Z" creationid="Nachec" creationdate="20221023T141716Z">
@@ -13363,6 +13371,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143326Z" creationid="Nachec" creationdate="20221023T143304Z">
         <seg>- El primer valor en píxeles asigna el **desplazamiento horizontal** de la sombra desde el texto —qué tan lejos la mueve a la derecha—. Un valor negativo la moverá a la izquierda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The fourth value sets the base color of the shadow.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143514Z" creationid="Nachec" creationdate="20221023T143514Z">
+        <seg>- El cuarto valor asigna el color base de la sombra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31997,8 +32013,8 @@ JavaScript wrapper for an underlying wasm function.</seg>
       <tuv lang="en-US">
         <seg>A larger value produces a more fuzzy-looking shadow.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143444Z" creationid="Nachec" creationdate="20221023T143444Z">
-        <seg>A larger value produces a more fuzzy-looking shadow.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143506Z" creationid="Nachec" creationdate="20221023T143444Z">
+        <seg>—un valor grande es igual a una sombra borrosa—.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34149,6 +34165,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040420Z" creationid="gitnacho" creationdate="20220921T040420Z">
         <seg>Pero la razón es que no queremos esperar hasta que el clon de respuesta se haya agregado a la caché antes de devolver una respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But there are differences that require an additional setting to make the CSS work.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143615Z" creationid="Nachec" creationdate="20221023T143615Z">
+        <seg>pero existen diferencias que requieren que hagas algo más para que el código CSS funcione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39405,6 +39429,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In contrast, images are **inline** elements, for the auto margin trick to work on this image, we must give it block-level behavior using `display: block;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143830Z" creationid="Nachec" creationdate="20221023T143713Z">
+        <seg>Las imágenes, por otra parte, son elementos **inline**, lo cual quiere decir que no les puedes aplicar márgenes, debes dar a la imagen un comportamiento de a nivel de bloque —`block-level`` usando `display: block;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In earlier browsers, this identified the scripting language of the embedded or imported (via the `src` attribute) code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130618Z" creationid="gitnacho" creationdate="20221003T130618Z">
@@ -42709,6 +42741,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221005T060933Z">
         <seg>A continuación, envía la solicitud mediante {{DOMxRef("XMLHttpRequest.send()")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, we center the image to make it look better.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143551Z" creationid="Nachec" creationdate="20221023T143551Z">
+        <seg>Finalmente, centra la imagen para hacer que luzca mejor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48691,6 +48731,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The margin applied to a block element will be respected by other elements on the page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143735Z" creationid="Nachec" creationdate="20221023T143705Z">
+        <seg>y que puede tener otros valores de espacio aplicables como margen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The matching is done via URL and various headers, just like with normal HTTP requests.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035341Z" creationid="gitnacho" creationdate="20220921T035341Z">
@@ -49931,6 +49979,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221007T115428Z">
         <seg>El método {{DOMxRef("Worker")}} `postMessage()` delega al método {{DOMxRef("MessagePort")}} {{DOMxRef("MessagePort.postMessage", "postMessage()")}}, que agrega una tarea en el bucle de eventos correspondiente al {{DOMxRef("MessagePort")}} recibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{htmlelement("body")}} is a **block** element, meaning it takes up space on the page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143727Z" creationid="Nachec" creationdate="20221023T143703Z">
+        <seg>El elemento {{htmlelement("body")}} es un elemento a nivel de bloque (**block-level**), lo cual significa que tomará espacio en la página</seg>
       </tuv>
     </tu>
     <tu>
@@ -53678,6 +53734,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try experimenting with different values to see how it changes the appearance.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143530Z" creationid="Nachec" creationdate="20221023T143530Z">
+        <seg>Una vez más, trata de experimentar con diferentes valores para ver cómo resulta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try this now in your demo — save what you've added so far, load it in your browser, then try entering the above two lines in your JavaScript console.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210413Z" creationid="gitnacho" creationdate="20221006T210413Z">
@@ -54194,6 +54258,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035311Z" creationid="gitnacho" creationdate="20220921T035311Z">
         <seg>Podríamos empezar respondiendo con el recurso cuya URL coincida con la de la solicitud de red, en cada caso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We could use the `margin: 0 auto` trick again as we did for the body.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143605Z" creationid="Nachec" creationdate="20221023T143605Z">
+        <seg>Puedes usar nuevamente el truco de `margin: 0 auto` que usaste antes para `body`,</seg>
       </tuv>
     </tu>
     <tu>
@@ -57993,6 +58065,16 @@ html {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141718Z" creationid="Nachec" creationdate="20221023T141718Z">
         <seg>```css
 html {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+img {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143539Z" creationid="Nachec" creationdate="20221023T143539Z">
+        <seg>```css
+img {</seg>
       </tuv>
     </tu>
     <tu>
@@ -64630,6 +64712,14 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>display: block;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143540Z" creationid="Nachec" creationdate="20221023T143540Z">
+        <seg>display: block;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>document</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220806T063228Z" creationid="nachec" creationdate="20220806T063228Z">
@@ -66782,6 +66872,18 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141934Z" creationid="Nachec" creationdate="20221023T141934Z">
         <seg>margin: 0 auto;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>margin: 0 auto;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143541Z" creationid="Nachec" creationdate="20221023T143541Z">
+        <seg>margin: 0 auto;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
