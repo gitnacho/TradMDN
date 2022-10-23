@@ -1672,6 +1672,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Language basics crash course</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181625Z" creationid="Nachec" creationdate="20221023T181625Z">
+        <seg>## Curso intensivo de fundamentos del lenguaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Legacy MathML lengths</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T221927Z" creationid="Nachec" creationdate="20221021T221927Z">
@@ -4470,6 +4478,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T204533Z" creationid="Nachec" creationdate="20221021T204533Z">
         <seg>### Valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Variables</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181755Z" creationid="Nachec" creationdate="20221023T181755Z">
+        <seg>### Variables</seg>
       </tuv>
     </tu>
     <tu>
@@ -30274,6 +30290,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Both of the features you used in this exercise are parts of the [Document Object Model (DOM) API](/en-US/docs/Web/API/Document_Object_Model), which has the capability to manipulate documents.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181616Z" creationid="Nachec" creationdate="20221023T181616Z">
+        <seg>&gt; **Nota:** Las dos características que has utilizado en este ejercicio forman parte de la API del [Modelo de Objeto de Documento (DOM)](/es/docs/Web/API/Document_Object_Model), que tiene la capacidad de manipular documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** By default Lyx and TeXmacs will use images of formulas in their HTML output.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081812Z" creationid="Nachec" creationdate="20221021T081812Z">
@@ -31351,6 +31375,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T071914Z" creationid="Nachec" creationdate="20221021T063610Z">
         <seg>&gt; **Advertencia:** En la práctica, el contenido de MathML se genera a partir de [lenguajes de marcado ligero](https://en.wikipedia.org/wiki/Lightweight_markup_language) (por ejemplo, [LaTeX](https://es.wikipedia.org/wiki/LaTeX)) o usando la [interfaz gráfica de usuario](https://es.wikipedia.org/wiki/Graphical_user_interface): si solo necesitas integrar fórmulas matemáticas en tus páginas web, los consejos de [Autoría MathML](/es/docs/Web/MathML/Authoring) deberían ser suficientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Warning:** In this article, try entering the example code lines into your JavaScript console to see what happens.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181730Z" creationid="Nachec" creationdate="20221023T181730Z">
+        <seg>&gt; **Advertencia:** en este artículo, trata de introducir las líneas de código de ejemplo en la consola de tu navegador para ver lo que sucede.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36254,6 +36286,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Following that, the code set the value of the `myHeading` variable's {{domxref("Node.textContent", "textContent")}} property (which represents the content of the heading) to _Hello world!_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181550Z" creationid="Nachec" creationdate="20221023T181550Z">
+        <seg>Después de eso, estableciste el valor de la propiedad {{domxref("Node.textContent", "textContent")}} de la variable `miTitulo` (que representa el contenido del título) como _¡Hola mundo!_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Following that, we set the heading text to be the same color as the HTML background color.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143220Z" creationid="Nachec" creationdate="20221023T143220Z">
@@ -36950,6 +36990,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T064155Z" creationid="gitnacho" creationdate="20221019T063618Z">
         <seg>Haz clic en el botón _"\*Familia seleccionada"_ en el panel en la parte inferior de la página ("\*" depende de cuántos tipos de letra hayas seleccionado). Ve [esta página](https://developers.google.com/fonts/docs/getting_started). En el cuadro emergente, puedes ver y copiar las líneas de código que Google te brinda en tu editor de texto para guardarlas y usarlas más adelante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more details on JavaScript consoles, see [Discover browser developer tools](/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181753Z" creationid="Nachec" creationdate="20221023T181753Z">
+        <seg>Para más detalles sobre consolas JavaScript, mira [Descubre las herramientas de desarrollo de los navegadores](/es/docs/Learn/Common_questions/What_are_browser_developer_tools).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39042,6 +39090,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112147Z" creationid="gitnacho" creationdate="20221003T112147Z">
         <seg>Si vuelves a cargar el ejemplo en tu navegador, ¡verás lo mismo que antes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you master these fundamentals, you have a head start on coding in other languages too!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181715Z" creationid="Nachec" creationdate="20221023T181715Z">
+        <seg>Si puedes entender esos fundamentos, ¡deberías ser capaz de comenzar a programar en casi cualquier cosa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41703,6 +41759,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T104235Z" creationid="gitnacho" creationdate="20221002T095319Z">
         <seg>Se utiliza ampliamente para pruebas de aplicaciones web en navegadores cruzados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's worth noting that these features are common to all programming languages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181652Z" creationid="Nachec" creationdate="20221023T181652Z">
+        <seg>Mejor aún, estas características son comunes para todos los lenguajes de programación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53837,6 +53901,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To give you a better understanding of how JavaScript works, let's explain some of the core features of the language.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181638Z" creationid="Nachec" creationdate="20221023T181638Z">
+        <seg>Ahora se explicarán algunas de las funciones básicas del lenguaje JavaScript para que puedas comprender mejor cómo funciona todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To go further, see [Learning to style HTML using CSS](/en-US/docs/Learn/CSS).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144516Z" creationid="Nachec" creationdate="20221023T144516Z">
@@ -55948,6 +56020,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you want to do something to an element, you need to select it first.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181524Z" creationid="Nachec" creationdate="20221023T181524Z">
+        <seg>—quieres hacer algo con un elemento, así que tienes que seleccionarlo primero—.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you're building a website, you need to assemble these files into a sensible structure and make sure they can talk to one another.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T043420Z" creationid="gitnacho" creationdate="20220925T043420Z">
@@ -56982,6 +57062,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062244Z" creationid="gitnacho" creationdate="20221019T062244Z">
         <seg>Aún debes tener los párrafos y el título de antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You start by declaring a variable with the [`let`](/en-US/docs/Web/JavaScript/Reference/Statements/let) keyword, followed by the name you give to the variable:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181909Z" creationid="Nachec" creationdate="20221023T181909Z">
+        <seg>Primero debes declarar la variable con la palabra clave [`var`](/es/docs/Web/JavaScript/Reference/Statements/var) (menos recomendado) o [`let`](/es/docs/Web/JavaScript/Reference/Statements/let), seguida del nombre que le quieras dar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70672,6 +70760,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171619Z" creationid="Nachec" creationdate="20221023T171619Z">
         <seg>{{Glossary("JavaScript")}} es un robusto lenguaje de programación que se puede aplicar a un documento {{Glossary("HTML")}} y usarse para crear interactividad dinámica en los sitios web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Glossary("Variable", "Variables")}} are containers that store values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181812Z" creationid="Nachec" creationdate="20221023T181812Z">
+        <seg>Las {{Glossary("Variable", "Variables")}} son contenedores en los que puedes almacenar valores.</seg>
       </tuv>
     </tu>
     <tu>
