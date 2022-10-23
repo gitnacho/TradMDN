@@ -26642,9 +26642,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;a href="https://www.mozilla.org/en-US/about/manifesto/"&gt;Mozilla Manifesto&lt;/a&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105055Z" creationid="Nachec" creationdate="20221023T105055Z">
-        <seg>```html
-&lt;a href="https://www.mozilla.org/es-AR/about/manifesto/"&gt;Manifesto Mozilla&lt;/a&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105706Z" creationid="Nachec" creationdate="20221023T105055Z">
+        <seg>&lt;a href="https://www.mozilla.org/es-AR/about/manifesto/"&gt;Manifesto Mozilla&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26659,9 +26658,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;a&gt;Mozilla Manifesto&lt;/a&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104847Z" creationid="Nachec" creationdate="20221023T104847Z">
-        <seg>```html
-&lt;a&gt;Manifesto Mozilla&lt;/a&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105632Z" creationid="Nachec" creationdate="20221023T104847Z">
+        <seg>&lt;a&gt;Manifesto Mozilla&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36949,6 +36947,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here, we have only really scratched the surface of HTML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105354Z" creationid="Nachec" creationdate="20221023T105354Z">
+        <seg>Aquí realmente solo has rasguñado la superficie de HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here, we have the following:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060712Z" creationid="Nachec" creationdate="20221023T060712Z">
@@ -37977,6 +37983,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you get stuck, you can always compare your work with our [finished example code](https://github.com/mdn/beginner-html-site/blob/gh-pages/index.html) on GitHub.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105340Z" creationid="Nachec" creationdate="20221023T105340Z">
+        <seg>Si te estancas en algún paso, puedes comparar tu trabajo con el [código de ejemplo terminado](https://github.com/mdn/beginner-html-site/blob/gh-pages/index.html) en Github.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have a function defined in your C code that you want to call as needed from JavaScript, you can do this using the Emscripten `ccall()` function, and the `EMSCRIPTEN_KEEPALIVE` declaration (which adds your functions to the exported functions list (see [Why do functions in my C/C++ source code vanish when I compile to JavaScript, and/or I get No functions to process?](https://emscripten.org/docs/getting_started/FAQ.html#why-do-functions-in-my-c-c-source-code-vanish-when-i-compile-to-javascript-and-or-i-get-no-functions-to-process))).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T044637Z" creationid="gitnacho" creationdate="20221003T111559Z">
@@ -38003,8 +38017,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you have followed all the instructions in this article, you should end up with a page that looks like the one below (you can also [view it here](https://mdn.github.io/beginner-html-site/)):</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105228Z" creationid="Nachec" creationdate="20221023T105228Z">
-        <seg>Si lograste seguir todas las instrucciones de este artículo, deberías terminar con una página que se ve así (también la puedes [ver aquí](http://mdn.github.io/beginner-html-site/)):</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105830Z" creationid="Nachec" creationdate="20221023T105228Z">
+        <seg>Si lograste seguir todas las instrucciones de este artículo, deberías terminar con una página que se ve así (también la puedes [ver aquí](https://mdn.github.io/beginner-html-site/)):</seg>
       </tuv>
     </tu>
     <tu>
@@ -49782,8 +49796,8 @@ is the most efficient, optimized way to load wasm code.</seg>
       <tuv lang="en-US">
         <seg>This article describes how to get your simple sample code online with minimum effort.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T055931Z" creationid="gitnacho" creationdate="20220925T055931Z">
-        <seg>Este artículo describe cómo publicar tu código de ejemplo en línea con el mínimo esfuerzo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T110623Z" creationid="gitnacho" creationdate="20220925T055931Z">
+        <seg>Este artículo describe cómo publicar en línea tu código de ejemplo con el mínimo esfuerzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51890,8 +51904,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To add a link, we need to use a simple element — {{htmlelement("a")}} — "a" being the short form for "anchor".</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104656Z" creationid="Nachec" creationdate="20221023T104656Z">
-        <seg>Para implementar un vínculo, necesitas usar un enlace simple — {{htmlelement("a")}} — la _a_ es la abreviatura de la palabra inglesa *anchor* (_ancla_).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105609Z" creationid="Nachec" creationdate="20221023T104656Z">
+        <seg>Para implementar un enlace, necesitas usar un enlace simple — {{htmlelement("a")}} — la _a_ es la abreviatura de la palabra inglesa *"anchor"* (_ancla_).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52092,6 +52106,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200453Z" creationid="gitnacho" creationdate="20221008T200453Z">
         <seg>Para saber cómo ayudar, visita nuestra página [Cómo empezar](/es/docs/MDN/Community/Contributing/Getting_started).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To find out more, go to our [Learning HTML](/en-US/docs/Learn/HTML) topic.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105842Z" creationid="Nachec" creationdate="20221023T105416Z">
+        <seg>Para aprender más, ve a la [página de Aprendizaje HTML](/es/docs/Learn/HTML).</seg>
       </tuv>
     </tu>
     <tu>
