@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![A screenshot of our basic website showing just the Firefox logo - a flaming fox wrapping the world](website-screenshot.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045936Z" creationid="Nachec" creationdate="20221023T045936Z">
+        <seg>![Una captura de pantalla del sitio web básico que muestra solo el logotipo de Firefox: un zorro en llamas envolviendo el mundo](website-screenshot.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Color-Picker-Tool on MDN Docs website with RGB, HSL, and HEX colors ](color-picker.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062504Z" creationid="gitnacho" creationdate="20221019T062504Z">
@@ -13158,6 +13166,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181152Z" creationid="gitnacho" creationdate="20221008T181152Z">
         <seg>- Para agregar una advertencia, crea un bloque de cita GFM cuyo primer párrafo comience con `**Advertencia:**`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- To link to a target file in the same directory as the invoking HTML file, just use the filename, e.g. `my-image.jpg`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050001Z" creationid="Nachec" creationdate="20221023T050001Z">
+        <seg>- Para vincular a un archivo destino en el mismo directorio que el archivo HTML de invocación, simplemente usa el nombre del archivo, p. ej. `mi-imagen.jpg`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38499,41 +38515,8 @@ receive the module from the main thread.</seg>
       <tuv lang="en-US">
         <seg>In this case, `alt="Firefox logo: flaming fox wrapping the world"`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045511Z" creationid="Nachec" creationdate="20221023T045511Z">
-        <seg>¡Deberías ver tu nueva página web mostrando tu imagen!
-
-![Una captura de pantalla del sitio web básico que muestra solo el logotipo de Firefox: un zorro en llamas envolviendo el mundo](https://mdn.mozillademos.org/files/9229/website-screenshot.png)
-
-Algunas reglas generales para las rutas de archivo:
-
-- Para vincular a un archivo destino en el mismo directorio que el archivo HTML de invocación, simplemente usa el nombre del archivo, p. ej. `mi-imagen.jpg`.
-- Para hacer referencia a un archivo en un subdirectorio, escribe el nombre del directorio delante de la ruta, más una barra inclinada, p. ej. `subdirectorio/mi-imagen.jpg`.
-- Para vincular a un archivo destino en el directorio **arriba** del archivo HTML que lo invoca, escribe dos puntos. Por ejemplo, si `index.html` estuviera dentro de un subdirectorio de `pruebasitio` y `mi-imagen.jpg` estuviera dentro de `pruebasitio`, puedes hacer referencia a `mi-imagen.jpg` desde `index.html` utilizando `../mi-imagen.jpg`.
-- Los puedes combinar tanto como desees, por ejemplo, `../subdirectorio/otro-subdirectorio/mi-imagen.jpg`.
-
-Por ahora, esto es todo lo que necesitas saber.
-
-&gt; **Nota:** El sistema de archivos de Windows tiende a utilizar barras invertidas, no barras diagonales, p. ej. `C:\windows`. Esto no importa en HTML, incluso si estás desarrollando tu sitio web en Windows, debes usar barras diagonales en tu código.
-
-## ¿Qué más se debería hacer?
-
-Eso es todo por ahora. La estructura de tu directorio debería verse así:
-
-![Una estructura de archivos en mac os x finder, que muestra un directorio de imágenes con una imagen, directorios de estilos y scripts vacíos, y un archivo index.html](https://mdn.mozillademos.org/files/9231/file-structure.png)
-
-{{PreviousMenuNext("Learn/Getting_started_with_the_web/What_will_your_website_look_like", "Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web")}}
-
-## En este módulo
-
-- [Instalación de software básico](/es/Learn/Getting_started_with_the_web/Instalacion_de_software_basico)
-- [¿Cómo se verá tu sitio web?](/es/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
-- [Manejo de archivos](/es/Learn/Getting_started_with_the_web/Manejando_los_archivos)
-- [Conceptos básicos de HTML](/es/Learn/Getting_started_with_the_web/HTML_basics)
-- [Conceptos básicos de CSS](/es/Learn/Getting_started_with_the_web/CSS_basics)
-- [Conceptos básicos de JavaScript](/es/Learn/Getting_started_with_the_web/JavaScript_basics)
-- [Publicar tu sitio web](/es/Learn/Getting_started_with_the_web/Publishing_your_website)
-- [Cómo funciona la Web](/es/docs/Learn/Getting_started_with_the_web/Cómo_funciona_la_Web)
-</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045833Z" creationid="Nachec" creationdate="20221023T045511Z">
+        <seg>En este caso, `alt="Logotipo de Firefox: zorro en llamas envolviendo el mundo"`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42606,6 +42589,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save your HTML file, then load it in your web browser (double-click the file).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045845Z" creationid="Nachec" creationdate="20221023T045845Z">
+        <seg>Guarda tu archivo HTML, luego cárgalo en tu navegador web (haz doble clic en el archivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Say we wanted to embed the code at &lt;https://mdn.github.io/learning-area/css/styling-boxes/backgrounds/&gt;.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212258Z" creationid="gitnacho" creationdate="20221005T212258Z">
@@ -43533,6 +43524,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063825Z" creationid="Nachec" creationdate="20221021T063825Z">
         <seg>Cierta familiaridad con las notaciones matemáticas y las reglas de renderizado de [TeX](https://en.wikipedia.org/wiki/TeX) también puede ser útil, aunque los conceptos requeridos se explicarán según sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some general rules for file paths:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045944Z" creationid="Nachec" creationdate="20221023T045944Z">
+        <seg>Algunas reglas generales para las rutas de archivo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53907,6 +53906,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102052Z" creationid="Nachec" creationdate="20221021T102052Z">
         <seg>Debes notar que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should see your new webpage displaying your image!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045856Z" creationid="Nachec" creationdate="20221023T045856Z">
+        <seg>¡Deberías ver tu nueva página web mostrando tu imagen!</seg>
       </tuv>
     </tu>
     <tu>
