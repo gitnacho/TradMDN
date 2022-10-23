@@ -1640,6 +1640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Marking up text</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070431Z" creationid="Nachec" creationdate="20221023T070431Z">
+        <seg>## Marcado de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## MathML tabular elements</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T090542Z" creationid="Nachec" creationdate="20221021T090542Z">
@@ -3190,6 +3198,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173720Z" creationid="gitnacho" creationdate="20221005T173720Z">
         <seg>### HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Headings</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070449Z" creationid="Nachec" creationdate="20221023T070449Z">
+        <seg>### Encabezados</seg>
       </tuv>
     </tu>
     <tu>
@@ -29463,6 +29479,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Find out more about accessibility in our [accessibility learning module](/en-US/docs/Learn/Accessibility).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070426Z" creationid="Nachec" creationdate="20221023T070426Z">
+        <seg>&gt; **Nota:** Descubre más acerca de la accesibilidad en el [módulo de aprendizaje sobre la accesibilidad](/es/docs/Learn/Accessibility).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Firefox 84 and later support `http://localhost` and `http://*.localhost` URLs as trustworthy origins (earlier versions did not, because `localhost` was not guaranteed to map to a local/loopback address).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T204232Z" creationid="gitnacho" creationdate="20221018T204232Z">
@@ -31302,6 +31326,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222735Z" creationid="gitnacho" creationdate="20221019T222735Z">
         <seg>Un módulo contiene una sección `name` personalizada si `WebAssembly.Module.customSections` devuelve un `ArrayBuffer` con una longitud mayor que 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A much better alternative for our Firefox logo would be "The Firefox logo: a flaming fox surrounding the Earth."</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070345Z" creationid="Nachec" creationdate="20221023T070345Z">
+        <seg>Un texto mucho mejor para el logo de Firefox sería: _"El logo de Firefox: un zorro en llamas rodeando la Tierra"_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36463,6 +36495,14 @@ Connection: Keep-Alive
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heading elements allow you to specify that certain parts of your content are headings — or subheadings.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070504Z" creationid="Nachec" creationdate="20221023T070504Z">
+        <seg>Los elementos de encabezado permiten especificar que ciertas partes del contenido son encabezados, o subencabezados del contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hello #&lt;%= i %&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070224Z" creationid="gitnacho" creationdate="20221005T070224Z">
@@ -38838,6 +38878,14 @@ configuración de fuentes para MathML.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the same way that a book has the main title, chapter titles, and subtitles, an HTML document can too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070531Z" creationid="Nachec" creationdate="20221023T070531Z">
+        <seg>De la misma forma que un libro tiene un título principal, y que a su vez puede tener títulos por cada capítulo individual, y subtítulos dentro de ellos, un documento HTML también puede tenerlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the second line, you will see that the import has a two-level namespace — the internal function `$i` is imported from `imports.imported_func`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T113213Z" creationid="gitnacho" creationdate="20221006T113213Z">
@@ -39060,112 +39108,8 @@ receive the module from the main thread.</seg>
       <tuv lang="en-US">
         <seg>In this example, our current text of "My test image" is no good at all.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070227Z" creationid="Nachec" creationdate="20221023T070227Z">
-        <seg>El texto alt debe proporcionarle al lector la suficiente información como para que este tenga una buena idea de qué muestra la imagen. Por lo que tu texto actual «Mi imagen de prueba» no es para nada bueno. Un texto mucho mejor para el logo de Firefox sería: _«El logo de Firefox: un zorro en llamas rodeando la Tierra»_.
-
-Prueba a dar con mejores textos alt para tu imagen.
-
-&gt; **Nota:** Descubre más acerca de la accesibilidad en el [módulo de aprendizaje sobre la accesibilidad](/es/docs/Web/Accessibility).
-
-## Marcado de texto
-
-Esta sección cubrirá algunos de los elementos HTML básicos que usarás para el marcado de texto.
-
-### Encabezados
-
-Los elementos de encabezado permiten especificar que ciertas partes del contenido son encabezados, o subencabezados del contenido. De la misma forma que un libro tiene un título principal, y que a su vez puede tener títulos por cada capítulo individual, y subtítulos dentro de ellos, un documento HTML puede tenerlos también. HTML posee seis niveles de encabezados, {{htmlelement("h1")}}–{{htmlelement("h6")}}, aunque probablemente solo llegues a usar 3-4 como mucho:
-
-```html
-&lt;h1&gt;Mi título principal&lt;/h1&gt;
-&lt;h2&gt;Mi título de nivel superior&lt;/h2&gt;
-&lt;h3&gt;Mi subtítulo&lt;/h3&gt;
-&lt;h4&gt;Mi sub-subtítulo&lt;/h4&gt;
-```
-
-Intenta ahora añadir un título apropiado para tu página HTML, antes de tu elemento {{htmlelement("img")}}.
-
-&gt; **Nota:** verás que el encabezamiento de nivel 1 tiene un estilo implícito. No utilices elementos de encabezado para hacer el texto más grande o más oscuro, porque este elemento se utiliza por [accesibilidad](/es/docs/Learn/Accessibility/HTML#Contenido_del_texto) y otras [razones como el posicionamiento en buscadores](/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#¿Por_qué_necesitamos_estructura) (_Search Engine Optimization, SEO_). Intenta crear una secuencia significativa de encabezados en tus páginas, sin saltarte niveles.
-
-### Párrafos
-
-Como se explicó más arriba, los elementos {{htmlelement("p")}} se utilizan para encerrar párrafos de texto; los usarás frecuentemente para el marcado de contenido de texto regular:
-
-```html
-&lt;p&gt;Este es un simple parrafo&lt;/p&gt;
-```
-
-Agrega uno o algunos párrafos a tu texto de ejemplo (deberías tenerlo de cuando estudiaste [_¿Cuál será la apariencia de tu sitio web?_](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)), colocados directamente debajo del elemento \&lt;img&gt;.
-
-### Listas
-
-Mucho del contenido web está dado por listas, así que HTML tiene elementos especiales para ellas. El marcado de listas se realiza siempre en al menos dos elementos. Los dos tipos de listas más comunes son las listas ordenadas y las desordenadas:
-
-1. **Las listas desordenadas** son aquellas en las que el orden de los items no es relevante, como en una lista de compras. Estas son encerradas en un elemento {{htmlelement("ul")}} (_unordered list_).
-2. **Las listas ordenadas** son aquellas en las que el orden sí es relevante, como en una receta. Estas son encerradas en un elemento {{htmlelement("ol")}} (_ordered list_).
-
-Cada elemento de la lista se coloca dentro de un elemento {{htmlelement("li")}} _(list item_).
-
-Por ejemplo, si quieres transformar parte del siguiente párrafo en una lista:
-
-```html
-&lt;p&gt;En Mozilla, somos una comunidad de tecnólogos, pensadores, y constructores que trabajan juntos... &lt;/p&gt;
-```
-
-Podrías hacer lo siguiente:
-
-```html
-&lt;p&gt;En Mozilla, somos una comunidad de&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;tecnólogos&lt;/li&gt;
-  &lt;li&gt;pensadores&lt;/li&gt;
-  &lt;li&gt;constructores&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;trabajando juntos... &lt;/p&gt;
-```
-
-Intenta agregar una lista ordenada o desordenada en tu página de ejemplo.
-
-## Vínculos
-
-Los vínculos o enlaces son muy importantes —son los que hacen de la web, la web—. Para implementar un vínculo, necesitas usar un vínculo simple — {{htmlelement("a")}} — la _a_ es la abreviatura de la palabra inglesa «anchor» («_ancla_»). Para convertir algún texto dentro de un párrafo en un vínculo, sigue estos pasos:
-
-1. Elige algún texto. Nosotros elegimos «Manifesto Mozilla».
-2. Encierra el texto en un elemento \&lt;a&gt;, así:
-
-    ```html
-    &lt;a&gt;Manifesto Mozilla&lt;/a&gt;
-    ```
-
-3. Proporciónale al elemento \&lt;a&gt; un atributo href, así:
-
-    ```html
-    &lt;a href=""&gt;Manifesto Mozilla&lt;/a&gt;
-    ```
-
-4. Completa el valor de este atributo con la dirección web con la que quieras conectar al vínculo:
-
-    ```html
-    &lt;a href="https://www.mozilla.org/es-AR/about/manifesto/"&gt;Manifesto Mozilla&lt;/a&gt;
-    ```
-
-Podrías obtener resultados inesperados si al comienzo de la dirección web omites la parte `https://` o `http://` llamada _protocolo_. Así que luego del marcado del vínculo, haz clic en él para asegurarte que te dirige a la dirección deseada.
-
-&gt; **Nota:** `href` podría parecer, en principio, una opción un tanto oscura para un nombre de atributo. Si tienes problemas para recordarla, recuerda que se refiere a _**h**ypertext **ref**erence_ (referencia de hipertexto).
-
-Ahora agrega un vínculo a tu página, si es que aún no lo hiciste.
-
-## Conclusión
-
-Si lograste seguir todas las instrucciones de este artículo, deberías terminar con una página que se vea así (también puedes [verla aquí](http://mdn.github.io/beginner-html-site/)):
-
-![Una captura de pantalla de la página web que muestra el logo de Firefox, un encabezado que dice «mozilla es genial» y dos párrafos de texto de relleno.](https://mdn.mozillademos.org/files/9351/finished-test-page-small.png)
-
-Si te estancas en algún paso, puedes comparar tu trabajo con el [código de ejemplo terminado](https://github.com/mdn/beginner-html-site/blob/gh-pages/index.html) en Github.
-
-Aquí realmente solo has rasguñado la superficie de HTML. Para aprender más, ve a la [página de Aprendizaje HTML](/es/Learn/HTML).
-</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070313Z" creationid="Nachec" creationdate="20221023T070227Z">
+        <seg>Por lo que tu texto actual *Mi imagen de prueba* no es para nada bueno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45980,6 +45924,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The alt text you write should provide the reader with enough information to have a good idea of what the image conveys.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070250Z" creationid="Nachec" creationdate="20221023T070250Z">
+        <seg>El texto `alt` debe proporcionar al lector la suficiente información como para que este tenga una buena idea de qué muestra la imagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The answer is that there is only one table allowed right now per module instance, and that is what `call_indirect` is implicitly calling.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073224Z" creationid="gitnacho" creationdate="20221007T073224Z">
@@ -51250,6 +51202,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This section will cover some essential HTML elements you'll use for marking up the text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070444Z" creationid="Nachec" creationdate="20221023T070444Z">
+        <seg>Esta sección cubrirá algunos de los elementos HTML básicos que usarás para el marcado de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section will list examples of common patterns for templates used on MDN, including samples of legacy DekiScript templates and their new KumaScript equivalents.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T075152Z" creationid="gitnacho" creationdate="20221005T075152Z">
@@ -52128,6 +52088,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221007T115730Z">
         <seg>Los objetos transferibles son instancias de clases como objetos {{JSxRef("ArrayBuffer")}}, {{DOMxRef("MessagePort")}} o {{DOMxRef("ImageBitmap")}} que se pueden transferir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try coming up with some better alt text for your image now.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070402Z" creationid="Nachec" creationdate="20221023T070402Z">
+        <seg>Prueba a dar con mejores textos `alt` para tu imagen.</seg>
       </tuv>
     </tu>
     <tu>
