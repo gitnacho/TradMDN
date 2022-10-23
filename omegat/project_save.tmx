@@ -33121,6 +33121,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the following JavaScript code to your `main.js` file.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193118Z" creationid="Nachec" creationdate="20221023T193118Z">
+        <seg>Ve a tu archivo `main.js` y agrega el siguiente JavaScript (si tu JavaScript de _Hola Mundo_ aún está allí, bórralo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add the following into your code, where indicated:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225838Z" creationid="gitnacho" creationdate="20221006T225838Z">
@@ -38845,6 +38853,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T065425Z" creationid="gitnacho" creationdate="20221012T064404Z">
         <seg> IANA también mantiene un [registro de nuevas cabeceras de mensaje HTTP propuestas](https://www.iana.org/assignments/message-headers/message-headers.xhtml#prov-headers).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ideally, the image will be the same size as the image you added previously, or as close as possible.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192953Z" creationid="Nachec" creationdate="20221023T192953Z">
+        <seg>Asegúrate que sea del mismo tamaño que la primera, o lo más cerca posible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45470,6 +45486,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rename the image _firefox2.png_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193025Z" creationid="Nachec" creationdate="20221023T193025Z">
+        <seg>Renombra esta imagen *firefox2.png* (sin las comillas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Representation headers include: {{HTTPHeader("Content-Type")}}, {{HTTPHeader("Content-Encoding")}}, {{HTTPHeader("Content-Language")}}, and {{HTTPHeader("Content-Location")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154111Z" creationid="Nachec" creationdate="20221022T022235Z">
@@ -45610,6 +45634,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T125739Z" creationid="Nachec" creationdate="20221023T125739Z">
         <seg>Guarda este archivo como `style.css` en tu directorio `styles` (estilos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save this image in your `images` folder.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193005Z" creationid="Nachec" creationdate="20221023T193005Z">
+        <seg>Guarda tu imagen en tu directorio `images`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66100,6 +66132,22 @@ api.destroy_buffer(p);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>const myImage = document.querySelector("img");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193137Z" creationid="Nachec" creationdate="20221023T193137Z">
+        <seg>const miImage = document.querySelector('img');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>const mySrc = myImage.getAttribute("src");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193221Z" creationid="Nachec" creationdate="20221023T193221Z">
+        <seg>const miSrc = miImage.getAttribute('src');</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>const nameSections = WebAssembly.Module.customSections(mod, "name");</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222834Z" creationid="gitnacho" creationdate="20221019T222834Z">
@@ -67990,6 +68038,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>if (mySrc === "images/firefox-icon.png") {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193238Z" creationid="Nachec" creationdate="20221023T193238Z">
+        <seg>if (miSrc === 'images/firefox-icon.png') {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>if (nameSections.length !== 0) {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T222834Z" creationid="gitnacho" creationdate="20221019T222834Z">
@@ -69038,6 +69094,22 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175602Z" creationid="Nachec" creationdate="20221023T175602Z">
         <seg>miTitulo.textContent = '¡Hola mundo!';</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>myImage.onclick = () =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193208Z" creationid="Nachec" creationdate="20221023T193208Z">
+        <seg>miImage.onclick = () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>myImage.setAttribute("src", "images/firefox2.png");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193243Z" creationid="Nachec" creationdate="20221023T193243Z">
+        <seg>miImage.setAttribute('src','images/firefox2.png');</seg>
       </tuv>
     </tu>
     <tu>
