@@ -5544,8 +5544,8 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       <tuv lang="en-US">
         <seg>(You can [view our version here](https://mdn.github.io/beginner-html-site-styled/).) If you get stuck, you can always compare your work with our [finished example code on GitHub](https://github.com/mdn/beginner-html-site-styled/blob/gh-pages/styles/style.css).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144438Z" creationid="Nachec" creationdate="20221023T144438Z">
-        <seg>(también puedes [ver nuestra versión aquí](http://mdn.github.io/beginner-html-site-styled/)). Si te atoraste, siempre puedes comparar tu trabajo con el [código final del ejemplo en GitHub](https://github.com/mdn/beginner-html-site-styled/blob/gh-pages/styles/style.css).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T145038Z" creationid="Nachec" creationdate="20221023T144438Z">
+        <seg>(también puedes [ver nuestra versión aquí](https://mdn.github.io/beginner-html-site-styled/)). Si te atoraste, siempre puedes comparar tu trabajo con el [código final del ejemplo en GitHub](https://github.com/mdn/beginner-html-site-styled/blob/gh-pages/styles/style.css).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30169,6 +30169,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Before you run through the examples below, open the [Beginner's example site](https://mdn.github.io/beginner-html-site-scripted/) that we built during the [Getting started with the Web](/en-US/docs/Learn/Getting_started_with_the_web) article series.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144949Z" creationid="Nachec" creationdate="20221023T144949Z">
+        <seg>&gt; **Note:** Before you run through the examples below, open the [Beginner's example site](https://mdn.github.io/beginner-html-site-scripted/) that we built during the [Getting started with the Web](/en-US/docs/Learn/Getting_started_with_the_web) article series.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** By default Lyx and TeXmacs will use images of formulas in their HTML output.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081812Z" creationid="Nachec" creationdate="20221021T081812Z">
@@ -45893,8 +45901,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>That happens because browsers apply default styling to the {{htmlelement("h1")}} element (among others).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143100Z" creationid="Nachec" creationdate="20221023T143100Z">
-        <seg>Esto sucede porque los navegadores vienen con estilos predeterminados para el elemento {{HTMLElement("h1")}}, ¡incluso cuando aún no se ha aplicado ningún archivo CSS!</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T145254Z" creationid="Nachec" creationdate="20221023T143100Z">
+        <seg>Esto sucede porque los navegadores vienen con estilos predeterminados para el elemento {{htmlelement("h1")}}, ¡incluso cuando aún no se ha aplicado ningún archivo CSS!</seg>
       </tuv>
     </tu>
     <tu>
