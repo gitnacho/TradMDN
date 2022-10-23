@@ -2280,6 +2280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## What structure should your website have?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044337Z" creationid="Nachec" creationdate="20221023T044337Z">
+        <seg>## ¿Qué estructura debe tener tu sitio web?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## What tools do I actually need, right now?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T154636Z" creationid="gitnacho" creationdate="20221012T154611Z">
@@ -5970,6 +5978,22 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**`images` folder**: This folder will contain all the images that you use on your site.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044458Z" creationid="Nachec" creationdate="20221023T044458Z">
+        <seg>Directorio **`images`**: Este directorio contendrá todas las imágenes que utilices en tu sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**`index.html`**: This file will generally contain your homepage content, that is, the text and images that people see when they first go to your site.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044433Z" creationid="Nachec" creationdate="20221023T044433Z">
+        <seg>**`index.html`**: Este archivo generalmente tendrá el contenido de tu página de inicio, es decir, el texto y las imágenes que las personas ven cuando visitan tu sitio por primera vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**`nop`** stands for no-operation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T090137Z" creationid="gitnacho" creationdate="20221020T090137Z">
@@ -5982,6 +6006,22 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T210408Z" creationid="Nachec" creationdate="20221020T210408Z">
         <seg>**`return`** regresa de una función.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**`scripts` folder**: This folder will contain all the JavaScript code used to add interactive functionality to your site (e.g. buttons that load data when clicked).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044551Z" creationid="Nachec" creationdate="20221023T044551Z">
+        <seg>Directorio **`scripts`**: Este directorio contendrá todo el código JavaScript utilizado para agregar funcionalidad interactiva a tu sitio (por ejemplo, botones que cargan datos cuando se hace clic en ellos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**`styles` folder**: This folder will contain the CSS code used to style your content (for example, setting text and background colors).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044525Z" creationid="Nachec" creationdate="20221023T044525Z">
+        <seg>Directorio **`styles`**: Este directorio contendrá el código CSS que se utiliza para aplicar estilo al contenido (por ejemplo, configurar el texto y los colores de fondo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33600,6 +33640,30 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a folder called `images`, inside your `test-site` folder.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044509Z" creationid="Nachec" creationdate="20221023T044509Z">
+        <seg>Crea un directorio llamado `images`, dentro de tu directorio `pruebasitio`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create a folder called `scripts`, inside your `test-site` folder.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044601Z" creationid="Nachec" creationdate="20221023T044601Z">
+        <seg>Crea un directorio llamado `scripts`, dentro de tu directorio `pruebasitio`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create a folder called `styles`, inside your `test-site` folder.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044533Z" creationid="Nachec" creationdate="20221023T044533Z">
+        <seg>Crea un directorio llamado `styles`, dentro de tu directorio `pruebasitio`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a new copy of our [HTML template](https://github.com/mdn/webassembly-examples/blob/master/template/template.html) in the same directory and call it `table.html`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233344Z" creationid="gitnacho" creationdate="20221006T233344Z">
@@ -35450,6 +35514,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T113403Z" creationid="gitnacho" creationdate="20221005T113403Z">
         <seg>Para las plantillas unidireccionales, el único parámetro necesario es la ubicación wiki del artículo anterior o siguiente en la secuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For these reasons, it is best to get into the habit of writing your folder and file names lowercase with no spaces and with words separated by hyphens, at least until you know what you're doing.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044320Z" creationid="Nachec" creationdate="20221023T044320Z">
+        <seg>Por estos motivos, es mejor adquirir el hábito de escribir los nombres de los directorios y archivos en minúsculas, sin espacios y con palabras separadas por guiones, al menos hasta que sepas lo que estás haciendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39791,6 +39863,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's create these now:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044416Z" creationid="Nachec" creationdate="20221023T044416Z">
+        <seg>Crea estos ahora:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's first perform the substitutions &lt;math&gt; &lt;mi&gt;β&lt;/mi&gt; &lt;mo&gt;≔&lt;/mo&gt; &lt;mrow&gt; &lt;msub&gt; &lt;mi&gt;z&lt;/mi&gt; &lt;mn&gt;1&lt;/mn&gt; &lt;/msub&gt; &lt;mo&gt;+&lt;/mo&gt; &lt;msub&gt; &lt;mi&gt;z&lt;/mi&gt; &lt;mn&gt;2&lt;/mn&gt; &lt;/msub&gt; &lt;/mrow&gt; &lt;/math&gt; and &lt;math&gt; &lt;mi&gt;α&lt;/mi&gt; &lt;mo&gt;≔&lt;/mo&gt; &lt;mrow&gt; &lt;msub&gt; &lt;mi&gt;v&lt;/mi&gt; &lt;mn&gt;1&lt;/mn&gt; &lt;/msub&gt; &lt;mo&gt;+&lt;/mo&gt; &lt;msub&gt; &lt;mi&gt;v&lt;/mi&gt; &lt;mn&gt;2&lt;/mn&gt; &lt;/msub&gt; &lt;/mrow&gt; &lt;/math&gt;:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104708Z" creationid="Nachec" creationdate="20221021T104708Z">
@@ -40738,6 +40818,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T113104Z" creationid="gitnacho" creationdate="20221006T113104Z">
         <seg>A continuación, creemos un archivo HTML simple llamado `index.html` en el mismo directorio que tu archivo `wasm` (puedes usar nuestra [plantilla simple](https://github.com/mdn/webassembly-examples/blob/master/template/template.html) si no tienes una fácilmente disponible).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, let's look at what structure our test site should have.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044346Z" creationid="Nachec" creationdate="20221023T044346Z">
+        <seg>A continuación, veamos qué estructura debería tener tu sitio de prueba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43664,6 +43752,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That way you'll bump into fewer problems later down the road.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044329Z" creationid="Nachec" creationdate="20221023T044329Z">
+        <seg>De esa manera, tropezarás con menos problemas en el futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That way, the cache can replay the algorithm and will be able to serve acceptable content directly, without more requests to the server.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093647Z" creationid="Nachec" creationdate="20221022T093647Z">
@@ -44306,6 +44402,14 @@ of the service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T173854Z" creationid="gitnacho" creationdate="20221008T173854Z">
         <seg>La especificación GFM define dos tipos básicos de enlaces:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Google search engine treats a hyphen as a word separator but does not regard an underscore that way.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044305Z" creationid="Nachec" creationdate="20221023T044305Z">
+        <seg>El motor de búsqueda de Google trata un guión como un separador de palabras, pero no considera un guión bajo de esa manera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46412,6 +46516,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110300Z" creationid="Nachec" creationdate="20221022T110300Z">
         <seg>La información extra más común</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most common things we'll have on any website project we create are an index HTML file and folders to contain images, style files, and script files.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044406Z" creationid="Nachec" creationdate="20221023T044406Z">
+        <seg>Las cosas más comunes que tendrás en cualquier proyecto de sitio web que crees son un archivo de índice HTML y directorios para contener imágenes, archivos de estilo y archivos de script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51303,6 +51415,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183709Z" creationid="gitnacho" creationdate="20221008T183709Z">
         <seg>Usando esta sintaxis, no es posible escribir una lista con más de un elemento `&lt;dt&gt;` consecutivo o más de un elemento `&lt;dd&gt;` consecutivo: el analizador lo tratará como un error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using your text editor, create a new file called `index.html` and save it just inside your `test-site` folder.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044447Z" creationid="Nachec" creationdate="20221023T044447Z">
+        <seg>Usando tu editor de texto, crea un nuevo archivo llamado `index.html` y guárdalo dentro de tu directorio `pruebasitio`.</seg>
       </tuv>
     </tu>
     <tu>
