@@ -4562,6 +4562,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### What happened?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180338Z" creationid="Nachec" creationdate="20221023T180338Z">
+        <seg>### ¿Qué ha ocurrido?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### What is KumaScript?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T064532Z" creationid="gitnacho" creationdate="20221005T064532Z">
@@ -48810,6 +48818,14 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The heading text changed to _Hello world!_ using JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180425Z" creationid="Nachec" creationdate="20221023T180402Z">
+        <seg>El texto del título ha sido cambiado por _¡Hola mundo!_ usando JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The height of the `&lt;iframe&gt;`, which can be expressed as a percentage or in pixels.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212231Z" creationid="gitnacho" creationdate="20221005T212231Z">
@@ -52496,6 +52512,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is similar to what we did using CSS selectors.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181511Z" creationid="Nachec" creationdate="20221023T181511Z">
+        <seg>Esto es muy similar a lo que hiciste con CSS usando selectores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is sometimes called a design guide, design system, or brand book, and you can see an example at the [Firefox Photon Design System](https://design.firefox.com/photon/).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061242Z" creationid="gitnacho" creationdate="20221019T061242Z">
@@ -53831,8 +53855,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To learn more about alternative approaches, see [Script loading strategies](/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript#script_loading_strategies).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180331Z" creationid="Nachec" creationdate="20221023T180331Z">
-        <seg>Para aprender más sobre enfoques alternativos, mira [Estrategias de carga de scripts](/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript#estrategias_para_la_carga_de_scripts).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180416Z" creationid="Nachec" creationdate="20221023T180331Z">
+        <seg>Para aprender más sobre enfoques alternativos, mira [Estrategias de carga de scripts](/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript#estrategias-para-la-carga-de-scripts).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56758,6 +56782,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065806Z" creationid="gitnacho" creationdate="20221005T065806Z">
         <seg>Creas y editas estos archivos como lo harías con los archivos de cualquier proyecto de código abierto en GitHub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You did this by using a function called {{domxref("Document.querySelector", "querySelector()")}} to grab a reference to your heading, and then store it in a variable called `myHeading`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180816Z" creationid="Nachec" creationdate="20221023T180816Z">
+        <seg>Hiciste esto primero usando la función `{{domxref("Document.querySelector", "querySelector()")}}` para obtener una referencia al título y almacenarla en una variable llamada `miTitulo`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64679,9 +64711,8 @@ api.destroy_buffer(p);
       <tuv lang="en-US">
         <seg>const myHeading = document.querySelector("h1");</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175551Z" creationid="Nachec" creationdate="20221023T175551Z">
-        <seg>```js
-const miTitulo = document.querySelector('h1');</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180529Z" creationid="Nachec" creationdate="20221023T175551Z">
+        <seg>const miTitulo = document.querySelector('h1');</seg>
       </tuv>
     </tu>
     <tu>
