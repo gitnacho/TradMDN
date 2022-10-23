@@ -2570,6 +2570,16 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### A user name of null?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194944Z" creationid="Nachec" creationdate="20221023T194944Z">
+        <seg>Ahora cuando visites tu sitio por primera vez, este te pedirá tu nombre y te dará un mensaje de bienvenida personalizado. Puedes cambiar cuantas veces quieras el nombre al presionar el botón. Y como un bono extra, ya que el nombre se almacena en el `localStorage`, este permanecerá después de que cierres el sitio, ¡manteniendo ahí el mensaje personalizado cuando abras el sitio la próxima vez!
+
+### ¿Un nombre de usuario nulo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### API availability</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030602Z" creationid="gitnacho" creationdate="20220923T030602Z">
@@ -39118,6 +39128,14 @@ among them.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it exists (that is, the user set a user name during a previous visit), we retrieve the stored name using `getItem()` and set the `textContent` of the heading to a string, plus the user's name, as we did inside `setUserName()`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194715Z" creationid="Nachec" creationdate="20221023T194715Z">
+        <seg>Si ya existe (como por ejemplo cuando el usuario ya ingresó al sitio), se recupera el dato del nombre usando `getItem()` y se fija mediante `textContent` del título a la cadena, más el nombre del usuario, como hiciste dentro de `estableceNombreUsuario()`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is, the code changes the `src` value to the path of the second image, forcing the other image to be loaded inside the {{htmlelement("img")}} element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193509Z" creationid="Nachec" creationdate="20221023T193509Z">
@@ -39188,6 +39206,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T110823Z" creationid="gitnacho" creationdate="20221007T110823Z">
         <seg>Si no se especifica ningún valor, se usa un valor de tipo 0 donde el valor de `descriptor.value` es uno de `i32`, `i64`, `f32` o `f64`, y se usa `null` si `descriptor.value` es `externref` o `anyfunc` (según lo especificado por el [algoritmo `DefaultValue`](https://webassembly.github.io/spec/js-api/#defaultvalue)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If not, the `setUserName()` function runs to create it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194652Z" creationid="Nachec" creationdate="20221023T194652Z">
+        <seg>Si no existe, la función `estableceNombreUsuario()` se iniciará para crearlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45474,6 +45500,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T190832Z" creationid="gitnacho" creationdate="20221008T185712Z">
         <seg>Las tablas de propiedades son un tipo específico de tabla que se utiliza para mostrar contenido estructurado de valores de propiedad en un conjunto de páginas de un tipo particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Put this `onclick` event handler (below) on the button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194733Z" creationid="Nachec" creationdate="20221023T194733Z">
+        <seg>Finalmente, agrega abajo el evento `onclick` que manipulará el botón,</seg>
       </tuv>
     </tu>
     <tu>
@@ -52378,6 +52412,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This allows the user to enter a different name by pressing the button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194801Z" creationid="Nachec" creationdate="20221023T194801Z">
+        <seg>Esto permitirá al usuario establecer un nuevo nombre cada vez que lo desee al pulsar el botón:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allows very fast communication between Workers, and significant performance gains in web applications.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T080425Z" creationid="gitnacho" creationdate="20221007T080425Z">
@@ -53053,6 +53095,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081114Z" creationid="gitnacho" creationdate="20221007T081114Z">
         <seg>Esto finaliza nuestro recorrido de alto nivel por los principales componentes del formato de texto de WebAssembly y cómo se reflejan en la API JS de WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This first line of this block uses the negation operator (logical NOT, represented by the `!`) to check whether the `name` data exists.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194641Z" creationid="Nachec" creationdate="20221023T194641Z">
+        <seg>La primera línea de este bloque usa el operador de negación (NO lógico representado por `!`) para comprobar si el elemento `'nombre'` existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56995,6 +57045,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T135023Z" creationid="gitnacho" creationdate="20221019T135023Z">
         <seg>Al capturar y volver a generar un error con un mensaje de error más específico o útil, esta propiedad se puede usar para pasar el error original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When clicked, `setUserName()` runs.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194745Z" creationid="Nachec" creationdate="20221023T194745Z">
+        <seg>de modo que cuando sea pulsado se inicie la función `estableceNombreUsuario()`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69362,6 +69420,14 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>myButton.onclick = () =&gt; {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194821Z" creationid="Nachec" creationdate="20221023T194821Z">
+        <seg>miBoton.onclick =  () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>myHeading.textContent = "Hello world!";</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175602Z" creationid="Nachec" creationdate="20221023T175602Z">
@@ -69374,6 +69440,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194211Z" creationid="Nachec" creationdate="20221023T194038Z">
         <seg>miTitulo.textContent = `Mozilla es genial, ${miNombre}`;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>myHeading.textContent = `Mozilla is cool, ${storedName}`;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194613Z" creationid="Nachec" creationdate="20221023T194613Z">
+        <seg>miTitulo.textContent = `Mozilla es genial, ${nombreAlmacenado}`;</seg>
       </tuv>
     </tu>
     <tu>
