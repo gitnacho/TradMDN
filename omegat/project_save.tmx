@@ -40252,6 +40252,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this exercise, we have just scratched the surface of CSS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144448Z" creationid="Nachec" creationdate="20221023T144448Z">
+        <seg>Aquí, solo has arañado la superficie de CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this form:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T182454Z" creationid="gitnacho" creationdate="20221008T182454Z">
@@ -53504,6 +53512,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085255Z" creationid="Nachec" creationdate="20221021T085255Z">
         <seg>Para comenzar esta evaluación, puedes confiar en nuestra plantilla HTML habitual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To go further, see [Learning to style HTML using CSS](/en-US/docs/Learn/CSS).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144516Z" creationid="Nachec" creationdate="20221023T144516Z">
+        <seg>Si quieres encontrar más, puedes ir a la [página de aprendizaje de CSS](/es/docs/Learn/CSS).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70499,6 +70515,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web/JavaScript_basics", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144520Z" creationid="Nachec" creationdate="20221023T144520Z">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web/JavaScript_basics", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/Installing_basic_software", "Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T063623Z" creationid="gitnacho" creationdate="20221019T063623Z">
@@ -72001,12 +72025,12 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T051801Z" creationid="Nachec" creationdate="20221023T051801Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144809Z" creationid="Nachec" creationdate="20221023T051801Z">
         <seg>- [Instalar software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
 - [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [Conceptos básicos de CSS](#)
+- [Conceptos básicos de CSS](#entonces_¿qué_es_css_realmente)
 - [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Publicar tu sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
