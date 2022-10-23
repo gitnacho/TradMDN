@@ -35539,6 +35539,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check the "_Initialize this repository with a README"_ box.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T214053Z" creationid="Nachec" creationdate="20221023T214053Z">
+        <seg>Marca la casilla de verificación _Initialize this repository with a README_ (Inicializar este repositorio con un README (LÉAME)). Esto te permitirá clonar inmediatamente el repositorio a tu equipo. ¡Si vas a transferir tus archivos desde tu equipo al servidor de GitHub a través de un cliente de FTP (como se explica en la sección _[Subir tus archivos a GitHub a través de la línea de comandos](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website#Subir_tus_archivos_a_Github_a_través_de_la_línea_de_comandos)_, a continuación), __no debes realizar este paso__!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check the source view to see what's there, and remove any unnecessary styling.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T092946Z" creationid="gitnacho" creationdate="20221005T092946Z">
