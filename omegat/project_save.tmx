@@ -5380,6 +5380,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The term _ruleset_ is often referred to as just _rule_.) Note the names of the individual parts:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131442Z" creationid="Nachec" creationdate="20221023T131442Z">
+        <seg>(El término `ruleset` a menudo se denomina simplemente _regla_). Ten en cuenta los nombres de las partes individuales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Use this if you want to dynamically build markup or use the results of another template that may include markup.)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070054Z" creationid="gitnacho" creationdate="20221005T070054Z">
@@ -9558,6 +9566,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : This is the HTML element name at the start of the ruleset.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131556Z" creationid="Nachec" creationdate="20221023T131556Z">
+        <seg>- : Este es el elemento HTML en el que comienza la regla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : This object acts as the namespace for all WebAssembly related functionality.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T100901Z" creationid="gitnacho" creationdate="20221003T100735Z">
@@ -12676,6 +12692,14 @@ spec-urls: https://w3c.github.io/webappsec-secure-contexts/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081215Z" creationid="gitnacho" creationdate="20221007T081215Z">
         <seg>- Consulta también la [gramática del formato de texto](https://github.com/WebAssembly/spec/blob/master/interpreter/README.md#s-expression-syntax) que implementa el intérprete de la especificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Selector</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131533Z" creationid="Nachec" creationdate="20221023T131533Z">
+        <seg>- Selector</seg>
       </tuv>
     </tu>
     <tu>
@@ -39976,6 +40000,14 @@ relevant header and serve an actual page to the user.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It defines the element(s) to be styled (in this example, {{HTMLElement("p")}} elements).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131652Z" creationid="Nachec" creationdate="20221023T131652Z">
+        <seg>Esta define el/los elemento/s a dar estilo (en este caso, los elementos {{HTMLElement("p")}} ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It does not include any path information, only the server name.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060559Z" creationid="gitnacho" creationdate="20221012T060559Z">
@@ -48829,8 +48861,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The whole structure is called a **ruleset**.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131350Z" creationid="Nachec" creationdate="20221023T131350Z">
-        <seg>La estructura completa se conoce cómo **regla predeterminada** (pero a menudo *regla* para abreviar).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131531Z" creationid="Nachec" creationdate="20221023T131350Z">
+        <seg>La estructura completa se conoce cómo **regla predeterminada** — `ruleset`.</seg>
       </tuv>
     </tu>
     <tu>
