@@ -35885,6 +35885,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, this CSS selects paragraph text, setting the color to red:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120825Z" creationid="Nachec" creationdate="20221023T120825Z">
+        <seg>Por ejemplo, para seleccionar **todos** los elementos de párrafo en una página HTML y volver el texto dentro de ellos de color rojo, has de escribir este CSS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, this interface can be used to determine how much time it takes to load or unload a document.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T210049Z" creationid="gitnacho" creationdate="20220913T210049Z">
@@ -41114,6 +41122,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080823Z" creationid="gitnacho" creationdate="20221003T080823Z">
         <seg>Detallemos más cada una de estas opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's try it out!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120854Z" creationid="Nachec" creationdate="20221023T120854Z">
+        <seg>¡Vamos a probarlo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -52822,6 +52838,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T021137Z" creationid="gitnacho" creationdate="20220921T020422Z">
         <seg>Al usar un *service worker*, puedes configurar fácilmente una aplicación para usar activos almacenados en caché primero, proporcionando así una experiencia predeterminada incluso cuando estás desconectado, antes de obtener más datos de la red (comúnmente conocido como [Primero sin conexión](https://offlinefirst.org/)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using a text editor, paste the three lines of CSS (above) into a new file.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T125652Z" creationid="Nachec" creationdate="20221023T125652Z">
+        <seg>Pega estas tres líneas de CSS en un nuevo archivo en tu editor de texto y guarda este archivo como `style.css` en tu directorio `styles` (estilos).</seg>
       </tuv>
     </tu>
     <tu>
