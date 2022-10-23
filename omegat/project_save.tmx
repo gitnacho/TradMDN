@@ -70229,6 +70229,31 @@ tags:</prop>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">learn/getting_started_with_the_web/dealing_with_files/index.md</prop>
+      <prop type="prev">## In this module</prop>
+      <prop type="next"></prop>
+      <tuv lang="en-US">
+        <seg>- [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [What will your website look like?](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Dealing with files](/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [HTML basics](/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS basics](/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [JavaScript basics](/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T113214Z" creationid="Nachec" creationdate="20221023T113214Z">
+        <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Manejo de archivos](#¿dónde_debería_estar_tu_sitio_web_en_tu_computadora)
+- [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publicar tu sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">learn/getting_started_with_the_web/html_basics/index.md</prop>
       <prop type="prev">## In this module</prop>
       <prop type="next"></prop>
