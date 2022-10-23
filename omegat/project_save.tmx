@@ -37569,6 +37569,16 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, our friend Bob Smith would enter _bobsmith.github.io_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T212001Z" creationid="Nachec" creationdate="20221023T212001Z">
+        <seg>Así por ejemplo, nuestro amigo Bob Smith ingresaría _&lt;kbd&gt;bobsmith.github.io&lt;/kbd&gt;_.
+
+![](https://mdn.mozillademos.org/files/9479/github-create-repo.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, our image is called `firefox-icon.png`, so the file path is `images/firefox-icon.png`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045405Z" creationid="Nachec" creationdate="20221023T045405Z">
@@ -44415,8 +44425,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>Next, you need to [create a repository](https://github.com/new) to store files.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211711Z" creationid="Nachec" creationdate="20221023T211711Z">
-        <seg>Una vez registrado, ingresa a tu cuenta en GitHub.com con tu usuario y contraseña suministrados al crear tu cuenta.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211807Z" creationid="Nachec" creationdate="20221023T211711Z">
+        <seg>Una vez registrado, ingresa a tu cuenta en GitHub.com con tu usuario y contraseña suministrados al crear tu cuenta. A continuación, debes [crear un repositorio](https://github.com/new) para almacenar archivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45254,6 +45264,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200646Z" creationid="gitnacho" creationdate="20221005T064508Z">
         <seg>En la plataforma [Yari](/es/docs/MDN/Yari) que impulsa MDN, todavía tenemos disponible un sistema de plantilla/macro heredado llamado [KumaScript](https://github.com/mdn/yari/tree/main/kumascript) para automatizar ciertos aspectos del contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On this page, in the _Repository name_ box, enter _username_.github.io, where _username_ is your username.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211844Z" creationid="Nachec" creationdate="20221023T211734Z">
+        <seg>En esta página, en la casilla _Repository name_ (Nombre del repositorio), ingresa &lt;kbd&gt;&lt;em&gt;usuario&lt;/em&gt;.github.io&lt;/kbd&gt;, donde _usuario_ es tu nombre de usuario.</seg>
       </tuv>
     </tu>
     <tu>
