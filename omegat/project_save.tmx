@@ -3474,6 +3474,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Lists</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104021Z" creationid="Nachec" creationdate="20221023T104021Z">
+        <seg>### Listas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Live sample macros</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T102548Z" creationid="gitnacho" creationdate="20221008T102548Z">
@@ -6058,6 +6066,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Ordered lists** are for lists where the order of the items does matter, such as a recipe.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104217Z" creationid="Nachec" creationdate="20221023T104217Z">
+        <seg>**Las listas ordenadas** son aquellas en las que el orden sí es relevante, como en una receta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Quality values**, or _q-values_ and _q-factors_, are used to describe the order of priority of values in a comma-separated list.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134321Z" creationid="Nachec" creationdate="20221022T134321Z">
@@ -6102,6 +6118,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130308Z" creationid="gitnacho" creationdate="20221003T130308Z">
         <seg>**Este valor no es seguro** porque filtra orígenes y rutas de recursos protegidos por TLS a orígenes no seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Unordered lists** are for lists where the order of the items doesn't matter, such as a shopping list.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104114Z" creationid="Nachec" creationdate="20221023T104114Z">
+        <seg>**Las listas desordenadas** son aquellas en las que el orden de los elementos no es relevante, como en una lista de compras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31321,6 +31345,14 @@ JavaScript wrapper for an underlying wasm function.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A lot of the web's content is lists and HTML has special elements for these.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104033Z" creationid="Nachec" creationdate="20221023T104033Z">
+        <seg>Mucho del contenido web está dado por listas, así que HTML tiene elementos especiales para ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A memory instance can be grown by calls to [`Memory.prototype.grow()`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/grow), where again the argument is specified in units of WebAssembly pages:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T210458Z" creationid="gitnacho" creationdate="20221006T210458Z">
@@ -34545,6 +34577,14 @@ void free_result(uint8_t* result) {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each item inside the lists is put inside an {{htmlelement("li")}} (list item) element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104302Z" creationid="Nachec" creationdate="20221023T104302Z">
+        <seg>Cada elemento de la lista se coloca dentro de un elemento {{htmlelement("li")}} _(list item_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each language tag is a sequence of one or more case-insensitive subtags, each separated by a hyphen character ("`-`", `%x2D`).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102827Z" creationid="Nachec" creationdate="20221022T102827Z">
@@ -35539,6 +35579,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T182103Z" creationid="gitnacho" creationdate="20221008T182103Z">
         <seg>Por ejemplo, si queremos usar "Warnung" para "Warning" en alemán, entonces en las páginas en alemán escribiríamos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if we wanted to turn the part of the following paragraph fragment into a list</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104311Z" creationid="Nachec" creationdate="20221023T104311Z">
+        <seg>Por ejemplo, si quieres transformar parte del siguiente párrafo en una lista:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41212,6 +41260,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T074707Z" creationid="Nachec" creationdate="20221021T074707Z">
         <seg>Muchas de estas herramientas están disponibles y es imposible proporcionar una lista exhaustiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marking up lists always consists of at least 2 elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104045Z" creationid="Nachec" creationdate="20221023T104045Z">
+        <seg>El marcado de listas se realiza siempre en al menos dos elementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47473,6 +47529,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most common list types are ordered and unordered lists:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104056Z" creationid="Nachec" creationdate="20221023T104056Z">
+        <seg>Los dos tipos de listas más comunes son las listas ordenadas y las desordenadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most common things we'll have on any website project we create are an index HTML file and folders to contain images, style files, and script files.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044406Z" creationid="Nachec" creationdate="20221023T044406Z">
@@ -49041,6 +49105,22 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T073103Z" creationid="gitnacho" creationdate="20221005T073103Z">
         <seg>Estos se utilizan para compartir variables y métodos comunes entre plantillas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are wrapped in a {{htmlelement("ul")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104200Z" creationid="Nachec" creationdate="20221023T104200Z">
+        <seg>Estas van encerradas en un elemento {{HtMLElement("ul")}} (por _unordered list_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are wrapped in an {{htmlelement("ol")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104250Z" creationid="Nachec" creationdate="20221023T104250Z">
+        <seg>Estas van encerradas en un elemento {{HTMLElement("ol")}} (por _ordered list_).</seg>
       </tuv>
     </tu>
     <tu>
