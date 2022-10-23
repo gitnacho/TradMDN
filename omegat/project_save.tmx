@@ -16402,6 +16402,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `&lt;head&gt;&lt;/head&gt;` — the {{htmlelement("head")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061102Z" creationid="Nachec" creationdate="20221023T061102Z">
+        <seg>- `&lt;head&gt;&lt;/head&gt;` — el elemento {{htmlelement("head")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `&lt;html&gt;&lt;/html&gt;` — the {{htmlelement("html")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060955Z" creationid="Nachec" creationdate="20221023T060955Z">
+        <seg>- `&lt;html&gt;&lt;/html&gt;` — el elemento {{htmlelement("html")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `&lt;language&gt;`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110154Z" creationid="Nachec" creationdate="20221022T110154Z">
@@ -39318,6 +39334,14 @@ relevant header and serve an actual page to the user.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It also includes the `lang` attribute, setting the primary language of the document.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061045Z" creationid="Nachec" creationdate="20221023T061045Z">
+        <seg>También incluye el atributo `lang`, que establece el idioma principal del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It also registers, installs, and activates a service worker, and when more of the spec is supported by browsers it will cache all the files required so it will work offline!</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T023831Z" creationid="gitnacho" creationdate="20220921T023831Z">
@@ -44325,6 +44349,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053344Z" creationid="gitnacho" creationdate="20221004T053344Z">
         <seg>Ese es un muy buen punto de partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's all you need to know for now.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060924Z" creationid="Nachec" creationdate="20221023T060924Z">
+        <seg>Por ahora, eso es todo lo que necesitas saber.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49594,6 +49626,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This element acts as a container for all the stuff you want to include on the HTML page that _isn't_ the content you are showing to your page's viewers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061144Z" creationid="Nachec" creationdate="20221023T061144Z">
+        <seg>Este elemento actúa como un contenedor de todo aquello que quieres incluir en la página HTML que _no_ es contenido visible a los visitantes de la página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This element implements the {{domxref("SVGViewElement")}} interface.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T180801Z" creationid="gitnacho" creationdate="20221005T173846Z">
@@ -49622,6 +49662,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190428Z" creationid="Nachec" creationdate="20221021T190428Z">
         <seg>Este elemento especifica la codificación de caracteres del documento: el conjunto de caracteres que el documento puede usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This element wraps all the content on the entire page and is sometimes known as the root element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061025Z" creationid="Nachec" creationdate="20221023T061025Z">
+        <seg>Este elemento encierra todo el contenido de la página entera y, a veces, se le conoce como el elemento raíz (`root element`).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49953,6 +50001,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T205030Z" creationid="gitnacho" creationdate="20221011T205030Z">
         <seg>Esto incluye escuchas adjuntos al mismo elemento, así como aquellos adjuntos a elementos que se atravesarán más adelante (durante la fase de captura, por ejemplo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes things like {{Glossary("keyword", "keywords")}} and a page description that you want to appear in search results, CSS to style our content, character set declarations, and more.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061228Z" creationid="Nachec" creationdate="20221023T061228Z">
+        <seg>Incluye cosas como ({{Glossary("keyword", "palabras clave —keywords")}}), una descripción de la página que quieres que aparezca en resultados de búsquedas, código CSS para dar estilo al contenido, declaraciones del juego de caracteres, etc.</seg>
       </tuv>
     </tu>
     <tu>
