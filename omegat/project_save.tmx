@@ -39699,6 +39699,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you see something which looks like a variable name, but it's followed by parentheses— `()` —it is likely a function.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191329Z" creationid="Nachec" creationdate="20221023T191329Z">
+        <seg>Si ves algo que parece un nombre de variable, pero tiene paréntesis —`()`— al final, probablemente es una función.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you still can't figure out what's going on, see [Troubleshooting KumaScript errors](/en-US/docs/MDN/Tools/KumaScript/Troubleshooting) for help.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T194035Z" creationid="gitnacho" creationdate="20221005T095130Z">
@@ -42276,6 +42284,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T201224Z" creationid="gitnacho" creationdate="20221011T201224Z">
         <seg>Es posible que esto haya cambiado en el camino a través de la _reorientación_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's possible to define a body of code as a function that executes when you call the function name in your code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191218Z" creationid="Nachec" creationdate="20221023T191145Z">
+        <seg>de manera que puedes llamar esa función con un solo nombre,</seg>
       </tuv>
     </tu>
     <tu>
@@ -51565,6 +51581,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These functions, `document.querySelector` and `alert`, are built into the browser.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191309Z" creationid="Nachec" creationdate="20221023T191309Z">
+        <seg>Estas funciones `document.querySelector` y `alert` están integradas en el navegador para poder utilizarlas en cualquier momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These headers describe the user's preferred choice.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091719Z" creationid="Nachec" creationdate="20221022T091719Z">
@@ -52961,6 +52985,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213657Z" creationid="gitnacho" creationdate="20221011T213657Z">
         <seg>Este es un artículo general sobre el uso del intercambio de recursos de origen cruzado e incluye una discusión sobre los encabezados HTTP necesarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a good alternative to repeatedly writing the same code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191228Z" creationid="Nachec" creationdate="20221023T191228Z">
+        <seg>y no tendrás que escribir el código entero cada vez que la utilices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57695,6 +57727,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have already seen some uses of functions.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191236Z" creationid="Nachec" creationdate="20221023T191207Z">
+        <seg>Ya has visto algunas funciones más arriba, por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have compiled a WebP encoder and transcoded a JPEG image to WebP.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T055149Z" creationid="gitnacho" creationdate="20221004T055149Z">
@@ -61030,6 +61070,18 @@ addEventListener('statechange', (event) =&gt; { });</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+alert("hello!");
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191254Z" creationid="Nachec" creationdate="20221023T191254Z">
+        <seg>```js
+alert('¡Hola!');
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 api.encode(p, image.width, image.height, 100);
 const resultPointer = api.get_result_pointer();
 const resultSize = api.get_result_size();
@@ -61798,6 +61850,18 @@ myVariable = "Steve";
         <seg>```js
 let nombreDeLaVariable = 'Bob';
 nombreDeLaVariable = 'Steve';
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
+let myVariable = document.querySelector("h1");
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191247Z" creationid="Nachec" creationdate="20221023T191247Z">
+        <seg>```js
+let nombreDeLaVariable = document.querySelector('h1');
 ```</seg>
       </tuv>
     </tu>
