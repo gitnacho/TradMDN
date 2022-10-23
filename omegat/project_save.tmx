@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>![A file structure in macOS finder, showing an images folder with an image in, empty scripts and styles folders, and an index.html file](file-structure.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050240Z" creationid="Nachec" creationdate="20221023T050240Z">
+        <seg>![Una estructura de archivos en mac os x finder, que muestra un directorio de imágenes con una imagen, directorios de estilos y scripts vacíos, y un archivo index.html](file-structure.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![A rough drawing and sketch of a website on paper](website-drawing-scan.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061758Z" creationid="gitnacho" creationdate="20221019T061422Z">
@@ -2276,6 +2284,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T071258Z" creationid="gitnacho" creationdate="20221004T071258Z">
         <seg>## ¿Cuales son las opciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## What else should be done?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050141Z" creationid="Nachec" creationdate="20221023T050141Z">
+        <seg>## ¿Qué más se debería hacer?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13170,10 +13186,26 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- To link to a target file in the directory **above** the invoking HTML file, write two dots.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050030Z" creationid="Nachec" creationdate="20221023T050030Z">
+        <seg>- Para vincular a un archivo destino en el directorio **arriba** del archivo HTML que lo invoca, escribe dos puntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- To link to a target file in the same directory as the invoking HTML file, just use the filename, e.g. `my-image.jpg`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050001Z" creationid="Nachec" creationdate="20221023T050001Z">
         <seg>- Para vincular a un archivo destino en el mismo directorio que el archivo HTML de invocación, simplemente usa el nombre del archivo, p. ej. `mi-imagen.jpg`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- To reference a file in a subdirectory, write the directory name in front of the path, plus a forward slash, e.g. `subdirectory/my-image.jpg`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050016Z" creationid="Nachec" creationdate="20221023T050016Z">
+        <seg>- Para hacer referencia a un archivo en un subdirectorio, escribe el nombre del directorio delante de la ruta, más una barra inclinada, p. ej. `subdirectorio/mi-imagen.jpg`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13799,6 +13831,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T075644Z" creationid="gitnacho" creationdate="20221019T075644Z">
         <seg>- Yari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- You can combine these as much as you like, for example `../subdirectory/another-subdirectory/my-image.jpg`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050101Z" creationid="Nachec" creationdate="20221023T050101Z">
+        <seg>- Los puedes combinar tanto como desees, por ejemplo, `../subdirectorio/otro-subdirectorio/mi-imagen.jpg`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14514,9 +14554,9 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T064600Z" creationid="gitnacho" creationdate="20221012T165500Z">
-        <seg>- [Instalar software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software#%C2%BFqu%C3%A9_herramientas_necesito_en_este_momento)
-- [¿Cómo se verá tu sitio web?](#lo_primero_es_lo_primero_planificaci%C3%B3n)
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050900Z" creationid="gitnacho" creationdate="20221012T165500Z">
+        <seg>- [Instalar software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -29552,6 +29592,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** The Windows file system tends to use backslashes, not forward slashes, e.g. `C:\Windows`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050121Z" creationid="Nachec" creationdate="20221023T050121Z">
+        <seg>&gt; **Nota:** El sistema de archivos de Windows tiende a utilizar barras invertidas, no barras diagonales, p. ej. `C:\windows`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** The [Emscripten Pthreads support page](https://emscripten.org/docs/porting/pthreads.html) shows how to take advantage of this new functionality from Emscripten.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081058Z" creationid="gitnacho" creationdate="20221007T081058Z">
@@ -35514,6 +35562,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061108Z" creationid="gitnacho" creationdate="20221004T061108Z">
         <seg>Por ahora, el equipo de Rust se está enfocando en el último caso, y eso es lo que cubrimos aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For now, this is about all you need to know.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050109Z" creationid="Nachec" creationdate="20221023T050109Z">
+        <seg>Por ahora, esto es todo lo que necesitas saber.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43312,6 +43368,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So for example, if `index.html` was inside a subfolder of `test-site` and `my-image.jpg` was inside `test-site`, you could reference `my-image.jpg` from `index.html` using `../my-image.jpg`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050049Z" creationid="Nachec" creationdate="20221023T050049Z">
+        <seg>Por ejemplo, si `index.html` estuviera dentro de un subdirectorio de `pruebasitio` y `mi-imagen.jpg` estuviera dentro de `pruebasitio`, puedes hacer referencia a `mi-imagen.jpg` desde `index.html` utilizando `../mi-imagen.jpg`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So for example, if you put an image on your website at `test-site/MyImage.jpg` and then in a different file you try to invoke the image as `test-site/myimage.jpg`, it may not work.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044053Z" creationid="Nachec" creationdate="20221023T044053Z">
@@ -43860,6 +43924,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134205Z" creationid="gitnacho" creationdate="20221003T134205Z">
         <seg>Eso te permite usar scripts de módulo al mismo tiempo que proporciona scripts de respaldo marcados como `nomodule` para navegadores no compatibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That is about it for now.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050148Z" creationid="Nachec" creationdate="20221023T050148Z">
+        <seg>Eso es todo por ahora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49105,6 +49177,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This doesn't matter in HTML — even if you are developing your website on Windows, you should still use forward slashes in your code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050132Z" creationid="Nachec" creationdate="20221023T050132Z">
+        <seg>Esto no importa en HTML, incluso si estás desarrollando tu sitio web en Windows, debes usar barras diagonales en tu código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This element accepts the [global MathML attributes](/en-US/docs/Web/MathML/Global_attributes).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T212758Z" creationid="Nachec" creationdate="20221021T212758Z">
@@ -54010,6 +54090,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T060513Z" creationid="gitnacho" creationdate="20221005T060513Z">
         <seg>Tu código podría ser algo como esto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your folder structure should look something like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050204Z" creationid="Nachec" creationdate="20221023T050204Z">
+        <seg>La estructura de tu directorio se debería ver así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67328,6 +67416,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T063623Z" creationid="gitnacho" creationdate="20221019T063623Z">
         <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/Installing_basic_software", "Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/What_will_your_website_look_like", "Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050254Z" creationid="Nachec" creationdate="20221023T050254Z">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/What_will_your_website_look_like", "Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
     </tu>
     <tu>
