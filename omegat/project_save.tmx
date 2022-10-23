@@ -27572,6 +27572,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;code&gt;let myVariable = 3;&lt;br /&gt;myVariable === 4;&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184619Z" creationid="Nachec" creationdate="20221023T184619Z">
+        <seg>&lt;code&gt;let miVariable = 3;&lt;br /&gt;miVariable === 4;&lt;/code&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;code&gt;let myVariable = [1,'Bob','Steve',10];&lt;/code&gt;&lt;br /&gt;Refer to each</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183424Z" creationid="Nachec" creationdate="20221023T183424Z">
@@ -27592,6 +27600,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183450Z" creationid="Nachec" creationdate="20221023T183450Z">
         <seg>&lt;code&gt;miVariable[1]&lt;/code&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;true&lt;/code&gt;/&lt;code&gt;false&lt;/code&gt; (Boolean) result.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184601Z" creationid="Nachec" creationdate="20221023T184601Z">
+        <seg>&lt;code&gt;true&lt;/code&gt;/&lt;code&gt;false&lt;/code&gt; (booleano).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29446,6 +29462,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;=&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184452Z" creationid="Nachec" creationdate="20221023T184452Z">
+        <seg>&lt;td&gt;&lt;code&gt;=&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;===&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184605Z" creationid="Nachec" creationdate="20221023T184605Z">
+        <seg>&lt;td&gt;&lt;code&gt;===&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;&lt;code&gt;let myVariable = 'Bob';&lt;/code&gt;&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182916Z" creationid="Nachec" creationdate="20221023T182916Z">
@@ -29490,6 +29522,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132705Z" creationid="Nachec" creationdate="20221023T132705Z">
         <seg>&lt;td&gt;Todos los elementos HTML del tipo especificado.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;As you've seen already: this assigns a value to a variable.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184446Z" creationid="Nachec" creationdate="20221023T184446Z">
+        <seg>&lt;td&gt;Los has visto anteriormente: asigna un valor a una variable.&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29750,6 +29790,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Assignment&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184431Z" creationid="Nachec" creationdate="20221023T184431Z">
+        <seg>&lt;th scope="row"&gt;Operador de asignación&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;Channel count mode&lt;/th&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191010Z" creationid="gitnacho" creationdate="20221008T191010Z">
@@ -29794,6 +29842,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T122206Z" creationid="gitnacho" creationdate="20221003T122206Z">
         <seg>&lt;th scope="row"&gt;Rol ARIA implícito&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Not, Does-not-equal&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184632Z" creationid="Nachec" creationdate="20221023T184632Z">
+        <seg>&lt;th scope="row"&gt;Negación, distinto (no igual)&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29858,6 +29914,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055731Z" creationid="Nachec" creationdate="20221021T055731Z">
         <seg>&lt;th scope="row"&gt;Requisitos previos:&lt;/th&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;th scope="row"&gt;Strict equality&lt;/th&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184507Z" creationid="Nachec" creationdate="20221023T184507Z">
+        <seg>&lt;th scope="row"&gt;identidad/igualdad&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41815,6 +41879,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It returns a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184544Z" creationid="Nachec" creationdate="20221023T184544Z">
+        <seg>y devuelve un valor de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It returns one of the following values: `parsed`, `installing`, `installed,` `activating`, `activated`, or `redundant`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T212443Z" creationid="gitnacho" creationdate="20221003T212443Z">
@@ -53537,6 +53609,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222152Z" creationid="gitnacho" creationdate="20221011T222152Z">
         <seg>Este patrón de los encabezados {{HTTPHeader("Origin")}} y {{HTTPHeader("Access-Control-Allow-Origin")}} es el uso más simple del protocolo de control de acceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This performs a test to see if two values are equal.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T184537Z" creationid="Nachec" creationdate="20221023T184537Z">
+        <seg>Comprueba si dos valores son iguales entre sí,</seg>
       </tuv>
     </tu>
     <tu>
