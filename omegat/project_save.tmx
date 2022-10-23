@@ -12804,6 +12804,15 @@ browser-compat: api.Cache
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Styling</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120057Z" creationid="Nachec" creationdate="20221023T120057Z">
+        <seg>- Styling
+  _ Estilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- TCP/IP</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T061826Z" creationid="gitnacho" creationdate="20221012T061826Z">
@@ -21030,10 +21039,11 @@ title: CSS basics
 slug: Learn/Getting_started_with_the_web/CSS_basics
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T100533Z" creationid="gitnacho" creationdate="20221002T100533Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120041Z" creationid="gitnacho" creationdate="20221002T100533Z">
         <seg>---
 title: Conceptos básicos de CSS
 slug: Learn/Getting_started_with_the_web/CSS_basics
+rue_ Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -26418,8 +26428,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;a href=""&gt;Mozilla Manifesto&lt;/a&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105011Z" creationid="Nachec" creationdate="20221023T105011Z">
-        <seg>&lt;a href=""&gt;Manifesto Mozilla&lt;/a&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T115742Z" creationid="Nachec" creationdate="20221023T105011Z">
+        <seg>&lt;a href=""&gt;Manifiesto Mozilla&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26642,8 +26652,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;a href="https://www.mozilla.org/en-US/about/manifesto/"&gt;Mozilla Manifesto&lt;/a&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105706Z" creationid="Nachec" creationdate="20221023T105055Z">
-        <seg>&lt;a href="https://www.mozilla.org/es-AR/about/manifesto/"&gt;Manifesto Mozilla&lt;/a&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T115742Z" creationid="Nachec" creationdate="20221023T105055Z">
+        <seg>&lt;a href="https://www.mozilla.org/es-AR/about/manifesto/"&gt;Manifiesto Mozilla&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26658,8 +26668,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;a&gt;Mozilla Manifesto&lt;/a&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105632Z" creationid="Nachec" creationdate="20221023T104847Z">
-        <seg>&lt;a&gt;Manifesto Mozilla&lt;/a&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T115742Z" creationid="Nachec" creationdate="20221023T104847Z">
+        <seg>&lt;a&gt;Manifiesto Mozilla&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52930,8 +52940,8 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       <tuv lang="en-US">
         <seg>We chose the text "Mozilla Manifesto".</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104742Z" creationid="Nachec" creationdate="20221023T104742Z">
-        <seg>Nosotros elegimos "*Manifesto Mozilla*".</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T115742Z" creationid="Nachec" creationdate="20221023T104742Z">
+        <seg>Nosotros elegimos "*Manifiesto Mozilla*".</seg>
       </tuv>
     </tu>
     <tu>
@@ -68593,6 +68603,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T053031Z" creationid="Nachec" creationdate="20221023T053031Z">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web/JavaScript_basics", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120202Z" creationid="Nachec" creationdate="20221023T120202Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web/JavaScript_basics", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
     </tu>
     <tu>
