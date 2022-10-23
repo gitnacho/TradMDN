@@ -2626,6 +2626,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Authoring meaningful alternate descriptions</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T063452Z" creationid="Nachec" creationdate="20221023T063452Z">
+        <seg>### Crear descripciones alternas significativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Basic syntax</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T230559Z" creationid="gitnacho" creationdate="20221002T230559Z">
@@ -38552,6 +38560,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233632Z" creationid="Nachec" creationdate="20221021T233632Z">
         <seg>En las especificaciones de CSS, los valores que puede definir el desarrollador web, como animaciones de fotogramas clave, nombres de familia de fuentes o áreas de cuadrícula, se enumeran como {{CSSxRef("&amp;lt;custom-ident&amp;gt;")}}, {{CSSxRef("&amp;lt;string&amp;gt;")}}, o ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the [`alt` attribute](/en-US/docs/Web/HTML/Element/img#authoring_meaningful_alternate_descriptions), you specify descriptive text for users who cannot see the image, possibly because of the following reasons:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T063327Z" creationid="Nachec" creationdate="20221023T063327Z">
+        <seg>En el [atributo `alt`](/es/docs/Web/HTML/Element/img#authoring_meaningful_alternate_descriptions), especifica un texto descriptivo para los usuarios que no pueden ver la imagen, posiblemente por alguna de las siguientes razones:</seg>
       </tuv>
     </tu>
     <tu>
