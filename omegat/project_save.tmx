@@ -4484,6 +4484,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Using an online tool like GitHub or Google App Engine</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T210157Z" creationid="Nachec" creationdate="20221023T210157Z">
+        <seg>### Utilizar una herramienta en línea como GitHub o Dropbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Using buffer</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T213157Z" creationid="gitnacho" creationdate="20221019T213157Z">
@@ -15207,6 +15215,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
         <seg>- [Git y GitHub](/es/docs/Learn/Tools_and_testing/GitHub) (lectura de 5 horas)
 - [Comprender las herramientas de desarrollo web de lado del cliente](/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools) (lectura de 20 a 25 horas)
 - [Comprender los marcos de JavaScript de lado del cliente](/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks) (30 a 60 horas de lectura/ejercicios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [GitHub](https://github.com/) is a "social coding" site.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T210221Z" creationid="Nachec" creationdate="20221023T210221Z">
+        <seg>- [GitHub](https://github.com/) es un sitio de "codificación social".</seg>
       </tuv>
     </tu>
     <tu>
@@ -38170,6 +38186,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GitHub has a very useful feature called [GitHub Pages](https://pages.github.com/), which allows you to expose website code live on the web.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T210539Z" creationid="Nachec" creationdate="20221023T210539Z">
+        <seg>¡Puedes hacer esto con el código de otra persona también! Git es un [sistema de control de versiones](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones) muy popular y GitHub es una comunidad muy importante y útil por lo que la mayor parte de empresas de tecnología ahora lo usan en su proceso laboral. GitHub tiene una característica muy útil llamada [GitHub Pages](https://pages.github.com), que te permite exponer el código de tu sitio web en vivo en la web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GitHub is therefore a good place to host experiments, as it supports HTTPS.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T020701Z" creationid="gitnacho" creationdate="20220921T020701Z">
@@ -41879,6 +41903,14 @@ relevant header and serve an actual page to the user.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T040707Z" creationid="gitnacho" creationdate="20220913T040707Z">
         <seg>Permite que los scripts lo consulten y se registren para realizar algunas actividades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It allows you to upload code repositories for storage in the [Git](https://git-scm.com/) **version control system.** You can then collaborate on code projects, and the system is open-source by default, meaning that anyone in the world can find your GitHub code, use it, learn from it, and improve on it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T210254Z" creationid="Nachec" creationdate="20221023T210254Z">
+        <seg>Te permite cargar repositorios de código para almacenarlos en el **sistema de control de versiónes** de [Git](http://git-scm.com/). De esta manera puedes colaborar en proyectos de código pues por defecto el sistema es de código abierto, lo cual significa que cualquier persona en el mundo puede encontrar tu código en GitHub, usarlo, aprender de él y mejorarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47162,6 +47194,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233758Z" creationid="Nachec" creationdate="20221021T233758Z">
         <seg>Algunos valores de texto no son válidos si están entre comillas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some tools let you publish your website online:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T210205Z" creationid="Nachec" creationdate="20221023T210205Z">
+        <seg>Algunas herramientas te permiten publicar tu sitio en línea:</seg>
       </tuv>
     </tu>
     <tu>
