@@ -29903,6 +29903,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Anything in CSS between `/*` and `*/` is a **CSS comment**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140207Z" creationid="Nachec" creationdate="20221023T140207Z">
+        <seg>&gt; **Nota:** se ha añadido un comentario para explicar qué significa "px". Todo lo que está en un documento de CSS entre `/*` y `*/` es un **comentario en CSS**,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Anything in HTML between `&lt;!--` and `--&gt;` is an **HTML comment**.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070826Z" creationid="Nachec" creationdate="20221023T070826Z">
@@ -44729,6 +44737,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since {{HTMLElement("html")}} is the parent element of the whole page, all elements inside it inherit the same `font-size` and `font-family`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140024Z" creationid="Nachec" creationdate="20221023T140024Z">
+        <seg>Dado que {{htmlelement("html")}} es el elemento primario (o padre) de toda la página, todos los elementos contenidos dentro de él heredan las propiedades `font-size` y `font-family`):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So `caches.match(event.request)` is great when there is a match in the service worker cache, but what about cases when there isn't a match?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035950Z" creationid="gitnacho" creationdate="20220921T035950Z">
@@ -48689,6 +48705,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The property `font-family` refers to the font(s) you want to use for text.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T135942Z" creationid="Nachec" creationdate="20221023T135942Z">
+        <seg>La propiedad `font-family` se refiere a la(s) fuente(s) que deseas usar en tu texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The pseudocode would look something like `tbl[i]()`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072934Z" creationid="gitnacho" creationdate="20221007T072934Z">
@@ -52190,6 +52214,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064850Z" creationid="gitnacho" creationdate="20221007T064850Z">
         <seg>Esto da como resultado que se imprima "Hola" en la consola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rule defines a global base font and font size for the whole page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T135959Z" creationid="Nachec" creationdate="20221023T135959Z">
+        <seg>Esta regla define una fuente base global y un tamaño de fuente para usar en toda la página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57375,6 +57407,14 @@ void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
 int result[2];
 EMSCRIPTEN_KEEPALIVE
 void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140025Z" creationid="Nachec" creationdate="20221023T140025Z">
+        <seg>```css</seg>
       </tuv>
     </tu>
     <tu>
@@ -64612,10 +64652,26 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140120Z" creationid="Nachec" creationdate="20221023T140120Z">
+        <seg>font-family: "Open Sans", sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font-family: Latin Modern Math, STIX Two Math;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061321Z" creationid="Nachec" creationdate="20221021T061321Z">
         <seg>font-family: Latin Modern Math, STIX Two Math;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140054Z" creationid="Nachec" creationdate="20221023T140054Z">
+        <seg>font-size: 10px;  /* px significa "píxeles": el tamaño de fuente base ahora es de 10 píxeles de alto */</seg>
       </tuv>
     </tu>
     <tu>
