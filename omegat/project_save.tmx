@@ -35991,6 +35991,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTML (**H**yper**T**ext **M**arkup **L**anguage) is the code that is used to structure a web page and its content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T053343Z" creationid="Nachec" creationdate="20221023T053343Z">
+        <seg>El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTML pages.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181100Z" creationid="Nachec" creationdate="20221021T181100Z">
