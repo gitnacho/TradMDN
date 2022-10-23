@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"Does-not-equal" gives basically the same result with different</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185952Z" creationid="Nachec" creationdate="20221023T185952Z">
+        <seg>"No es igual" da básicamente el mismo resultado con diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"\n" +</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220805T222527Z" creationid="nachec" creationdate="20220805T222527Z">
@@ -25744,6 +25752,14 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190034Z" creationid="Nachec" creationdate="20221023T190034Z">
+        <seg>3".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3,</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210828T222539Z" creationid="gitnacho" creationdate="20210828T222539Z">
@@ -27568,6 +27584,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T134100Z" creationid="Nachec" creationdate="20221023T134100Z">
         <seg>&lt;code&gt;img[src]&lt;/code&gt;&lt;br /&gt;selecciona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;let myVariable = 3;&lt;br /&gt;!(myVariable === 3);&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185936Z" creationid="Nachec" creationdate="20221023T185936Z">
+        <seg>&lt;code&gt;let myVariable = 3;&lt;br /&gt;!(myVariable === 3);&lt;/code&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;code&gt;let myVariable = 3;&lt;br /&gt;myVariable !== 3;&lt;/code&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190103Z" creationid="Nachec" creationdate="20221023T190103Z">
+        <seg>&lt;code&gt;let myVariable = 3;&lt;br /&gt;myVariable !== 3;&lt;/code&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29402,6 +29434,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T122337Z" creationid="gitnacho" creationdate="20221020T122337Z">
         <seg>&lt;td&gt;&lt;a href="https://www.espressoapp.com/"&gt;Espresso&lt;/a&gt;&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;td&gt;&lt;code&gt;!&lt;/code&gt;, &lt;code&gt;!==&lt;/code&gt;&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185901Z" creationid="Nachec" creationdate="20221023T185901Z">
+        <seg>&lt;td&gt;&lt;code&gt;!&lt;/code&gt;, &lt;code&gt;!==&lt;/code&gt;&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36673,6 +36713,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For "Not", the basic expression is &lt;code&gt;true&lt;/code&gt;, but the</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185926Z" creationid="Nachec" creationdate="20221023T185918Z">
+        <seg>Para "Not", la expresión básica es &lt;code&gt;true&lt;/code&gt;, pero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For [`PreviousNext`](https://github.com/mdn/yari/blob/main/kumascript/macros/PreviousNext.ejs), the two parameters needed are the wiki locations of the appropriate articles.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T113450Z" creationid="gitnacho" creationdate="20221005T113450Z">
@@ -38205,6 +38253,14 @@ Connection: Keep-Alive
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072723Z" creationid="gitnacho" creationdate="20221007T072723Z">
         <seg>Aquí estamos diciendo que las referencias deben ser funciones que devuelvan un `i32` como resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here we are testing "is &lt;code&gt;myVariable&lt;/code&gt; NOT equal to</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190034Z" creationid="Nachec" creationdate="20221023T190034Z">
+        <seg>Aquí estamos comprobando que "&lt;code&gt;miVariable&lt;/code&gt; NO es igual a</seg>
       </tuv>
     </tu>
     <tu>
@@ -53714,6 +53770,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This returns&lt;code&gt; false&lt;/code&gt; because &lt;code&gt;myVariable&lt;/code&gt; IS</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190048Z" creationid="Nachec" creationdate="20221023T190048Z">
+        <seg>Esto devuelve &lt;code&gt;false&lt;/code&gt;, porque &lt;code&gt;miVariable&lt;/code&gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This rule defines a global base font and font size for the whole page.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T135959Z" creationid="Nachec" creationdate="20221023T135959Z">
@@ -56389,31 +56453,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When it is used</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185104Z" creationid="Nachec" creationdate="20221023T185104Z">
-        <seg>&lt;p&gt;
-          La expresión básica es &lt;code&gt;true&lt;/code&gt;, pero la comparación devuelve
-          &lt;code&gt;false&lt;/code&gt; porque lo hemos negado:
-        &lt;/p&gt;
-        &lt;p&gt;
-          &lt;code&gt;let miVariable = 3;&lt;br /&gt;!miVariable === 3;&lt;/code&gt;
-        &lt;/p&gt;
-        &lt;p&gt;
-          Aquí estamos comprobando "&lt;code&gt;miVariable&lt;/code&gt; NO es igual a 3".
-          Esto devuelve &lt;code&gt;false&lt;/code&gt;, porque &lt;code&gt;miVariable&lt;/code&gt; ES
-          igual a 3.
-        &lt;/p&gt;
-        &lt;p&gt;
-          &lt;code&gt;&lt;code&gt;let miVariable = 3;&lt;/code&gt;&lt;br /&gt;miVariable !== 3;&lt;/code&gt;
-        &lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-Hay muchos operadores por explorar, pero con esto será suficiente por ahora. Mira [Expresiones y operadores](/es/docs/Web/JavaScript/Reference/Operators) para ver la lista completa.
-
-&gt; **Nota:** mezclar tipos de datos puede dar lugar a resultados extraños cuando se hacen cálculos, así que asegúrate de que relacionas tus variables correctamente y de que recibes los resultados que esperabas. Por ejemplo, teclea: `"3" + "25"` en tu consola. ¿Por qué no obtienes lo que esperabas? Porque las comillas convierten los números en "strings" (el término inglés para denominar cadenas de caracteres) y de este modo has acabado con los "strings" concatenados entre sí, y no con los números sumados. Si tecleas: `35 + 25`, obtendrás el resultado correcto.
-</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185835Z" creationid="Nachec" creationdate="20221023T185104Z">
+        <seg>cuando se usa</seg>
       </tuv>
     </tu>
     <tu>
@@ -63320,6 +63361,14 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>alongside the Equality operator, the negation operator tests whether two</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185849Z" creationid="Nachec" creationdate="20221023T185849Z">
+        <seg>junto con el operador Igualdad, el operador de negación comprueba si dos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180616T003630Z" creationid="nacho" creationdate="20180616T003630Z">
@@ -64174,6 +64223,14 @@ math {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061334Z" creationid="Nachec" creationdate="20221021T061334Z">
         <seg>comment.textContent = checkbox.dataset.comment;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>comparison returns &lt;code&gt;false&lt;/code&gt; because we negate it:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185923Z" creationid="Nachec" creationdate="20221023T185923Z">
+        <seg>la comparación devuelve &lt;code&gt;false&lt;/code&gt; porque lo negamos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66263,6 +66320,14 @@ function clearHighlight() {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065729Z" creationid="gitnacho" creationdate="20221004T065729Z">
         <seg>entry: "./index.js",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>equal to 3:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T190055Z" creationid="Nachec" creationdate="20221023T190055Z">
+        <seg>igual a 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70264,6 +70329,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>syntax.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185958Z" creationid="Nachec" creationdate="20221023T185958Z">
+        <seg>sintaxis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tab.onclick = () =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T211530Z" creationid="nachec" creationdate="20220804T211530Z">
@@ -70760,6 +70833,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T231743Z" creationid="nachec" creationdate="20220804T231743Z">
         <seg>useEffect(() =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>values are &lt;em&gt;not&lt;/em&gt; equal.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185857Z" creationid="Nachec" creationdate="20221023T185857Z">
+        <seg>los valores &lt;em&gt;no&lt;/em&gt; son iguales.</seg>
       </tuv>
     </tu>
     <tu>
