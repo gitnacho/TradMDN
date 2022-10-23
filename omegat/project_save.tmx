@@ -13359,6 +13359,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- The first pixel value sets the **horizontal offset** of the shadow from the text: how far it moves across.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143326Z" creationid="Nachec" creationdate="20221023T143304Z">
+        <seg>- El primer valor en píxeles asigna el **desplazamiento horizontal** de la sombra desde el texto —qué tan lejos la mueve a la derecha—. Un valor negativo la moverá a la izquierda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- The functions (`func`) sections are just like any other declared wasm functions.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072127Z" creationid="gitnacho" creationdate="20221007T072127Z">
@@ -13463,6 +13471,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- The second pixel value sets the **vertical offset** of the shadow from the text: how far it moves down.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143409Z" creationid="Nachec" creationdate="20221023T143316Z">
+        <seg>- El segundo valor en píxeles asigna el **desplazamiento vertical** de la sombra desde el texto —qué tan lejos la mueve hacia abajo—. En este ejemplo, un valor negativo la desplazaría hacia arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- The secondary overload takes an already-compiled [`WebAssembly.Module`](/en-US/docs/WebAssembly/JavaScript_interface/Module)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T193226Z" creationid="gitnacho" creationdate="20221007T193226Z">
@@ -13515,6 +13531,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102134Z" creationid="Nachec" creationdate="20221021T102134Z">
         <seg>- El texto dentro de los scripts está reducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The third pixel value sets the **blur radius** of the shadow.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143457Z" creationid="Nachec" creationdate="20221023T143403Z">
+        <seg>- El tercer valor en píxeles asigna **radio de desenfoque** de la sombra</seg>
       </tuv>
     </tu>
     <tu>
@@ -31971,6 +31995,14 @@ JavaScript wrapper for an underlying wasm function.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A larger value produces a more fuzzy-looking shadow.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143444Z" creationid="Nachec" creationdate="20221023T143444Z">
+        <seg>A larger value produces a more fuzzy-looking shadow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A library tends to be an existing JavaScript or CSS file that provides ready-rolled functionality for you to make use of in your code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T165235Z" creationid="gitnacho" creationdate="20221012T165235Z">
@@ -35778,6 +35810,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, `text-shadow` applies a shadow to the text content of the element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143239Z" creationid="Nachec" creationdate="20221023T143239Z">
+        <seg>Una propiedad muy interesante que se ha usado aquí es `text-shadow`, que aplica una sombra al texto del elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally, add this configuration file to the system font location list and regenerate the fontconfig cache:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201844Z" creationid="Nachec" creationdate="20221021T201844Z">
@@ -36001,6 +36041,14 @@ a simple value):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105843Z" creationid="Nachec" creationdate="20221021T105843Z">
         <seg>Enfocándonos en el símbolo de suma, podemos notar que el sigma se dibuja más pequeño y que los scripts del elemento `&lt;munderover&gt;` ahora se adjuntan como un subíndice y un superíndice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Following that, we set the heading text to be the same color as the HTML background color.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143220Z" creationid="Nachec" creationdate="20221023T143220Z">
+        <seg>y se hizo que el color del texto sea el mismo que el color de fondo de `html`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41370,6 +41418,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its four values are:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143245Z" creationid="Nachec" creationdate="20221023T143245Z">
+        <seg>Sus cuatro valores son como sigue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its purpose is to embed an image in the HTML page in the place it appears.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060503Z" creationid="Nachec" creationdate="20221023T060503Z">
@@ -42685,6 +42741,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065715Z" creationid="gitnacho" creationdate="20221004T065715Z">
         <seg>A continuación, debemos configurar Webpack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, we set the heading's top and bottom padding to 20 pixels.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143202Z" creationid="Nachec" creationdate="20221023T143202Z">
+        <seg>Enseguida, se ha puesto un relleno arriba y abajo del título de 20 píxeles,</seg>
       </tuv>
     </tu>
     <tu>
