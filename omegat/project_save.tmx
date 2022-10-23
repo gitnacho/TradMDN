@@ -38393,6 +38393,14 @@ Connection: Keep-Alive
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here we select the {{htmlelement("html")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192300Z" creationid="Nachec" creationdate="20221023T192300Z">
+        <seg>aquí hemos seleccionado el elemento {{htmlelement("html")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here we wait for an {{domxref("InstallEvent")}} to fire, then runs
 {{domxref("ExtendableEvent.waitUntil","waitUntil()")}} to handle the install process for
 the app.</seg>
@@ -46745,6 +46753,18 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stop poking me!");
+});
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192218Z" creationid="Nachec" creationdate="20221023T192058Z">
+        <seg>¡Deja de pincharme!');
+})
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsequent sections discuss scenarios, as well as provide a breakdown of the HTTP headers used.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T214035Z" creationid="gitnacho" creationdate="20221011T214035Z">
@@ -51221,6 +51241,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are a number of ways to attach an event handler to an element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192248Z" creationid="Nachec" creationdate="20221023T192248Z">
+        <seg>Hay muchas maneras de enlazar un evento a un elemento;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are a set of built-in APIs that are automatically loaded and made available to every template by the environment script, as well as providing some features from the ancient legacy DekiScript system that MDN relied on many years ago.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072906Z" creationid="gitnacho" creationdate="20221005T072906Z">
@@ -54594,6 +54622,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To demonstrate this, enter the following into your console, then click on the current webpage:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192016Z" creationid="Nachec" creationdate="20221023T192016Z">
+        <seg>Para demostrar esto, prueba ingresando lo siguiente en tu consola, luego da clic sobre la página actual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To demonstrate this, we will insert a little bit of HTML into our `index.html` file, and make it display the image you chose in the article ["What will your website look like?"](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like) Alternatively, you can choose an existing image at your disposal, on your computer or from the Web, and use it in the following steps:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045002Z" creationid="Nachec" creationdate="20221023T045002Z">
@@ -55866,6 +55902,14 @@ that is exported by the `Instance`.</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T094021Z" creationid="gitnacho" creationdate="20221006T094021Z">
         <seg>Luego llamamos a una [función WebAssembly exportada](/es/docs/WebAssembly/Exported_functions)
 que es exportada por la `Instance`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We then call its [`addEventListener()`](/en-US/docs/Web/API/EventTarget/addEventListener) function, passing in the name of the event to listen to (`'click'`) and a function to run when the event happens.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192354Z" creationid="Nachec" creationdate="20221023T192354Z">
+        <seg>Luego llamamos a su función [`addEventListener()`](/es/docs/Web/API/EventTarget/addEventListener), pasando el nombre del evento a escuchar (`'clic'`) y una función para ejecutar cuando ocurra el evento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61780,6 +61824,16 @@ xhr.send("&lt;person&gt;&lt;name&gt;Arun&lt;/name&gt;&lt;/person&gt;");
     <tu>
       <tuv lang="en-US">
         <seg>```js
+document.querySelector("html").addEventListener("click", function () {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192159Z" creationid="Nachec" creationdate="20221023T192024Z">
+        <seg>```js
+document.querySelector("html").addEventListener("click", function () {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 env.tag.forEach(function (tag) {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T071705Z" creationid="gitnacho" creationdate="20221005T071705Z">
@@ -63683,6 +63737,14 @@ unreachable
         <seg>alert("¡Hola Mundo!");
 &lt;/script&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>alert("Ouch!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192040Z" creationid="Nachec" creationdate="20221023T192040Z">
+        <seg>alert('¡Ouch!</seg>
       </tuv>
     </tu>
     <tu>
