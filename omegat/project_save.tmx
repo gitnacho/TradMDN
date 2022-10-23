@@ -16426,6 +16426,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `&lt;meta charset="utf-8"&gt;` — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061607Z" creationid="Nachec" creationdate="20221023T061607Z">
+        <seg>- `&lt;meta charset="utf-8"&gt;` — {{htmlelement("meta")}}. Este elemento establece en `utf-8` el juego de caracteres que tu documento usará, incluye casi todos los caracteres de todos los idiomas humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `&lt;unsigned-integer&gt;`: An [`&lt;integer&gt;`](/en-US/docs/Web/CSS/integer), whose first character is neither U+002D HYPHEN-MINUS character (-) nor U+002B PLUS SIGN (+); for example `1234`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T223716Z" creationid="Nachec" creationdate="20221021T223716Z">
