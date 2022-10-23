@@ -5362,6 +5362,14 @@ pub fn greet(name: &amp;str) {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(600 pixels) If your image is larger, it will overflow the body, spilling into the rest of the page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143957Z" creationid="Nachec" creationdate="20221023T143940Z">
+        <seg>(600 pixels). Si tu imagen es más grande, desbordará el cuerpo, derramándose en el resto de la página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(A new cache entry is created for every unique value.)
 This applies in particular to network client hints like {{HTTPHeader("Downlink")}} and {{HTTPHeader("RTT")}}.</seg>
       </tuv>
@@ -30177,6 +30185,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** Don't be too concerned if you don't completely understand `display: block;` or the differences between a block element and an inline element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144056Z" creationid="Nachec" creationdate="20221023T144056Z">
+        <seg>&gt; **Nota:** no te preocupes si aún no entiendes `display: block;` y la diferencia entre un elemento de bloque y un elemento `inline`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Even on real, complex websites, the design teams usually start out with rough sketches on paper and later on build digital mockups using a graphics editor or web technologies.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061819Z" creationid="gitnacho" creationdate="20221019T061819Z">
@@ -30603,6 +30619,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075743Z" creationid="Nachec" creationdate="20221021T075743Z">
         <seg>&gt; **Nota:** Las fuentes y las hojas de estilo de esa página de MathFonts se distribuyen bajo licencias de código abierto, así que no dudes en copiarlas en tu propio servidor y adaptarlas a tus necesidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** The instructions above assume that you're using an image smaller than the width set on the body.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143950Z" creationid="Nachec" creationdate="20221023T143858Z">
+        <seg>&gt; **Nota:** las instrucciones anteriores asumen que estás usando una imagen más pequeña que el ancho establecido en `body`</seg>
       </tuv>
     </tu>
     <tu>
@@ -41270,6 +41294,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T062043Z" creationid="gitnacho" creationdate="20221012T062043Z">
         <seg>Fue diseñado para la comunicación entre los navegadores y servidores web, aunque se puede utilizar para otros propósitos también.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will make more sense as you continue your study of CSS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144106Z" creationid="Nachec" creationdate="20221023T144106Z">
+        <seg>Lo entenderás en tanto estudies CSS a profundidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53372,6 +53404,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To fix this, you can either: 1) reduce the image width using a [graphics editor](https://en.wikipedia.org/wiki/Raster_graphics_editor), or 2) use CSS to size the image by setting the {{cssxref("width")}} property on the `&lt;img&gt;` element with a smaller value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144037Z" creationid="Nachec" creationdate="20221023T144037Z">
+        <seg>Para solucionar esto, puedes hacer lo siguiente: 1) reduce el ancho de la imagen usando un [editor gráfico](https://es.wikipedia.org/wiki/Editor_de_gráficos_rasterizados), o 2) usar CSS para dimensionar la imagen estableciendo la propiedad {{cssxref("width")}} en el elemento `&lt;img&gt;` con un valor menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get Node.js and npm, go to the [Get npm!](https://docs.npmjs.com/getting-started/) page and follow the instructions.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065232Z" creationid="gitnacho" creationdate="20221004T065232Z">
@@ -56043,6 +56083,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053727Z" creationid="gitnacho" creationdate="20221004T053727Z">
         <seg>Puedes encontrar más en la [documentación de Emscripten](https://emscripten.org/docs/compiling/Building-Projects.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can find more information about different display values on MDN's [display reference page](/en-US/docs/Web/CSS/display).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144131Z" creationid="Nachec" creationdate="20221023T144131Z">
+        <seg>Puedes encontrar más en cuanto a los diferentes valores disponibles para `display` en la [página de referencia de display](/es/docs/Web/CSS/display).</seg>
       </tuv>
     </tu>
     <tu>
