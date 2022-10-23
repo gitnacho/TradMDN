@@ -1656,6 +1656,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Mobile Viewports</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T062430Z" creationid="Nachec" creationdate="20221023T062430Z">
+        <seg>## Ventanas gráficas móviles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Modules</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063832Z" creationid="Nachec" creationdate="20221021T063832Z">
@@ -16436,8 +16444,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `&lt;meta name="viewport" content="width=device-width"&gt;` — This [viewport element](/en-US/docs/Web/CSS/Viewport_concepts#mobile_viewports) ensures the page renders at the width of viewport, preventing mobile browsers from rendering pages wider than the viewport and then shrinking them down.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T062259Z" creationid="Nachec" creationdate="20221023T061725Z">
-        <seg>- `&lt;meta name="viewport" content="width=device-width"&gt;`: El [elemento viewport](/es/docs/Web/CSS/Viewport_concepts#mobile_viewports) garantiza que la página se renderice con el ancho de ventana gráfica, evitando que los navegadores móviles rendericen páginas más anchas que la ventana gráfica y luego las reduzcan.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T062506Z" creationid="Nachec" creationdate="20221023T061725Z">
+        <seg>- `&lt;meta name="viewport" content="width=device-width"&gt;`: El [elemento viewport](/es/docs/Web/CSS/Viewport_concepts#ventanas_gráficas_móviles) garantiza que la página se renderice con el ancho de la ventana gráfica, evitando que los navegadores móviles rendericen páginas más anchas que la ventana gráfica y luego las reduzcan.</seg>
       </tuv>
     </tu>
     <tu>
