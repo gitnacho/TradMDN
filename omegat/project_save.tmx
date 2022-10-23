@@ -27240,6 +27240,32 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;li&gt;builders&lt;/li&gt;
+&lt;/ul&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104505Z" creationid="Nachec" creationdate="20221023T104505Z">
+        <seg>&lt;li&gt;constructores&lt;/li&gt;
+&lt;/ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;li&gt;technologists&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104452Z" creationid="Nachec" creationdate="20221023T104452Z">
+        <seg>&lt;li&gt;tecnólogos&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;li&gt;thinkers&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104459Z" creationid="Nachec" creationdate="20221023T104459Z">
+        <seg>&lt;li&gt;pensadores&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;link</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085346Z" creationid="Nachec" creationdate="20221021T085346Z">
@@ -28374,6 +28400,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183352Z" creationid="gitnacho" creationdate="20221008T183352Z">
         <seg>&lt;p&gt;term1&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;working together…&lt;/p&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104538Z" creationid="Nachec" creationdate="20221023T104519Z">
+        <seg>&lt;p&gt;trabajando juntos... &lt;/p&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -32872,6 +32908,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T073556Z" creationid="gitnacho" creationdate="20221005T073556Z">
         <seg>Suponiendo que esta plantilla se guardó en el directorio de macros como `MathLib.ejs`, la podrías usar en otra plantilla así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At Mozilla, we're a global community of technologists, thinkers, and builders</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104344Z" creationid="Nachec" creationdate="20221023T104344Z">
+        <seg>En Mozilla, somos una comunidad de tecnólogos, pensadores, y constructores</seg>
       </tuv>
     </tu>
     <tu>
@@ -41004,6 +41048,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T104627Z" creationid="gitnacho" creationdate="20221005T104627Z">
         <seg>Las macros de enlaces se recomiendan sobre los enlaces HTML normales porque son breves y fáciles de traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Links are very important — they are what makes the web a web!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104608Z" creationid="Nachec" creationdate="20221023T104608Z">
+        <seg>Los vínculos o enlaces son muy importantes —son los que hacen de la web, la web—.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51738,6 +51790,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To add a link, we need to use a simple element — {{htmlelement("a")}} — "a" being the short form for "anchor".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104656Z" creationid="Nachec" creationdate="20221023T104656Z">
+        <seg>Para implementar un vínculo, necesitas usar un enlace simple — {{htmlelement("a")}} — la _a_ es la abreviatura de la palabra inglesa *anchor* (_ancla_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To allow error logging for sites which use a separate domain for static media, use this attribute.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T123503Z" creationid="gitnacho" creationdate="20221003T123503Z">
@@ -52260,6 +52320,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try adding an ordered or unordered list to your example page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104551Z" creationid="Nachec" creationdate="20221023T104551Z">
+        <seg>Intenta agregar una lista ordenada o desordenada en tu página de ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try coming up with some better alt text for your image now.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070402Z" creationid="Nachec" creationdate="20221023T070402Z">
@@ -52752,6 +52820,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040043Z" creationid="gitnacho" creationdate="20220921T040043Z">
         <seg>Podríamos hacer esto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We could modify the markup to this</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104429Z" creationid="Nachec" creationdate="20221023T104429Z">
+        <seg>Podrías hacer lo siguiente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56729,6 +56805,16 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102014Z" creationid="Nachec" creationdate="20221021T102014Z">
         <seg>```html
 &lt;p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;p&gt;At Mozilla, we're a global community of&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104442Z" creationid="Nachec" creationdate="20221023T104442Z">
+        <seg>```html
+&lt;p&gt;En Mozilla, somos una comunidad de&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -67662,6 +67748,18 @@ tags:</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T115736Z" creationid="gitnacho" creationdate="20221019T115736Z">
         <seg>worker.postMessage(mod)
 );
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>working together…
+&lt;/p&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104533Z" creationid="Nachec" creationdate="20221023T104421Z">
+        <seg>trabajando juntos...
+&lt;/p&gt;
 ```</seg>
       </tuv>
     </tu>
