@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>![A Mozilla logo and some paragraphs.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130430Z" creationid="Nachec" creationdate="20221023T130430Z">
+        <seg>![Un logo de Mozilla y algunos párrafos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![A file structure in macOS finder, showing an images folder with an image in, empty scripts and styles folders, and an index.html file](file-structure.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050240Z" creationid="Nachec" creationdate="20221023T050240Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105321Z" creationid="Nachec" creationdate="20221023T105321Z">
         <seg>![Una captura de pantalla de la página web que muestra el logo de Firefox, un encabezado que dice "mozilla es genial" y dos párrafos de texto.](finished-test-page-small.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>![CSS p declaration color red](css-declaration-small.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130723Z" creationid="Nachec" creationdate="20221023T130723Z">
+        <seg>![Partes de una declaracion de color css](css-declaration-small.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2622,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054028Z" creationid="gitnacho" creationdate="20221007T054028Z">
         <seg>### Agregar funcionalidad al módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Anatomy of a CSS ruleset</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130552Z" creationid="Nachec" creationdate="20221023T130552Z">
+        <seg>### Anatomía de una regla CSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -40886,6 +40910,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's dissect the CSS code for red paragraph text to understand how it works:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130624Z" creationid="Nachec" creationdate="20221023T130624Z">
+        <seg>Analicemos el código CSS del texto de párrafo rojo para comprender cómo funciona:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's explore this paragraph element a bit further.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054401Z" creationid="Nachec" creationdate="20221023T054401Z">
@@ -48035,6 +48067,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091341Z" creationid="Nachec" creationdate="20221022T091341Z">
         <seg>El recurso global, así como cada una de las representaciones, tiene una URL específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The paragraph text has been styled red by our css.](website-screenshot-styled.png)If your paragraph text is red, congratulations!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130538Z" creationid="Nachec" creationdate="20221023T130538Z">
+        <seg>El texto del párrafo ha sido estilizado en rojo por nuestro css](website-screenshot-styled.png). Si tu texto del párrafo ahora es rojo, ¡felicidades, ya has escrito tu primer CSS de forma exitosa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -55325,6 +55365,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should see something like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130415Z" creationid="Nachec" creationdate="20221023T130415Z">
+        <seg>Debes ver algo como esto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should see your new webpage displaying your image!</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045856Z" creationid="Nachec" creationdate="20221023T045856Z">
@@ -55417,6 +55465,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T182123Z" creationid="Nachec" creationdate="20221021T094825Z">
         <seg>Ya casi has terminado este módulo; solo tenemos una cosa más que hacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your CSS is working.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130545Z" creationid="Nachec" creationdate="20221023T130545Z">
+        <seg>Tu CSS está funcionando.</seg>
       </tuv>
     </tu>
     <tu>
