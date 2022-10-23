@@ -16370,6 +16370,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `&lt;!DOCTYPE html&gt;` — [doctype](/en-US/docs/Glossary/Doctype).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060804Z" creationid="Nachec" creationdate="20221023T060804Z">
+        <seg>- `&lt;!DOCTYPE html&gt;` — el tipo de [documento](/es/docs/Glossary/Doctype).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `&lt;%- expr %&gt;` — the value of a JavaScript expression is included in output without any escaping.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070027Z" creationid="gitnacho" creationdate="20221005T070027Z">
@@ -26904,6 +26912,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;img src="images/firefox-icon.png" alt="My test image" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060655Z" creationid="Nachec" creationdate="20221023T060655Z">
+        <seg>&lt;img src="images/firefox-icon.png" alt="Mi imagen de prueba"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013809Z" creationid="gitnacho" creationdate="20220901T013809Z">
@@ -36551,6 +36567,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here, we have the following:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060712Z" creationid="Nachec" creationdate="20221023T060712Z">
+        <seg>Aquí, tenemos lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Historically, a `.wast` extension was also used, however that's now used for the scripting language used by the WebAssembly test suite.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182546Z" creationid="gitnacho" creationdate="20221007T182546Z">
@@ -36767,6 +36791,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094704Z" creationid="Nachec" creationdate="20221021T094704Z">
         <seg>Sin embargo, es posible que estos atributos no se implementen en todos los navegadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, these days, they don't do much and are basically just needed to make sure your document behaves correctly.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060915Z" creationid="Nachec" creationdate="20221023T060915Z">
+        <seg>Sin embargo, hoy día es simplemente un artefacto antiguo que a nadie le importa, pero que se debe incluir para que todo funcione apropiadamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38604,6 +38636,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the mists of time, when HTML was young (around 1991/92), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML, which could mean automatic error checking and other useful things.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060838Z" creationid="Nachec" creationdate="20221023T060838Z">
+        <seg>Anteriormente, cuando HTML era joven (cerca de 1991/2), los tipos de documento actuaban como vínculos a un conjunto de reglas que el código HTML de la página debía seguir para ser considerado bueno, lo que podía significar la verificación automática de errores y algunas otras cosas de utilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the next article, we will continue focus on [tabular layout](/en-US/docs/Learn/MathML/First_steps/Tables).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T110115Z" creationid="Nachec" creationdate="20221021T110115Z">
@@ -39462,6 +39502,14 @@ relevant header and serve an actual page to the user.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210113T192306Z" creationid="nacho" creationdate="20210113T192306Z">
         <seg>Es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a required preamble.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060813Z" creationid="Nachec" creationdate="20221023T060813Z">
+        <seg>Es un preámbulo requerido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40468,6 +40516,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061930Z" creationid="gitnacho" creationdate="20221004T061930Z">
         <seg>Pongamos este código en `src/lib.rs` en su lugar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's revisit the code we put into our `index.html` example (which we first met in the [Dealing with files](/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files) article):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060641Z" creationid="Nachec" creationdate="20221023T060641Z">
+        <seg>Vuelve a visitar el código de tu ejemplo en `index.html` (que viste por primera vez en el artículo [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)):</seg>
       </tuv>
     </tu>
     <tu>
