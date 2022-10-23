@@ -7920,6 +7920,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Dive into JavaScript in much more detail.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200626Z" creationid="Nachec" creationdate="20221023T200626Z">
+        <seg>- : Sumérgete en JavaScript con mucho más detalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Documentation for the set of web-developer tools built into Chrome.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T095713Z" creationid="gitnacho" creationdate="20221002T095713Z">
@@ -9914,6 +9922,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131801Z" creationid="Nachec" creationdate="20221023T131728Z">
         <seg>- : Una sola regla como `color: red;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : This is an excellent resource for aspiring web developers!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200648Z" creationid="Nachec" creationdate="20221023T200648Z">
+        <seg>- : ¡Este es un excelente material para los aspirantes a desarrolladores web!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14982,6 +14998,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T043347Z" creationid="gitnacho" creationdate="20220925T043120Z">
         <seg>- [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Dynamic client-side scripting with JavaScript](/en-US/docs/Learn/JavaScript)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200608Z" creationid="Nachec" creationdate="20221023T200608Z">
+        <seg>- [Scripts dinámicos de lado del cliente con JavaScript](/es/docs/Learn/JavaScript)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42874,6 +42898,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by an automated assessment.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200701Z" creationid="Nachec" creationdate="20221023T200701Z">
+        <seg>Aprende JavaScript en un entorno interactivo, con lecciones cortas y pruebas interactivas, guiadas por una evaluación automatizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Learn how to use HTTP with guides and tutorials.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T062439Z" creationid="gitnacho" creationdate="20221012T062439Z">
@@ -49012,6 +49044,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The complete course is available for a small one-time payment.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200725Z" creationid="Nachec" creationdate="20221023T200725Z">
+        <seg>El curso completo está disponible por un pequeño pago único (en inglés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The conditions under which a request is preflighted are discussed above.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054436Z" creationid="gitnacho" creationdate="20221012T054436Z">
@@ -49328,6 +49368,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175840Z" creationid="Nachec" creationdate="20221020T175840Z">
         <seg>Las primeras 40 lecciones son gratuitas y el curso completo está disponible por un pequeño pago único.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first 40 lessons are free.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200706Z" creationid="Nachec" creationdate="20221023T200706Z">
+        <seg>Las primeras 40 lecciones son gratis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72978,6 +73026,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200732Z" creationid="Nachec" creationdate="20221023T200732Z">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/Dealing_with_files", "Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T052616Z" creationid="Nachec" creationdate="20221023T052616Z">
@@ -74594,6 +74650,31 @@ tags:</prop>
         <seg>- text editor
   - editor de texto
 ---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/getting_started_with_the_web/javascript_basics/index.md</prop>
+      <prop type="prev">## In this module</prop>
+      <prop type="next"></prop>
+      <tuv lang="en-US">
+        <seg>- [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [What will your website look like?](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Dealing with files](/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [HTML basics](/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS basics](/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [JavaScript basics](/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200937Z" creationid="Nachec" creationdate="20221023T200937Z">
+        <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Conceptos básicos de JavaScript](#¿qué_es_javascript_realmente)
+- [Publicar tu sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
     </tu>
     <tu>
