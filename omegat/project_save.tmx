@@ -1472,6 +1472,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Further reading</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T072629Z" creationid="Nachec" creationdate="20221024T072629Z">
+        <seg>## Otras lecturas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## General guidelines</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204857Z" creationid="gitnacho" creationdate="20221005T204857Z">
@@ -14997,6 +15005,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Cheap or Free Static Website Hosting](https://alignedleft.com/resources/cheap-web-hosting) by Scott Murray has some useful ideas on available services.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T072802Z" creationid="Nachec" creationdate="20221024T072802Z">
+        <seg>- [Alojamiento de sitio web estático barato o gratuito](https://alignedleft.com/resources/cheap-web-hosting) de Scott Murray tiene algunas ideas útiles sobre los servicios disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T095658Z" creationid="gitnacho" creationdate="20221002T095658Z">
@@ -16363,6 +16379,20 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T095219Z">
         <seg>- [WebDriver](/es/docs/Web/WebDriver)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [What is a web server](/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+- [Understanding domain names](/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+- [How much does it cost to do something on the web?](/en-US/docs/Learn/Common_questions/How_much_does_it_cost)
+- [Deploy a Website](https://www.codecademy.com/learn/deploy-a-website): A nice tutorial from Codecademy that goes a bit further and shows some additional techniques.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T072726Z" creationid="Nachec" creationdate="20221024T072726Z">
+        <seg>- [Qué es un servidor web](/es/docs/Learn/Common_questions/What_is_a_web_server)
+- [Comprender los nombres de dominio](/es/docs/Learn/Common_questions/What_is_a_domain_name)
+- [¿Cuánto cuesta hacer algo en la web?](/es/docs/Learn/Common_questions/How_much_does_it_cost)
+- [Desplegar un sitio web](https://www.codecademy.com/learn/deploy-a-website): un buen tutorial de Codecademy que va un poco más allá y muestra algunas técnicas adicionales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55798,6 +55828,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180416Z" creationid="Nachec" creationdate="20221023T180331Z">
         <seg>Para aprender más sobre enfoques alternativos, mira [Estrategias de carga de scripts](/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript#estrategias-para-la-carga-de-scripts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn more, see [GitHub Pages Help](https://docs.github.com/en/pages/getting-started-with-github-pages).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T072617Z" creationid="Nachec" creationdate="20221024T072617Z">
+        <seg>Para obtener más información, consulta [Ayuda de las páginas de GitHub](https://docs.github.com/es/pages/getting-started-with-github-pages).</seg>
       </tuv>
     </tu>
     <tu>
