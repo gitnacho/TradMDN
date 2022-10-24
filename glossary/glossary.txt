@@ -22,9 +22,13 @@ AD	A.C.
 ADDLENGTH	AGREGALONGITUD
 ADHD	Attention-Deficit Hyperactivity Disorder
 ADHD	trastorno por déficit de antención con hiperactividad
+ADSL	Línea de abonado digital asimétrica	Tecnología de transmisión digital por triple banda ancha de alta
+AI	inteligencia artificial	Inteligencia exhibida por máquinas que imitan funciones cognitivas asociadas a las personas.
 AIDS	SIDA
+AMPS	Sistema de Telefonía Móvil de Primera Generación	Tecnología analógica de telecomunicación de primera generación, también llamada 1G. (Ver GPRS y UMTS).
 APPLY template	plantilla a aplicar
 APageThatDoesntExist	UnaPáginaInexistente
+ASCII	Código Estándar Estadounidense para el Intercambio de Información	Código de caracteres basado en el alfabeto latino.
 ASI	IAPC	ASI sigla de Automatic Semicolon Insertion; IAPC sigla de Insersión Automática de Punto y Coma.
 ASP	Application Service Provider	Es una empresa que proporciona servicios de software a traves de la red.
 AVM	arteriovenous malformation
@@ -274,10 +278,13 @@ ByteSize	MagnitudByte
 ByteSlice	SectorByte
 Byzantine Empire	Imperio Bizantino
 Byzantium	Bizancio
+CCD	Dispositivo de Carga Acoplada	Dispositivo digital que detecta y transmite imágenes a nivel audiovisual o digital.
+CD-ROM	Cederrón	Disco compacto con el que utilizan rayos láser para leer información en formato digital. (Ver DVD).
 CDK	Kit de desarrollo de componentes	Compoments Developer Kit
 CEP	Complex Event Processing	complejo procesamiento del eveto
 CIS	CEI
 CLOS	CLOS	Common Lisp Object System
+CMOS	Semiconductor Complementario de Óxido Metálico	Dispositivo digital que detecta y transmite imágenes.
 COND clauses	cláusulas COND
 COND template	plantilla para COND
 CONS cell	celda CONS
@@ -374,6 +381,7 @@ Cornish	córnico
 Cornwall	Cornualles
 Corsica	Córcega
 Costa Rica	Costa Rica
+Creative Commons	Comunes Creativos	Organización sin fines de lucro dedicada a promover el acceso y el intercambio de cultura. (Ver copyright).
 Cree	idioma cree
 Crete	Creta
 Crimea	Crimea
@@ -393,6 +401,7 @@ Czech Republic	República Checa
 Czechia	Chequia
 Czechoslovakia	Checoslovaquia
 DA.	district attorney
+DAB	Transmisión Digital de Audio	Estándar de emisión de radio digital diseñado para receptores tanto de uso doméstico como portátiles.
 DB_COLLECTION	BD_COLECCIÓN
 DB_NAME	BD_NOMBRE
 DB_PASSWORD	BD_CONTRASEÑA
@@ -419,8 +428,8 @@ DRY	Don't Repeat Yourself
 DRY	Una vez y sólo una
 DRY	el principio No te repitas
 DSN	Data Source Name
-DUI	conductor borracho
-DUI	driving under the influence	conductor borracho
+DUI	conductor borracho	driving under the influence
+DVD	Disco Versátil Digital	Disco óptico para el almacenamiento de datos. (Ver CD-Room).
 DWP	Departamento de Agua y Energía
 DWP	Department of Water and Power
 Dagestan	Daguestán
@@ -480,6 +489,8 @@ EDT	Eastern Daylight Time
 EEG	electroencefalograma
 EKG	electrocardiograma
 EMF	campo electromagnético
+EMS	Servicio de Mensajería Mejorado	Sistema de aumento y transmisión de mensajes normalizados entre teléfonos móviles. (Ver e-mail, MMS y SMS).
+ENG	Captación Electrónica de Noticias	Técnica audiovisual y digital para la captación electrónica de noticias.
 ENT	otorrinolaringólogo
 EOG	electrooculograma
 EP	electrofisiológico
@@ -623,6 +634,7 @@ Friday	viernes
 Frigedüg	viernes
 Frisian	frisón
 FrontPage	PáginaFrontal
+Full HD	Alta Definición Total	Formato de resolución usado en la televisión de alta definición.  (Ver HD, HDTV y UHD).
 FunctionType	TipoFunción
 G	mil dólares
 GCE	Google Compute Engine
@@ -637,8 +649,12 @@ GOMER	get out of my emergency room
 GOP	Good Old Party	el Partido Republicano
 GP	General Practitioner	Médico General
 GPA	Grade Point Average
+GPRS	Servicio General de Paquetes vía Radio	Tecnología de emisión vía satélite por radioenlaces de segunda generación, también llamada 2G. (Ver AMPS, LTE-Advanced y UMTS).
 GPS	Sistema de Posicionamiento Global
+GPS	Sistema de Posicionamiento Global	Sistema que permite determinar en todo el mundo la posición de un objeto con alta precisión.
 GRC	global rating of change
+GRPS	Índice Bruto de Audiencia	Unidad de medida del número de exposiciones de una pauta publicitaria por cada cien personas de la población considerada público objetivo.
+GSM	Sistema Global para las comunicaciones Móviles	Sistema técnico mundial libre de regalías de telefonía móvil digital.
 GSWS	gunshot wounds
 GT	gran turismo
 GTEST	PRUEBAM
@@ -744,7 +760,9 @@ Gustav	Gustavo
 Guy	Guido
 Guyana	Guyana
 HCT	hematocrito
+HD	Alta Definición	Formato de imagen, vídeo o sonido con mayor resolución que la definición estándar. (Ver Full HD, HDTV y UHD).
 HDL	high density lipoprotein	colesterol bueno
+HDTV Televisión de Alta Definición	Formato que emite señales televisivas en una calidad digital superior a los sistemas tradicionales analógicos de televisión a color. (Ver Full HD, HD y UHD).
 HIV	VIH
 HIV	virus de la inmunodeficiencia humana
 HMO	health maintenance organization	seguro médico global
@@ -754,6 +772,7 @@ HOST_URL	URL_ANFITRIÓN
 HOW-ALIKE	QUÉ-PARECIDO
 HOWCOMPUTE	COMOCALCULA
 HRD	High Replication Datastore (Almacén de datos de alta replicación)
+HTML	Lenguaje de Marcas de Hipertexto	Lenguaje de marcado para la elaboración de páginas web.
 HTML Living Standard	lleno de vida Estándar HTML
 Habakkuk	Habacuc
 Hades	Hades
@@ -887,6 +906,8 @@ IPA	AFI
 IPG	implanted pulse generator	generador de pulsos implantado
 IPO	oferta pública inicial
 IRC	Internet Relay Chat
+ISBN	Número Estándar Internacional de Libros	Identificador único para libros, previsto para uso comercial.  (Ver ISSN).
+ISSN	Número Internacional Normalizado de Publicaciones Seriadas	Número internacional que permite identificar de manera única una colección. (Ver ISBN).
 IT	Information Tecnology
 IT	Tecnología de la información
 ITP	idiopathic trombocitopenic purpura	púrpura trombocitopénica idiopática
@@ -1086,8 +1107,10 @@ LDH	lactate dehydrogenase	lactato deshidrogenasa
 LET template	plantilla para LET
 LFT	liver function test
 LIFO	UEPS	Último en entrar, primero en salir
+LMDS	Sistema de Distribución Local Multipunto	Tecnología de conexión vía radio inalámbrica que distribuye señales a múltiples usuarios en un entorno local.
 LONGER-THAN	MAYOR-QUE
 LOOP template	plantilla para LOOP
+LTE-Advanced	Sistema Avanzado de Evolución a Largo Plazo	Tecnología de telecomunicación de alta velocidad, también llamada 4G. (Ver AMPS, GPRS y UMTS).
 LabeledValue	ValorEtiquetado
 Lady	Señora
 Lao	lao
@@ -1172,6 +1195,7 @@ MBA	Master of Business Administration
 MCP	Male Chauvinist Pig
 MFSC	multi-frequency sensitive camera
 MID-ADD1	CEN-SUMA1
+MMS	Servicio de Mensajería Multimedia	Estándar de mensajería que permite a los teléfonos móviles enviar y recibir contenidos multimedia, incorporando sonido, vídeo o fotos. (Ver e-mail, EMS y SMS).
 MP	Missing Persons
 MP3 player	reproductor de MP3
 MRI	resonancia magnética
@@ -1347,6 +1371,7 @@ NAS	network-attached storage
 NATO	OTAN
 NCIC	National Crime Information Center
 NCV	nerve conduction velocity
+NFC	Comunicación de Campo Cercano	Tecnología de comunicación inalámbrica, de corto alcance y alta frecuencia, que permite el intercambio de datos entre dispositivos. (Ver contactless payment).
 NGO	ONG
 NHS	National Health System	Sistema Nacional de Salud
 NOT-EQUAL	NO-EQUAL
@@ -1443,6 +1468,7 @@ NumberArray	ArregloNumerico
 NumberBox	CajaNumero
 Nuremberg	Núremberg
 Nyx	Nix
+OCR	Reconocimiento Óptico de Caracteres	Sistema de digitalización o reconocimiento óptico de textos.
 OD	overdose => sobredosis
 OJ	zumo de naranja
 OKGreeter	BuenSaludo
@@ -1500,9 +1526,13 @@ PE	pulmonary embolism
 PEA	pulseless electrical activity
 PEM	formato de archivo empleado para almacenar certificados digitales
 PHP	es un lenguaje de programación que se ejecuta en el servidor
+PIN	Número de Identificación Personal	Clave de acceso utilizada para confirmar una identidad en un sistema remoto. (Ver login y password).
+PLC	Comunicaciones mediante Línea de Potencia	Sistema de transmisión y recepción digital de información en banda ancha por enchufe a red eléctrica de baja tensión, a través de un decodificador.
 PMDS	persistent M'llerian duct syndrome	síndrome de persistencia de los tubos Mullerianos
 PMS	premenstrual syndrome	síndrome premenstrual
 POB	Post Office Box
+PPC	Pago Por Clic	Publicidad en internet donde se paga por clic.
+PPV	Pago Por Visión	Sistema de emisión televisiva en el que se paga por ver un determinado programa.
 PR	Public Relations	Relaciones Públicas
 PROLOG	Prolog
 PS	posdata
@@ -1675,6 +1705,9 @@ Ryazan	Riazán
 Réunion	Reunión
 SAG	gremio de actores
 SCHEME	Scheme
+SDTV	Definición Estándar de Televisión	Formato estándar de televisión digital. (Ver Full HD, HD, HDTV y UHD).
+SEM	Mercadotecnia en Buscadores Web	Posicionamiento pago en motores de búsqueda en internet. (Ver SEO).
+SEO	Optimización en Buscadores Web	Posicionamiento orgánico en motores de búsqueda en internet.  (Ver SEM).
 SIBO	small intestine bacterial overgrowth
 SIBO	sobrecrecimiento bacteriano en el instestino delgado, SBID
 SIDS	Sudden infant death syndrome	síndrome de muerte infantil súbita
@@ -1682,6 +1715,7 @@ SIM card	tarjeta SIM
 SLE	lupus eritematoso sistémico
 SMIE	SMIE	nodo
 SMIE setup	Configurar SMIE	nodo
+SMS	Servicio de Mensajes Cortos	Sistema de creación y transmisión de mensajes cortos de textos entre teléfonos celulares. (Ver e-mail, EMS y MMS).
 SNAFU	situation normal
 SOA	Service-Oriented Architecture (Arquitectura orientada a servicios)
 SOB.	son of a bitch	hijo de puta
@@ -1959,21 +1993,28 @@ TypedThree	TresTipado
 TypedTrue	CiertoTipado
 TypedZero	CeroTipado
 UBI	unexplained beer injury
+UCD	Diseño Centrado en el Usuario	Diseño de página web que se centra en el usuario, que pretende crear entornos que lo conecten a nivel emocional y experiencias que vayan más allá de los productos o servicios.
 UFFI	Interfaz de función extranjera universal
+UGC	Contenido Generado por los Usuarios	Cualquier tipo de contenido creado por los seguidores de una marca.
+UHD	Ultra Alta Definición	Formato que emite señales televisivas en una calidad de resolución 16 veces superior que la Alta Definición, que incluye las señales digitales 4K y 8K. (Ver Full HD, HD y HDTV).
+UMTS	Sistema Universal de Telecomunicaciones Móviles	Telefonía multimedia e inalámbrica de tercera generación por internet, también llamada 3G. (Ver AMPS, GPRS y LTEAdvanced).
 UN	ONU
 UNARY-GREATERP	UNARIO>P
 UNARY-ZEROP	ZERO-UNARIOP
 UNLESS template	plantilla para UNLESS
 UNOS	United Network for Organ Sharing
+URL	Localizador de Recursos Uniforme	Secuencia de caracteres que sigue un estándar y que permite denominar recursos dentro del entorno de internet para que puedan ser ubicados.
 URL Living Standard	llena de vida URL estándar
 US	Estados Unidos
 US Virgin Islands	Islas Vírgenes Americanas
 USA	EE. UU.
 USA	Estados Unidos
+USP	ventaja diferencial	Propuesta única o diferente de todos los competidores, de valor creado para el cliente.
 USSR	URSS
 UTC	Tiempo Universal Coordinado
 UTC	Universal Time Coordinated
 UX	experiencia de usuario
+UX	experiencia de usuario	Conjunto de factores y elementos relativos a la interacción del usuario con un entorno o dispositivo concreto.
 UX	user experience
 Uganda	Uganda
 Ukraine	Ucrania
@@ -2012,6 +2053,7 @@ VAS	Visual Analog Scale	Escala Analógica Visual
 VAT	IVA
 VCR	vídeo
 VEP	visual evoked potential	potencial visual evocado
+VHS	Sistema de Vídeo en Casa	Formato técnico de almacenamiento y visionado de imágenes y sonidos en soporte magnético.
 VICAP	Violent Criminal Apprehension Program
 VPS	servidor virtual privado
 VQ scan	escáner de ventilación-perfusión
@@ -2053,11 +2095,13 @@ Vé	Ve
 WAHR	auténtico
 WAHR	cierto
 WAHR	verdadero
+WAP	Protocolo de Aplicaciones Inalámbricas	Estándar abierto internacional para aplicaciones que utilizan comunicaciones inalámbricas.
 WARNING	IMPORTANTE
 WASM	WebAssembly
 WASP	white anglo-saxon protestant
 WATS	wide ara telephone service
 WBC	white blood cells
+WEP	Privacidad Equivalente a Cableado	Sistema de cifrado gratuito de transmisión y recepción de información inalámbrica con control de seguridad.
 WHATWG	Web Hypertext Application Technology Working Group
 WHEN template	plantilla para WHEN
 WML	similar a HTML, basado en XML y orientado para teléfonos móviles.
@@ -2306,6 +2350,8 @@ above	arriba
 above	más reciente
 above	superior
 above all	sobretodo
+above the fold	primer pantallazo	Anuncio publicitario colocado en la parte superior visible de
+above the line	sobre la línea	Acción publicitaria que se realiza en los medios de
 abridged	abreviada
 abridged	acortado
 abridged	condensado
@@ -2335,6 +2381,7 @@ abstain	abstenerse
 abstention	abstención
 abstinence	ayuno
 abstract	resumen
+abstract	resumen	Representación abreviada, objetiva y precisa del contenido de
 abstracted	abstraído
 abstracted	extraído
 abstraction	abstracción
@@ -2420,6 +2467,7 @@ accordingly	por lo tanto
 accordingly	tan
 accordion	acordeón
 account	cuenta
+account supervisor	supervisor de cuentas	Profesional de una agencia de publicidad cuya misión es
 account-number	número-de-cuenta
 account-numbers	números-de-cuenta
 account-of-bank-president	cuenta-bancaria-del-presidente
@@ -2503,6 +2551,7 @@ acyclic	acíclico	adj. Que tiene lugar de forma no cíclica: proceso acíclico.
 ad	anuncio
 ad	aviso
 ad	publicidad
+ad copy	texto publicitario	Redacción creativa que tiene como objetivo vender un producto
 ad hoc	ad hoc
 ad hoc	adecuado
 ad hoc	apropiado
@@ -2646,10 +2695,13 @@ adventurous	afortunado
 adventurous	aventurado
 adventurous	aventurero
 adverb	adverbio
+advergaming	publicidad en videojuego	Técnica que consiste en incluir una marca o un producto en un videojuego.
 adversary	adversario
 advertisement	anuncio
 advertising	publicidad
+advertising	publicidad	Divulgación de noticias o anuncios de carácter comercial para atraer a posibles compradores, espectadores o usuarios.
 advertising	publicitaria
+advertorial	publicidad editorial	Anuncio que apuesta a prestar la información diseñada de manera que se integra con el resto del periódico.
 advice	asesoramiento	(aviso es "warning" - "notice")
 advice	consejo
 advice-add	advice-add	función: como "add-function" pero para la función denominada SÍMBOLO.
@@ -2963,12 +3015,14 @@ amateur	aficionado
 amazement	asombro
 ambassador	embajador
 amber	ámbar
+ambient marketing	mercadotecnia ambiental	Conjunto de acciones que se funden con el entorno, utilizando elementos cotidianos como soporte de comunicación.
 ambigram	ambigrama
 ambition	ambición
 ambitious	ambicioso
 ambrosia	ambrosía
 ambulance	ambulancia
 ambush	emboscada
+ambush marketing	mercadotecnia de emboscada	Publicidad que aprovecha un evento de masas para ofrecer descuentos, regalar objetos de marca o impactar, con el único fin de generar viralidad.
 ameliorate	mejorar
 amending	corregir
 amending	enmendar
@@ -3058,6 +3112,7 @@ animated	animado
 animated	que tiene vida
 animated	vigoroso
 animated	vivo
+animatic	animático	Herramienta visual que mediante dibujos en movimiento intenta representar la secuencia que podría tener una pieza audiovisual.
 animating	animando
 animation	animación
 animations	animaciones
@@ -3196,6 +3251,7 @@ apostrophe	apóstrofo
 apothecary	farmacia
 apothecary	farmacéutico
 app	aplicación
+app	aplicación móvil	Programa informático diseñado como herramienta que permite al usuario realizar diversos trabajos en distintos soportes. (Ver smartphone).
 appID	idAp
 appName	nombreAp
 apparently	aparentemente
@@ -3425,6 +3481,7 @@ arsenic	arsénico
 arson	incendio
 arsonist	incendiario
 art	arte
+art	director director de arte	Profesional responsable de dirigir los equipos de diseño artístico y de producción en toda clase de obras que contengan aspectos visuales y/o sonoros.
 artery	arteria
 arthritis	artritis
 arthropod	artrópodo
@@ -3540,6 +3597,7 @@ assignment	asignación
 assignments	asignaciones
 assist	ayudar	(asistir es "attend")
 assist to ayudar a	(asistir es "attend")
+assistant	asistente	Ayudante o asesor de un área de la organización o consultoría de comunicación.
 assistant	ayudante
 assoc	assoc	función: devuelve un valor no nulo si CLAVE es igual al car de un elemento de LISTA-A.
 associated	asociadas
@@ -3591,6 +3649,7 @@ astronaut	astronauta
 astronomer	astrónomo
 astronomy	astronomía
 astrophysics	astrofísica
+astroturfing	estrategia de posverdad	Técnica comunicativa empleada por organizaciones que consiste en la creación de movimientos de base falsos que se utilizan para manipular y difundir todo tipo de información, influyendo a los periodistas y la opinión pública. (Ver lobbying).
 aswell	también
 asylum	asilo
 asynchronous	asíncrona
@@ -4069,6 +4128,8 @@ azure	azur
 azure	celeste
 azurite	azurita
 azymous	ázimo
+b2b	negocio a negocio	Comunicación referida desde una organización hacia otras organizaciones.
+b2c	negocio a consumidor	Comunicación referida desde las organizaciones hacia el consumidor.
 bSlice	sectorB
 baa	balar
 baa	balido
@@ -4122,6 +4183,7 @@ back in	de vuelta en
 back to	de nuevo a
 back-end	dorsal	(de un compilador - por ejemplo)
 back-end	interfaz de administración
+back-end	modo administrador	Área administrable de un sitio web en la que se crean y gestiona el contenido. Solo es accesible para el administrador o los usuarios autorizados. (Ver front-end).
 back-end	motor
 back-tick	comilla invertida
 back-up	copia de seguridad
@@ -4141,6 +4203,7 @@ background	adj. de segundo plano
 background	ambientación
 background	ambiente
 background	antecedente
+background	antecedentes	Antecedentes e historial de un producto o servicio, así como de una campaña de comunicación.
 background	educación
 background	escenario
 background	fondo
@@ -4159,6 +4222,7 @@ backlash	retroceso
 backlog	atrasos
 backlog	cartera
 backlog	leño en el fondo del hogar
+backlog	lista de tareas	Pedidos que aún no han sido entregados.
 backlog	pila de
 backlog	reserva
 backlog	retraso
@@ -4200,6 +4264,7 @@ backtracks	comillas invertidas
 backtracks	volver hacia atrás
 backtracks	volver por el mismo camino
 backtracks	volverse atrás
+backup	copia de seguridad	Respaldo de datos originales fuera de la infraestructura que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida.
 backup	copia de seguridad	es una medida imprescindible para prevenir errores graves del sistema la perdida de información.
 backup	respaldo
 backup files	archivos de copia de seguridad	nodo
@@ -4335,6 +4400,7 @@ banned	prohibido
 banned	vedado
 banner	anuncio
 banner	bandera
+banner	banderola digital	Espacio informativo o publicitario en internet que le aparece al usuario sin solicitarlo. (Ver above the fold).
 banner	estandarte
 banner	pancarta
 banner	pasquín
@@ -4375,6 +4441,7 @@ barren	infructuoso
 barren	seco
 barren	tierra yerma
 barren	árido
+bartering	intercambio publicitario	Intervención del anunciante en el contenido del programa televisivo mediante una producción audiovisual propia elaborada para su emisión.
 basalt	basalto
 base	basar
 base	base
@@ -4394,6 +4461,7 @@ based in	n función de
 based in	radicado en
 based in	sitio en
 based in	ubicado en
+baseline	frase comunicacional	Frase breve y expresiva que acompaña siempre a la marca en todos los soportes de comunicación que se utilizan para promocionarla. (Ver ad copy, body copy, copy, copywriter y slogan).
 baseline	línea base
 baseline	línea de arranque
 baseline	línea de saque
@@ -4653,6 +4721,7 @@ below	inferior
 below	más abajo
 below	más adelante
 below	por debajo
+below the	line bajo la línea	Acción publicitaria que se realiza fuera de los medios de comunicación convencionales: publicidad directa, publicidad exterior, promoción y relaciones públicas.
 belt	cinturón
 belt	correa
 bench	banco
@@ -5401,10 +5470,20 @@ brand	estigmatizar
 brand	estilo
 brand	hierro
 brand	marca
+brand	marca	Nombre que una empresa se da a sí misma o a sus productos o servicios. (Ver brand equity, brand impact y branding).
 brand	marcar
 brand	tildar
 brand	tipo
 brand	tizón
+brand awareness	consciencia de marca	Métrica que mide cuánto y cómo una marca es reconocida por los consumidores. (Ver brand recall, brand recognition y top of mind).
+brand equity	valor de marca	Valor que los consumidores perciben en una marca por sus características que la hacen notoria o superior a las demás. (Ver brand, brand impact y branding).
+brand funnel	embudo de marca	Modelo estratégico que analiza los atributos, beneficios o funciones, personalidad y esencia de la marca, dando como resultado una mayor oportunidad de negocio. (Ver big ideal, brand eye, brand idea, brand key y brand wheel).
+brand idea	idea de marca	Frase que cautiva a través de su significado evocador y resuelve tanto el problema de comunicación de la marca como el deseo de transmitir su esencia a los consumidores durante un largo periodo de tiempo. (Ver big ideal, brand eye, brand funnel, brand key y brand wheel).
+brand impact	impacto de marca	Impacto que las marcas tienen en sus diferentes mercados. (Ver brand, brand equity y branding).
+brand key beneficio clave	Modelo de posicionamiento que transmite la esencia de la marca a través de la decodificación de factores externos e internos del producto, servicio u organización. (Ver big ideal, brand eye, brand funnel, brand idea y brand wheel).
+brand recall	reconocimiento de marca	Capacidad de reconocer la marca como parte de una categoría.  (Ver brand awareness, brand recognition y top of mind).
+brand recognition	recuerdo de marca	Capacidad de recordar la marca por sus atributos o características. (Ver brand awareness, brand recall y top of mind).
+brand wheel	rueda de marca	Modelo estratégico empleado para resumir gráficamente la esencia de marca, sus ideas secundarias y el territorio que abarca. (Ver big ideal, bulls eye, brand funnel, brand idea y brand key).
 brand-new	flamante
 brandish	agitar
 brandish	blandir
@@ -5895,6 +5974,7 @@ broadcast	transmisión
 broadcaster	emisor
 broadcaster	locutor
 broadcasting	radiodifusión
+broadcasting	radiodifusión	Servicio de emisoras de señales de radio y televisión al público general.
 broadcasting	televisión
 broadcloth	paño negro que servía para prendas exteriores de abrigo
 broadcloth	velarte
@@ -6413,6 +6493,7 @@ bullish	disparatado
 bullock	buey joven
 bullpen	celda de detención
 bullring	plaza de toros
+bulls eye	tiro al blanco	Modelo estratégico utilizado para posicionar una marca partiendo de la ventaja competitiva hacia los valores y las razones para creer en la marca. (Ver big ideal, brand idea, brand funnel, brand key y brand wheel).
 bullshit	tontería
 bullshit	tonterías
 bully	amenazar
@@ -6769,6 +6850,8 @@ bury	enterrar
 bus	autobús
 bus	bus
 bus	llevar en autobús
+bus mailing	buzoneo multitemático	Técnica de mercadotecnia directa que consiste en enviar varios mensajes comerciales diferentes en el mismo soporte impreso o digital, con repartición de costes entre las organizaciones participantes. (Ver mailing).
+bus phoning	telefoneo multitemático	Técnica de mercadotecnia telefónica que consistente en preguntar a un determinado público sobre varios temas que resultan de interés para diferentes organizaciones. (Ver telemarketing).
 bus station	estación de autobús
 bus stop	parada de autobús
 busboy	ayudante de camarero
@@ -6918,6 +7001,7 @@ buzz	zumbar
 buzz	zumbido
 buzz kill	aguafiestas
 buzz kill	estropear un buen momento
+buzz marketing	mercadotecnia de rumores	Interacción de los consumidores y usuarios sobre un producto o servicio, aprovechando los rumores que se propagan rápidamente. (Ver marketing).
 buzz off	largarse
 buzz off	rajarse
 buzz-saw	sierra circular
@@ -7002,6 +7086,8 @@ byword	refrán
 byword	sinónimo
 c integer types	tipos integer C	nodo
 c-supplied-p	c-suplido-p
+c2b	consumidor a negocio	Comunicación referida desde el consumidor a la organización.
+c2c	consumidor a consumidor	Comunicación referida entre consumidores de una o varias organizaciones.
 ca	autoridad certificadora
 cab	cabina
 cab	taxi
@@ -7094,6 +7180,7 @@ call	visita
 call	visitar
 call by reference	llamada por referencia
 call by value	llamada por valor
+call center	centro de llamadas	Se trata de la oficina donde un grupo de personas específicamente entrenadas se encarga de brindar algún tipo de atención o servicio telefónico.
 call for papers	artículos
 call for papers	comunicaciones
 call for papers	solicitud o petición de ponencias
@@ -7375,6 +7462,7 @@ cast iron	hierro fundido
 cast of thousands	elenco de miles
 cast of thousands	reparto de miles
 caste	casta
+casting	castin	Selección de profesionales para realizar un rodaje o grabación publicitaria.
 casting	derretimiento
 casting	fundición
 casting	fusión
@@ -7688,6 +7776,7 @@ check	revisar
 check	verificación
 check	verificar
 check in	registro
+check list	lista de control	Repertorio que enumera todos los apartados que deben verificarse en alguna de las fases de un proyecto de una organización.
 check out	Confirmar
 check out	controlar
 check out	cotejar
@@ -7807,6 +7896,7 @@ chicken	gallina
 chicken	pollo
 chickenpox	varicela
 chickpea	garbanzo
+chief communications officer	director de comunicación	Profesional que se encarga de gestionar la comunicación de la organización. Según el país y el contexto, el CCO puede ser también llamado gerente, director, coordinador o jefe de comunicación.
 chiefly	fundamentalmente
 chiefly	principalmente
 chiefly	sobre todo
@@ -8075,7 +8165,9 @@ clipboard	portapapeles
 clipped	recorte
 clipping	recortando
 clipping	recortar
+clipping	recorte	Seguimiento periódico en los medios de comunicación para el posterior recorte impreso y digital de informaciones, noticias y estadísticas que afectan a una determinada organización. (Ver monitoring).
 clitoris	clítoris
+cloacking	encubrimiento	Método de programación que determina si el visitante de una página web es un robot o una persona. (Ver bot).
 clobber	aporrear
 clobber	de una paliza
 clobber	golpear
@@ -8121,6 +8213,7 @@ clothes peg	pinza de tender
 clothing	ropa
 cloud	nube
 cloud computing	computación en la nube
+cloud computing	computación en la nube	Servicios de computación en internet. (Ver grid computing).
 cloud-based	basado en la nube
 cloudberry	mora de los pantanos
 cloudy	nublado
@@ -8162,12 +8255,15 @@ clutch	cartera
 clutch	cloch
 cmyk	Cyan Magenta Yellow Key	CMYK es un modelo de colores basado en los diferentes niveles del Cyan, Magenta y Amarillo
 cname	Canonical Name	Un CNAME es un alias del hostname
+co-branding	asociación de marcas	Unión de las fuerzas de dos marcas para ofrecer un producto o un servicio en conjunto, e impulsar su valor y rentabilidad. (Ver joint venture).
 co-mother-in-law	consuegra
+co-sourcing	colaboración de terceros	Proceso de negocio que es llevado a cabo por trabajadores internos y recursos externos que tienen un conocimiento especializado. (Ver outsourcing).
 co-star	coestrella
 coach	coche
 coach	entrenador
 coach	entrenar
 coach	vagón
+coaching	entrenamiento ejecutivo	Método que consiste en acompañar, instruir y entrenar a la dirección de una organización con el objetivo de desarrollar habilidades específicas.
 coachman	cochero
 coal	carbón
 coal	cisco
@@ -8254,6 +8350,7 @@ cold	frío
 cold	resfriado
 cold frame	vivero
 cold fusion	fusión fría
+cold list	lista fría	Conjunto de fichas de individuos o grupos sin antecedentes de compra.
 cold store	instalación frigorífica
 cold turkey	mono
 cold turkey	síndrome de abstinencia
@@ -8437,9 +8534,14 @@ common wheat	trigo blando
 commonCase	casoComun
 commonsense reasoning	razonamiento con sentido común
 commonwealth	comunidad
+communication mix	comunicación combinada	Combinación de diferentes medios informativos y publicitarios para transmitir mensajes.
+communication offline	comunicación sin conexión	Comunicación ofrecida a los usuarios a través de afiches, volantes y productos derivados. (Ver communication online).
+communication on demand	comunicación bajo demanda	Comunicación solicitada por un cliente en función de sus necesidades e intereses. (Ver video on demand).
+communication online	Comunicación en línea	Comunicación ofrecida a los usuarios a través de soportes digitales. (Ver communication offline).
 communism	comunismo
 communist	comunista
 community	comunidad
+community manager	responsable de redes sociales	Profesional de una organización cuyas funciones son gestionar, potenciar y fomentar la actividad e interactividad entre los usuarios de las distintas comunidades virtuales.
 community outreach	encuentro comunitario
 community repositories	repositorios de la comunidad
 compactness	compacidad
@@ -8568,6 +8670,7 @@ computer science education	educación en ciencias de la computación
 computer virus	virus
 computer-move	computadora-juega
 comrade	camarada
+comunicación convencionales: periódico, revista, radio,
 concatenate	concatena
 concatenate	concatenan
 concatenate	concatenar
@@ -8581,6 +8684,7 @@ concentrated milk	leche concentrada
 concentrated product	producto concentrado
 concentration camp	campo de concentración
 concept	concepto
+concept board	guion conceptual	Herramienta de investigación que consiste en la articulación de palabras e imágenes que ilustran una estrategia de comunicación o una idea de producto o servicio. (Ver key visual, mood board y storyboard).
 conceptually	conceptualmente
 concern	asunto
 concerned	afectados
@@ -8790,6 +8894,9 @@ constructs	construcciones
 consul	cónsul
 consulate	consulado
 consumer	consumidor
+consumer benefit	beneficio del consumidor	Beneficio que se ofrece al consumidor en un anuncio publicitario.
+consumer empowerment	consumidor empoderado	Consumidor con el poder de interferir en el desarrollo de un producto o un servicio basándose en sus necesidades y deseos.
+consumer insight	aspectos ocultos del consumidor	Revelación de la forma de pensar, sentir o actuar de los consumidores que generan oportunidades de nuevos productos y estrategias de comunicación para las organizaciones. (Ver insight).
 consumption	consumir
 consumption	consumo
 contact	contactar
@@ -8797,6 +8904,7 @@ contact	contacto
 contact lens	lentes de contacto
 contact us	contáctanos
 contactless	sin contacto
+contactless payment	pago sin contacto	Sistema de pago sin contacto que permite realizar una compra mediante tecnologías de identificación por radiofrecuencia incorporadas en diferentes soportes y dispositivos. (Ver NFC).
 contagion	contagio
 contain	encerrar
 contained	contenida
@@ -8834,6 +8942,7 @@ contortion	contorsionismo
 contortion	contorsión
 contortion	retorcimiento
 contour	contorno
+contrabriefing	validación del documento base	Proceso en el que el profesional de comunicación revisa y evalúa la información que se le ha suministrado en el documento base y determina si el encargo es o no viable. (Ver brief y briefing).
 contract	contrato
 contradict	contradecir
 contradiction	contradicción
@@ -8935,6 +9044,7 @@ cooler	nevera
 cooler	refrigerador
 cooler	refrigerante
 coolhunter	buscatendencias
+coolhunter	cazador de tendencias    Profesional de la mercadotecnia y/o publicidad cuya misión es realizar estudios de tendencias vinculadas al consumo de productos o servicios.
 coolhunter	cazatendencias
 cooperate	cooperar
 cooperation	cooperación
@@ -8961,6 +9071,7 @@ copy	copiar
 copy	ejemplar
 copy	imitar
 copy	recibir
+copy	texto creativo	Texto realizado por el redactor creativo que tiene relación con los aspectos gráficos o pictóricos en una publicación. (Ver ad copy, baseline, body copy, copywriter y slogan).
 copy writing	redacción
 copy writing	redacción de texto publicitario
 copy writing	redacción publicitaria
@@ -8968,10 +9079,13 @@ copy-abbrev-table	copy-abbrev-table	función: creea una nueva tabla de abreviatu
 copy-list	copia-lista	función imaginaria
 copy-seq	copia-de-secuencia
 copying	proceso de copia
+copyright	derecho de autor	Ejemplar oficial de una producción impresa, digital o audiovisual con derecho a su reproducción. (Ver Creative Commons).
 copyright	derechos de autor	derecho de explotación o reproducción de una obra intelectual, artística o científica
 copyright	derechos de edición
 copywriter	copista
 copywriter	redactor
+copywriter	redactor creativo	Estratega que tiene la responsabilidad sobre la idea de la campaña y los textos creativos que se van a comunicar. (Ver ad copy, baseline, body copy, copy y slogan).
+copywriter y slogan).
 cor anglais	corno inglés
 coral	coral
 core	alma
@@ -8979,6 +9093,7 @@ core	central
 core	memoria (solo en algunos contextos como in-core - core dump)
 core	núcleo
 core	principal
+core business	competencia distintiva	Se refiere a aquella actividad capaz de generar valor y que resulta necesaria para establecer una ventaja competitiva beneficiosa para la organización.
 coriander	cilantro
 cork	corcho
 corkscrew	sacacorchos
@@ -9118,6 +9233,7 @@ cover	portada
 cover	proteger
 cover	sabana
 cover	tapa
+cover	versión	Es una nueva interpretación de una canción grabada previamente por otro artista.
 covered	se aborda
 covered	se cubre
 coverp	cubierrtop
@@ -9129,6 +9245,9 @@ cowardice	cobardía
 cowbell	cencerro
 cowboy	vaquero
 coworker	compañero de trabajo
+coworking	cotrabajo
+coworking	trabajo compartido	Forma de trabajar que une a dos o más profesionales u organizaciones.
+coworking	trabajo cooperativo	Forma de trabajo que posibilita a profesionales independientes, emprendedores y pequeñas empresas de diferentes sectores compartir un mismo espacio de trabajo, tanto físico como virtual, para desarrollar proyectos independientes o conjuntos.
 cows milk cheese	queso de leche de vaca
 coy	evasivo
 coy	recatado
@@ -9143,6 +9262,7 @@ crack	invadir
 crack	penetrar
 crack	ángel de la muerte
 cracker	cracker
+cracker	cráker	Persona con sólidos conocimientos informáticos capaz de introducirse sin autorización en sistemas ajenos con fines delictivos. (Ver hacker, pharming y phishing).
 cracker	es aquella persona que utiliza la tecnología con fines maliciosos. De la Cueva ha resaltado que el hacker es creativo y constructivo y disfruta averiguando cómo funcionan las cosas, mientras que el cracker destruye y hace daño.
 cracker	maleante informático
 cradle	cuna
@@ -9315,11 +9435,13 @@ cross hair	punto de mira
 cross site scripting	explotación de vulnerabilidades del sistema
 cross-browser	entre navegadores
 cross-browser	multinavegador
+cross-channel strategy	estrategia multicanal	Estrategia que posibilita que un cliente experimente y combine distintos canales en un proceso de compra. (Ver experiential marketing y tryversiting).
 cross-cutting	intersectorial
 cross-cutting	omnipresente
 cross-cutting	transversal
 cross-group (XG)	grupos cruzados (GX)
 cross-group (XG) transaction	transacción de grupos cruzados (GX)
+cross-media marketing	mercadotecnia de multimedios	Estrategia en la que se utilizan diferentes canales, medios y soportes para lanzar un mismo mensaje.
 cross-origin resource sharing	intercambio de recursos de origen cruzado
 cross-platform	independiente de la plataforma
 cross-platform	multiplataforma
@@ -9349,6 +9471,7 @@ crowd	multitud de hombres
 crowd	multitud de personas
 crowd	público
 crowded	concurrido
+crowfunding	micromecenazgo	Mecanismo colaborativo que demanda fondos, recursos o donaciones privadas para su posterior utilización en proyectos. (Ver fundraising).
 crown	corona
 crown	coronar
 crown	coronilla
@@ -10142,6 +10265,7 @@ deaden	calmar
 deadens	debilita
 deadfall	trampa con un peso que cae al retirar el soporte
 deadhead	el que tiene pase
+deadline	plazo de entrega	Fecha límite para la finalización de un proyecto. (Ver timing).
 deadlock	abrazo mortal
 deadlock	callejón sin salida
 deadlock	interbloqueo
@@ -11440,6 +11564,7 @@ design	diseño
 design	objetivo
 design	plan
 design	propósito
+design thinking	pensamiento de diseño	Metodología para crear productos y servicios que centra su eficacia en entender y dar solución a las necesidades reales de los clientes o usuarios.
 designate	designar
 designate	nombrar
 designated hitter	bateador sustituto
@@ -11486,6 +11611,7 @@ desk	pupitre
 desktop	escritorio
 desktop	sobremesa
 desktop save mode	modo desktop save	nodo
+desktop video	mesa de montaje	Tecnología que permite magnética o digitalmente todo tipo de combinaciones normalizadas de imágenes y sonidos.
 desolate	afligido
 desolate	desolado
 desolate	desolador
@@ -12524,6 +12650,7 @@ discount	bonificación
 discount	descartar
 discount	descontar
 discount	descuento
+discount	descuento publicitario	Disminución que concede el medio de comunicación al anunciante o a la consultora sobre el importe total o parcial de la inversión publicitaria realizada.
 discount	rebaja
 discount	rebajar
 discount	reducir
@@ -12947,6 +13074,7 @@ displaced	destituido
 displaced	quitado el puesto a
 displaced	sacado de su sitio
 display	abrir
+display	caja expositora	Soporte físico que sirve para exhibir una muestra publicitaria de una organización. (Ver stopper).
 display	demostrar
 display	desplegar
 display	exhibir
@@ -13975,6 +14103,7 @@ double-entendre	equívoco
 double-entendre	frase ambigua
 double-list	lista-doble
 double-o	examen minucioso
+double-struck	doble golpe
 double-talk	palabras insinceras
 doubleArray	dobleArreglo
 doublemint	gemelos diabólicos
@@ -14577,6 +14706,7 @@ drop	caída
 drop	dejar
 drop	dejar caer
 drop	descenso
+drop	difuminada
 drop	gota
 drop	lanzamiento
 drop	marchitarse
@@ -15068,13 +15198,17 @@ détente	distensión
 e	éxtasis
 e-book	libro digital
 e-book	libro electrónico
+e-book	libro electrónico	Versión digital de un libro. (Ver e-reader).
 e-commerce	cibercomercio
 e-commerce	comercio electrónico
+e-commerce	comercio electrónico	Transacción de bienes y servicios a través de medios informáticos. (Ver m-commerce y s-commerce).
 e-mail	correo electrónico
+e-mail	correo electrónico	Sistema de transmisión personal de mensajes digitales a través de diferentes soportes tecnológicos conectados a internet.
 e-mail	correoᵉ
 e-mail message	mensaje (electrónico)
 e-mailing	enviar por correoᵉ
 e-reader	lector de libros electrónicos
+e-reader	lector de libros electrónicos	Aparato que permite leer la versión digital de un libro.  (Ver e-book).
 e-reader	lector electrónico
 e.g	p. ej.
 e.g.	por ejemplo
@@ -16472,6 +16606,7 @@ engaged	comprometido
 engaged	ocupado
 engaged	prometido
 engagement	compromiso
+engagement	enganchamiento	Participación que las marcas buscan de sus consumidores.
 engagement	noviazgo
 engaging	atractivo
 engaging	contagioso
@@ -17916,6 +18051,7 @@ experienced	experimentado
 experienced	experto
 experienced	práctico
 experienced	vivido
+experiential marketing	mercadotecnia experiencial	Se basa en que un cliente elige un producto o servicio por la vivencia que se le ofrece antes de la compra y durante su consumo.
 experiment	experiencia
 experiment	experimentar
 experiment	experimento
@@ -18296,6 +18432,7 @@ exurb	comunidad próspera situada a las afueras de una ciudad
 eye	mirar
 eye	ojo
 eye tooth	colmillo
+eye tracking	seguimiento visual	Método para medir y mejorar la usabilidad de un sitio web a través del análisis del movimiento de ojos que realiza una persona cuando obtiene información de la pantalla.
 eye up	comerse con la mirada
 eye-catching	llamativo
 eyeball	globo ocular
@@ -18515,6 +18652,7 @@ fair	imparcial
 fair	justo
 fair	rubio
 fair game	blanco
+fair play	juego limpio	Comportamiento leal y correcto en la comunicación de una organización.
 fair-coin	volado-justo
 fair-headed	rubio
 fair-sized	bastante grande
@@ -18821,6 +18959,8 @@ fanion	banderola
 fanlight	abanico
 fanmail	cartas escritas por admiradores
 fanny	culo
+fanpage	página de seguidores	Red social de Facebook destinada a las empresas o personas emprendedoras que desean comunicar sus productos y servicios. Permite una interacción con sus seguidores y captar nuevos clientes.
+fansite	web de seguidores	Sitio web creado y mantenido por una persona interesada en una organización, producto o servicio.
 fantail	cola de milano
 fantail	cola en forma de abanico
 fantail	paloma colipava
@@ -18851,6 +18991,7 @@ fantasy	ensueño
 fantasy	fantasía
 fantasy	humor
 fanzine	fanzine
+fanzine	revista para fanáticos	Publicación temática realizada por y para aficionados.
 faq	Frequently Asked Questions	FAQ son un listado de preguntas y respuesta más comunes de una aplicación
 faq	preguntas frecuentes
 far	a distancia
@@ -19349,6 +19490,7 @@ federation	liga
 fedora	sombrero flexible
 fedora	sombrero tirolés
 fee	cuota
+fee	cuota	Contrato anual de pago segmentado por actividad o servicio realizado a una organización.
 fee	derechos
 fee	dominio
 fee	gratificación
@@ -19405,6 +19547,7 @@ feedback	reacciones
 feedback	realimentación
 feedback	regeneración
 feedback	retroalimentación
+feedback	retroalimentación	Toda respuesta o reacción relevante que el receptor envía al emisor de un mensaje.
 feeder	afluente
 feeder	alimentador
 feeder	babero
@@ -20160,6 +20303,7 @@ fin	barba
 fin	brazo
 fin	mano
 fin	rebaba
+fin, como informar o entretener. (Ver baseline, body copy, copy,
 fin-footed	palmeado
 finagle	conseguir con chanchullos
 finagle	engañar
@@ -20686,6 +20830,7 @@ flabby	flojo
 flabby	fofo
 flaccid	blanducho
 flaccid	débil
+flack	agente de comunicación	Especialista en generar información o publicidad para eventos de una organización.
 flack	to take the flack	escuchar las quejas
 flag	bandera
 flag	decaer
@@ -21807,6 +21952,7 @@ focus	distancia focal
 focus	enfocar
 focus	enfoque
 focus	foco
+focus group	grupo focal	Reunión con un grupo de personas dirigidas por un moderador que permite obtener opiniones, ideas o sugerencias sobre un determinado tema. (Ver test).
 focus on	enfocar
 focusable	enfocable
 focusable	pueda recibir el foco
@@ -21996,6 +22142,7 @@ follower	imitador
 follower	partidario
 follower	secuaz
 follower	seguidor
+follower	seguidor	Alguien que sigue a otra persona en una determinada red social y por lo tanto puede ver las publicaciones que realiza.
 followers	comitiva
 followers	séquito
 following	acompañamiento
@@ -22996,6 +23143,7 @@ fraim	extranjero
 fraim	extraño
 fraim	poco amigable
 fraise	frisa
+fraktur	fractura
 fram	de
 fram	hacia
 frame	ajustar
@@ -23016,6 +23164,7 @@ frame	expresar
 frame	fabricar
 frame	formular
 frame	fotograma
+frame	fotograma	Cada una de las imágenes instantáneas en las que se divide una película de cine que provocan la sensación de movimiento al ser secuencialmente proyectadas.
 frame	idear
 frame	incriminar
 frame	marco
@@ -23192,6 +23341,7 @@ free-for-all	pelea
 free-range	de granja
 free-standing	independiente
 freebie	gratuito
+freebie marketing	mercadotecnia con regalo	Estrategia en la que se regala un complemento de una mercancía para que los consumidores adquieran el producto por completo.
 freebooter	filibustero
 freebooter	pirata
 freedman	liberto
@@ -23212,6 +23362,7 @@ freehold	propiedad absoluta
 freelance	autónomo
 freelance	independiente
 freelance	ir por libre
+freelance	trabajador autónomo	Profesional que trabaja de manera libre o independiente.
 freelance	trabajar por libre
 freelancer	persona que trabaja por cuenta propia
 freeloader	gorrón
@@ -23501,6 +23652,7 @@ front end	interfaz
 front man	portavoz
 front row	primera fila
 front-end	frontal (de un compilador, por ejemplo)
+front-end	interfaz de usuario	Parte del software que interactúa con los usuarios. (Ver back-end).
 front-runner	favorito
 front-stairs	escalera-frontal
 front-wheel drive	vehículo de tracción delantera
@@ -23957,6 +24109,7 @@ fundamentalist	fundamentalista
 fundamentalist	integrista
 funden	participio pasado de fundan
 funding	financiación
+fundraising	captación de fondos	Planificación estratégica con la finalidad de obtener fondos, recursos o donaciones privadas para su posterior utilización en entidades no lucrativas. (Ver crowfunding).
 funeral	(funeral es "memorial service")
 funeral	entierro
 funeral	funeraria
@@ -24502,6 +24655,7 @@ gate	puerta
 gate	recaudación
 gate	reja
 gate	verja
+gate keeper	editor	Profesional que con poder de decisión elige el material que se difundirá públicamente.
 gateau	tarta con nata
 gatecrash	colarse
 gatecrasher	colado
@@ -24891,6 +25045,7 @@ geomancy	adivinación de rasgos geográficos
 geometric	geométrico
 geometry	geometría
 georgette	crespón de seda muy fino
+geotargeting	geofocalización	Técnica que permite identificar la localización geográfica de un usuario que abre un correo electrónico, para de esta manera ofrecerle una experiencia personalizada. (Ver GPS).
 geq	maoig
 geranium	geranio
 gerbil	jerbo
@@ -26230,6 +26385,7 @@ greenish	verdoso
 greens	legumbres
 greens	verduras
 greensward	césped
+greenwashing	ecoblanqueamiento	Cambio de comportamiento social y comunicativo que las empresas realizan controlando las actividades de las Organizaciones No Gubernamentales con las que mantienen copatrocinios sociales.
 greet	bienvenida
 greet	dar la bienvenida
 greet	recibir
@@ -26266,6 +26422,7 @@ grid	cuadrícula
 grid	red
 grid	reja
 grid	rejilla
+grid computing	computación en malla	Tecnología que permite utilizar de forma coordinada recursos heterogéneos que no están sujetos a un control centralizado, con independencia del lugar donde se encuentren. (Ver cloud computing).
 griddle	plancha
 gridiron	campo de rugby americano
 gridiron	parrilla
@@ -26809,6 +26966,7 @@ guerdon	premiar
 guerdon	premio
 guerilla	guerrilla
 guerilla	guerrillero
+guerrilla marketing	mercadotecnia de guerrilla	Conjunto de estrategias y técnicas ejecutadas por medios no convencionales y sin realizar una alta inversión publicitaria, que consiguen su objetivo a partir del ingenio y la creatividad.
 guess	adivinar
 guess	conjetura
 guess	creer
@@ -27301,6 +27459,7 @@ hackee	ardilla
 hacker	es un investigador que quiere aprender el funcionamiento de los sistemas sin que haya en ello ninguna finalidad delictiva, según el responsable de tecnología de Symantec en España, César Cid. Por su parte, el abogado especialista en nuevas tecnologías Javier de la Cueva ha matizado que el hacker no tiene por qué estar relacionado con los ordenadores, ya que es la persona que 'da una respuesta brillante a una pregunta inteligente'. En este sentido, ha asegurado que el médico Christian Barnard hackeó la cirugía del corazón cuando realizó el primer trasplante. En el ámbito de las TIC, el abogado ha citado internet y el software libre como herramientas construidas por hackers.
 hacker	experto en informática
 hacker	genio informático
+hacker	háker	Persona con sólidos conocimientos informáticos capaz de introducirse sin autorización en sistemas ajenos. (Ver cracker, pharming y phishing).
 hackers	expertos en informática
 hackers	genios informáticos
 hackery	carro de bueyes que se usa en la India
@@ -28282,6 +28441,7 @@ hash-values	valores-hash
 hashes	codificadas
 hashish	hachís
 hashsign	signo de hash
+hashtag	etiqueta	Palabra, frase o grupo de caracteres alfanuméricos que se emplea en las redes sociales para agrupar varios mensajes sobre un mismo tema; se identifica fácilmente, ya que inicia con el símbolo #.
 haslet	asadura de cerdo
 hasp	cerrojo
 hasp	cierre
@@ -28552,6 +28712,7 @@ headless	sin jefe
 headlight	faro
 headlight	farol de tope
 headline	titular
+headline	titular	Título de un texto informativo o frase que sirve de titular en un anuncio publicitario.
 headline	título
 headlong	de bruces
 headlong	impetuoso
@@ -28773,6 +28934,7 @@ heat	eliminatoria
 heat	excitar
 heat	fogosidad
 heat	temperatura
+heat mapping	mapa de calor	Herramienta que permite obtener una visión instantánea sobre el nivel visitas que tiene cada componente y contenido de la web.
 heat pump	bomba de calor
 heat up	calentar
 heat-resisting materials	material refractario
@@ -28875,6 +29037,7 @@ heavy	tupido
 heavy	violento
 heavy metal	metal pesado
 heavy oil	aceite pesado
+heavy users	usuarios intensivos	Individuos que acceden a la red de manera continua y consumen sus servicios en numerosas cantidades.
 heavy-duty	de larga duración
 heavy-duty	resistente
 heavy-duty	sólido
@@ -29479,6 +29642,7 @@ high forest	monte alto
 high gear	cuarta velocidad
 high noon	el momento cumbre
 high noon	el momento preciso
+high profile	perfil alto	Elevado nivel de audiencia en los medios de comunicación.
 high school	secundaria
 high-card	naipe-superior
 high-class	de mucha categoría
@@ -29698,6 +29862,7 @@ hit	pegar
 hit	tiro certero
 hit	tocar
 hit	éxito
+hit	éxito	Número uno en ventas o visualizaciones.
 hit back	devolver el ataque
 hit it off	llevarse bien
 hit off	caerse bien
@@ -30026,6 +30191,7 @@ home page	página base
 home page	página frontal
 home page	página inicial
 home page	página principal
+home page	página principal	Portada inicial que aparece cuando se visita una web.
 home page	página raíz
 home room	sala de clase
 home-made	casero
@@ -30459,6 +30625,7 @@ hospitaller	hospitalero
 hospitaller	miembro de una orden hospitalaria
 hoss	amigo
 host	actuar de anfitrión
+host	alojamiento web	Servicio que provee a los usuarios de internet un sistema para poder almacenar información vía web.
 host	anfitrión
 host	congreso
 host	equipo
@@ -30490,6 +30657,7 @@ hostile	hostil
 hostility	hostilidad
 hosting	alojamiento
 hosting	hospedaje
+hosting	hospedaje web	Servidor informático que se encarga de guardar una página web y todo su contenido para que sea accesible en internet.
 hostler	mozo de cuadra
 hostname	nombre del servidor
 hostname	nombre-anfitrión
@@ -30515,8 +30683,10 @@ hot	sensual
 hot chocolate	chocolate caliente
 hot cross bunch	bollo a base de especias y pasas marcado con una cruz que se come el Viernes Santo
 hot dog	perrito caliente
+hot line	línea caliente	Teléfono de contacto directo que ofrece una información importante hacia una organización.
 hot line	teléfono de asistencia
 hot line	teléfono de emergencia
+hot spot	zonas calientes	Selecciones puntuales de una imagen que se convierten en botón.
 hot tub	bañera de hidromasaje
 hot tub	jacuzzi
 hot-blooded	apasionado
@@ -30603,6 +30773,7 @@ house arrest	detención de la casa
 house manager	empresario teatral
 house mouse	ratón casero
 house music	house
+house organ	revista interna	Publicación periódica gratuita realizada por el departamento de comunicación de una organización para informar internamente a sus empleados, fomentar su participación e incrementar el sentido de pertenencia de cada uno de ellos. (Ver newsletter).
 house painter	pintor de brocha gorda
 house party	grupo de invitados
 house physician	médico interno
@@ -31170,6 +31341,7 @@ hypermetropia	hipermetropía
 hypersensitive	muy sensible
 hypertension	hipertensión
 hypertext	hipertexto
+hypertext	hipertexto	Sistema para escribir y mostrar texto que enlaza a información adicional sobre ese texto.
 hypertrophy	hipertrofia
 hypha	hifa
 hyphen	división
@@ -31944,6 +32116,7 @@ in order	en regla
 in order to	a fin de
 in other words	en otras palabras
 in outline	en resumen
+in pack	en paquete	Premio, cupón o vale de descuento que se encuentra en el interior del envase de un producto. (Ver kicker).
 in pairs	de dos en dos
 in person	en persona
 in point of	en cuanto
@@ -32693,6 +32866,7 @@ influence	inducción
 influence	influencia
 influence	influir
 influence	influjo
+influencer	influidor	Persona con conocimiento, prestigio y presencia en ámbitos en los que sus opiniones pueden influir en el comportamiento de muchas personas. (Ver instagramer).
 influential	influyente
 influenza	gripe
 influenza	influenza
@@ -33250,6 +33424,7 @@ insight	penetración
 insight	percepción
 insight	perspicacia
 insight	revelación
+insight	revelación	Descubrimiento de una percepción con respecto a un problema, dando como resultado una nueva comprensión sobre el mercado. (Ver consumer insight).
 insight	visión interna
 insightful	penetrante
 insightful	perspicaz
@@ -33299,6 +33474,7 @@ inspire	inspirar
 inspired	inspirado
 inst	de los corrientes
 instability	inestabilidad
+instagramer	influidor en Instagram	Usuario de la red social Instagram que es captado por marcas comerciales para promocionar productos y servicios a su comunidad de seguidores. (Ver influencer y youtuber).
 install	instalar
 installability	instalable
 installation	instalación
@@ -33531,6 +33707,7 @@ interested	interesado
 interesting	interesante
 interestingly	curiosamente
 interface	(la) interfaz
+interface	interfaz	Mecanismo que conecta informática o digitalmente equipos compatibles e incompatibles.
 interfacing	interactuar
 interfacing	interconexión
 interfacing	interfaz
@@ -33612,6 +33789,7 @@ intersperse	esparcir
 interspersed	intercalados
 interstate	carretera nacional
 interstate	ruta
+interstitial	cortinilla	Formato publicitario interactivo que aparece ocupando casi toda la pantalla cuando se ingresa a un sitio web.
 interstitial	intersticial
 intertwine	entrelazar
 intertwined	interrelacionadas
@@ -33624,6 +33802,7 @@ intervene	intervenir
 intervening	intermedio
 intervention	intervención
 interview	entrevista
+interview	entrevista	Género informativo en modalidad del reportaje y con reproducción de la declaración directa del entrevistado.
 interview	entrevistar
 interviewer	entrevistador
 interweave	entretejer
@@ -33673,6 +33852,7 @@ intractable	obstinado
 intractable	rebelde
 intramedullary nailstrod	clavo quirúrgico
 intranet	intrarred
+intranet	red interna	Red digital que interconecta internamente los ordenadores de una organización para recibir y enviar información desde un determinado punto emisor.
 intransigent	intransigente
 intransitive	intransitivo
 intransitive verb	verbo intransitivo
@@ -34716,6 +34896,7 @@ jingle	sonaja
 jingle	sonido metálico
 jingle	tintinear
 jingle	tintineo
+jingle	yingle	Pieza de música compuesta para acompañar los anuncios de publicidad y que se caracteriza por ser de corta duración y fácil de recordar. (Ver spot).
 jingo	patriotería exaltada
 jingoism	patriotería
 jinnee	genio mahometano
@@ -36676,6 +36857,7 @@ leach	colar la ropa
 lead	cabeza
 lead	cable
 lead	conducir
+lead	contacto	Persona u organización que ha demostrado interés en la oferta de la marca completando una solicitud con información adicional.
 lead	dirección
 lead	ejemplo
 lead	guiar
@@ -36690,6 +36872,7 @@ lead	traílla
 lead	ventaja
 lead on	engañar
 lead on	vamos
+lead scoring	calificación de contactos	Técnica de marketing automatizada que tiene como objetivo calificar a los clientes potenciales de una base de datos en función de su grado de proximidad con el cliente ideal.
 lead time	margen de tiempo
 lead up	conducir
 lead up	llevar
@@ -37155,6 +37338,7 @@ leisurely	lento
 leisurely	pausado
 leisurely	sin prisas
 leisurely	sosegado
+leitmotiv	tema central	Tema principal o recurrente en una pieza publicitaria que sirve para crear una campaña de comunicación.
 leman	amante
 lemma	lema
 lemming	lemming
@@ -38075,10 +38259,12 @@ listname	nombrelista
 lists	campo de justas
 lists	listas
 lists	listas	nodo
+listserve	lista de correos electrónicos	Listado de direcciones de correo electrónico que es utilizado para enviar un mismo mensaje.
 lit	pasado y participio pasado de light
 litany	letanía
 lite	ligero
 liter	litro
+literacy	alfabetización	alfabetización
 literacy	capacidad de leer y escribir
 literal	literal
 literally	literalmente
@@ -38235,6 +38421,7 @@ lobby	grupo de presión
 lobby	presionar
 lobby	salón
 lobby	vestíbulo
+lobbying	cabildear	Actividad realizada por persona o grupo que pretende influir y presionar al poder político para hacer prevalecer sus intereses.
 lobcock	persona torpe y estúpida
 lobe	lóbulo
 loblolly	gachas
@@ -38461,6 +38648,7 @@ logical-or	lógica-or
 login	acceso
 login	conectarse
 login	ingreso
+login	ingreso	Proceso que controla el acceso individual a un sistema informático mediante la identificación del usuario. (Ver password y PIN).
 login	inicia sesión
 login	iniciar sesión
 login	inicio de sesión
@@ -38884,6 +39072,7 @@ low	deprimido
 low	mugido
 low	mugir
 low	profundo
+low profile	perfil bajo	Poco nivel de audiencia en los medios de comunicación.
 low sort	mala ralea
 low-budget	de bajo presupuesto
 low-cost	económico
@@ -39323,6 +39512,7 @@ lysis	lisis
 lysis	terminación lenta y favorable de una enfermedad
 lythraceous	dícese de hierbas y arbustos con hojas enteras, comúnmente opuestas, flores hermafroditas, solitarias o en espigas, y fruto en cápsula con semillas angulosas, como la salicaria
 lythraceous	litráceo
+m-commerce	comercio móvil	Compra y venta de bienes y servicios que se llevan a cabo con dispositivos móviles conectados a internet, como tabletas o teléfonos inteligentes. (Ver e-commerce y s-commerce).
 mOrTimestamp	mOMarcaDeTiempo
 mac	impermeable
 macabre	macabro
@@ -39414,6 +39604,7 @@ mag	medio penique
 mag	revista
 magazine	almacén
 magazine	cargador
+magazine	magacín	Programa de radio o televisión de contenido muy variado.
 magazine	polvorín
 magazine	recámara
 magazine	revista
@@ -39488,6 +39679,7 @@ mailbag	saca de correos
 mailbox	buzón
 mailer	cartero
 mailer	cliente de correo
+mailing	envío masivo	Envío de información publicitaria o propagandística a través del correo postal o electrónico. (Ver bus mailing).
 mailing	envío por correo
 mailman	cartero
 mailshot	folleto publicitario
@@ -39900,6 +40092,7 @@ manageable	factible
 manageable	manejable
 manageable	posible
 management	administración
+management	administración	Gestión de todas las actividades asignadas por la división de trabajo dentro de una empresa.
 management	dirección
 management	gerencia
 management	gestión
@@ -39911,6 +40104,7 @@ manager	director
 manager	empresario
 manager	entrenador
 manager	gerente
+manager	gerente	Persona que lleva la gestión administrativa de una organización.
 manager	gestor
 manager	jefe
 manageress	encargada
@@ -40159,6 +40353,7 @@ mantelet	pantalla o escudo movible
 mantelletta	mantelete
 mantelletta	vestidura con dos aberturas para sacar los brazos que llevan los obispos y prelados
 mantelpiece	repisa de la chimenea
+mantener óptima la relación con los clientes de la empresa.
 mantis	mantis religiosa
 mantis	praying mantis
 mantle	capa
@@ -40314,9 +40509,12 @@ market	mercado
 market	plaza
 market	poner al mercado
 market gardening	cultivo de hortalizas
+market research	investigación de mercado	Conjunto de acciones científicas y experimentales que buscan obtener conocimientos sobre un determinado sector del mercado.
 marketable	comercializable
 marketing	comercialización
 marketing	mercadotecnia
+marketing	mercadotecnia	Conjunto de estrategias destinadas a la satisfacción de las necesidades y deseos de individuos y organizaciones, para la creación y el intercambio voluntario y competitivo de productos y servicios generadores de utilidad.
+marketing mix	mezcla de mercadotecnia	Combinación de los diferentes medios y herramientas comerciales o de mercadotecnia que dispone una organización para alcanzar los objetivos fijados.
 marketing year	campaña agrícola
 marketplace	mercado
 marketplace	plaza de mercado
@@ -40526,6 +40724,7 @@ mass	muchedumbre
 mass	reunir
 mass	reunirse
 mass media	medios de comunicación
+mass media	medios de comunicación	Canales compuestos por tecnologías organizativas, a través de los cuales se transmiten mensajes dirigidos a un gran público.
 mass noun	sustantivo no numerable
 mass-produce	producir en serie
 massa	señor
@@ -40588,6 +40787,7 @@ master	dueño
 master	jefe
 master	maestra
 master	maestro
+master	maestría	Curso y título académico de posgrado con una duración concreta que busca ampliar y desarrollar los conocimientos.
 master	magistral
 master	patrón
 master	principal
@@ -40977,6 +41177,7 @@ medevac	helicóptero de rescate
 media	medios
 media	medios de comunicación
 media	multimedia
+media planning	plan de medios	Consiste en la búsqueda, definición y selección de la mejor combinación de medios para lograr los objetivos de la campaña mercadológica.
 media queries	consultas de medios
 media-rich	rico en medios
 mediaeval	medieval
@@ -41156,6 +41357,7 @@ mentholated	mentolado
 mention	citación
 mention	mencionar
 mention	mención
+mention	mención	Forma de citar en redes sociales a un usuario concreto, de tal forma que reciba una notificación.
 mention	nombrar
 mentioned	menciona
 mentioned	mencionadas
@@ -41180,6 +41382,7 @@ merchandise	mercancías
 merchandising	comercialización
 merchandising	insentivación de ventas
 merchandising	promoción comercial
+merchandising	promoción comercial	Estrategias de diseño, embalaje o colocación del producto en el punto de venta final, con vistas a favorecer su atractivo y sus ventas.
 merchandising	promoción de ventas
 merchandising	transacción comercial
 merchandizing	comercialización
@@ -41407,6 +41610,7 @@ microphone	micrófono
 microprocessor	microprocesador
 microscope	microscopio
 microscopic	microscópico
+microsite	micrositio	Formato de anuncio amplio que aparece en la pantalla para ofrecer información sobre una organización y sus productos o servicios, e incluye un enlace que conduce al sitio del anunciante.
 microwave	microonda
 mid	Merchant ID	Un MID es un identificador único asignado a compañias
 mid-add1	mitad-agrega1
@@ -42085,6 +42289,7 @@ mob	tropel
 mob	turba
 mobcap	cofia
 mobile	móvil
+mobile first	prioridad móvil	Diseñar una web considerando primero las características de los teléfonos móviles. (Ver responsive design).
 mobile phone	teléfono móvil
 mobility	movilidad
 mobilization	movilización
@@ -42296,6 +42501,7 @@ monitor	supervisar
 monitor	vigilar
 monitoring	de observación
 monitoring	de verificación
+monitoring	monitoreo	Técnica de comunicación que realiza el seguimiento y archivo del desempeño mediático de un tema, persona, organización, campaña publicitaria o marca, en medios impresos y digitales para su posterior análisis cualitativo y cuantitativo. (Ver clipping).
 monitoring	supervisión
 monk	monje
 monkey	mono
@@ -42370,6 +42576,7 @@ mood	humor
 mood	modo
 mood	talante
 mood	tono
+mood board	guion inspiracional	Herramienta que ayuda a ordenar las ideas en un prototipo previo a la realización del proyecto. (Ver concept board, key visual y storyboard).
 moodily	con mal humor
 moodiness	humor variable
 moodiness	mal humor
@@ -42917,6 +43124,7 @@ multiplyValue	multiplicaValor
 multiprocessing	multiprocesamiento
 multipurpose	multiuso
 multiracial	multirracial
+multiscreening	usuario multipantalla	Persona que mientras tiene la televisión encendida se encuentra conectada a internet mediante algún otro dispositivo.
 multishipping	multienvío
 multistore	multitienda
 multistorey	de varias plantas
@@ -43441,6 +43649,7 @@ myxomycete	mixomiceto
 mélange	mezcla
 mélange	mezcolanza
 mésalliance	matrimonio con una clase social inferior
+módem decodificador inalámbrico de señales asimétricas.
 müche	canónigos
 mügü	chica
 mügü	doncella
@@ -43557,6 +43766,7 @@ namestring	marca de nombre
 namestring	sello de nombre
 nametag	nombreetiqueta
 naming	denominar
+naming	nombramiento	Proceso creativo mediante el cual se crea el nombre de una marca.
 naming	nombrar
 naming	nomenclatura
 naming service	servicio de denominación
@@ -43976,6 +44186,7 @@ network servers	servidores de red	nodo
 network-attached storage	almacenamiento conectado a red
 network-interface-list	network-interface-list	función: devuelve una lista de todas las interfaces de red y su dirección de red.
 networked	reticular
+networking	hacer contactos	Establecimiento de una red de relaciones con el objetivo de identificar y establecer sinergias.
 neuk	rincón
 neuralgia	neuralgia
 neurologist	neurólogo
@@ -44000,6 +44211,7 @@ never fear	tranquilo
 never-ending	interminable
 nevertheless	no obstante
 nevertheless	sin embargo
+new	noticia	Información sobre algo que se considera interesante divulgar.
 new	nueva
 new	nuevo
 new face	cara nueva	para modelos
@@ -44020,6 +44232,7 @@ newVPoint	nuevoPuntoV
 newView	nuevaVista
 newbie	es el principiante, el usuario inexperto de Internet y las nuevas tecnologías.
 newbie	novato
+newbie	novato digital	Principiante o nuevo usuario de ordenadores relacionado con actividades dentro de internet.
 newborn	recién nacido
 newcomer	recién llegado
 newel	poste con el que termina la barandilla de una escalera
@@ -44042,6 +44255,7 @@ newsagent	vendedor de periódicos
 newsflash	avance informativo
 newsflash	noticia de última hora
 newsletter	boletín
+newsletter	boletín	Publicación destinada a tratar asuntos científicos, artísticos, históricos o literarios, generalmente difundida por alguna empresa. (Ver house organ).
 newsletter	hoja informativa
 newspaper	diario
 newspaper	papel de periódico
@@ -44822,6 +45036,7 @@ nuzzle up	arrimarse
 nylon	nylon
 nymph	ninfa
 née	de soltera
+o servicio, a diferencia del texto utilizado para cualquier otro
 o'clock	la una
 oaf	bruto
 oaf	manazas
@@ -45079,10 +45294,12 @@ of sorts	de clase mediocre
 of sorts	de varias clases
 off	desde
 off	fuera
+off	fuera	Técnica de producción en donde las acciones realizadas están fuera de la información, pantalla, visión o sonido.
 off	libre
 off the hook	a salvo
 off the record	confidencial
 off the record	extraoficial
+off the record	fuera de grabación	Se utiliza para aludir a todo aquello que no se puede o debe mencionar ni publicar.
 off the reservation	contrario a lo esperado
 off-center	to be off-center	estar descentrado
 off-chance	posibilidad remota
@@ -45187,6 +45404,7 @@ offset	compensar
 offset	contrarrestar
 offset	desplazamiento
 offset	oponer
+offset	ófset	Procedimiento de impresión para grandes tiradas profesionales, en el que la imagen entintada es traspasada a un rodillo de caucho que, a su vez, la imprime sobre distintos soportes.
 offsets	compensaciones
 offsets	desplazamientos
 offshoot	retoño
@@ -45361,6 +45579,7 @@ on	con
 on	continuando
 on	contra
 on	de
+on	dentro	Técnica de producción en donde las acciones realizadas están dentro de la información, pantalla, visión o sonido.
 on	en
 on	encendido
 on	encima
@@ -45446,6 +45665,7 @@ one of a kind	único en su especie
 one time	efímero
 one time	fugaz
 one time	una vez
+one to one	persona a persona	Comunicación referida entre dos personas.
 one's fellow man	el prójimo
 one's fellow man	los demás seres humanos
 one's fellow man	nuestros semejantes
@@ -46019,6 +46239,7 @@ outdo	vencer
 outdone	excedido
 outdone	superado
 outdone	vencido
+outdoor training	entrenamiento al aire libre	Actividades en espacios abiertos con una metodología propia de la educación experiencial que ayudan a mejorar el entorno personal y profesional.
 outdoors	fuera
 outer	exterior
 outermost	de fuera
@@ -46191,6 +46412,7 @@ outsmart	engañar
 outsourcing	externalización
 outsourcing	subcontratación
 outsourcing	tercerización
+outsourcing	tercerización	Técnica comercial utilizada por una empresa para confiar parte de su actividad o su producción a otras empresas externas. (Ver co-sourcing).
 outspoken	abierto
 outspoken	franco
 outstanding	destacado
@@ -46240,6 +46462,7 @@ over the counter	adjudicación directa
 over the counter	contratación
 over the counter	de común acuerdo
 over the hill	término despectivo para una persona mayor
+over the top	de transmisión libre	Servicios y contenidos, principalmente de audio y vídeo, que se transmiten a través de infraestructuras de banda ancha sin que las operadoras y sus redes puedan controlar su distribución.
 over there	allá
 over-the-counter	honrado
 over-the-counter	limpio
@@ -46592,6 +46815,7 @@ oü	hasta
 oüsphere	oosfera
 p.o.	oral
 p.s.	posdata
+p2p	red entre pares	Red o sistema de ordenadores en la que todos actúan simultáneamente como clientes y servidores respecto a los demás nodos de la red.
 pablum	comida infantil
 pablum	insípido
 pablum	simple
@@ -46637,6 +46861,7 @@ packaged	envasado
 packages	paquetes
 packaging	embalaje
 packaging	empaquetado
+packaging	empaquetado	Sistema coordinado que utiliza el arte y la tecnología para contener y proteger los productos durante el proceso de transporte, almacenaje, logística, venta y empleo final por parte del cliente. (Ver branding).
 packaging	empaquetado	nodo
 packaging	envasado
 packaging	envoltorio
@@ -46711,6 +46936,8 @@ pageantry	espectáculo
 pageantry	pompa
 pager	buscapersonas
 pages	páginas
+pageview	página vista	Número de páginas vistas que se cargan o se vuelven a cargar en un navegador. (Ver pageviews).
+pageviews	páginas vistas	Métrica que define el número total de páginas vistas. (Ver pageview).
 paginate	paginador
 paginate	paginar
 pagination	paginación
@@ -46932,6 +47159,7 @@ panties	blumen
 panties	bragas
 pantler	sirviente encargado del pan y la despensa en una gran familia
 pantomime	representación musical que se hace en Navidad
+pantone	pantone	Sistema de definición cromática que se basa en una paleta o gama de colores denominados comúnmente como sólidos.
 pantry	despensa
 pants	bragas
 pants	calzoncillos
@@ -46962,6 +47190,7 @@ paperback	edición rústica
 paperback	libro de bolsillo
 paperback	libro de tapa blanda	La voz inglesa alude al material con el que se fabrican las tapas de los libros.
 paperboard	cartón
+paperboard	rotafolio	Tablero o panel usado para la presentación de información en hojas grandes de papel.
 papery	delgado como el papel
 papery	parecido al papel
 papilledema	papiloedema
@@ -47214,6 +47443,7 @@ partner	compañero
 partner	jugar con
 partner	pareja
 partner	socio
+partner	socio	Individuo que, junto con una o varias personas, desempeña un papel importante en la propiedad, administración o creación de una empresa.
 partnering	acompañando
 partnering	asociando
 partners	fogonadura	Abertura en un piso de madera para dar paso a un pie derecho que sirve de sostén a algún objeto elevado.
@@ -47240,6 +47470,7 @@ pasha	pachá
 pasqueflower	de raíz leñosa y hojas pecioladas con una flor solitaria sin corola y frutillos secos
 pasqueflower	planta perenne de la familia de las ranunculáceas
 pasqueflower	pulsatila
+pasquinade	pasquín	Escrito anónimo, de carácter satírico y contenido político, que se fija en sitio público.
 pass	(to) aprobar (examen)
 pass	abono
 pass	adelantar
@@ -47304,8 +47535,10 @@ passivity	pasividad
 passkey	llavín
 passphrase	frase de contraseña
 passphrase	frase de paso
+passport	inicio de sesión único	Servicio que permite a los usuarios autenticarse en múltiples sitios web, dispositivos y aplicaciones usando una cuenta única.
 passport	pasaporte
 password	contraseña
+password	contraseña	Código secreto que permite el acceso a ciertas funciones informáticas. (Ver login y PIN).
 password	santo y seña
 passé	pasado de moda
 past	a lo largo de
@@ -47962,6 +48195,8 @@ performance	representación
 performance	resultados
 performance b.	cotejador de rendimiento
 performance benchmarck	cotejador de rendimiento
+performance management	gestión del rendimiento	Sistema integrado de métodos que permiten conocer el desempeño de una organización.
+performance marketing	mercadotecnia de resultados	Disciplina en la que el anunciante solo paga por los resultados obtenidos.
 performancia	actuación
 performancia	prestaciones
 performancia	rendimiento
@@ -48312,6 +48547,7 @@ pharmacologist	farmacólogo
 pharmacology	farmacología
 pharmacy	droguería
 pharmacy	farmacia
+pharming	fraude electrónico	Estafa a través de internet. (Ver cracker, hacker y phishing).
 pharyngeal	faringeo
 pharyngitis	faringitis
 pharynx	faringe
@@ -48344,6 +48580,7 @@ philosophical	filosófico
 philosophize	filosofar
 philosophy	Filosofía
 phishing	suplantación de identidad
+phishing	suplantador	Abuso informático que se comete mediante el uso de un tipo de ingeniería social, caracterizado por intentar adquirir información confidencial de forma fraudulenta. (Ver cracker, hacker y pharming).
 phiz	cara
 phlebitis	flebitis
 phlegm	flema
@@ -48381,6 +48618,7 @@ phosphorescent	fosforescente
 phosphorous	fósforo
 phosphorus	fósforo
 photo	foto
+photocall	fotocol	Elemento decorativo temático diseñado para que las personas que asisten a un evento puedan tomarse fotografías y crear recuerdos sobre la marca o productos y servicios.
 photocopier	fotocopiadora
 photocopy	fotocopia
 photocopy	fotocopiar
@@ -48985,6 +49223,7 @@ pix	cine
 pix	fotos
 pix	películas
 pixel	píxel
+pixel	píxel	Elemento informático o digital más pequeño de una trama, que constituye una unidad básica de una imagen digitalizada en pantalla a base de puntos de color o escala de grises.
 pixie	duendecito
 pixilated	un poco loco
 pixy	duendecito
@@ -49025,6 +49264,7 @@ places	lugares
 places	plazas
 places	sitios
 places	ubicaciones
+placet	plácet	Opinión favorable o aprobación que es concedida por parte de una organización para realizar una determinada acción.
 placid	apacible
 placid	tranquilo
 placidity	placidez
@@ -49101,8 +49341,10 @@ plank	tabla
 plank	tablón
 plankton	plancton
 planner	diagrama para planificar el trabajo del año
+planner	director estratégico	Profesional responsable de realizar la estrategia de comunicación.
 planner	planificador
 planning	planificación
+planning	planificación	Plan establecido o esquema de organización de actividades u operaciones en el que están señaladas diferentes acciones de trabajo o actividad de un departamento de la organización.
 plant	colocar
 plant	estampar
 plant	infiltrar
@@ -49209,6 +49451,7 @@ play upon	aprovecharse de
 play-by-play	jugada a jugada
 play-one-game	juega-un-juego
 playact	hacer comedia
+playback	pregrabado	Sonorización de un número musical con una grabación hecha previamente.
 playbill	cartel de teatro
 playboy	playboy
 player	actor
@@ -50033,6 +50276,7 @@ pop-eyed	de ojos saltones
 pop-under	ventana emergente menos invasiva porque aparece bajo la ventana actual del navegador y no se puede ver hasta cerrar la ventana actual.
 pop-up	emerger
 pop-up	ventana emergente
+pop-up	ventana emergente	Elemento informativo o publicitario en forma de ventana que se abre de forma automática.
 popcorn	palomitas de maíz
 popery	papismo
 popgun	fusil de juguete
@@ -50124,6 +50368,7 @@ porter	portero
 porterhouse steak	filete chüteubriand
 portfolio	cartera
 portfolio	portafolio
+portfolio	portafolio	Documento que muestra diferentes aspectos globales o parciales de una persona o de una organización.
 porthole	ojo de buey
 porthole	portilla
 porti're	antepuerta
@@ -50224,6 +50469,7 @@ post	entrada
 post	exponer
 post	mensaje
 post	poste
+post	publicación	Noticia o texto que se publica en un blog o en el muro de una red social.
 post	publicar
 post	puesto
 post	transmitir
@@ -50247,11 +50493,13 @@ postdated	posfechado
 poste restante	guardar en la oficina de correos hasta recogida
 posted	publicado
 poster	cartel
+poster	cartel	Lámina de papel que se exhibe con fines publicitarios o informativos y es colocada en paredes y demás sitios visibles para ser observado por el público. (Ver billboard).
 poster	póster
 poster child	modelo
 posterior	trasero
 posterity	posteridad
 postern	postigo
+postest	prueba posterior	Producto de control que permite evaluar el impacto y la eficacia de una campaña y en qué medida se cumplieron los objetivos comunicacionales. (Ver pretest y test).
 postgraduate	posgraduado
 posthaste	a toda prisa
 posthaste	con toda urgencia
@@ -50471,6 +50719,7 @@ power	fuerza
 power	impulsar
 power	poder
 power	potencia
+power brand	marca poderosa	Marca fuerte y distintiva que opera en un único sector del mercado, y que suele ser una marca global.
 power forward	ala-pívot, power plant	central eléctrica, grupo motor
 power plant	planta eléctrica
 power set	conjunto de partes
@@ -50699,6 +50948,7 @@ preciseness	precisión
 precisian	rigorista
 precision	exactitud
 precision	precisión
+precision marketing	mercadotecnia de precisión	Técnica de mercadotecnia que consiste en ampliar el conocimiento sobre los clientes y, en función de dicho conocimiento, personalizar la oferta al máximo posible.
 preclude	evitar
 preclude	excluir
 preclude	impedir
@@ -50942,6 +51192,7 @@ press	planchar
 press	prensa
 press	presionar
 press	pulsar
+press book	carpeta de prensa	Carpeta con información técnica que detalla más a fondo un proyecto o temas concretos. (Ver rapport).
 press-gang	leva
 press-gang	recluta de gente para el servicio de un Estado
 press-gang	ronda de enganche
@@ -50964,6 +51215,7 @@ presumably	supuestamente
 presume	atreverse
 presume	suponer
 presume	tomarse la libertad
+presume marketing	mercadotecnia de suposición	Técnica basada en el pensamiento de que las personas necesitan sentir la presencia del producto.
 presumption	atrevimiento
 presumption	osadía
 presumption	suposición
@@ -50987,6 +51239,7 @@ pretension	pretensión
 pretentious	pretencioso
 preternatural	excepcional
 preternatural	sobrenatural
+pretest	prueba previa	Evaluación previa en una campaña que tiene como principal objetivo determinar la factibilidad de las acciones. (Ver postest y test).
 pretext	pretexto
 prettier-ignore	más bonita ignorar
 pretty	agradable
@@ -51129,6 +51382,7 @@ prime	principal
 prime	selecto
 prime minister	primer ministro
 prime number	número primo
+prime time	horario de máxima audiencia	Franja horaria audiovisual o digital de mayor audiencia.
 prime time	horario estelar
 primep	primop
 primer	abecé
@@ -51284,6 +51538,7 @@ prizewinning	premiado
 pro	deportista profesional
 pro	razón en favor
 pro bono	por el bien público
+pro-consumer prosumidor	Individuo que consume y produce contenidos sobre productos o servicios y que resultan útiles para otros potenciales consumidores. (Ver smart-consumer).
 pro-form	pro forma
 proactive	proactivo
 prob	problema
@@ -51521,6 +51776,7 @@ product	producto
 product	resultado
 product creator	creador del producto personalizado
 product life	duración del producto
+product placement	emplazamiento publicitario	Técnica publicitaria que consiste en insertar un producto, mensaje o marca dentro de la narrativa de un programa de televisión, radio o internet.
 product-of	producto-de
 productile	dúctil
 productile	extensible
@@ -52264,6 +52520,7 @@ puberty	pubertad
 pubic	púbico
 public	general
 public	público
+public affairs	asuntos públicos	Son las relaciones de una organización con los públicos de interés, estos individuos o grupos pueden ser internos o externos.
 public school	colegio privado
 public-address system	sistema de megafonía
 public-spirited	con sentido cívico
@@ -52273,6 +52530,8 @@ publication	publicación
 publicitar	("to publicize")
 publicitar	anunciar
 publicity	publicidad
+publicity	publicidad no pagada	Recurso que permite a las empresas la aparición en los medios de comunicación sin que exista un pago publicitario de por medio.
+publicity stunt	truco publicitario	Evento realizado para atraer la atención del público hacia los organizadores del evento o su causa.
 publicize	dar publicidad a
 publicize	divulgar
 publicize	promocionar
@@ -52380,6 +52639,7 @@ pull in	llegar
 pull in	llevar la contraria
 pull in	parar
 pull into	entrar en
+pull marketing	mercadotecnia de tracción	Estrategia promocional donde los consumidores buscan activamente un producto, establecen sus necesidades, y el vendedor presenta anuncios o productos en respuesta a la búsqueda del consumidor.
 pull off	conseguir llevar a cabo
 pull off	ganar
 pull off	quitar
@@ -52677,6 +52937,7 @@ push down	apretar hacia abajo
 push in	colarse
 push in	empujar
 push in	tirar
+push maketing	mercadotecnia de empuje	Estrategia promocional en la cual un negocio expone su mensaje a clientes potenciales sin que estos necesariamente tengan el deseo o interés de comprar el producto o conocer más sobre él.
 push off	irse
 push off	largarse
 push on	seguir adelante
@@ -53639,6 +53900,7 @@ ranked	calificado
 ranked	clasificado
 ranked	valorado
 ranking	clasificación
+ranking	clasificación	Lista realizada en base a variables como audiencias, facturación, ventas, número de clientes, entre otras.
 ranking	puntuación
 ranking	rango
 ranking	valoración
@@ -53675,10 +53937,12 @@ rapids	rápidos
 rapier	estoque
 rapine	saqueo
 rapist	violador
+rappel	rápel	Descuento que se concede a un cliente por alcanzar un volumen de compras determinado durante un periodo de tiempo establecido.
 rapping	golpes secos
 rapping	llamada
 rapport	compenetración
 rapport	entendimiento
+rapport	informe comercial	Información que los equipos comerciales deben emitir a las empresas periódicamente sobre los pedidos que se han hecho, las visitas, la situación de mercado, las opiniones del mercado, y todos aquellos datos que se consideren válidos para el departamento comercial. (Ver press book).
 rapport	relación
 rapporteur	narrador
 rapprochement	acercamiento
@@ -53773,6 +54037,7 @@ rating	justiprecio
 rating	puesto
 rating	tasación
 rating	valoración
+rating	índice de audiencia	Número que representan la cantidad de personas que integran la audiencia de un medio de comunicación o un programa en un período de tiempo determinado
 ratings	clasificaciones
 ratings	ranking
 ratings	valoraciones
@@ -53913,6 +54178,7 @@ re-examine	volver a examinar
 re-implemented	reimplementar
 re-merge	refusionar
 reach	alcance
+reach	alcance	Número o porcentaje de usuarios únicos que fue expuesto a una campaña o visitó una plataforma digital en un tiempo determinado.
 reach	alcanzar
 reach	extenderse
 reach	llegar a
@@ -54108,6 +54374,8 @@ reason	motivo
 reason	razonar
 reason	razón
 reason	sentido
+reason to believe	razón para creer	Fase de la estrategia de comunicación que explica la razón que da credibilidad a una marca.
+reason why	razón del porqué	Fase de la estrategia de comunicación que explica la razón que da una marca para que el consumidor se crea lo que le dice.
 reason with	convencer
 reason with	hacer entrar en razón
 reasonable	razonable
@@ -55812,6 +56080,7 @@ responsive	receptiva
 responsive	receptivo
 responsive	responsivo
 responsive	sensible
+responsive design	diseño web adaptable	Diseño y desarrollo orientado a adaptar la apariencia de las páginas web al dispositivo que el usuario utilice para visitarlas (Ver mobile first).
 responsively	receptivamente
 responsively	responsablemente
 responsiveness	reacción
@@ -56016,6 +56285,7 @@ returns	devuelve
 returns	regresa
 returns	retorna
 returns	vuelve
+retweet	retuiteo	Republicar un tuit de otra persona.
 reuben sandwich	sandwich de pan de centeno con ternera, queso, col fermentada y salsa rusa
 reunification	reunificación
 reunion	reencuentro
@@ -56553,6 +56823,7 @@ road	calle
 road	calzada
 road	camino
 road	carretera
+road show	gira itinerante	Encuentro o presentación promocional que se desarrolla en una serie de lugares.
 roadbed	firme
 roadblock	barricada
 roadhouse	motel
@@ -56564,6 +56835,7 @@ roam	errar
 roam	rodar
 roam	vagabundear
 roam	vagar
+roaming	itinerancia	Posibilidad de un dispositivo inalámbrico de utilizar una cobertura de red distinta de la principal para atender llamadas telefónicas o navegación en internet.
 roan	ruano
 roar	bramar
 roar	bramido
@@ -56956,6 +57228,7 @@ route	rumbo
 route	ruta
 router	enrutador
 router	rúter
+router	rúter	Aparato técnico o módem de conexión múltiple que procesa y convierte las señales digitales en analógicas para su transmisión codificada a distancia, ya sea alámbrica o inalámbricamente.
 routers	encaminadores
 routers	enrutadores
 routes	rutas
@@ -57427,6 +57700,7 @@ ryal	antigua moneda española de oro que valía diez chelines
 rye	centeno
 résumé	currículum
 résumé	resumen
+s-commerce	comercio social	Ramificación del comercio electrónico que utiliza las redes sociales virtuales para promover y/o facilitar la compra y venta de productos y servicios. (Ver e-commerce y m-commerce).
 s-expression	expresión-s
 s-expressions	expresiones-s
 s3	Amazon Simple Storage Service	Amazon S3 es una solución de almacenamiento infinito en Internet
@@ -58038,6 +58312,7 @@ sampler	utensilio para sacar muestras
 samples	ejemplos
 samples	muestras
 sampling	muestreo
+sampling	muestreo	La práctica de seleccionar un subconjunto de datos del tráfico y de los informes según las tendencias detectadas en el conjunto de muestra.
 samurai	samurai
 sanative	curativo
 sanative	sanativo
@@ -58544,6 +58819,7 @@ scanner	antena direccional
 scanner	dispositivo que explora un espacio o imagen, y los traduce en señales eléctricas para su procesamiento
 scanner	ecógrafo
 scanner	escáner
+scanner	escáner	Aparato que permite convertir un texto o una imagen en un conjunto de datos procesables por una computadora o un sistema informático.
 scansion	medida de los versos
 scant	escaso
 scant	exiguo
@@ -59458,6 +59734,7 @@ seed cake	torta de alcaravea
 seed pearl	aljófar
 seed pearl	perla muy pequeña
 seedbed	semillero
+seeding	plantar ideas	Propagación y distribución de una idea a través de los medios que ofrece internet.
 seedless	sin semillas
 seedling	germen
 seedling	planta de semillero
@@ -59678,6 +59955,7 @@ self-taught	autodidacta
 self-typing	autotipado
 self-willed	terco
 self-willed	voluntarioso
+selfie	autofoto	Fotografía que uno toma de sí mismo, solo o en compañía de otros, en general con teléfonos móviles.
 selfish	egoísta
 selfishness	egoísmo
 selfless	desinteresado
@@ -59812,6 +60090,7 @@ senior	miembro más antiguo
 senior	más antiguo
 senior	más viejo
 senior	superior
+senior	sénior	Profesionales en una compañía que tienen más experiencia que otros.
 seniority	antigüedad
 seniority	jerarquía
 senna	arbusto cuyas hojas secas se usan en infusión como purgante
@@ -60467,6 +60746,7 @@ shard	fragmento
 share	acción
 share	compartir
 share	cuota
+share	cuota de pantalla	Porcentaje estimado de espectadores de un programa, en relación con el número de audiencia. (Ver GRP y rating).
 share	dar
 share	dividir
 share	participación
@@ -60902,6 +61182,7 @@ shoot	retoño
 shoot	rodar
 shoot	salvar
 shoot	tirar
+shoot	toma	Conjunto de cuadros ejecutados durante un período de tiempo ininterrumpido. En las tomas de una película se utilizan ángulos, transiciones y cortes para expresar aún más las emociones, las ideas y el movimiento.
 shoot down	derribar
 shoot down	matar a tiros
 shoot out	salir disparado
@@ -60926,6 +61207,7 @@ shop window	escaparate
 shop-soiled	deteriorado
 shop-soiled	trasnochado
 shop-soiled	usado
+shopbot	agente comercial web	Herramienta de ayuda para la búsqueda, comparación y compra de productos y servicios a través de la red.
 shopkeeper	tendero
 shoplift	hurtar en tiendas
 shopper	comprador
@@ -60953,6 +61235,7 @@ short	provocar un cortocircuito
 short bus	retrasado
 short fuse	genio
 short hand	taquigrafía
+short list	lista corta	Clasificación realizada por una persona cuando decide comprar algo o contratar un servicio, generando en su cabeza una lista con pocas opciones.
 short notice	con poco tiempo de aviso
 short status	estatus abreviado
 short-circuit	cortocircuito
@@ -61127,6 +61410,7 @@ shown	indicados
 shown	mostrados
 shown	participio pasado de show
 showplace	lugar atractivo
+showroom	sala de exhibición	Espacio de exposición en el que los fabricantes exponen sus novedades a los compradores. Puede ser permanente o temporal, y estar dirigido exclusivamente a profesionales o al público en general.
 showroom	sala de exposiciones
 showroom	salón de exposición
 showstopper	espectacular
@@ -62387,6 +62671,7 @@ slog	golpear
 slog	paliza
 slogan	consigna
 slogan	eslogan
+slogan	eslogan	Frase de fácil recuerdo asociada a una organización, producto o marca, que contiene el eje central de campaña durante un tiempo determinado. (Ver ad copy, baseline, body copy, copy y copywriter).
 slogan	lema
 slogan	pintada
 slogger	trabajador
@@ -62687,6 +62972,7 @@ smart	sentir pesar o arrepentimiento
 smart	vivaracho
 smart-aleck	listillo
 smart-aleck	sabelotodo
+smart-consumer	consumidor inteligente. Individuo que se informa antes de comprar un producto o servicio. (Ver proconsumer).
 smartass	listillo
 smartass	sabelotodo
 smarten	arreglar
@@ -62703,6 +62989,7 @@ smartness	pulcritud
 smartness	rapidez
 smartness	viveza
 smartphone	teléfono inteligente
+smartphone	teléfono inteligente	Teléfono celular con pantalla táctil, que permite al usuario conectarse a internet, gestionar cuentas de correo electrónico e instalar aplicaciones. (Ver app).
 smartphones	teléfonos inteligentes
 smarty	sabelotodo
 smash	acabar con
@@ -63172,7 +63459,9 @@ soccer	fútbol
 sociable	sociable
 social	sociable
 social	social
+social marketing	mercadotecnia social	Enfoque utilizado por organizaciones no lucrativas para desarrollar actividades destinadas a cambiar o mantener el comportamiento de las personas en beneficio de las personas y la sociedad en general.
 social media	medio sociales
+social selling	venta social	Técnica que permite utilizar las redes sociales para encontrar, conectar, entender y fomentar las relaciones con potenciales clientes.
 socialism	socialismo
 socialist	socialista
 socialite	persona conocidísima en la alta sociedad
@@ -63685,6 +63974,7 @@ spaghetti	espagueti
 spall	astilla
 spam	carne de cerdo en conserva
 spam	correo basura
+spam	correo basura	Correo electrónico no solicitado que se envía a un gran número de destinatarios con fines publicitarios o comerciales. (Ver junk mail).
 spam	correo no deseado
 spam	correo no solicitado
 spam	emisores de correos basura
@@ -64257,6 +64547,7 @@ spongy	esponjoso
 sponsor	fiador
 sponsor	patrocinador
 sponsor	patrocinar
+sponsor	patrocinio	Estrategia publicitaria en forma de convenio en la que ambas partes involucradas reciben un beneficio y una de ellas cubre los gastos de una actividad a cambio de cierta publicidad.
 sponsor	proponer
 sponsoring	patrocinio
 sponsorship	patrocinio
@@ -64305,6 +64596,7 @@ sports ground	campo de deportes
 sportsman	deportista
 sportsmen	deportista
 sportswear	conjunto de deporte
+spot	anuncio	Película digital publicitaria de corta duración que se emite en soportes audiovisuales sobre un producto o marca. (Ver jingle y storyboard).
 spot	colocar
 spot	descubrir
 spot	detectar
@@ -65108,6 +65400,7 @@ stacktrace	seguimiento de la pila
 stadium	estadio
 staff	bastón
 staff	personal
+staff	personal	Conjunto de trabajadores fijos de un organismo o empresa, que en muchos casos ocupan puestos de mayor visualización.
 staff	prestar servicio en
 staffroom	sala de profesores
 stag	ciervo
@@ -65177,6 +65470,7 @@ stake	poste
 stake	premio
 stake out	señalar con estacas
 stake-out	vigilancia
+stakeholders	grupos de interés	Cualquier grupo o individuo que pueda afectar o ser afectado por el logro de los objetivos de la organización.
 stakes	carrera
 stakes	premio
 stalactite	estalactita
@@ -65252,6 +65546,7 @@ stand	atril
 stand	caseta
 stand	colocar
 stand	convidar
+stand	estand	Instalación dentro de un mercado o feria, para la exposición o venta de productos o servicios.
 stand	estand	instalación dentro de un mercado o feria para la exposición y venta de productos.
 stand	estar de pie
 stand	estrado
@@ -65299,6 +65594,7 @@ standalone	autónomo
 standalone	independiente
 standard	estandarte
 standard	estándar
+standard	estándar	Modelo, patrón o referencia que puede convertirse en un documento establecido por consenso, aprobado por un cuerpo reconocido para que se use repetidamente.
 standard	nivel
 standard	norma
 standard abbrev tables	tablas de abreviaturas estándar	nodo
@@ -65430,6 +65726,7 @@ start out	ponerse en camino
 start over	volver a empezar
 start up	arrancar
 start up	poner en marcha
+start-up	empresa emergente	Organización que busca emprender un nuevo negocio que generalmente se apoya en la tecnología.
 starter	caballo
 starter	corredor
 starter	entrada
@@ -66183,6 +66480,7 @@ stop by	pasar
 stop doing	dejar de hacer
 stop in	no salir
 stop in	quedarse en casa
+stop motion	movimiento pausado	Técnica de animación que consiste en aparentar el movimiento de un objeto estático a través de una serie de imágenes fijas sucesivas.
 stop off	hacer un alto
 stop off	parar
 stop over	hacer escala
@@ -66215,6 +66513,7 @@ stoppage	obstrucción
 stoppage	parada
 stoppage	paro
 stoppage	suspensión
+stopper	exhibidor de productos	Elementos publicitarios situados en el punto de venta, que sobresalen del lineal donde se encuentran colocados los productos a los que se hace referencia. (Ver display).
 stopper	tapón
 stops	deja
 stops	detiene
@@ -66265,8 +66564,10 @@ story	alto
 story	cuento
 story	narracion
 story	piso
+storyboard	guion gráfico	Conjunto de ilustraciones mostradas en secuencia con el objetivo de servir de guía para entender una historia, previsualizar una animación o seguir la estructura de una película antes de realizarse o filmarse. (Ver concept board, key visual y mood board).
 storyboard	guión gráfico
 storybook	libro de cuentos
+storytelling	narración de historias	Arte de transmitir relatos valiéndose del uso de palabras y/o imágenes, normalmente utilizando la improvisación y distintos adornos estilísticos.
 stott	toro joven
 stoup	copa
 stoup	frasco
@@ -66509,6 +66810,7 @@ streams	flujos
 streams	secuencias
 street	calle
 street	callejera
+street marketing	mercadotecnia callejera	Acciones creativas que se desarrollan en espacios urbanos y conectan con el público de una forma directa. (Ver billboard).
 streetcar	tranvía
 streetcar	trolebús
 streetlamp	farol
@@ -68390,6 +68692,7 @@ tablet	bloc
 tablet	lápida
 tablet	pastilla
 tablet	tableta
+tablet	tableta	Computadora portátil de mayor tamaño que un teléfono inteligente, integrada en una pantalla táctil con la que se interactúa con los dedos o un estilete, sin necesidad de teclado físico ni ratón.
 tabletop	superficie de la mesa
 tabling	presentación
 tabloid	periódico ilustrado de noticias resumidas
@@ -68932,6 +69235,7 @@ target	destino
 target	dirigir
 target	escudo
 target	objetivo
+target	público objetivo	Grupo de personas al cual se dirige una marca, campaña, producto o servicio.
 target	rodela
 target-sum	suma-objetivo
 targetUrl	urlDestino
@@ -69184,10 +69488,13 @@ teal	trullo
 teal	verde azulado
 team	enganchar
 team	equipo
+team	equipo	Grupo de personas con habilidades que son complementarias y necesarias para realizar una tarea, trabajo o proyecto.
 team	grupo
 team	tiro de animales
 team	uncir
 team	yunta
+team building	construcción de equipos	Conjunto de actividades que busca formar equipos de alto desempeño y fortalecer y mejorar las relaciones interpersonales dentro de un grupo.
+team room	sala de equipo de trabajo	Espacio privado de un equipo de trabajo dedicado para la realización y presentación de proyectos.
 team up	juntarse
 teammate	compañero de equipo
 teamster	camionero
@@ -69339,6 +69646,7 @@ telecast	programa de televisión
 telecast	transmitir por televisión
 telecommunication	telecomunicaciones
 telecommute	teletrabajo
+teleconference	teleconferencia	Comunicación telefónica entre dos o más personas para el intercambio de mensajes. (Ver videoconference).
 telefax	fax
 telefax	telefax
 telegram	telegrama
@@ -69347,6 +69655,7 @@ telegraph	telegrama
 telegraph	telégrafo
 telegrapher	telegrafista
 telegraphy	telegrafía
+telemarketing	telemercadeo	Técnica de mercadotecnia que utiliza el teléfono para realizar una encuesta por parte de una organización para obtener una concreta respuesta comercial o de venta. (Ver bus marketing).
 telemeter	telémetro
 teleology	teología
 teleost	teleósteo
@@ -69369,6 +69678,7 @@ teleview	ver por televisión
 televiewer	telespectador
 televise	televisar
 television	televisión
+televisión o cine.
 teleworker	teletrabajador
 teleworking	teletrabajo
 telex	télex
@@ -69666,6 +69976,7 @@ test	examinar
 test	poner a prueba
 test	probar
 test	prueba
+test	prueba	Conjunto de diferentes evaluaciones cualitativas y cuantitativas realizadas al público objetivo para conocer la aceptación en el mercado de una información, concepto, marca, producto, actividad o servicio para la toma de decisiones posteriores. (Ver focus group, postest y pretest).
 test	tegumento
 test	test
 test tube	tubo de ensayo
@@ -70083,6 +70394,7 @@ think	suponer
 think of	pensar en
 think of	recordar
 think over	considerar
+think tank	laboratorio de ideas	Actividad que tiene como objetivo ser un contrapeso de los Estados, y para ello se nutren de políticos, empresarios e investigadores.
 think tank	tanque de pensamiento
 think up	imaginar
 think up	inventar
@@ -70931,6 +71243,7 @@ timezone	zona horaria
 timid	tímido
 timidity	timidez
 timing	coordinación
+timing	cronograma	Establecimiento de fechas o plazos para realizar un trabajo o acción en una organización. (Ver dateline).
 timing	cronometraje
 timing	regulación del encendido
 timing	temporizadora
@@ -72336,6 +72649,7 @@ top	superior
 top	tapa
 top	trompo
 top model	supermodelo
+top of mind	notoriedad máxima	Mayor nivel de notoriedad que puede tener una marca. (Ver brand awareness).
 top up	aumentar
 top up	llenar
 top-element	elemento-superior
@@ -72591,6 +72905,7 @@ tracked	rastreados
 tracker	rastreador
 tracking	rastreo
 tracking	seguimiento
+tracking	seguimiento	Rastreo y control de un proceso de comunicación.
 tracking branch	rama de seguimiento
 tracking down	rastrear
 trackless	impenetrable
@@ -72615,6 +72930,7 @@ trade	negociar
 trade	oficio
 trade deficit	déficit comercial
 trade in	cambiar
+trade marketing	mercadotecnia de distribución	Técnica de mercadotecnia que se ocupa de aumentar la demanda del producto por parte del vendedor mayorista, minorista, o el nivel de distribuidor en lugar de a nivel del consumidor.
 trade off	compensación
 trade off	renunciar a una cosa a cambio de otra
 trade off	trocar
@@ -72641,6 +72957,7 @@ trades	vientos alisios
 tradesman	comerciante
 tradesman	tendero
 trading	comercio
+trading	comercio	Técnica de compra y venta de acciones en el mercado bursátil.
 tradition	tradición
 traditional	tradicional
 traffic	circulación
@@ -72703,6 +73020,7 @@ trainer	preparador
 trainers	zapatillas de deporte
 training	capacitación
 training	entrenamiento
+training	entrenamiento	Colaboración profesional en régimen de prácticas realizadas durante un tiempo específico, para estudiantes normalmente de último año de carrera en una empresa afín a sus estudios.
 training	formación
 trainings	capacitaciones
 trainings	entrenamientos
@@ -72884,6 +73202,7 @@ traveller	viajero
 travelling	ambulante
 travelling	de viaje
 travelling	pasos
+travelling	trávelin	Plataforma móvil sobre la cual se monta la cámara y se realiza un desplazamiento mecánico o digital para seguir al objeto filmado.
 travelling	viajar
 travels	viajes
 traversable	atravesable
@@ -72991,6 +73310,7 @@ trenchcoat	guerrera
 trencher	plato trinchero
 trend	moda
 trend	tendencia
+trending topic	tendencia	Palabras o frases más empleadas en la red social Twitter en un momento determinado. Su forma abreviada es TT.
 trendola	cosa de moda
 trendsetter	iniciador de nuevas modas
 trendy	a la moda
@@ -73206,6 +73526,7 @@ troll	duende
 troll	gnomo
 troll	se trata de aquellos individuos que participan en foros de debate, blogs, Twitter, chats y otros entornos de conversación para provocar y molestar a los usuarios e interrumpir el ritmo de la conversación.
 troll	trol
+troll trol	Alborotador o polemista que, a través de mensajes en foros digitales, intenta molestar o provocar al resto de los participantes.
 trolley	carrito
 trolley	carrito aéreo
 trolley	tranvía
@@ -73412,6 +73733,7 @@ trying	molesto
 trying	pesado
 trying	tratando
 tryst	cita
+tryversiting	experiencia de producto	Uso del producto como soporte publicitario, una evolución del muestreo centrado en un público objetivo y en un momento y un lugar escogidos, convirtiendo la prueba de un producto en una experiencia. (Ver cross-channel strategy y experiential marketing).
 très	gran
 très	mismo
 très	mucho
@@ -74024,13 +74346,16 @@ umbrageous	que da sombra
 umbrella	formado por diferentes empresas
 umbrella	paraguas
 umbrella	parasol
+umbrella brand	marca paraguas	Marca que tiene productos o servicios que se extienden para operar en diferentes sectores del mercado, pero todos comparten el mismo nombre de marca.
 umlaut	diéresis
 umpire	arbitrar
 umpire	juez
 umpire	árbitro
 umpteen	muchísimos
 umpteenth	enésimo
+un documento o recurso.
 un-Lispy	antiLispy
+una página web.
 unabashed	descarado
 unabashed	desenvuelto
 unabashed	desvergonzado
@@ -76044,6 +76369,7 @@ veld	sabana
 veldt	sabana
 vellum	pergamino
 vellum	vitela
+velocidad, a través de una línea telefónica, fibra óptica y un
 velocipede	velocípedo
 velocity	velocidad
 velodrome	velódromo
@@ -76060,6 +76386,7 @@ velvety	aterciopelado
 venal	venal
 venality	venalidad
 vendetta	vendetta
+vending	venta automática	Venta que se realiza a través de máquinas expendedoras.
 vending machine	máquina expendedora
 vendor	buhonero
 vendor	proveedor
@@ -76299,6 +76626,8 @@ video	hacer un vídeo
 video	vídeo
 video game	juego de video
 video game console	consola de videojuegos
+video on demand	vídeo bajo demanda	Vídeo profesional por petición de un cliente. (Ver communication on demand).
+videotelephony	videoconferencia	Comunicación audiovisual entre dos o más personas para el intercambio de mensajes. (Ver teleconference).
 vie	competir
 vie	rivalizar
 view	mirar
@@ -76535,6 +76864,7 @@ vogue	moda
 voice	expresar
 voice	voto
 voice	voz
+voice over	voz por encima	Locución realizada por un narrador que no aparece en imagen.
 void	inválido
 void	nulo
 void	vacío
@@ -77485,11 +77815,16 @@ web	adj. "de la Red o de Internet"
 web	membrana interdigital
 web	telaraña
 web site	sitio web
+web traffic	tráfico web	Cantidad de datos enviados y recibidos por los visitantes de un sitio web.
 web-footed	palmípedo
 webbed	palmeado
+webcam	cámara web	Cámara digital fotográfica y de vídeo conectada a un ordenador que permite transmitir imágenes por internet.
 webinar	seminario web
 webinario	seminario web
+weblog	bitácora	Sitio web personal o conjunto instantáneo de páginas web personales, modificables, interactivas y extensibles que sirven para guardar y enviar información a diferentes individuos.
+webmaster	desarrollador web	Responsable del contenido web dentro de una organización.
 webs	sitios web
+website	sitio web	Colección de páginas web relacionadas y comunes a un dominio o subdominio de internet.
 websites	sitios web
 wed	casado
 wed	contraer matrimonio
@@ -79555,6 +79890,7 @@ youthful	fresco
 youthful	joven
 youthful	juvenil
 youthful	vigoroso
+youtuber	influidor en YouTube	Individuos que utilizan la red social de vídeos YouTube para postear cualquier tipo de contenido que genera un elevado número de reproducciones. (Ver Influencer e Instagramer).
 youüre everyoneüs time	nos estás haciendo perder el tiempo
 you’re	estás
 yow	oveja
@@ -79590,6 +79926,7 @@ zap	cargarse
 zap	suprimir
 zapper	mando a distancia
 zapper	pistola eléctrica
+zapping	zapeo	Cambio reiterado de canal de televisión a través de un mando electrónico.
 zeal	ahínco
 zeal	ardor
 zeal	celo
@@ -79631,6 +79968,7 @@ zester	rallador
 zeta	zeta
 zeugma	figura de construcción que consiste en que, cuando una palabra que tiene conexión con dos o más miembros del período, está expresa en uno de ellos y se ha de sobrentender en las demás
 zeugma	zeugma
+zigzag	acordeón	Forma de plegado de una pieza publicitaria.
 zigzag	zigzag
 zigzag	zigzaguear
 zilch	cero
@@ -79700,6 +80038,7 @@ zoom	enfocar
 zoom	espinadura
 zoom	espinarse
 zoom	ir a toda velocidad
+zoom	zum	Objetivo de distancia focal variable, que aleja o acerca una imagen.
 zoom	zumbar
 zoom in	enfocar de cerca
 zooming	acercamiento
@@ -79748,23 +80087,3 @@ zygote	cigoto
 —	barra horizontal
 ⇋	C-q C-i inserta un carácter de tabulación
 ﻿`	acento gravedistributivity	distributividaddisjointed
-literacy	alfabetización	alfabetización
-double-struck	doble golpe
-fraktur	fractura
-drop	difuminada
-above the fold	primer pantallazo	Anuncio publicitario colocado en la parte superior visible de
-una página web.
-above the line	sobre la línea	Acción publicitaria que se realiza en los medios de
-comunicación convencionales: periódico, revista, radio,
-televisión o cine.
-abstract	resumen	Representación abreviada, objetiva y precisa del contenido de
-un documento o recurso.
-account supervisor	supervisor de cuentas	Profesional de una agencia de publicidad cuya misión es
-mantener óptima la relación con los clientes de la empresa.
-ad copy	texto publicitario	Redacción creativa que tiene como objetivo vender un producto
-o servicio, a diferencia del texto utilizado para cualquier otro
-fin, como informar o entretener. (Ver baseline, body copy, copy,
-copywriter y slogan).
-ADSL	Línea de abonado digital asimétrica	Tecnología de transmisión digital por triple banda ancha de alta
-velocidad, a través de una línea telefónica, fibra óptica y un
-módem decodificador inalámbrico de señales asimétricas.
