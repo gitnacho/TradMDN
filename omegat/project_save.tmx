@@ -37515,8 +37515,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, for the username _chrisdavidmills_, go to [_chrisdavidmills_.github.io](https://chrisdavidmills.github.io/).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T214804Z" creationid="Nachec" creationdate="20221023T214405Z">
-        <seg>Por ejemplo, para el nombre de usuario Bob Smith, escribe &lt;kbd&gt;[chrisdavidmills.github.io](https://chrisdavidmills.github.io/)&lt;/kbd&gt;.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T065921Z" creationid="Nachec" creationdate="20221023T214405Z">
+        <seg>Por ejemplo, para el nombre de usuario Crhis David Mills, escribe &lt;kbd&gt;[chrisdavidmills.github.io](https://chrisdavidmills.github.io/)&lt;/kbd&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37611,8 +37611,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, our friend Bob Smith would enter _bobsmith.github.io_.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T212602Z" creationid="Nachec" creationdate="20221023T212001Z">
-        <seg>Así por ejemplo, nuestro amigo Bob Smith ingresaría _&lt;kbd&gt;bobsmith.github.io&lt;/kbd&gt;_.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T070005Z" creationid="Nachec" creationdate="20221023T212001Z">
+        <seg>Así por ejemplo, nuestro amigo Crhis David Mills ingresaría _&lt;kbd&gt;crhisdavidmills.github.io&lt;/kbd&gt;_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56094,7 +56094,7 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       <tuv lang="en-US">
         <seg>Try again.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T234423Z" creationid="Nachec" creationdate="20221023T234423Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T072414Z" creationid="Nachec" creationdate="20221023T234423Z">
         <seg>inténtalo de nuevo.
 
 ### Subir tus archivos a GitHub a través de la línea de comandos
@@ -56142,7 +56142,7 @@ Aunque este procedimiento pueda parecer un poco aterrador al principio no te pre
 3. A continuación, regresa a la ventana del sitio de GitHub que dejaste abierta. En esa página, la sección que interesa es _…or push an existing repository from the command line_. Deberías ver dos líneas de código listadas en esa sección. Copia toda la primera línea, pégala en la línea de comandos y presiona &lt;kbd&gt;Intro&lt;/kbd&gt;. El comando debería verse similar a:
 
     ```bash
-    git remote add origin https://github.com/bobsmith/bobsmith.github.io.gi
+    git remote add origin https://github.com/crhisdavidmills/crhisdavidmills.github.io.gi
     ```
 
 4. A continuación, ingresa los siguientes dos comandos, presionando &lt;kbd&gt;Intro&lt;/kbd&gt; después de cada uno. Estos preparan el código para cargar a GitHub y pedir a Git administrar estos archivos.
@@ -56178,14 +56178,14 @@ Puedes reemplazar el texto _otro commit_ con un mensaje más descriptivo respect
 
 En este punto, deberías tener tu página web de ejemplo disponible en una dirección web única. ¡Bien hecho!
 
-![](https://mdn.mozillademos.org/files/9485/hosted-final-site.png)
+![](hosted-final-site.png)
 
-### Ver también
+### Véase también
 
 - [¿Qué es un servidor web?](/es/docs/Learn/Common_questions/Que_es_un_servidor_WEB)
 - [¿Qué es un nombre de dominio?](/es/docs/Learn/Common_questions/What_is_a_domain_name)
 - [¿Cuánto cuesta hacer algo en la web?](/es/docs/Learn/Common_questions/Cuanto_cuesta)
-- [Cheap or free static web hosting](http://alignedleft.com/resources/cheap-web-hosting) (Alojamiento web estático barato o gratuito) _de Scott Murray_ tiene algunas ideas útiles sobre servicios disponibles aunque el sitio ya está algo desactualizado (en inglés).</seg>
+- [Alojamiento web estático barato o gratuito](http://alignedleft.com/resources/cheap-web-hosting) _de Scott Murray_ tiene algunas ideas útiles sobre servicios disponibles aunque el sitio ya está algo desactualizado (en inglés).</seg>
       </tuv>
     </tu>
     <tu>
