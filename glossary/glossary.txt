@@ -79752,3 +79752,19 @@ literacy	alfabetización	alfabetización
 double-struck	doble golpe
 fraktur	fractura
 drop	difuminada
+above the fold	primer pantallazo	Anuncio publicitario colocado en la parte superior visible de
+una página web.
+above the line	sobre la línea	Acción publicitaria que se realiza en los medios de
+comunicación convencionales: periódico, revista, radio,
+televisión o cine.
+abstract	resumen	Representación abreviada, objetiva y precisa del contenido de
+un documento o recurso.
+account supervisor	supervisor de cuentas	Profesional de una agencia de publicidad cuya misión es
+mantener óptima la relación con los clientes de la empresa.
+ad copy	texto publicitario	Redacción creativa que tiene como objetivo vender un producto
+o servicio, a diferencia del texto utilizado para cualquier otro
+fin, como informar o entretener. (Ver baseline, body copy, copy,
+copywriter y slogan).
+ADSL	Línea de abonado digital asimétrica	Tecnología de transmisión digital por triple banda ancha de alta
+velocidad, a través de una línea telefónica, fibra óptica y un
+módem decodificador inalámbrico de señales asimétricas.
