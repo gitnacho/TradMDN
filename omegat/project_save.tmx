@@ -42066,8 +42066,8 @@ relevant header and serve an actual page to the user.</seg>
       <tuv lang="en-US">
         <seg>It allows you to upload code repositories for storage in the [Git](https://git-scm.com/) **version control system.** You can then collaborate on code projects, and the system is open-source by default, meaning that anyone in the world can find your GitHub code, use it, learn from it, and improve on it.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T210254Z" creationid="Nachec" creationdate="20221023T210254Z">
-        <seg>Te permite cargar repositorios de código para almacenarlos en el **sistema de control de versiónes** de [Git](http://git-scm.com/). De esta manera puedes colaborar en proyectos de código pues por defecto el sistema es de código abierto, lo cual significa que cualquier persona en el mundo puede encontrar tu código en GitHub, usarlo, aprender de él y mejorarlo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T074820Z" creationid="Nachec" creationdate="20221023T210254Z">
+        <seg>Te permite cargar repositorios de código para almacenarlos en el **sistema de control de versiones** de [Git](http://git-scm.com/). De esta manera puedes colaborar en proyectos de código pues por defecto el sistema es de código abierto, lo cual significa que cualquier persona en el mundo puede encontrar tu código en GitHub, usarlo, aprender de él y mejorarlo.</seg>
       </tuv>
     </tu>
     <tu>
