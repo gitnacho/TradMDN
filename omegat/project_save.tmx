@@ -15007,8 +15007,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Cheap or Free Static Website Hosting](https://alignedleft.com/resources/cheap-web-hosting) by Scott Murray has some useful ideas on available services.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T072802Z" creationid="Nachec" creationdate="20221024T072802Z">
-        <seg>- [Alojamiento de sitio web estático barato o gratuito](https://alignedleft.com/resources/cheap-web-hosting) de Scott Murray tiene algunas ideas útiles sobre los servicios disponibles.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T072953Z" creationid="Nachec" creationdate="20221024T072802Z">
+        <seg>- [Alojamiento web estático barato o gratuito](http://alignedleft.com/resources/cheap-web-hosting) _de Scott Murray_ tiene algunas ideas útiles sobre servicios disponibles aunque el sitio ya está algo desactualizado (en inglés).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56132,7 +56132,7 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       <tuv lang="en-US">
         <seg>Try again.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T072414Z" creationid="Nachec" creationdate="20221023T234423Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T073025Z" creationid="Nachec" creationdate="20221023T234423Z">
         <seg>inténtalo de nuevo.
 
 ### Subir tus archivos a GitHub a través de la línea de comandos
@@ -56216,14 +56216,7 @@ Puedes reemplazar el texto _otro commit_ con un mensaje más descriptivo respect
 
 En este punto, deberías tener tu página web de ejemplo disponible en una dirección web única. ¡Bien hecho!
 
-![](hosted-final-site.png)
-
-### Véase también
-
-- [¿Qué es un servidor web?](/es/docs/Learn/Common_questions/Que_es_un_servidor_WEB)
-- [¿Qué es un nombre de dominio?](/es/docs/Learn/Common_questions/What_is_a_domain_name)
-- [¿Cuánto cuesta hacer algo en la web?](/es/docs/Learn/Common_questions/Cuanto_cuesta)
-- [Alojamiento web estático barato o gratuito](http://alignedleft.com/resources/cheap-web-hosting) _de Scott Murray_ tiene algunas ideas útiles sobre servicios disponibles aunque el sitio ya está algo desactualizado (en inglés).</seg>
+![](hosted-final-site.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -73733,6 +73726,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/JavaScript_basics", "Learn/Getting_started_with_the_web/How_the_Web_works", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T073044Z" creationid="Nachec" creationdate="20221024T073044Z">
+        <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/JavaScript_basics", "Learn/Getting_started_with_the_web/How_the_Web_works", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/What_will_your_website_look_like", "Learn/Getting_started_with_the_web/HTML_basics", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050254Z" creationid="Nachec" creationdate="20221023T050254Z">
@@ -75348,6 +75349,31 @@ tags:</prop>
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [Conceptos básicos de JavaScript](#¿qué_es_javascript_realmente)
+- [Publicar tu sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/getting_started_with_the_web/publishing_your_website/index.md</prop>
+      <prop type="prev">## In this module</prop>
+      <prop type="next"></prop>
+      <tuv lang="en-US">
+        <seg>- [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [What will your website look like?](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Dealing with files](/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [HTML basics](/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS basics](/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [JavaScript basics](/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T073154Z" creationid="Nachec" creationdate="20221024T073154Z">
+        <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Publicar tu sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
