@@ -1024,6 +1024,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Active Learning</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200552Z" creationid="Nachec" creationdate="20221025T200552Z">
+        <seg>## Aprendizaje activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Advanced Features</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070443Z" creationid="gitnacho" creationdate="20221005T070443Z">
@@ -1308,6 +1316,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173828Z" creationid="gitnacho" creationdate="20221005T173828Z">
         <seg>## Interfaz DOM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Deeper dive</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200635Z" creationid="Nachec" creationdate="20221025T200635Z">
+        <seg>## Profundizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,6 +2686,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203710Z" creationid="gitnacho" creationdate="20221018T203710Z">
         <seg>## ¿Por qué se deben restringir algunas funciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### A simple network</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200641Z" creationid="Nachec" creationdate="20221025T200641Z">
+        <seg>### Una simple red</seg>
       </tuv>
     </tu>
     <tu>
@@ -15658,6 +15682,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [How does the Internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg) Detailed well visualized 9-minute video.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200630Z" creationid="Nachec" creationdate="20221025T200630Z">
+        <seg>- [¿Cómo funciona Internet?](https://www.youtube.com/watch?v=x3c1ih2NJEg) Video detallado de 8 minutos de visualización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [How the Internet works](/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 - [HTTP — an Application-Level Protocol](https://dev.opera.com/articles/http-basic-introduction/)
 - [HTTP: Let's GET It On!](https://dev.opera.com/articles/http-lets-get-it-on/)
@@ -15668,6 +15700,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [HTTP: Un protocolo a nivel de aplicación](https://dev.opera.com/articles/http-basic-introduction/) (en inglés)
 - [HTTP: Trabajemos con él](https://dev.opera.com/articles/http-lets-get-it-on/) (en inglés)
 - [Códigos de respuesta: HTTP](https://dev.opera.com/articles/http-response-codes/) (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [How the internet Works in 5 minutes](https://www.youtube.com/watch?v=7_LPdttKXPc): A 5-minute video to understand the very basics of Internet by Aaron Titus.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200614Z" creationid="Nachec" creationdate="20221025T200614Z">
+        <seg>- [Cómo funciona internet explicado en 5 minutos](https://www.youtube.com/watch?v=7_LPdttKXPc): Un vídeo de 5 minutos para entender los fundamentos de internet por Aaron Titus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58739,6 +58779,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T202445Z" creationid="gitnacho" creationdate="20221011T202102Z">
         <seg>Cuando hay muchos elementos anidados, cada uno con sus propios controladores, el procesamiento de eventos puede volverse muy complicado, especialmente cuando un elemento principal recibe el mismo evento que sus elementos secundarios porque "espacialmente" se superponen, por lo que técnicamente el evento ocurre en ambos, y el orden de procesamiento de dichos eventos depende de la configuración del [burbujeo y captura de `Event`](/es/docs/Learn/JavaScript/Building_blocks/Events#burbujeo_y_captura_de_eventos) de cada controlador activado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When two computers need to communicate, you have to link them, either physically (usually with an [Ethernet cable](https://en.wikipedia.org/wiki/Ethernet_crossover_cable)) or wirelessly (for example with [Wi-Fi](https://en.wikipedia.org/wiki/WiFi) or [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) systems).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200823Z" creationid="Nachec" creationdate="20221025T200823Z">
+        <seg>Cuando dos ordenadores necesitan comunicarse, tienes que vincularlos, ya sea físicamente (por lo general con un [cable de Ethernet](http://en.wikipedia.org/wiki/Ethernet_crossover_cable)) o de forma inalámbrica (por ejemplo por [WiFi](http://en.wikipedia.org/wiki/WiFi) o sistema de [Bluetooth](http://en.wikipedia.org/wiki/Bluetooth)).</seg>
       </tuv>
     </tu>
     <tu>
