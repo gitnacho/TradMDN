@@ -24670,6 +24670,16 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: What do common web layouts contain?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225303Z" creationid="Nachec" creationdate="20221025T225303Z">
+        <seg>---
+title: What do common web layouts contain?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: What will your website look like?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T055842Z" creationid="gitnacho" creationdate="20221019T055842Z">
@@ -37746,8 +37756,8 @@ a simple value):</seg>
       <tuv lang="en-US">
         <seg>First, find the [output from Google Fonts](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#font) that you previously saved from [What will your website look like?](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T164652Z" creationid="Nachec" creationdate="20221023T134814Z">
-        <seg>Primero, busca el [resultado de Google Fonts](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#tipos_de_letra) que guardaste previamente en [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225425Z" creationid="Nachec" creationdate="20221023T134814Z">
+        <seg>Primero, busca el [resultado de Google Fonts](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#tipos_de_letra) que guardaste previamente en [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56813,8 +56823,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To demonstrate this, we will insert a little bit of HTML into our `index.html` file, and make it display the image you chose in the article ["What will your website look like?"](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like) Alternatively, you can choose an existing image at your disposal, on your computer or from the Web, and use it in the following steps:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045002Z" creationid="Nachec" creationdate="20221023T045002Z">
-        <seg>Para demostrarlo, insertaremos un poco de HTML en nuestro archivo `index.html` y haremos que muestre la imagen que elegiste en el artículo [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#imágenes)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225433Z" creationid="Nachec" creationdate="20221023T045002Z">
+        <seg>Para demostrarlo, insertaremos un poco de HTML en nuestro archivo `index.html` y haremos que muestre la imagen que elegiste en el artículo [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#imágenes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61275,8 +61285,8 @@ crate-type = ["cdylib"]</seg>
       <tuv lang="en-US">
         <seg>_What will your website look like?_ discusses the planning and design work you have to do for your website before writing code, including "What information does my website offer?", "What fonts and colors do I want?", and "What does my site do?"</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060922Z" creationid="gitnacho" creationdate="20221019T060922Z">
-        <seg>_¿Cómo se verá tu sitio web?_, analiza el trabajo de planificación y diseño que debes realizar para tu sitio web antes de escribir el código, incluyendo: "¿qué información ofrece mi sitio web?", "¿qué tipos de letra y colores quiero?" y "¿qué hace mi sitio?".</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225440Z" creationid="gitnacho" creationdate="20221019T060922Z">
+        <seg>_¿Cual será la apariencia de tu sitio web?_, analiza el trabajo de planificación y diseño que debes realizar para tu sitio web antes de escribir el código, incluyendo: "¿qué información ofrece mi sitio web?", "¿qué tipos de letra y colores quiero?" y "¿qué hace mi sitio?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -76618,9 +76628,9 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144809Z" creationid="Nachec" creationdate="20221023T051801Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225429Z" creationid="Nachec" creationdate="20221023T051801Z">
         <seg>- [Instalar software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](#entonces_¿qué_es_css_realmente)
@@ -76643,9 +76653,9 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T113214Z" creationid="Nachec" creationdate="20221023T113214Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225434Z" creationid="Nachec" creationdate="20221023T113214Z">
         <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](#¿dónde_debería_estar_tu_sitio_web_en_tu_computadora)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -76693,9 +76703,9 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T065535Z" creationid="Nachec" creationdate="20221023T065535Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225435Z" creationid="Nachec" creationdate="20221023T065535Z">
         <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Conceptos básicos de HTML](#entonces_¿qué_es_html_en_realidad)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -76718,9 +76728,9 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T111703Z" creationid="Nachec" creationdate="20221023T111555Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225436Z" creationid="Nachec" creationdate="20221023T111555Z">
         <seg>- [Instalación del software básico](#¿qué_herramientas_necesito_en_este_momento)
-- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -76757,9 +76767,9 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200937Z" creationid="Nachec" creationdate="20221023T200937Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225437Z" creationid="Nachec" creationdate="20221023T200937Z">
         <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -76782,9 +76792,9 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221024T073154Z" creationid="Nachec" creationdate="20221024T073154Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225438Z" creationid="Nachec" creationdate="20221024T073154Z">
         <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-- [¿Cómo se verá tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -76807,9 +76817,9 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T112156Z" creationid="Nachec" creationdate="20221023T112156Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225441Z" creationid="Nachec" creationdate="20221023T112156Z">
         <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-- [¿Cómo se verá tu sitio web?](#lo_primero_es_lo_primero_planificación)
+- [¿Cual será la apariencia de tu sitio web?](#lo_primero_es_lo_primero_planificación)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
