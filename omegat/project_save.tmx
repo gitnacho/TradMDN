@@ -73757,6 +73757,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{PreviousMenu("Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185327Z" creationid="Nachec" creationdate="20221025T185327Z">
+        <seg>{{PreviousMenu("Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{PreviousMenuNext("Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T200732Z" creationid="Nachec" creationdate="20221023T200732Z">
@@ -75325,6 +75333,31 @@ tags:</prop>
 - [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Publicar tu sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">learn/getting_started_with_the_web/how_the_web_works/index.md</prop>
+      <prop type="prev">## In this module</prop>
+      <prop type="next"></prop>
+      <tuv lang="en-US">
+        <seg>- [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [What will your website look like?](/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Dealing with files](/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [HTML basics](/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS basics](/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [JavaScript basics](/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190000Z" creationid="Nachec" creationdate="20221025T190000Z">
+        <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [¿Cómo se verá su sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Publicar su sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [Cómo funciona la web](#)</seg>
       </tuv>
     </tu>
     <tu>
