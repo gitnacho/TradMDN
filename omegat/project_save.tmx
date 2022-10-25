@@ -15500,6 +15500,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [HTML global attributes](/en-US/docs/Web/HTML/Global_attributes)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T194109Z" creationid="Nachec" creationdate="20221025T194109Z">
+        <seg>- [Atributos globales HTML](/es/docs/Web/HTML/Global_attributes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [HTML table basics](/en-US/docs/Learn/HTML/Tables/Basics)
 - [HTML table advanced features and accessibility](/en-US/docs/Learn/HTML/Tables/Advanced)
 - [Structuring planet data](/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)</seg>
@@ -20154,6 +20162,30 @@ browser-compat: api.Document.timeline
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{Glossary("LTR")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193949Z" creationid="Nachec" creationdate="20221025T193949Z">
+        <seg>- {{Glossary("LTR")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{Glossary("Localization")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193948Z" creationid="Nachec" creationdate="20221025T193948Z">
+        <seg>- {{Glossary("Localization")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{Glossary("RTL")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193952Z" creationid="Nachec" creationdate="20221025T193952Z">
+        <seg>- {{Glossary("RTL")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{Glossary("Representation header")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T155258Z" creationid="gitnacho" creationdate="20221017T211951Z">
@@ -20198,6 +20230,14 @@ browser-compat: api.Document.timeline
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161342Z" creationid="gitnacho" creationdate="20221017T211616Z">
         <seg>- {{Glossary("Response header", "Cabecera de respuesta — response")}}: Cabeceras con información adicional sobre la respuesta, como su ubicación o sobre el propio servidor (nombre, versión,…).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- {{Glossary("locale")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193947Z" creationid="Nachec" creationdate="20221025T193947Z">
+        <seg>- {{Glossary("locale")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20473,13 +20513,13 @@ browser-compat: api.Document.timeline
 - {{cssxref(":dir")}}
 - {{cssxref("direction")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T174152Z" creationid="gitnacho" creationdate="20221012T174152Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="gitnacho" creationdate="20221012T174152Z">
         <seg>- {{SVGElement("feGaussianBlur")}}
 - {{SVGAttr("keySplines")}} atributo SVG
-- {{htmlattrxref("dir")}}
-- {{htmlattrxref("lang")}}
-- {{cssxref(":dir")}}
-- {{cssxref("direction")}}</seg>
+- {{HTMLAttrxRef("dir")}}
+- {{HTMLAttrxRef("lang")}}
+- {{CSSxRef(":dir")}}
+- {{CSSxRef("direction")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20576,8 +20616,8 @@ browser-compat: api.Document.timeline
       <tuv lang="en-US">
         <seg>- {{cssxref(":dir")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200455Z" creationid="gitnacho" creationdate="20221005T200455Z">
-        <seg>- {{cssxref(":dir")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="gitnacho" creationdate="20221005T200455Z">
+        <seg>- {{CSSxRef(":dir")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20604,32 +20644,32 @@ browser-compat: api.Document.timeline
       <tuv lang="en-US">
         <seg>- {{cssxref("direction")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200457Z" creationid="gitnacho" creationdate="20221005T200457Z">
-        <seg>- {{cssxref("direction")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="gitnacho" creationdate="20221005T200457Z">
+        <seg>- {{CSSxRef("direction")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{cssxref("text-transform")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T205139Z" creationid="Nachec" creationdate="20221021T205139Z">
-        <seg>- {{cssxref("text-transform")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="Nachec" creationdate="20221021T205139Z">
+        <seg>- {{CSSxRef("text-transform")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{cssxref("unicode-bidi")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200457Z" creationid="gitnacho" creationdate="20221005T200457Z">
-        <seg>- {{cssxref("unicode-bidi")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="gitnacho" creationdate="20221005T200457Z">
+        <seg>- {{CSSxRef("unicode-bidi")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{cssxref("writing-mode")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200529Z" creationid="gitnacho" creationdate="20221005T200529Z">
-        <seg>- {{cssxref("writing-mode")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="gitnacho" creationdate="20221005T200529Z">
+        <seg>- {{CSSxRef("writing-mode")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21152,16 +21192,16 @@ browser-compat: api.Document.timeline
       <tuv lang="en-US">
         <seg>- {{htmlattrxref("dir")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200531Z" creationid="gitnacho" creationdate="20221005T200531Z">
-        <seg>- {{htmlattrxref("dir")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193849Z" creationid="gitnacho" creationdate="20221005T200531Z">
+        <seg>- {{HTMLAttrxRef("dir")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{htmlattrxref("lang")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200532Z" creationid="gitnacho" creationdate="20221005T200532Z">
-        <seg>- {{htmlattrxref("lang")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193849Z" creationid="gitnacho" creationdate="20221005T200532Z">
+        <seg>- {{HTMLAttrxRef("lang")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28069,8 +28109,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;code&gt;\{{HTMLAttrxRef("type","input")}}&lt;/code&gt; result in a link to the {{htmlattrxref("type","input")}} attribute (on the {{HTMLElement("input")}} element).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T111049Z" creationid="gitnacho" creationdate="20221005T111049Z">
-        <seg>&lt;code&gt;\{{HTMLAttrxRef("type","input")}}&lt;/code&gt; da como resultado un enlace al atributo {{htmlattrxref("type","input")}} (en el elemento {{HTMLElement( "input")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193849Z" creationid="gitnacho" creationdate="20221005T111049Z">
+        <seg>&lt;code&gt;\{{HTMLAttrxRef("type","input")}}&lt;/code&gt; da como resultado un enlace al atributo {{HTMLAttrxRef("type","input")}} (en el elemento {{HTMLElement( "input")}}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35374,8 +35414,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Browsers that support the `module` value for the {{htmlattrxref("type", "script")}} attribute ignore any script with a `nomodule` attribute.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134118Z" creationid="gitnacho" creationdate="20221003T134118Z">
-        <seg>Los navegadores que admiten el valor `module` para el atributo {{htmlattrxref("type", "script")}} ignoran cualquier script con un atributo `nomodule`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193849Z" creationid="gitnacho" creationdate="20221003T134118Z">
+        <seg>Los navegadores que admiten el valor `module` para el atributo {{HTMLAttrxRef("type", "script")}} ignoran cualquier script con un atributo `nomodule`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42669,10 +42709,10 @@ relevant header and serve an actual page to the user.</seg>
 \{{cssxref("margin-top")}}, \{{cssxref("margin-right")}}, \{{cssxref("margin-bottom")}},
 and \{{cssxref("margin-left")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191850Z" creationid="gitnacho" creationdate="20221008T191850Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="gitnacho" creationdate="20221008T191850Z">
         <seg>Es una abreviatura de
-\{{cssxref("margin-top")}}, \{{cssxref("margin.right")}}, \{{cssxref("margin-bottom")}},
-y \{{cssxref("margin-left")}}.</seg>
+\{{CSSxRef("margin-top")}}, \{{CSSxRef("margin.right")}}, \{{CSSxRef("margin-bottom")}},
+y \{{CSSxRef("margin-left")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44616,8 +44656,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>Multiple {{glossary("browsing context", "browsing contexts")}} (e.g. pages, workers, etc.) can be associated with the same service worker, each through a unique `ServiceWorker` object.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T212140Z" creationid="gitnacho" creationdate="20221003T212140Z">
-        <seg>Múltiples {{glossary("browsing context", "browsing contexts")}} (por ejemplo, páginas, *workers*, etc.) se pueden asociar con el mismo *service worker*, cada uno a través de un objeto `ServiceWorker` único.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193707Z" creationid="gitnacho" creationdate="20221003T212140Z">
+        <seg>Múltiples {{Glossary("browsing context", "browsing contexts")}} (por ejemplo, páginas, *workers*, etc.) se pueden asociar con el mismo *service worker*, cada uno a través de un objeto `ServiceWorker` único.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47638,8 +47678,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Some elements have no content and are called **{{glossary("void element", "void elements")}}**.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060327Z" creationid="Nachec" creationdate="20221023T060327Z">
-        <seg>Algunos elementos no poseen contenido, y son llamados **{{glossary("void element", "elementos vacíos")}}**.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193707Z" creationid="Nachec" creationdate="20221023T060327Z">
+        <seg>Algunos elementos no poseen contenido, y son llamados **{{Glossary("void element", "elementos vacíos")}}**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56263,8 +56303,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To fix this, you can either: 1) reduce the image width using a [graphics editor](https://en.wikipedia.org/wiki/Raster_graphics_editor), or 2) use CSS to size the image by setting the {{cssxref("width")}} property on the `&lt;img&gt;` element with a smaller value.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T144037Z" creationid="Nachec" creationdate="20221023T144037Z">
-        <seg>Para solucionar esto, puedes hacer lo siguiente: 1) reduce el ancho de la imagen usando un [editor gráfico](https://es.wikipedia.org/wiki/Editor_de_gráficos_rasterizados), o 2) usar CSS para dimensionar la imagen estableciendo la propiedad {{cssxref("width")}} en el elemento `&lt;img&gt;` con un valor menor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="Nachec" creationdate="20221023T144037Z">
+        <seg>Para solucionar esto, puedes hacer lo siguiente: 1) reduce el ancho de la imagen usando un [editor gráfico](https://es.wikipedia.org/wiki/Editor_de_gráficos_rasterizados), o 2) usar CSS para dimensionar la imagen estableciendo la propiedad {{CSSxRef("width")}} en el elemento `&lt;img&gt;` con un valor menor.</seg>
       </tuv>
     </tu>
     <tu>
