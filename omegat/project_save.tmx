@@ -1930,8 +1930,8 @@
       <tuv lang="en-US">
         <seg>## Order in which component files are parsed</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191302Z" creationid="Nachec" creationdate="20221025T191302Z">
-        <seg>## Order in which component files are parsed</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T194251Z" creationid="Nachec" creationdate="20221025T191302Z">
+        <seg>## Orden en que se analizan los archivos de componentes</seg>
       </tuv>
     </tu>
     <tu>
