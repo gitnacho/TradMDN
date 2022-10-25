@@ -1288,6 +1288,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## DNS explained</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191415Z" creationid="Nachec" creationdate="20221025T191415Z">
+        <seg>## Explicación de los DNS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## DOM Interface</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173828Z" creationid="gitnacho" creationdate="20221005T173828Z">
@@ -1908,6 +1916,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192257Z" creationid="Nachec" creationdate="20221021T192257Z">
         <seg>## Propiedades del operador \&lt;mo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Order in which component files are parsed</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191302Z" creationid="Nachec" creationdate="20221025T191302Z">
+        <seg>## Order in which component files are parsed</seg>
       </tuv>
     </tu>
     <tu>
@@ -46315,6 +46331,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Real web addresses aren't the nice, memorable strings you type into your address bar to find your favorite websites.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191511Z" creationid="Nachec" creationdate="20221025T191511Z">
+        <seg>Las direcciones web reales no son las cadenas agradables y memorables que escribes en tu barra de direcciones para encontrar tus sitios web favoritos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recall that [some vertical operators can stretch](/en-US/docs/Learn/MathML/First_steps/Text_containers#active_learning_stretchy_operators) to cover the height of non-stretchy siblings inside an `&lt;mrow&gt;`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104952Z" creationid="Nachec" creationdate="20221021T104923Z">
@@ -53094,6 +53118,35 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205929Z" creationid="gitnacho" creationdate="20221005T205929Z">
         <seg>No son apropiados si deseas mostrar, por ejemplo, cómo combinar una estructura particular de HTML/CSS/JS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are special numbers that look like this: `63.245.215.20`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191535Z" creationid="Nachec" creationdate="20221025T191535Z">
+        <seg>Las direcciones webs reales no son las agradables y fácilmente recordables secuencias que tecleas en la barra de direcciones para encontrar tus sitios webs favoritos. En realidad, se trata de secuencias de números, algo como 63.245.217.105.
+
+Lo anterior se llama [dirección IP](/es/docs/Glossary/IP_Address) y representa un lugar único en la web. Sin embargo, no es muy fácil de recordar, ¿verdad? Por eso se inventaron los servidores de nombres de dominio. Estos son servidores especiales que hacen coincidir una dirección web tecleada desde tu navegador («mozilla.org», por ejemplo) con la dirección real del sitio web (IP).
+
+Los sitios webs se pueden acceder directamente a través de sus direcciones IP. Intenta acceder a la página web de Mozilla escribiendo **`63.245.217.105`** en la barra de dirección de una nueva pestaña en tu navegador. Puedes encontrar la dirección IP de un sitio web escribiendo su dominio en una herramienta como [DNS lookup](https://www.nslookup.io/website-to-ip-lookup/).
+
+![Un nombre de dominio es más que otra forma de una dirección IP](https://mdn.mozillademos.org/files/8405/dns-ip.png)
+
+## Explicación de los paquetes
+
+Anteriormente hemos utilizado el término _**paquetes**_ para describir el formato en que los datos se envían desde el servidor al cliente. ¿Qué significa esto? Básicamente, que los datos se envían a través de la web como miles de trozos pequeños, permitiendo que muchos usuarios pueden descargar la misma página web al mismo tiempo. Si los sitios web fueran enviados como grandes trozos, sólo un usuario podría descargarlos a la vez, lo que volvería a la web muy ineficiente y poco divertida.
+
+## Ver también
+
+- [¿Cómo funciona Internet](/es/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [HTTP: Un protocolo de nivel de aplicación](https://dev.opera.com/articles/http-basic-introduction/) (en inglés)
+- [HTTP: Trabajemos con él](https://dev.opera.com/articles/http-lets-get-it-on/) (en inglés)
+- [Códigos de respuesta: HTTP](https://dev.opera.com/articles/http-response-codes/) (en inglés)
+
+## Crédito
+
+Foto de la calle: Street Composing, por [kevin digga](https://www.pinterest.com/kevindigga/).The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client (you go to the shop and order your goods).</seg>
       </tuv>
     </tu>
     <tu>
