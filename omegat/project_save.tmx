@@ -2104,6 +2104,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## So what happens, exactly?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190842Z" creationid="Nachec" creationdate="20221025T190842Z">
+        <seg>## Entonces, ¿qué sucede exactamente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## So what is HTML?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T053633Z" creationid="Nachec" creationdate="20221023T053633Z">
@@ -6858,10 +6866,42 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- **Assets**: This is a collective name for all the other stuff that makes up a website, such as images, music, video, Word documents, and PDFs.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190835Z" creationid="Nachec" creationdate="20221025T190835Z">
+        <seg>- **Recursos:** Este es un nombre colectivo para el resto de materiales que conforman un sitio web, como imágenes, música, video, documentos de Word, archivos PDF, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Code files**: Websites are built primarily from HTML, CSS, and JavaScript, though you'll meet other technologies a bit later.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190815Z" creationid="Nachec" creationdate="20221025T190815Z">
+        <seg>- **Archivos de código**: Los sitios web se construyen principalmente con HTML, CSS y JavaScript, aunque te encontrarás con otras tecnologías más adelante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Component files**: A website is made up of many different files, which are like the different parts of the goods you buy from the shop.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190752Z" creationid="Nachec" creationdate="20221025T190752Z">
+        <seg>- **Archivos componentes**: Un sitio web se compone de muchos archivos diferentes, que son como las diferentes partes de los productos que comprarás en la tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- **DNS**: Domain Name System is like an address book for websites.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190549Z" creationid="Nachec" creationdate="20221025T190536Z">
         <seg>- **DNS:** Los servidores del **Sistema de Nombres de Dominio** (DNS, por sus siglas en inglés), son como una libreta de direcciones de sitios web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **HTTP**: Hypertext Transfer Protocol is an application {{Glossary("Protocol", "protocol")}} that defines a language for clients and servers to speak to each other.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190729Z" creationid="Nachec" creationdate="20221025T190710Z">
+        <seg>- **HTTP:** El **Protocolo de Transferencia de Hipertexto** es un protocolo de aplicación que define un idioma para que los clientes y servidores se puedan comunicar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49509,6 +49549,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The browser goes to the DNS server, and finds the real address of the server that the website lives on (you find the address of the shop).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190906Z" creationid="Nachec" creationdate="20221025T190906Z">
+        <seg>El navegador va al servidor DNS y encuentra la dirección real del servidor donde el sitio web vive (encontrar la dirección de la tienda).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The browser ignores comments as it renders the code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070839Z" creationid="Nachec" creationdate="20221023T070839Z">
@@ -49521,6 +49569,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183840Z" creationid="Nachec" creationdate="20221023T183825Z">
         <seg>El navegador ignora el texto marcado como comentario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The browser needs to find out which server the website lives on, so it can send HTTP messages to the right place (see below).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190630Z" creationid="Nachec" creationdate="20221025T190630Z">
+        <seg>El navegador necesita averiguar en qué servidor vive el sitio web y así enviar los mensajes HTTP al lugar correcto (ve más abajo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52778,6 +52834,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These files come in two main types:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190800Z" creationid="Nachec" creationdate="20221025T190800Z">
+        <seg>Estos archivos se dividen en dos tipos principales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These functions, `document.querySelector` and `alert`, are built into the browser.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191309Z" creationid="Nachec" creationdate="20221023T191309Z">
@@ -54518,6 +54582,22 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181402Z" creationid="Nachec" creationdate="20221021T181402Z">
         <seg>Así es como se renderiza en tu navegador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is like looking up the address of the shop so you can access it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190643Z" creationid="Nachec" creationdate="20221025T190643Z">
+        <seg>Esto es como buscar la dirección de la tienda para que puedas llegar a ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is like the language you use to order your goods.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190733Z" creationid="Nachec" creationdate="20221025T190723Z">
+        <seg>Esto es como el idioma que utilizas para ordenar tus compras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58363,8 +58443,16 @@ función exportada desde su interior.</seg>
       <tuv lang="en-US">
         <seg>When you type a web address in your browser, the browser looks at the DNS to find the website's IP address before it can retrieve the website.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190541Z" creationid="Nachec" creationdate="20221025T190541Z">
-        <seg>When you type a web address in your browser, the browser looks at the DNS to find the website's IP address before it can retrieve the website.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190603Z" creationid="Nachec" creationdate="20221025T190541Z">
+        <seg>Cuando escribes una dirección web en el navegador, el navegador busca los DNS antes de recuperar el sitio web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you type a web address into your browser (for our analogy that's like walking to the shop):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190852Z" creationid="Nachec" creationdate="20221025T190852Z">
+        <seg>Cuando escribes una dirección web en el navegador (usando nuestra analogía para ir a la tienda):</seg>
       </tuv>
     </tu>
     <tu>
