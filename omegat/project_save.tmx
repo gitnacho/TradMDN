@@ -32703,6 +32703,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;Article on setting project goals&lt;/a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200213Z" creationid="Nachec" creationdate="20221025T200213Z">
+        <seg>&gt;Artículo sobre el establecimiento de metas&lt;/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;Content categories&lt;/a</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T120908Z" creationid="gitnacho" creationdate="20221003T120908Z">
@@ -34965,6 +34973,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205027Z" creationid="gitnacho" creationdate="20221005T205027Z">
         <seg>Como mínimo, al menos las opciones o propiedades más comunes se deben incluir en los ejemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At its most basic, the Internet is a large network of computers which communicate all together.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200353Z" creationid="Nachec" creationdate="20221025T200353Z">
+        <seg>**Internet** es la columna vertebral de la Web, la infraestructura técnica que la hace posible. En esencia, Internet es una gran red de computadoras que se comunican simultáneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42549,6 +42565,14 @@ relevant header and serve an actual page to the user.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It began in the 1960s as a US-army-funded research project, then evolved into a public infrastructure in the 1980s with the support of many public universities and private companies.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200441Z" creationid="Nachec" creationdate="20221025T200441Z">
+        <seg>Comenzó en la década de 1960 como un proyecto de investigación financiado por el ejercito de los EE.UU, y luego se convirtió en una infraestructura pública en la década de 1980 con el apoyo de muchas universidades públicas y empresas privadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can also be triggered programmatically, such as by calling the [`HTMLElement.click()`](/en-US/docs/Web/API/HTMLElement/click) method of an element, or by defining the event, then sending it to a specified target using [`EventTarget.dispatchEvent()`](/en-US/docs/Web/API/EventTarget/dispatchEvent).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T201654Z" creationid="gitnacho" creationdate="20221011T201654Z">
@@ -48288,6 +48312,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **Internet** is the backbone of the Web, the technical infrastructure that makes the Web possible.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200314Z" creationid="Nachec" creationdate="20221025T200314Z">
+        <seg>## Resumen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The **`&lt;length-percentage&gt;`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) represents a value that can be either a {{Cssxref("length")}} or a {{Cssxref("percentage")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224912Z" creationid="Nachec" creationdate="20221021T224912Z">
@@ -52240,6 +52272,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063450Z" creationid="gitnacho" creationdate="20221004T063450Z">
         <seg>La variable que estamos pasando es `name`, el argumento de la función, por lo que si llamamos a `greet("Steve")` deberíamos ver `"¡Hola, Steve!".`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The various technologies that support the Internet have evolved over time, but the way it works hasn't changed that much: Internet is a way to connect computers all together and ensure that, whatever happens, they find a way to stay connected.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200546Z" creationid="Nachec" creationdate="20221025T200546Z">
+        <seg>Las distintas tecnologías compatibles con internet han evolucionado con el tiempo, pero la forma en que funciona no ha cambiado mucho: Internet es una forma de conectar las computadoras entre sí y asegurar que, pase lo que pase, encuentren una manera de mantenerse conectadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59989,6 +60029,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will learn the basics of the technical infrastructure of the Web and</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200257Z" creationid="Nachec" creationdate="20221025T200257Z">
+        <seg>Aprenderás lo básico a cerca de la infraestructura técnica de la web y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You won't build another Facebook right away, but it's not hard to make your own simple website online, so we'll start there.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042324Z" creationid="gitnacho" creationdate="20220925T042324Z">
@@ -60179,6 +60227,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183714Z" creationid="gitnacho" creationdate="20220922T211117Z">
         <seg>[Acelera el *Service Worker*&amp;nbsp;con precargas de navegación → Respuestas personalizadas para precargas](https://developer.chrome.com/blog/navigation-preload/) proporciona un ejemplo más completo de un sitio donde se construye la respuesta para una página web de artículo desde un encabezado y pie de página en caché, de modo que solo devuelva el contenido del artículo para una precarga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[The history of the Internet is somewhat obscure](https://en.wikipedia.org/wiki/Internet#History).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200410Z" creationid="Nachec" creationdate="20221025T200410Z">
+        <seg>[La historia de internet es algo oscura](http://en.wikipedia.org/wiki/Internet#History).</seg>
       </tuv>
     </tu>
     <tu>
@@ -69006,6 +69062,14 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>first</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200233Z" creationid="Nachec" creationdate="20221025T200233Z">
+        <seg>primero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>first.onchange = () =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115852Z" creationid="gitnacho" creationdate="20221007T115852Z">
@@ -72978,6 +73042,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183643Z" creationid="Nachec" creationdate="20221023T183643Z">
         <seg>los ejemplos anteriores también.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the difference between Internet and the Web.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200308Z" creationid="Nachec" creationdate="20221025T200308Z">
+        <seg>la diferencia entre Internet y la Web.</seg>
       </tuv>
     </tu>
     <tu>
