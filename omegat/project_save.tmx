@@ -10908,10 +10908,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Beginner</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T201104Z" creationid="gitnacho" creationdate="20220925T035244Z">
-        <seg>- Beginner
-  - Principiante
-  - Novato</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200038Z" creationid="gitnacho" creationdate="20220925T035244Z">
+        <seg>- Beginner</seg>
       </tuv>
     </tu>
     <tu>
@@ -14314,6 +14312,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Tutorial</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200032Z" creationid="Nachec" creationdate="20221025T200032Z">
+        <seg>- Tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- TypedArray</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050158Z" creationid="gitnacho" creationdate="20221005T050158Z">
@@ -15657,8 +15663,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [HTTP: Let's GET It On!](https://dev.opera.com/articles/http-lets-get-it-on/)
 - [HTTP: Response Codes](https://dev.opera.com/articles/http-response-codes/)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192541Z" creationid="Nachec" creationdate="20221025T192541Z">
-        <seg>- [¿Cómo funciona Internet](/es/docs/Learn/Common_questions/How_does_the_Internet_work)
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T195816Z" creationid="Nachec" creationdate="20221025T192541Z">
+        <seg>- [¿Cómo funciona Internet?](/es/docs/Learn/Common_questions/How_does_the_Internet_work)
 - [HTTP: Un protocolo a nivel de aplicación](https://dev.opera.com/articles/http-basic-introduction/) (en inglés)
 - [HTTP: Trabajemos con él](https://dev.opera.com/articles/http-lets-get-it-on/) (en inglés)
 - [Códigos de respuesta: HTTP](https://dev.opera.com/articles/http-response-codes/) (en inglés)</seg>
@@ -22901,6 +22907,16 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: How does the Internet work?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T195748Z" creationid="Nachec" creationdate="20221025T195748Z">
+        <seg>---
+title: ¿Cómo funciona Internet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: How the web works
 slug: Learn/Getting_started_with_the_web/How_the_Web_works
 tags:</seg>
@@ -27618,6 +27634,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184922Z" creationid="Nachec" creationdate="20221021T184922Z">
         <seg>&lt;a href="/es/docs/Learn/CSS/Styling_text/Web_fonts"&gt;fuentes web&lt;/a&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a href="/en-US/docs/Learn/Common_questions/Thinking_before_coding"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200202Z" creationid="Nachec" creationdate="20221025T200202Z">
+        <seg>&lt;a href="/es/docs/Learn/Common_questions/Thinking_before_coding"</seg>
       </tuv>
     </tu>
     <tu>
@@ -44960,6 +44984,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None, but we encourage you to read the</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200109Z" creationid="Nachec" creationdate="20221025T200109Z">
+        <seg>Ninguno, pero te animamos a leer el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not all browsers currently support following redirects after a preflighted request.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224739Z" creationid="gitnacho" creationdate="20221011T224739Z">
@@ -53657,6 +53689,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This article discusses what the Internet is and how it works.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200052Z" creationid="Nachec" creationdate="20221025T200052Z">
+        <seg>En este artículo se describe qué es Internet y cómo funciona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This article doesn't attempt to document all the possible methods.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204616Z" creationid="Nachec" creationdate="20221023T204616Z">
@@ -58419,8 +58459,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When browsers send requests to servers for HTML files, those HTML files often contain {{htmlelement("link")}} elements referencing external [CSS](/en-US/docs/Learn/CSS) stylesheets and {{htmlelement("script")}} elements referencing external [JavaScript](/en-US/docs/Learn/JavaScript) scripts.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221025T192837Z">
-        <seg>Cuando los navegadores envían solicitudes a los servidores de archivos HTML, esos archivos HTML a menudo contienen elementos {{HTMLElement("link")}} que hacen referencia a hojas de estilo [CSS](/es/docs/Learn/CSS) externas y elementos {{HTMLElement(" script")}} que hacen referencia a scripts [JavaScript](/es/docs/Learn/JavaScript) externos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T195324Z" creationid="Nachec" creationdate="20221025T192837Z">
+        <seg>Cuando los navegadores envían solicitudes a los servidores de archivos HTML, esos archivos HTML a menudo contienen elementos {{HTMLElement("link")}} que hacen referencia a hojas de estilo [CSS](/es/docs/Learn/CSS) externas y elementos {{HTMLElement("script")}} que hacen referencia a scripts [JavaScript](/es/docs/Learn/JavaScript) externos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72602,6 +72642,17 @@ api.free_result(resultPointer);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>slug: Learn/Common_questions/How_does_the_Internet_work
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T195728Z" creationid="Nachec" creationdate="20221025T195728Z">
+        <seg>slug: Learn/Common_questions/How_does_the_Internet_work
+rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>slug: Learn/Getting_started_with_the_web/What_will_your_website_look_like
 tags:</seg>
       </tuv>
@@ -74411,6 +74462,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{QuicklinksWithSubPages("Learn/Common_questions")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200041Z" creationid="Nachec" creationdate="20221025T200041Z">
+        <seg>{{QuicklinksWithSubPages("Learn/Common_questions")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{SVGRef}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T121914Z" creationid="gitnacho" creationdate="20221005T121914Z">
@@ -75939,7 +75998,7 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190000Z" creationid="Nachec" creationdate="20221025T190000Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T195558Z" creationid="Nachec" creationdate="20221025T190000Z">
         <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
 - [¿Cómo se verá su sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
@@ -75947,7 +76006,7 @@ tags:</prop>
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Publicar su sitio web](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
-- [Cómo funciona la web](#)</seg>
+- [Cómo funciona la web](#clientes_y_servidores)</seg>
       </tuv>
     </tu>
     <tu>
