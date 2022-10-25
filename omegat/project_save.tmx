@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![A router linked to a modem](internet-schema-6.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201705Z" creationid="Nachec" creationdate="20221025T201705Z">
+        <seg>![Un router conectado a un modem](internet-schema-6.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![A screenshot of our basic website showing just the Firefox logo - a flaming fox wrapping the world](website-screenshot.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045936Z" creationid="Nachec" creationdate="20221023T045936Z">
@@ -35628,6 +35636,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But it's not really possible to set cables up between your house and the rest of the world, so how can you handle this?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201503Z" creationid="Nachec" creationdate="20221025T201503Z">
+        <seg>Pero no es posible instalar cables entre tu casa y el resto del mundo, así que ¿cómo puedes manejar esto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But make sure you don't skip.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224035Z" creationid="gitnacho" creationdate="20221018T224035Z">
@@ -47828,6 +47844,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So we are connected to the telephone infrastructure.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201716Z" creationid="Nachec" creationdate="20221025T201716Z">
+        <seg>Entonces estamos conectados a la infraestructura telefónica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So what links the `call_indirect` to the table we are calling?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073127Z" creationid="gitnacho" creationdate="20221007T073127Z">
@@ -51576,6 +51600,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The next step is to send the messages from our network to the network we want to reach.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201738Z" creationid="Nachec" creationdate="20221025T201738Z">
+        <seg>El siguiente paso es enviar el mensaje desde nuestra red a la red que queremos llegar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number types are:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054428Z" creationid="gitnacho" creationdate="20221007T054428Z">
@@ -52288,6 +52320,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The telephone infrastructure already connects your house with anyone in the world so it is the perfect wire we need.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201526Z" creationid="Nachec" creationdate="20221025T201526Z">
+        <seg>La infraestructura telefónica ya conecta tu casa con cualquier persona en el mundo, así que es el cable perfecto que necesitamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The templates should be placed directly underneath the main page title (or breadcrumb navigation if available) in the reference page.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T115303Z" creationid="gitnacho" creationdate="20221005T115303Z">
@@ -52956,6 +52996,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T225317Z" creationid="gitnacho" creationdate="20221018T225317Z">
         <seg>No hay artículos de evaluación específicos en este conjunto de módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are other networks out there: your friends, your neighbors, anyone can have their own network of computers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201447Z" creationid="Nachec" creationdate="20221025T201447Z">
+        <seg>Hay otras redes ahí fuera: tus amigos, tus vecinos, cualquiera puede tener su propia red de ordenadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53733,6 +53781,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213305Z" creationid="gitnacho" creationdate="20221011T213103Z">
         <seg>Este [estándar de usar el intercambio de recursos de origen cruzado](https://fetch.spec.whatwg.org/#http-cors-protocol) puede habilitar solicitudes HTTP de origen cruzado para:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This _modem_ turns the information from our network into information manageable by the telephone infrastructure and vice versa.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201653Z" creationid="Nachec" creationdate="20221025T201639Z">
+        <seg>Este _módem_ convierte la información de nuestra red en información manejable por la infraestructura telefónica y viceversa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56405,6 +56461,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To connect our network to the telephone infrastructure, we need a special piece of equipment called a _modem_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201643Z" creationid="Nachec" creationdate="20221025T201537Z">
+        <seg>Para conectar nuestra red a la infraestructura telefónica, necesitamos un equipo especial llamado _módem_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To continue, let's add more CSS.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141603Z" creationid="Nachec" creationdate="20221023T141603Z">
@@ -56481,6 +56545,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T222655Z" creationid="Nachec" creationdate="20221021T222430Z">
         <seg>Para mostrar texto _con_ significado notacional, usa {{ MathMLElement("mi") }}, {{ MathMLElement("mn") }}, {{ MathMLElement("mo") }} o {{ MathMLElement("ms") }} en su lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do that, we will connect our network to an Internet Service Provider (ISP).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201753Z" creationid="Nachec" creationdate="20221025T201753Z">
+        <seg>Para lograr eso, conectaremos nuestra red a un proveedor de servicios de internet (ISP de sus siglas en inglés Internet Service Provider).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58537,6 +58609,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T124509Z" creationid="gitnacho" creationdate="20221012T231624Z">
         <seg>¡Hola! ¡Bienvenido al área de aprendizaje de MDN!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well, there are already cables linked to your house, for example, electric power and telephone.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201513Z" creationid="Nachec" creationdate="20221025T201513Z">
+        <seg>Bueno, ya hay cables conectados a tu casa, por ejemplo, la energía eléctrica y el teléfono.</seg>
       </tuv>
     </tu>
     <tu>
