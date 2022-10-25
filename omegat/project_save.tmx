@@ -38986,6 +38986,14 @@ Connection: Keep-Alive
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here it is", and then starts sending the website's files to the browser as a series of small chunks called data packets (the shop gives you your goods, and you bring them back to your house).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191124Z" creationid="Nachec" creationdate="20221025T191040Z">
+        <seg> Aquí está.*, y comenzará a enviar los archivos de la página web al navegador como una serie de pequeños trozos llamados _paquetes de datos_ (la tienda te entrega tus productos y los llevas de regreso a casa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here we add an `install` event listener to the service worker (hence `self`), and then chain a {{domxref("ExtendableEvent.waitUntil()") }} method onto the event — this ensures that the service worker will not install until the code inside `waitUntil()` has successfully occurred.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T034458Z">
@@ -39990,6 +39998,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135813Z" creationid="gitnacho" creationdate="20221003T133932Z">
         <seg>Si el script está bloqueado, se envía un {{DOMxRef("Element/error_event", "error")}} al elemento; de lo contrario, se envía un evento {{DOMxRef("Element/load_event", "load")}} enviado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the server approves the client's request, the server sends the client a "200 OK" message, which means "Of course you can look at that website!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191047Z" creationid="Nachec" creationdate="20221025T191021Z">
+        <seg>Siempre que el servidor apruebe la solicitud del cliente, el servidor enviará al cliente un mensaje "*200 OK*", que significa, *¡por supuesto que puedes ver ese sitio web!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49525,6 +49541,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The browser assembles the small chunks into a complete web page and displays it to you (the goods arrive at your door — new shiny stuff, awesome!).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191249Z" creationid="Nachec" creationdate="20221025T191249Z">
+        <seg>El navegador reúne los pequeños trozos, forma un sitio web completo y te lo muestra (llegas a casa con tus nuevas compras — cosas nuevas y brillantes ¡increíble!).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The browser determines that it needs to send this based on the request parameters that the JavaScript code snippet above was using, so that the server can respond whether it is acceptable to send the request with the actual request parameters.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222811Z" creationid="gitnacho" creationdate="20221011T222811Z">
@@ -49577,6 +49601,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190630Z" creationid="Nachec" creationdate="20221025T190630Z">
         <seg>El navegador necesita averiguar en qué servidor vive el sitio web y así enviar los mensajes HTTP al lugar correcto (ve más abajo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client (you go to the shop and order your goods).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190918Z" creationid="Nachec" creationdate="20221025T190918Z">
+        <seg>El navegador envía un mensaje de petición HTTP al servidor, pidiéndole que envíe una copia de la página web para el cliente (ir a la tienda y hacer un pedido).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55062,6 +55094,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221008T001040Z">
         <seg>La propiedad `buffer` de esta memoria devolverá un {{JSxRef("SharedArrayBuffer")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This message, and all other data sent between the client and the server, is sent across your internet connection using TCP/IP.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190930Z" creationid="Nachec" creationdate="20221025T190930Z">
+        <seg>Este mensaje y todos los datos enviados entre el cliente y el servidor, se envían a través de tu conexión a Internet usando TCP/IP.</seg>
       </tuv>
     </tu>
     <tu>
