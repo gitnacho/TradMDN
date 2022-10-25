@@ -15816,6 +15816,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [How the Internet works](/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) (introduction for beginners)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T204843Z" creationid="Nachec" creationdate="20221025T204843Z">
+        <seg>- [Cómo funciona Internet](/es/docs/Learn/Common_questions/How_does_the_Internet_work) (introducción para principiantes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [How the Web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - [Understanding the difference between a web page, a website, a web server and a search engine](/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
 - [Understanding domain names](/en-US/docs/Learn/Common_questions/What_is_a_domain_name)</seg>
@@ -35103,8 +35111,8 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       <tuv lang="en-US">
         <seg>As we saw, the Internet is a technical infrastructure which allows billions of computers to be connected all together.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202928Z" creationid="Nachec" creationdate="20221025T202928Z">
-        <seg>Como vimos, Internet es una infraestructura técnica que permite que miles de millones de ordenadores estén conectadas entre sí.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T204558Z" creationid="Nachec" creationdate="20221025T202928Z">
+        <seg>Como vimos, Internet es una infraestructura técnica que permite que miles de millones de ordenadores estén conectados entre sí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48012,8 +48020,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>So the message from our network is carried through the network of ISP networks to the destination network.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202004Z" creationid="Nachec" creationdate="20221025T202004Z">
-        <seg>Así, el mensaje de nuestra red es llevada a través de la red de redes de ISP, hasta la red destino.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T204425Z" creationid="Nachec" creationdate="20221025T202004Z">
+        <seg>Así, el mensaje de nuestra red es llevado a través de la red de redes de ISP, hasta la red destino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49395,6 +49403,14 @@ that the server is unwilling to supply a default representation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202017Z" creationid="Nachec" creationdate="20221025T202017Z">
         <seg>Internet consiste en toda esta infraestructura de redes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Internet is a worldwide network of networks that uses the Internet protocol suite (also named {{glossary("TCP")}}/{{glossary("IPv6","IP")}} from its two most important {{glossary("protocol","protocols")}}).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T204944Z" creationid="Nachec" creationdate="20221025T204944Z">
+        <seg>Internet es una red de redes mundial que utiliza el conjunto de protocolos de Internet (también llamado {{Glossary("TCP")}}/{{Glossary("IPv6","IP")}} de sus dos {{Glossary("protocol","protocolos")}}).</seg>
       </tuv>
     </tu>
     <tu>
