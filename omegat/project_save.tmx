@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Show how a domain name can alias an IP address](dns-ip.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202441Z" creationid="Nachec" creationdate="20221025T202441Z">
+        <seg>![Mostrar cómo un nombre de dominio sirve como alias a una dirección IP](dns-ip.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![StarMath input box in Libre Office](libreoffice.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081708Z" creationid="Nachec" creationdate="20221021T081708Z">
@@ -3824,6 +3832,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224738Z" creationid="gitnacho" creationdate="20221018T224738Z">
         <seg>### Interactividad con JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Internet and the web</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202448Z" creationid="Nachec" creationdate="20221025T202448Z">
+        <seg>### Internet y la web</seg>
       </tuv>
     </tu>
     <tu>
@@ -35053,6 +35069,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142635Z" creationid="Nachec" creationdate="20221023T142635Z">
         <seg>Como con `margin` usar esta propiedad con uno, dos, tres o cuatro valores como se explica en la [sintaxis de padding](/es/docs/Web/CSS/padding#sintaxis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you might notice, when we browse the Web with a Web browser, we usually use the domain name to reach a website.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202902Z" creationid="Nachec" creationdate="20221025T202902Z">
+        <seg>Como puedes notar, cuando exploramos la web con un navegador, normalmente utilizamos el nombre de dominio para llegar a un sitio web.</seg>
       </tuv>
     </tu>
     <tu>
