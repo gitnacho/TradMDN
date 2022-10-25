@@ -10982,6 +10982,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Client</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185135Z" creationid="Nachec" creationdate="20221025T185135Z">
+        <seg>- Client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Client hints</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T084731Z" creationid="gitnacho" creationdate="20221012T084731Z">
@@ -11132,6 +11140,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T145455Z" creationid="gitnacho" creationdate="20221002T145455Z">
         <seg>- Plantillas personalizadas basadas en ciertos patrones de URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- DNS</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185137Z" creationid="Nachec" creationdate="20221025T185137Z">
+        <seg>- DNS</seg>
       </tuv>
     </tu>
     <tu>
@@ -11880,6 +11896,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T061825Z" creationid="gitnacho" creationdate="20221012T061825Z">
         <seg>- Hypertext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- IP</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185145Z" creationid="Nachec" creationdate="20221025T185145Z">
+        <seg>- IP</seg>
       </tuv>
     </tu>
     <tu>
@@ -13233,6 +13257,14 @@ spec-urls: https://w3c.github.io/webappsec-secure-contexts/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Server</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185145Z" creationid="Nachec" creationdate="20221025T185145Z">
+        <seg>- Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Service</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T014612Z" creationid="gitnacho" creationdate="20220921T014612Z">
@@ -13410,6 +13442,14 @@ browser-compat: api.Cache
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130953Z" creationid="Nachec" creationdate="20221023T120057Z">
         <seg>- Styling
   - Estilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- TCP</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185148Z" creationid="Nachec" creationdate="20221025T185148Z">
+        <seg>- TCP</seg>
       </tuv>
     </tu>
     <tu>
@@ -22635,9 +22675,9 @@ title: How the web works
 slug: Learn/Getting_started_with_the_web/How_the_Web_works
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185128Z" creationid="Nachec" creationdate="20221025T185128Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185307Z" creationid="Nachec" creationdate="20221025T185128Z">
         <seg>---
-title: Cómo trabaja la Web
+title: Cómo funciona la Web
 slug: Learn/Getting_started_with_the_web/How_the_Web_works
 rue: Nachec✓
 tags:</seg>
@@ -73555,6 +73595,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T180935Z" creationid="Nachec" creationdate="20221021T180935Z">
         <seg>{{LearnSidebar}}{{NextMenu("Learn/MathML/First_steps/Text_containers", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenu("Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185217Z" creationid="Nachec" creationdate="20221025T185217Z">
+        <seg>{{LearnSidebar}}{{PreviousMenu("Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
     </tu>
     <tu>
