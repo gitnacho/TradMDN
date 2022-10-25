@@ -8354,8 +8354,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Even if you are concentrating on client-side web development, it is still useful to know how servers and server-side code features work.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001850Z" creationid="gitnacho" creationdate="20221020T131811Z">
-        <seg>- : Incluso si se estás concentrando en el desarrollo web de lado del cliente, sigue siendo útil saber cómo funcionan los servidores y las características del código de lado del servidor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T234300Z" creationid="gitnacho" creationdate="20221020T131811Z">
+        <seg>- : Incluso si te estás concentrando en el desarrollo web de lado del cliente, sigue siendo útil saber cómo funcionan los servidores y las características del código de lado del servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15368,8 +15368,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Codecademy](https://www.codecademy.com/)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051308Z" creationid="Nachec" creationdate="20221020T175918Z">
-        <seg>- [Codecademia](https://www.codecademy.com/)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T234803Z" creationid="Nachec" creationdate="20221020T175918Z">
+        <seg>- [Codecademy](https://www.codecademy.com/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16410,8 +16410,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Tools and testing](/en-US/docs/Learn/Tools_and_testing)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001654Z" creationid="gitnacho" creationdate="20221020T131650Z">
-        <seg>- [Herramientas y pruebas](/en-US/docs/Learn/Tools_and_testing</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T234133Z" creationid="gitnacho" creationdate="20221020T131650Z">
+        <seg>- [Herramientas y pruebas](/es/docs/Learn/Tools_and_testing)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56723,8 +56723,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To copy the learning area repo to a folder called learning-area in the current location your command prompt/terminal is pointing to, use the following command:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050705Z" creationid="Nachec" creationdate="20221020T173632Z">
-        <seg>Para copiar el repositorio del área de aprendizaje en un directorio llamado área de aprendizaje en la ubicación actual a la que apunta su símbolo del sistema/terminal, usa el siguiente comando:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T234433Z" creationid="Nachec" creationdate="20221020T173632Z">
+        <seg>Para copiar el repositorio del área de aprendizaje en un directorio llamado área de aprendizaje en la ubicación actual a la que apunta tu símbolo del sistema/terminal, usa el siguiente comando:</seg>
       </tuv>
     </tu>
     <tu>
