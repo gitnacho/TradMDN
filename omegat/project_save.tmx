@@ -1280,6 +1280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Credit</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192547Z" creationid="Nachec" creationdate="20221025T192547Z">
+        <seg>## Crédito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Current features available only in secure contexts</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T232659Z" creationid="gitnacho" creationdate="20221018T232659Z">
@@ -34949,8 +34957,8 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       <tuv lang="en-US">
         <seg>Basically, when data is sent across the web, it is sent in thousands of small chunks.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192243Z" creationid="Nachec" creationdate="20221025T192243Z">
-        <seg>Básicamente, que los datos se envían a través de la web como miles de trozos pequeños, permitiendo que muchos usuarios puedan descargar la misma página web al mismo tiempo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192702Z" creationid="Nachec" creationdate="20221025T192243Z">
+        <seg>Básicamente, que los datos se envían a través de la web como miles de trozos pequeños.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47864,6 +47872,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Street photo: [Street composing](https://www.pinterest.com/pin/400538960580676851/), by [kevin digga](https://www.pinterest.com/kevindigga/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192628Z" creationid="Nachec" creationdate="20221025T192628Z">
+        <seg>Foto de la calle: Street Composing, por [kevin digga](https://www.pinterest.com/kevindigga/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsequent sections discuss scenarios, as well as provide a breakdown of the HTTP headers used.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T214035Z" creationid="gitnacho" creationdate="20221011T214035Z">
@@ -58317,6 +58333,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233659Z" creationid="Nachec" creationdate="20221021T233659Z">
         <seg>Cuando se permiten valores de texto definidos por el usuario entre comillas y sin comillas, la especificación incluirá `&lt;custom-ident&gt; | &lt;string&gt;`, lo cual significa que las comillas son opcionales, como es el caso de los nombres de animación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When browsers send requests to servers for HTML files, those HTML files often contain {{htmlelement("link")}} elements referencing external [CSS](/en-US/docs/Learn/CSS) stylesheets and {{htmlelement("script")}} elements referencing external [JavaScript](/en-US/docs/Learn/JavaScript) scripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192837Z" creationid="Nachec" creationdate="20221025T192837Z">
+        <seg>Cuando los navegadores envían solicitudes a los servidores de archivos HTML, esos archivos HTML a menudo contienen elementos {{htmlelement("link")}} que hacen referencia a hojas de estilo [CSS](/es/docs/Learn/CSS) externas y elementos {{htmlelement(" script")}} que hacen referencia a scripts [JavaScript](/es/docs/Learn/JavaScript) externos.</seg>
       </tuv>
     </tu>
     <tu>
