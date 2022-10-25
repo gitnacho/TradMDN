@@ -1,3 +1,4 @@
+APKs
 ARRÉGLAME
 Accesor
 Acrónimo
@@ -5,6 +6,7 @@ Adhiérete
 Adicionalmente
 Adjuntarlo
 Ajax
+Angular.io
 Anidación
 Antinoticias
 Asincronicidad
@@ -292,6 +294,7 @@ autocompletado
 autocompletar
 autodocumentado
 autodocumentan
+autoenlaces
 autoenvuelve
 autoescribir
 autoestudio
@@ -712,6 +715,7 @@ hipervínculos
 homomórfica
 homomórfico
 homomórficos
+háckeo
 háptica
 házlo
 háznos
@@ -1340,6 +1344,7 @@ scripts
 seccionamiento
 section
 seleccionable
+seleccionables
 selectivamente
 semiestático
 semiexperimental

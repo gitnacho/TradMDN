@@ -623,6 +623,7 @@ Artwork
 ArtworkSearchResponse
 ArtworksData
 ArtworksResponse
+Arya
 AsRoot
 AsciiDoc
 Ashley
@@ -958,6 +959,7 @@ Brightscript
 Brinkhoff
 British
 Brittany
+BroadcastEvents
 BroadcastReceiver
 Broadway
 Brock
@@ -985,6 +987,8 @@ BugReport.prototype
 Bugzilla
 Build
 Builder
+Builder.io
+BuilderIO
 BuilderRun
 Building
 Building_blocks
@@ -1216,6 +1220,7 @@ Center
 Center.png
 CenterMapParams
 Cernicova
+Cersei
 Certificate
 Ceylon
 Chai
@@ -1312,6 +1317,7 @@ ClickableProps
 Clicked
 Client
 Client_hints
+Clifford
 Clipboard
 Clock
 ClockConstructor
@@ -1323,11 +1329,15 @@ Closure
 ClothingType
 Cloud
 Cloudberry
+Cloudflare
+CloudflarePagesAdaptorOptions
 Cloudup
 Clown
 Clubs
 Cmd
 Cmds
+Cmp
+CmpButton
 Co
 CoNLL
 Coat
@@ -1346,6 +1356,7 @@ CodeQL
 CodeSandbox
 Code_examples
 Codename
+Codesandbox
 Codespaces
 CodingScripting
 Cody
@@ -1408,6 +1419,7 @@ Compatibility
 CompatibiltyMode
 CompileDirectiveSummary
 CompileError
+CompileOptions
 CompilePipeSummary
 Compiler
 CompilerFactory
@@ -1451,6 +1463,7 @@ Config.appKey
 Config.authHeader
 Config.new
 Config.token
+ConfigEnv
 Configs
 ConfiguraCuadro
 Configuration
@@ -1501,6 +1514,7 @@ ConstructorSansProvider
 Consumer.ts
 Contact
 Container
+ContainerState
 Containers
 Contains
 Content
@@ -1516,6 +1530,7 @@ Contents
 Contents.json
 Context
 Context.html
+ContextRoot
 ContextifyScript.Script.runInThisContext
 Continue
 Continuous
@@ -1702,6 +1717,7 @@ DOCUMENT
 DOCUMENT_DESCRIPTION
 DOCUMENT_ENCODING
 DOM.Iterable
+DOMAttributes
 DOMxRef
 DONATE_BLACK
 DOWN
@@ -1719,6 +1735,7 @@ DUPLICATE_VARIABLE_DECLARATION
 DVI
 DYNAMIC_LINKS.md
 DZone
+Daenerys
 Dafny
 Dahl
 Daisy
@@ -1742,6 +1759,7 @@ DashCase
 Dashboard
 DashboardComponent
 Data
+DataGrid
 DataSnapshot
 DataWeave
 Data_structures
@@ -1793,6 +1811,7 @@ Day
 Dealing_with_files
 Debian
 Debit
+DebouncedInput
 Debug
 DebugElement
 DebugEventListener
@@ -1968,6 +1987,7 @@ Docset
 Document
 Document.createElement
 Document.getElementById
+DocumentHead
 DocumentHighlights
 DocumentParsingError
 DocumentReference
@@ -2091,6 +2111,7 @@ EXPOSE
 EXTENSION
 EXTERN
 EXTERNAL_DIR
+EagernessOptions
 Eagle
 EarlyHints
 EaseIn
@@ -2120,6 +2141,7 @@ EditorSettings
 Edje
 Eduard
 Edward
+EffectClient
 Effective
 Eftpos
 Egg.js
@@ -2245,13 +2267,16 @@ EventData
 EventEmitter
 EventEmitter.emit
 EventEmitters
+EventExample
 EventMachine
 EventName
+EventPluginContext
 EventTarget
 EventType
 EventType.Mouse
 Evento_controllerchange
 Events
+EventsClient
 Every
 Everyone
 Everyone's
@@ -2461,6 +2486,7 @@ Firefox
 FirefoxSidebar
 Firestore
 First
+FirstArg
 FirstComponent
 First_steps
 Fish
@@ -2580,6 +2606,7 @@ Frames
 Framework
 Frameworks
 Fran
+Frances
 Frank
 Français
 Frazzle
@@ -2614,6 +2641,7 @@ Function
 Function.prototype
 Function.prototype.apply
 Function.prototype.bind
+FunctionComponent
 FunctionConstructor
 FunctionProperties
 FunctionPropertyNames
@@ -2838,9 +2866,11 @@ GriLayout
 Grid
 Grid.origin.x
 Grid.origin.y
+GridColDef
 GridLayout
 GridLayout.java
 GridLayoutComponent
+GridValueGetterParams
 Groceries
 Grocery
 GroceryListViewModel
@@ -2922,6 +2952,7 @@ HTMLInputElement
 HTMLParagraphElement
 HTMLParagraphElements
 HTMLRef
+HTMLScriptElement
 HTMLSpanElement
 HTMLVideoElement
 HTML_basics
@@ -2948,6 +2979,7 @@ Harbour
 Harmony
 Harry
 Hartford
+Harvey
 HasArea
 Hash
 HashLocationStrategy
@@ -3425,7 +3457,9 @@ Intl
 Intl.PluralRules
 Intl.tsx
 IntlLink
+IntrinsicAttributes
 IntrinsicElements
+IntrinsicHTMLElements
 IntrinsicTypeKind.Capitalize
 IntrinsicTypeKind.Lowercase
 IntrinsicTypeKind.Uncapitalize
@@ -3524,7 +3558,9 @@ JSX.IntrinsicAttributes
 JSX.IntrinsicClassAttributes
 JSX.IntrinsicElements
 JSX.md
+JSXChildren
 JSXExpression
+JSXNode
 JScript
 JSter
 JSxRef
@@ -3532,6 +3568,7 @@ JUSTIFY
 JUnit
 JVM
 Jack
+Jaime
 Japanese
 Jared
 Jasmin
@@ -3641,6 +3678,7 @@ KeyValueDifferFactory
 KeyValueDiffers
 KeyValuePipe
 Keyboard
+KeyboardEvent
 KeyboardInputEvent
 KeyboardType
 Keychain
@@ -3775,6 +3813,7 @@ LanguageService
 Language_Resources
 LanguageandLocaleIDs
 LanguageandLocaleIDs.html
+Lannister
 Lansbury
 Lara
 Large
@@ -3842,6 +3881,7 @@ Levenshtein
 Lewis
 Lex
 Lexer
+LexicalScope
 Leélo
 Lhasa
 Lib
@@ -3852,6 +3892,7 @@ License
 Licensed
 Lighthouse
 Lightning
+Lightweight
 Like
 LilyPond
 Limbo
@@ -3866,6 +3907,7 @@ Link
 LinkError
 LinkID
 LinkId
+LinkPath
 LinkedList
 Linker
 Linkov
@@ -3929,6 +3971,7 @@ Loading
 LoadingState
 Loading_and_running
 Loafer
+Loc
 LocalIdentifierStrategy
 LocalNotifications
 LocalNotifications.addOnMessageReceivedCallback
@@ -4045,6 +4088,7 @@ MDN
 MDN:Common
 MDNSidebar
 MDN_Product_Advisory_Board
+MDX
 MEASURED_SIZE_MASK
 MEASURED_STATE_TOO_SMALL
 MEDIUM_RECTANGLE
@@ -4110,6 +4154,10 @@ MSRC
 MS_MEDIA_ERR_ENCRYPTED
 MTML
 MUF
+MUI
+MUIAlert
+MUIButton
+MUISlider
 MV
 MVVM
 MX
@@ -4267,6 +4315,8 @@ McCree
 McGrath
 McNally
 McPersonface
+MdxOptions
+MdxPlugins
 Measure
 MeasureSpec
 MeasureSpecs
@@ -4281,6 +4331,7 @@ MediaError
 MediaWiki
 Medium
 Meeting
+Melisandre
 Melissa
 Member
 Memory
@@ -4346,6 +4397,7 @@ MiscOptions
 Miscelánea
 Misdirected
 MisdirectedRequest
+MiskoHevery
 Missing
 MissingTranslationStrategy
 MissionControlComponent
@@ -4405,6 +4457,7 @@ Mosaic
 Motif
 Motion
 Motorola
+MountRoot
 Mountain
 Mouse
 MouseAction
@@ -4448,6 +4501,7 @@ My.Application.Order.AddForm
 MyApp
 MyArray
 MyBool
+MyButton
 MyClass
 MyClass.MyClassMethodOptions
 MyClass.printX
@@ -4455,9 +4509,12 @@ MyClass.staticMember
 MyClass.ts
 MyClass.x
 MyClassMethodOptions
+MyComp
 MyComponent
 MyConstructor
 MyConstructorOf
+MyContext
+MyContext.Provider
 MyControllers
 MyDelegate
 MyDialog
@@ -4714,6 +4771,7 @@ NetLinx+ERB
 NetLogo
 Netherlands
 Netlify
+NetlifyEdgeAdaptorOptions
 Netscape
 Network
 NetworkAuthenticationRequired
@@ -4805,6 +4863,7 @@ Nix
 NoContent
 NoEncapsulationComponent
 NoSQL
+NoSerialize
 Nobody's
 Node
 Node.appendChild
@@ -4815,6 +4874,7 @@ NodeJS
 NodeJs
 NodeList
 NodeListOf
+NodeRequestNextFunction
 NodeSource
 Node_modules
 Nodejs
@@ -4837,6 +4897,7 @@ NonFunctionPropertyNames
 NonNullable
 None
 Norfolk
+NormalizedQwikPluginOptions
 North
 Norton
 Norwegian
@@ -5269,6 +5330,7 @@ PartialContent
 PartialPerson
 PartialWithNewMember
 Partial_application
+Partytown
 Pascal
 PascalCase
 Pass
@@ -5414,6 +5476,7 @@ Plist
 PlistBuddy
 Plistas
 Plugin
+PluginOptions
 PluginSettings
 Plugins
 PlusSign
@@ -5479,6 +5542,7 @@ Prettier
 Pretty
 Prev
 Prevent
+PreventDefaultExample
 Preview
 Previous
 PreviousMenuNext
@@ -5493,6 +5557,7 @@ Principle_of_least_privilege
 Print
 Prints
 PriorityPollingInterval
+Prism
 Prisma
 Private
 PrivateLabel
@@ -5508,6 +5573,7 @@ Processing.txt
 Prod
 Product
 ProductAlertsComponent
+ProductData
 ProductDetailsComponent
 ProductListComponent
 Production
@@ -5605,9 +5671,11 @@ Pásale
 Q
 QAAA
 QBImagePicker
+QContext
 QML
 QMake
 QR
+QRL
 QR_CODE
 QUANT
 QUOTE_REGEX
@@ -5635,6 +5703,29 @@ Quit
 Quotations
 Quramy
 Qwik
+QwikCity
+QwikCityCloudflarePagesOptions
+QwikCityHandlerOptions
+QwikCityNodeRequestOptions
+QwikCityPlugin
+QwikCityPluginApi
+QwikCityVitePluginOptions
+QwikCmp
+QwikCounter
+QwikCustomHTMLAttributes
+QwikCustomHTMLElement
+QwikDev
+QwikEvents
+QwikIntrinsicAttributes
+QwikIntrinsicElements
+QwikJSX
+QwikManifest
+QwikProps
+QwikScriptHTMLAttributes
+QwikVitePlugin
+QwikVitePluginApi
+QwikifyOptions
+QwikifyProps
 R
 R.drawable
 RAML
@@ -5773,6 +5864,7 @@ Redux
 Reemplázame
 Reescritura
 Ref
+RefRoot
 RefactorEditInfo
 Reference
 ReferenceEntry
@@ -5821,9 +5913,15 @@ RenameLocation
 RenderFlags
 RenderFlags.Create
 RenderFlags.Update
+RenderOnce
+RenderOptions
+RenderSSROptions
 RenderScript
+RenderToStreamOptions
+Rendered
 Renderer
 Rendering
+Renders
 Renumerar
 Repeat
 Repeater
@@ -5840,7 +5938,9 @@ RequestConfiguration
 RequestConfiguration.maxAdContentRating
 RequestConfiguration.tagForChildDirectedTreatment
 RequestConfiguration.tagForUnderAgeOfConsent
+RequestHandler
 RequestHeaderFieldsTooLarge
+RequestInit
 RequestMatch
 RequestOptions
 RequestTimeout
@@ -5861,6 +5961,8 @@ ResolvedReflectiveFactory
 ResolvedReflectiveProvider
 Resolving
 Resource
+ResourceApp
+ResourceSerialization
 Resources
 ResponseHeader
 Responsive_Design
@@ -5909,6 +6011,7 @@ RootLayout
 RootLayoutOptions
 Roots
 Rory
+Rossini
 Rosylight
 Rotate
 Rotating
@@ -5926,6 +6029,7 @@ RouteProp
 Router
 RouterConfig
 RouterExtensions
+RouterHead
 RouterLink
 RouterLinkActive
 RouterModule
@@ -5941,6 +6045,7 @@ Routing
 RoutingExamplesComponent
 RoutingExamplesModule
 Row
+Roxie
 RubberMan
 Ruby
 Ruby.framework
@@ -6023,6 +6128,7 @@ SIP
 SKIP
 SLE
 SLES
+SLOT
 SMALL
 SMIE
 SMP
@@ -6042,10 +6148,13 @@ SQF
 SQL
 SQLPL
 SRecode
+SSG
 SSH
 SSL
 SSP
 SSR
+SSRRaw
+SSRStream
 START
 STARTTLS
 START_AT
@@ -6218,6 +6327,7 @@ ServiceWorker
 ServiceWorker.state
 ServiceWorkerContainer
 ServiceWorkerMessageEvent
+ServiceWorkerRegister
 ServiceWorkerRegistration.navigationPreload
 Service_Worker_API
 Services
@@ -6286,9 +6396,13 @@ ShownModallyData
 Shrink
 Siamese
 Siberian
+Side
+SideEffect
 SideKick
 SideProps
 Sie
+Signal
+Signals
 SignatureHelpItems
 SignatureHelpItemsOptions
 Signing
@@ -6315,6 +6429,7 @@ SizerComponent
 SizerComponent.size
 SizerComponent.sizeChange
 Sketch
+SkipRender
 SkipSelf
 SkipSelfDecorator
 Skull
@@ -6328,7 +6443,9 @@ SliderExamplesModule
 Slim
 Slithering
 SloppyColor
+Slot
 SlotClass
+SlotParent
 SmPL
 Smali
 Small
@@ -6347,6 +6464,7 @@ SnapshotOptions
 Snarf
 Snell
 Snippet
+Snow
 SocialShare
 SocialShare.shareImage
 SocialShare.shareText
@@ -6448,6 +6566,7 @@ Stan
 Standalone
 Standard
 Standards
+Stark
 Starlark
 Start
 Started
@@ -6462,6 +6581,10 @@ States
 Static
 StaticClassProvider
 StaticClassSansProvider
+StaticGenerateAdaptorOptions
+StaticGenerateOptions
+StaticGenerateRenderOptions
+StaticGenerateResult
 StaticProvider
 StaticReflector
 StaticSymbol
@@ -6509,6 +6632,7 @@ StrStrNumNumBool
 Strapi
 Stream
 Stream.pipe
+StreamingRoot
 Streams
 Street
 StreetView
@@ -6569,6 +6693,7 @@ StyleExamplesComponent
 StyleScope
 StyleUrls
 StyledClass
+Styles
 Styling
 StylingComponent
 StylingSwitchComponent
@@ -6578,6 +6703,7 @@ Sub
 Sub.prototype
 Sub.superclass
 SubClass
+SubComponent
 SubRip
 SubRouteOneComponent
 SubRouteTwoComponent
@@ -6653,6 +6779,8 @@ Symbol.toPrimitive
 Symbol.toStringTag
 Symbol.unscopables
 Symbol.wellknown
+SymbolMapper
+SymbolMapperFn
 Symbolic_link
 Symbols
 Sync
@@ -6769,6 +6897,7 @@ TabViewExamplesComponent
 TabViewExamplesModule
 TabViewItem
 TabViewItems
+TableApp
 Tablet
 Tabs
 TabsExamplesComponent
@@ -6776,6 +6905,7 @@ TabsExamplesModule
 TabsStylingComponent
 Tabulated
 Tag
+TagName
 Tagged
 TaggedPoint
 Tagged_template_literals  
@@ -6789,6 +6919,7 @@ Tap
 TapExampleComponent
 Tapped
 Tarasyuk
+Targaryen
 Target
 TargetOptions
 Tarzán
@@ -6894,6 +7025,7 @@ Threads
 Three
 ThreeDS
 ThreeStringProps
+Threejs
 Thrift
 Through
 Thu
@@ -6952,6 +7084,7 @@ TodoInfo
 TodoList
 TodoListProps
 TodoPreview
+Toggle
 ToggleNavButtonDirective
 Token
 TokenizationSpecificationType
@@ -7028,6 +7161,7 @@ Transport_layer
 Transporter
 Travis
 Tree
+TreeshakingApp
 Tresnjak
 Trey
 Triangle
@@ -7068,6 +7202,7 @@ TwitterSignIn
 TwitterSignIn.init
 TwitterSignIn.logIn
 Two
+TwoListeners
 TwoSlash
 TwoSlashOptions
 TwoSlashReturn
@@ -7391,6 +7526,7 @@ Used
 User
 User.emailVerified
 UserAccount
+UserConfigExport
 UserCredential
 UserDefaults
 UserDocumentation.md
@@ -7868,6 +8004,7 @@ _TOC.md
 __APILEVEL__
 __DEV__
 __PACKAGE__
+__PURE__
 __app__language__
 __assign
 __awaiter
@@ -8518,9 +8655,11 @@ ad_exposure
 ad_impression
 ad_query
 ada
+adamdbradley
 adankwo.e
 adaptive
 adaptivity
+adaptors
 adb
 adchoices_overlay
 add
@@ -8609,6 +8748,7 @@ advanced.component.html
 advertised
 advice
 advierteAlUsuario
+ae
 af
 affenpinscher
 afourpaper
@@ -9077,6 +9217,7 @@ api:update
 apiData
 apiData.subscribe
 apiKey
+apiReport
 apiSecret
 apiUrl
 apiV
@@ -9439,6 +9580,7 @@ assets
 assign
 assign.extra
 assignable
+assignees
 assignment
 assignment.md
 assoc
@@ -9528,6 +9670,7 @@ autoexplicativa
 autofill
 autofittextview
 autogestionado
+autolink
 autoload
 autoloads
 autoloads.el
@@ -9705,6 +9848,7 @@ base.d.ts
 base.json
 base.template.html
 baseAbiVersionCode
+baseConfigExport
 baseContext
 baseCtor
 baseCtor.prototype
@@ -9804,6 +9948,8 @@ beetlejuicemusical.png
 before
 before.json
 beforeAll
+beforeClose
+beforeContent
 beforeEach
 beg
 begin
@@ -9970,6 +10116,7 @@ bobby
 bobp
 bobsled
 body
+body:empty
 bodyView
 boilerplate
 boilerplate.js
@@ -10168,6 +10315,7 @@ build:mobile
 build:mobile:prod
 build:nativescript
 build:nativescript:prod
+buildDir
 buildInstructions
 buildLabel
 buildLabel.prefix
@@ -10182,6 +10330,7 @@ build_angular
 build_environment.html
 buildcache
 builder
+builder.io
 builder.mjs
 builders
 building
@@ -10189,6 +10338,7 @@ builds
 builds.html
 builds.io
 builds:token
+buildtime
 built
 builtin
 bulbul
@@ -10615,6 +10765,7 @@ charCode
 charCode.toString
 charCodeAt
 charProperty
+charSet
 charSpecs
 character
 characterp
@@ -10633,6 +10784,7 @@ chase
 chassell
 chat
 chat.mozilla.org
+cheat
 cheatsheet
 cheatsheet.html
 cheatsheet.netlify.app
@@ -10650,6 +10802,7 @@ checkNoChanges
 checkOptions
 checkSquareRoot
 checkbox
+checkboxSelection
 checkboxes
 checkdoc
 checked
@@ -10811,14 +10964,19 @@ click_action
 clicked
 clicks
 client
+client.createRoot
 client.end
+client.flushSync
+client.hydrateRoot
 client.js
 client.on
 client.pipe
 client.setEncoding
 client.write
+client:visible
 clientCallback
 clientHeight
+clientNavigate
 clientX
 clientY
 cliff
@@ -10856,6 +11014,8 @@ cloud
 cloud.githubusercontent.com
 cloud.google.com
 cloudbuild
+cloudflare
+cloudflarePagesAdaptor
 cloudfront.net
 clouds
 cloudy.png
@@ -10869,6 +11029,7 @@ cluster.html
 cmajflt
 cmd
 cminflt
+cmp
 cnt
 cntrl
 co
@@ -11049,6 +11210,7 @@ combinadores
 combination
 combineMeasuredStates
 combined
+combined.json
 combinemeasuredstates
 comgooglemaps
 comic
@@ -11324,10 +11486,12 @@ contact.component.ts
 contacts
 contacts.png
 contain
+contained
 container
 container.createEmbeddedView
 container.md
 container.value
+containerState
 containerd.io
 containers
 containers.html
@@ -11469,6 +11633,7 @@ couchdb.apache.org
 cougar
 could
 count
+count.value
 countDays
 countReset
 countToN
@@ -11480,6 +11645,7 @@ counter.inc
 counter.inc.bind
 counter.interval
 counter.reset
+counter.value
 countries
 country
 country.name
@@ -11536,6 +11702,7 @@ createColor
 createComment
 createCompiler
 createComponent
+createContext
 createCopy
 createCustomElement
 createDefaultKeyboard
@@ -11571,11 +11738,13 @@ createPlatformFactory
 createPlaygroundBuild.js
 createProject
 createProject.js
+createQwikCity
 createRedBall
 createRenderer
 createRequestHeader
 createRequestOptions
 createRequire
+createRoot
 createServer
 createSlug.js
 createSolutionBuilder
@@ -11667,6 +11836,7 @@ ctrl.query
 cts
 ctx
 ctx.count
+ctx.track
 cubic
 cubicBezier
 cucumber
@@ -11822,6 +11992,7 @@ danger.github
 danger.github.api.pulls.createComment
 danger.github.utils.fileContents
 danger.github.utils.fileLinks
+dangerouslySetInnerHTML
 daniel
 danvdk
 dapriett
@@ -11939,6 +12110,8 @@ debian
 debian:jessie
 debounce
 debounceTime
+debounced
+debouncedValue
 debug
 debug.apk
 debug.el
@@ -12038,6 +12211,7 @@ deffnx
 defgeneric
 defgroup
 define.amd
+defineConfig
 defineInjectable
 defineMessages
 defineProperties
@@ -12359,6 +12533,7 @@ disable.html
 disableExpressionLowering
 disableFilenameBasedTypeAcquisition
 disableReferencedProjectLoad
+disableSelectionOnClick
 disableSizeLimit
 disableSolutionSearching
 disableSourceOfProjectReferenceRedirect
@@ -12396,6 +12571,8 @@ dispenser
 dispersion
 display
 display.texi
+display:contents
+display:none
 displayActionDialog
 displayAlertDialog
 displayConfirmDialog
@@ -12418,6 +12595,7 @@ disposeNativeView
 disposenativeview
 dist
 dist.js
+distDir
 distance
 distanceFromOrigin
 distanceInMeters
@@ -12474,6 +12652,7 @@ doc.id
 doc.metadata.fromCache
 doc.metadata.hasPendingWrites
 docCopy
+docModel
 docRef
 docRef.onSnapshot
 docRegionAjax
@@ -12566,6 +12745,7 @@ docs.html
 docs.libuv.org
 docs.microsoft.com
 docs.nativescript.org
+docs.netlify.com
 docs.npmjs.com
 docs.nuget.org
 docs.oracle.com
@@ -12592,6 +12772,8 @@ document.location.protocol
 document.querySelector
 document.querySelectorAll
 document.write
+document:onMouseMove
+documentHead.frontmatter
 documentId
 documentRef
 documentRef.id
@@ -12753,6 +12935,7 @@ dt_s_title
 dtd
 dtrace
 dts
+dtsRollup
 duck
 dugong
 dumbbell
@@ -12797,6 +12980,7 @@ e.response
 e.responseCode
 e.s
 e.stack
+e.target.value
 e.toUpperCase
 e.totalBytes
 e.x
@@ -12813,6 +12997,7 @@ eachLayoutChild
 eachchild
 eachchildview
 eager
+eagerness
 eagle
 ear
 early
@@ -12903,6 +13088,7 @@ elc
 eldoc
 electric
 electronico
+elegant
 elem
 elemName
 element
@@ -12966,10 +13152,12 @@ embedded
 emcc
 emit
 emitBOM
+emitData
 emitDeclarationOnly
 emitDeclarationsOnly
 emitDecoratorMetadata
 emitDistinctChangesOnly
+emitHtml
 emitOne
 emitOnlyDtsFiles
 emitter.addListener
@@ -13124,6 +13312,7 @@ entry.agent
 entry.asString
 entry.getSource
 entry.png
+entry.ssr
 entryComponent
 entryComponents
 entrycomponents
@@ -13181,6 +13370,7 @@ env.title
 env.uglify
 env.url
 env.verbose
+envData
 envVar
 envelope
 environment
@@ -13265,6 +13455,7 @@ eslint
 eslint.org
 eslintConfig
 eslintignore
+eslintrc.cjs
 eslintrc.js
 esm
 esm.html
@@ -13293,6 +13484,7 @@ eulersNumber
 eulersNumber.toStrang
 eur
 ev
+ev.target
 eval
 eval.texi
 evaluate
@@ -13307,6 +13499,8 @@ evenheading
 evenheadline
 evenodd
 event
+event.clientX
+event.clientY
 event.context
 event.duration
 event.index
@@ -13478,6 +13672,7 @@ export.signIn
 export.signUp
 export.ts
 exportAs
+exported
 exporting
 exports
 exports.C
@@ -13505,7 +13700,9 @@ expregs
 expresion
 express
 express.json
+express.static
 express.urlencoded
+expressAdaptor
 expression
 expression_statement
 expressionchangedafterithasbeencheckederror
@@ -13517,6 +13714,7 @@ expval
 ext
 extend
 extend.html
+extendConfig
 extended
 extendedDiagnostics
 extending
@@ -13639,6 +13837,7 @@ fedora
 fee
 feedPets
 feedback
+feels_like
 feet
 female
 fence
@@ -13715,6 +13914,7 @@ fileSuccessMessage
 fileSystem
 fileTextContent
 fileToUpload
+fileURLToPath
 fileUrl
 fileWhichChangesOfent.ts
 fileWhichChangesOften.ts
@@ -13749,6 +13949,7 @@ filtered
 filters
 filtraUsuarios
 final.gif
+final.value
 finalizadores
 finalize
 finalizeOrder
@@ -14031,6 +14232,7 @@ flower
 flowerLatinName
 fluffy
 flush
+flushSync
 flushright
 flute
 fly
@@ -14160,6 +14362,7 @@ foreground
 foregroundActivity
 foreign
 forever
+forgotten
 fork
 forking
 forklift
@@ -14561,6 +14764,7 @@ getChildIndex
 getChildrenCount
 getCity
 getClassNameSymbol
+getClientOutDir
 getCodeFixesAtPosition
 getCombinedCodeFix
 getCommonHeaders
@@ -14631,6 +14835,7 @@ getHeaders
 getHero
 getHeroes
 getHostElement
+getHostProps
 getID
 getIDReturn
 getImage
@@ -14677,6 +14882,7 @@ getLocationInWindow
 getLocationOnScreen
 getLocationOnce
 getLocationRelativeTo
+getManifest
 getMeasuredHeight
 getMeasuredState
 getMeasuredWidth
@@ -14694,6 +14900,7 @@ getNgModuleById
 getNumber
 getNumberOfCurrencyDigits
 getObject
+getOptions
 getOrElse
 getOrder
 getOtherThing
@@ -14719,6 +14926,7 @@ getRandomInteger
 getRandomNumber
 getRandomNumbers
 getRandomPadder
+getReactProps
 getReadOnlyStringArray
 getReferencesAtPosition
 getRemoteConfig
@@ -14728,6 +14936,7 @@ getResources
 getResponse
 getResult
 getRootComponents
+getRootDir
 getRootLayout
 getRootView
 getSafeAreaInsets
@@ -14863,6 +15072,7 @@ glob
 global.androidCapacitorActivity
 global.androidCapacitorActivity.unregisterReceiver
 global.createGreeting
+global.css
 global.d.ts
 global.html
 global.isAndroid
@@ -14874,6 +15084,7 @@ global.postMessage
 global.someNumber
 global.someString
 global.tsvfs
+globalStyles
 globalThis
 globalThis.abc
 globalThis.answer
@@ -15325,6 +15536,7 @@ highlightColor
 highlighted
 highlighter
 highlighters
+highlighting
 highlighting.ts
 highlights
 hint
@@ -15375,6 +15587,7 @@ homepage
 homomorphic
 honey
 honeycomb
+hoodie
 hook
 hooks
 hooks.html
@@ -15393,8 +15606,11 @@ horse
 host
 host.compilerHost
 host.png
+host:onClick
 hostElement
 hostPropertyName
+hostRef
+hostRef.value
 hostView
 host_
 hostcontext
@@ -15410,6 +15626,7 @@ hour
 hourglass
 hours
 house
+hover
 how
 how_to_read
 howard
@@ -15430,6 +15647,8 @@ htm
 html
 html.elements.link
 html.elements.script
+html.indexOf
+html.slice
 html.spec.whatwg.org
 htmlString
 htmlView
@@ -15482,6 +15701,9 @@ hungry
 hunting
 husky
 hybrid
+hydrateRoot
+hydrationKeys
+hydrationProps
 hyena
 hyper
 hyperGreet
@@ -15743,6 +15965,7 @@ index.ios
 index.js
 index.js.map
 index.md
+index.mdx
 index.metadata.json
 index.php
 index.texi
@@ -15880,6 +16103,7 @@ input.length
 input.removeEventListener
 input.replace
 input.toString
+input.value
 input.valueOf
 inputA
 inputB
@@ -15953,6 +16177,7 @@ integrate
 integrating
 integration
 integration.md
+integrations
 integrity
 intelliSense
 intellisense
@@ -15978,8 +16203,16 @@ interfaces.html
 intern
 internal
 internalBaseHref
+internalData
+internalData.cmp
+internalData.root
 internalPath
 internalProp
+internalState
+internalState.value
+internalState.value.cmp
+internalState.value.root
+internalState.value.root.render
 internalTitle
 internals
 internals.texi
@@ -16094,12 +16327,14 @@ isAsync
 isAvaiable
 isAvailable
 isBelowFour
+isBrowser
 isBusy
 isCameraAvailable
 isCat
 isCatish
 isChecked
 isCircle
+isClientOnly
 isConsole
 isContentSaved
 isCopying
@@ -16175,6 +16410,7 @@ isPlaying
 isPresent
 isPrime
 isPrototypeOf
+isServer
 isSet
 isSignedIn
 isStable
@@ -16493,6 +16729,7 @@ jsxFrag
 jsxFragmentFactory
 jsxImportSource
 jsxNamespace
+jsxNode
 jsxdev
 jsxs
 juandopazo
@@ -16807,6 +17044,7 @@ legalcode
 legally
 legs
 leif
+leifermendez
 lemon
 lends
 length
@@ -16837,6 +17075,7 @@ lewis
 lex.europa.eu
 lexer
 lexical
+lexicalScope
 lf
 lfabreges
 lg
@@ -17047,6 +17286,7 @@ loc.direction
 loc.latitude
 loc.longitude
 loc.speed
+loc.value
 local.el
 local.get
 local.set
@@ -17320,6 +17560,7 @@ main.d.ts
 main.js
 main.scss
 main.ts
+mainExactProps
 mainHeader
 mainHeader.focus
 mainMenuLinks
@@ -17385,12 +17626,14 @@ manejaForma
 manejaPeticion
 manhole
 manifest
+manifest.json
 manipulation
 manipulation.html
 manishprivet
 mantis
 manual.html
 manually
+manucorporat
 manufacturer
 many
 manzanas.forEach
@@ -17521,7 +17764,9 @@ maxResultCount
 maxResults
 maxRetries
 maxSize
+maxTasksPerWorker
 maxValue
+maxWorkers
 max_arity
 maxcells
 maximize
@@ -17556,6 +17801,8 @@ mdn.localStringMap
 mdn.mozillademos.org
 mdn:mozilla.org
 mdpi
+mdx
+mdxPlugins
 meaning
 meant
 measure
@@ -17721,6 +17968,7 @@ mid
 middel
 middle
 middleInitial
+middleware
 mideHazAlgo
 miffy
 mifunc
@@ -17987,11 +18235,15 @@ mountain
 mounted
 mouse
 mouse.el
+mouseDoc.x
+mouseDoc.y
 mouseEvent
 mouseEvent.button
 mouseEvent.kangaroo
 mouseMoves
 mouseMoves.subscribe
+mouseWin.x
+mouseWin.y
 mousemove
 mousetrap
 move
@@ -18050,6 +18302,8 @@ much
 mud
 mudule.exports
 mug
+mui
+mui.com
 mul
 mule
 multi
@@ -18455,6 +18709,7 @@ net.gotev.uploadservice.ServerResponse
 net.html
 netbsd
 netcat
+netifyEdgeAdaptor
 netlify
 netmask
 network
@@ -18496,6 +18751,7 @@ newObj
 newPaymentSystem
 newPopulation
 newProjectRoot
+newProps
 newReference
 newReference.key
 newScale
@@ -18648,6 +18904,7 @@ noImplicitUseStrict
 noLib
 noPropertyAccessFromIndexSignature
 noResolve
+noSerialize
 noStaticSemanticInfo
 noStrictGenericChecks
 noSuchKey
@@ -18668,7 +18925,11 @@ node.h
 node.html
 node.js
 node.position
+node:http
 node:internal
+node:os
+node:path
+node:url
 nodeEnv
 nodeFeatureAltText
 nodeJs
@@ -18754,6 +19015,7 @@ nostandout
 not
 not.md
 not.toHaveBeenCalled
+notFound
 notFoundValue
 notNumber
 notOK
@@ -19121,6 +19383,7 @@ onFlickTap
 onFocus
 onFolderRename
 onFulfilled
+onGet
 onGetDataSuccess
 onGooglePayTap
 onHasTask
@@ -19128,6 +19391,7 @@ onHashChange
 onHtmlLoaded
 onImageLabelingResult
 onInit
+onInput
 onInvoke
 onInvokeTask
 onItemDeselected
@@ -19157,6 +19421,7 @@ onMessageImpression
 onMessageReceivedCallback
 onMicrotaskEmpty
 onMonthChanged
+onMount
 onMouseOver
 onNavigate
 onNavigatedFrom
@@ -19173,6 +19438,8 @@ onOpen
 onOpened
 onPageLoaded
 onPan
+onPatch
+onPending
 onPickerLoaded
 onPinch
 onPopState
@@ -19184,14 +19451,18 @@ onProgressLoaded
 onPullToRefreshInitiated
 onPurple
 onPushTokenReceivedCallback
+onPut
 onQueryEvent
 onReadSync
 onReceive
 onReceiveCallback
 onRedered
+onRejected
+onRequest
 onRequestPermissions
 onRequestPermissionsResult
 onReset
+onResolved
 onResumeNativeUpdates
 onReturn
 onReturnPress
@@ -19335,6 +19606,7 @@ optimizacion
 optimization
 optimizations
 optimize
+optimizer
 optimizing
 opting
 option
@@ -19364,6 +19636,7 @@ options.volume
 opts
 opts.commandline
 opts.commandline.length
+opts.envData
 opts.excludes
 opts.length
 opts.msg
@@ -19479,6 +19752,7 @@ outfile
 outlet
 outlets
 outline
+outlined
 output
 output.component.html
 output.component.ts
@@ -19612,6 +19886,7 @@ pageData
 pageData.get
 pageData.set
 pageLoaded
+pageSize
 pageToken
 page_title
 pagebreak
@@ -19668,7 +19943,10 @@ parammap
 params
 params.context
 params.get
+params.id
 params.outputFile
+params.row.firstName
+params.row.lastName
 parcel
 parent
 parent.component.ts
@@ -19715,6 +19993,8 @@ partialtipo
 partialtype
 partition
 partridge
+partytown.builder.io
+partytownSnippet
 pasando
 pasarle
 pasarles
@@ -19752,6 +20032,7 @@ path.resolve
 path.sep
 path.separator
 path.substr
+path.toUpperCase
 pathMatch
 pathOrOptions
 pathRewrite
@@ -20111,6 +20392,7 @@ plus_operator
 pm
 pmem
 pmm
+pmndrs
 png
 png.jpg
 pnp
@@ -20435,9 +20717,11 @@ procésalo
 prod
 prod.yml
 product
+product.description
 product.id
 product.name
 product.price
+productFetchData
 productId
 production
 products
@@ -20487,6 +20771,7 @@ project.extensions.projectType
 project.org
 project.png
 project.sourceRoot
+projectFolder
 projectName
 projectRoot
 projectType
@@ -20557,7 +20842,12 @@ proposals.md
 props
 props.a.charAt
 props.children
+props.href
 props.html
+props.onTransparentClick
+props.result.loading
+props.text
+props.url
 proptypes.html
 protect
 protected
@@ -20685,12 +20975,14 @@ pégalos
 píxeles
 q
 q.v
+q:slot
 qO
 qa
 qooxdoo
 qooxdoo.org
 qqqq
 qr
+qrls
 quail
 qualify
 quality
@@ -20719,6 +21011,7 @@ questionnaire
 questions
 queue
 queue:nil
+queueMicrotask
 quick
 quickstart
 quickstart.git
@@ -20738,6 +21031,14 @@ quoted
 quoting
 quux
 qwerty
+qwik
+qwik.builder.io
+qwikCity
+qwikCityPlan
+qwikCityPlanModulePath
+qwikcity
+qwikify
+qwikifyQrl
 r
 r.body
 r.done
@@ -20766,6 +21067,7 @@ raise
 raised
 raisesections
 ram
+ran
 randNumber
 random
 randomBytes
@@ -20805,6 +21107,7 @@ react
 react.d.ts
 react.html
 react.md
+reactCmp
 reactNamespace
 reactjs
 reactjs.org
@@ -20840,6 +21143,7 @@ readonlyPerson
 readonlyPerson.age
 ready
 ready.toc
+ready.value
 realPathSync
 realPathSync.native
 realize
@@ -20988,6 +21292,10 @@ regression
 regístralas
 rehash
 rehighlighting
+rehype
+rehypeAutolinkHeadings
+rehypeSyntaxHighlight
+rehypejs
 reichenbachiana
 reimport
 reject
@@ -21022,6 +21330,7 @@ remainder
 remap
 remapping
 remark
+remarkGfm
 remarkrc
 remember
 remhash
@@ -21059,13 +21368,21 @@ remq
 rename
 renameSync
 renamed
+renderFromServer
 renderModule
 renderModuleFactory
+renderModulePath
+renderSSR
 renderToScreen
+renderToStaticMarkup
+renderToStream
+renderToString
+rendered
 renderedMessage
 renderer
 rendering
 rendering.png
+renders.count
 reordenará
 reordering
 rep
@@ -21083,13 +21400,17 @@ replaceState
 replacement
 replacer
 replies
+replit.com
 reply
 replyString
 repo
 report
 report.html
 report.png
+reportFileName
+reportFolder
 reportProgress
+reportTempFolder
 reportableClassDecorator
 reporter
 reporters
@@ -21198,13 +21519,23 @@ resolveJson
 resolveJsonModule
 resolveSizeAndState
 resolved
+resolved.feels_like
+resolved.humidity
+resolved.name
+resolved.temp
+resolved.temp_max
+resolved.temp_min
+resolved.visibility
 resolvedFactories
+resolvedHead.frontmatter
 resolver.service
 resolver.service.ts
 resolvers
 resolvesizeandstate
 resolving
+resouceState
 resource
+resource.loading
 resourceDescription
 resourceGroups
 resources
@@ -21394,8 +21725,10 @@ road
 roaming
 roar
 robin
+robots.txt
 robotstxt.html
 robpalme
+robust
 rocessing
 rock
 rocking
@@ -21415,6 +21748,7 @@ root
 root.component
 root.component.html
 root.libName
+root.render
 root.returnExports
 root.xml
 rootController
@@ -21455,6 +21789,7 @@ route.snapshot.data
 routeAnimation
 routeConfig
 routeEntry
+routeNavigate
 routed
 routed.png
 router
@@ -21483,6 +21818,7 @@ row
 rowHeight
 rowSpan
 rows
+rowsPerPageOptions
 rowspan
 rp
 rplaca
@@ -21490,6 +21826,8 @@ rplacd
 rpm
 rpms
 rse
+rsp
+rsp.json
 rss
 rtl
 rtsp
@@ -21675,6 +22013,7 @@ scoop
 scoop.sh
 scooter
 scope
+scopeId
 scoped
 scopeid
 scoping
@@ -21762,6 +22101,7 @@ sec:accessing_the_web_via_a_proxy
 secfonts
 second
 second.component
+second.value
 secondChorus
 secondColorsArray
 secondDate
@@ -21796,6 +22136,7 @@ seed
 seeds
 seeking_decision
 seenBrowserify.on
+segment
 segmented
 segmentedBar
 segmentedBarItem
@@ -21895,9 +22236,11 @@ sequencep
 sequences
 sequences.texi
 seravo.fi
+serialization
 serialize
 serializeBody
 serializer
+serializing
 serif
 serious
 seriousalize
@@ -21911,8 +22254,10 @@ server.js
 server.listen
 server.on
 server.rb
+server.renderToString
 server.sh
 serverBaseHref
+serverConfigExport
 serverFactory
 serverResponse
 serverTarget
@@ -21957,6 +22302,7 @@ setCrashlyticsCollectionEnabled
 setCssFileName
 setCurrentStyles
 setData
+setDebouncedValue
 setDefaults
 setDirty
 setDisplayZoomControls
@@ -22157,6 +22503,7 @@ shortDate
 shortDescription
 shortProperty
 shortTime
+short_name
 shortcode
 shortcontents
 shorthand
@@ -22175,6 +22522,7 @@ shouldHandleThis
 shouldInitialize
 shouldn't
 shovel
+show.value
 showActionDialog
 showAdvanced
 showAlertDialog
@@ -22240,6 +22588,8 @@ signOut
 signUp
 sign_up
 signal
+signal.value
+signals
 signature
 signatureHelpLa
 signatures
@@ -22289,6 +22639,7 @@ site.baseurl
 site.ff
 site.google_custom_search
 sitemap.xml
+sitemapOutFile
 sitemap_generator.rb
 sites
 six
@@ -22311,6 +22662,7 @@ skipMetadataEmit
 skipSplashScreen
 skipTemplateCodegen
 skip_to_content
+skuId
 skunk
 sky
 sky.css
@@ -22340,6 +22692,9 @@ slideshow.css
 sliding
 slipper
 slot
+slotRef
+slotRef.value
+slotc
 sloth
 slots
 slow
@@ -22409,6 +22764,7 @@ solucionador
 solus
 solution
 solutions
+solves
 sombrero
 some
 someArray
@@ -22466,6 +22822,7 @@ sorrel
 sort
 sortOfArrayish
 sortText
+sortable
 sortas
 sorted
 sortedSubSections
@@ -22568,6 +22925,7 @@ spreaded
 spreads
 spring
 spring.gif
+spring.io
 springboard
 springer
 sprintf
@@ -22684,6 +23042,7 @@ state
 state.code
 state.response.summary
 state.response.title
+state.show
 state.state
 state_changed
 statechange
@@ -22695,6 +23054,8 @@ statements
 states
 states_and_properties
 static
+staticAdaptor
+staticGenerate
 staticQuickInfos
 stats
 stats.isDirectory
@@ -22751,7 +23112,11 @@ storageBucket
 storageRef
 storageRef.child
 store
+store.bar
+store.name
+store.open
 store.png
+store.productFetchData
 storeInDatabase
 storeName
 store_artifacts
@@ -22918,6 +23283,8 @@ subICU
 subString
 subTitle
 subYears
+sub_component
+sub_component.tsx
 subarray
 subcadenas
 subcategoría
@@ -23313,6 +23680,8 @@ temp.path
 tempExists
 tempFolder
 tempFolder.path
+temp_max
+temp_min
 template
 template.html
 template.md
@@ -23918,6 +24287,7 @@ tissue
 titi
 titl
 title
+title:empty
 title:listFilter
 titleA
 titleB
@@ -24098,6 +24468,7 @@ trackBy
 trackByFn
 trackById
 trackby
+trackedProps
 tracking
 trackpad
 tractor
@@ -24162,6 +24533,7 @@ tree.getDir
 tree.overwrite
 tree.png
 tree.read
+treeshaking
 trench
 triangle
 triceratops
@@ -24252,9 +24624,11 @@ tsconfig_base.json
 tsconfig_description
 tsconfig_title
 tsd
+tsdocMetadata
 tsdx
 tsdx.io
 tsfile.png
+tshirt
 tshirtDrawer
 tshirtDrawer.add
 tsickle
@@ -24320,6 +24694,7 @@ two.component
 two.component.html
 twoPi
 two_zeros
+twolisteners
 twoslash
 twoslasher
 txicodequotebacktick
@@ -24531,6 +24906,7 @@ unsuscribe
 untabify
 until
 untouched
+untrimmedFilePath
 unusable
 unused
 unwind
@@ -24601,6 +24977,8 @@ uris
 url
 url.html
 url.length
+url.pathname
+url.searchParams.has
 urlChanges
 urlCodec
 urlStr
@@ -24626,11 +25004,16 @@ useAnimation
 useCache
 useCapture
 useClass
+useCleanup
 useCommonBoilerplate
+useContext
+useContextProvider
 useCustomAndroidUI
 useDefineForClassFields
+useDelay
 useEffect
 useEmulator
+useEndpoint
 useExisting
 useFactory
 useFruit
@@ -24638,17 +25021,26 @@ useFsEvents
 useFsEventsOnParentDirectory
 useFunctionsEmulator
 useHash
+useHook
 useInches
 useIntl
 useJavaScript
 useJit
 useKey
 useLibs
+useLocation
+useMount
+useServerMount
+useSignal
 useState
 useStore
+useStyles
+useStylesScoped
 useUniversalSyntax
 useUnknownInCatchVariables
 useValue
+useWakeupSignal
+useWatch
 use_password
 useclass
 used
@@ -24703,6 +25095,7 @@ userNameHint
 userNotificationCenterDidReceiveNotificationResponseWithCompletionHandler
 userNotificationCenterOpenSettingsForNotification
 userNotificationCenterWillPresentNotificationWithCompletionHandler
+userOpts
 userResponse
 userResponse.json
 userService
@@ -24797,11 +25190,13 @@ value.body
 value.getClass
 value.isT
 value.length
+value.message
 value.title
 valueChange
 valueChanged
 valueChanges
 valueField
+valueGetter
 valueOf
 valueOfPi
 valueProperty
@@ -24823,6 +25218,7 @@ variables.texi
 variables_hash
 variant
 variant.outputs.each
+variant.value
 variant.versionCode
 varmapa
 vars
@@ -25024,6 +25420,7 @@ wai
 wais
 wait
 waitForAsync
+waitUntil
 waiting
 walk
 walking
@@ -25240,6 +25637,7 @@ window.parent.test
 window.someName
 window.ts
 window.ts.transpileModule
+window:onMouseMove
 windowp
 windows
 windows.texi
@@ -25271,6 +25669,7 @@ wooden
 woods
 woof
 wool
+wooorm
 word
 words
 wordwrap
@@ -25279,6 +25678,7 @@ workDone
 workaround
 workbench
 worker
+worker.js
 worker.onerror
 worker.onmessage
 worker.postMessage
@@ -25341,6 +25741,7 @@ www.amazon.com
 www.angular.io
 www.apple.com
 www.behance.net
+www.builder.io
 www.commonjs.org
 www.communityjusticeexchange.org
 www.coolapp.com

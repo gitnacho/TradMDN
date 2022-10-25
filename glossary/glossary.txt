@@ -3943,9 +3943,9 @@ avarice	codicia
 avaricious	avaricioso
 avaricious	avaro
 avariciousness	avaricia
-avatar	identidad ficticia
 avatar	avatar
 avatar	encarnación de una deidad
+avatar	identidad ficticia	Esta individualiza a un usuario en la red, por ejemplo en una aplicación social. Puede ser una forma de (icono), una imagen (foto), un personaje de comic...
 avaunt	¡fuera!
 avenge	vengar
 avengeress	vengadora
@@ -4722,7 +4722,7 @@ below	inferior
 below	más abajo
 below	más adelante
 below	por debajo
-below the	line bajo la línea	Acción publicitaria que se realiza fuera de los medios de comunicación convencionales: publicidad directa, publicidad exterior, promoción y relaciones públicas.
+below the	line	bajo la línea	Acción publicitaria que se realiza fuera de los medios de comunicación convencionales: publicidad directa, publicidad exterior, promoción y relaciones públicas.
 belt	cinturón
 belt	correa
 bench	banco
@@ -8254,7 +8254,7 @@ clutch	bolso de fiesta
 clutch	bolso de mano
 clutch	cartera
 clutch	cloch
-cms	
+cms	gestor de contenido	Content Management System
 cmyk	Cyan Magenta Yellow Key	CMYK es un modelo de colores basado en los diferentes niveles del Cyan, Magenta y Amarillo
 cname	Canonical Name	Un CNAME es un alias del hostname
 co-branding	asociación de marcas	Unión de las fuerzas de dos marcas para ofrecer un producto o un servicio en conjunto, e impulsar su valor y rentabilidad. (Ver joint venture).
@@ -13295,6 +13295,7 @@ distressing	angustioso
 distressing	desagradable
 distribute	distribuir
 distribution	distribución
+distributivity	distributivilidad
 distributor	delco
 distributor	distribuidor
 district	barrio
@@ -36816,7 +36817,6 @@ layman	lego
 layman	profano
 layoff	despido temporal
 layoff	paro involuntario
-layout	prototipo gráfico
 layout	boceto
 layout	composición
 layout	concepto
@@ -36828,6 +36828,7 @@ layout	modelar
 layout	plano
 layout	presentación
 layout	prototipo gráfico
+layout	prototipo gráfico	El boceto de toda la vida. Diseño, boceto gráfico de la web. Aproximación gráfica, simulación a lo que finalmente será la web.
 layout parameters	parámetros de diseño	nodo
 layouts	composiciones
 layouts	diseños
@@ -52328,7 +52329,6 @@ protocol	protocolo
 protocol on sugar	Protocolo del azúcar
 proton	proton pump inhibitors	inhibidores de la bomba de protones
 proton	protón
-prototipado	
 prototype	prototipo
 protract	alargar
 protract	extender
@@ -68816,6 +68816,7 @@ tailored	a medida
 tailored	adaptado
 tailpipe	tubo de escape
 tailspin	barrena
+tailwind	viento de cola
 taint	contaminar
 taint	corromper
 taint	empañar
@@ -79486,7 +79487,7 @@ write-up	crónica
 write-up	elogio
 write-up	relato
 writeable	grabable
-writeframe	
+writeframe	dibujo simple	La estructura de la web, similar en concepto a layout.
 writer	autor
 writer	escritor
 writer procedures	procedimientos de escritura
@@ -80084,4 +80085,4 @@ zygote	cigoto
 —	Alt+0151
 —	barra horizontal
 ⇋	C-q C-i inserta un carácter de tabulación
-﻿`	acento gravedistributivity	distributividaddisjointed
+﻿`	acento grave
