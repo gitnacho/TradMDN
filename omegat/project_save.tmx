@@ -15827,8 +15827,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Understanding the difference between a web page, a website, a web server and a search engine](/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
 - [Understanding domain names](/en-US/docs/Learn/Common_questions/What_is_a_domain_name)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203442Z" creationid="Nachec" creationdate="20221025T203442Z">
-        <seg>- [Cómo funciona la Web](/es/Learn/Getting_started_with_the_web/How_the_Web_works)
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T205940Z" creationid="Nachec" creationdate="20221025T203442Z">
+        <seg>- [Cómo funciona la Web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - [Comprender la diferencia entre una página web, un sitio web, un servidor web y un motor de búsqueda](/es/docs/Learn/page_vs_site_vs_server_vs_search_engine)
 - [Entender los nombres de dominio](/es/docs/Learn/Understanding_domain_names)</seg>
       </tuv>
@@ -35199,8 +35199,8 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       <tuv lang="en-US">
         <seg>At its most basic, the Internet is a large network of computers which communicate all together.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200353Z" creationid="Nachec" creationdate="20221025T200353Z">
-        <seg>**Internet** es la columna vertebral de la Web, la infraestructura técnica que la hace posible. En esencia, Internet es una gran red de computadoras que se comunican simultáneamente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T205523Z" creationid="Nachec" creationdate="20221025T200353Z">
+        <seg>En esencia, Internet es una gran red de ordenadores que se comunican simultáneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48744,8 +48744,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>The **Internet** is the backbone of the Web, the technical infrastructure that makes the Web possible.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200314Z" creationid="Nachec" creationdate="20221025T200314Z">
-        <seg>## Resumen</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T205449Z" creationid="Nachec" creationdate="20221025T200314Z">
+        <seg>**Internet** es la columna vertebral de la Web, la infraestructura técnica que la hace posible.</seg>
       </tuv>
     </tu>
     <tu>
