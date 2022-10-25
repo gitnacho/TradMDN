@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Routers linked to routers](internet-schema-5.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201410Z" creationid="Nachec" creationdate="20221025T201410Z">
+        <seg>![Enrutadores interconectados](internet-schema-5.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Screenshot of JS Bin web based IDE](jsbin-screen.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T211340Z" creationid="Nachec" creationdate="20221023T211340Z">
@@ -262,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Ten computers with a router](internet-schema-3.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201225Z" creationid="Nachec" creationdate="20221025T201225Z">
+        <seg>![Diez ordenadores con un router](internet-schema-3.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![The words Star Wars followed by an image of a Lego version of the Darth Vader character](demo-screenshot.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T031029Z" creationid="gitnacho" creationdate="20220921T023851Z">
@@ -298,6 +314,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200912Z" creationid="Nachec" creationdate="20221025T200912Z">
         <seg>![Dos computadoras conectadas entre sí](internet-schema-1.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>![Two routers linked together](internet-schema-4.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201331Z" creationid="Nachec" creationdate="20221025T201331Z">
+        <seg>![Dos routers conectados entre sí](internet-schema-4.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2726,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203710Z" creationid="gitnacho" creationdate="20221018T203710Z">
         <seg>## ¿Por qué se deben restringir algunas funciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### A network of networks</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201232Z" creationid="Nachec" creationdate="20221025T201232Z">
+        <seg>### Una red de redes</seg>
       </tuv>
     </tu>
     <tu>
@@ -35676,6 +35708,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But what about connecting hundreds, thousands, billions of computers?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201251Z" creationid="Nachec" creationdate="20221025T201251Z">
+        <seg>pero ¿qué sucede al conectar cientos, miles, millones de ordenadores entre sí?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But, as a logged-in user, you have two options to force a page to be regenerated, in case you notice issues with scripting:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T074932Z" creationid="gitnacho" creationdate="20221005T074932Z">
@@ -35704,6 +35744,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211102T190732Z" creationid="gitnacho" creationdate="20211102T190732Z">
         <seg>Creando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By connecting computers to routers, then routers to routers, we are able to scale infinitely.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201353Z" creationid="Nachec" creationdate="20221025T201353Z">
+        <seg>Al conectar ordenadores a enrutadores y luego enrutadores entre sí, podemos escalar infinitamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45449,6 +45497,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nothing, so let's do that.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201320Z" creationid="Nachec" creationdate="20221025T201320Z">
+        <seg>Nada: hagámoslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now add `html_template/shell_minimal.html` with `\{\{{ SCRIPT }}}` as content into this new directory too, just for convenience (you'd obviously put this in a central place in your real dev environment).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T111901Z" creationid="gitnacho" creationdate="20221003T111901Z">
@@ -45781,6 +45837,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of course a single _router_ can't scale that far, but, if you read carefully, we said that a _router_ is a computer like any other, so what keeps us from connecting two _routers_ together?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201314Z" creationid="Nachec" creationdate="20221025T201314Z">
+        <seg>Por supuesto un solo _enrutador_ no puede escalar tanto, pero, si lees cuidadosamente, dijimos que un _enrutador_ es como un pequeño ordenador, entonces ¿qué nos impide conectar dos _enrutadores_ a la vez?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Office document editors are not suitable for this use, as they rely on hidden elements that interfere with the rendering engines used by web browsers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T111150Z" creationid="gitnacho" creationdate="20221012T164641Z">
@@ -45993,6 +46057,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224417Z" creationid="gitnacho" creationdate="20221011T224417Z">
         <seg>Una vez que se completa la solicitud de preverificación, se envía la solicitud real:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once we add a router to the system, our network of 10 computers only requires 10 cables: a single plug for each computer and a router with 10 plugs.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201212Z" creationid="Nachec" creationdate="20221025T201212Z">
+        <seg>Una vez que agregamos un enrutador al sistema, nuestra red de 10 ordenadores solo requiere 10 cables: un enchufe para cada ordenador y un enrutador con 10 enchufes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47620,6 +47692,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So far so good.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201241Z" creationid="Nachec" creationdate="20221025T201241Z">
+        <seg>Hasta aquí todo es más o menos simple,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So for example, after executing the following function:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T055049Z" creationid="gitnacho" creationdate="20221007T055049Z">
@@ -48108,6 +48188,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T214035Z" creationid="gitnacho" creationdate="20221011T214035Z">
         <seg>Las secciones posteriores analizan los escenarios y proporcionan un desglose de los encabezados HTTP utilizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Such a network comes very close to what we call the Internet, but we're missing something.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201422Z" creationid="Nachec" creationdate="20221025T201422Z">
+        <seg>Una red así se acerca mucho a lo que llamamos Internet, pero hay algo que nos falta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56725,6 +56813,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To send a message to computer B, computer A must send the message to the router, which in turn forwards the message to computer B and makes sure the message is not delivered to computer C.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201156Z" creationid="Nachec" creationdate="20221025T201156Z">
+        <seg>Para que el ordenador B reciba un mensaje desde el ordenador A, este último lo debe enviar primero al router, que a su vez lo remite al ordenador B asegurándose que dicho mensaje no sea entregado a otro ordenador C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To share memory using {{jsxref("SharedArrayBuffer")}} objects from one agent in the cluster to another (an agent is either the web page's main program or one of its web workers), [`postMessage`](/en-US/docs/Web/API/Worker/postMessage) and [structured cloning](/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm) is used.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T233017Z">
@@ -57470,6 +57566,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051107Z" creationid="Nachec" creationdate="20221020T175221Z">
         <seg>Estaremos más que felices de hablar contigo, si bien eres un alumno, un maestro, un desarrollador web experimentado o cualquier otra persona interesada en ayudar a mejorar la experiencia de aprendizaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We built that network for our own purposes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201433Z" creationid="Nachec" creationdate="20221025T201433Z">
+        <seg>Construimos esa red para nuestros propios propósitos.</seg>
       </tuv>
     </tu>
     <tu>
