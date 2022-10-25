@@ -11967,9 +11967,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Guide</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225637Z" creationid="gitnacho" creationdate="20220921T014611Z">
-        <seg>- Guide
-  - Guía</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T205024Z" creationid="gitnacho" creationdate="20220921T014611Z">
+        <seg>- Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -23185,10 +23184,11 @@ title: Internet
 slug: Glossary/Internet
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T191220Z" creationid="Nachec" creationdate="20221020T191220Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T205022Z" creationid="Nachec" creationdate="20221020T191220Z">
         <seg>---
 title: Internet
 slug: Glossary/Internet
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
