@@ -3943,7 +3943,7 @@ avarice	codicia
 avaricious	avaricioso
 avaricious	avaro
 avariciousness	avaricia
-avatar	 identidad ficticia		Esta individualiza a un usuario en la red, por ejemplo en una aplicación social. Puede ser una forma de (icono), una imagen (foto), un personaje de comic...
+avatar	identidad ficticia
 avatar	avatar
 avatar	encarnación de una deidad
 avaunt	¡fuera!
@@ -8254,7 +8254,7 @@ clutch	bolso de fiesta
 clutch	bolso de mano
 clutch	cartera
 clutch	cloch
-cms			 gestor de contenido	Content Management System
+cms	
 cmyk	Cyan Magenta Yellow Key	CMYK es un modelo de colores basado en los diferentes niveles del Cyan, Magenta y Amarillo
 cname	Canonical Name	Un CNAME es un alias del hostname
 co-branding	asociación de marcas	Unión de las fuerzas de dos marcas para ofrecer un producto o un servicio en conjunto, e impulsar su valor y rentabilidad. (Ver joint venture).
@@ -8672,7 +8672,6 @@ computer science education	educación en ciencias de la computación
 computer virus	virus
 computer-move	computadora-juega
 comrade	camarada
-comunicación convencionales: periódico, revista, radio,
 concatenate	concatena
 concatenate	concatenan
 concatenate	concatenar
@@ -9087,7 +9086,6 @@ copyright	derechos de edición
 copywriter	copista
 copywriter	redactor
 copywriter	redactor creativo	Estratega que tiene la responsabilidad sobre la idea de la campaña y los textos creativos que se van a comunicar. (Ver ad copy, baseline, body copy, copy y slogan).
-copywriter y slogan).
 cor anglais	corno inglés
 coral	coral
 core	alma
@@ -9449,7 +9447,7 @@ cross-platform	independiente de la plataforma
 cross-platform	multiplataforma
 crossbow	ballesta
 crossbrowser	multinavegador
-crossbrowsing			 comprobar que en todos los navegadoresla web se ve bien.
+crossbrowsing	
 crossroads	cruce de caminos
 crossroads	crucero
 crossroads	encrucijada
@@ -20306,7 +20304,6 @@ fin	barba
 fin	brazo
 fin	mano
 fin	rebaba
-fin, como informar o entretener. (Ver baseline, body copy, copy,
 fin-footed	palmeado
 finagle	conseguir con chanchullos
 finagle	engañar
@@ -36819,7 +36816,7 @@ layman	lego
 layman	profano
 layoff	despido temporal
 layoff	paro involuntario
-layout	 prototipo gráfico		El boceto de toda la vida. Diseño, boceto gráfico de la web. Aproximación gráfica, simulación a lo que finalmente será la web.
+layout	prototipo gráfico
 layout	boceto
 layout	composición
 layout	concepto
@@ -40357,7 +40354,6 @@ mantelet	pantalla o escudo movible
 mantelletta	mantelete
 mantelletta	vestidura con dos aberturas para sacar los brazos que llevan los obispos y prelados
 mantelpiece	repisa de la chimenea
-mantener óptima la relación con los clientes de la empresa.
 mantis	mantis religiosa
 mantis	praying mantis
 mantle	capa
@@ -41182,7 +41178,7 @@ media	medios
 media	medios de comunicación
 media	multimedia
 media planning	plan de medios	Consiste en la búsqueda, definición y selección de la mejor combinación de medios para lograr los objetivos de la campaña mercadológica.
-media queries			 proceso que permite definir condiciones específicas en función de los distintos dispositivos o media en los que se ha de visualizar un proyecto.
+media queries	
 media queries	consultas de medios
 media-rich	rico en medios
 mediaeval	medieval
@@ -43654,7 +43650,6 @@ myxomycete	mixomiceto
 mélange	mezcla
 mélange	mezcolanza
 mésalliance	matrimonio con una clase social inferior
-módem decodificador inalámbrico de señales asimétricas.
 müche	canónigos
 mügü	chica
 mügü	doncella
@@ -45041,7 +45036,6 @@ nuzzle up	arrimarse
 nylon	nylon
 nymph	ninfa
 née	de soltera
-o servicio, a diferencia del texto utilizado para cualquier otro
 o'clock	la una
 oaf	bruto
 oaf	manazas
@@ -52334,7 +52328,7 @@ protocol	protocolo
 protocol on sugar	Protocolo del azúcar
 proton	proton pump inhibitors	inhibidores de la bomba de protones
 proton	protón
-prototipado				 diseño del prototipo
+prototipado	
 prototype	prototipo
 protract	alargar
 protract	extender
@@ -62029,7 +62023,7 @@ site	situación
 site	situar
 site	terreno
 site map	mapa del sitio
-sitemap	 mapa del sitio
+sitemap	mapa del sitio
 sites	lugares
 sites	páginas
 sites	sitios
@@ -69685,7 +69679,6 @@ teleview	ver por televisión
 televiewer	telespectador
 televise	televisar
 television	televisión
-televisión o cine.
 teleworker	teletrabajador
 teleworking	teletrabajo
 telex	télex
@@ -74360,9 +74353,7 @@ umpire	juez
 umpire	árbitro
 umpteen	muchísimos
 umpteenth	enésimo
-un documento o recurso.
 un-Lispy	antiLispy
-una página web.
 unabashed	descarado
 unabashed	desenvuelto
 unabashed	desvergonzado
@@ -76376,7 +76367,6 @@ veld	sabana
 veldt	sabana
 vellum	pergamino
 vellum	vitela
-velocidad, a través de una línea telefónica, fibra óptica y un
 velocipede	velocípedo
 velocity	velocidad
 velodrome	velódromo
@@ -79496,7 +79486,7 @@ write-up	crónica
 write-up	elogio
 write-up	relato
 writeable	grabable
-writeframe				 dibujo simple	La estructura de la web, similar en concepto a layout.
+writeframe	
 writer	autor
 writer	escritor
 writer procedures	procedimientos de escritura
