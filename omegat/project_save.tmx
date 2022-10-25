@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Ten computers all together](internet-schema-2.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201051Z" creationid="Nachec" creationdate="20221025T201051Z">
+        <seg>![Diez ordenadores interconectados](internet-schema-2.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![The words Star Wars followed by an image of a Lego version of the Darth Vader character](demo-screenshot.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T031029Z" creationid="gitnacho" creationdate="20220921T023851Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190141Z" creationid="Nachec" creationdate="20221025T190141Z">
         <seg>![Dos círculos que representan al cliente y al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>![Two computers linked together](internet-schema-1.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200912Z" creationid="Nachec" creationdate="20221025T200912Z">
+        <seg>![Dos computadoras conectadas entre sí](internet-schema-1.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31404,6 +31420,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** For the rest of this article, we will only talk about physical cables, but wireless networks work the same.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200855Z" creationid="Nachec" creationdate="20221025T200855Z">
+        <seg>&gt; **Nota:** En el resto de este artículo, sólo nos referiremos al uso de cables físicos, pero es igualmente aplicable a las redes inalámbricas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** For this to work, `.wasm` files should be returned
 &gt; with an `application/wasm` MIME type by the server.</seg>
       </tuv>
@@ -34078,6 +34102,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All modern computers can sustain any of those connections.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200833Z" creationid="Nachec" creationdate="20221025T200833Z">
+        <seg>Todos los ordenadores modernos pueden soportar cualquiera de este tipo de conexiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All of these concepts are reflected 1:1 in the [WebAssembly JavaScript API](/en-US/docs/WebAssembly/JavaScript_interface).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T091818Z" creationid="gitnacho" creationdate="20221003T010815Z">
@@ -35552,6 +35584,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082909Z" creationid="gitnacho" creationdate="20221005T082909Z">
         <seg>Pero si estás poniendo archivos vacíos en la wiki, lo estás haciendo mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But it gets complicated quickly.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201019Z" creationid="Nachec" creationdate="20221025T201019Z">
+        <seg>sin embargo, rápidamente se volverá más compleja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40862,6 +40902,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211247Z" creationid="gitnacho" creationdate="20221005T211247Z">
         <seg>Si no estás utilizando un tipo de lenguaje en particular (por ejemplo, si no estás utilizando JavaScript) o si lo estás ocultando, debes omitir el encabezado correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you're trying to connect, say, ten computers, you need 45 cables, with nine plugs per computer!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201034Z" creationid="Nachec" creationdate="20221025T201034Z">
+        <seg>Por ejemplo, para conectar diez ordenadores, se necesitarían ¡45 cables y unos nueve conectores por ordenador!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48064,6 +48112,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Such a network is not limited to two computers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200959Z" creationid="Nachec" creationdate="20221025T200927Z">
+        <seg>Una red no se limita a dos ordenadores,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Such cross-origin requests are preflighted since they may have implications for user data.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222547Z" creationid="gitnacho" creationdate="20221011T222547Z">
@@ -53593,6 +53649,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This _router_ has only one job: like a signaler at a railway station, it makes sure that a message sent from a given computer arrives at the right destination computer.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201131Z" creationid="Nachec" creationdate="20221025T201131Z">
+        <seg>Este enrutador cumple una única función: tal como hace un señalizador en una estación de tren, el router se encarga de asegurar que el mensaje enviado desde un ordenador emisor llegue al destino correcto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This `Module` can be instantiated again or</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T105703Z" creationid="gitnacho" creationdate="20221006T102302Z">
@@ -56695,6 +56759,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To solve this problem, each computer on a network is connected to a special tiny computer called a _router_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201110Z" creationid="Nachec" creationdate="20221025T201110Z">
+        <seg>Para resolver este problema, cada ordenador en una red está conectado a una pequeña computadora especial llamada enrutador o router (en inglés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start off simple, expose `WebPGetEncoderVersion()` from `encode.h` to JavaScript by writing a C file called `webp.c`:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053420Z" creationid="gitnacho" creationdate="20221004T053420Z">
@@ -59397,6 +59469,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221009T003443Z">
         <seg>Lo puedes comparar con {{JSxRef("Math")}}, que también es un objeto de espacio de nombres —`namespace`— para funciones y constantes matemáticas, o con {{JSxRef("Intl")}}, que es el objeto de espacio de nombres para constructores de internacionalización y otras `Functions` sensibles al lenguaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can connect as many computers as you wish.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201010Z" creationid="Nachec" creationdate="20221025T200945Z">
+        <seg>se pueden conectar tantos como se desee;</seg>
       </tuv>
     </tu>
     <tu>
