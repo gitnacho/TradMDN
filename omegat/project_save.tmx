@@ -1976,6 +1976,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Next steps</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203119Z" creationid="Nachec" creationdate="20221025T203119Z">
+        <seg>## Próximos pasos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Notes</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T133739Z" creationid="gitnacho" creationdate="20221003T133739Z">
@@ -15788,6 +15796,18 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [HTTP: Un protocolo a nivel de aplicación](https://dev.opera.com/articles/http-basic-introduction/) (en inglés)
 - [HTTP: Trabajemos con él](https://dev.opera.com/articles/http-lets-get-it-on/) (en inglés)
 - [Códigos de respuesta: HTTP](https://dev.opera.com/articles/http-response-codes/) (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [How the Web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- [Understanding the difference between a web page, a website, a web server and a search engine](/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
+- [Understanding domain names](/en-US/docs/Learn/Common_questions/What_is_a_domain_name)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203442Z" creationid="Nachec" creationdate="20221025T203442Z">
+        <seg>- [Cómo funciona la Web](/es/Learn/Getting_started_with_the_web/How_the_Web_works)
+- [Comprender la diferencia entre una página web, un sitio web, un servidor web y un motor de búsqueda](/es/docs/Learn/page_vs_site_vs_server_vs_search_engine)
+- [Entender los nombres de dominio](/es/docs/Learn/Understanding_domain_names)</seg>
       </tuv>
     </tu>
     <tu>
