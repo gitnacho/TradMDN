@@ -37908,6 +37908,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example (at the time of writing; IP addresses can change) `google.com` is the domain name used on top of the IP address `142.250.190.78`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202413Z" creationid="Nachec" creationdate="20221025T202413Z">
+        <seg>Por ejemplo, `google.com` es el nombre de dominio utilizado para la dirección IP `173.194.121.32` (al momento de escribir este artículo; La dirección IP puede cambiar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example `&lt;mo&gt;+&lt;/mo&gt;` (binary operation), `&lt;mo&gt;≤&lt;/mo&gt;` (binary relation), `&lt;mo&gt;∑&lt;/mo&gt;` (summation symbol) or `&lt;mo&gt;[&lt;/mo&gt;` (fence).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191246Z" creationid="Nachec" creationdate="20221021T191246Z">
@@ -43487,6 +43495,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's an address made of a series of four numbers separated by dots, for example: `192.168.2.10`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202210Z" creationid="Nachec" creationdate="20221025T202210Z">
+        <seg>Esta dirección está compuesta por una serie de cuatro números separados por puntos, por ejemplo: `192.168.2.10`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's based on the open source [WebKit](https://webkit.org/) engine.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184733Z" creationid="Nachec" creationdate="20221022T184733Z">
@@ -47884,6 +47900,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So using the domain name is the easiest way for us to reach a computer over the Internet.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202423Z" creationid="Nachec" creationdate="20221025T202423Z">
+        <seg>Así, usar un nombre de dominio es la manera más fácil para nosotros de identificar un ordenador a través de Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So we are connected to the telephone infrastructure.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201716Z" creationid="Nachec" creationdate="20221025T201716Z">
@@ -48540,6 +48564,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064021Z" creationid="gitnacho" creationdate="20221007T064021Z">
         <seg>Eso literalmente es todo con lo que `asm.js` tiene que jugar (excepto que no es redimensionable; consulta el [modelo de programación](http://asmjs.org/spec/latest/#programming-model) de `asm.js`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's perfectly fine for computers, but we human beings have a hard time remembering that sort of address.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202223Z" creationid="Nachec" creationdate="20221025T202223Z">
+        <seg>Para los ordenadores es un identificador simple, pero los humanos tenemos mayor dificultad para recordar este tipo de direcciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56293,6 +56325,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thus any computer linked to a network has a unique address that identifies it, called an "IP address" (where IP stands for _Internet Protocol_).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202158Z" creationid="Nachec" creationdate="20221025T202158Z">
+        <seg>Es por ello que todo ordenador conectado a una red cuenta con una dirección única que lo identifica, llamada “dirección IP” ("IP" son las siglas en inglés de _Internet Protocol_, o _Protocolo de Internet_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, tables are currently a rather low-level primitive used to compile low-level programming language features safely and portably.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233044Z" creationid="gitnacho" creationdate="20221006T233044Z">
@@ -56857,6 +56897,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T125936Z" creationid="Nachec" creationdate="20221023T125714Z">
         <seg>Pero aún debes aplicar el CSS a tu documento HTML,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To make things easier, we can alias an IP address with a human-readable name called a _domain name_.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202236Z" creationid="Nachec" creationdate="20221025T202236Z">
+        <seg>Con el propósito de convertir esta serie numérica en algo que podamos asociar con mayor facilidad a la dirección IP se utiliza lo que conocemos como _nombre de dominio_.</seg>
       </tuv>
     </tu>
     <tu>
