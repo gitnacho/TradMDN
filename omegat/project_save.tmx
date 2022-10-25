@@ -15604,6 +15604,20 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [How the Internet works](/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [HTTP — an Application-Level Protocol](https://dev.opera.com/articles/http-basic-introduction/)
+- [HTTP: Let's GET It On!](https://dev.opera.com/articles/http-lets-get-it-on/)
+- [HTTP: Response Codes](https://dev.opera.com/articles/http-response-codes/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192541Z" creationid="Nachec" creationdate="20221025T192541Z">
+        <seg>- [¿Cómo funciona Internet](/es/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [HTTP: Un protocolo a nivel de aplicación](https://dev.opera.com/articles/http-basic-introduction/) (en inglés)
+- [HTTP: Trabajemos con él](https://dev.opera.com/articles/http-lets-get-it-on/) (en inglés)
+- [Códigos de respuesta: HTTP](https://dev.opera.com/articles/http-response-codes/) (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T060118Z" creationid="gitnacho" creationdate="20220925T055939Z">
@@ -33730,6 +33744,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally, the packets can be routed along different paths, making the exchange faster and allowing many different users to download the same website at the same time.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192344Z" creationid="Nachec" creationdate="20221025T192344Z">
+        <seg>Además, los paquetes se pueden enrutar a lo largo de diferentes rutas, lo que hace que el intercambio sea más rápido y permite que muchos usuarios diferentes descarguen el mismo sitio web al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust the `px` values as you like.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140447Z" creationid="Nachec" creationdate="20221023T140447Z">
@@ -34921,6 +34943,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083735Z" creationid="Nachec" creationdate="20221021T083735Z">
         <seg>Familiaridad básica con el uso de computadoras y el uso pasivo de la Web (es decir, mirarla, consumir el contenido).
 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basically, when data is sent across the web, it is sent in thousands of small chunks.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192243Z" creationid="Nachec" creationdate="20221025T192243Z">
+        <seg>Básicamente, que los datos se envían a través de la web como miles de trozos pequeños, permitiendo que muchos usuarios puedan descargar la misma página web al mismo tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39699,6 +39729,14 @@ among them.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201213Z" creationid="Nachec" creationdate="20221021T201213Z">
         <seg>Si lo deseas, también puedes hacer lo mismo con los demás archivos de fuentes del directorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If each website was sent as a single big chunk, only one user could download it at a time, which obviously would make the web very inefficient and not much fun to use.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192414Z" creationid="Nachec" creationdate="20221025T192414Z">
+        <seg>Si cada sitio web se enviara como una sola porción grande, solo un usuario lo podría descargar a la vez, lo que obviamente haría que la web fuera muy ineficiente y no muy divertida de usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52546,6 +52584,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are multiple reasons why data is sent in small packets.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192310Z" creationid="Nachec" creationdate="20221025T192310Z">
+        <seg>Existen múltiples razones por las que los datos se envían en paquetes pequeños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are no assessments in this part of the course.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224028Z" creationid="gitnacho" creationdate="20221018T224028Z">
@@ -53158,6 +53204,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205929Z" creationid="gitnacho" creationdate="20221005T205929Z">
         <seg>No son apropiados si deseas mostrar, por ejemplo, cómo combinar una estructura particular de HTML/CSS/JS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are sometimes dropped or corrupted, and it's easier to replace small chunks when this happens.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192326Z" creationid="Nachec" creationdate="20221025T192326Z">
+        <seg>A veces se caen o se corrompen, y es más fácil reemplazar pequeños fragmentos cuando esto sucede.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58099,6 +58153,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T114002Z" creationid="gitnacho" creationdate="20220925T054843Z">
         <seg>¿Qué imágenes de fondo y colores se deben utilizar para decorar tu sitio web?,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What do we mean here?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192200Z" creationid="Nachec" creationdate="20221025T192200Z">
+        <seg>¿Qué significa esto?</seg>
       </tuv>
     </tu>
     <tu>
