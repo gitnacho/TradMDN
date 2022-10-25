@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![A black-and-white photo of a person crossing a road at a crosswalk](road.jpg)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190409Z" creationid="Nachec" creationdate="20221025T190409Z">
+        <seg>![Una foto en blanco y negro de una persona cruzando una calle en un cruce de peatones](road.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![A file structure in macOS finder, showing an images folder with an image in, empty scripts and styles folders, and an index.html file](file-structure.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050240Z" creationid="Nachec" creationdate="20221023T050240Z">
@@ -2300,6 +2308,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223931Z" creationid="gitnacho" creationdate="20221018T223931Z">
         <seg>## El camino del aprendizaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## The other parts of the toolbox</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190305Z" creationid="Nachec" creationdate="20221025T190305Z">
+        <seg>## Las otras partes de la caja de herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6842,6 +6858,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- **DNS**: Domain Name System is like an address book for websites.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190549Z" creationid="Nachec" creationdate="20221025T190536Z">
+        <seg>- **DNS:** Los servidores del **Sistema de Nombres de Dominio** (DNS, por sus siglas en inglés), son como una libreta de direcciones de sitios web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- **Instance**: A Module paired with all the state it uses at runtime including a Memory, Table, and set of imported values.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T101255Z" creationid="gitnacho" creationdate="20221003T075928Z">
@@ -6874,6 +6898,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- **TCP/IP**: Transmission Control Protocol and Internet Protocol are communication protocols that define how data should travel across the internet.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190500Z" creationid="Nachec" creationdate="20221025T190500Z">
+        <seg>- **TCP/IP**: **Protocolo de Control de Transmisión** y **Protocolo de Internet**, son los protocolos de comunicación que definen cómo deben viajar los datos a través de la web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- **Table**: A resizable typed array of references (e.g. to functions) that could not otherwise be stored as raw bytes in Memory (for safety and portability reasons).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T075856Z" creationid="gitnacho" creationdate="20221003T075856Z">
@@ -6886,6 +6918,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164659Z" creationid="gitnacho" creationdate="20221012T164659Z">
         <seg>- **Navegadores web**, para probar el código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Your internet connection**: Allows you to send and receive data on the web.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190434Z" creationid="Nachec" creationdate="20221025T190434Z">
+        <seg>- **Tu conexión a Internet**: Permite enviar y recibir datos en la web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38102,6 +38142,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For now, let's imagine that the web is a road.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190333Z" creationid="Nachec" creationdate="20221025T190333Z">
+        <seg>Por ahora, imaginemos que la web es un camino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For now, remember to use an `&lt;mo&gt;` container for characters in the operator dictionary and to properly group subexpressions with `&lt;mrow&gt;` elements in order to help MathML renderers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192556Z" creationid="Nachec" creationdate="20221021T192556Z">
@@ -40860,6 +40908,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to the client and the server, we also need to say hello to:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190420Z" creationid="Nachec" creationdate="20221025T190420Z">
+        <seg>Además del cliente y el servidor, también tenemos que saludar a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to the pre-defined keywords that are part of the specification for a property, all CSS properties accept the CSS-wide property values {{cssxref("initial")}}, {{cssxref("inherit")}}, and {{cssxref("unset")}}, which explicitly specify defaulting behaviors.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234244Z" creationid="Nachec" creationdate="20221021T234244Z">
@@ -41145,6 +41201,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053150Z" creationid="gitnacho" creationdate="20220921T025653Z">
         <seg>En nuestro ejemplo, el *worker* está en `https://bncb2v.csb.app/sw.js` y la raíz de la aplicación es `https://bncb2v.csb.app/`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In our example, this is like a car or a bike (or however else you might get around).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190521Z" creationid="Nachec" creationdate="20221025T190521Z">
+        <seg>En nuestro ejemplo, podría ser un coche, una bicicleta o tus propios pies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42981,6 +43045,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T184733Z" creationid="Nachec" creationdate="20221022T184733Z">
         <seg>Se basa en el motor [WebKit](https://webkit.org/) de código abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's basically like the street between your house and the shop.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190444Z" creationid="Nachec" creationdate="20221025T190444Z">
+        <seg>Básicamente es el recorrido entre tu casa y la tienda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45415,6 +45487,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On one end of the road is the client, which is like your house.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190347Z" creationid="Nachec" creationdate="20221025T190347Z">
+        <seg>En un extremo de la carretera, está el cliente, que es como tu casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On other systems, consider installing a [font with a MATH table](#fonts_with_a_math_table) using your package manager.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202144Z" creationid="Nachec" creationdate="20221021T202144Z">
@@ -45459,6 +45539,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200646Z" creationid="gitnacho" creationdate="20221005T064508Z">
         <seg>En la plataforma [Yari](/es/docs/MDN/Yari) que impulsa MDN, todavía tenemos disponible un sistema de plantilla/macro heredado llamado [KumaScript](https://github.com/mdn/yari/tree/main/kumascript) para automatizar ciertos aspectos del contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other end of the road is the server, which is a shop you want to buy something from.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190400Z" creationid="Nachec" creationdate="20221025T190400Z">
+        <seg>En el extremo opuesto del camino, está el servidor, que es una tienda en la que deseas comprar algo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49461,6 +49549,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The client and server we've described above don't tell the whole story.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190314Z" creationid="Nachec" creationdate="20221025T190314Z">
+        <seg>El cliente y el servidor que describimos anteriormente, no cuentan toda la historia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The client then returns the cookie's value with every request to the same server in the form of a `Cookie` request header.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T062858Z" creationid="gitnacho" creationdate="20221012T062858Z">
@@ -52282,6 +52378,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are many other parts involved, and we'll describe them below.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190322Z" creationid="Nachec" creationdate="20221025T190322Z">
+        <seg>Hay muchas otras partes involucradas y vamos a describirlas a continuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are many types of events, some of which use other interfaces based on the main `Event` interface.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T201713Z" creationid="gitnacho" creationdate="20221011T201713Z">
@@ -54414,6 +54518,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181402Z" creationid="Nachec" creationdate="20221021T181402Z">
         <seg>Así es como se renderiza en tu navegador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is like the transport mechanisms that let you place an order, go to the shop, and buy your goods.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190513Z" creationid="Nachec" creationdate="20221025T190513Z">
+        <seg>Esto es, los medios de transporte que te permiten hacer un pedido, ir a la tienda y comprar los productos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57883,6 +57995,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a client device wants to access a webpage, a copy of the webpage is downloaded from the server onto the client machine to be displayed in the user's web browser.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190254Z" creationid="Nachec" creationdate="20221025T190254Z">
+        <seg>Cuando un dispositivo cliente quiere acceder a una página web, una copia de la página web se descarga desde el servidor en el equipo cliente y se muestra en el navegador web del usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a client that supports client hints receives the `Accept-CH` header it can choose to append some or all of the listed client hint headers in its subsequent requests.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091457Z" creationid="gitnacho" creationdate="20221012T091457Z">
@@ -58237,6 +58357,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T195002Z" creationid="Nachec" creationdate="20221023T195002Z">
         <seg>Cuando ejecutes el ejemplo y obtengas el cuadro de diálogo que solicita que introduzcas tu nombre de usuario, intenta pulsar el botón _Cancelar_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you type a web address in your browser, the browser looks at the DNS to find the website's IP address before it can retrieve the website.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190541Z" creationid="Nachec" creationdate="20221025T190541Z">
+        <seg>When you type a web address in your browser, the browser looks at the DNS to find the website's IP address before it can retrieve the website.</seg>
       </tuv>
     </tu>
     <tu>
