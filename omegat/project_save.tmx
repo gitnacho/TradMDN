@@ -1952,6 +1952,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Packets explained</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192141Z" creationid="Nachec" creationdate="20221025T192141Z">
+        <seg>## Explicación de paquetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Page summary</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191539Z" creationid="gitnacho" creationdate="20221008T191539Z">
@@ -36770,6 +36778,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earlier we used the term "packets" to describe the format in which the data is sent from server to client.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192153Z" creationid="Nachec" creationdate="20221025T192153Z">
+        <seg>Anteriormente hemos utilizado el término _**paquetes**_ para describir el formato en que los datos se envían desde el servidor al cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Either way, you get the same kind of wrapper for the underlying function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085115Z" creationid="gitnacho" creationdate="20221006T085115Z">
@@ -58057,8 +58073,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>Websites can be reached directly via their IP addresses.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191838Z" creationid="Nachec" creationdate="20221025T191838Z">
-        <seg>Los sitios web se pueden acceder directamente a través de sus direcciones IP.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191939Z" creationid="Nachec" creationdate="20221025T191838Z">
+        <seg>Los sitios web se pueden acceder directamente a través de sus direcciones IP. Intenta acceder a la página web de Mozilla escribiendo **`63.245.217.105`** en la barra de dirección de una nueva pestaña en tu navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59369,6 +59385,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050754Z" creationid="Nachec" creationdate="20221020T173706Z">
         <seg>Puedes actualizar el repositorio `learning-area` con cualquier cambio realizado en la versión maestra en GitHub con los siguientes pasos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use a [DNS lookup tool](https://www.nslookup.io/website-to-ip-lookup/) to find the IP address of a website.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192131Z" creationid="Nachec" creationdate="20221025T191903Z">
+        <seg>Puedes encontrar la dirección IP de un sitio web escribiendo su dominio en una herramienta como [DNS lookup](https://www.nslookup.io/website-to-ip-lookup/).</seg>
       </tuv>
     </tu>
     <tu>
