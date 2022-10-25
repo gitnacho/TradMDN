@@ -43223,6 +43223,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's important to know the order in which those files are [parsed by the browser](/en-US/docs/Web/Performance/How_browsers_work#parsing) as the browser loads the page:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193135Z" creationid="Nachec" creationdate="20221025T193135Z">
+        <seg>Es importante saber el orden en que esos archivos son [analizados por el navegador](/es/docs/Web/Performance/How_browsers_work#parsing) a medida que el navegador carga la página:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's not a markup language either.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120703Z" creationid="Nachec" creationdate="20221023T120624Z">
