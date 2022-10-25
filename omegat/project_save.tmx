@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Full Internet stack](internet-schema-7.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202050Z" creationid="Nachec" creationdate="20221025T202042Z">
+        <seg>![stack de Internet al completo](internet-schema-7.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Heading "hello world" above a firefox logo](hello-world.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175736Z" creationid="Nachec" creationdate="20221023T175736Z">
@@ -3432,6 +3440,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210102Z" creationid="gitnacho" creationdate="20220922T210102Z">
         <seg>### Detectar características y habilitar precarga de navegación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Finding computers</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202100Z" creationid="Nachec" creationdate="20221025T202046Z">
+        <seg>### Encontrar ordenadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -34383,6 +34399,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An ISP is a company that manages some special _routers_ that are all linked together and can also access other ISPs' routers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201944Z" creationid="Nachec" creationdate="20221025T201944Z">
+        <seg>Un ISP es una empresa que gestiona algunos enrutadores especiales interconectados, que también pueden acceder a enrutadores de otros ISP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An Install event is always the first one sent to a service worker (this can be used to start the process of populating an IndexedDB, and caching site assets).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T051647Z" creationid="gitnacho" creationdate="20220921T022916Z">
@@ -40894,6 +40918,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T102600Z" creationid="Nachec" creationdate="20221022T102600Z">
         <seg>Si deseas indicar en qué idioma está escrito el documento, usa el atributo [`lang`](/es/docs/Web/HTML/Global_attributes/lang) en su lugar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to send a message to a computer, you have to specify which one.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202115Z" creationid="Nachec" creationdate="20221025T202115Z">
+        <seg>Si deseas enviar un mensaje a un ordenador, debes especificar a cuál.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47820,6 +47852,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So the message from our network is carried through the network of ISP networks to the destination network.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202004Z" creationid="Nachec" creationdate="20221025T202004Z">
+        <seg>Así, el mensaje de nuestra red es llevada a través de la red de redes de ISP, hasta la red destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So the original gets returned to the browser and the clone gets sent to the cache.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040351Z" creationid="gitnacho" creationdate="20220921T040351Z">
@@ -49173,6 +49213,14 @@ that the server is unwilling to supply a default representation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T140717Z" creationid="Nachec" creationdate="20221022T140519Z">
         <seg>El código de respuesta de error **`406 No Aceptable`** del cliente del Protocolo de Transferencia de Hipertexto (HTTP) indica que el servidor no puede producir una respuesta que coincida con la lista de valores aceptables definidos en la [negociación de contenido](/es/docs/Web/HTTP/Content_negotiation) proactiva de la solicitud y que el servidor no está dispuesto a proporcionar una representación predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Internet consists of this whole infrastructure of networks.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202017Z" creationid="Nachec" creationdate="20221025T202017Z">
+        <seg>Internet consiste en toda esta infraestructura de redes.</seg>
       </tuv>
     </tu>
     <tu>
