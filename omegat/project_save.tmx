@@ -8734,8 +8734,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Indicates whether or not the response to the request can be exposed when the credentials flag is true.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210709Z" creationid="gitnacho" creationdate="20221017T210709Z">
-        <seg>- : indica si la respuesta a la solicitud se puede exponer o no cuando el indicador de credenciales es `true`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231202Z" creationid="gitnacho" creationdate="20221017T210709Z">
+        <seg>- : Indica si la respuesta a la solicitud se puede exponer o no cuando el indicador de credenciales es `true`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10968,9 +10968,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Assets</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T055901Z" creationid="gitnacho" creationdate="20221019T055901Z">
-        <seg>- Assets
-  - Activos</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230503Z" creationid="gitnacho" creationdate="20221019T055901Z">
+        <seg>- Assets</seg>
       </tuv>
     </tu>
     <tu>
@@ -10985,9 +10984,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Attribute</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213041Z" creationid="Nachec" creationdate="20221021T213041Z">
-        <seg>- Attribute
-  - Atributo</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232845Z" creationid="Nachec" creationdate="20221021T213041Z">
+        <seg>- Attribute</seg>
       </tuv>
     </tu>
     <tu>
@@ -11068,9 +11066,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Browser</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T000826Z" creationid="gitnacho" creationdate="20221012T115006Z">
-        <seg>- Browser
-  - Navegador</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230749Z" creationid="gitnacho" creationdate="20221012T115006Z">
+        <seg>- Browser</seg>
       </tuv>
     </tu>
     <tu>
@@ -11353,9 +11350,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Composing</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T055930Z" creationid="gitnacho" creationdate="20221019T055930Z">
-        <seg>- Composing
-  - Composición</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230507Z" creationid="gitnacho" creationdate="20221019T055930Z">
+        <seg>- Composing</seg>
       </tuv>
     </tu>
     <tu>
@@ -11370,27 +11366,24 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Content</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T055951Z" creationid="gitnacho" creationdate="20221019T055951Z">
-        <seg>- Content
-  - Contenido</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230509Z" creationid="gitnacho" creationdate="20221019T055951Z">
+        <seg>- Content</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- Content Negotiation</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T080359Z" creationid="Nachec" creationdate="20221022T080359Z">
-        <seg>- Content Negotiation
-  - Negociación de contenido</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232553Z" creationid="Nachec" creationdate="20221022T080359Z">
+        <seg>- Content Negotiation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- Content Negotiation Reference</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T080414Z" creationid="Nachec" creationdate="20221022T080414Z">
-        <seg>- Content Negotiation Reference
-  - Referencia de negociación de contenido</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232554Z" creationid="Nachec" creationdate="20221022T080414Z">
+        <seg>- Content Negotiation Reference</seg>
       </tuv>
     </tu>
     <tu>
@@ -11465,9 +11458,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Definitions</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170057Z" creationid="Nachec" creationdate="20221022T170057Z">
-        <seg>- Definitions
-  - Definiciones</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231413Z" creationid="Nachec" creationdate="20221022T170057Z">
+        <seg>- Definitions</seg>
       </tuv>
     </tu>
     <tu>
@@ -11482,18 +11474,16 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Deprecated</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060006Z" creationid="gitnacho" creationdate="20221019T060006Z">
-        <seg>- Deprecated
-  - Obsoleto</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230512Z" creationid="gitnacho" creationdate="20221019T060006Z">
+        <seg>- Deprecated</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- Design</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T001227Z" creationid="gitnacho" creationdate="20220925T035253Z">
-        <seg>- Design
-  - Diseño</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230513Z" creationid="gitnacho" creationdate="20220925T035253Z">
+        <seg>- Design</seg>
       </tuv>
     </tu>
     <tu>
@@ -11508,9 +11498,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Dictionary</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170106Z" creationid="Nachec" creationdate="20221022T170106Z">
-        <seg>- Dictionary
-  - Diccionario</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231414Z" creationid="Nachec" creationdate="20221022T170106Z">
+        <seg>- Dictionary</seg>
       </tuv>
     </tu>
     <tu>
@@ -11713,9 +11702,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Files</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T043644Z" creationid="Nachec" creationdate="20221023T043644Z">
-        <seg>- Files
-  - Archivos</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230648Z" creationid="Nachec" creationdate="20221023T043644Z">
+        <seg>- Files</seg>
       </tuv>
     </tu>
     <tu>
@@ -11746,10 +11734,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Fonts</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T060028Z" creationid="gitnacho" creationdate="20221019T060028Z">
-        <seg>- Fonts
-  - Fuentes
-  - Tipos de letra</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230515Z" creationid="gitnacho" creationdate="20221019T060028Z">
+        <seg>- Fonts</seg>
       </tuv>
     </tu>
     <tu>
@@ -12086,9 +12072,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- HTTP Header</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T075757Z" creationid="gitnacho" creationdate="20221017T211403Z">
-        <seg>- HTTP Header
-  - Cabecera HTTP</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231250Z" creationid="gitnacho" creationdate="20221017T211403Z">
+        <seg>- HTTP Header</seg>
       </tuv>
     </tu>
     <tu>
@@ -12113,9 +12098,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Headers</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T101249Z" creationid="Nachec" creationdate="20221022T101249Z">
-        <seg>- Headers
-  - Cabeceras</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231840Z" creationid="Nachec" creationdate="20221022T101249Z">
+        <seg>- Headers</seg>
       </tuv>
     </tu>
     <tu>
@@ -12515,9 +12499,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Index</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T001251Z" creationid="gitnacho" creationdate="20220925T035309Z">
-        <seg>- Index
-  - Índice</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231420Z" creationid="gitnacho" creationdate="20220925T035309Z">
+        <seg>- Index</seg>
       </tuv>
     </tu>
     <tu>
@@ -12532,9 +12515,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Infrastructure</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T205213Z" creationid="gitnacho" creationdate="20221017T205213Z">
-        <seg>- Infrastructure
-  - infraestructura</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231115Z" creationid="gitnacho" creationdate="20221017T205213Z">
+        <seg>- Infrastructure</seg>
       </tuv>
     </tu>
     <tu>
@@ -12585,9 +12567,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Internationalization</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T190728Z" creationid="Nachec" creationdate="20221020T190728Z">
-        <seg>- Internationalization
-  - Internacionalización</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231451Z" creationid="Nachec" creationdate="20221020T190728Z">
+        <seg>- Internationalization</seg>
       </tuv>
     </tu>
     <tu>
@@ -12674,9 +12655,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Landing</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083031Z" creationid="gitnacho" creationdate="20221002T001810Z">
-        <seg>- Landing
-  - Destino</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231422Z" creationid="gitnacho" creationdate="20221002T001810Z">
+        <seg>- Landing</seg>
       </tuv>
     </tu>
     <tu>
@@ -12703,9 +12683,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Learn</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T115013Z" creationid="gitnacho" creationdate="20221012T115013Z">
-        <seg>- Learn
-  - Aprende</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230408Z" creationid="gitnacho" creationdate="20221012T115013Z">
+        <seg>- Learn</seg>
       </tuv>
     </tu>
     <tu>
@@ -12828,9 +12807,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
         <seg>- MathML Project
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201734Z" creationid="Nachec" creationdate="20221021T072032Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232809Z" creationid="Nachec" creationdate="20221021T072032Z">
         <seg>- MathML Project
-  - Proyecto MathML
 ---</seg>
       </tuv>
     </tu>
@@ -12918,9 +12896,8 @@ browser-compat: mathml.elements.mtext
       <tuv lang="en-US">
         <seg>- Mathematical Markup Language</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T065000Z" creationid="Nachec" creationdate="20221021T065000Z">
-        <seg>- Mathematical Markup Language
-  - Lenguaje de marcado matemático</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231728Z" creationid="Nachec" creationdate="20221021T065000Z">
+        <seg>- Mathematical Markup Language</seg>
       </tuv>
     </tu>
     <tu>
@@ -13014,9 +12991,8 @@ browser-compat: mathml.elements.mtext
       <tuv lang="en-US">
         <seg>- Navigation</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T000401Z" creationid="gitnacho" creationdate="20220922T203649Z">
-        <seg>- Navigation
-  - Navegación</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230955Z" creationid="gitnacho" creationdate="20220922T203649Z">
+        <seg>- Navigation</seg>
       </tuv>
     </tu>
     <tu>
@@ -13204,9 +13180,8 @@ browser-compat: javascript.builtins.WebAssembly.Exception.stack
       <tuv lang="en-US">
         <seg>- Payload header</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141037Z" creationid="Nachec" creationdate="20221022T141037Z">
-        <seg>- Payload header
-  - Cabecera payload</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231839Z" creationid="Nachec" creationdate="20221022T141037Z">
+        <seg>- Payload header</seg>
       </tuv>
     </tu>
     <tu>
@@ -13337,9 +13312,8 @@ browser-compat: javascript.builtins.Uint8ClampedArray
       <tuv lang="en-US">
         <seg>- Reference</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T232424Z" creationid="gitnacho" creationdate="20220921T224606Z">
-        <seg>- Reference
-  - Referencia</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232627Z" creationid="gitnacho" creationdate="20220921T224606Z">
+        <seg>- Reference</seg>
       </tuv>
     </tu>
     <tu>
@@ -13347,9 +13321,8 @@ browser-compat: javascript.builtins.Uint8ClampedArray
         <seg>- Reference
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T100015Z" creationid="gitnacho" creationdate="20221007T100015Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231453Z" creationid="gitnacho" creationdate="20221007T100015Z">
         <seg>- Reference
-  - Referencia
 ---</seg>
       </tuv>
     </tu>
@@ -13384,9 +13357,8 @@ browser-compat: html.elements.canvas
 browser-compat: http.headers.Content-Language
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201733Z" creationid="Nachec" creationdate="20221022T101313Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232703Z" creationid="Nachec" creationdate="20221022T101313Z">
         <seg>- Reference
-  - Referencia
 browser-compat: http.headers.Content-Language
 ---</seg>
       </tuv>
@@ -13422,9 +13394,8 @@ browser-compat: mathml.global_attributes.mathvariant
 browser-compat: http.headers.Accept-Language
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201733Z" creationid="Nachec" creationdate="20221022T104530Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232631Z" creationid="Nachec" creationdate="20221022T104530Z">
         <seg>- Request header
-  - Cabecera de respuesta
 browser-compat: http.headers.Accept-Language
 ---</seg>
       </tuv>
@@ -13495,9 +13466,8 @@ browser-compat: svg.elements.view
       <tuv lang="en-US">
         <seg>- Security</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T232432Z" creationid="gitnacho" creationdate="20221011T211010Z">
-        <seg>- Security
-  - Seguridad</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231800Z" creationid="gitnacho" creationdate="20221011T211010Z">
+        <seg>- Security</seg>
       </tuv>
     </tu>
     <tu>
@@ -13505,9 +13475,8 @@ browser-compat: svg.elements.view
         <seg>- Security
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T205225Z" creationid="gitnacho" creationdate="20221017T205225Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231338Z" creationid="gitnacho" creationdate="20221017T205225Z">
         <seg>- Security
-  - Seguridad
 ---</seg>
       </tuv>
     </tu>
@@ -13612,9 +13581,8 @@ browser-compat: api.NavigationPreloadManager
       <tuv lang="en-US">
         <seg>- Setup</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T115044Z" creationid="gitnacho" creationdate="20221012T115044Z">
-        <seg>- Setup
-  - Configuración</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230752Z" creationid="gitnacho" creationdate="20221012T115044Z">
+        <seg>- Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -13698,9 +13666,8 @@ browser-compat: api.NavigationPreloadManager
 browser-compat: http.status.406
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201734Z" creationid="Nachec" creationdate="20221022T135641Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232742Z" creationid="Nachec" creationdate="20221022T135641Z">
         <seg>- Status code
-  - Código de estado
 browser-compat: http.status.406
 ---</seg>
       </tuv>
@@ -13732,9 +13699,8 @@ browser-compat: api.Cache
       <tuv lang="en-US">
         <seg>- Styling</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130953Z" creationid="Nachec" creationdate="20221023T120057Z">
-        <seg>- Styling
-  - Estilizado</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230616Z" creationid="Nachec" creationdate="20221023T120057Z">
+        <seg>- Styling</seg>
       </tuv>
     </tu>
     <tu>
@@ -13779,9 +13745,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
         <seg>- Terminology
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201727Z" creationid="Nachec" creationdate="20221022T170143Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231426Z" creationid="Nachec" creationdate="20221022T170143Z">
         <seg>- Terminology
-  - Terminología
 ---</seg>
       </tuv>
     </tu>
@@ -14403,9 +14368,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       <tuv lang="en-US">
         <seg>- Tools</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T115052Z" creationid="gitnacho" creationdate="20221012T115052Z">
-        <seg>- Tools
-  - Herramientas</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230755Z" creationid="gitnacho" creationdate="20221012T115052Z">
+        <seg>- Tools</seg>
       </tuv>
     </tu>
     <tu>
@@ -15817,8 +15781,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [How the Internet works](/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) (introduction for beginners)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T204843Z" creationid="Nachec" creationdate="20221025T204843Z">
-        <seg>- [Cómo funciona Internet](/es/docs/Learn/Common_questions/How_does_the_Internet_work) (introducción para principiantes)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231644Z" creationid="Nachec" creationdate="20221025T204843Z">
+        <seg>- [¿Cómo funciona Internet?](/es/docs/Learn/Common_questions/How_does_the_Internet_work) (introducción para principiantes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19574,9 +19538,8 @@ browser-compat: api.CacheStorage.open
         <seg>- origin
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T204726Z" creationid="gitnacho" creationdate="20221017T151342Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231810Z" creationid="gitnacho" creationdate="20221017T151342Z">
         <seg>- origin
-  - origen
 ---</seg>
       </tuv>
     </tu>
@@ -19596,9 +19559,8 @@ browser-compat: api.Worker.postMessage
       <tuv lang="en-US">
         <seg>- publishing</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T111856Z" creationid="gitnacho" creationdate="20220925T035531Z">
-        <seg>- edición
-  - publicación</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230411Z" creationid="gitnacho" creationdate="20220925T035531Z">
+        <seg>- publishing</seg>
       </tuv>
     </tu>
     <tu>
@@ -19676,11 +19638,8 @@ browser-compat: api.ServiceWorker.statechange_event
         <seg>- step by step
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T064826Z" creationid="gitnacho" creationdate="20221019T060701Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230526Z" creationid="gitnacho" creationdate="20221019T060701Z">
         <seg>- step by step
-  - Paso a paso
-translation_of: Learn/Getting_started_with_the_web/What_will_your_website_look_like
-original_slug: Learn/Getting_started_with_the_web/¿Cual_será_la_apariencia_de_tu_sitio_web?
 ---</seg>
       </tuv>
     </tu>
@@ -19864,9 +19823,8 @@ browser-compat: html.elements.script
       <tuv lang="en-US">
         <seg>- theory</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T043652Z" creationid="Nachec" creationdate="20221023T043652Z">
-        <seg>- theory
-  - teoría</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230651Z" creationid="Nachec" creationdate="20221023T043652Z">
+        <seg>- theory</seg>
       </tuv>
     </tu>
     <tu>
@@ -19874,9 +19832,8 @@ browser-compat: html.elements.script
         <seg>- theory
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20220925T035538Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232318Z" creationid="gitnacho" creationdate="20220925T035538Z">
         <seg>- theory
-  - teoría
 ---</seg>
       </tuv>
     </tu>
@@ -20034,9 +19991,8 @@ browser-compat: api.Document.timeline
         <seg>- web server
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T204217Z" creationid="Nachec" creationdate="20221023T204217Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230421Z" creationid="Nachec" creationdate="20221023T204217Z">
         <seg>- web server
-  - servidor web
 ---</seg>
       </tuv>
     </tu>
@@ -23229,11 +23185,11 @@ title: Learn web development
 slug: Learn
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T190752Z" creationid="gitnacho" creationdate="20221012T182154Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T233239Z" creationid="gitnacho" creationdate="20221012T182154Z">
         <seg>---
 title: Aprende desarrollo web
 slug: Learn
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -23574,11 +23530,11 @@ title: Quality values
 slug: Glossary/Quality_values
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T191217Z" creationid="Nachec" creationdate="20221022T130735Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T233216Z" creationid="Nachec" creationdate="20221022T130735Z">
         <seg>---
 title: Valores de calidad
 slug: Glossary/Quality_values
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -33976,8 +33932,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>Add the {{htmlelement("link")}} element somewhere inside your `index.html`'s head (anywhere between the {{HTMLElement("head")}} and `&lt;/head&gt;` tags).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T135424Z">
-        <seg>Agrega el elemento {{HTMLElement("link")}}`...` en algún lugar del _head_ de tu archivo `index.html` (de nuevo, en cualquier lugar entre las etiquetas {{HTMLElement("head")}} y `&lt;/head&gt;`).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225648Z" creationid="Nachec" creationdate="20221023T135424Z">
+        <seg>Agrega el elemento {{HTMLElement("link")}}`...` en algún lugar del `head` de tu archivo `index.html` (de nuevo, en cualquier lugar entre las etiquetas {{HTMLElement("head")}} y `&lt;/head&gt;`).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60551,8 +60507,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class materials, a hobbyist, or someone who just wants to understand more about how web technologies work.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T235924Z" creationid="gitnacho" creationdate="20221012T231814Z">
-        <seg>Te debe sentir como en casa, si bien eres un estudiante que está aprendiendo desarrollo web (por tu cuenta o como parte de una clase), un maestro que busca materiales para la clase, un aficionado o alguien que solo quiere saber más sobre cómo funcionan las tecnologías web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T233549Z" creationid="gitnacho" creationdate="20221012T231814Z">
+        <seg>Te debes sentir como en casa, si bien eres un estudiante que está aprendiendo desarrollo web (por tu cuenta o como parte de una clase), un maestro que busca materiales para la clase, un aficionado o alguien que solo quiere saber más sobre cómo funcionan las tecnologías web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76509,9 +76465,8 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
         <seg>- Security
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201724Z" creationid="Nachec" creationdate="20221020T190501Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231122Z" creationid="Nachec" creationdate="20221020T190501Z">
         <seg>- Security
-  - Seguridad
 ---</seg>
       </tuv>
     </tu>
@@ -76594,9 +76549,8 @@ tags:</prop>
         <seg>- Infrastructure
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221022T072114Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232000Z" creationid="Nachec" creationdate="20221022T072114Z">
         <seg>- Infrastructure
-  - Infraestructura
 ---</seg>
       </tuv>
     </tu>
@@ -76608,9 +76562,8 @@ tags:</prop>
         <seg>- Web Standards
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T070815Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232040Z" creationid="gitnacho" creationdate="20221019T070815Z">
         <seg>- Web Standards
-  - Estándares Web
 ---</seg>
       </tuv>
     </tu>
@@ -76747,9 +76700,8 @@ tags:</prop>
         <seg>- text editor
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T001121Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T230802Z" creationid="gitnacho" creationdate="20221019T001121Z">
         <seg>- text editor
-  - editor de texto
 ---</seg>
       </tuv>
     </tu>
@@ -76891,9 +76843,8 @@ tags:</prop>
         <seg>- Landing
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201733Z" creationid="Nachec" creationdate="20221021T094940Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232529Z" creationid="Nachec" creationdate="20221021T094940Z">
         <seg>- Landing
-  - Destino
 ---</seg>
       </tuv>
     </tu>
@@ -77141,9 +77092,8 @@ original_slug: Web/HTTP/Client_hints
         <seg>- Reference
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201733Z" creationid="Nachec" creationdate="20221022T080700Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T232557Z" creationid="Nachec" creationdate="20221022T080700Z">
         <seg>- Reference
-  - Referencia
 ---</seg>
       </tuv>
     </tu>
