@@ -10806,6 +10806,22 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- As the browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript, a visual representation of the page is painted to the screen, and the user sees the page content and can begin to interact with it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193326Z" creationid="Nachec" creationdate="20221025T193326Z">
+        <seg>- A medida que el navegador crea el árbol DOM y aplica los estilos del árbol CSSOM y ejecuta JavaScript, se dibuja una representación visual de la página en la pantalla y el usuario ve el contenido de la página y puede comenzar a interactuar con él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- As the browser parses the HTML, it sends requests back to the server for any CSS files it has found from `&lt;link&gt;` elements, and any JavaScript files it has found from `&lt;script&gt;` elements, and from those, then parses the CSS and JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193213Z" creationid="Nachec" creationdate="20221025T193213Z">
+        <seg>- A medida que el navegador analiza el HTML, envía solicitudes al servidor para cualquier archivo CSS que haya encontrado en los elementos `&lt;link&gt;`, y cualquier archivo JavaScript que haya encontrado en los elementos `&lt;script&gt;`, y de esos, luego analiza el CSS y JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- AssemblyScript</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T003603Z" creationid="gitnacho" creationdate="20221003T003603Z">
@@ -11768,8 +11784,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- GitHub "live samples" — A macro that takes a document in a GitHub repo inside the [MDN organization](https://github.com/mdn/), puts it inside an {{htmlelement("iframe")}} element, and embeds it into the page to show the code running live.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204237Z" creationid="gitnacho" creationdate="20221005T204237Z">
-        <seg>- GitHub "muestras en vivo": Una macro que toma un documento en un repositorio de GitHub dentro de la [organización MDN](https://github.com/mdn/), lo coloca dentro de un {{htmlelement("iframe")}} y lo incrusta en la página para mostrar el código ejecutándose en vivo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="gitnacho" creationdate="20221005T204237Z">
+        <seg>- GitHub "muestras en vivo": Una macro que toma un documento en un repositorio de GitHub dentro de la [organización MDN](https://github.com/mdn/), lo coloca dentro de un {{HTMLElement("iframe")}} y lo incrusta en la página para mostrar el código ejecutándose en vivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13872,6 +13888,22 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
         <seg>- El código del módulo binario `wasm` (`hello.wasm`)
 - Un archivo JavaScript que contiene código de conexión para traducir entre las funciones nativas de C y JavaScript/`wasm` (`hello.js`)
 - Un archivo HTML para cargar, compilar e instanciar tu código `wasm` y mostrar su salida en el navegador (`hello.html`)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The browser generates an in-memory [DOM](/en-US/docs/Web/API/Document_Object_Model) tree from the parsed HTML, generates an in-memory [CSSOM](/en-US/docs/Glossary/CSSOM) structure from the parsed CSS, and [compiles and executes](/en-US/docs/Web/Performance/How_browsers_work#javascript_compilation) the parsed JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193246Z" creationid="Nachec" creationdate="20221025T193246Z">
+        <seg>- El navegador genera un árbol [DOM](/es/docs/Web/API/Document_Object_Model) en memoria a partir del HTML analizado, genera un [CSSOM](/es/docs/Glossary/CSSOM) en memoria ) del CSS analizado y [compila y ejecuta](/es/docs/Web/Performance/How_browsers_work#javascript_compilation) el JavaScript analizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The browser parses the HTML file first, and that leads to the browser recognizing any `&lt;link&gt;`-element references to external CSS stylesheets and any `&lt;script&gt;`-element references to scripts.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193153Z" creationid="Nachec" creationdate="20221025T193153Z">
+        <seg>- El navegador analiza primero el archivo HTML, y eso hace que el navegador reconozca cualquier referencia del elemento `&lt;link&gt;` a hojas de estilo CSS externas y cualquier referencia del elemento `&lt;script&gt;` a scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17433,8 +17465,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `&lt;body&gt;&lt;/body&gt;` — the {{htmlelement("body")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T062701Z" creationid="Nachec" creationdate="20221023T062701Z">
-        <seg>- `&lt;body&gt;&lt;/body&gt;` — el elemento {{htmlelement("body")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T062701Z">
+        <seg>- `&lt;body&gt;&lt;/body&gt;` — el elemento {{HTMLElement("body")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17449,16 +17481,16 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `&lt;head&gt;&lt;/head&gt;` — the {{htmlelement("head")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061102Z" creationid="Nachec" creationdate="20221023T061102Z">
-        <seg>- `&lt;head&gt;&lt;/head&gt;` — el elemento {{htmlelement("head")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T061102Z">
+        <seg>- `&lt;head&gt;&lt;/head&gt;` — el elemento {{HTMLElement("head")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- `&lt;html&gt;&lt;/html&gt;` — the {{htmlelement("html")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060955Z" creationid="Nachec" creationdate="20221023T060955Z">
-        <seg>- `&lt;html&gt;&lt;/html&gt;` — el elemento {{htmlelement("html")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T060955Z">
+        <seg>- `&lt;html&gt;&lt;/html&gt;` — el elemento {{HTMLElement("html")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17473,8 +17505,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `&lt;meta charset="utf-8"&gt;` — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061607Z" creationid="Nachec" creationdate="20221023T061607Z">
-        <seg>- `&lt;meta charset="utf-8"&gt;` — {{htmlelement("meta")}}. Este elemento establece en `utf-8` el juego de caracteres que tu documento usará, incluye casi todos los caracteres de todos los idiomas humanos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T061607Z">
+        <seg>- `&lt;meta charset="utf-8"&gt;` — {{HTMLElement("meta")}}. Este elemento establece en `utf-8` el juego de caracteres que tu documento usará, incluye casi todos los caracteres de todos los idiomas humanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17489,8 +17521,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `&lt;title&gt;&lt;/title&gt;` — the {{htmlelement("title")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T062552Z" creationid="Nachec" creationdate="20221023T061733Z">
-        <seg>- `&lt;title&gt;&lt;/title&gt;` — el elemento {{htmlelement("title")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T061733Z">
+        <seg>- `&lt;title&gt;&lt;/title&gt;` — el elemento {{HTMLElement("title")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31692,8 +31724,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** The reason the instructions (above) place the {{htmlelement("script")}} element near the bottom of the HTML file is that **the browser reads code in the order it appears in the file**.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175758Z" creationid="Nachec" creationdate="20221023T175758Z">
-        <seg>&gt; **Nota:** la razón por la que has puesto el elemento {{htmlelement("script")}} casi al final del documento HTML es porque **el navegador carga el HTML en el orden en que aparece en el archivo**.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T175758Z">
+        <seg>&gt; **Nota:** la razón por la que has puesto el elemento {{HTMLElement("script")}} casi al final del documento HTML es porque **el navegador carga el HTML en el orden en que aparece en el archivo**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33682,8 +33714,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>Add the {{htmlelement("link")}} element somewhere inside your `index.html`'s head (anywhere between the {{HTMLElement("head")}} and `&lt;/head&gt;` tags).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T135652Z" creationid="Nachec" creationdate="20221023T135424Z">
-        <seg>Agrega el elemento {{htmlelement("link")}}`...` en algún lugar del _head_ de tu archivo `index.html` (de nuevo, en cualquier lugar entre las etiquetas {{htmlelement("head")}} y `&lt;/head&gt;`).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T135424Z">
+        <seg>Agrega el elemento {{HTMLElement("link")}}`...` en algún lugar del _head_ de tu archivo `index.html` (de nuevo, en cualquier lugar entre las etiquetas {{HTMLElement("head")}} y `&lt;/head&gt;`).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34185,16 +34217,16 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An \\{{EmbedGHLiveSample}} call dynamically grabs the document at a specified URL (which has to be inside the **mdn** GitHub organization), and inserts into the page inside an {{htmlelement("iframe")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211958Z" creationid="gitnacho" creationdate="20221005T211958Z">
-        <seg>Una llamada a \\{{EmbedGHLiveSample}} captura dinámicamente el documento en una URL específica (que debe estar dentro de la organización **mdn** GitHub) y lo inserta en la página dentro de un {{htmlelement("iframe")}} .</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="gitnacho" creationdate="20221005T211958Z">
+        <seg>Una llamada a \\{{EmbedGHLiveSample}} captura dinámicamente el documento en una URL específica (que debe estar dentro de la organización **mdn** GitHub) y lo inserta en la página dentro de un {{HTMLElement("iframe")}} .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>An \\{{EmbedLiveSample}} call dynamically grabs the code blocks in the same document section as itself and puts them into a document, which it then inserts into the page inside an {{htmlelement("iframe")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T210904Z" creationid="gitnacho" creationdate="20221005T210904Z">
-        <seg>Una llamada a \\{{EmbedLiveSample}} captura dinámicamente los bloques de código en la misma sección del documento que ella y los coloca en un documento, que luego inserta en la página dentro de un {{htmlelement("iframe")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="gitnacho" creationdate="20221005T210904Z">
+        <seg>Una llamada a \\{{EmbedLiveSample}} captura dinámicamente los bloques de código en la misma sección del documento que ella y los coloca en un documento, que luego inserta en la página dentro de un {{HTMLElement("iframe")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34691,8 +34723,8 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       <tuv lang="en-US">
         <seg>As before, fetch, compile, and instantiate your wasm module — add the following into a {{htmlelement("script")}} element at the bottom of your HTML body:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233430Z" creationid="gitnacho" creationdate="20221006T233430Z">
-        <seg>Como antes, `fetch`, compila y crea una instancia de tu módulo `wasm`: agrega lo siguiente en un elemento {{htmlelement("script")}} en la parte inferior del `body` de tu HTML:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="gitnacho" creationdate="20221006T233430Z">
+        <seg>Como antes, `fetch`, compila y crea una instancia de tu módulo `wasm`: agrega lo siguiente en un elemento {{HTMLElement("script")}} en la parte inferior del `body` de tu HTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34715,8 +34747,8 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       <tuv lang="en-US">
         <seg>As explained above, {{htmlelement("p")}} elements are for containing paragraphs of text; you'll use these frequently when marking up regular text content:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T103846Z" creationid="Nachec" creationdate="20221023T103846Z">
-        <seg>Como se explicó más arriba, los elementos {{htmlelement("p")}} se utilizan para encerrar párrafos de texto; los usarás frecuentemente para el marcado de contenido de texto regular:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T103846Z">
+        <seg>Como se explicó más arriba, los elementos {{HTMLElement("p")}} se utilizan para encerrar párrafos de texto; los usarás frecuentemente para el marcado de contenido de texto regular:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36712,8 +36744,8 @@ void free_result(uint8_t* result) {</seg>
       <tuv lang="en-US">
         <seg>Each item inside the lists is put inside an {{htmlelement("li")}} (list item) element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104302Z" creationid="Nachec" creationdate="20221023T104302Z">
-        <seg>Cada elemento de la lista se coloca dentro de un elemento {{htmlelement("li")}} _(list item_).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T104302Z">
+        <seg>Cada elemento de la lista se coloca dentro de un elemento {{HTMLElement("li")}} _(list item_).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38774,8 +38806,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>HTML contains 6 heading levels, {{htmlelement("Heading_Elements", "&amp;lt;h1&amp;gt; - &amp;lt;h6&amp;gt;")}}, although you'll commonly only use 3 to 4 at most:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070634Z" creationid="Nachec" creationdate="20221023T070634Z">
-        <seg>HTML posee seis niveles de encabezados, {{htmlelement("Heading_Elements", "&amp;lt;h1&amp;gt; - &amp;lt;h6&amp;gt;")}}, aunque probablemente solo llegues a usar 3-4 como mucho:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T070634Z">
+        <seg>HTML posee seis niveles de encabezados, {{HTMLElement("Heading_Elements", "&amp;lt;h1&amp;gt; - &amp;lt;h6&amp;gt;")}}, aunque probablemente solo llegues a usar 3-4 como mucho:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39114,8 +39146,8 @@ Connection: Keep-Alive
       <tuv lang="en-US">
         <seg>Here we select the {{htmlelement("html")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192300Z" creationid="Nachec" creationdate="20221023T192300Z">
-        <seg>aquí hemos seleccionado el elemento {{htmlelement("html")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T192300Z">
+        <seg>aquí hemos seleccionado el elemento {{HTMLElement("html")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39791,8 +39823,8 @@ among them.</seg>
       <tuv lang="en-US">
         <seg>If it is, the code changes the `src` value to the path of the second image, forcing the other image to be loaded inside the {{htmlelement("img")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193509Z" creationid="Nachec" creationdate="20221023T193509Z">
-        <seg>Si es así, el código cambia el valor de `src` a la ruta de la segunda imagen, forzando a que se cargue la otra imagen en el elemento {{htmlelement("img")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T193509Z">
+        <seg>Si es así, el código cambia el valor de `src` a la ruta de la segunda imagen, forzando a que se cargue la otra imagen en el elemento {{HTMLElement("img")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39962,8 +39994,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the application uses OpenGL, the HTML also contains a {{htmlelement("canvas")}} element that is used as the rendering target.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T090131Z" creationid="gitnacho" creationdate="20221003T090131Z">
-        <seg>Si la aplicación usa OpenGL, el HTML también contiene un elemento {{htmlelement("canvas")}} que se usa como destino de renderizado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="gitnacho" creationdate="20221003T090131Z">
+        <seg>Si la aplicación usa OpenGL, el HTML también contiene un elemento {{HTMLElement("canvas")}} que se usa como destino de renderizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40956,8 +40988,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In `index.html`, add the following line just before the {{htmlelement("script")}} element:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193851Z" creationid="Nachec" creationdate="20221023T193851Z">
-        <seg>En `index.html`, agrega el siguiente código antes del elemento {{htmlelement("script")}}:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T193851Z">
+        <seg>En `index.html`, agrega el siguiente código antes del elemento {{HTMLElement("script")}}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41517,8 +41549,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In the example above, we opened the {{htmlelement("p")}} element first, then the {{htmlelement("strong")}} element; therefore, we have to close the {{htmlelement("strong")}} element first, then the {{htmlelement("p")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060109Z" creationid="Nachec" creationdate="20221023T060109Z">
-        <seg>en el ejemplo de abajo, creaste la etiqueta de apertura del elemento {{htmlelement("p")}} primero, luego la del elemento {{htmlelement("strong")}}, por lo tanto, debes cerrar esta etiqueta primero, y luego la del elemento {{htmlelement("p")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T060109Z">
+        <seg>en el ejemplo de abajo, creaste la etiqueta de apertura del elemento {{HTMLElement("p")}} primero, luego la del elemento {{HTMLElement("strong")}}, por lo tanto, debes cerrar esta etiqueta primero, y luego la del elemento {{HTMLElement("p")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43929,8 +43961,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Let's turn our attention to the {{htmlelement("img")}} element again:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T062951Z" creationid="Nachec" creationdate="20221023T062951Z">
-        <seg>Presta atención nuevamente al elemento _imagen_ — {{htmlelement("img")}}:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T062951Z">
+        <seg>Presta atención nuevamente al elemento _imagen_ — {{HTMLElement("img")}}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45327,8 +45359,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Now let's set font sizes for elements that will have text inside the HTML body ({{htmlelement("h1")}}, {{htmlelement("li")}}, and {{htmlelement("p")}}).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140254Z" creationid="Nachec" creationdate="20221023T140254Z">
-        <seg>Ahora escoge el tamaño de fuente para los elementos que contienen texto dentro del cuerpo del HTML ({{htmlelement("h1")}}, {{htmlelement("li")}} y {{htmlelement("p")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T140254Z">
+        <seg>Ahora escoge el tamaño de fuente para los elementos que contienen texto dentro del cuerpo del HTML ({{HTMLElement("h1")}}, {{HTMLElement("li")}} y {{HTMLElement("p")}}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45415,8 +45447,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Now try adding a suitable title to your HTML page just above your {{htmlelement("img")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T070916Z" creationid="Nachec" creationdate="20221023T070916Z">
-        <seg>Intenta ahora añadir un título apropiado para tu página HTML, antes de tu elemento {{htmlelement("img")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T070916Z">
+        <seg>Intenta ahora añadir un título apropiado para tu página HTML, antes de tu elemento {{HTMLElement("img")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47334,8 +47366,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Since {{HTMLElement("html")}} is the parent element of the whole page, all elements inside it inherit the same `font-size` and `font-family`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140024Z" creationid="Nachec" creationdate="20221023T140024Z">
-        <seg>Dado que {{htmlelement("html")}} es el elemento primario (o padre) de toda la página, todos los elementos contenidos dentro de él heredan las propiedades `font-size` y `font-family`):</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T140024Z">
+        <seg>Dado que {{HTMLElement("html")}} es el elemento primario (o padre) de toda la página, todos los elementos contenidos dentro de él heredan las propiedades `font-size` y `font-family`):</seg>
       </tuv>
     </tu>
     <tu>
@@ -47994,8 +48026,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Take the {{htmlelement("img")}} element that we already have in our HTML page:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060339Z" creationid="Nachec" creationdate="20221023T060339Z">
-        <seg>Toma, por ejemplo, el elemento {{htmlelement("img")}} de nuestro HTML:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T060339Z">
+        <seg>Toma, por ejemplo, el elemento {{HTMLElement("img")}} de nuestro HTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48050,8 +48082,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>That happens because browsers apply default styling to the {{htmlelement("h1")}} element (among others).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T145254Z" creationid="Nachec" creationdate="20221023T143100Z">
-        <seg>Esto sucede porque los navegadores vienen con estilos predeterminados para el elemento {{htmlelement("h1")}}, ¡incluso cuando aún no se ha aplicado ningún archivo CSS!</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T143100Z">
+        <seg>Esto sucede porque los navegadores vienen con estilos predeterminados para el elemento {{HTMLElement("h1")}}, ¡incluso cuando aún no se ha aplicado ningún archivo CSS!</seg>
       </tuv>
     </tu>
     <tu>
@@ -50784,8 +50816,8 @@ detalles en la consola:</seg>
       <tuv lang="en-US">
         <seg>The generated HTML document loads the JavaScript glue file and writes stdout to a {{htmlelement("textarea")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081740Z" creationid="gitnacho" creationdate="20221003T081740Z">
-        <seg>El documento HTML generado carga el archivo de enlace JavaScript y escribe `stdout` en un elemento {{htmlelement("textarea")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="gitnacho" creationdate="20221003T081740Z">
+        <seg>El documento HTML generado carga el archivo de enlace JavaScript y escribe `stdout` en un elemento {{HTMLElement("textarea")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52374,8 +52406,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{htmlelement("body")}} is a **block** element, meaning it takes up space on the page.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T143727Z" creationid="Nachec" creationdate="20221023T143703Z">
-        <seg>El elemento {{htmlelement("body")}} es un elemento a nivel de bloque (**block-level**), lo cual significa que tomará espacio en la página</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T143703Z">
+        <seg>El elemento {{HTMLElement("body")}} es un elemento a nivel de bloque (**block-level**), lo cual significa que tomará espacio en la página</seg>
       </tuv>
     </tu>
     <tu>
@@ -54706,8 +54738,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This is doing the same job as the {{htmlelement("link")}} element for CSS.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175509Z" creationid="Nachec" creationdate="20221023T175509Z">
-        <seg>Esto hace básicamente el mismo trabajo que el elemento {{htmlelement("link")}} para CSS:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T175509Z">
+        <seg>Esto hace básicamente el mismo trabajo que el elemento {{HTMLElement("link")}} para CSS:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55410,8 +55442,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This project uses a reddish orange for the body background color, as opposed to dark blue for the {{htmlelement("html")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142346Z" creationid="Nachec" creationdate="20221023T142346Z">
-        <seg>Se ha usado un naranja rojizo para el elemento `body` en contraste con el azul oscuro del elemento {{htmlelement("html")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T142346Z">
+        <seg>Se ha usado un naranja rojizo para el elemento `body` en contraste con el azul oscuro del elemento {{HTMLElement("html")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55951,8 +55983,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To add a link, we need to use a simple element — {{htmlelement("a")}} — "a" being the short form for "anchor".</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105609Z" creationid="Nachec" creationdate="20221023T104656Z">
-        <seg>Para implementar un enlace, necesitas usar un enlace simple — {{htmlelement("a")}} — la _a_ es la abreviatura de la palabra inglesa *"anchor"* (_ancla_).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T104656Z">
+        <seg>Para implementar un enlace, necesitas usar un enlace simple — {{HTMLElement("a")}} — la _a_ es la abreviatura de la palabra inglesa *"anchor"* (_ancla_).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58347,8 +58379,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When browsers send requests to servers for HTML files, those HTML files often contain {{htmlelement("link")}} elements referencing external [CSS](/en-US/docs/Learn/CSS) stylesheets and {{htmlelement("script")}} elements referencing external [JavaScript](/en-US/docs/Learn/JavaScript) scripts.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192837Z" creationid="Nachec" creationdate="20221025T192837Z">
-        <seg>Cuando los navegadores envían solicitudes a los servidores de archivos HTML, esos archivos HTML a menudo contienen elementos {{htmlelement("link")}} que hacen referencia a hojas de estilo [CSS](/es/docs/Learn/CSS) externas y elementos {{htmlelement(" script")}} que hacen referencia a scripts [JavaScript](/es/docs/Learn/JavaScript) externos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221025T192837Z">
+        <seg>Cuando los navegadores envían solicitudes a los servidores de archivos HTML, esos archivos HTML a menudo contienen elementos {{HTMLElement("link")}} que hacen referencia a hojas de estilo [CSS](/es/docs/Learn/CSS) externas y elementos {{HTMLElement(" script")}} que hacen referencia a scripts [JavaScript](/es/docs/Learn/JavaScript) externos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59839,8 +59871,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You stored a reference to your {{htmlelement("img")}} element in the `myImage` variable.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193357Z" creationid="Nachec" creationdate="20221023T193357Z">
-        <seg>se almacena una referencia a tu elemento {{htmlelement("img")}} en la variable `miImage`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T193357Z">
+        <seg>se almacena una referencia a tu elemento {{HTMLElement("img")}} en la variable `miImage`.</seg>
       </tuv>
     </tu>
     <tu>
