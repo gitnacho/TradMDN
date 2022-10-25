@@ -34407,6 +34407,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Among those computers, some computers (called _Web servers_) can send messages intelligible to web browsers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202945Z" creationid="Nachec" creationdate="20221025T202945Z">
+        <seg>Algunos de estos ordenadores, llamados _servidores web_ son capaces de enviar mensajes inteligibles a los navegadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An **HTTP header** is a field of an HTTP request or response that passes additional context and metadata about the request or response.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161115Z" creationid="gitnacho" creationdate="20221017T211423Z">
@@ -35053,6 +35061,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T063009Z" creationid="Nachec" creationdate="20221023T063009Z">
         <seg>Como ya se dijo antes, incrusta una imagen en la página, en la posición en que aparece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As we saw, the Internet is a technical infrastructure which allows billions of computers to be connected all together.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202928Z" creationid="Nachec" creationdate="20221025T202928Z">
+        <seg>Como vimos, Internet es una infraestructura técnica que permite que miles de millones de ordenadores estén conectadas entre sí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36788,6 +36804,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T101806Z" creationid="gitnacho" creationdate="20221003T090305Z">
         <seg>¿Quieres crear tu propio compilador, tus propias herramientas o crear una biblioteca de JavaScript que genere WebAssembly en tiempo de ejecución?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Does that mean the Internet and the Web are the same thing?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202912Z" creationid="Nachec" creationdate="20221025T202912Z">
+        <seg>¿Significa eso que Internet y la Web son la misma cosa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43230,6 +43254,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is worth noting there are several other services built on top of the Internet, such as email and {{Glossary("IRC")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203110Z" creationid="Nachec" creationdate="20221025T203110Z">
+        <seg>Cabe señalar que existen otros servicios soportados por Internet, como es el correo electrónico e {{Glossary("IRC")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It lets the parameters of the filter response be specified, so that it can be tuned as needed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T033358Z" creationid="gitnacho" creationdate="20220913T033358Z">
@@ -43587,6 +43619,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093128Z" creationid="Nachec" creationdate="20221022T093128Z">
         <seg>No se recomienda cambiarlo y un sitio web no puede confiar en que este valor refleje la intención real del usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's not that simple.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202917Z" creationid="Nachec" creationdate="20221025T202917Z">
+        <seg>No es tan simple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49493,6 +49533,14 @@ that the server is unwilling to supply a default representation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210534Z" creationid="gitnacho" creationdate="20221017T210437Z">
         <seg>La [política de seguridad del mismo origen](/es/docs/Web/Security/Same-origin_policy) prohíbe el acceso a los recursos de orígenes cruzados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The _Internet_ is an infrastructure, whereas the _Web_ is a service built on top of the infrastructure.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202955Z" creationid="Nachec" creationdate="20221025T202955Z">
+        <seg>Por tanto _Internet_ es una infraestructura, mientras que la _Web_ es un servicio construido sobre dicha infraestructura.</seg>
       </tuv>
     </tu>
     <tu>
