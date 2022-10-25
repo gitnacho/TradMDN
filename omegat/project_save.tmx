@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Graphical Representation of how Extranet and Intranet work](internet-schema-8.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203648Z" creationid="Nachec" creationdate="20221025T203648Z">
+        <seg>![Representación gráfica del funcionamiento de Extranet e Intranet](internet-schema-8.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Heading "hello world" above a firefox logo](hello-world.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175736Z" creationid="Nachec" creationdate="20221023T175736Z">
@@ -3848,6 +3856,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202448Z" creationid="Nachec" creationdate="20221025T202448Z">
         <seg>### Internet y la web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Intranets and Extranets</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203456Z" creationid="Nachec" creationdate="20221025T203456Z">
+        <seg>### Intranets y Extranets</seg>
       </tuv>
     </tu>
     <tu>
@@ -35608,6 +35624,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both intranets and extranets run on the same kind of infrastructure as the Internet, and use the same protocols.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203634Z" creationid="Nachec" creationdate="20221025T203634Z">
+        <seg>Tanto las intranets como las extranets se ejecutan en el mismo tipo de infraestructura que Internet y utilizan los mismos protocolos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browse through detailed HTTP reference documentation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T071334Z" creationid="gitnacho" creationdate="20221012T064219Z">
@@ -37505,6 +37529,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extranets are very similar to Intranets, except they open all or part of a private network to allow sharing and collaboration with other organizations.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203600Z" creationid="Nachec" creationdate="20221025T203600Z">
+        <seg>Las extranets son muy similares a las intranets, excepto que abren toda o parte de una red privada para permitir compartir y colaborar con otras organizaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FTP programs vary widely, but generally, you have to connect to your web server using details provided by your hosting company (typically username, password, hostname).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T205500Z" creationid="Nachec" creationdate="20221023T205500Z">
@@ -38100,6 +38132,16 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193846Z" creationid="Nachec" creationdate="20221021T193846Z">
         <seg>Por ejemplo, un operador se puede estirar verticalmente de forma predeterminada para cubrir la altura máxima de los hermanos no elásticos dentro de su contenedor `&lt;mrow&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, an organization's intranet might host web pages for sharing department or team information, shared drives for managing key documents and files,
+portals for performing business administration tasks, and collaboration tools like wikis, discussion boards, and messaging systems.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203540Z" creationid="Nachec" creationdate="20221025T203540Z">
+        <seg>Por ejemplo, la intranet de una organización puede albergar páginas web para compartir información de departamentos o equipos, unidades compartidas para administrar documentos y archivos clave,
+portales para realizar tareas de administración empresarial y herramientas de colaboración como wikis, foros de discusión y sistemas de mensajería.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42689,6 +42731,14 @@ relevant header and serve an actual page to the user.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Intranets are _private_ networks that are restricted to members of a particular organization.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203505Z" creationid="Nachec" creationdate="20221025T203505Z">
+        <seg>Las intranets son redes _privadas_ que están restringidas a miembros de una organización en particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Invoking a template is done with a _macro_, which can be used anywhere in any page content.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065046Z" creationid="gitnacho" creationdate="20221005T065046Z">
@@ -45997,6 +46047,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T111150Z" creationid="gitnacho" creationdate="20221012T164641Z">
         <seg>Los editores de documentos de Office no son adecuados para este uso, ya que se basan en elementos ocultos que interfieren con los motores de renderizado que utilizan los navegadores web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often their functions are similar to those provided by an intranet: information and file sharing, collaboration tools, discussion boards, etc.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203625Z" creationid="Nachec" creationdate="20221025T203625Z">
+        <seg>A menudo, sus funciones son similares a las proporcionadas por una intranet: intercambio de información y archivos, herramientas de colaboración, foros de discusión, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53748,6 +53806,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are commonly used to provide a portal for members to securely access shared resources, collaborate and communicate.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203515Z" creationid="Nachec" creationdate="20221025T203515Z">
+        <seg>Se utilizan comúnmente para proporcionar un portal para que los miembros accedan de forma segura a los recursos compartidos, colaboren y se comuniquen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are each read once.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040402Z" creationid="gitnacho" creationdate="20220921T040402Z">
@@ -53796,6 +53862,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are typically used to safely and securely share information with clients and stakeholders who work closely with a business.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203613Z" creationid="Nachec" creationdate="20221025T203613Z">
+        <seg>Por lo general, se utilizan para compartir información de forma segura con clientes y partes interesadas que trabajan en estrecha colaboración con una empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are visually impaired.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T065939Z" creationid="Nachec" creationdate="20221023T063559Z">
@@ -53816,6 +53890,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204751Z" creationid="gitnacho" creationdate="20221005T204751Z">
         <seg>Sin embargo, puede ser incómodo editarlos y trabajar con ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They can therefore be accessed by authorized members from different physical locations.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203640Z" creationid="Nachec" creationdate="20221025T203640Z">
+        <seg>Por lo tanto, los miembros autorizados pueden acceder a ellos desde diferentes ubicaciones físicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60531,8 +60613,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You will learn the basics of the technical infrastructure of the Web and</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200257Z" creationid="Nachec" creationdate="20221025T200257Z">
-        <seg>Aprenderás lo básico a cerca de la infraestructura técnica de la web y</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203738Z" creationid="Nachec" creationdate="20221025T200257Z">
+        <seg>Aprenderás lo básico acerca de la infraestructura técnica de la web y</seg>
       </tuv>
     </tu>
     <tu>
