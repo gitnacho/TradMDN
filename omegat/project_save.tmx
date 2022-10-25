@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Two circles representing client and server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190141Z" creationid="Nachec" creationdate="20221025T190141Z">
+        <seg>![Dos círculos que representan al cliente y al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![](cors_principle.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213007Z" creationid="gitnacho" creationdate="20221011T213007Z">
@@ -1180,6 +1188,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061922Z" creationid="gitnacho" creationdate="20221019T061922Z">
         <seg>## Elige tus activos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Clients and servers</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190101Z" creationid="Nachec" creationdate="20221025T190101Z">
+        <seg>## Clientes y servidores</seg>
       </tuv>
     </tu>
     <tu>
@@ -11006,6 +11022,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Clients are the typical web user's internet-connected devices (for example, your computer connected to your Wi-Fi, or your phone connected to your mobile network) and web-accessing software available on those devices (usually a web browser like Firefox or Chrome).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190227Z" creationid="Nachec" creationdate="20221025T190227Z">
+        <seg>- Los clientes son dispositivos de los usuarios conectados a Internet (por ejemplo, tu ordenador conectado a la red Wi-Fi o el teléfono conectado a la red de telefonía móvil) y el software que se encuentra disponible y permite acceder a Internet en dichos dispositivos (normalmente, un navegador web como Firefox o Chrome).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- CodingScripting</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T100037Z" creationid="gitnacho" creationdate="20221002T100037Z">
@@ -13261,6 +13285,14 @@ spec-urls: https://w3c.github.io/webappsec-secure-contexts/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185145Z" creationid="Nachec" creationdate="20221025T185145Z">
         <seg>- Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Servers are computers that store webpages, sites, or apps.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190241Z" creationid="Nachec" creationdate="20221025T190241Z">
+        <seg>- Los servidores son computadores que almacenan páginas web, sitios o aplicaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33162,6 +33194,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A simplified diagram of how they interact might look like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190128Z" creationid="Nachec" creationdate="20221025T190128Z">
+        <seg>Un diagrama simplificado de cómo interactúan se vería así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A single parameter is written `(param i32)` and the return type is written `(result i32)`, hence a binary function that takes two 32-bit integers and returns a 64-bit float would be written like this:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054451Z" creationid="gitnacho" creationdate="20221007T054451Z">
@@ -34069,6 +34109,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192518Z" creationid="Nachec" creationdate="20221023T192518Z">
         <seg>Una función de flecha usa `() =&gt;` en lugar de `function()`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An arrow labelled request is going from client to server, and an arrow labelled responses is going from server to client](simple-client-server.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190155Z" creationid="Nachec" creationdate="20221025T190155Z">
+        <seg>Una solicitud con la etiqueta de flecha va del cliente al servidor, y una respuesta con la etiqueta de flecha va del servidor al cliente](simple-client-server.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35836,6 +35884,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092950Z" creationid="Nachec" creationdate="20221022T092950Z">
         <seg>La compresión de mensajes HTTP es una de las formas más importantes de mejorar el rendimiento de un sitio web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Computers connected to the internet are called **clients** and **servers**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190115Z" creationid="Nachec" creationdate="20221025T190115Z">
+        <seg>Las computadoras conectadas a la web se llaman **clientes** y **servidores**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55199,6 +55255,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This theory is not essential to writing web code in the short term, but before long you'll really start to benefit from understanding what's happening in the background.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190050Z" creationid="Nachec" creationdate="20221025T190050Z">
+        <seg>Esta teoría no es esencial para escribir código web a corto plazo, pero en poco tiempo empezarás a beneficiarte realmente al entender lo que está sucediendo en el fondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This timeline is a special instance of {{domxref("DocumentTimeline")}} that is automatically created on page load.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221006T092617Z">
@@ -59961,6 +60025,14 @@ crate-type = ["cdylib"]</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042220Z" creationid="gitnacho" creationdate="20220925T040459Z">
         <seg>_Introducción a la Web_ es una serie concisa que te presenta los aspectos prácticos del desarrollo web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_How the web works_ provides a simplified view of what happens when you view a webpage in a web browser on your computer or phone.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190032Z" creationid="Nachec" creationdate="20221025T190032Z">
+        <seg>_Cómo funciona la web_ proporciona una vista simplificada de lo que sucede cuando ves una página web en un navegador web de tu computador o teléfono.</seg>
       </tuv>
     </tu>
     <tu>
