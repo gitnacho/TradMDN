@@ -55837,8 +55837,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This makes callouts a good choice when an author wants to provide a custom title.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181333Z" creationid="gitnacho" creationdate="20221008T181333Z">
-        <seg>Esto hace que el texto resaltado sea una buena opción cuando un autor desea proporcionar un título personalizado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082540Z" creationid="gitnacho" creationdate="20221008T181333Z">
+        <seg>Esto hace que la observación sea una buena opción cuando un autor desea proporcionar un título personalizado.</seg>
       </tuv>
     </tu>
     <tu>
