@@ -8458,8 +8458,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : For this particular event, prevent all other listeners from being called.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T205015Z" creationid="gitnacho" creationdate="20221011T205015Z">
-        <seg>- : Para este evento en particular, evita que se llame a todos los demás escuchas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102145Z" creationid="gitnacho" creationdate="20221011T205015Z">
+        <seg>- : Para este evento en particular, evita que se llame a todos los demás detectores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9372,8 +9372,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Returns the event's path (an array of objects on which listeners will be invoked).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T204911Z" creationid="gitnacho" creationdate="20221011T204911Z">
-        <seg>- : Devuelve la ruta del evento (un arreglo de objetos en los que se invocarán los escuchas).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102145Z" creationid="gitnacho" creationdate="20221011T204911Z">
+        <seg>- : Devuelve la ruta del evento (un arreglo de objetos en los que se invocarán los detectores).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12374,8 +12374,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- If the request is made using an {{domxref("XMLHttpRequest")}} object, no event listeners are registered on the object returned by the {{domxref("XMLHttpRequest.upload")}} property used in the request; that is, given an {{domxref("XMLHttpRequest")}} instance `xhr`, no code has called `xhr.upload.addEventListener()` to add an event listener to monitor the upload.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T220947Z">
-        <seg>- Si la solicitud se realiza mediante un objeto {{DOMxRef("XMLHttpRequest")}}, no se registra ningún escucha de eventos en el objeto devuelto por la propiedad {{DOMxRef("XMLHttpRequest.upload")}} utilizada en la solicitud; es decir, dada una {{DOMxRef("XMLHttpRequest")}} instancia `xhr`, ningún código ha llamado a `xhr.upload.addEventListener()` para agregar un escucha de eventos para monitorear la carga.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102713Z" creationid="gitnacho" creationdate="20221011T220947Z">
+        <seg>- Si la solicitud se realiza mediante un objeto {{DOMxRef("XMLHttpRequest")}}, no se registra ningún detector de eventos en el objeto devuelto por la propiedad {{DOMxRef("XMLHttpRequest.upload")}} utilizada en la solicitud; es decir, dada una {{DOMxRef("XMLHttpRequest")}} instancia `xhr`, ningún código ha llamado a `xhr.upload.addEventListener()` para agregar un detector de eventos para monitorear la carga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23940,12 +23940,12 @@ slug: Web/API
 page-type: landing-page
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193608Z" creationid="gitnacho" creationdate="20221002T001742Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102925Z" creationid="gitnacho" creationdate="20221002T001742Z">
         <seg>---
 title: APIs Web
 slug: Web/API
 page-type: landing-page
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -26078,8 +26078,8 @@ const myBuf = new ArrayBuffer(8);</seg>
         <seg>// listen for myWorker to transfer the buffer back to main
 myWorker.addEventListener("message", function handleMessageFromWorker(msg) {</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T120224Z" creationid="gitnacho" creationdate="20221007T120105Z">
-        <seg>// escucha a myWorker para transferir el búfer de vuelta a main
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102536Z" creationid="gitnacho" creationdate="20221007T120105Z">
+        <seg>// detector de myWorker para transferir el búfer de vuelta a main
 myWorker.addEventListener("message", function handleMessageFromWorker(msg) {</seg>
       </tuv>
     </tu>
@@ -44765,8 +44765,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Many DOM elements can be set up to accept (or "listen" for) these events, and execute code in response to process (or "handle") them.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T201749Z" creationid="gitnacho" creationdate="20221011T201749Z">
-        <seg>Muchos elementos DOM se pueden configurar para aceptar (o "escuchar") estos eventos y ejecutar código en respuesta al proceso (o "manejo") de ellos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102439Z" creationid="gitnacho" creationdate="20221011T201749Z">
+        <seg>Muchos elementos DOM se pueden configurar para aceptar (o "detectar") estos eventos y ejecutar código en respuesta al proceso (o "manejo") de ellos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55118,8 +55118,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This includes listeners attached to the same element as well as those attached to elements that will be traversed later (during the capture phase, for instance).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T205030Z" creationid="gitnacho" creationdate="20221011T205030Z">
-        <seg>Esto incluye escuchas adjuntos al mismo elemento, así como aquellos adjuntos a elementos que se atravesarán más adelante (durante la fase de captura, por ejemplo).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102145Z" creationid="gitnacho" creationdate="20221011T205030Z">
+        <seg>Esto incluye detectores adjuntos al mismo elemento, así como aquellos adjuntos a elementos que se atravesarán más adelante (durante la fase de captura, por ejemplo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58330,8 +58330,8 @@ que es exportada por la `Instance`.</seg>
       <tuv lang="en-US">
         <seg>We then call its [`addEventListener()`](/en-US/docs/Web/API/EventTarget/addEventListener) function, passing in the name of the event to listen to (`'click'`) and a function to run when the event happens.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192354Z" creationid="Nachec" creationdate="20221023T192354Z">
-        <seg>Luego llamamos a su función [`addEventListener()`](/es/docs/Web/API/EventTarget/addEventListener), pasando el nombre del evento a escuchar (`'clic'`) y una función para ejecutar cuando ocurra el evento.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102357Z" creationid="Nachec" creationdate="20221023T192354Z">
+        <seg>Luego llamamos a su función [`addEventListener()`](/es/docs/Web/API/EventTarget/addEventListener), pasando el nombre del evento a detectar (`'clic'`) y una función para ejecutar cuando ocurra el evento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63543,9 +63543,9 @@ const myWorker = new Worker("myWorker.js");</seg>
 // listen for main to transfer the buffer to myWorker
 self.onmessage = function handleMessageFromMain(msg) {</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T120418Z" creationid="gitnacho" creationdate="20221007T120344Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102604Z" creationid="gitnacho" creationdate="20221007T120344Z">
         <seg>```js
-// escucha a main para transferir el búfer a myWorker
+// detector de main para transferir el búfer a myWorker
 self.onmessage = function handleMessageFromMain(msg) {</seg>
       </tuv>
     </tu>
