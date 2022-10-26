@@ -32480,8 +32480,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** Your service worker functions like a proxy server, allowing you to modify requests and responses, replace them with items from its own cache, and more.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T213847Z" creationid="gitnacho" creationdate="20220921T025248Z">
-        <seg>&gt; **Nota:** Tu *service worker* funciona como un servidor proxy, lo que te permite modificar solicitudes y respuestas, reemplazarlas con elementos de su propio caché y más.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T111930Z" creationid="gitnacho" creationdate="20220921T025248Z">
+        <seg>&gt; **Nota:** Tu *service worker* funciona como un servidor proxy, lo que te permite modificar solicitudes y respuestas, reemplazarlas con elementos de su propia caché y más.</seg>
       </tuv>
     </tu>
     <tu>
