@@ -12918,9 +12918,8 @@ browser-compat: mathml.elements.mtext
       <tuv lang="en-US">
         <seg>- Method</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T233302Z" creationid="gitnacho" creationdate="20220921T224606Z">
-        <seg>- Method
-  - Método</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095604Z" creationid="gitnacho" creationdate="20220921T224606Z">
+        <seg>- Method</seg>
       </tuv>
     </tu>
     <tu>
@@ -19549,9 +19548,8 @@ browser-compat: javascript.builtins.WebAssembly.Memory.grow
 browser-compat: api.CacheStorage.open
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20220921T224616Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095607Z" creationid="gitnacho" creationdate="20220921T224616Z">
         <seg>- open
-  - abrir
 browser-compat: api.CacheStorage.open
 ---</seg>
       </tuv>
@@ -22444,12 +22442,12 @@ slug: Web/API/CacheStorage/open
 page-type: web-api-instance-method
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193456Z" creationid="gitnacho" creationdate="20220921T224553Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095555Z" creationid="gitnacho" creationdate="20220921T224553Z">
         <seg>---
 title: CacheStorage.open()
 slug: Web/API/CacheStorage/open
 page-type: web-api-instance-method
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -22720,12 +22718,12 @@ slug: Web/API/Document/timeline
 page-type: web-api-instance-property
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193540Z" creationid="gitnacho" creationdate="20221006T092404Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095938Z" creationid="gitnacho" creationdate="20221006T092404Z">
         <seg>---
 title: Document.timeline
 slug: Web/API/Document/timeline
 page-type: web-api-instance-property
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -25802,8 +25800,8 @@ Accept-Language: fr-CH, fr;q=0.9, en;q=0.8, de;q=0.7, *;q=0.5
       <tuv lang="en-US">
         <seg>// Otherwise, if there is no entry in the cache for event.request, response will be</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T204317Z" creationid="gitnacho" creationdate="20221003T204317Z">
-        <seg>// De lo contrario, si no hay una entrada en el caché para event.request, la respuesta será</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095236Z" creationid="gitnacho" creationdate="20221003T204317Z">
+        <seg>// De lo contrario, si no hay una entrada en la caché para event.request, la respuesta será</seg>
       </tuv>
     </tu>
     <tu>
@@ -53125,8 +53123,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>Then we call a function that calls `addAll()` on the created cache, which for its parameter takes an array of origin-relative URLs to all the resources you want to cache.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T034553Z" creationid="gitnacho" creationdate="20220921T034553Z">
-        <seg>Luego llamamos a una función que llama a `addAll()` en el caché creado, que para su parámetro toma un arreglo de URLs relativas al origen de todos los recursos que deseas almacenar en caché.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095305Z" creationid="gitnacho" creationdate="20220921T034553Z">
+        <seg>Luego llamamos a una función que llama a `addAll()` en la caché creada, que para su parámetro toma un arreglo de URLs relativas al origen de todos los recursos que deseas almacenar en caché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57967,8 +57965,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>We are calling the new cache `v2`, so the previous `v1` cache isn't disturbed.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T041855Z" creationid="gitnacho" creationdate="20220921T041855Z">
-        <seg>Estamos llamando al nuevo caché `v2`, por lo que el caché anterior `v1` no se ve afectado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095352Z" creationid="gitnacho" creationdate="20220921T041855Z">
+        <seg>Estamos llamando al nuevo caché `v2`, por lo que la caché anterior `v1` no se ve afectada.</seg>
       </tuv>
     </tu>
     <tu>
