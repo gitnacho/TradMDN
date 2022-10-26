@@ -23652,12 +23652,12 @@ slug: Web/API/ServiceWorker
 page-type: web-api-interface
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193657Z" creationid="gitnacho" creationdate="20221003T002400Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T114516Z" creationid="gitnacho" creationdate="20221003T002400Z">
         <seg>---
 title: ServiceWorker
 slug: Web/API/ServiceWorker
 page-type: web-api-interface
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
