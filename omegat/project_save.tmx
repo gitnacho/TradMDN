@@ -8782,8 +8782,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Indicates, if `true`, that the object is a custom one.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114040Z" creationid="gitnacho" creationdate="20221005T114040Z">
-        <seg>- : Indica, si `true`, que el objeto es personalizado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T090229Z" creationid="gitnacho" creationdate="20221005T114040Z">
+        <seg>- : Indica, si es `true`, que el objeto es personalizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74587,6 +74587,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T040228Z" creationid="gitnacho" creationdate="20221002T040228Z">
         <seg>{{APIListAlpha}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{APIRef("Bluetooth API")}}{{SeeCompatTable}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T090408Z" creationid="Nachec" creationdate="20221026T090408Z">
+        <seg>{{APIRef("Bluetooth API")}}{{SeeCompatTable}}</seg>
       </tuv>
     </tu>
     <tu>
