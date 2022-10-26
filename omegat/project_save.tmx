@@ -14327,8 +14327,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       <tuv lang="en-US">
         <seg>- To add a callout, create a GFM blockquote whose first paragraph starts with `**Callout:**`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181220Z" creationid="gitnacho" creationdate="20221008T181220Z">
-        <seg>- Para agregar una llamada, crea un bloque de cita GFM cuyo primer párrafo comience con `**Llamada:**`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082004Z" creationid="gitnacho" creationdate="20221008T181220Z">
+        <seg>- Para agregar una observación, crea un bloque de cita GFM cuyo primer párrafo comience con `**Observación:**`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45718,8 +45718,8 @@ changed.</seg>
       <tuv lang="en-US">
         <seg>Notes and warnings will render the **Note:** or **Warning:** text in the output, while callouts will not.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181309Z" creationid="gitnacho" creationdate="20221008T181309Z">
-        <seg>Las notas y advertencias renderizarán el texto **Nota:** o **Advertencia:** en la salida, mientras que las **Llamada*s no lo harán.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082232Z" creationid="gitnacho" creationdate="20221008T181309Z">
+        <seg>Las notas y advertencias renderizarán el texto **Nota:** o **Advertencia:** en la salida, mientras que una *Observación* no lo renderizará.</seg>
       </tuv>
     </tu>
     <tu>
