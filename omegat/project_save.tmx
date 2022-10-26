@@ -11185,9 +11185,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- CSS Data Type</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224713Z" creationid="Nachec" creationdate="20221021T224713Z">
-        <seg>- CSS Data Type
-  - Tipo de dato CSS</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T132748Z" creationid="Nachec" creationdate="20221021T224713Z">
+        <seg>- CSS Data Type</seg>
       </tuv>
     </tu>
     <tu>
@@ -11444,9 +11443,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Data Type</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224724Z" creationid="Nachec" creationdate="20221021T224724Z">
-        <seg>- Data Type
-  - Tipo de dato</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T132750Z" creationid="Nachec" creationdate="20221021T224724Z">
+        <seg>- Data Type</seg>
       </tuv>
     </tu>
     <tu>
@@ -11573,9 +11571,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Element</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T235237Z" creationid="gitnacho" creationdate="20221003T115902Z">
-        <seg>- Element
-  - Elemento</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133054Z" creationid="gitnacho" creationdate="20221003T115902Z">
+        <seg>- Element</seg>
       </tuv>
     </tu>
     <tu>
@@ -11985,9 +11982,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- HTML scripting</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T120013Z" creationid="gitnacho" creationdate="20221003T120013Z">
-        <seg>- HTML scripting
-  - HTML script</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133056Z" creationid="gitnacho" creationdate="20221003T120013Z">
+        <seg>- HTML scripting</seg>
       </tuv>
     </tu>
     <tu>
@@ -12012,36 +12008,32 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- HTML:Flow content</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135451Z" creationid="gitnacho" creationdate="20221003T120043Z">
-        <seg>- HTML: Flow content
-  - HTML: flujo de contenido</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133102Z" creationid="gitnacho" creationdate="20221003T120043Z">
+        <seg>- HTML:Flow content</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- HTML:Metadata content</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135457Z" creationid="gitnacho" creationdate="20221003T120106Z">
-        <seg>- HTML: Metadata content
-  - HTML: Contenido de metadatos</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133059Z" creationid="gitnacho" creationdate="20221003T120106Z">
+        <seg>- HTML:Metadata content</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- HTML:Phrasing content</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135524Z" creationid="gitnacho" creationdate="20221003T120127Z">
-        <seg>- HTML: Phrasing content
-  - HTML: Redacción de contenido</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133104Z" creationid="gitnacho" creationdate="20221003T120127Z">
+        <seg>- HTML:Phrasing content</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- HTML:Script-supporting element</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135509Z" creationid="gitnacho" creationdate="20221003T120231Z">
-        <seg>- HTML: Script-supporting element
-  - HTML: Compatibilidad con el elemento script</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133106Z" creationid="gitnacho" creationdate="20221003T120231Z">
+        <seg>- HTML:Script-supporting element</seg>
       </tuv>
     </tu>
     <tu>
@@ -19863,9 +19855,8 @@ browser-compat: html.elements.script
       <tuv lang="en-US">
         <seg>- units</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224736Z" creationid="Nachec" creationdate="20221021T224736Z">
-        <seg>- units
-  - unidades</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T132752Z" creationid="Nachec" creationdate="20221021T224736Z">
+        <seg>- units</seg>
       </tuv>
     </tu>
     <tu>
@@ -19886,9 +19877,8 @@ browser-compat: javascript.builtins.WebAssembly.validate
 browser-compat: css.types.length-percentage
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T224759Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T132755Z" creationid="Nachec" creationdate="20221021T224759Z">
         <seg>- values
-  - valores
 browser-compat: css.types.length-percentage
 ---</seg>
       </tuv>
@@ -21889,11 +21879,11 @@ title: '&lt;script&gt;: The Script element'
 slug: Web/HTML/Element/script
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193946Z" creationid="gitnacho" creationdate="20221003T115901Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133050Z" creationid="gitnacho" creationdate="20221003T115901Z">
         <seg>---
 title: '&lt;script&gt;: El elemento Script'
 slug: Web/HTML/Element/script
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21982,12 +21972,12 @@ slug: Web/CSS/length-percentage
 page-type: css-type
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193926Z" creationid="Nachec" creationdate="20221021T224701Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T132740Z" creationid="Nachec" creationdate="20221021T224701Z">
         <seg>---
 title: &lt;length-percentage&gt;
 slug: Web/CSS/length-percentage
 page-type: css-type
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
