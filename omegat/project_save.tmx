@@ -29838,8 +29838,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;p&gt;&lt;strong&gt;This is how you write a callout.&lt;/strong&gt;&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T182013Z" creationid="gitnacho" creationdate="20221008T182013Z">
-        <seg>&lt;p&gt;&lt;strong&gt;Así es como se escribe un texto resaltado.&lt;/strong&gt;&lt;/p&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T081310Z" creationid="gitnacho" creationdate="20221008T182013Z">
+        <seg>&lt;p&gt;&lt;strong&gt;Así es como escribes un texto resaltado.&lt;/strong&gt;&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54078,8 +54078,8 @@ is the most efficient, optimized way to load wasm code.</seg>
       <tuv lang="en-US">
         <seg>This HTML will be rendered as a highlighted box, like:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181702Z" creationid="gitnacho" creationdate="20221008T181702Z">
-        <seg>Este HTML se renderizará como un cuadro resaltado, como:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T081341Z" creationid="gitnacho" creationdate="20221008T181702Z">
+        <seg>Este HTML se renderizará como el siguiente cuadro resaltado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -65403,9 +65403,9 @@ La página [Números y fechas](/es/docs/Web/JavaScript/Guide/Numbers_and_dates) 
 &gt;
 &gt; It can have multiple paragraphs.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T081005Z" creationid="gitnacho" creationdate="20221008T181935Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T081243Z" creationid="gitnacho" creationdate="20221008T181935Z">
         <seg>```plain
-&gt; **Observación:** **Así es como se escribe una observación.**
+&gt; **Observación:** **Así es como escribes un texto resaltado.**
 &gt;
 &gt; Puede tener varios párrafos.</seg>
       </tuv>
