@@ -14455,8 +14455,8 @@ browser-compat: javascript.builtins.SharedArrayBuffer
       <tuv lang="en-US">
         <seg>- Unless the two headers mentioned above are set, the various `postMessage()` APIs will throw for `SharedArrayBuffer` objects.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030807Z" creationid="gitnacho" creationdate="20220923T030807Z">
-        <seg>- A menos que se establezcan los dos encabezados mencionados anteriormente, las distintas APIs de `postMessage()` se lanzarán para los objetos `SharedArrayBuffer`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T214216Z" creationid="gitnacho" creationdate="20220923T030807Z">
+        <seg>- A menos que se establezcan las dos cabeceras mencionadas anteriormente, las distintas APIs de `postMessage()` se lanzarán para los objetos `SharedArrayBuffer`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17735,8 +17735,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `SharedArrayBuffer` objects are in principle always available, but unfortunately the constructor on the global object is hidden, unless the two headers mentioned above are set, for compatibility with web content.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030713Z" creationid="gitnacho" creationdate="20220923T030713Z">
-        <seg>- En principio, los objetos `SharedArrayBuffer` siempre están disponibles, pero desafortunadamente el constructor del objeto global está oculto, a menos que se establezcan los dos encabezados mencionados anteriormente, por compatibilidad con el contenido web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T214126Z" creationid="gitnacho" creationdate="20220923T030713Z">
+        <seg>- En principio, los objetos `SharedArrayBuffer` siempre están disponibles, pero desafortunadamente el constructor del objeto global está oculto, a menos que se establezcan las dos cabeceras mencionadas anteriormente, por compatibilidad con el contenido web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36878,8 +36878,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Direct access between two top-level window contexts essentially only work if they are same-origin and carry the same two headers with the same two values.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030548Z" creationid="gitnacho" creationdate="20220923T030548Z">
-        <seg>El acceso directo entre dos contextos *window* de nivel superior esencialmente solo funciona si son del mismo origen y llevan los mismos dos encabezados con los dos mismos valores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T214105Z" creationid="gitnacho" creationdate="20220923T030548Z">
+        <seg>El acceso directo entre dos contextos *window* de nivel superior esencialmente solo funciona si son del mismo origen y llevan las mismas dos cabeceras con los dos mismos valores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59713,8 +59713,8 @@ función exportada desde su interior.</seg>
       <tuv lang="en-US">
         <seg>With these two headers set, `postMessage()` no longer throws for `SharedArrayBuffer` objects and shared memory across threads is therefore available.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T023846Z" creationid="gitnacho" creationdate="20220923T023846Z">
-        <seg>Con estos dos encabezados configurados, `postMessage()` ya no arroja objetos `SharedArrayBuffer` y, por lo tanto, la memoria compartida entre subprocesos está disponible.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T214045Z" creationid="gitnacho" creationdate="20220923T023846Z">
+        <seg>Con estas dos cabeceras configuradas, `postMessage()` ya no arroja objetos `SharedArrayBuffer` y, por lo tanto, la memoria compartida entre subprocesos está disponible.</seg>
       </tuv>
     </tu>
     <tu>
