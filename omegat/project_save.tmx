@@ -10819,18 +10819,16 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Add-ons</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T205703Z" creationid="gitnacho" creationdate="20221006T205703Z">
-        <seg>- Add-ons
-  - Complementos</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T093612Z" creationid="gitnacho" creationdate="20221006T205703Z">
+        <seg>- Add-ons</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- Advanced</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T205721Z" creationid="gitnacho" creationdate="20221006T205721Z">
-        <seg>- Advanced
-  - Avanzado</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T093613Z" creationid="gitnacho" creationdate="20221006T205721Z">
+        <seg>- Advanced</seg>
       </tuv>
     </tu>
     <tu>
@@ -12427,8 +12425,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- If you get errors, review your code carefully.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T095111Z" creationid="gitnacho" creationdate="20221005T095111Z">
-        <seg>- Si obtiene errores, revisa tu código cuidadosamente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T093431Z" creationid="gitnacho" creationdate="20221005T095111Z">
+        <seg>- Si obtienes errores, revisa tu código cuidadosamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23424,11 +23422,11 @@ title: Mozilla
 slug: Mozilla
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193416Z" creationid="gitnacho" creationdate="20221006T205640Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T093608Z" creationid="gitnacho" creationdate="20221006T205640Z">
         <seg>---
 title: Mozilla
 slug: Mozilla
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -23907,12 +23905,12 @@ slug: MDN/Writing_guidelines/Page_structures/Macros
 page-type: mdn-writing-guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193401Z" creationid="gitnacho" creationdate="20221005T094602Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T093151Z" creationid="gitnacho" creationdate="20221005T094602Z">
         <seg>---
 title: Usar macros
 slug: MDN/Writing_guidelines/Page_structures/Macros
 page-type: mdn-writing-guide
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -77108,9 +77106,8 @@ Hola:
         <seg>- writing-guide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T095423Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T093156Z" creationid="gitnacho" creationdate="20221019T095423Z">
         <seg>- writing-guide
-  - guía de escritura
 ---</seg>
       </tuv>
     </tu>
