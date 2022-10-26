@@ -13330,9 +13330,8 @@ browser-compat: javascript.builtins.Uint8ClampedArray
 browser-compat: api.Event
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221011T200809Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T100521Z" creationid="gitnacho" creationdate="20221011T200809Z">
         <seg>- Reference
-  - Referencia
 browser-compat: api.Event
 ---</seg>
       </tuv>
@@ -22761,12 +22760,12 @@ slug: Web/API/Event
 page-type: web-api-interface
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193556Z" creationid="gitnacho" creationdate="20221011T200801Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T100517Z" creationid="gitnacho" creationdate="20221011T200801Z">
         <seg>---
 title: Event
 slug: Web/API/Event
 page-type: web-api-interface
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
