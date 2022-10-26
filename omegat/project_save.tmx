@@ -33191,8 +33191,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt;working with files&lt;/a</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055833Z" creationid="Nachec" creationdate="20221021T055833Z">
-        <seg>&gt;trabajar con archivos&lt;/a</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T232445Z" creationid="Nachec" creationdate="20221021T055833Z">
+        <seg>&gt;manejo de archivos&lt;/a</seg>
       </tuv>
     </tu>
     <tu>
@@ -33459,8 +33459,8 @@ fields:</seg>
       <tuv lang="en-US">
         <seg>A basic work environment set up, as detailed in [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software), and an understanding of how to create and manage files, as detailed in [Dealing with files](/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222855Z" creationid="Nachec" creationdate="20221021T083747Z">
-        <seg>Configurado un entorno de trabajo básico, como se detalla en [Instalar el software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software), y comprensión de cómo crear y administrar archivos, como se detalla en [Tratamiento de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T232243Z" creationid="Nachec" creationdate="20221021T083747Z">
+        <seg>Configurado un entorno de trabajo básico, como se detalla en [Instalar el software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software), y comprensión de cómo crear y administrar archivos, como se detalla en [Manejo de archivos](/es/docs/Learn/Getting_started_with_the_web/Manejo de archivos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70406,7 +70406,7 @@ math .highlight {</seg>
       <tuv lang="en-US">
         <seg>href="/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files"</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055824Z" creationid="Nachec" creationdate="20221021T055824Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T232330Z" creationid="Nachec" creationdate="20221021T055824Z">
         <seg>href="/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files"</seg>
       </tuv>
     </tu>
