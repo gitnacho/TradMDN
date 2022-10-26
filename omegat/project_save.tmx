@@ -10480,16 +10480,16 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210735Z" creationid="gitnacho" creationdate="20221017T210735Z">
-        <seg>- : Se usa en respuesta a una solicitud de verificación previa para indicar qué encabezados HTTP se pueden usar al realizar la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T184942Z" creationid="gitnacho" creationdate="20221017T210735Z">
+        <seg>- : Se usa en respuesta a una solicitud de verificación previa para indicar qué cabeceras HTTP se pueden usar al realizar la solicitud real.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- : Used when issuing a preflight request to let the server know which HTTP headers will be used when the actual request is made.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210831Z" creationid="gitnacho" creationdate="20221017T210831Z">
-        <seg>- : Se utiliza al emitir una solicitud de verificación previa para que el servidor sepa qué encabezados HTTP se utilizarán cuando se realice la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T184951Z" creationid="gitnacho" creationdate="20221017T210831Z">
+        <seg>- : Se utiliza al emitir una solicitud de verificación previa para que el servidor sepa qué cabeceras HTTP se utilizarán cuando se realice la solicitud real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49366,8 +49366,8 @@ of the service worker.</seg>
       <tuv lang="en-US">
         <seg>The Cross-Origin Resource Sharing standard works by adding new [HTTP headers](/en-US/docs/Web/HTTP/Headers) that let servers describe which origins are permitted to read that information from a web browser.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213759Z" creationid="gitnacho" creationdate="20221011T213759Z">
-        <seg>El estándar *Cross-Origin Resource Sharing* —Intercambio de recursos de origen cruzado— funciona agregando nuevos [encabezados HTTP](/es/docs/Web/HTTP/Headers) que permiten a los servidores describir qué orígenes pueden leer esa información desde un navegador web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185037Z" creationid="gitnacho" creationdate="20221011T213759Z">
+        <seg>El estándar *Cross-Origin Resource Sharing* —Intercambio de recursos de origen cruzado— funciona agregando nuevas [cabeceras HTTP](/es/docs/Web/HTTP/Headers) que permiten a los servidores describir qué orígenes pueden leer esa información desde un navegador web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55216,8 +55216,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This is a general article about Cross-Origin Resource Sharing and includes a discussion of the necessary HTTP headers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213657Z" creationid="gitnacho" creationdate="20221011T213657Z">
-        <seg>Este es un artículo general sobre el uso del intercambio de recursos de origen cruzado e incluye una discusión sobre los encabezados HTTP necesarios.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185014Z" creationid="gitnacho" creationdate="20221011T213657Z">
+        <seg>Este es un artículo general sobre el uso del intercambio de recursos de origen cruzado e incluye una discusión sobre las cabeceras HTTP necesarias.</seg>
       </tuv>
     </tu>
     <tu>
