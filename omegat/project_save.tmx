@@ -2434,8 +2434,8 @@
       <tuv lang="en-US">
         <seg>## The HTTP response headers</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053637Z" creationid="gitnacho" creationdate="20221012T053637Z">
-        <seg>## Los encabezados de respuesta HTTP</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213648Z" creationid="gitnacho" creationdate="20221012T053637Z">
+        <seg>## Las cabeceras de respuesta HTTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -31466,8 +31466,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** As described below, the actual `POST` request does not include the `Access-Control-Request-*` headers; they are needed only for the `OPTIONS` request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222708Z" creationid="gitnacho" creationdate="20221011T222708Z">
-        <seg>&gt; **Nota:** Como se describe a continuación, la solicitud `POST` real no incluye los encabezados `Access-Control-Request-*`; solo se necesitan para la solicitud `OPTIONS`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213435Z" creationid="gitnacho" creationdate="20221011T222708Z">
+        <seg>&gt; **Nota:** Como se describe a continuación, la solicitud `POST` real no incluye las cabeceras `Access-Control-Request-*`; solo se necesitan para la solicitud `OPTIONS`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44479,8 +44479,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Like `Access-Control-Allow-Methods`, `Access-Control-Allow-Headers` is a comma-separated list of acceptable headers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224256Z" creationid="gitnacho" creationdate="20221011T224256Z">
-        <seg>Al igual que `Access-Control-Allow-Methods`, `Access-Control-Allow-Headers` es una lista separada por comas de encabezados aceptables.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213633Z" creationid="gitnacho" creationdate="20221011T224256Z">
+        <seg>Al igual que `Access-Control-Allow-Methods`, `Access-Control-Allow-Headers` es una lista separada por comas de cabeceras aceptables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44543,8 +44543,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Lines 12 - 21 above are the response that the server returns, which indicate that the request method (`POST`) and request headers (`X-PINGOTHER`) are acceptable.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T223002Z" creationid="gitnacho" creationdate="20221011T223002Z">
-        <seg>Las líneas 12 a 21 anteriores son la respuesta que devuelve el servidor, que indican que el método de solicitud (`POST`) y los encabezados de solicitud (`X-PINGOTHER`) son aceptables.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213557Z" creationid="gitnacho" creationdate="20221011T223002Z">
+        <seg>Las líneas 12 a 21 anteriores son la respuesta que devuelve el servidor, que indican que el método de solicitud (`POST`) y las cabeceras de solicitud (`X-PINGOTHER`) son aceptables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45510,8 +45510,8 @@ simple value.</seg>
       <tuv lang="en-US">
         <seg>Note that along with the OPTIONS request, two other request headers are sent (lines 9 and 10 respectively):</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222853Z" creationid="gitnacho" creationdate="20221011T222853Z">
-        <seg>Ten en cuenta que junto con la solicitud de OPCIONES, se envían otros dos encabezados de solicitud (líneas 9 y 10 respectivamente):</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213513Z" creationid="gitnacho" creationdate="20221011T222853Z">
+        <seg>Ten en cuenta que junto con la solicitud de `OPTIONS`, se envían otras dos cabeceras de solicitud (líneas 9 y 10 respectivamente):</seg>
       </tuv>
     </tu>
     <tu>
@@ -52368,8 +52368,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The server also sends `Access-Control-Allow-Headers` with a value of "`X-PINGOTHER, Content-Type`", confirming that these are permitted headers to be used with the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T223124Z" creationid="gitnacho" creationdate="20221011T223124Z">
-        <seg>El servidor también envía `Access-Control-Allow-Headers` con un valor de "`X-PINGOTHER, Content-Type`", lo cual confirma que estos son encabezados permitidos para usarse con la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213615Z" creationid="gitnacho" creationdate="20221011T223124Z">
+        <seg>El servidor también envía `Access-Control-Allow-Headers` con un valor de "`X-PINGOTHER, Content-Type`", lo cual confirma que estas son cabeceras permitidas para usarse con la solicitud real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52966,8 +52966,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Headers")}} header notifies the server that when the actual request is sent, it will do so with `X-PINGOTHER` and `Content-Type` custom headers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105511Z" creationid="gitnacho" creationdate="20221011T222935Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} notifica al servidor que cuando se envíe la solicitud real, lo hará con los encabezados personalizados `X-PINGOTHER` y `Content-Type`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213537Z" creationid="gitnacho" creationdate="20221011T222935Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} notifica al servidor que cuando se envíe la solicitud real, lo hará con las cabeceras personalizadas `X-PINGOTHER` y `Content-Type`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56271,8 +56271,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This section lists the HTTP response headers that servers return for access control requests as defined by the Cross-Origin Resource Sharing specification.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053710Z" creationid="gitnacho" creationdate="20221012T053710Z">
-        <seg>Esta sección enumera los encabezados de respuesta HTTP que los servidores devuelven para las solicitudes de control de acceso según lo definido por la especificación del intercambio de recursos de origen cruzado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213707Z" creationid="gitnacho" creationdate="20221012T053710Z">
+        <seg>Esta sección enumera las cabeceras de respuesta HTTP que los servidores devuelven para las solicitudes de control de acceso según lo definido por la especificación del intercambio de recursos de origen cruzado.</seg>
       </tuv>
     </tu>
     <tu>
