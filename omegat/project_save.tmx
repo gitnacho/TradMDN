@@ -15835,8 +15835,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042546Z" creationid="gitnacho" creationdate="20220925T042443Z">
-        <seg>- [Instalación de software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222910Z" creationid="gitnacho" creationdate="20220925T042443Z">
+        <seg>- [Instalar el software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15867,8 +15867,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Background on the web and web standards](/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards) (45 min read)
 - [Learning and getting help](/en-US/docs/Learn/Learning_and_getting_help) (45 min read)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224134Z" creationid="gitnacho" creationdate="20221018T224134Z">
-        <seg>- [Instalación de software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software): configuración básica de las herramientas (lectura de 15 minutos)
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222906Z" creationid="gitnacho" creationdate="20221018T224134Z">
+        <seg>- [Instalar el software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software): configuración básica de las herramientas (lectura de 15 minutos)
 - [Información básica sobre la web y los estándares web](/es/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards) (lectura de 45 minutos)
 - [Aprender y obtener ayuda](/es/docs/Learn/Learning_and_getting_help) (lectura de 45 minutos)</seg>
       </tuv>
@@ -23189,9 +23189,9 @@ title: Installing basic software
 slug: Learn/Getting_started_with_the_web/Installing_basic_software
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T212142Z" creationid="gitnacho" creationdate="20221012T115005Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222915Z" creationid="gitnacho" creationdate="20221012T115005Z">
         <seg>---
-title: Instalación de software básico
+title: Instalar el software básico
 slug: Learn/Getting_started_with_the_web/Installing_basic_software
 rue: Nachec✓
 tags:</seg>
@@ -33459,8 +33459,8 @@ fields:</seg>
       <tuv lang="en-US">
         <seg>A basic work environment set up, as detailed in [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software), and an understanding of how to create and manage files, as detailed in [Dealing with files](/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083747Z" creationid="Nachec" creationdate="20221021T083747Z">
-        <seg>Configurado un entorno de trabajo básico, como se detalla en [Instalación de software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software), y comprensión de cómo crear y administrar archivos, como se detalla en [Tratamiento de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222855Z" creationid="Nachec" creationdate="20221021T083747Z">
+        <seg>Configurado un entorno de trabajo básico, como se detalla en [Instalar el software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software), y comprensión de cómo crear y administrar archivos, como se detalla en [Tratamiento de archivos](/es/docs/Learn/Getting_started_with_the_web/Dealing_with_files).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41556,8 +41556,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In _Installing basic software_, we show you what tools you need to do simple web development and how to install them properly.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T154605Z" creationid="gitnacho" creationdate="20221012T154605Z">
-        <seg>La _Instalación de software básico_, te muestra las herramientas que necesitas para hacer el desarrollo web simple, y la forma de instalarlas correctamente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222925Z" creationid="gitnacho" creationdate="20221012T154605Z">
+        <seg>_Instalar el software básico_, te muestra las herramientas que necesitas para hacer el desarrollo web simple, y la forma de instalarlas correctamente.</seg>
       </tuv>
     </tu>
     <tu>
