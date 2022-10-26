@@ -31283,12 +31283,36 @@ i32.mul</seg>
 &gt;
 &gt; It can have multiple paragraphs.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T030738Z" creationid="gitnacho" creationdate="20221008T182035Z">
-        <seg>&gt; **Callout:**
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T031528Z" creationid="gitnacho" creationdate="20221008T182035Z">
+        <seg>&gt; **Observación:**
 &gt;
 &gt; **Así es como se escribe un texto destacado.**
 &gt;
 &gt; Puede tener varios párrafos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Callout:**
+&gt;
+&gt; [Download the starting point for this task](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/css/css-a11y1-download.html) to work in your own editor or in an online editor.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T031847Z" creationid="Nachec" creationdate="20221026T031847Z">
+        <seg>&gt; **Observación:**
+&gt;
+&gt; [Descarga el punto de partida para esta tarea](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/css/css-a11y1-download.html) para trabajar en tu propio editor o en un editor en línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Callout:**
+&gt;
+&gt; [Download the starting point for this task](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/css/css-a11y2-download.html) to work in your own editor or in an online editor.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T031935Z" creationid="Nachec" creationdate="20221026T031935Z">
+        <seg>&gt; **Observación:**
+&gt;
+&gt; [Descarga el punto de partida para esta tarea](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/css/css-a11y2-download.html) para trabajar en tu propio editor o en un editor en línea.</seg>
       </tuv>
     </tu>
     <tu>
