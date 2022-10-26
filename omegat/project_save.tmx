@@ -2426,8 +2426,8 @@
       <tuv lang="en-US">
         <seg>## The HTTP request headers</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060358Z" creationid="gitnacho" creationdate="20221012T060358Z">
-        <seg>## Los encabezados de solicitud HTTP</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213803Z" creationid="gitnacho" creationdate="20221012T060358Z">
+        <seg>## Las cabeceras de solicitud HTTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -7172,8 +7172,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : **Client Hints** are a set of response headers that a server can use to proactively request information from a client about the device, network, user, and user-agent-specific preferences.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T063725Z" creationid="gitnacho" creationdate="20221012T063725Z">
-        <seg>- : **Sugerencias de cliente** son un conjunto de encabezados de respuesta que un servidor puede usar para solicitar de manera proactiva información de un cliente sobre el dispositivo, la red, el usuario y las preferencias específicas del agente de usuario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T214005Z" creationid="gitnacho" creationdate="20221012T063725Z">
+        <seg>- : **Sugerencias de cliente** son un conjunto de cabeceras de respuesta que un servidor puede usar para solicitar de manera proactiva información de un cliente sobre el dispositivo, la red, el usuario y las preferencias específicas del agente de usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36742,8 +36742,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Custom proprietary headers have historically been used with an `X-` prefix, but this convention was deprecated in June 2012 because of the inconveniences it caused when nonstandard fields became standard in [RFC 6648](https://datatracker.ietf.org/doc/html/rfc6648); others are listed in an [IANA registry](https://www.iana.org/assignments/message-headers/message-headers.xhtml#perm-headers), whose original content was defined in [RFC 4229](https://datatracker.ietf.org/doc/html/rfc4229).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T065619Z" creationid="gitnacho" creationdate="20221012T065619Z">
-        <seg>Históricamente, los encabezados propietarios personalizados se han usado con un prefijo `X-`, pero esta convención quedó obsoleta en junio de 2012 debido a los inconvenientes que causó cuando los campos no estándar se convirtieron en estándar en [RFC 6648](https://datatracker.ietf.org/doc/html/rfc6648); otros figuran en un [registro IANA](https://www.iana.org/assignments/message-headers/message-headers.xhtml#perm-headers), cuyo contenido original se definió en [RFC 4229](https://datatracker.ietf.org/doc/html/rfc4229).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213936Z" creationid="gitnacho" creationdate="20221012T065619Z">
+        <seg>Históricamente, las cabeceras propietarias personalizadas se han usado con un prefijo `X-`, pero esta convención quedó obsoleta en junio de 2012 debido a los inconvenientes que causó cuando los campos no estándar se convirtieron en estándar en [RFC 6648](https://datatracker.ietf.org/doc/html/rfc6648); otros figuran en un [registro IANA](https://www.iana.org/assignments/message-headers/message-headers.xhtml#perm-headers), cuyo contenido original se definió en [RFC 4229](https://datatracker.ietf.org/doc/html/rfc4229).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38852,8 +38852,8 @@ portales para realizar tareas de administración empresarial y herramientas de c
       <tuv lang="en-US">
         <seg>For top-level documents, two headers need to be set to cross-origin isolate your site:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T023658Z" creationid="gitnacho" creationdate="20220923T023658Z">
-        <seg>Para los documentos de nivel superior, se deben configurar dos encabezados para aislar tu sitio de origen cruzado:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T214020Z" creationid="gitnacho" creationdate="20220923T023658Z">
+        <seg>Para los documentos de nivel superior, se deben configurar dos cabeceras para aislar tu sitio de origen cruzado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45648,8 +45648,8 @@ conversion from text format over to .wasm.</seg>
       <tuv lang="en-US">
         <seg>Note that these headers are set for you when making invocations to servers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060426Z" creationid="gitnacho" creationdate="20221012T060426Z">
-        <seg>Ten en cuenta que estos encabezados se configuran automáticamente cuando realizas invocaciones a los servidores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213854Z" creationid="gitnacho" creationdate="20221012T060426Z">
+        <seg>Ten en cuenta que estas cabeceras se configuran automáticamente cuando realizas invocaciones a los servidores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56263,8 +56263,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This section lists headers that clients may use when issuing HTTP requests in order to make use of the cross-origin sharing feature.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060415Z" creationid="gitnacho" creationdate="20221012T060415Z">
-        <seg>Esta sección enumera los encabezados que los clientes pueden usar al emitir solicitudes HTTP para hacer uso de la función de uso compartido entre orígenes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213836Z" creationid="gitnacho" creationdate="20221012T060415Z">
+        <seg>Esta sección enumera las cabeceras que los clientes pueden usar al emitir solicitudes HTTP para hacer uso de la función de uso compartido entre orígenes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76580,8 +76580,8 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
       <tuv lang="en-US">
         <seg>…would allow the `X-My-Custom-Header` and `X-Another-Custom-Header` headers to be exposed to the browser.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054020Z" creationid="gitnacho" creationdate="20221012T054020Z">
-        <seg>… permitiría que los encabezados `X-My-Custom-Header` y `X-Another-Custom-Header` estén expuestos al navegador.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213745Z" creationid="gitnacho" creationdate="20221012T054020Z">
+        <seg>… permitiría que las cabeceras `X-My-Custom-Header` y `X-Another-Custom-Header` estén expuestas al navegador.</seg>
       </tuv>
     </tu>
     <tu>
