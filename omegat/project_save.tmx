@@ -29830,8 +29830,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is how you write a note.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181646Z" creationid="gitnacho" creationdate="20221008T181646Z">
-        <seg>&lt;p&gt;&lt;strong&gt;Nota:&lt;/strong&gt; Así es como se escribe una nota.&lt;/p&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082616Z" creationid="gitnacho" creationdate="20221008T181646Z">
+        <seg>&lt;p&gt;&lt;strong&gt;Nota:&lt;/strong&gt; Así es como escribes una nota.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29846,8 +29846,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;p&gt;&lt;strong&gt;Warning:&lt;/strong&gt; This is how you write a warning.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181850Z" creationid="gitnacho" creationdate="20221008T181850Z">
-        <seg>&lt;p&gt;&lt;strong&gt;Advertencia:&lt;/strong&gt; Así es como se escribe una advertencia.&lt;/p&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082702Z" creationid="gitnacho" creationdate="20221008T181850Z">
+        <seg>&lt;p&gt;&lt;strong&gt;Advertencia:&lt;/strong&gt; Así es como escribes una advertencia.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32109,8 +32109,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** This is how you write a note.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181713Z" creationid="gitnacho" creationdate="20221008T181713Z">
-        <seg>&gt; **Nota:** Así es como se escribe una nota.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082633Z" creationid="gitnacho" creationdate="20221008T181713Z">
+        <seg>&gt; **Nota:** Así es como escribes una nota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32688,8 +32688,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Warning:** This is how you write a warning.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T192204Z" creationid="gitnacho" creationdate="20221008T181915Z">
-        <seg>&gt; **Advertencia:** Así es como se escribe una advertencia.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082714Z" creationid="gitnacho" creationdate="20221008T181915Z">
+        <seg>&gt; **Advertencia:** Así es como escribes una advertencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65415,9 +65415,9 @@ La página [Números y fechas](/es/docs/Web/JavaScript/Guide/Numbers_and_dates) 
         <seg>```plain
 &gt; **Note:** This is how you write a note.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181605Z" creationid="gitnacho" creationdate="20221008T181547Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082600Z" creationid="gitnacho" creationdate="20221008T181547Z">
         <seg>```plain
-&gt; **Nota:** Así es como se escribe una nota.</seg>
+&gt; **Nota:** Así es como escribes una nota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65425,9 +65425,9 @@ La página [Números y fechas](/es/docs/Web/JavaScript/Guide/Numbers_and_dates) 
         <seg>```plain
 &gt; **Warning:** This is how you write a warning.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181803Z" creationid="gitnacho" creationdate="20221008T181803Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T082646Z" creationid="gitnacho" creationdate="20221008T181803Z">
         <seg>```plain
-&gt; **Advertencia:** Así es como se escribe una advertencia.</seg>
+&gt; **Advertencia:** Así es como escribes una advertencia.</seg>
       </tuv>
     </tu>
     <tu>
