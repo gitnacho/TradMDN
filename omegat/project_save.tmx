@@ -13031,6 +13031,14 @@ browser-compat: mathml.elements.mtext
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Networking</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222730Z" creationid="Nachec" creationdate="20221026T222730Z">
+        <seg>- Networking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Next, we define a function that will be exported with the name `callByIndex`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072734Z" creationid="gitnacho" creationdate="20221007T072734Z">
@@ -13163,9 +13171,8 @@ browser-compat: javascript.builtins.WebAssembly.Exception.stack
       <tuv lang="en-US">
         <seg>- Overview</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T133416Z" creationid="gitnacho" creationdate="20221002T061933Z">
-        <seg>- Overview
-  - Descripción</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222521Z" creationid="gitnacho" creationdate="20221002T061933Z">
+        <seg>- Overview</seg>
       </tuv>
     </tu>
     <tu>
@@ -23086,6 +23093,20 @@ tags:</seg>
 title: Cabecera HTTP
 slug: Glossary/HTTP_header
 rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: HTTP headers
+slug: Web/HTTP/Headers
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222513Z" creationid="Nachec" creationdate="20221026T222513Z">
+        <seg>---
+title: HTTP headers
+slug: Web/HTTP/Headers
 tags:</seg>
       </tuv>
     </tu>
