@@ -47257,8 +47257,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>See [CORS settings attributes](/en-US/docs/Web/HTML/Attributes/crossorigin) for a more descriptive explanation of its valid arguments.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T123556Z" creationid="gitnacho" creationdate="20221003T123556Z">
-        <seg>Consulte [Atributos de configuración CORS](/es/docs/Web/HTML/Attributes/crossorigin) para obtener una explicación más descriptiva de sus argumentos válidos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T183231Z" creationid="gitnacho" creationdate="20221003T123556Z">
+        <seg>Consulta [Atributos de configuración CORS](/es/docs/Web/HTML/Attributes/crossorigin) para obtener una explicación más descriptiva de sus argumentos válidos.</seg>
       </tuv>
     </tu>
     <tu>
