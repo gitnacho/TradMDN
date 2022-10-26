@@ -11195,18 +11195,16 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Cache</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T200810Z" creationid="gitnacho" creationdate="20221003T200810Z">
-        <seg>- Caché
-  - Cache</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T094143Z" creationid="gitnacho" creationdate="20221003T200810Z">
+        <seg>- Cache</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- Cache API</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T000152Z" creationid="gitnacho" creationdate="20221003T200817Z">
-        <seg>- Cache API
-  - API Caché</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T094145Z" creationid="gitnacho" creationdate="20221003T200817Z">
+        <seg>- Cache API</seg>
       </tuv>
     </tu>
     <tu>
@@ -12556,9 +12554,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Interface</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T094609Z" creationid="gitnacho" creationdate="20220922T203642Z">
-        <seg>- Interface
-  - Interfaz</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T094146Z" creationid="gitnacho" creationdate="20220922T203642Z">
+        <seg>- Interface</seg>
       </tuv>
     </tu>
     <tu>
@@ -13095,10 +13092,8 @@ browser-compat: javascript.builtins.WebAssembly.Exception.stack
       <tuv lang="en-US">
         <seg>- Offline</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T220956Z" creationid="gitnacho" creationdate="20220922T203654Z">
-        <seg>- Offline
-  - Desconectado
-  - Fuera de línea</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T094148Z" creationid="gitnacho" creationdate="20220922T203654Z">
+        <seg>- Offline</seg>
       </tuv>
     </tu>
     <tu>
@@ -13683,9 +13678,8 @@ browser-compat: http.status.406
 browser-compat: api.Cache
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T161936Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T094157Z" creationid="gitnacho" creationdate="20221003T161936Z">
         <seg>- Storage
-  - Almacenamiento
 browser-compat: api.Cache
 ---</seg>
       </tuv>
@@ -22353,12 +22347,12 @@ slug: Web/API/Cache
 page-type: web-api-interface
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193435Z" creationid="gitnacho" creationdate="20221003T161919Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T094138Z" creationid="gitnacho" creationdate="20221003T161919Z">
         <seg>---
 title: Caché
 slug: Web/API/Cache
 page-type: web-api-interface
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
