@@ -1152,6 +1152,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Assessment or further help</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T032342Z" creationid="Nachec" creationdate="20221026T032342Z">
+        <seg>## Evaluación o ayuda adicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Assessments</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084014Z" creationid="Nachec" creationdate="20221021T084014Z">
@@ -31269,8 +31277,8 @@ i32.mul</seg>
 &gt;
 &gt; #### Looking to become a front-end web developer?</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T053319Z" creationid="gitnacho" creationdate="20221012T231826Z">
-        <seg>&gt; ⚡️    🏆
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T032300Z" creationid="gitnacho" creationdate="20221012T231826Z">
+        <seg>&gt; **Observación:**
 &gt;
 &gt; #### ¿Quieres convertirte en un desarrollador web *front-end*?</seg>
       </tuv>
@@ -31313,6 +31321,30 @@ i32.mul</seg>
         <seg>&gt; **Observación:**
 &gt;
 &gt; [Descarga el punto de partida para esta tarea](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/css/css-a11y2-download.html) para trabajar en tu propio editor o en un editor en línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Callout:**
+&gt;
+&gt; [Download the starting point for this task](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/html/html-a11y1-download.html) to work in your own editor or in an online editor.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T032527Z" creationid="Nachec" creationdate="20221026T032527Z">
+        <seg>&gt; **Observación:**
+&gt;
+&gt; [Descarga el punto de partida para esta tarea](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/html/html-a11y1-download.html) para trabajar en tu propio editor o en un editor en línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Callout:**
+&gt;
+&gt; [Download the starting point for this task](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/js/js/js1-download.html) to work in your own editor or in an online editor.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T032415Z" creationid="Nachec" creationdate="20221026T032214Z">
+        <seg>&gt; **Observación:**
+&gt;
+&gt; [Descarga el punto de partida para esta tarea](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/js/js/js1-download.html) para trabajar en tu propio editor o en un editor en línea.</seg>
       </tuv>
     </tu>
     <tu>
