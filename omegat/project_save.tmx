@@ -22507,12 +22507,12 @@ slug: MDN/Writing_guidelines/Page_structures/Macros/Commonly_used_macros
 page-type: mdn-writing-guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193313Z" creationid="gitnacho" creationdate="20221005T101517Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T085147Z" creationid="gitnacho" creationdate="20221005T101517Z">
         <seg>---
 title: Macros usadas comúnmente
 slug: MDN/Writing_guidelines/Page_structures/Macros/Commonly_used_macros
 page-type: mdn-writing-guide
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -47198,8 +47198,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Say we wanted to embed the code at &lt;https://mdn.github.io/learning-area/css/styling-boxes/backgrounds/&gt;.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212258Z" creationid="gitnacho" creationdate="20221005T212258Z">
-        <seg>Digamos que queríamos incrustar el código en &lt;https://mdn.github.io/learning-area/css/styling-boxes/backgrounds/&gt;.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T084758Z" creationid="gitnacho" creationdate="20221005T212258Z">
+        <seg>Digamos que queremos incrustar el código en &lt;https://mdn.github.io/learning-area/css/styling-boxes/backgrounds/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
