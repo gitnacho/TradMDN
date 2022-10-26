@@ -5841,8 +5841,8 @@ This applies in particular to network client hints like {{HTTPHeader("Downlink")
       <tuv lang="en-US">
         <seg>(For example, the article is for an advanced audience, and they just need to see the code.) Also, you might be demonstrating an API feature that doesn't work well as an embedded example, which might need its own separate page to link to.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204529Z" creationid="gitnacho" creationdate="20221005T204529Z">
-        <seg>(Por ejemplo, el artículo es para una audiencia avanzada y solo necesitan ver el código). Además, es posible que estés demostrando una función de la API que no funciona bien como un ejemplo incrustado, que podría necesitar su propia página separada para enlazarla.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T083554Z" creationid="gitnacho" creationdate="20221005T204529Z">
+        <seg>(Por ejemplo, el artículo es para una audiencia avanzada y solo necesitan ver el código). Además, es posible que estés demostrando una función de la API que no trabaja bien como un ejemplo incrustado, que podría necesitar su propia página separada para enlazarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17999,10 +17999,10 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - `example-bad`: style this example as a bad example (one to avoid)
 - `hidden`: don't render this code block in the page.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T180842Z" creationid="gitnacho" creationdate="20221008T180842Z">
-        <seg>- `example-good`: aplicar estilo a este ejemplo como un buen ejemplo (uno a seguir)
-- `example-bad`: aplicar estilo a este ejemplo como un mal ejemplo (uno para evitar)
-- `hidden`: no renderizar este bloque de código en la página.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T083018Z" creationid="gitnacho" creationdate="20221008T180842Z">
+        <seg>- `example-good`: aplica estilo a este ejemplo como un buen ejemplo (uno a seguir)
+- `example-bad`: aplica estilo a este ejemplo como un mal ejemplo (uno para evitar)
+- `hidden`: no renderiza este bloque de código en la página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22476,12 +22476,12 @@ slug: MDN/Writing_guidelines/Page_structures/Code_examples
 page-type: mdn-writing-guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193204Z" creationid="gitnacho" creationdate="20221005T202333Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T083203Z" creationid="gitnacho" creationdate="20221005T202333Z">
         <seg>---
 title: Código de ejemplo
 slug: MDN/Writing_guidelines/Page_structures/Code_examples
 page-type: mdn-writing-guide
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -77038,9 +77038,8 @@ Hola:
         <seg>- writing-guide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221019T084441Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T083208Z" creationid="gitnacho" creationdate="20221019T084441Z">
         <seg>- writing-guide
-  - guía de escritura
 ---</seg>
       </tuv>
     </tu>
