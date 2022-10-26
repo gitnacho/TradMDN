@@ -23095,12 +23095,12 @@ slug: MDN/Writing_guidelines/Page_structures/Macros/Deprecated_macros
 page-type: mdn-writing-guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193330Z" creationid="gitnacho" creationdate="20221005T215829Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T092905Z" creationid="gitnacho" creationdate="20221005T215829Z">
         <seg>---
 title: Cómo reemplazar las macros obsoletas de KumaScript
 slug: MDN/Writing_guidelines/Page_structures/Macros/Deprecated_macros
 page-type: mdn-writing-guide
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
