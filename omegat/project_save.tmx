@@ -63938,6 +63938,18 @@ const CURRENT_CACHES = {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```js
+const RAM = navigator.deviceMemory;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T204532Z" creationid="Nachec" creationdate="20221026T204532Z">
+        <seg>```js
+const RAM = navigator.deviceMemory;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```js
 const addResourcesToCache = async (resources) =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T034325Z" creationid="gitnacho" creationdate="20220921T034325Z">
@@ -75312,6 +75324,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T211941Z" creationid="gitnacho" creationdate="20221003T211941Z">
         <seg>{{securecontext_header}}{{APIRef("Service Workers API")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{securecontext_header}}{{APIRef("User-Agent Client Hints API")}}{{SeeCompatTable}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T204611Z" creationid="Nachec" creationdate="20221026T204611Z">
+        <seg>{{securecontext_header}}{{APIRef("User-Agent Client Hints API")}}{{SeeCompatTable}}</seg>
       </tuv>
     </tu>
     <tu>
