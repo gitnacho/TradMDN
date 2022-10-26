@@ -8766,8 +8766,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Indicates which headers can be exposed as part of the response by listing their names.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210802Z" creationid="gitnacho" creationdate="20221017T210802Z">
-        <seg>- : Indica qué encabezados se pueden exponer como parte de la respuesta enumerando sus nombres.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185255Z" creationid="gitnacho" creationdate="20221017T210802Z">
+        <seg>- : Indica qué cabeceras se pueden exponer como parte de la respuesta enumerando sus nombres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26229,8 +26229,8 @@ myWorker.postMessage(myBuf, [myBuf]);</seg>
       <tuv lang="en-US">
         <seg>// we can't access to the response headers, so this check will always fail and the font won't be cached.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T204703Z" creationid="gitnacho" creationdate="20221003T204703Z">
-        <seg>// no podemos acceder a los encabezados de respuesta, por lo que esta verificación siempre fallará y la fuente no se almacenará en caché.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185512Z" creationid="gitnacho" creationdate="20221003T204703Z">
+        <seg>// no podemos acceder a las cabeceras de respuesta, por lo que esta verificación siempre fallará y la fuente no se almacenará en caché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31976,8 +31976,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** The caching API doesn't honor HTTP caching headers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203152Z" creationid="gitnacho" creationdate="20221003T203152Z">
-        <seg>&gt; **Nota:** La API de almacenamiento en caché no respeta los encabezados de almacenamiento en caché HTTP.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185443Z" creationid="gitnacho" creationdate="20221003T203152Z">
+        <seg>&gt; **Nota:** La API de almacenamiento en caché no respeta las cabeceras de almacenamiento en caché HTTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47908,8 +47908,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>So a `Response` stored in a `Cache` won't contain `Set-Cookie` headers, and therefore won't cause any cookies to be stored.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T205259Z" creationid="gitnacho" creationdate="20221003T205259Z">
-        <seg>Por lo tanto, una `Response` almacenada en una `Cache` no contendrá encabezados `Set-Cookie` y, por lo tanto, no hará que se almacenen *cookies*.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185634Z" creationid="gitnacho" creationdate="20221003T205259Z">
+        <seg>Por lo tanto, una `Response` almacenada en una `Cache` no contendrá cabeceras `Set-Cookie` y, por lo tanto, no hará que se almacenen `cookies`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48472,8 +48472,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Subsequent sections discuss scenarios, as well as provide a breakdown of the HTTP headers used.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T214035Z" creationid="gitnacho" creationdate="20221011T214035Z">
-        <seg>Las secciones posteriores analizan los escenarios y proporcionan un desglose de los encabezados HTTP utilizados.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185053Z" creationid="gitnacho" creationdate="20221011T214035Z">
+        <seg>Las secciones posteriores analizan los escenarios y proporcionan un desglose de las cabeceras HTTP utilizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49569,8 +49569,8 @@ that the server is unwilling to supply a default representation.</seg>
       <tuv lang="en-US">
         <seg>The [Fetch API](/en-US/docs/Web/API/Fetch_API) requires {{httpheader("Set-Cookie")}} headers to be stripped before returning a {{domxref("Response")}} object from {{domxref("fetch()")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T205231Z">
-        <seg>La [API Fetch](/es/docs/Web/API/Fetch_API) requiere que se eliminen los encabezados {{httpheader("Set-Cookie")}} antes de devolver un objeto {{DOMxRef("Response")}} de {{DOMxRef("fetch()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185600Z" creationid="gitnacho" creationdate="20221003T205231Z">
+        <seg>La [API Fetch](/es/docs/Web/API/Fetch_API) requiere que se eliminen las cabeceras {{httpheader("Set-Cookie")}} antes de devolver un objeto {{DOMxRef("Response")}} de {{DOMxRef("fetch()")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52470,8 +52470,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The set of "hint" headers are listed in the topic [HTTP Headers](/en-US/docs/Web/HTTP/Headers#client_hints) and [summarized below](#hint_types).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T085223Z" creationid="gitnacho" creationdate="20221012T085223Z">
-        <seg>El conjunto de encabezados de "sugerencia" se enumeran en el tema [Encabezados HTTP](/es/docs/Web/HTTP/Headers#sugerencias_del_cliente) y [resumidos a continuación](#hint_types).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T190208Z" creationid="gitnacho" creationdate="20221012T085223Z">
+        <seg>El conjunto de "sugerencia" de cabeceras se enumera en el tema [Cabeceras HTTP](/es/docs/Web/HTTP/Headers#sugerencias_del_cliente) y a continuación se hace un [resumen](#hint_types) de ellas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52908,8 +52908,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Allow-Headers")}} header is used in response to a {{Glossary("preflight request")}} to indicate which HTTP headers can be used when making the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105921Z" creationid="gitnacho" creationdate="20221012T060329Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Allow-Headers")}} se usa en respuesta a un {{Glossary("preflight request")}} para indicar qué encabezados HTTP se pueden usar al realizar la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185116Z" creationid="gitnacho" creationdate="20221012T060329Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Allow-Headers")}} se usa en respuesta a una {{Glossary("preflight request")}} para indicar qué cabeceras HTTP se pueden usar al realizar la solicitud real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52940,8 +52940,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Headers")}} header is used when issuing a preflight request to let the server know what HTTP headers will be used when the actual request is made (such as with {{domxref("XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110013Z" creationid="gitnacho" creationdate="20221012T060848Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} se usa cuando se emite una solicitud de preverificación para que el servidor sepa qué encabezados HTTP se usarán cuando se realice la solicitud real (como con {{DOMxRef( "XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185128Z" creationid="gitnacho" creationdate="20221012T060848Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} se usa cuando se emite una solicitud de preverificación para que el servidor sepa qué cabeceras HTTP se usarán cuando se realice la solicitud real (como con {{DOMxRef( "XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
       </tuv>
     </tu>
     <tu>
