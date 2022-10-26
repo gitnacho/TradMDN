@@ -19172,9 +19172,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
         <seg>- basics
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20220921T014615Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110438Z" creationid="gitnacho" creationdate="20220921T014615Z">
         <seg>- basics
-  - lo esencial
 ---</seg>
       </tuv>
     </tu>
@@ -23875,12 +23874,12 @@ slug: Web/API/Service_Worker_API/Using_Service_Workers
 page-type: guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193637Z" creationid="gitnacho" creationdate="20220921T014611Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110433Z" creationid="gitnacho" creationdate="20220921T014611Z">
         <seg>---
 title: Usar Service Workers
 slug: Web/API/Service_Worker_API/Using_Service_Workers
 page-type: guide
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -47698,8 +47697,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Service worker syntax is more complex than that of AppCache, but the trade-off is that you can use JavaScript to control your AppCache-implied behaviors with a fine degree of granularity, allowing you to handle this problem and many more.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T051909Z" creationid="gitnacho" creationdate="20220921T020016Z">
-        <seg>La sintaxis del *service worker* es más compleja que la de _AppCache_ pero la compensación es que puedes usar JavaScript para controlar su comportamiento implícito en _AppCache_ con un buen grado de fina granularidad, lo que te permite manejar este problema y muchos más.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110848Z" creationid="gitnacho" creationdate="20220921T020016Z">
+        <seg>La sintaxis del *service worker* es más compleja que la de `AppCache` pero la compensación es que puedes usar JavaScript para controlar su comportamiento implícito en `AppCache` con un buen grado de fina granularidad, lo que te permite manejar este problema y muchos más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47746,8 +47745,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Service workers should finally fix these issues.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T021741Z" creationid="gitnacho" creationdate="20220921T015854Z">
-        <seg>El *service worker* finalmente deberían solucionar estos problemas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110810Z" creationid="gitnacho" creationdate="20220921T015854Z">
+        <seg>Los *service workers* finalmente deberían solucionar estos problemas.</seg>
       </tuv>
     </tu>
     <tu>
