@@ -344,8 +344,8 @@
       <tuv lang="en-US">
         <seg>![Two computers linked together](internet-schema-1.png)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200912Z" creationid="Nachec" creationdate="20221025T200912Z">
-        <seg>![Dos computadoras conectadas entre sí](internet-schema-1.png)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233613Z" creationid="Nachec" creationdate="20221025T200912Z">
+        <seg>![Dos ordenadores conectados entre sí](internet-schema-1.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31794,8 +31794,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** If you are working on a computer/tablet/other device where you don't have the ability to create your own files, you could try out the code examples in an online coding program such as [JSBin](https://jsbin.com/) or [Glitch](https://glitch.com/).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083812Z" creationid="Nachec" creationdate="20221021T083812Z">
-        <seg>&gt; **Nota:** Si estás trabajando en una computadora/tableta/otro dispositivo donde no tienes la capacidad de crear tus propios archivos, puedes probar los ejemplos de código en un programa de codificación en línea como [JSBin](https://jsbin.com/) o [Glitch](https://glitch.com/).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233159Z" creationid="Nachec" creationdate="20221021T083812Z">
+        <seg>&gt; **Nota:** Si estás trabajando en un ordenador/tableta/otro dispositivo donde no tienes la capacidad de crear tus propios archivos, puedes probar los ejemplos de código en un programa de codificación en línea como [JSBin](https://jsbin.com/) o [Glitch](https://glitch.com/).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31926,8 +31926,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** On Windows computers, you might have trouble seeing the file names, because Windows has an option called **Hide extensions for known file types** turned on by default.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044619Z" creationid="Nachec" creationdate="20221023T044619Z">
-        <seg>&gt; **Nota:** En las computadoras con Windows, es posible que tengas problemas para ver los nombres de los archivos, porque de manera predeterminada, Windows tiene activada una opción llamada **Ocultar extensiones para tipos de archivos conocidos**.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233512Z" creationid="Nachec" creationdate="20221023T044619Z">
+        <seg>&gt; **Nota:** En los ordenadores con Windows, es posible que tengas problemas para ver los nombres de los archivos, porque de manera predeterminada, Windows tiene activada una opción llamada **Ocultar extensiones para tipos de archivos conocidos**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34462,8 +34462,8 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       <tuv lang="en-US">
         <seg>All you need is a computer that can run modern web browsers, an internet connection, and a willingness to learn.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223618Z" creationid="gitnacho" creationdate="20221018T223618Z">
-        <seg>Todo lo que necesitas es una computadora que pueda ejecutar navegadores web modernos, una conexión a Internet y la voluntad de aprender.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233135Z" creationid="gitnacho" creationdate="20221018T223618Z">
+        <seg>Todo lo que necesitas es un ordenador que pueda ejecutar navegadores web modernos, una conexión a Internet y la voluntad de aprender.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35474,8 +35474,8 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
         <seg>Basic familiarity with using computers and using the Web passively (i.e. looking at it, consuming the content.)
 2.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083735Z" creationid="Nachec" creationdate="20221021T083735Z">
-        <seg>Familiaridad básica con el uso de computadoras y el uso pasivo de la Web (es decir, mirarla, consumir el contenido).
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233628Z" creationid="Nachec" creationdate="20221021T083735Z">
+        <seg>Familiaridad básica con el uso de ordenadores y el uso pasivo de la Web (es decir, mirarla, consumir el contenido).
 2.</seg>
       </tuv>
     </tu>
@@ -36486,8 +36486,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Client hints advertise what kind of device the user agent runs on (for example, a desktop computer or a mobile device).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092013Z" creationid="Nachec" creationdate="20221022T092013Z">
-        <seg>Las sugerencias del cliente anuncian en qué tipo de dispositivo se ejecuta el agente de usuario (por ejemplo, una computadora de escritorio o un dispositivo móvil).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233211Z" creationid="Nachec" creationdate="20221022T092013Z">
+        <seg>Las sugerencias del cliente anuncian en qué tipo de dispositivo se ejecuta el agente de usuario (por ejemplo, un ordenador de escritorio o un dispositivo móvil).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36598,8 +36598,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Computers connected to the internet are called **clients** and **servers**.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190115Z" creationid="Nachec" creationdate="20221025T190115Z">
-        <seg>Las computadoras conectadas a la web se llaman **clientes** y **servidores**.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233727Z" creationid="Nachec" creationdate="20221025T190115Z">
+        <seg>Los ordenadores conectados a la web se llaman **clientes** y **servidores**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44921,8 +44921,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Many computers, particularly web servers, are case-sensitive.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044030Z" creationid="Nachec" creationdate="20221023T044030Z">
-        <seg>Muchas computadoras, particularmente los servidores web, distinguen entre mayúsculas y minúsculas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233658Z" creationid="Nachec" creationdate="20221023T044030Z">
+        <seg>Muchos ordenadores, particularmente los servidores web, distinguen entre mayúsculas y minúsculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45033,8 +45033,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Maybe that sounds obvious to some people, but some of you are reading this article on your phone or a library computer.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164514Z" creationid="gitnacho" creationdate="20221012T164514Z">
-        <seg>Tal vez esto suena obvio para algunas personas, pero habrá quien esté leyendo este artículo desde el móvil o una computadora de biblioteca.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233146Z" creationid="gitnacho" creationdate="20221012T164514Z">
+        <seg>Tal vez esto suena obvio para algunas personas, pero habrá quien esté leyendo este artículo desde el móvil o un ordenador de biblioteca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52960,8 +52960,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The various technologies that support the Internet have evolved over time, but the way it works hasn't changed that much: Internet is a way to connect computers all together and ensure that, whatever happens, they find a way to stay connected.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200546Z" creationid="Nachec" creationdate="20221025T200546Z">
-        <seg>Las distintas tecnologías compatibles con internet han evolucionado con el tiempo, pero la forma en que funciona no ha cambiado mucho: Internet es una forma de conectar las computadoras entre sí y asegurar que, pase lo que pase, encuentren una manera de mantenerse conectadas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233443Z" creationid="Nachec" creationdate="20221025T200546Z">
+        <seg>Las distintas tecnologías compatibles con internet han evolucionado con el tiempo, pero la forma en que funciona no ha cambiado mucho: Internet es una forma de conectar los ordenadores entre sí y asegurar que, pase lo que pase, encuentren una manera de mantenerse conectados.</seg>
       </tuv>
     </tu>
     <tu>
