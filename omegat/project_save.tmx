@@ -4926,8 +4926,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### What KumaScript is not</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T064623Z" creationid="gitnacho" creationdate="20221005T064623Z">
-        <seg>### Qué no es KumaScript</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T023150Z" creationid="gitnacho" creationdate="20221005T064623Z">
+        <seg>### Qué **no** es KumaScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -23798,11 +23798,11 @@ title: Troubleshooting KumaScript errors
 slug: MDN/Tools/KumaScript/Troubleshooting
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193109Z" creationid="gitnacho" creationdate="20221005T091647Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T023330Z" creationid="gitnacho" creationdate="20221005T091647Z">
         <seg>---
 title: Solución de errores KumaScript
 slug: MDN/Tools/KumaScript/Troubleshooting
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -76932,9 +76932,8 @@ Hola:
         <seg>- Tools
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221012T182912Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T023335Z" creationid="gitnacho" creationdate="20221012T182912Z">
         <seg>- Tools
-  - Herramientas
 ---</seg>
       </tuv>
     </tu>
