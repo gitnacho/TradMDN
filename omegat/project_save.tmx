@@ -21196,11 +21196,11 @@ browser-compat: api.Document.timeline
 - [Flavio Copes' article on loading JavaScript efficiently and explaining the differences between `async` and `defer`](https://flaviocopes.com/javascript-async-defer/)
 - [JavaScript modules](/en-US/docs/Web/JavaScript/Guide/Modules) guide</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T135813Z" creationid="gitnacho" creationdate="20221003T134956Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T184455Z" creationid="gitnacho" creationdate="20221003T134956Z">
         <seg>- {{DOMxRef("document.currentScript")}}
 - [Tabla de compatibilidad de eventos de nodos `&lt;script&gt;` y `&lt;link&gt;` de Ryan Grove](https://pie.gd/test/script-link-events/)
 - [Artículo de Flavio Copes sobre la carga eficiente de JavaScript y la explicación de las diferencias entre `async` y `defer`](https://flaviocopes.com/javascript-async-defer/)
-- [Módulos JavaScript](/es/docs/Web/JavaScript/Guide/Modules) guía</seg>
+- Guía de [Módulos JavaScript](/es/docs/Web/JavaScript/Guide/Modules)</seg>
       </tuv>
     </tu>
     <tu>
