@@ -14091,8 +14091,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       <tuv lang="en-US">
         <seg>- The only type/subtype combinations allowed for the {{Glossary("MIME type","media type")}} specified in the {{HTTPHeader("Content-Type")}} header are:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220852Z" creationid="gitnacho" creationdate="20221011T220852Z">
-        <seg>- Las únicas combinaciones de tipo/subtipo permitidas para el {{Glossary("MIME type","media type")}} especificado en el encabezado {{HTTPHeader("Content-Type")}} son:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105407Z" creationid="gitnacho" creationdate="20221011T220852Z">
+        <seg>- Las únicas combinaciones de tipo/subtipo permitidas para el {{Glossary("MIME type","media type")}} especificado en la cabecera {{HTTPHeader("Content-Type")}} son:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14147,24 +14147,24 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       <tuv lang="en-US">
         <seg>- The server **must not** specify the "`*`" wildcard for the `Access-Control-Allow-Headers` response-header value, but must instead specify an explicit list of header names; for example, `Access-Control-Allow-Headers: X-PINGOTHER, Content-Type`</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053227Z" creationid="gitnacho" creationdate="20221012T053227Z">
-        <seg>- El servidor **no debe** especificar el comodín "`*`" para el valor del encabezado de respuesta `Access-Control-Allow-Headers`, sino que debe especificar una lista explícita de nombres de encabezado; por ejemplo, `Access-Control-Allow-Headers: X-PINGOTHER, Content-Type`</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105553Z" creationid="gitnacho" creationdate="20221012T053227Z">
+        <seg>- El servidor **no debe** especificar el comodín "`*`" para el valor de la cabecera de respuesta `Access-Control-Allow-Headers`, sino que debe especificar una lista explícita de nombres de encabezado; por ejemplo, `Access-Control-Allow-Headers: X-PINGOTHER, Content-Type`</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- The server **must not** specify the "`*`" wildcard for the `Access-Control-Allow-Methods` response-header value, but must instead specify an explicit list of method names; for example, `Access-Control-Allow-Methods: POST, GET`</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053250Z" creationid="gitnacho" creationdate="20221012T053250Z">
-        <seg>- El servidor **no debe** especificar el comodín "`*`" para el valor del encabezado de respuesta `Access-Control-Allow-Methods`, sino que debe especificar una lista explícita de nombres de métodos; por ejemplo, `Access-Control-Allow-Methods: POST, GET`</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105611Z" creationid="gitnacho" creationdate="20221012T053250Z">
+        <seg>- El servidor **no debe** especificar el comodín "`*`" para el valor de la cabecera de respuesta `Access-Control-Allow-Methods`, sino que debe especificar una lista explícita de nombres de métodos; por ejemplo, `Access-Control-Allow-Methods: POST, GET`</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- The server **must not** specify the "`*`" wildcard for the `Access-Control-Allow-Origin` response-header value, but must instead specify an explicit origin; for example: `Access-Control-Allow-Origin: https://example.com`</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T152837Z" creationid="gitnacho" creationdate="20221012T053158Z">
-        <seg>- El servidor **no debe** especificar el comodín "`*`" para el valor del encabezado de respuesta `Access-Control-Allow-Origin`, sino que debe especificar un origen explícito; por ejemplo: `Acceso-Control-Permitir-Origin: https://ejemplo.com`</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105541Z" creationid="gitnacho" creationdate="20221012T053158Z">
+        <seg>- El servidor **no debe** especificar el comodín "`*`" para el valor de la cabecera de respuesta `Access-Control-Allow-Origin`, sino que debe especificar un origen explícito; por ejemplo: `Acceso-Control-Permitir-Origin: https://ejemplo.com`</seg>
       </tuv>
     </tu>
     <tu>
@@ -31826,8 +31826,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** Servers currently get most of the same information by parsing the {{HTTPHeader("User-Agent")}} header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092512Z" creationid="gitnacho" creationdate="20221012T092512Z">
-        <seg>&gt; **Nota:** Actualmente, los servidores obtienen la mayor parte de la misma información analizando el encabezado {{HTTPHeader("User-Agent")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105346Z" creationid="gitnacho" creationdate="20221012T092512Z">
+        <seg>&gt; **Nota:** Actualmente, los servidores obtienen la mayor parte de la misma información analizando la cabecera {{HTTPHeader("User-Agent")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32246,8 +32246,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** When responding to a [credentialed requests](#requests_with_credentials) request, the server **must** specify an origin in the value of the `Access-Control-Allow-Origin` header, instead of specifying the "`*`" wildcard.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222256Z" creationid="gitnacho" creationdate="20221011T222256Z">
-        <seg>&gt; **Nota:** Al responder a una solicitud de [solicitudes con credenciales](#solicitudes_con_credenciales), el servidor **debe** especificar un origen en el valor del encabezado `Access-Control-Allow-Origin`, en lugar de especificar el comodín "`*`".</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105439Z" creationid="gitnacho" creationdate="20221011T222256Z">
+        <seg>&gt; **Nota:** Al responder a una solicitud de [solicitudes con credenciales](#solicitudes_con_credenciales), el servidor **debe** especificar un origen en el valor de la cabecera `Access-Control-Allow-Origin`, en lugar de especificar el comodín "`*`".</seg>
       </tuv>
     </tu>
     <tu>
@@ -33595,8 +33595,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>A server specifies the client hint headers that it is interested in getting in the `Accept-CH` response header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091947Z" creationid="gitnacho" creationdate="20221012T091947Z">
-        <seg>Un servidor especifica los encabezados de sugerencia del cliente que está interesado en obtener en el encabezado de respuesta `Accept-CH`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105320Z" creationid="gitnacho" creationdate="20221012T091947Z">
+        <seg>Un servidor especifica los encabezados de sugerencia del cliente que está interesado en obtener en la cabecera de respuesta `Accept-CH`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35784,8 +35784,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>But if a request does include a credential (like the `Cookie` header) and the response includes an actual origin rather than the wildcard (like, for example, `Access-Control-Allow-Origin: https://example.com`), then the browser will allow access to the response from the specified origin.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T152837Z" creationid="gitnacho" creationdate="20221012T053358Z">
-        <seg>Pero si una solicitud incluye una credencial (como el encabezado `Cookie`) y la respuesta incluye un origen real en lugar del comodín (como, por ejemplo, `Access-Control-Allow-Origin: https://ejemplo.com`), entonces el navegador permitirá el acceso a la respuesta desde el origen especificado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105635Z" creationid="gitnacho" creationdate="20221012T053358Z">
+        <seg>Pero si una solicitud incluye una credencial (como la cabecera `Cookie`) y la respuesta incluye un origen real en lugar del comodín (como, por ejemplo, `Access-Control-Allow-Origin: https://ejemplo.com`), entonces el navegador permitirá el acceso a la respuesta desde el origen especificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39778,8 +39778,8 @@ la aplicación.</seg>
       <tuv lang="en-US">
         <seg>However, if the request is one that triggers a preflight due to the presence of the `Authorization` header in the request, you won't be able to work around the limitation using the steps above.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225913Z" creationid="gitnacho" creationdate="20221011T225913Z">
-        <seg>Sin embargo, si la solicitud desencadena una verificación previa debido a la presencia del encabezado "Authorization" en la solicitud, no podrás evitar la limitación siguiendo los pasos anteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105528Z" creationid="gitnacho" creationdate="20221011T225913Z">
+        <seg>Sin embargo, si la solicitud desencadena una verificación previa debido a la presencia de la cabecera "Authorization" en la solicitud, no podrás evitar la limitación siguiendo los pasos anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52250,8 +52250,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The request header of note is {{HTTPHeader("Origin")}}, which shows that the invocation is coming from `https://foo.example`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222051Z" creationid="gitnacho" creationdate="20221011T222051Z">
-        <seg>El encabezado de solicitud de la nota es {{HTTPHeader("Origin")}}, lo que muestra que la invocación proviene de `https://foo.example`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105425Z" creationid="gitnacho" creationdate="20221011T222051Z">
+        <seg>La cabecera de solicitud de la nota es {{HTTPHeader("Origin")}}, lo que muestra que la invocación proviene de `https://foo.example`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52954,16 +52954,16 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Headers")}} header notifies the server that when the actual request is sent, it will do so with `X-PINGOTHER` and `Content-Type` custom headers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222935Z" creationid="gitnacho" creationdate="20221011T222935Z">
-        <seg>El encabezado {{HTTPHeader("Access-Control-Request-Headers")}} notifica al servidor que cuando se envíe la solicitud real, lo hará con los encabezados personalizados `X-PINGOTHER` y `Content-Type`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105511Z" creationid="gitnacho" creationdate="20221011T222935Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} notifica al servidor que cuando se envíe la solicitud real, lo hará con los encabezados personalizados `X-PINGOTHER` y `Content-Type`.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Method")}} header notifies the server as part of a preflight request that when the actual request is sent, it will do so with a `POST` request method.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222918Z" creationid="gitnacho" creationdate="20221011T222918Z">
-        <seg>El encabezado {{HTTPHeader("Access-Control-Request-Method")}} notifica al servidor como parte de una solicitud de preverificación que cuando se envíe la solicitud real, lo hará con un método de solicitud `POST`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105459Z" creationid="gitnacho" creationdate="20221011T222918Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Method")}} notifica al servidor como parte de una solicitud de preverificación que cuando se envíe la solicitud real, lo hará con un método de solicitud `POST`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53998,8 +53998,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>They may be sent by default on every client request, irrespective of the server `Accept-CH` response header, depending on the permission policy.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092145Z" creationid="gitnacho" creationdate="20221012T092145Z">
-        <seg>Se pueden enviar de forma predeterminada en cada solicitud del cliente, independientemente del encabezado de respuesta "Accept-CH" del servidor, según la política de permisos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105334Z" creationid="gitnacho" creationdate="20221012T092145Z">
+        <seg>Se pueden enviar de forma predeterminada en cada solicitud del cliente, independientemente de la cabecera de respuesta "Accept-CH" del servidor, según la política de permisos.</seg>
       </tuv>
     </tu>
     <tu>
