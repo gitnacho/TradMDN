@@ -51741,8 +51741,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The matching is done via URL and various headers, just like with normal HTTP requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035341Z" creationid="gitnacho" creationdate="20220921T035341Z">
-        <seg>La coincidencia se realiza a través de URL y varios encabezados, al igual que con las solicitudes HTTP normales.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T112801Z" creationid="gitnacho" creationdate="20220921T035341Z">
+        <seg>La coincidencia se realiza a través de URL y varias cabeceras, al igual que con las solicitudes HTTP normales.</seg>
       </tuv>
     </tu>
     <tu>
