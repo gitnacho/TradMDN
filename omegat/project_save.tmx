@@ -9532,8 +9532,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Sets the value of the {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header sent in preloading requests and returns an empty {{jsxref("Promise")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T205236Z">
-        <seg>- : Establece el valor del encabezado HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} que se envía en las solicitudes de precarga y devuelve una {{JSxRef("Promise")}} vacía.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104818Z" creationid="gitnacho" creationdate="20220922T205236Z">
+        <seg>- : Establece el valor de la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} que se envía en las solicitudes de precarga y devuelve una {{JSxRef("Promise")}} vacía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12438,8 +12438,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- If your service worker is active on a client being served with the `Service-Worker-Allowed` header, you can specify a list of max scopes for that worker.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053157Z" creationid="gitnacho" creationdate="20220921T031504Z">
-        <seg>- Si tu *service worker* está activo en un cliente al que se atiende con el encabezado `Service-Worker-Allowed`, puedes especificar una lista de alcances máximos para ese *worker*.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104709Z" creationid="gitnacho" creationdate="20220921T031504Z">
+        <seg>- Si tu *service worker* está activo en un cliente al que se atiende con la cabecera `Service-Worker-Allowed`, puedes especificar una lista de alcances máximos para ese *worker*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18582,16 +18582,16 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `no-referrer-when-downgrade`: The {{HTTPHeader("Referer")}} header will not be sent to {{Glossary("origin")}}s without {{Glossary("TLS")}} ({{Glossary("HTTPS")}}).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125456Z" creationid="gitnacho" creationdate="20221003T125456Z">
-        <seg>- `no-referrer-when-downgrade`: el encabezado {{HTTPHeader("Referer")}} no se enviará a {{Glossary("origin")}} sin {{Glossary("TLS")}} ({{Glossary("HTTPS")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105029Z" creationid="gitnacho" creationdate="20221003T125456Z">
+        <seg>- `no-referrer-when-downgrade`: la cabecera {{HTTPHeader("Referer")}} no se enviará a {{Glossary("origin")}} sin {{Glossary("TLS")}} ({{Glossary("HTTPS")}}).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- `no-referrer`: The {{HTTPHeader("Referer")}} header will not be sent.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125414Z" creationid="gitnacho" creationdate="20221003T125414Z">
-        <seg>- `no-referrer`: No se enviará el encabezado {{HTTPHeader("Referer")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105007Z" creationid="gitnacho" creationdate="20221003T125414Z">
+        <seg>- `no-referrer`: No se enviará la cabecera {{HTTPHeader("Referer")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33579,16 +33579,16 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>A server can replace the set of client hints it is interested in receiving by resending the `Accept-CH` response header with a new list.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092038Z" creationid="gitnacho" creationdate="20221012T092038Z">
-        <seg>Un servidor puede reemplazar el conjunto de sugerencias de clientes en que está interesado recibir al reenviar el encabezado de respuesta `Accept-CH` con una nueva lista.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105305Z" creationid="gitnacho" creationdate="20221012T092038Z">
+        <seg>Un servidor puede reemplazar el conjunto de sugerencias de clientes en que está interesado recibir al reenviar la cabecera de respuesta `Accept-CH` con una nueva lista.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A server must announce that it supports client hints, using the {{HTTPHeader("Accept-CH")}} header to specify the hints that it is interested in receiving.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091437Z" creationid="gitnacho" creationdate="20221012T091437Z">
-        <seg>Un servidor debe anunciar que admite sugerencias de clientes, utilizando el encabezado {{HTTPHeader("Accept-CH")}} para especificar las sugerencias que le interesa recibir.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105135Z" creationid="gitnacho" creationdate="20221012T091437Z">
+        <seg>Un servidor debe anunciar que admite sugerencias de clientes, utilizando la cabecera {{HTTPHeader("Accept-CH")}} para especificar las sugerencias que le interesa recibir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36370,8 +36370,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Client hints that determine which resources are sent in responses should generally also be included in the affected response's {{HTTPHeader("Vary")}} header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091754Z" creationid="gitnacho" creationdate="20221012T091754Z">
-        <seg>Las sugerencias del cliente que determinan qué recursos se envían en las respuestas generalmente también se deben incluir en el encabezado {{HTTPHeader("Vary")}} de la respuesta afectada.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105217Z" creationid="gitnacho" creationdate="20221012T091754Z">
+        <seg>Las sugerencias del cliente que determinan qué recursos se envían en las respuestas generalmente también se deben incluir en la cabecera{{HTTPHeader("Vary")}} de la respuesta afectada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50377,8 +50377,8 @@ names custom section, for example:</seg>
       <tuv lang="en-US">
         <seg>The browser sends the HTTP header {{HTTPHeader("Service-Worker-Navigation-Preload")}} with preload requests, with a default directive value of `true`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210723Z" creationid="gitnacho" creationdate="20220922T210723Z">
-        <seg>El navegador envía el encabezado HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} con solicitudes de precarga, con un valor de directiva predeterminado en `true`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104920Z" creationid="gitnacho" creationdate="20220922T210723Z">
+        <seg>El navegador envía la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} con solicitudes de precarga, con un valor de directiva predeterminado en `true`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51476,8 +51476,8 @@ detalles en la consola:</seg>
       <tuv lang="en-US">
         <seg>The header value can be changed to any other string value using {{domxref("NavigationPreloadManager.setHeaderValue()")}} in order to provide additional context for the prefetch operation.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T210836Z">
-        <seg>El valor del encabezado se puede cambiar a cualquier otro valor de cadena usando {{DOMxRef("NavigationPreloadManager.setHeaderValue()")}} para proporcionar contexto adicional para la operación de precarga.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104941Z" creationid="gitnacho" creationdate="20220922T210836Z">
+        <seg>El valor de la cabecera se puede cambiar a cualquier otro valor de cadena usando {{DOMxRef("NavigationPreloadManager.setHeaderValue()")}} para proporcionar contexto adicional para la operación de precarga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52086,8 +52086,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The preload manager sends the {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header with preload requests, allowing responses to be customized for preload requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T205945Z" creationid="gitnacho" creationdate="20220922T205945Z">
-        <seg>El administrador de precarga envía el encabezado HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} con las solicitudes de precarga, lo que permite personalizar las respuestas para las solicitudes de precarga.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104840Z" creationid="gitnacho" creationdate="20220922T205945Z">
+        <seg>El administrador de precarga envía la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} con las solicitudes de precarga, lo que permite personalizar las respuestas para las solicitudes de precarga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54779,8 +54779,8 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       <tuv lang="en-US">
         <seg>This ensures that a different resource is cached for every different value of the hint header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091805Z" creationid="gitnacho" creationdate="20221012T091805Z">
-        <seg>Esto garantiza que se almacene en caché un recurso diferente para cada valor diferente del encabezado de sugerencia.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105247Z" creationid="gitnacho" creationdate="20221012T091805Z">
+        <seg>Esto garantiza que se almacene en caché un recurso diferente para cada valor diferente de la cabecera de sugerencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59087,8 +59087,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When a client that supports client hints receives the `Accept-CH` header it can choose to append some or all of the listed client hint headers in its subsequent requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091457Z" creationid="gitnacho" creationdate="20221012T091457Z">
-        <seg>Cuando un cliente que admite sugerencias de clientes recibe el encabezado `Accept-CH`, puede optar por agregar algunos o todos los encabezados de sugerencias de cliente enumerados en sus solicitudes posteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105151Z" creationid="gitnacho" creationdate="20221012T091457Z">
+        <seg>Cuando un cliente que admite sugerencias de clientes recibe la cabecera `Accept-CH`, puede optar por agregar algunos o todos los encabezados de sugerencias de cliente enumerados en sus solicitudes posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60314,8 +60314,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
         <seg>You can use {{domxref("NavigationPreloadManager.getState()")}} to check whether navigation preloading is enabled and to determine what directive value is sent with the
 {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header for preload requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T211150Z">
-        <seg>Puedes usar {{DOMxRef("NavigationPreloadManager.getState()")}} para verificar si la precarga de navegación está habilitada y determinar qué valor de directiva se envía con el encabezado HTTP
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104602Z" creationid="gitnacho" creationdate="20220922T211150Z">
+        <seg>Puedes usar {{DOMxRef("NavigationPreloadManager.getState()")}} para verificar si la precarga de navegación está habilitada y determinar qué valor de directiva se envía con la cabecera HTTP
 {{HTTPHeader("Service-Worker-Navigation-Preload")}} para solicitudes de precarga.</seg>
       </tuv>
     </tu>
@@ -60475,8 +60475,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You may also use the [Client Hints](/en-US/docs/Web/HTTP/Client_hints) HTTP Header with the `Device-Memory` directive to retrieve the same approximate RAM capacity.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T095418Z" creationid="gitnacho" creationdate="20221012T095418Z">
-        <seg>También puede usar el encabezado HTTP [Client Hints](/es/docs/Web/HTTP/Client_hints) con la directiva `Device-Memory` para recuperar la misma capacidad de RAM aproximada.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104759Z" creationid="gitnacho" creationdate="20221012T095418Z">
+        <seg>También puede usar la cabecera HTTP [Client Hints](/es/docs/Web/HTTP/Client_hints) con la directiva `Device-Memory` para recuperar la misma capacidad de RAM aproximada.</seg>
       </tuv>
     </tu>
     <tu>
