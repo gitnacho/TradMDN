@@ -48512,8 +48512,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Such headers are not part of HTTP/1.1, but are generally useful to web applications.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222630Z" creationid="gitnacho" creationdate="20221011T222630Z">
-        <seg>Dichos encabezados no forman parte de HTTP/1.1, pero generalmente son útiles para las aplicaciones web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213418Z" creationid="gitnacho" creationdate="20221011T222630Z">
+        <seg>Dichas cabeceras no forman parte de HTTP/1.1, pero generalmente son útiles para las aplicaciones web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56074,8 +56074,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This operation performs a simple exchange between the client and the server, using CORS headers to handle the privileges:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222028Z" creationid="gitnacho" creationdate="20221011T222014Z">
-        <seg>Esta operación realiza un intercambio simple entre el cliente y el servidor, utilizando encabezados CORS para manejar los privilegios:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213335Z" creationid="gitnacho" creationdate="20221011T222014Z">
+        <seg>Esta operación realiza un intercambio simple entre el cliente y el servidor, utilizando cabeceras CORS para manejar los privilegios:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56130,8 +56130,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This pattern of the {{HTTPHeader("Origin")}} and {{HTTPHeader("Access-Control-Allow-Origin")}} headers is the simplest use of the access control protocol.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222152Z" creationid="gitnacho" creationdate="20221011T222152Z">
-        <seg>Este patrón de los encabezados {{HTTPHeader("Origin")}} y {{HTTPHeader("Access-Control-Allow-Origin")}} es el uso más simple del protocolo de control de acceso.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213351Z" creationid="gitnacho" creationdate="20221011T222152Z">
+        <seg>Este patrón de las cabeceras {{HTTPHeader("Origin")}} y {{HTTPHeader("Access-Control-Allow-Origin")}} es el uso más simple del protocolo de control de acceso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59053,12 +59053,12 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
 &gt;
 &gt; No other browsers implement these extra restrictions because they're not part of the spec.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T221210Z" creationid="gitnacho" creationdate="20221011T221210Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213246Z" creationid="gitnacho" creationdate="20221011T221210Z">
         <seg>Los valores que WebKit/Safari consideran "no estándar" no están documentados, excepto en los siguientes errores de WebKit:
 &gt;
-&gt; - [Requerir verificación previa para encabezados de solicitud incluidos en la lista segura de CORS no estándar Aceptar, Aceptar idioma y Contenido-idioma](https://bugs.webkit.org/show_bug.cgi?id=165178)
-&gt; - [Permitir comas en los encabezados de solicitud Accept, Accept-Language y Content-Language para CORS simple](https://bugs.webkit.org/show_bug.cgi?id=165566)
-&gt; - [Cambiar a un modelo de lista negra para aceptar encabezados restringidos en solicitudes CORS simples](https://bugs.webkit.org/show_bug.cgi?id=166363)
+&gt; - [Requerir verificación previa para cabeceras de solicitud incluidos en la lista segura de CORS no estándar Accept, Accept-Language y Content-Language](https://bugs.webkit.org/show_bug.cgi?id=165178)
+&gt; - [Permitir comas en las cabeceras de solicitud Accept, Accept-Language y Content-Language para CORS simple](https://bugs.webkit.org/show_bug.cgi?id=165566)
+&gt; - [Cambiar a un modelo de lista negra para aceptar cabeceras restringidas en solicitudes CORS simples](https://bugs.webkit.org/show_bug.cgi?id=166363)
 &gt;
 &gt; Ningún otro navegador implementa estas restricciones adicionales porque no son parte de la especificación.</seg>
       </tuv>
