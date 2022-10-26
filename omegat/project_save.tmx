@@ -15800,6 +15800,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Improving user privacy and developer experience with User-Agent Client Hints](https://web.dev/user-agent-client-hints/)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T211913Z" creationid="Nachec" creationdate="20221026T211913Z">
+        <seg>- [Mejorar la privacidad del usuario y la experiencia del desarrollador con sugerencias del agente de usuario cliente](https://web.dev/user-agent-client-hints/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Installing basic software](/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042546Z" creationid="gitnacho" creationdate="20220925T042443Z">
@@ -49344,6 +49352,16 @@ of the service worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T071406Z" creationid="gitnacho" creationdate="20221020T071406Z">
         <seg>El método prototipo **`type()`** del objeto [`Tag`](/es/docs/WebAssembly/JavaScript_interface/Tag) se puede usar para obtener la secuencia de tipos de datos asociados con la etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **`userAgentData`** read-only property of the {{domxref("Navigator")}} interface returns a {{domxref("NavigatorUAData")}} object
+which can be used to access the {{domxref("User-Agent Client Hints API")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T211801Z" creationid="Nachec" creationdate="20221026T211801Z">
+        <seg>La propiedad de solo lectura **`userAgentData`** de la interfaz {{domxref("Navigator")}} devuelve un objeto {{domxref("NavigatorUAData")}}
+que se puede utilizar para acceder a {{domxref("User-Agent Client Hints API")}}.</seg>
       </tuv>
     </tu>
     <tu>
