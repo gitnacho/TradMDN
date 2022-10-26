@@ -13614,9 +13614,8 @@ browser-compat: api.NavigationPreloadManager
         <seg>- Site-wide
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221005T064438Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T015420Z" creationid="gitnacho" creationdate="20221005T064438Z">
         <seg>- Site-wide
-  - En todo el sitio
 ---</seg>
       </tuv>
     </tu>
@@ -23170,11 +23169,11 @@ title: KumaScript
 slug: MDN/Tools/KumaScript
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193055Z" creationid="gitnacho" creationdate="20221005T064416Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T015413Z" creationid="gitnacho" creationdate="20221005T064416Z">
         <seg>---
 title: KumaScript
 slug: MDN/Tools/KumaScript
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
