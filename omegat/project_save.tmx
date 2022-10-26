@@ -17507,6 +17507,30 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- \\{{Deprecated_header}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T090441Z" creationid="Nachec" creationdate="20221026T090441Z">
+        <seg>- \\{{Deprecated_header}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- \\{{Non-standard_header}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T090450Z" creationid="Nachec" creationdate="20221026T090450Z">
+        <seg>- \\{{Non-standard_header}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- \\{{SeeCompatTable}} for an experimental feature (i.e. the spec is not at the CR level.)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T090437Z" creationid="Nachec" creationdate="20221026T090437Z">
+        <seg>- \\{{SeeCompatTable}} para una característica experimental (es decir, la especificación no está en el nivel CR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- _largeop_: The operator is drawn with a bigger glyph if the `&lt;math&gt;` tag has a `display="block"` attribute.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105916Z" creationid="Nachec" creationdate="20221021T105916Z">
