@@ -18871,8 +18871,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `strict-origin-when-cross-origin` (default): Send a full URL when performing a same-origin request, only send the origin when the protocol security level stays the same (HTTPS→HTTPS), and send no header to a less secure destination (HTTPS→HTTP).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130050Z" creationid="gitnacho" creationdate="20221003T130050Z">
-        <seg>- `strict-origin-when-cross-origin` (predeterminado): Envía una URL completa cuando realice una solicitud del mismo origen, solo envía el origen cuando el nivel de seguridad del protocolo permanezca igual (HTTPS→HTTPS), y no envía ningún encabezado a un destino menos seguro (HTTPS→HTTP).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T183721Z" creationid="gitnacho" creationdate="20221003T130050Z">
+        <seg>- `strict-origin-when-cross-origin` (predeterminado): Envía una URL completa cuando realice una solicitud del mismo origen, solo envía el origen cuando el nivel de seguridad del protocolo permanezca igual (HTTPS→HTTPS), y no envía ninguna cabecera a un destino menos seguro (HTTPS→HTTP).</seg>
       </tuv>
     </tu>
     <tu>
