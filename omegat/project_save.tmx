@@ -15333,12 +15333,12 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [User Agent Client Hints API](/en-US/docs/Web/API/User-Agent_Client_Hints_API)
 - [Improving user privacy and developer experience with User-Agent Client Hints](https://web.dev/user-agent-client-hints/) (web.dev)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092901Z" creationid="gitnacho" creationdate="20221012T092901Z">
-        <seg>- [Encabezados de sugerencias de cliente](/es/docs/Web/HTTP/Headers#client_hints)
-- [Encabezado HTTP `Vary`](/es/docs/Web/HTTP/Headers/Vary)
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212751Z" creationid="gitnacho" creationdate="20221012T092901Z">
+        <seg>- [Cabeceras de sugerencia del cliente](/es/docs/Web/HTTP/Headers#client_hints)
+- [Cabecera HTTP `Vary`](/es/docs/Web/HTTP/Headers/Vary)
 - [Infraestructura de sugerencias de cliente](https://wicg.github.io/client-hints-infrastructure/)
 - [API de sugerencias de cliente de agente de usuario](/es/docs/Web/API/User-Agent_Client_Hints_API)
-- [Mejora de la privacidad del usuario y la experiencia del desarrollador con sugerencias de cliente de agente de usuario](https://web.dev/user-agent-client-hints/) (web.dev)</seg>
+- [Mejorar la privacidad del usuario y la experiencia del desarrollador con sugerencias del agente de usuario cliente](https://web.dev/user-agent-client-hints/) (web.dev)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39404,24 +39404,24 @@ Connection: Keep-Alive
       <tuv lang="en-US">
         <seg>Headers include: {{HTTPHeader("Device-Memory")}}, {{HTTPHeader("DPR")}}, {{HTTPHeader("Width")}}, {{HTTPHeader("Viewport-Width")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092717Z" creationid="gitnacho" creationdate="20221012T092717Z">
-        <seg>Los encabezados incluyen: {{HTTPHeader("Device-Memory")}}, {{HTTPHeader("DPR")}}, {{HTTPHeader("Width")}}, {{HTTPHeader("Viewport-Width")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212527Z" creationid="gitnacho" creationdate="20221012T092717Z">
+        <seg>Las cabeceras incluyen: {{HTTPHeader("Device-Memory")}}, {{HTTPHeader("DPR")}}, {{HTTPHeader("Width")}}, {{HTTPHeader("Viewport-Width")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Headers include: {{HTTPHeader("Save-Data")}}, {{HTTPHeader("Downlink")}}, {{HTTPHeader("ECT")}}, {{HTTPHeader("RTT")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092759Z" creationid="gitnacho" creationdate="20221012T092759Z">
-        <seg>Los encabezados incluyen: {{HTTPHeader("Save-Data")}}, {{HTTPHeader("Downlink")}}, {{HTTPHeader("ECT")}}, {{HTTPHeader("RTT")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212548Z" creationid="gitnacho" creationdate="20221012T092759Z">
+        <seg>Las cabeceras incluyen: {{HTTPHeader("Save-Data")}}, {{HTTPHeader("Downlink")}}, {{HTTPHeader("ECT")}}, {{HTTPHeader("RTT")}}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Headers include: {{HTTPHeader("Sec-CH-UA")}}, {{HTTPHeader("Sec-CH-UA-Arch")}}, {{HTTPHeader("Sec-CH-UA-Bitness")}}, {{HTTPHeader("Sec-CH-UA-Full-Version-List")}}, {{HTTPHeader("Sec-CH-UA-Full-Version")}}, {{HTTPHeader("Sec-CH-UA-Mobile")}}, {{HTTPHeader("Sec-CH-UA-Model")}}, {{HTTPHeader("Sec-CH-UA-Platform")}}, and {{HTTPHeader("Sec-CH-UA-Platform-Version")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T093158Z" creationid="gitnacho" creationdate="20221012T092429Z">
-        <seg>Los encabezados incluyen: {{HTTPHeader("Sec-CH-UA")}}, {{HTTPHeader("Sec-CH-UA-Arch")}}, {{HTTPHeader("Sec-CH-UA-Bitness")}}, {{HTTPHeader("Sec-CH-UA-Full-Version-List")}}, {{HTTPHeader("Sec-CH-UA-Full-Version")}}, {{HTTPHeader("Sec-CH -UA-Mobile")}}, {{HTTPHeader("Sec-CH-UA-Model")}}, {{HTTPHeader("Sec-CH-UA-Platform")}} y {{HTTPHeader("Sec-CH-UA-Platform-Version")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212510Z" creationid="gitnacho" creationdate="20221012T092429Z">
+        <seg>Las cabeceras incluyen: {{HTTPHeader("Sec-CH-UA")}}, {{HTTPHeader("Sec-CH-UA-Arch")}}, {{HTTPHeader("Sec-CH-UA-Bitness")}}, {{HTTPHeader("Sec-CH-UA-Full-Version-List")}}, {{HTTPHeader("Sec-CH-UA-Full-Version")}}, {{HTTPHeader("Sec-CH -UA-Mobile")}}, {{HTTPHeader("Sec-CH-UA-Model")}}, {{HTTPHeader("Sec-CH-UA-Platform")}} y {{HTTPHeader("Sec-CH-UA-Platform-Version")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41907,8 +41907,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T212844Z" creationid="gitnacho" creationdate="20221011T212844Z">
-        <seg>En esa verificación previa, el navegador envía encabezados que indican el método HTTP y los encabezados que se utilizarán en la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212618Z" creationid="gitnacho" creationdate="20221011T212844Z">
+        <seg>En esa verificación previa, el navegador envía cabeceras que indican el método HTTP y las cabeceras que se utilizarán en la solicitud real.</seg>
       </tuv>
     </tu>
     <tu>
