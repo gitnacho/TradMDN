@@ -11497,6 +11497,16 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Device Memory API
+browser-compat:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215343Z" creationid="Nachec" creationdate="20221026T215343Z">
+        <seg>- Device Memory API
+browser-compat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Dictionary</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231414Z" creationid="Nachec" creationdate="20221022T170106Z">
@@ -19159,6 +19169,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- api.Navigator.deviceMemory</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215344Z" creationid="Nachec" creationdate="20221026T215344Z">
+        <seg>- api.Navigator.deviceMemory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- assembly</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182421Z" creationid="gitnacho" creationdate="20221007T182421Z">
@@ -19380,6 +19398,16 @@ browser-compat: javascript.builtins.WebAssembly.Module.exports
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T074019Z" creationid="gitnacho" creationdate="20221012T074019Z">
         <seg>- header</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- http.headers.Device-Memory
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215345Z" creationid="Nachec" creationdate="20221026T215345Z">
+        <seg>- http.headers.Device-Memory
+---</seg>
       </tuv>
     </tu>
     <tu>
@@ -22695,6 +22723,23 @@ tags:</seg>
         <seg>---
 title: Manejo de archivos
 slug: Learn/Getting_started_with_the_web/Dealing_with_files
+rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Device Memory API
+slug: Web/API/Device_Memory_API
+page-type: web-api-overview
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215342Z" creationid="Nachec" creationdate="20221026T215342Z">
+        <seg>---
+title: API de Device Memory
+slug: Web/API/Device_Memory_API
+page-type: web-api-overview
 rue: Nachec✓
 tags:</seg>
       </tuv>
@@ -50411,6 +50456,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The capabilities of a client device largely depend on the amount of available RAM. Traditionally, developers had to use heuristics and either benchmark a device or infer device capabilities based on other factors like the device manufacturer or User Agent strings.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215422Z" creationid="Nachec" creationdate="20221026T215422Z">
+        <seg>Las capacidades de un dispositivo cliente dependen en gran medida de la cantidad de RAM disponible. Tradicionalmente, los desarrolladores tenían que usar heurística y comparar un dispositivo o inferir las capacidades del dispositivo en función de otros factores, como el fabricante del dispositivo o las cadenas de agente de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The case study tutorials at the end of the second and third modules prepare you for grasping the essentials of modern tooling.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T225333Z" creationid="gitnacho" creationdate="20221018T225333Z">
@@ -74710,6 +74763,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T225436Z" creationid="gitnacho" creationdate="20220921T225436Z">
         <seg>{{Compat}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{DefaultAPISidebar("Device Memory API")}}{{securecontext_header}}{{SeeCompatTable}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215351Z" creationid="Nachec" creationdate="20221026T215351Z">
+        <seg>{{DefaultAPISidebar("Device Memory API")}}{{securecontext_header}}{{SeeCompatTable}}</seg>
       </tuv>
     </tu>
     <tu>
