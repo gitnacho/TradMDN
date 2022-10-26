@@ -5086,8 +5086,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>#### Callouts</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181927Z" creationid="gitnacho" creationdate="20221008T181927Z">
-        <seg>#### Llamadas</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T032911Z" creationid="gitnacho" creationdate="20221008T181927Z">
+        <seg>#### Observaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -31333,6 +31333,30 @@ i32.mul</seg>
         <seg>&gt; **Observación:**
 &gt;
 &gt; [Descarga el punto de partida para esta tarea](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/html/html-a11y1-download.html) para trabajar en tu propio editor o en un editor en línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Callout:**
+&gt;
+&gt; [Download the starting point for this task](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/html/html-a11y2-download.html) to work in your own editor or in an online editor.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T033017Z" creationid="Nachec" creationdate="20221026T033017Z">
+        <seg>&gt; **Observación:**
+&gt;
+&gt; [Descarga el punto de partida para esta tarea](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/html/html-a11y2-download.html) para trabajar en tu propio editor o en un editor en línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Callout:**
+&gt;
+&gt; [Download the starting point for this task](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/html/html-a11y3-download.html) to work in your own editor or in an online editor.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T033141Z" creationid="Nachec" creationdate="20221026T033141Z">
+        <seg>&gt; **Observación:**
+&gt;
+&gt; [Descarga el punto de partida para esta tarea](https://github.com/mdn/learning-area/blob/main/accessibility/tasks/html-css/html/html-a11y3-download.html) para trabajar en tu propio editor o en un editor en línea.</seg>
       </tuv>
     </tu>
     <tu>
