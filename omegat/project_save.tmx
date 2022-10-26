@@ -52496,8 +52496,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The set of "hint" headers are listed in the topic [HTTP Headers](/en-US/docs/Web/HTTP/Headers#client_hints) and [summarized below](#hint_types).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212112Z" creationid="gitnacho" creationdate="20221012T085223Z">
-        <seg>El conjunto de "sugerencia" de cabeceras se enumera en el tema [Cabeceras HTTP](/es/docs/Web/HTTP/Headers#sugerencias_del_cliente) y a continuación se hace un [resumen](#sugerencias_del_cliente) de ellas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215112Z" creationid="gitnacho" creationdate="20221012T085223Z">
+        <seg>El conjunto de cabeceras de "sugerencia" se enumera en el tema [Cabeceras HTTP](/es/docs/Web/HTTP/Headers#sugerencias_del_cliente) y a continuación se hace un [resumen](#sugerencias_del_cliente) de ellas.</seg>
       </tuv>
     </tu>
     <tu>
