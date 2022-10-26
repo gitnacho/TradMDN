@@ -3150,8 +3150,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Client Hints</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T095313Z" creationid="gitnacho" creationdate="20221012T095313Z">
-        <seg>### Sugerencias para el cliente</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T190730Z" creationid="gitnacho" creationdate="20221012T095313Z">
+        <seg>### Sugerencias del cliente</seg>
       </tuv>
     </tu>
     <tu>
@@ -60469,8 +60469,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You may also use the [Client Hints](/en-US/docs/Web/HTTP/Client_hints) HTTP Header with the `Device-Memory` directive to retrieve the same approximate RAM capacity.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104759Z" creationid="gitnacho" creationdate="20221012T095418Z">
-        <seg>También puede usar la cabecera HTTP [Client Hints](/es/docs/Web/HTTP/Client_hints) con la directiva `Device-Memory` para recuperar la misma capacidad de RAM aproximada.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T204428Z" creationid="gitnacho" creationdate="20221012T095418Z">
+        <seg>También puedes usar la cabecera HTTP [Client Hints](/es/docs/Web/HTTP/Client_hints) con la directiva `Device-Memory` para recuperar aproximadamente la misma capacidad de RAM.</seg>
       </tuv>
     </tu>
     <tu>
