@@ -1424,6 +1424,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Determining device memory</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215428Z" creationid="Nachec" creationdate="20221026T215428Z">
+        <seg>## Determinar la memoria del dispositivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Developer tools</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T042146Z" creationid="gitnacho" creationdate="20220921T042146Z">
@@ -20163,6 +20171,16 @@ browser-compat: api.Document.timeline
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- {{DOMxRef("Navigator.deviceMemory")}}
+- {{HTTPHeader("Device-Memory")}} header</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215555Z" creationid="Nachec" creationdate="20221026T215555Z">
+        <seg>- {{DOMxRef("Navigator.deviceMemory")}}
+- La cabecera {{HTTPHeader("Device-Memory")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- {{DOMxRef("Navigator.serviceWorker")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T151507Z" creationid="gitnacho" creationdate="20221002T151507Z">
@@ -22735,9 +22753,9 @@ slug: Web/API/Device_Memory_API
 page-type: web-api-overview
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215342Z" creationid="Nachec" creationdate="20221026T215342Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215641Z" creationid="Nachec" creationdate="20221026T215342Z">
         <seg>---
-title: API de Device Memory
+title: API Device Memory
 slug: Web/API/Device_Memory_API
 page-type: web-api-overview
 rue: Nachec✓
@@ -53455,8 +53473,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>There are two ways to determine the approximate amount of RAM a device has: use the Device Memory JavaScript API or accept Client Hints.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T104600Z" creationid="gitnacho" creationdate="20221012T095216Z">
-        <seg>Hay dos formas de determinar la cantidad aproximada de RAM que tiene un dispositivo: usar la API *Device Memory* de JavaScript o aceptar las sugerencias del cliente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215455Z" creationid="gitnacho" creationdate="20221012T095216Z">
+        <seg>Hay dos formas de determinar la cantidad aproximada de RAM que tiene un dispositivo: usar la API `Device Memory` de JavaScript o aceptar las sugerencias del cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60574,6 +60592,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212317Z" creationid="gitnacho" creationdate="20221012T091831Z">
         <seg>Es posible que prefieras omitir la especificación de {{HTTPHeader("Vary")}} o usar alguna otra estrategia para las cabeceras de sugerencia de cliente donde el valor cambia mucho, ya que esto hace que el recurso no se pueda almacenar en caché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may query the approximate amount of RAM a device has by retrieving {{DOMxRef("Navigator.deviceMemory")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215515Z" creationid="Nachec" creationdate="20221026T215515Z">
+        <seg>Puedes consultar la cantidad aproximada de RAM que tiene un dispositivo recuperando {{DOMxRef("Navigator.deviceMemory")}}</seg>
       </tuv>
     </tu>
     <tu>
