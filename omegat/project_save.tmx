@@ -71285,8 +71285,8 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       <tuv lang="en-US">
         <seg>look bad in GFM format.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185327Z" creationid="gitnacho" creationdate="20221008T185327Z">
-        <seg>se ven mal en formato GFM.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T030140Z" creationid="gitnacho" creationdate="20221008T185327Z">
+        <seg>verse mal en formato GFM.</seg>
       </tuv>
     </tu>
     <tu>
