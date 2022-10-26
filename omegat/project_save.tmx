@@ -11607,9 +11607,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Event</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T224725Z" creationid="gitnacho" creationdate="20221003T224725Z">
-        <seg>- Event
-  - Evento</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T115633Z" creationid="gitnacho" creationdate="20221003T224725Z">
+        <seg>- Event</seg>
       </tuv>
     </tu>
     <tu>
@@ -19630,9 +19629,8 @@ browser-compat: api.Worker.postMessage
 browser-compat: api.ServiceWorker.state
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T223059Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T115217Z" creationid="gitnacho" creationdate="20221003T223059Z">
         <seg>- state
-  - estado
 browser-compat: api.ServiceWorker.state
 ---</seg>
       </tuv>
@@ -21922,12 +21920,12 @@ slug: Web/API/ServiceWorker/statechange_event
 page-type: web-api-event
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193802Z" creationid="gitnacho" creationdate="20221003T224710Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T115629Z" creationid="gitnacho" creationdate="20221003T224710Z">
         <seg>---
 title: 'ServiceWorker: Evento statechange'
 slug: Web/API/ServiceWorker/statechange_event
 page-type: web-api-event
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -21939,12 +21937,12 @@ slug: Web/API/ServiceWorkerContainer/controllerchange_event
 page-type: web-api-event
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193819Z" creationid="gitnacho" creationdate="20221003T230406Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T115844Z" creationid="gitnacho" creationdate="20221003T230406Z">
         <seg>---
 title: 'ServiceWorkerContainer: Evento controllerchange'
 slug: Web/API/ServiceWorkerContainer/controllerchange_event
 page-type: web-api-event
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -23669,12 +23667,12 @@ slug: Web/API/ServiceWorker/state
 page-type: web-api-instance-property
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193725Z" creationid="gitnacho" creationdate="20221003T223030Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T115208Z" creationid="gitnacho" creationdate="20221003T223030Z">
         <seg>---
 title: ServiceWorker.state
 slug: Web/API/ServiceWorker/state
 page-type: web-api-instance-property
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -24666,12 +24664,12 @@ slug: Web/API/Worker/postMessage
 page-type: web-api-instance-method
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193853Z" creationid="gitnacho" creationdate="20221007T115206Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T120015Z" creationid="gitnacho" creationdate="20221007T115206Z">
         <seg>---
 title: Worker.postMessage()
 slug: Web/API/Worker/postMessage
 page-type: web-api-instance-method
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -49339,8 +49337,8 @@ to a different value.</seg>
 {{domxref("ServiceWorker")}} interface returns a string representing the current state
 of the service worker.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T223106Z">
-        <seg>La propiedad de solo lectura **`state`** de la interfaz {{DOMxRef("ServiceWorker")}} devuelve una cadena que representa el estado actual del *service worker*.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T115341Z" creationid="gitnacho" creationdate="20221003T223106Z">
+        <seg>La propiedad **`state`** de solo lectura de la interfaz {{DOMxRef("ServiceWorker")}} devuelve una cadena que representa el estado actual del *service worker*.</seg>
       </tuv>
     </tu>
     <tu>
