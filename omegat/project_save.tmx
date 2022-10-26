@@ -42898,8 +42898,8 @@ relevant header and serve an actual page to the user.</seg>
       <tuv lang="en-US">
         <seg>It also registers, installs, and activates a service worker, and when more of the spec is supported by browsers it will cache all the files required so it will work offline!</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T023831Z" creationid="gitnacho" creationdate="20220921T023831Z">
-        <seg>También registra, instala y activa un *service worker*, y cuando los navegadores admiten más especificaciones, almacenará en caché todos los archivos necesarios para que funcione sin conexión.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T111327Z" creationid="gitnacho" creationdate="20220921T023831Z">
+        <seg>También registra, instala y activa un *service worker*, y cuando los navegadores admitan más especificaciones, almacenará en caché todos los archivos necesarios para que funcione sin conexión.</seg>
       </tuv>
     </tu>
     <tu>
