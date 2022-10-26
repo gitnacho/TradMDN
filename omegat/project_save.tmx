@@ -13235,8 +13235,8 @@ browser-compat: javascript.builtins.Uint8ClampedArray
       <tuv lang="en-US">
         <seg>- Precede each example with an explanation of what the example does and why it's interesting or useful.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205046Z" creationid="gitnacho" creationdate="20221005T205046Z">
-        <seg>- Precede cada ejemplo con una explicación de lo que hace el ejemplo y por qué es interesante o útil.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T083803Z" creationid="gitnacho" creationdate="20221005T205046Z">
+        <seg>- Precede cada ejemplo con una explicación de lo que hace el código y por qué es interesante o útil.</seg>
       </tuv>
     </tu>
     <tu>
