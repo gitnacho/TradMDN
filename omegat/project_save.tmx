@@ -33597,8 +33597,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>A server specifies the client hint headers that it is interested in getting in the `Accept-CH` response header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105320Z" creationid="gitnacho" creationdate="20221012T091947Z">
-        <seg>Un servidor especifica los encabezados de sugerencia del cliente que está interesado en obtener en la cabecera de respuesta `Accept-CH`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212346Z" creationid="gitnacho" creationdate="20221012T091947Z">
+        <seg>Un servidor especifica las cabeceras de sugerencia del cliente que está interesado en obtener en la cabecera de respuesta `Accept-CH`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38260,8 +38260,8 @@ portales para realizar tareas de administración empresarial y herramientas de c
       <tuv lang="en-US">
         <seg>For example, following `Accept-CH` in a response below, the client could append {{HTTPHeader("Width")}}, {{HTTPHeader("Downlink")}} and {{HTTPHeader("Sec-CH-UA")}} headers to all subsequent requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091531Z" creationid="gitnacho" creationdate="20221012T091531Z">
-        <seg>Por ejemplo, después de `Accept-CH` en una respuesta a continuación, el cliente podría agregar encabezados {{HTTPHeader("Width")}}, {{HTTPHeader("Downlink")}} y {{HTTPHeader("Sec-CH-UA")}} para todas las solicitudes posteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212208Z" creationid="gitnacho" creationdate="20221012T091531Z">
+        <seg>Por ejemplo, después de `Accept-CH` en una respuesta a continuación, el cliente podría agregar cabeceras {{HTTPHeader("Width")}}, {{HTTPHeader("Downlink")}} y {{HTTPHeader("Sec-CH-UA")}} para todas las solicitudes posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52488,8 +52488,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The set of "hint" headers are listed in the topic [HTTP Headers](/en-US/docs/Web/HTTP/Headers#client_hints) and [summarized below](#hint_types).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T190208Z" creationid="gitnacho" creationdate="20221012T085223Z">
-        <seg>El conjunto de "sugerencia" de cabeceras se enumera en el tema [Cabeceras HTTP](/es/docs/Web/HTTP/Headers#sugerencias_del_cliente) y a continuación se hace un [resumen](#hint_types) de ellas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212112Z" creationid="gitnacho" creationdate="20221012T085223Z">
+        <seg>El conjunto de "sugerencia" de cabeceras se enumera en el tema [Cabeceras HTTP](/es/docs/Web/HTTP/Headers#sugerencias_del_cliente) y a continuación se hace un [resumen](#sugerencias_del_cliente) de ellas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52718,8 +52718,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The user agent appends the requested client hint headers, or at least the subset that it wants to share with that server, to all subsequent requests in the current browsing session.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092004Z" creationid="gitnacho" creationdate="20221012T092004Z">
-        <seg>El agente de usuario agrega los encabezados de sugerencia de cliente solicitados, o al menos el subconjunto que desea compartir con ese servidor, a todas las solicitudes posteriores en la sesión de navegación actual.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212423Z" creationid="gitnacho" creationdate="20221012T092004Z">
+        <seg>El agente de usuario agrega las cabeceras de sugerencia de cliente solicitadas, o al menos el subconjunto que desea compartir con ese servidor, a todas las solicitudes posteriores en la sesión de navegación actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53434,8 +53434,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>There is a small set of [low entropy client hint headers](#low_entropy_hints) that may be sent by a client event if not requested.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091642Z" creationid="gitnacho" creationdate="20221012T091642Z">
-        <seg>Hay un pequeño conjunto de [encabezados de sugerencia de cliente de baja entropía](#sugerencias_de_baja_entropía) que puede enviar un evento de cliente si no se solicita.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212256Z" creationid="gitnacho" creationdate="20221012T091642Z">
+        <seg>Hay un pequeño conjunto de [cabeceras de sugerencia del cliente de baja entropía](#sugerencias_de_baja_entropía) que puede enviar un evento de cliente si no se solicita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57812,8 +57812,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>User agent (UA) client hint headers allow a server to vary responses based on the user agent (browser), operating system, and device.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092352Z" creationid="gitnacho" creationdate="20221012T092352Z">
-        <seg>Los encabezados de sugerencia de cliente del agente de usuario (UA) permiten que un servidor varíe las respuestas según el agente de usuario (navegador), el sistema operativo y el dispositivo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212446Z" creationid="gitnacho" creationdate="20221012T092352Z">
+        <seg>Las cabeceras de sugerencia de cliente del agente de usuario (UA) permiten que un servidor varíe las respuestas según el agente de usuario (navegador), el sistema operativo y el dispositivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59099,8 +59099,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When a client that supports client hints receives the `Accept-CH` header it can choose to append some or all of the listed client hint headers in its subsequent requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105151Z" creationid="gitnacho" creationdate="20221012T091457Z">
-        <seg>Cuando un cliente que admite sugerencias de clientes recibe la cabecera `Accept-CH`, puede optar por agregar algunos o todos los encabezados de sugerencias de cliente enumerados en sus solicitudes posteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212155Z" creationid="gitnacho" creationdate="20221012T091457Z">
+        <seg>Cuando un cliente que admite sugerencias de clientes recibe la cabecera `Accept-CH`, puede optar por agregar algunos o todas las cabeceras de sugerencias del cliente enumeradas en sus solicitudes posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60511,8 +60511,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You may prefer to omit specifying {{HTTPHeader("Vary")}} or use some other strategy for client hint headers where the value changes a lot, as this effectively makes the resource uncacheable.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091831Z" creationid="gitnacho" creationdate="20221012T091831Z">
-        <seg>Es posible que prefieras omitir la especificación de {{HTTPHeader("Vary")}} o usar alguna otra estrategia para los encabezados de sugerencia de cliente donde el valor cambia mucho, ya que esto hace que el recurso no se pueda almacenar en caché.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212317Z" creationid="gitnacho" creationdate="20221012T091831Z">
+        <seg>Es posible que prefieras omitir la especificación de {{HTTPHeader("Vary")}} o usar alguna otra estrategia para las cabeceras de sugerencia de cliente donde el valor cambia mucho, ya que esto hace que el recurso no se pueda almacenar en caché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74644,6 +74644,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T224618Z" creationid="gitnacho" creationdate="20220921T224618Z">
         <seg>{{APIRef("Service Workers API")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{APIRef("User-Agent Client Hints API")}}{{SeeCompatTable}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T211922Z" creationid="Nachec" creationdate="20221026T211922Z">
+        <seg>{{APIRef("User-Agent Client Hints API")}}{{SeeCompatTable}}</seg>
       </tuv>
     </tu>
     <tu>
