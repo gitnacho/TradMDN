@@ -10883,9 +10883,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Animation</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092416Z" creationid="gitnacho" creationdate="20221002T102233Z">
-        <seg>- Animation
-  - Animación</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095948Z" creationid="gitnacho" creationdate="20221002T102233Z">
+        <seg>- Animation</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,9 +13270,8 @@ browser-compat: javascript.builtins.Uint8ClampedArray
       <tuv lang="en-US">
         <seg>- Property</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T223042Z" creationid="gitnacho" creationdate="20221003T223042Z">
-        <seg>- Property
-  - Propiedad</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095955Z" creationid="gitnacho" creationdate="20221003T223042Z">
+        <seg>- Property</seg>
       </tuv>
     </tu>
     <tu>
@@ -14561,9 +14559,8 @@ browser-compat: mathml.global_attributes
       <tuv lang="en-US">
         <seg>- Web Animations</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092436Z" creationid="gitnacho" creationdate="20221006T092436Z">
-        <seg>- Web Animations
-  - Animaciones Web</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T100004Z" creationid="gitnacho" creationdate="20221006T092436Z">
+        <seg>- Web Animations</seg>
       </tuv>
     </tu>
     <tu>
@@ -19989,9 +19986,8 @@ browser-compat: javascript.builtins.WebAssembly
 browser-compat: api.Document.timeline
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221006T092500Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T100009Z" creationid="gitnacho" creationdate="20221006T092500Z">
         <seg>- web animations api
-  - api de animaciones web
 browser-compat: api.Document.timeline
 ---</seg>
       </tuv>
