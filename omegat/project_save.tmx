@@ -27866,6 +27866,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a href="/en-US/docs/Web/HTTP/Client_hints"&gt;Client hint&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T214346Z" creationid="Nachec" creationdate="20221026T214346Z">
+        <seg>&lt;a href="/en-US/docs/Web/HTTP/Client_hints"&gt;Client hint&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a href="/en-US/docs/Web/HTTP/Headers"&gt;HTTP headers&lt;/a&gt; (/Web/HTTP/Headers).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221005T112844Z">
