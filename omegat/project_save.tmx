@@ -18685,8 +18685,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `pug` - [Pug templates](https://pugjs.org/api/getting-started.html) (which may be used by [Express](/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data/Template_primer))</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T180640Z" creationid="gitnacho" creationdate="20221008T180640Z">
-        <seg>- `pug` - [Plantillas Pug](https://pugjs.org/api/getting-started.html) (es lo puede utilizar [Express](/es/docs/Learn/Server-side/Express_Nodejs/Displaying_data/Template_primer))</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T024803Z" creationid="gitnacho" creationdate="20221008T180640Z">
+        <seg>- `pug` - [Plantillas Pug](https://pugjs.org/api/getting-started.html) (es lo que puede utilizar [Express](/es/docs/Learn/Server-side/Express_Nodejs/Displaying_data/Template_primer))</seg>
       </tuv>
     </tu>
     <tu>
