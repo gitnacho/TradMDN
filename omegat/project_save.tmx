@@ -65323,9 +65323,9 @@ La página [Números y fechas](/es/docs/Web/JavaScript/Guide/Numbers_and_dates) 
 &gt;
 &gt; It can have multiple paragraphs.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T030941Z" creationid="gitnacho" creationdate="20221008T181935Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T031505Z" creationid="gitnacho" creationdate="20221008T181935Z">
         <seg>```plain
-&gt; **Callout:** **Así es como se escribe una llamada.**
+&gt; **Observación:** **Así es como se escribe una llamada.**
 &gt;
 &gt; Puede tener varios párrafos.</seg>
       </tuv>
