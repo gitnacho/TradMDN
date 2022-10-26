@@ -4722,7 +4722,7 @@ below	inferior
 below	más abajo
 below	más adelante
 below	por debajo
-below the	line	bajo la línea	Acción publicitaria que se realiza fuera de los medios de comunicación convencionales: publicidad directa, publicidad exterior, promoción y relaciones públicas.
+below the	line	bajo la línea
 belt	cinturón
 belt	correa
 bench	banco
@@ -9447,7 +9447,6 @@ cross-platform	independiente de la plataforma
 cross-platform	multiplataforma
 crossbow	ballesta
 crossbrowser	multinavegador
-crossbrowsing	
 crossroads	cruce de caminos
 crossroads	crucero
 crossroads	encrucijada
@@ -41179,7 +41178,6 @@ media	medios
 media	medios de comunicación
 media	multimedia
 media planning	plan de medios	Consiste en la búsqueda, definición y selección de la mejor combinación de medios para lograr los objetivos de la campaña mercadológica.
-media queries	
 media queries	consultas de medios
 media-rich	rico en medios
 mediaeval	medieval
@@ -80086,3 +80084,4 @@ zygote	cigoto
 —	barra horizontal
 ⇋	C-q C-i inserta un carácter de tabulación
 ﻿`	acento grave
+callout:	observación:	En markdown es para llamar la atención
