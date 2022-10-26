@@ -48073,8 +48073,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>So, if one of the parameters is an arg variable like `$2`, do not put it in quotes.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072318Z" creationid="gitnacho" creationdate="20221005T072318Z">
-        <seg>Entonces, si uno de los parámetros es una variable `arg` como `$2`, no lo pongas entre comillas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T022201Z" creationid="gitnacho" creationdate="20221005T072318Z">
+        <seg>Entonces, si uno de los parámetros es una variable `arg` como `$2`, no la pongas entre comillas.</seg>
       </tuv>
     </tu>
     <tu>
