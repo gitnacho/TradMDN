@@ -10907,8 +10907,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Apart from the headers automatically set by the user agent (for example, {{HTTPHeader("Connection")}}, {{HTTPHeader("User-Agent")}}, or [the other headers defined in the Fetch spec as a _forbidden header name_](https://fetch.spec.whatwg.org/#forbidden-header-name)), the only headers which are allowed to be manually set are [those which the Fetch spec defines as a CORS-safelisted request-header](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), which are:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220452Z" creationid="gitnacho" creationdate="20221011T220452Z">
-        <seg>- Aparte de los encabezados establecidos automáticamente por el agente de usuario (por ejemplo, {{HTTPHeader("Connection")}}, {{HTTPHeader("User-Agent")}}, o [los otros encabezados definidos en la especificación Fetch como un _nombre de encabezado prohibido_](https://fetch.spec.whatwg.org/#forbidden-header-name)), los únicos encabezados que se pueden configurar manualmente son [aquellos que la especificación Fetch define como CORS-safelisted encabezado de solicitud](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), que son:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213033Z" creationid="gitnacho" creationdate="20221011T220452Z">
+        <seg>- Aparte de las cabeceras establecidas automáticamente por el agente de usuario (por ejemplo, {{HTTPHeader("Connection")}}, {{HTTPHeader("User-Agent")}}, o [las otras cabeceras definidas en la especificación Fetch como un _nombre de cabecera prohibido_](https://fetch.spec.whatwg.org/#forbidden-header-name)), las únicas cabeceras que se pueden configurar manualmente son [aquellas que la especificación Fetch define como cabecera de solicitud CORS-safelisted](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), que son:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40175,8 +40175,8 @@ among them.</seg>
       <tuv lang="en-US">
         <seg>If any of those headers have "nonstandard" values, WebKit/Safari does not consider the request to be a "simple request".</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T221043Z" creationid="gitnacho" creationdate="20221011T221043Z">
-        <seg>Si alguno de esos encabezados tiene valores "no estándar", WebKit/Safari no considera que la solicitud sea una "solicitud simple".</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213107Z" creationid="gitnacho" creationdate="20221011T221043Z">
+        <seg>Si alguna de esas cabeceras tiene valores "no estándar", WebKit/Safari no considera que la solicitud sea una "solicitud simple".</seg>
       </tuv>
     </tu>
     <tu>
@@ -55938,8 +55938,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This means that a web application using those APIs can only request resources from the same origin the application was loaded from unless the response from other origins includes the right CORS headers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213006Z" creationid="gitnacho" creationdate="20221011T213006Z">
-        <seg>Esto significa que una aplicación web que usa esas APIs solo puede solicitar recursos del mismo origen desde el que se cargó la aplicación, a menos que la respuesta de otros orígenes incluye los encabezados CORS correctos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212810Z" creationid="gitnacho" creationdate="20221011T213006Z">
+        <seg>Esto significa que una aplicación web que usa esas APIs solo puede solicitar recursos del mismo origen desde el que se cargó la aplicación, a menos que la respuesta de otros orígenes incluya las cabeceras CORS correctas.</seg>
       </tuv>
     </tu>
     <tu>
