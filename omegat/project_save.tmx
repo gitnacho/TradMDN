@@ -31331,6 +31331,52 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;
+&gt; ```md
+&gt; ---
+&gt; title: NameOfTheHeader
+&gt; slug: Web/HTTP/Headers/NameOfTheHeader
+&gt; tags:
+&gt;   - NameOfTheHeader
+&gt;   - HTTP
+&gt;   - HTTP Header
+&gt;   - Request header
+&gt;   - Response header
+&gt;   - Reference
+&gt;   - Experimental
+&gt;   - Deprecated
+&gt; browser-compat: path.to.feature.NameOfTheHeader
+&gt; ---
+&gt; ```
+&gt;
+&gt; - **title**
+&gt;   - : Title heading displayed at top of page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T222406Z" creationid="Nachec" creationdate="20221026T222406Z">
+        <seg>&gt;
+&gt; ```md
+&gt; ---
+&gt; title: NameOfTheHeader
+&gt; slug: Web/HTTP/Headers/NameOfTheHeader
+&gt; tags:
+&gt;   - NameOfTheHeader
+&gt;   - HTTP
+&gt;   - HTTP Header
+&gt;   - Request header
+&gt;   - Response header
+&gt;   - Reference
+&gt;   - Experimental
+&gt;   - Deprecated
+&gt; browser-compat: path.to.feature.NameOfTheHeader
+&gt; ---
+&gt; ```
+&gt;
+&gt; - **title**
+&gt;   - : Title heading displayed at top of page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt;       return Promise.resolve('done');</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T072054Z" creationid="gitnacho" creationdate="20221002T072054Z">
