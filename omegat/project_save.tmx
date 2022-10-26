@@ -30425,6 +30425,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;td&gt;None; both the starting and ending tag are mandatory.&lt;/td&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133329Z" creationid="Nachec" creationdate="20221026T133329Z">
+        <seg>&lt;td&gt;Ninguna; tanto la etiqueta inicial como la final son obligatorias.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;td&gt;Prefix plus&lt;/td&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192352Z" creationid="Nachec" creationdate="20221021T192352Z">
