@@ -23713,11 +23713,11 @@ title: The MDN Web Docs project
 slug: MDN
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T192929Z" creationid="gitnacho" creationdate="20221008T200144Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T004047Z" creationid="gitnacho" creationdate="20221008T200144Z">
         <seg>---
 title: Proyecto MDN Web Docs
 slug: MDN
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -24667,11 +24667,11 @@ title: Writing mathematics with MathML
 slug: Learn/MathML
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T192905Z" creationid="Nachec" creationdate="20221021T063302Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T003727Z" creationid="Nachec" creationdate="20221021T063302Z">
         <seg>---
 title: Escribir matemáticas con MathML
 slug: Learn/MathML
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -76880,9 +76880,8 @@ tags:</prop>
         <seg>- Topic
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T064113Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T003733Z" creationid="Nachec" creationdate="20221021T064113Z">
         <seg>- Topic
-  - Tema
 ---</seg>
       </tuv>
     </tu>
