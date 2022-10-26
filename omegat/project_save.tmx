@@ -23258,11 +23258,11 @@ title: MDN tools
 slug: MDN/Tools
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193021Z" creationid="gitnacho" creationdate="20221005T063201Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T014357Z" creationid="gitnacho" creationdate="20221005T063201Z">
         <seg>---
 title: Herramientas MDN
 slug: MDN/Tools
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -76920,9 +76920,8 @@ Hola:
         <seg>- Tools
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221012T182655Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T014401Z" creationid="gitnacho" creationdate="20221012T182655Z">
         <seg>- Tools
-  - Herramientas
 ---</seg>
       </tuv>
     </tu>
