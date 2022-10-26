@@ -12150,8 +12150,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- How to fix _"Access-Control-Allow-Origin header must not be the wildcard"_</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T061414Z" creationid="gitnacho" creationdate="20221012T061414Z">
-        <seg>- Cómo arreglar _"El encabezado Access-Control-Allow-Origin no debe ser el comodín"_</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110031Z" creationid="gitnacho" creationdate="20221012T061414Z">
+        <seg>- Cómo arreglar _"La cabecera Access-Control-Allow-Origin no debe ser el comodín"_</seg>
       </tuv>
     </tu>
     <tu>
@@ -45140,8 +45140,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>Nested documents and dedicated workers need to set the [`Cross-Origin-Embedder-Policy`](/en-US/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy) header as well, with the same value.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20220923T023917Z">
-        <seg>Los documentos anidados y los *workers* dedicados también deben establecer el encabezado [`Cross-Origin-Embedder-Policy`](/es/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy), con el mismo valor .</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110055Z" creationid="gitnacho" creationdate="20220923T023917Z">
+        <seg>Los documentos anidados y los *workers* dedicados también deben establecer la cabecera [`Cross-Origin-Embedder-Policy`](/es/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy), con el mismo valor .</seg>
       </tuv>
     </tu>
     <tu>
@@ -45540,8 +45540,8 @@ simple value.</seg>
       <tuv lang="en-US">
         <seg>Note that in any access control request, the {{HTTPHeader("Origin")}} header is **always** sent.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060624Z" creationid="gitnacho" creationdate="20221012T060624Z">
-        <seg>Ten en cuenta que en cualquier solicitud de control de acceso, el encabezado {{HTTPHeader("Origin")}} se envía **siempre**.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105954Z" creationid="gitnacho" creationdate="20221012T060624Z">
+        <seg>Ten en cuenta que en cualquier solicitud de control de acceso, la cabecera {{HTTPHeader("Origin")}} se envía **siempre**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45588,8 +45588,8 @@ simple value.</seg>
       <tuv lang="en-US">
         <seg>Note that setting the [`Cross-Origin-Resource-Policy`](/en-US/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy) header to any other value than `same-origin` opens up the resource to potential attacks, such as [Spectre](&lt;https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)&gt;).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20220923T030433Z">
-        <seg>Ten en cuenta que configurar el encabezado [`Cross-Origin-Resource-Policy`](/es/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy) en cualquier otro valor que no sea `same-origin` abre el recurso a posibles ataques, como [Spectre](&lt;https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)&gt;).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110107Z" creationid="gitnacho" creationdate="20220923T030433Z">
+        <seg>Ten en cuenta que configurar la cabecera [`Cross-Origin-Resource-Policy`](/es/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy) en cualquier otro valor que no sea `same-origin` abre el recurso a posibles ataques, como [Spectre](&lt;https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45614,8 +45614,8 @@ conversion from text format over to .wasm.</seg>
       <tuv lang="en-US">
         <seg>Note that the [`Cross-Origin-Opener-Policy`](/en-US/docs/Web/HTTP/Headers/Cross-Origin-Opener-Policy) header limits your ability to retain a reference to popups.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20220923T030501Z">
-        <seg>Ten en cuenta que el encabezado [`Cross-Origin-Opener-Policy`](/es/docs/Web/HTTP/Headers/Cross-Origin-Opener-Policy) limita tu capacidad para retener una referencia a las ventanas emergentes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110118Z" creationid="gitnacho" creationdate="20220923T030501Z">
+        <seg>Ten en cuenta que la cabecera [`Cross-Origin-Opener-Policy`](/es/docs/Web/HTTP/Headers/Cross-Origin-Opener-Policy) limita tu capacidad para retener una referencia a las ventanas emergentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52946,8 +52946,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Headers")}} header is used when issuing a preflight request to let the server know what HTTP headers will be used when the actual request is made (such as with {{domxref("XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221012T060848Z">
-        <seg>El encabezado {{HTTPHeader("Access-Control-Request-Headers")}} se usa cuando se emite una solicitud de preverificación para que el servidor sepa qué encabezados HTTP se usarán cuando se realice la solicitud real (como con {{DOMxRef( "XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T110013Z" creationid="gitnacho" creationdate="20221012T060848Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} se usa cuando se emite una solicitud de preverificación para que el servidor sepa qué encabezados HTTP se usarán cuando se realice la solicitud real (como con {{DOMxRef( "XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
       </tuv>
     </tu>
     <tu>
