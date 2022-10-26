@@ -19898,9 +19898,8 @@ browser-compat: css.types.length-percentage
         <seg>- values and units
 spec-urls:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225720Z" creationid="Nachec" creationdate="20221021T225720Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T121053Z" creationid="Nachec" creationdate="20221021T225720Z">
         <seg>- values and units
-  - valores y unidades
 spec-urls:</seg>
       </tuv>
     </tu>
@@ -22320,12 +22319,12 @@ slug: Web/CSS/CSS_Values_and_Units
 page-type: guide
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T193913Z" creationid="Nachec" creationdate="20221021T225619Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T120719Z" creationid="Nachec" creationdate="20221021T225619Z">
         <seg>---
 title: Valores y unidades CSS
 slug: Web/CSS/CSS_Values_and_Units
 page-type: guide
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -59578,8 +59577,8 @@ función exportada desde su interior.</seg>
       <tuv lang="en-US">
         <seg>While you can generally create any name you want, including using emojis, the identifier can't be `none`, `unset`, `initial`, or `inherit`, start with a digit or two dashes, and generally you don't want it to be any other pre-defined CSS keyword.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234015Z" creationid="Nachec" creationdate="20221021T234015Z">
-        <seg>Si bien, generalmente puedes crear cualquier nombre que desees, incluido el uso de emojis, el identificador no puede ser `none`, `unset`, `initial` o `inherit`, comenzar con un dígito o dos guiones, y generalmente no lo quieres que sea ninguna otra palabra clave CSS predefinida.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T121126Z" creationid="Nachec" creationdate="20221021T234015Z">
+        <seg>Si bien, generalmente puedes crear cualquier nombre que desees, incluido el uso de emojis, el identificador no puede ser `none`, `unset`, `initial` o `inherit`, comenzar con un dígito o dos guiones, y generalmente no quieres que sea ninguna otra palabra clave CSS predefinida.</seg>
       </tuv>
     </tu>
     <tu>
