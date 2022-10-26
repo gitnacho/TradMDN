@@ -60320,8 +60320,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You can use the argument `notservice` to indicate that a feature works in web workers except for service workers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T120214Z" creationid="gitnacho" creationdate="20221005T115836Z">
-        <seg>Puedes usar el argumento `notservice` para indicar que una característica funciona en *web workers*, excepto en *service workers".</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T091109Z" creationid="gitnacho" creationdate="20221005T115836Z">
+        <seg>Puedes usar el argumento `notservice` para indicar que una característica funciona en *web workers*, excepto en *service workers*.</seg>
       </tuv>
     </tu>
     <tu>
