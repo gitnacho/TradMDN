@@ -23303,11 +23303,11 @@ title: MathML Text Containers
 slug: Learn/MathML/First_steps/Text_containers
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T191702Z" creationid="Nachec" creationdate="20221021T184542Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T000328Z" creationid="Nachec" creationdate="20221021T184542Z">
         <seg>---
 title: Contenedores de texto MathML
 slug: Learn/MathML/First_steps/Text_containers
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -44797,8 +44797,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Mathematical formulas involve many special characters, for example greek letters (e.g. Δ), fraktur letters (e.g. 𝔄), double-struck letter (e.g. ℂ), binary operators (e.g. ≠), arrows (e.g. ⇒), integral symbols (e.g. ∮), summation symbols (e.g. ∑), logical symbols (e.g. ∀), fences (e.g. ⌊) and many more.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T185140Z" creationid="Nachec" creationdate="20221021T185140Z">
-        <seg>Las fórmulas matemáticas involucran muchos caracteres especiales, por ejemplo, letras gGriegas (p. ej., Δ), letras fraktur (p. ej., 𝔄), letras dobles (p. ej., ℂ), operadores binarios (p. ej., ≠), flechas (p. ej., ⇒), símbolos integrales (p. ej., ∮ ), símbolos de suma (por ejemplo, ∑), símbolos lógicos (por ejemplo, ∀), vallas (por ejemplo, ⌊) y muchos más.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T000555Z" creationid="Nachec" creationdate="20221021T185140Z">
+        <seg>Las fórmulas matemáticas involucran muchos caracteres especiales, por ejemplo, letras Griegas (p. ej., Δ), letras fraktur (p. ej., 𝔄), letras dobles (p. ej., ℂ), operadores binarios (p. ej., ≠), flechas (p. ej., ⇒), símbolos integrales (p. ej., ∮ ), símbolos de suma (por ejemplo, ∑), símbolos lógicos (por ejemplo, ∀), vallas (por ejemplo, ⌊) y muchos más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76854,9 +76854,8 @@ tags:</prop>
         <seg>- Landing
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="Nachec" creationdate="20221021T184600Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T000332Z" creationid="Nachec" creationdate="20221021T184600Z">
         <seg>- Landing
-  - Destino
 ---</seg>
       </tuv>
     </tu>
