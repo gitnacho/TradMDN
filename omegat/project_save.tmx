@@ -36209,6 +36209,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By late 1990, TimBL had created all the things needed to run the first version of the web — [HTTP](/en-US/docs/Web/HTTP), [HTML](/en-US/docs/Web/HTML), the first web browser, which was called [WorldWideWeb](https://en.wikipedia.org/wiki/WorldWideWeb), an HTTP server, and some web pages to look at.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002544Z" creationid="Nachec" creationdate="20221027T002544Z">
+        <seg>A finales de 1990, TimBL había creado todo lo necesario para ejecutar la primera versión de la web: [HTTP](/es/docs/Web/HTTP), [HTML](/es/docs/Web/HTML), el primer navegador web, que se llamaba {{interwiki("wikipedia", "WorldWideWeb")}}, un servidor HTTP y algunas páginas web para mirar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By specification, this value is time since epoch—but in reality, browsers' definitions vary.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T204619Z" creationid="gitnacho" creationdate="20221011T204619Z">
@@ -37774,6 +37782,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055139Z" creationid="Nachec" creationdate="20221023T055139Z">
         <seg>No agregar una etiqueta de cierre es uno de los errores estándar de los principiantes y puede generar extraños resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast forward to 1989, and TimBL wrote [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html) and HyperText at CERN; these two publications together provided the background for how the web would work.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002434Z" creationid="Nachec" creationdate="20221027T002434Z">
+        <seg>Avanzó rápidamente hasta 1989, y TimBL escribió [Gestión de la información: una propuesta](https://www.w3.org/History/1989/proposal.html) e hipertexto en el CERN; estas dos publicaciones juntas proporcionaron los antecedentes de cómo funcionaría la web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42326,6 +42342,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T191508Z" creationid="Nachec" creationdate="20221023T191508Z">
         <seg>—en el siguiente ejemplo escribimos una función simple que toma dos números como argumentos y los multiplica entre sí—:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the next few years that followed, the web exploded, with multiple browsers being released, thousands of web servers being set up, and millions of web pages being created.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002711Z" creationid="Nachec" creationdate="20221027T002711Z">
+        <seg>En los años siguientes, la web explotó, se lanzaron varios navegadores, se instalaron miles de servidores web y se crearon millones de páginas web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48603,6 +48627,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sound familiar?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002353Z" creationid="Nachec" creationdate="20221027T002353Z">
+        <seg>¿Te suena familiar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifically:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211002T055534Z" creationid="gitnacho" creationdate="20211002T055534Z">
@@ -54229,6 +54261,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200707Z" creationid="gitnacho" creationdate="20221008T200707Z">
         <seg>Describen las políticas para el tipo de contenido que escribimos y el tipo de contenido que no aceptamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They received a fair amount of interest, enough to convince TimBL's bosses to allow him to go ahead and create a global hypertext system.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002502Z" creationid="Nachec" creationdate="20221027T002502Z">
+        <seg>Recibieron una buena cantidad de interés, suficiente para convencer a los jefes de TimBL de que le permitieran seguir adelante y creara un sistema de hipertexto global.</seg>
       </tuv>
     </tu>
     <tu>
