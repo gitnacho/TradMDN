@@ -3452,6 +3452,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Date input types</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221043Z" creationid="Nachec" creationdate="20221027T221043Z">
+        <seg>### Tipos de entrada de fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Debugging</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T074506Z" creationid="gitnacho" creationdate="20221005T073707Z">
@@ -41600,6 +41608,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, the internal parts of the control (e.g. the popup calendar that you use to pick a date, the spinner that you can use to increment/decrement values) are not stylable at all, and you can't get rid of them using `appearance: none;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221309Z" creationid="Nachec" creationdate="20221027T221309Z">
+        <seg>Sin embargo, las partes internas del control (por ejemplo, el calendario emergente que usas para elegir una fecha, la rueda giratoria que puedes usar para incrementar/disminuir valores) no se pueden modificar en absoluto y no se pueden estilizar usando ` apearance: none;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the preferred way to get an `Instance` is through the asynchronous
 [`WebAssembly.instantiateStreaming()`](/en-US/docs/WebAssembly/JavaScript_interface/instantiateStreaming) function, for example like this:</seg>
       </tuv>
@@ -48137,6 +48153,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of course, this might also not fit in with the design you are going for, but it's worth noting!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221025Z" creationid="Nachec" creationdate="20221027T221025Z">
+        <seg>Por supuesto, es posible que esto tampoco encaje con el diseño que estás buscando, ¡pero vale la pena señalarlo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Office document editors are not suitable for this use, as they rely on hidden elements that interfere with the rendering engines used by web browsers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T111150Z" creationid="gitnacho" creationdate="20221012T164641Z">
@@ -52305,6 +52329,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The actual containing box is as easy to style as any text input, and what we've got in this demo looks fine.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221150Z" creationid="Nachec" creationdate="20221027T221150Z">
+        <seg>El cuadro contenedor real es tan fácil de estilizar como cualquier entrada de texto, y lo que tenemos en esta demostración se ve bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The actual syntax for HTTP messages (called requests and responses) is not that human-readable, but this gives you the basic idea.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T044840Z" creationid="Nachec" creationdate="20221027T044840Z">
@@ -52823,6 +52855,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220333Z" creationid="Nachec" creationdate="20221027T220333Z">
         <seg>El control de la lista de datos es `&lt;input type="text"&gt;` de todos modos, por lo que sabíamos que esto no sería un problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The date/time input types ([`datetime-local`](/en-US/docs/Web/HTML/Element/input/datetime-local), [`time`](/en-US/docs/Web/HTML/Element/input/time), [`week`](/en-US/docs/Web/HTML/Element/input/week), [`month`](/en-US/docs/Web/HTML/Element/input/month)) all have the same major associated issue.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221137Z" creationid="Nachec" creationdate="20221027T221137Z">
+        <seg>Los tipos `input` de fecha/hora ([`datetime-local`](/es/docs/Web/HTML/Element/input/datetime-local), [`time`](/es/docs/Web/HTML/Element/ input/time), [`week`](/es/docs/Web/HTML/Element/input/week), [`month`](/es/docs/Web/HTML/Element/input/month)) todos tienen el mismo problema principal asociado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65403,6 +65443,18 @@ p {</seg>
         <seg>```html
 &lt;label for="select"&gt;Select a fruit&lt;/label&gt;
 &lt;div class="select-wrapper"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;label for="select"&gt;Select fruits&lt;/label&gt;
+&lt;select id="select" name="select" multiple&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221003Z" creationid="Nachec" creationdate="20221027T221003Z">
+        <seg>```html
+&lt;label for="select"&gt;Selecciona frutas&lt;/label&gt;
+&lt;select id="select" name="select" multiple&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -80128,6 +80180,18 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080504Z" creationid="Nachec" creationdate="20221021T080504Z">
         <seg>…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>…
+&lt;/select&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221004Z" creationid="Nachec" creationdate="20221027T221004Z">
+        <seg>…
+&lt;/select&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
