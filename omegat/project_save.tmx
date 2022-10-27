@@ -11083,8 +11083,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Apart from the headers automatically set by the user agent (for example, {{HTTPHeader("Connection")}}, {{HTTPHeader("User-Agent")}}, or [the other headers defined in the Fetch spec as a _forbidden header name_](https://fetch.spec.whatwg.org/#forbidden-header-name)), the only headers which are allowed to be manually set are [those which the Fetch spec defines as a CORS-safelisted request-header](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), which are:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213033Z" creationid="gitnacho" creationdate="20221011T220452Z">
-        <seg>- Aparte de las cabeceras establecidas automáticamente por el agente de usuario (por ejemplo, {{HTTPHeader("Connection")}}, {{HTTPHeader("User-Agent")}}, o [las otras cabeceras definidas en la especificación Fetch como un _nombre de cabecera prohibido_](https://fetch.spec.whatwg.org/#forbidden-header-name)), las únicas cabeceras que se pueden configurar manualmente son [aquellas que la especificación Fetch define como cabecera de solicitud CORS-safelisted](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), que son:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070624Z" creationid="gitnacho" creationdate="20221011T220452Z">
+        <seg>- Aparte de las cabeceras establecidas automáticamente por el agente de usuario (por ejemplo, {{HTTPHeader("Connection")}}, {{HTTPHeader("User-Agent")}}, o [las otras cabeceras definidas en la especificación Fetch como un _nombre de cabecera prohibido_](https://fetch.spec.whatwg.org/#forbidden-header-name)), las únicas cabeceras que se pueden configurar manualmente son [aquellas que la especificación Fetch define como cabecera de petición CORS-safelisted](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), que son:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12567,8 +12567,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- If the request is made using an {{domxref("XMLHttpRequest")}} object, no event listeners are registered on the object returned by the {{domxref("XMLHttpRequest.upload")}} property used in the request; that is, given an {{domxref("XMLHttpRequest")}} instance `xhr`, no code has called `xhr.upload.addEventListener()` to add an event listener to monitor the upload.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T102713Z" creationid="gitnacho" creationdate="20221011T220947Z">
-        <seg>- Si la solicitud se realiza mediante un objeto {{DOMxRef("XMLHttpRequest")}}, no se registra ningún detector de eventos en el objeto devuelto por la propiedad {{DOMxRef("XMLHttpRequest.upload")}} utilizada en la solicitud; es decir, dada una {{DOMxRef("XMLHttpRequest")}} instancia `xhr`, ningún código ha llamado a `xhr.upload.addEventListener()` para agregar un detector de eventos para monitorear la carga.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070645Z" creationid="gitnacho" creationdate="20221011T220947Z">
+        <seg>- Si la petición se realiza mediante un objeto {{DOMxRef("XMLHttpRequest")}}, no se registra ningún detector de eventos en el objeto devuelto por la propiedad {{DOMxRef("XMLHttpRequest.upload")}} utilizada en la petición; es decir, dada una {{DOMxRef("XMLHttpRequest")}} instancia `xhr`, ningún código ha llamado a `xhr.upload.addEventListener()` para agregar un detector de eventos para monitorear la carga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13249,8 +13249,8 @@ browser-compat: mathml.elements.mtext
       <tuv lang="en-US">
         <seg>- No {{domxref("ReadableStream")}} object is used in the request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T221000Z">
-        <seg>- No se usa ningún objeto {{DOMxRef("ReadableStream")}} en la solicitud.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070648Z" creationid="gitnacho" creationdate="20221011T221000Z">
+        <seg>- No se usa ningún objeto {{DOMxRef("ReadableStream")}} en la petición.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31917,8 +31917,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** As described below, the actual `POST` request does not include the `Access-Control-Request-*` headers; they are needed only for the `OPTIONS` request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213435Z" creationid="gitnacho" creationdate="20221011T222708Z">
-        <seg>&gt; **Nota:** Como se describe a continuación, la solicitud `POST` real no incluye las cabeceras `Access-Control-Request-*`; solo se necesitan para la solicitud `OPTIONS`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070803Z" creationid="gitnacho" creationdate="20221011T222708Z">
+        <seg>&gt; **Nota:** Como se describe a continuación, la petición `POST` real no incluye las cabeceras `Access-Control-Request-*`; solo se necesitan para la petición `OPTIONS`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32013,8 +32013,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** Firefox has not implemented `Range` as a safelisted request-header yet.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220539Z" creationid="gitnacho" creationdate="20221011T220539Z">
-        <seg>&gt; **Nota:** Firefox aún no ha implementado `Range` como un encabezado de solicitud en la lista segura.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070640Z" creationid="gitnacho" creationdate="20221011T220539Z">
+        <seg>&gt; **Nota:** Firefox aún no ha implementado `Range` como una cabecera de petición en la lista segura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33690,8 +33690,8 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
       <tuv lang="en-US">
         <seg>A _simple request_ is one that **meets all the following conditions**:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220344Z" creationid="gitnacho" creationdate="20221011T220344Z">
-        <seg>Una _solicitud simple_ es aquella que **cumple todas las siguientes condiciones**:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070617Z" creationid="gitnacho" creationdate="20221011T220344Z">
+        <seg>Una _petición simple_ es aquella que **cumple todas las siguientes condiciones**:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34016,8 +34016,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>A second problem is that one more request is needed to fetch the real resource, slowing the availability of the resource to the user.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094635Z" creationid="Nachec" creationdate="20221022T094635Z">
-        <seg>Un segundo problema es que se necesita una solicitud más para obtener el recurso real, lo que ralentiza la disponibilidad del recurso para el usuario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070525Z" creationid="Nachec" creationdate="20221022T094635Z">
+        <seg>Un segundo problema es que se necesita una petición más para obtener el recurso real, lo que ralentiza la disponibilidad del recurso para el usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34537,8 +34537,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>Additionally, for HTTP request methods that can cause side-effects on server data (in particular, HTTP methods other than {{HTTPMethod("GET")}}, or {{HTTPMethod("POST")}} with certain [MIME types](/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)), the specification mandates that browsers "preflight" the request, soliciting supported methods from the server with the HTTP {{HTTPMethod("OPTIONS")}} request method, and then, upon "approval" from the server, sending the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213838Z" creationid="gitnacho" creationdate="20221011T213838Z">
-        <seg>Además, para los métodos de solicitud HTTP que pueden causar efectos secundarios en los datos del servidor (en particular, los métodos HTTP distintos de {{HTTPMethod("GET")}} o {{HTTPMethod("POST")}} con ciertos [tipos MIME ](/es/docs/Web/HTTP/Basics_of_HTTP/MIME_types)), la especificación exige que los navegadores realicen una "verificación previa" de la solicitud, solicitando métodos admitidos del servidor con la solicitud HTTP {{HTTPMethod("OPTIONS")}} y luego, con la "aprobación" del servidor, enviar la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070609Z" creationid="gitnacho" creationdate="20221011T213838Z">
+        <seg>Además, para los métodos de petición HTTP que pueden causar efectos secundarios en los datos del servidor (en particular, los métodos HTTP distintos de {{HTTPMethod("GET")}} o {{HTTPMethod("POST")}} con ciertos [tipos MIME ](/es/docs/Web/HTTP/Basics_of_HTTP/MIME_types)), la especificación exige que los navegadores realicen una "verificación previa" de la petición, solicitando métodos admitidos del servidor con la petición HTTP {{HTTPMethod("OPTIONS")}} y luego, con la "aprobación" del servidor, enviar la petición real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34855,8 +34855,8 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       <tuv lang="en-US">
         <seg>Also, a non-standard HTTP `X-PINGOTHER` request header is set.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222619Z" creationid="gitnacho" creationdate="20221011T222619Z">
-        <seg>Además, se establece un encabezado de solicitud HTTP `X-PINGOTHER` no estándar.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070748Z" creationid="gitnacho" creationdate="20221011T222619Z">
+        <seg>Además, se establece un encabezado de petición HTTP `X-PINGOTHER` no estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35120,8 +35120,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An example of a cross-origin request: the front-end JavaScript code served from `https://domain-a.com` uses {{domxref("XMLHttpRequest")}} to make a request for `https://domain-b.com/data.json`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T212903Z">
-        <seg>Un ejemplo de una solicitud de origen cruzado: el código JavaScript de front-end servido desde `https://dominio-a.com` usa {{DOMxRef("XMLHttpRequest")}} para realizar una solicitud de `https://dominio-b.com/data.json`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070554Z" creationid="gitnacho" creationdate="20221011T212903Z">
+        <seg>Un ejemplo de una petición de origen cruzado: el código JavaScript de front-end servido desde `https://dominio-a.com` usa {{DOMxRef("XMLHttpRequest")}} para realizar una petición de `https://dominio-b.com/data.json`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36645,8 +36645,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>CORS also relies on a mechanism by which browsers make a "preflight" request to the server hosting the cross-origin resource, in order to check that the server will permit the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T212829Z" creationid="gitnacho" creationdate="20221011T212829Z">
-        <seg>CORS también se basa en un mecanismo mediante el cual los navegadores realizan una solicitud de "verificación previa" al servidor que aloja el recurso de origen cruzado, para verificar que el servidor permita la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070537Z" creationid="gitnacho" creationdate="20221011T212829Z">
+        <seg>CORS también se basa en un mecanismo mediante el cual los navegadores realizan una petición de "verificación previa" al servidor que aloja el recurso de origen cruzado, para verificar que el servidor permita la petición real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40802,8 +40802,8 @@ among them.</seg>
       <tuv lang="en-US">
         <seg>If any of those headers have "nonstandard" values, WebKit/Safari does not consider the request to be a "simple request".</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213107Z" creationid="gitnacho" creationdate="20221011T221043Z">
-        <seg>Si alguna de esas cabeceras tiene valores "no estándar", WebKit/Safari no considera que la solicitud sea una "solicitud simple".</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070655Z" creationid="gitnacho" creationdate="20221011T221043Z">
+        <seg>Si alguna de esas cabeceras tiene valores "no estándar", WebKit/Safari no considera que la petición sea una "petición simple".</seg>
       </tuv>
     </tu>
     <tu>
@@ -42558,8 +42558,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212618Z" creationid="gitnacho" creationdate="20221011T212844Z">
-        <seg>En esa verificación previa, el navegador envía cabeceras que indican el método HTTP y las cabeceras que se utilizarán en la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070544Z" creationid="gitnacho" creationdate="20221011T212844Z">
+        <seg>En esa verificación previa, el navegador envía cabeceras que indican el método HTTP y las cabeceras que se utilizarán en la petición real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43052,8 +43052,8 @@ receive the module from the main thread.</seg>
       <tuv lang="en-US">
         <seg>In this case, the server sends back a page that contains links to the available alternative resources when faced with an ambiguous request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094533Z" creationid="Nachec" creationdate="20221022T094533Z">
-        <seg>En este caso, el servidor devuelve una página que contiene enlaces a los recursos alternativos disponibles ante una solicitud ambigua.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070520Z" creationid="Nachec" creationdate="20221022T094533Z">
+        <seg>En este caso, el servidor devuelve una página que contiene enlaces a los recursos alternativos disponibles ante una petición ambigua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45258,8 +45258,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Lines 1 - 10 above represent the preflight request with the {{HTTPMethod("OPTIONS")}} method.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222748Z" creationid="gitnacho" creationdate="20221011T222748Z">
-        <seg>Las líneas 1 a 10 anteriores representan la solicitud de preverificación con el método {{HTTPMethod("OPTIONS")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070843Z" creationid="gitnacho" creationdate="20221011T222748Z">
+        <seg>Las líneas 1 a 10 anteriores representan la petición de preverificación con el método {{HTTPMethod("OPTIONS")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48671,8 +48671,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Since the request uses a `Content-Type` of `text/xml`, and since a custom header is set, this request is preflighted.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222654Z" creationid="gitnacho" creationdate="20221011T222654Z">
-        <seg>Dado que la solicitud utiliza un `Content-Type` de `text/xml`, y dado que se establece un encabezado personalizado, esta solicitud tiene una preverificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070755Z" creationid="gitnacho" creationdate="20221011T222654Z">
+        <seg>Dado que la petición utiliza un `Content-Type` de `text/xml`, y dado que se establece un encabezado personalizado, esta petición tiene una preverificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51626,8 +51626,8 @@ y devuelve su valor.</seg>
       <tuv lang="en-US">
         <seg>The example above creates an XML body to send with the `POST` request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222609Z" creationid="gitnacho" creationdate="20221011T222609Z">
-        <seg>El ejemplo anterior crea un cuerpo XML para enviar con la solicitud `POST`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070743Z" creationid="gitnacho" creationdate="20221011T222609Z">
+        <seg>El ejemplo anterior crea un cuerpo XML para enviar con la petición `POST`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51730,8 +51730,8 @@ y devuelve su valor.</seg>
       <tuv lang="en-US">
         <seg>The first exchange is the _preflight request/response_:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222725Z" creationid="gitnacho" creationdate="20221011T222725Z">
-        <seg>El primer intercambio es la _solicitud/respuesta previa al vuelo_:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070806Z" creationid="gitnacho" creationdate="20221011T222725Z">
+        <seg>El primer intercambio es la _petición/respuesta previa al vuelo_:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52053,8 +52053,8 @@ if a loaded module instance contains a "name" custom section.</seg>
       <tuv lang="en-US">
         <seg>The following is an example of a request that will be preflighted:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222555Z" creationid="gitnacho" creationdate="20221011T222555Z">
-        <seg>El siguiente es un ejemplo de una solicitud que se verificará previamente:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070739Z" creationid="gitnacho" creationdate="20221011T222555Z">
+        <seg>El siguiente es un ejemplo de una petición que se verificará previamente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52339,8 +52339,8 @@ detalles en la consola:</seg>
       <tuv lang="en-US">
         <seg>The headers must then be sent with every request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T100921Z" creationid="Nachec" creationdate="20221022T094414Z">
-        <seg>Las cabeceras se deben enviar con cada solicitud.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070518Z" creationid="Nachec" creationdate="20221022T094414Z">
+        <seg>Las cabeceras se deben enviar con cada petición.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52685,8 +52685,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The motivation is that the {{HTMLElement("form")}} element from HTML 4.0 (which predates cross-site {{domxref("XMLHttpRequest")}} and {{domxref("fetch")}}) can submit simple requests to any origin, so anyone writing a server must already be protecting against {{Glossary("CSRF", "cross-site request forgery")}} (CSRF).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064332Z" creationid="gitnacho" creationdate="20221011T220139Z">
-        <seg>La motivación es que el elemento {{HTMLElement("form")}} de HTML 4.0 (que es anterior a {{DOMxRef("XMLHttpRequest")}} y {{DOMxRef("fetch")}} entre sitios puede enviar peticiones a cualquier origen, por lo que cualquier persona que escriba un servidor ya debe estar protegido contra {{Glossary("CSRF", "falsificación de solicitud entre sitios")}} (CSRF).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070611Z" creationid="gitnacho" creationdate="20221011T220139Z">
+        <seg>La motivación es que el elemento {{HTMLElement("form")}} de HTML 4.0 (que es anterior a {{DOMxRef("XMLHttpRequest")}} y {{DOMxRef("fetch")}} entre sitios puede enviar peticiones a cualquier origen, por lo que cualquier persona que escriba un servidor ya debe estar protegido contra {{Glossary("CSRF", "falsificación de petición entre sitios")}} (CSRF).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53105,8 +53105,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The request header of note is {{HTTPHeader("Origin")}}, which shows that the invocation is coming from `https://foo.example`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105425Z" creationid="gitnacho" creationdate="20221011T222051Z">
-        <seg>La cabecera de solicitud de la nota es {{HTTPHeader("Origin")}}, lo que muestra que la invocación proviene de `https://foo.example`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070713Z" creationid="gitnacho" creationdate="20221011T222051Z">
+        <seg>La cabecera de petición de la nota es {{HTTPHeader("Origin")}}, lo que muestra que la invocación proviene de `https://foo.example`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53849,8 +53849,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("User-Agent")}} header identifies the browser sending the request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093339Z" creationid="Nachec" creationdate="20221022T093339Z">
-        <seg>La cabecera {{HTTPHeader("User-Agent")}} identifica el navegador que envía la solicitud.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070514Z" creationid="Nachec" creationdate="20221022T093339Z">
+        <seg>La cabecera {{HTTPHeader("User-Agent")}} identifica el navegador que envía la petición.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58591,8 +58591,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>Under this assumption, the server doesn't have to opt-in (by responding to a preflight request) to receive any request that looks like a form submission, since the threat of CSRF is no worse than that of form submission.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220302Z" creationid="gitnacho" creationdate="20221011T220302Z">
-        <seg>Bajo esta suposición, el servidor no tiene que participar (respondiendo a una solicitud de verificación previa) para recibir cualquier solicitud que parezca un envío de formulario, ya que la amenaza de CSRF no es peor que la del envío de formulario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070615Z" creationid="gitnacho" creationdate="20221011T220302Z">
+        <seg>Bajo esta suposición, el servidor no tiene que participar (respondiendo a una petición de verificación previa) para recibir cualquier petición que parezca un envío de formulario, ya que la amenaza de CSRF no es peor que la del envío de formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58615,8 +58615,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>Unlike [_simple requests_](#simple_requests), for "preflighted" requests the browser first sends an HTTP request using the {{HTTPMethod("OPTIONS")}} method to the resource on the other origin, in order to determine if the actual request is safe to send.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064508Z" creationid="gitnacho" creationdate="20221011T222537Z">
-        <seg>A diferencia de las [_peticiones simples_](#peticiones_simples), para las peticiones "preverificadas", el navegador primero envía una solicitud HTTP usando el método {{HTTPMethod("OPTIONS")}} al recurso en el otro origen, para determinar si el la solicitud es segura para enviar.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070734Z" creationid="gitnacho" creationdate="20221011T222537Z">
+        <seg>A diferencia de las [_peticiones simples_](#peticiones_simples), para las peticiones "preverificadas", el navegador primero envía una petición HTTP usando el método {{HTTPMethod("OPTIONS")}} al recurso en el otro origen, para determinar si la petición es segura para enviar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60056,11 +60056,11 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
 &gt;
 &gt; No other browsers implement these extra restrictions because they're not part of the spec.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064337Z" creationid="gitnacho" creationdate="20221011T221210Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070710Z" creationid="gitnacho" creationdate="20221011T221210Z">
         <seg>Los valores que WebKit/Safari consideran "no estándar" no están documentados, excepto en los siguientes errores de WebKit:
 &gt;
-&gt; - [Requerir verificación previa para cabeceras de solicitud incluidos en la lista segura de CORS no estándar Accept, Accept-Language y Content-Language](https://bugs.webkit.org/show_bug.cgi?id=165178)
-&gt; - [Permitir comas en las cabeceras de solicitud Accept, Accept-Language y Content-Language para CORS simple](https://bugs.webkit.org/show_bug.cgi?id=165566)
+&gt; - [Requerir verificación previa para cabeceras de petición incluidos en la lista segura de CORS no estándar Accept, Accept-Language y Content-Language](https://bugs.webkit.org/show_bug.cgi?id=165178)
+&gt; - [Permitir comas en las cabeceras de petición Accept, Accept-Language y Content-Language para CORS simple](https://bugs.webkit.org/show_bug.cgi?id=165566)
 &gt; - [Cambiar a un modelo de lista negra para aceptar cabeceras restringidas en peticiones CORS simples](https://bugs.webkit.org/show_bug.cgi?id=166363)
 &gt;
 &gt; Ningún otro navegador implementa estas restricciones adicionales porque no son parte de la especificación.</seg>
