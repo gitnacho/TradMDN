@@ -37417,8 +37417,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Developers using cross-origin {{domxref("XMLHttpRequest")}} capability do not have to set any cross-origin sharing request headers programmatically.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071047Z" creationid="gitnacho" creationdate="20221012T060511Z">
-        <seg>Los desarrolladores que utilizan la capacidad {{DOMxRef("XMLHttpRequest")}} de origen cruzado no tienen que establecer ningún encabezado de petición de intercambio de recursos de origen cruzado mediante programación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072430Z" creationid="gitnacho" creationdate="20221012T060511Z">
+        <seg>Los desarrolladores que utilizan la capacidad {{DOMxRef("XMLHttpRequest")}} de origen cruzado no tienen que establecer ninguna cabecera de petición de intercambio de recursos de origen cruzado mediante programación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41187,8 +41187,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the server specifies a single origin (that may dynamically change based on the requesting origin as part of an allowlist) rather than the "`*`" wildcard, then the server should also include `Origin` in the {{HTTPHeader("Vary")}} response header to indicate to clients that server responses will differ based on the value of the {{HTTPHeader("Origin")}} request header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071022Z" creationid="gitnacho" creationdate="20221012T053915Z">
-        <seg>Si el servidor especifica un solo origen (que puede cambiar dinámicamente según el origen solicitante como parte de una lista de permitidos) en lugar del comodín "`*`", entonces el servidor también debe incluir `Origin` en la cabecera de respuesta {{HTTPHeader("Vary")}} para indicar a los clientes que las respuestas del servidor diferirán según el valor del encabezado de petición {{HTTPHeader("Origin")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072311Z" creationid="gitnacho" creationdate="20221012T053915Z">
+        <seg>Si el servidor especifica un solo origen (que puede cambiar dinámicamente según el origen solicitante como parte de una lista de permitidos) en lugar del comodín "`*`", entonces el servidor también debe incluir `Origin` en la cabecera de respuesta {{HTTPHeader("Vary")}} para indicar a los clientes que las respuestas del servidor diferirán según el valor de la cabecera de petición {{HTTPHeader("Origin")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46321,8 +46321,8 @@ simple value.</seg>
       <tuv lang="en-US">
         <seg>Note that simple `GET` requests are not preflighted, and so if a request is made for a resource with credentials, if this header is not returned with the resource, the response is ignored by the browser and not returned to web content.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071242Z" creationid="gitnacho" creationdate="20221012T054230Z">
-        <seg>Ten en cuenta que las peticiones `GET` simples no tienen preverificación, por lo que si se realiza una petición para un recurso con credenciales, si este encabezado no se devuelve con el recurso, el navegador ignora la respuesta y no se devuelve al contenido web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072409Z" creationid="gitnacho" creationdate="20221012T054230Z">
+        <seg>Ten en cuenta que las peticiones `GET` simples no tienen preverificación, por lo que si se realiza una petición para un recurso con credenciales, si esta cabecera no se devuelve con el recurso, el navegador ignora la respuesta y no la devuelve al contenido web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47948,8 +47948,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Same-site (but cross-origin) nested documents and subresources need to set the [`Cross-Origin-Resource-Policy`](/en-US/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy) header with `same-site` as value.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20220923T024058Z">
-        <seg>Los subrecursos y los documentos anidados del mismo sitio (pero de origen cruzado) deben establecer la [`Cross-Origin-Resource-Policy`](/es/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy) encabezado con `same-site` como valor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072508Z" creationid="gitnacho" creationdate="20220923T024058Z">
+        <seg>Los subrecursos y los documentos anidados del mismo sitio (pero de origen cruzado) deben establecer la cabecera [`Cross-Origin-Resource-Policy`](/es/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy) con `same-site` como valor.</seg>
       </tuv>
     </tu>
     <tu>
