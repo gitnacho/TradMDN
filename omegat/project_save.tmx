@@ -37832,6 +37832,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check out [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/) on CSS tricks for a detailed write-up of what's needed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221926Z" creationid="Nachec" creationdate="20221027T221926Z">
+        <seg>Consulta [Estilizar con CSS `input`s de rango compatibles con navegadores cruzados](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/) en trucos CSS para obtener una descripción detallada de lo que es necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check out the [browser compatibility table](/en-US/docs/Web/MathML/Element/math#browser_compatibility) for further details.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184433Z" creationid="Nachec" creationdate="20221021T181451Z">
@@ -41524,6 +41532,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181549Z" creationid="Nachec" creationdate="20221021T181549Z">
         <seg>Sin embargo, es bastante común representar grandes fórmulas matemáticas centradas en su propia línea, como se muestra a continuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, it is very difficult to customize the style of the range control's drag handle — to get full control over range styling you'll need to use a whole bunch of complex CSS code, including multiple non-standard, browser-specific pseudo-elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221815Z" creationid="Nachec" creationdate="20221027T221815Z">
+        <seg>Sin embargo, es muy difícil personalizar el estilo del controlador de arrastre del control de rango: para obtener un control total sobre el estilo del rango, deberás usar un montón de código CSS complejo, incluidos varios pseudoelementos específicos del navegador no estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63057,6 +63073,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can use something like the following to remove the default slider track completely and replace it with a custom style (a thin red track, in this case):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221723Z" creationid="Nachec" creationdate="20221027T221723Z">
+        <seg>Puedes usar algo como lo siguiente para eliminar completamente la pista deslizante predeterminada y reemplazarla con un estilo personalizado (una pista roja delgada, en este caso):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can use the `log.debug()` method to output text to the scripting messages area at the top of the page that's running your template.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T074551Z" creationid="gitnacho" creationdate="20221005T074551Z">
@@ -63755,6 +63779,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210921T214457Z" creationid="gitnacho" creationdate="20210921T214457Z">
         <seg>[];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[`&lt;input type="range"&gt;`](/en-US/docs/Web/HTML/Element/input/range) is annoying to style.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221656Z" creationid="Nachec" creationdate="20221027T221656Z">
+        <seg>[`&lt;input type="range"&gt;`](/es/docs/Web/HTML/Element/input/range) es molesto estilizarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65163,6 +65195,16 @@ input[type="checkbox"] {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215150Z" creationid="Nachec" creationdate="20221027T215150Z">
         <seg>```css
 input[type="checkbox"] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+input[type="range"] {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221723Z" creationid="Nachec" creationdate="20221027T221723Z">
+        <seg>```css
+input[type="range"] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -69543,6 +69585,14 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>appearance: none;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221724Z" creationid="Nachec" creationdate="20221027T221724Z">
+        <seg>appearance: none;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>appearance: none;
 }</seg>
       </tuv>
@@ -69771,6 +69821,14 @@ math [id] .highlight {</seg>
         <seg>background: pink;
 }
 math [id] .highlight {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>background: red;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221724Z" creationid="Nachec" creationdate="20221027T221724Z">
+        <seg>background: red;</seg>
       </tuv>
     </tu>
     <tu>
@@ -73478,6 +73536,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>height: 2px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221725Z" creationid="Nachec" creationdate="20221027T221725Z">
+        <seg>height: 2px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>height: 30px;
 }</seg>
       </tuv>
@@ -75444,6 +75510,18 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>outline: 1px solid transparent;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221726Z" creationid="Nachec" creationdate="20221027T221726Z">
+        <seg>outline: 1px solid transparent;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>output.innerHTML += `Testing ${msg}: ${result}`;
 }</seg>
       </tuv>
@@ -75546,6 +75624,14 @@ npm link hello-wasm
         <seg>padding: 0.5em;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>padding: 0;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221725Z" creationid="Nachec" creationdate="20221027T221725Z">
+        <seg>padding: 0;</seg>
       </tuv>
     </tu>
     <tu>
