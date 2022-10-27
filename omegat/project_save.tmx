@@ -16025,10 +16025,18 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [How does the Internet work?](/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T054250Z" creationid="Nachec" creationdate="20221027T054250Z">
+        <seg>- [¿Cómo funciona la internet?](/es/docs/Learn/Common_questions/How_does_the_Internet_work)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [How does the Internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg) Detailed well visualized 9-minute video.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200630Z" creationid="Nachec" creationdate="20221025T200630Z">
-        <seg>- [¿Cómo funciona Internet?](https://www.youtube.com/watch?v=x3c1ih2NJEg) Video detallado de 8 minutos de visualización.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T054207Z" creationid="Nachec" creationdate="20221025T200630Z">
+        <seg>- [¿Cómo funciona la Internet?](https://www.youtube.com/watch?v=x3c1ih2NJEg) Video detallado de 8 minutos de visualización.</seg>
       </tuv>
     </tu>
     <tu>
