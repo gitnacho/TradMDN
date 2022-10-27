@@ -11914,6 +11914,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Featured</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T183948Z" creationid="Nachec" creationdate="20221027T183948Z">
+        <seg>- Featured</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Fetch</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070833Z" creationid="gitnacho" creationdate="20221004T070833Z">
@@ -12040,6 +12048,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172650Z" creationid="Nachec" creationdate="20221022T172358Z">
         <seg>- Para {{HTTPHeader("Content-Type")}}: debe tener un tipo MIME de su valor analizado (ignorando los parámetros) de `application/x-www-form-urlencoded`, `multipart/form-data`, o `text/plain`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Forms</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192320Z" creationid="Nachec" creationdate="20221027T192320Z">
+        <seg>- Forms</seg>
       </tuv>
     </tu>
     <tu>
@@ -24420,6 +24436,21 @@ tags:</seg>
 title: APIs Web
 slug: Web/API
 page-type: landing-page
+rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Web forms — Working with user data
+slug: Learn/Forms
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T183947Z" creationid="Nachec" creationdate="20221027T183947Z">
+        <seg>---
+title: Formularios Web — Trabajar con datos del usuario
+slug: Learn/Forms
 rue: Nachec✓
 tags:</seg>
       </tuv>
