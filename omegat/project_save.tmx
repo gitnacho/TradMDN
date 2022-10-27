@@ -32675,8 +32675,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** WebKit Nightly and Safari Technology Preview place additional restrictions on the values allowed in the {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Language")}}, and {{HTTPHeader("Content-Language")}} headers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T221024Z" creationid="gitnacho" creationdate="20221011T221024Z">
-        <seg>&gt; **Nota:** WebKit Nightly y Safari Technology Preview imponen restricciones adicionales sobre los valores permitidos en {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Language")}} y {{HTTPHeader("Content-Language")}} encabezados.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071912Z" creationid="gitnacho" creationdate="20221011T221024Z">
+        <seg>&gt; **Nota:** WebKit Nightly y Safari Technology Preview imponen restricciones adicionales sobre los valores permitidos en cabeceras {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Language")}} y {{HTTPHeader("Content-Language")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32926,8 +32926,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** You'll see that your heading level 1 has an implicit style.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071615Z" creationid="Nachec" creationdate="20221023T070936Z">
-        <seg>&gt; **Nota:** Verás que la cabecera de nivel 1 tiene un estilo implícito.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071644Z" creationid="Nachec" creationdate="20221023T070936Z">
+        <seg>&gt; **Nota:** Verás que el encabezado de nivel 1 tiene un estilo implícito.</seg>
       </tuv>
     </tu>
     <tu>
