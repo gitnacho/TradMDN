@@ -36286,8 +36286,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Bulk memory operations are a newer addition to the language (for example, in [Firefox 79](/en-US/docs/Mozilla/Firefox/Releases/79)) — seven new built-in operations are provided for bulk memory operations such as copying and initializing, to allow WebAssembly to model native functions such as `memcpy` and `memmove` in a more efficient, performant way.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074640Z" creationid="gitnacho" creationdate="20221007T074640Z">
-        <seg>Las operaciones masiva de memoria son una adición más reciente al lenguaje (por ejemplo, en [Firefox 79](/es/docs/Mozilla/Firefox/Releases/79)): se proporcionan siete nuevas operaciones integradas para operaciones masivas de memoria como copiar e inicializar, para permitir que WebAssembly modele funciones nativas como `memcpy` y `memmove` de una manera más eficiente y eficaz.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T081351Z" creationid="gitnacho" creationdate="20221007T074640Z">
+        <seg>Las operaciones masivas de memoria son una adición más reciente al lenguaje (por ejemplo, en [Firefox 79](/es/docs/Mozilla/Firefox/Releases/79)): se proporcionan siete nuevas operaciones integradas para operaciones masivas de memoria como copiar e inicializar, para permitir que WebAssembly modele funciones nativas como `memcpy` y `memmove` de una manera más eficiente y eficaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71536,8 +71536,8 @@ math .highlight {</seg>
       <tuv lang="en-US">
         <seg>i32.store  ;; store 42 at address 0</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073836Z" creationid="gitnacho" creationdate="20221007T073836Z">
-        <seg>i32.store  ;; store 42 at address 0</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T081133Z" creationid="gitnacho" creationdate="20221007T073836Z">
+        <seg>i32.store  ;; guarda 42 en la dirección 0</seg>
       </tuv>
     </tu>
     <tu>
