@@ -2488,6 +2488,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Test your skills!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223611Z" creationid="Nachec" creationdate="20221027T223611Z">
+        <seg>## ¡Pon a prueba tus habilidades!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Textual data types</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233455Z" creationid="Nachec" creationdate="20221021T233455Z">
@@ -45314,6 +45322,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is easier to just create your own custom solution for these features, if you want to be able to control the styling, or use a third-party solution such as [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js/#examples).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223535Z" creationid="Nachec" creationdate="20221027T223535Z">
+        <seg>Es más fácil simplemente crear tu propia solución personalizada para estas funciones, si deseas poder controlar el estilo, o usar una solución de terceros como [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js/#examples).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is enabled by default from Firefox 52, Chrome 57, Edge 57, Opera 44.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T105925Z" creationid="gitnacho" creationdate="20221003T105925Z">
@@ -52533,6 +52549,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073224Z" creationid="gitnacho" creationdate="20221007T073224Z">
         <seg>La respuesta es que, en este momento, solo se permite una tabla por instancia de módulo, y eso es lo que `call_indirect` está llamando implícitamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The article [How to build custom form controls](/en-US/docs/Learn/Forms/How_to_build_custom_form_controls) provides an example of how to build a custom designed select with HTML, CSS and JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223556Z" creationid="Nachec" creationdate="20221027T223556Z">
+        <seg>El artículo [Cómo crear controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls) proporciona un ejemplo de cómo crear una selección de diseño personalizado con HTML, CSS y JavaScript.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62953,6 +62977,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can find some further tests to verify that you've retained this information before you move on — see [Test your skills: Advanced styling](/en-US/docs/Learn/Forms/Test_your_skills:_Advanced_styling).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223653Z" creationid="Nachec" creationdate="20221027T223653Z">
+        <seg>Puedes encontrar más pruebas para verificar que has retenido esta información antes de continuar — consulta [Pon a prueba tus habilidades: Estilo avanzado](/es/docs/Learn/Forms/Test_your_skills:_Advanced_styling).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can find this at [memory.wasm.](https://raw.githubusercontent.com/mdn/webassembly-examples/master/js-api-examples/memory.wasm)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225527Z" creationid="gitnacho" creationdate="20221006T225527Z">
@@ -63711,6 +63743,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T182123Z" creationid="Nachec" creationdate="20221021T094825Z">
         <seg>Ya casi has terminado este módulo; solo tenemos una cosa más que hacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've reached the end of this article, but can you remember the most important information?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223621Z" creationid="Nachec" creationdate="20221027T223621Z">
+        <seg>Has llegado al final de este artículo, pero ¿puedes recordar la información más importante?</seg>
       </tuv>
     </tu>
     <tu>
