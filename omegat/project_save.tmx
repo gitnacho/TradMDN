@@ -3108,6 +3108,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Advanced Topics</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223826Z" creationid="Nachec" creationdate="20221027T223826Z">
+        <seg>### Advanced Topics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Anatomy of a CSS ruleset</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T130552Z" creationid="Nachec" creationdate="20221023T130552Z">
@@ -17640,17 +17648,17 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T195954Z" creationid="Nachec" creationdate="20221027T195954Z">
-        <seg>- [Your first form](/es/docs/Learn/Forms/Your_first_form)
-- [How to structure a web form](/es/docs/Learn/Forms/How_to_structure_a_web_form)
-- [Basic native form controls](/es/docs/Learn/Forms/Basic_native_form_controls)
-- [The HTML5 input types](/es/docs/Learn/Forms/HTML5_input_types)
-- [Other form controls](/es/docs/Learn/Forms/Other_form_controls)
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T224235Z" creationid="Nachec" creationdate="20221027T195954Z">
+        <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
+- [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
+- [Conceptos básicos de controles de formulario nativos](/es/docs/Learn/Forms/Basic_native_form_controls)
+- [Los tipos `input` de HTML5](/es/docs/Learn/Forms/HTML5_input_types)
+- [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
 - [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
-- [Advanced form styling](/es/docs/Learn/Forms/Advanced_form_styling)
-- [UI pseudo-classes](/es/docs/Learn/Forms/UI_pseudo-classes)
-- [Client-side form validation](/es/docs/Learn/Forms/Form_validation)
-- [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
+- [Estilizado avanzado de formulario](/es/docs/Learn/Forms/Advanced_form_styling)
+- [Pseudoclases de la interfaz de usuario](/es/docs/Learn/Forms/UI_pseudo-classes)
+- [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
+- [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36941,6 +36949,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bear in mind that some questions in this assessment series assume knowledge of the [next article](/en-US/docs/Learn/Forms/UI_pseudo-classes) too, so you might want to work through that article first before attempting it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223716Z" creationid="Nachec" creationdate="20221027T223716Z">
+        <seg>Ten en cuenta que algunas preguntas de esta serie de evaluaciones también asumen el conocimiento del [próximo artículo](/es/docs/Learn/Forms/UI_pseudo-classes), por lo que es posible que desees revisar ese artículo primero antes de intentarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bear in mind therefore that you need to be careful with global variables in the service worker script: each page doesn't get its own unique worker.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053147Z" creationid="gitnacho" creationdate="20220921T025214Z">
@@ -40476,6 +40492,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061108Z" creationid="gitnacho" creationdate="20221004T061108Z">
         <seg>Por ahora, el equipo de Rust se está enfocando en el último caso, y eso es lo que cubrimos aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For now, the best solution is to learn more about the way the different browsers support CSS when applied to HTML form controls.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223749Z" creationid="Nachec" creationdate="20221027T223749Z">
+        <seg>Por ahora, la mejor solución es obtener más información sobre la forma en que los diferentes navegadores admiten CSS cuando se aplican a los controles de formulario HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44115,6 +44139,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060838Z" creationid="Nachec" creationdate="20221023T060838Z">
         <seg>Anteriormente, cuando HTML era joven (cerca de 1991/2), los tipos de documento actuaban como vínculos a un conjunto de reglas que el código HTML de la página debía seguir para ser considerado bueno, lo que podía significar la verificación automática de errores y algunas otras cosas de utilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the next article of this module, we will explore the different [UI pseudo-classes](/en-US/docs/Learn/Forms/UI_pseudo-classes) available to us in modern browsers for styling forms in different states.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223814Z" creationid="Nachec" creationdate="20221027T223814Z">
+        <seg>En el próximo artículo de este módulo, exploraremos las diferentes [pseudoclases de IU](/es/docs/Learn/Forms/UI_pseudo-classes) disponibles en los navegadores modernos para estilizar formularios en diferentes estados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55798,6 +55830,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are no clean, universal solutions, but modern browsers offer new possibilities.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223735Z" creationid="Nachec" creationdate="20221027T223735Z">
+        <seg>No existen soluciones limpias y universales, pero los navegadores modernos ofrecen nuevas posibilidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are no specific assessment articles in this set of modules.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T225317Z" creationid="gitnacho" creationdate="20221018T225317Z">
@@ -62449,6 +62489,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064312Z" creationid="gitnacho" creationdate="20221007T064312Z">
         <seg>Si bien hay muchas formas de codificar la longitud de una cadena en la propia cadena (por ejemplo, cadenas C); para simplificar aquí, simplemente pasamos tanto el desplazamiento como la longitud como parámetros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While there are still difficulties using CSS with HTML forms, there are ways to get around many of the problems.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223726Z" creationid="Nachec" creationdate="20221027T223726Z">
+        <seg>Si bien todavía hay dificultades para usar CSS con formularios HTML, hay formas de solucionar muchos de los problemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79204,6 +79252,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T185327Z" creationid="Nachec" creationdate="20221025T185327Z">
         <seg>{{PreviousMenu("Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{PreviousMenuNext("Learn/Forms/Styling_web_forms", "Learn/Forms/UI_pseudo-classes", "Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223816Z" creationid="Nachec" creationdate="20221027T223816Z">
+        <seg>{{PreviousMenuNext("Learn/Forms/Styling_web_forms", "Learn/Forms/UI_pseudo-classes", "Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
