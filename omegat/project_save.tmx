@@ -48609,6 +48609,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One way around this is to take advantage of the fact that if you have a label associated with a form control, clicking the label will activate the control.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222335Z" creationid="Nachec" creationdate="20221027T222335Z">
+        <seg>Una forma de evitar esto es aprovechar el hecho de que si tiene una etiqueta asociada con un control de formulario, al hacer clic en la etiqueta se activará el control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only safelisted response headers are made available to web pages.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125857Z" creationid="Nachec" creationdate="20221022T125857Z">
@@ -50356,6 +50364,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183712Z" creationid="Nachec" creationdate="20221023T183712Z">
         <seg>Entonces, ¿para qué necesitamos las variables?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So you could hide the actual form input using something like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223019Z" creationid="Nachec" creationdate="20221027T222350Z">
+        <seg>Entonces podrías ocultar el `input` del formulario real usando algo como esto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54282,6 +54298,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221004T071351Z">
         <seg>Los métodos más antiguos [`WebAssembly.compile`](/es/docs/WebAssembly/JavaScript_interface/compile)/[`WebAssembly.instantiate`](/es/docs/WebAssembly/JavaScript_interface/instantiate) requieren que crees un {{JSxRef("ArrayBuffer")}} que contiene el binario de tu módulo WebAssembly después de obtener los bytes sin procesar y luego compilarlo/crearlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The only problem with file pickers is that the button provided that you press to open the file picker is completely unstylable — it can't be sized or colored, and it won't even accept a different font.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222314Z" creationid="Nachec" creationdate="20221027T222314Z">
+        <seg>El único problema con los selectores de archivos es que el botón que se presiona para abrir el selector de archivos está completamente sin estilo: no se le puede cambiar el tamaño ni el color, y ni siquiera aceptará una fuente diferente.</seg>
       </tuv>
     </tu>
     <tu>
