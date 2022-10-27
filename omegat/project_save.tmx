@@ -2296,6 +2296,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Solving common HTML problems</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182450Z" creationid="Nachec" creationdate="20221027T182450Z">
+        <seg>## Resolver problemas comunes de HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Some simple examples</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T111500Z" creationid="gitnacho" creationdate="20221006T111500Z">
@@ -9314,6 +9322,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Representing tabular data on a webpage in an understandable, {{glossary("Accessibility", "accessible")}} way can be a challenge.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182432Z" creationid="Nachec" creationdate="20221027T182432Z">
+        <seg>- : Representar datos tabulares en una página web de una manera comprensible y {{Glossary("Accessibility", "accesible")}} puede ser un desafío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Represents a container for a list of {{DOMxRef("Client")}} objects; the main way to access the active service worker clients at the current origin.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T150644Z" creationid="gitnacho" creationdate="20221002T150644Z">
@@ -10450,6 +10466,22 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131556Z" creationid="Nachec" creationdate="20221023T131556Z">
         <seg>- : Este es el elemento HTML en el que comienza la regla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : This module explores how to use HTML to include multimedia in your web pages, including the different ways that images can be included, and how to embed video, audio, and even entire other webpages.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182411Z" creationid="Nachec" creationdate="20221027T182411Z">
+        <seg>- : Este módulo explora cómo usar HTML para incluir multimedia en tus páginas web, incluidas las diferentes formas en que se pueden incluir imágenes y cómo insertar video, audio e incluso otras páginas web completas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : This module provides a series of articles that will help you master the essentials of web forms.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182634Z" creationid="Nachec" creationdate="20221027T182634Z">
+        <seg>- : Este módulo proporciona una serie de artículos que te ayudarán a dominar los conceptos básicos de los formularios web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15895,6 +15927,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [HTML tables](/en-US/docs/Learn/HTML/Tables)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182419Z" creationid="Nachec" creationdate="20221027T182419Z">
+        <seg>- [tablas HTML](/es/docs/Learn/HTML/Tables)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [HTML — Structuring the web](/en-US/docs/Learn/HTML)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T130907Z" creationid="gitnacho" creationdate="20221020T130907Z">
@@ -16964,6 +17004,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001302Z" creationid="gitnacho" creationdate="20221020T131158Z">
         <seg>- [Formularios web — Trabajar con datos de usuario](/es/docs/Learn/Forms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Web forms](/en-US/docs/Learn/Forms)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182624Z" creationid="Nachec" creationdate="20221027T182624Z">
+        <seg>- [Formularios Web](/es/docs/Learn/HTML/Forms)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57071,6 +57119,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This module covers basic table markup, along with more complex features such as implementing captions and summaries.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182444Z" creationid="Nachec" creationdate="20221027T182444Z">
+        <seg>Este módulo cubre el marcado básico de tablas, junto con características más complejas como la implementación de subtítulos y resúmenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This module is totally empty, but is still a valid module.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053838Z" creationid="gitnacho" creationdate="20221007T053838Z">
@@ -59696,6 +59752,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web forms are a very powerful tool for interacting with users — most commonly they are used for collecting data from users, or allowing them to control a user interface.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182645Z" creationid="Nachec" creationdate="20221027T182645Z">
+        <seg>Los formularios web son una herramienta muy poderosa para interactuar con los usuarios — generalmente, se utilizan para recopilar datos de los usuarios o para permitirles controlar una interfaz de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web pages today very commonly load cross-site resources, including CSS stylesheets, images, scripts, and other resources.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T063505Z" creationid="gitnacho" creationdate="20221012T063505Z">
@@ -62084,6 +62148,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200410Z" creationid="Nachec" creationdate="20221025T200410Z">
         <seg>[La historia de internet es algo oscura](http://en.wikipedia.org/wiki/Internet#History).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Use HTML to solve common problems](/en-US/docs/Learn/HTML/Howto) provides links to sections of content explaining how to use HTML to solve very common problems when creating a webpage: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182514Z" creationid="Nachec" creationdate="20221027T182514Z">
+        <seg>[Usa HTML para resolver problemas comunes](/es/docs/Learn/HTML/Howto) proporciona vínculos a secciones de contenido que explican cómo usar HTML para resolver muchos problemas comunes al crear una página web: lidiar con títulos, agregar imágenes o videos, enfatizar contenido, crear una forma básica, etc.</seg>
       </tuv>
     </tu>
     <tu>
