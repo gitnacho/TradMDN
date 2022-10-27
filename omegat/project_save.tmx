@@ -8886,8 +8886,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Indicates how long the results of a preflight request can be cached.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210815Z" creationid="gitnacho" creationdate="20221017T210815Z">
-        <seg>- : Indica cuánto tiempo se pueden almacenar en caché los resultados de una solicitud de verificación previa.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065919Z" creationid="gitnacho" creationdate="20221017T210815Z">
+        <seg>- : Indica cuánto tiempo se pueden almacenar en caché los resultados de una petición de verificación previa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10664,16 +10664,16 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Used when issuing a preflight request to let the server know which HTTP headers will be used when the actual request is made.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T184951Z" creationid="gitnacho" creationdate="20221017T210831Z">
-        <seg>- : Se utiliza al emitir una solicitud de verificación previa para que el servidor sepa qué cabeceras HTTP se utilizarán cuando se realice la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065926Z" creationid="gitnacho" creationdate="20221017T210831Z">
+        <seg>- : Se utiliza al emitir una petición de verificación previa para que el servidor sepa qué cabeceras HTTP se utilizarán cuando se realice la petición real.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- : Used when issuing a preflight request to let the server know which [HTTP method](/en-US/docs/Web/HTTP/Methods) will be used when the actual request is made.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210849Z" creationid="gitnacho" creationdate="20221017T210849Z">
-        <seg>- : Se utiliza al emitir una solicitud de verificación previa para que el servidor sepa qué [método HTTP](/es/docs/Web/HTTP/Methods) se utilizará cuando se realice la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065931Z" creationid="gitnacho" creationdate="20221017T210849Z">
+        <seg>- : Se utiliza al emitir una petición de verificación previa para que el servidor sepa qué [método HTTP](/es/docs/Web/HTTP/Methods) se utilizará cuando se realice la petición real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20558,8 +20558,8 @@ browser-compat: api.Document.timeline
       <tuv lang="en-US">
         <seg>- {{Glossary("CORS-safelisted request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162933Z" creationid="gitnacho" creationdate="20221017T211953Z">
-        <seg>- {{Glossary("CORS-safelisted request header", "Cabecera de solicitud incluida en la lista segura de CORS")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070009Z" creationid="gitnacho" creationdate="20221017T211953Z">
+        <seg>- {{Glossary("CORS-safelisted request header", "Cabecera de petición incluida en la lista segura de CORS")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20594,16 +20594,16 @@ browser-compat: api.Document.timeline
       <tuv lang="en-US">
         <seg>- {{Glossary("Fetch metadata request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162354Z" creationid="gitnacho" creationdate="20221017T211951Z">
-        <seg>- {{Glossary("Fetch metadata request header", "Cabecera de solicitud para obtener metadatos")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070004Z" creationid="gitnacho" creationdate="20221017T211951Z">
+        <seg>- {{Glossary("Fetch metadata request header", "Cabecera de petición para obtener metadatos")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{Glossary("Fetch metadata request header")}}: Headers with metadata about the resource in the message body (e.g. encoding, media type, etc.).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162317Z" creationid="gitnacho" creationdate="20221017T211720Z">
-        <seg>- {{Glossary("Fetch metadata request header", "Cabecera de solicitud para obtener metadatos")}}: Cabeceras con metadatos sobre el recurso en el cuerpo del mensaje (por ejemplo, codificación, tipo de medio, etc.).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065955Z" creationid="gitnacho" creationdate="20221017T211720Z">
+        <seg>- {{Glossary("Fetch metadata request header", "Cabecera de petición para obtener metadatos")}}: Cabeceras con metadatos sobre el recurso en el cuerpo del mensaje (por ejemplo, codificación, tipo de medio, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20682,8 +20682,8 @@ browser-compat: api.Document.timeline
       <tuv lang="en-US">
         <seg>- {{Glossary("Request header")}}: Headers containing more information about the resource to be fetched or about the client itself.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161318Z" creationid="gitnacho" creationdate="20221017T211558Z">
-        <seg>- {{Glossary("Request header", "Cabecera de solicitud — request")}}: Cabeceras que contienen más información sobre el recurso a buscar o sobre el propio cliente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065949Z" creationid="gitnacho" creationdate="20221017T211558Z">
+        <seg>- {{Glossary("Request header", "Cabecera de petición — request")}}: Cabeceras que contienen más información sobre el recurso a buscar o sobre el propio cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33594,8 +33594,8 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
       <tuv lang="en-US">
         <seg>A **request header** is an {{glossary("HTTP header")}} that can be used in an HTTP request to provide information about the request context, so that the server can tailor the response.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020745Z" creationid="Nachec" creationdate="20221022T020509Z">
-        <seg>Una **cabecera `request`** es una {{Glossary("HTTP header", "Cabecera HttP")}} que se puede usar en una solicitud HTTP para proporcionar información sobre el contexto de la solicitud, de modo que el servidor pueda adaptar la respuesta.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070048Z" creationid="Nachec" creationdate="20221022T020509Z">
+        <seg>Una **cabecera `request`** es una {{Glossary("HTTP header", "Cabecera HttP")}} que se puede usar en una petición HTTP para proporcionar información sobre el contexto de la petición, de modo que el servidor pueda adaptar la respuesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33764,8 +33764,8 @@ fields:</seg>
       <tuv lang="en-US">
         <seg>A basic request with one header:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T080051Z" creationid="gitnacho" creationdate="20221017T211727Z">
-        <seg>Una solicitud básica con una cabecera:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065956Z" creationid="gitnacho" creationdate="20221017T211727Z">
+        <seg>Una petición básica con una cabecera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34992,8 +34992,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An **HTTP header** is a field of an HTTP request or response that passes additional context and metadata about the request or response.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T161115Z" creationid="gitnacho" creationdate="20221017T211423Z">
-        <seg>Una **cabecera HTTP** es un campo de una solicitud o respuesta —`request` y `response` respectivamente en inglés— HTTP que transmite contexto y metadatos adicionales sobre la solicitud o respuesta.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065944Z" creationid="gitnacho" creationdate="20221017T211423Z">
+        <seg>Una **cabecera HTTP** es un campo de una petición o respuesta —`request` y `response` respectivamente en inglés— HTTP que transmite contexto y metadatos adicionales sobre la petición o respuesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35088,8 +35088,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An arrow labelled request is going from client to server, and an arrow labelled responses is going from server to client](simple-client-server.png)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190155Z" creationid="Nachec" creationdate="20221025T190155Z">
-        <seg>Una solicitud con la etiqueta de flecha va del cliente al servidor, y una respuesta con la etiqueta de flecha va del servidor al cliente](simple-client-server.png)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070113Z" creationid="Nachec" creationdate="20221025T190155Z">
+        <seg>Una petición con la etiqueta de flecha va del cliente al servidor, y una respuesta con la etiqueta de flecha va del servidor al cliente](simple-client-server.png)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37921,8 +37921,8 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>Entity headers may be present in both HTTP request and response messages.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154936Z" creationid="Nachec" creationdate="20221022T154936Z">
-        <seg>Las cabeceras de entidad pueden estar presentes tanto en la solicitud HTTP como en los mensajes de respuesta.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065934Z" creationid="Nachec" creationdate="20221022T154936Z">
+        <seg>Las cabeceras de entidad pueden estar presentes tanto en la petición HTTP como en los mensajes de respuesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38789,8 +38789,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, a request message can use headers to indicate it's preferred media formats, while a response can use header to indicate the media format of the returned body.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T075838Z" creationid="gitnacho" creationdate="20221017T211446Z">
-        <seg>Por ejemplo, un mensaje de solicitud puede usar cabeceras para indicar sus formatos de medios preferidos, mientras que una respuesta puede usar cabeceras para indicar el formato de medios del cuerpo devuelto.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065947Z" creationid="gitnacho" creationdate="20221017T211446Z">
+        <seg>Por ejemplo, un mensaje de petición puede usar cabeceras para indicar sus formatos de medios preferidos, mientras que una respuesta puede usar cabeceras para indicar el formato de medios del cuerpo devuelto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40978,8 +40978,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If sent as a response to a `HEAD` request, they describe the body content that _would_ be selected if the resource was actually requested.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153725Z" creationid="Nachec" creationdate="20221022T022144Z">
-        <seg>Si se envía como respuesta a una solicitud `HEAD`, describe el contenido del cuerpo que _sería_ seleccionado si el recurso fuera realmente solicitado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070037Z" creationid="Nachec" creationdate="20221022T022144Z">
+        <seg>Si se envía como respuesta a una petición `HEAD`, describe el contenido del cuerpo que _sería_ seleccionado si el recurso fuera realmente solicitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41179,8 +41179,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the server approves the client's request, the server sends the client a "200 OK" message, which means "Of course you can look at that website!</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T191047Z" creationid="Nachec" creationdate="20221025T191021Z">
-        <seg>Siempre que el servidor apruebe la solicitud del cliente, el servidor enviará al cliente un mensaje "*200 OK*", que significa, *¡por supuesto que puedes ver ese sitio web!</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070117Z" creationid="Nachec" creationdate="20221025T191021Z">
+        <seg>Siempre que el servidor apruebe la petición del cliente, el servidor enviará al cliente un mensaje "*200 OK*", que significa, *¡por supuesto que puedes ver ese sitio web!</seg>
       </tuv>
     </tu>
     <tu>
@@ -42213,8 +42213,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In addition, [CORS](/en-US/docs/Glossary/CORS) defines a subset of request headers as {{glossary('simple header', 'simple headers')}}, request headers that are always considered authorized and are not explicitly listed in responses to {{glossary("preflight request", "preflight")}} requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063815Z" creationid="Nachec" creationdate="20221022T021045Z">
-        <seg>Además, [CORS](/es/docs/Glossary/CORS) define un subconjunto de cabeceras de solicitud como {{Glossary('simple header', 'Cabeceras simples')}}, cabeceras de solicitud que siempre se consideran autorizadas y no se enumeran explícitamente en las respuestas a {{Glossary("preflight request", "peticiones de preverificación — preflight")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070104Z" creationid="Nachec" creationdate="20221022T021045Z">
+        <seg>Además, [CORS](/es/docs/Glossary/CORS) define un subconjunto de cabeceras de petición como {{Glossary('simple header', 'Cabeceras simples')}}, cabeceras de petición que siempre se consideran autorizadas y no se enumeran explícitamente en las respuestas a {{Glossary("preflight request", "peticiones de preverificación — preflight")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43624,8 +43624,8 @@ relevant header and serve an actual page to the user.</seg>
       <tuv lang="en-US">
         <seg>It appears when request is qualified as ["to be preflighted"](/en-US/docs/Web/HTTP/CORS#preflighted_requests) and omitted for [simple requests](/en-US/docs/Web/HTTP/CORS#simple_requests).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063740Z" creationid="gitnacho" creationdate="20221011T225024Z">
-        <seg>Aparece cuando la solicitud se califica como ["para preverificar"](/es/docs/Web/HTTP/CORS#preflighted_requests) y se omite para [peticiones simples](/es/docs/Web/HTTP/CORS #peticiones_simples).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070030Z" creationid="gitnacho" creationdate="20221011T225024Z">
+        <seg>Aparece cuando la petición se califica como ["para preverificar"](/es/docs/Web/HTTP/CORS#preflighted_requests) y se omite para [peticiones simples](/es/docs/Web/HTTP/CORS #peticiones_simples).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46147,8 +46147,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>Not all headers that can appear in a request are referred to as _request headers_ by the specification.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T020902Z" creationid="Nachec" creationdate="20221022T020902Z">
-        <seg>No todas las cabeceras que pueden aparecer en una solicitud se denominan _cabeceras de solicitud_ en la especificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070056Z" creationid="Nachec" creationdate="20221022T020902Z">
+        <seg>No todas las cabeceras que pueden aparecer en una petición se denominan _cabeceras de petición_ en la especificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46872,8 +46872,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Old term for {{Glossary("CORS-safelisted request header")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T205053Z" creationid="Nachec" creationdate="20221022T072056Z">
-        <seg>Término antiguo para {{Glossary("CORS-safelisted request header", "Cabecera de solicitud incluida en la lista segura de CORS")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070111Z" creationid="Nachec" creationdate="20221022T072056Z">
+        <seg>Término antiguo para {{Glossary("CORS-safelisted request header", "Cabecera de petición incluida en la lista segura de CORS")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47512,8 +47512,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Payload headers may be present in both HTTP request and response messages (i.e. in any message that is carrying payload data).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T141916Z" creationid="Nachec" creationdate="20221022T141916Z">
-        <seg>Las cabeceras de carga útil pueden estar presentes tanto en la solicitud HTTP como en los mensajes de respuesta (es decir, en cualquier mensaje que transporte datos de carga útil).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070013Z" creationid="Nachec" creationdate="20221022T141916Z">
+        <seg>Las cabeceras de carga útil pueden estar presentes tanto en la petición HTTP como en los mensajes de respuesta (es decir, en cualquier mensaje que transporte datos de carga útil).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47836,8 +47836,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Representation headers may be present in both HTTP request and response messages.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T153647Z" creationid="Nachec" creationdate="20221022T022107Z">
-        <seg>La cabecera de representación puede estar presente tanto en la solicitud HTTP como en los mensajes de respuesta.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070035Z" creationid="Nachec" creationdate="20221022T022107Z">
+        <seg>La cabecera de representación puede estar presente tanto en la petición HTTP como en los mensajes de respuesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50251,8 +50251,8 @@ que se puede utilizar para acceder a {{domxref("User-Agent Client Hints API")}}.
       <tuv lang="en-US">
         <seg>The HTTP message below shows a few request headers after a {{HTTPMethod("GET")}} request:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021103Z" creationid="Nachec" creationdate="20221022T021103Z">
-        <seg>El siguiente mensaje HTTP muestra algunas cabeceras de solicitud después de una solicitud {{HTTPMethod("GET")}}:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070109Z" creationid="Nachec" creationdate="20221022T021103Z">
+        <seg>El siguiente mensaje HTTP muestra algunas cabeceras de petición después de una petición {{HTTPMethod("GET")}}:</seg>
       </tuv>
     </tu>
     <tu>
