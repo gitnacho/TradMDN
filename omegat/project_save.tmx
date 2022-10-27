@@ -12015,9 +12015,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Functions</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T044738Z" creationid="gitnacho" creationdate="20221007T044738Z">
-        <seg>- Functions
-  - Funciones</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073414Z" creationid="gitnacho" creationdate="20221007T044738Z">
+        <seg>- Functions</seg>
       </tuv>
     </tu>
     <tu>
@@ -13633,9 +13632,8 @@ browser-compat: http.headers.Accept-Language
       <tuv lang="en-US">
         <seg>- S-expressions</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T044759Z" creationid="gitnacho" creationdate="20221007T044759Z">
-        <seg>- S-expressions
-  - expresiones-S</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073416Z" creationid="gitnacho" creationdate="20221007T044759Z">
+        <seg>- S-expressions</seg>
       </tuv>
     </tu>
     <tu>
@@ -19498,9 +19496,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- calls</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T044808Z" creationid="gitnacho" creationdate="20221007T044808Z">
-        <seg>- calls
-  - llamadas</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073417Z" creationid="gitnacho" creationdate="20221007T044808Z">
+        <seg>- calls</seg>
       </tuv>
     </tu>
     <tu>
@@ -19805,9 +19802,8 @@ browser-compat: javascript.builtins.WebAssembly.instantiate
       <tuv lang="en-US">
         <seg>- memory</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T111251Z" creationid="gitnacho" creationdate="20221006T111251Z">
-        <seg>- memory
-  - memoria</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073420Z" creationid="gitnacho" creationdate="20221006T111251Z">
+        <seg>- memory</seg>
       </tuv>
     </tu>
     <tu>
@@ -19926,9 +19922,8 @@ browser-compat: api.Worker.postMessage
       <tuv lang="en-US">
         <seg>- shared address</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T044822Z" creationid="gitnacho" creationdate="20221007T044822Z">
-        <seg>- shared address
-  - dirección compartida</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073421Z" creationid="gitnacho" creationdate="20221007T044822Z">
+        <seg>- shared address</seg>
       </tuv>
     </tu>
     <tu>
@@ -20030,9 +20025,8 @@ browser-compat: javascript.builtins.WebAssembly.instantiateStreaming
       <tuv lang="en-US">
         <seg>- table</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T044829Z" creationid="gitnacho" creationdate="20221007T044829Z">
-        <seg>- table
-  - tabla</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073423Z" creationid="gitnacho" creationdate="20221007T044829Z">
+        <seg>- table</seg>
       </tuv>
     </tu>
     <tu>
@@ -20145,9 +20139,8 @@ browser-compat: html.elements.script
       <tuv lang="en-US">
         <seg>- text format</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T003632Z" creationid="gitnacho" creationdate="20221003T003632Z">
-        <seg>- formato de texto
-  - text format</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073425Z" creationid="gitnacho" creationdate="20221003T003632Z">
+        <seg>- text format</seg>
       </tuv>
     </tu>
     <tu>
@@ -35312,8 +35305,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>And their cross-origin (and cross-site) counterparts need to set the same header with `cross-origin` as value.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030407Z" creationid="gitnacho" creationdate="20220923T030407Z">
-        <seg>Y sus contrapartes de origen cruzado (y de sitios cruzados) deben establecer el mismo encabezado con "origen cruzado" —`cross-origin`— como valor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073238Z" creationid="gitnacho" creationdate="20220923T030407Z">
+        <seg>Y sus contrapartes de origen cruzado (y de sitios cruzados) deben establecer la misma cabecera con "origen cruzado" —`cross-origin`— como valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41323,8 +41316,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If we convert our module to binary now (see [Converting WebAssembly text format to wasm](/en-US/docs/WebAssembly/Text_format_to_wasm)), we'll see just the 8 byte module header described in the [binary format](https://webassembly.github.io/spec/core/binary/index.html#high-level-structure):</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053945Z" creationid="gitnacho" creationdate="20221007T053945Z">
-        <seg>Si convertimos nuestro módulo a binario ahora (consulta [Convertir el formato de texto de WebAssembly a `wasm`](/es/docs/WebAssembly/Text_format_to_wasm)), veremos solo el encabezado del módulo de 8 bytes descrito en el [formato binario](https://webassembly.github.io/spec/core/binary/index.html#high-level-structure):</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073338Z" creationid="gitnacho" creationdate="20221007T053945Z">
+        <seg>Si convertimos nuestro módulo a binario ahora (consulta [Convertir el formato de texto de WebAssembly a `wasm`](/es/docs/WebAssembly/Text_format_to_wasm)), veremos solo la cabecera del módulo de 8 bytes descrito en el [formato binario](https://webassembly.github.io/spec/core/binary/index.html#high-level-structure):</seg>
       </tuv>
     </tu>
     <tu>
@@ -57762,8 +57755,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To compile this program, you need to tell the compiler where it can find libwebp's header files using the `-I` flag and also pass it all the C files of libwebp that it needs.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053603Z" creationid="gitnacho" creationdate="20221004T053603Z">
-        <seg>Para compilar este programa, necesitas decirle al compilador dónde puede encontrar los archivos de encabezado de `libwebp` usando el indicador `-I` y también pasarle todos los archivos C de `libwebp` que necesita.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073304Z" creationid="gitnacho" creationdate="20221004T053603Z">
+        <seg>Para compilar este programa, necesitas decirle al compilador dónde puede encontrar los archivos de cabecera de `libwebp` usando el indicador `-I` y también pasarle todos los archivos C de `libwebp` que necesita.</seg>
       </tuv>
     </tu>
     <tu>
