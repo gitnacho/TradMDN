@@ -6594,8 +6594,8 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       <tuv lang="en-US">
         <seg>(see [selective caching live](https://googlechrome.github.io/samples/service-worker/selective-caching/)) The code uses {{domxref("CacheStorage.open()")}} to open any `Cache` objects with a `Content-Type` header that starts with `font/`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T203555Z">
-        <seg>(ve el [almacenamiento en caché selectivo en vivo](https://googlechrome.github.io/samples/service-worker/selective-caching/)) El código usa {{DOMxRef("CacheStorage.open()")}} para abrir cualquier objeto `Cache` con un encabezado `Content-Type` que comienza con `font/`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072703Z" creationid="gitnacho" creationdate="20221003T203555Z">
+        <seg>(ve el [almacenamiento en caché selectivo en vivo](https://googlechrome.github.io/samples/service-worker/selective-caching/)) El código usa {{DOMxRef("CacheStorage.open()")}} para abrir cualquier objeto `Cache` con una cabecera `Content-Type` que comienza con `font/`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26428,8 +26428,8 @@ const myBuf = new ArrayBuffer(8);</seg>
       <tuv lang="en-US">
         <seg>// i.e. have a Content-Type response header that starts with "font/".</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T204634Z" creationid="gitnacho" creationdate="20221003T204634Z">
-        <seg>// es decir, tener un encabezado de respuesta de tipo de contenido que comience con "font/".</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072911Z" creationid="gitnacho" creationdate="20221003T204634Z">
+        <seg>// es decir, tener una cabecera de respuesta Content-Type que comience con "font/".</seg>
       </tuv>
     </tu>
     <tu>
@@ -32467,8 +32467,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** The key matching algorithm depends on the [VARY header](https://www.fastly.com/blog/best-practices-using-vary-header) in the value.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203125Z" creationid="gitnacho" creationdate="20221003T203125Z">
-        <seg>&gt; **Nota:** El algoritmo de coincidencia de claves depende del valor en el [encabezado VARY](https://www.fastly.com/blog/best-practices-using-vary-header).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072652Z" creationid="gitnacho" creationdate="20221003T203125Z">
+        <seg>&gt; **Nota:** El algoritmo de coincidencia de claves depende del valor en la [cabecera VARY](https://www.fastly.com/blog/best-practices-using-vary-header).</seg>
       </tuv>
     </tu>
     <tu>
