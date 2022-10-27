@@ -18403,6 +18403,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `:checked` — the checkbox (or radio button) is in a checked state — the user has clicked/activated it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215345Z" creationid="Nachec" creationdate="20221027T215345Z">
+        <seg>- `:checked`: la casilla de verificación (o botón de radio) está en un estado marcado: el usuario ha hecho clic/activado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `:disabled` — the checkbox (or radio button) is in a disabled state — it cannot be interacted with.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215412Z" creationid="Nachec" creationdate="20221027T215412Z">
+        <seg>- `:disabled` — la casilla de verificación (o botón de radio) está en un estado deshabilitado — no se puede interactuar con él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `;q=` (q-factor weighting)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110415Z" creationid="Nachec" creationdate="20221022T110415Z">
@@ -26216,6 +26232,14 @@ celda 4 | celda 5 | celda 6
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>/* Adjusts the position of the checkboxes on the text baseline */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215220Z" creationid="Nachec" creationdate="20221027T215220Z">
+        <seg>/* Ajusta la posición de las casillas de verificación en la línea de base del texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/* Log output
 example.js:40 WebAssembly.Exception: wasm exception
 example.js:41 getArg 0 : 1
@@ -26244,6 +26268,22 @@ example.js:40 WebAssembly.Exception: wasm exception
 example.js:41 getArg 0 : 42
 */
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Set here so that Windows' High-Contrast Mode can override */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215227Z" creationid="Nachec" creationdate="20221027T215227Z">
+        <seg>/* Establecer aquí para que el modo de alto contraste de Windows pueda anularse */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Use `visibility` instead of `display` to avoid recalculating layout */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215250Z" creationid="Nachec" creationdate="20221027T215250Z">
+        <seg>/* Usa `visibility` en lugar de `display` para evitar volver a calcular el diseño */</seg>
       </tuv>
     </tu>
     <tu>
@@ -28182,6 +28222,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/fieldset&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215123Z" creationid="Nachec" creationdate="20221027T215123Z">
+        <seg>&lt;/fieldset&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/form&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T012757Z" creationid="gitnacho" creationdate="20220901T012757Z">
@@ -29749,6 +29801,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" name="fruit" value="banana" disabled /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215107Z" creationid="Nachec" creationdate="20221027T215107Z">
+        <seg>&lt;input type="checkbox" name="fruit" value="banana" disabled /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" name="fruit" value="cherry" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215059Z" creationid="Nachec" creationdate="20221027T215059Z">
+        <seg>&lt;input type="checkbox" name="fruit" value="cherry" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" name="fruit" value="strawberry" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215115Z" creationid="Nachec" creationdate="20221027T215115Z">
+        <seg>&lt;input type="checkbox" name="fruit" value="strawberry" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;la-tex display="block"&gt;\frac{1}{\sqrt{2}}&lt;/la-tex&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080355Z" creationid="Nachec" creationdate="20221021T080355Z">
@@ -29817,6 +29893,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T012134Z" creationid="gitnacho" creationdate="20220901T012134Z">
         <seg>&lt;label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;legend&gt;Fruit preferences&lt;/legend&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215057Z" creationid="Nachec" creationdate="20221027T215057Z">
+        <seg>&lt;legend&gt;Preferencias de frutas&lt;/legend&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41474,6 +41558,30 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I can't like banana</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215114Z" creationid="Nachec" creationdate="20221027T215114Z">
+        <seg>no me puede gustar el plátano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I like cherry</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215106Z" creationid="Nachec" creationdate="20221027T215106Z">
+        <seg>me gusta la cereza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I like strawberry</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215122Z" creationid="Nachec" creationdate="20221027T215122Z">
+        <seg>me gusta la fresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IANA also maintains a [registry of proposed new HTTP message headers](https://www.iana.org/assignments/message-headers/message-headers.xhtml#prov-headers).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T065425Z" creationid="gitnacho" creationdate="20221012T064404Z">
@@ -46081,6 +46189,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's start by unstyling the original check boxes:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215149Z" creationid="Nachec" creationdate="20221027T215149Z">
+        <seg>Comencemos quitando el estilo original de las casillas de verificación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's start exploring this by looking at a quick example.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T182354Z" creationid="gitnacho" creationdate="20221006T182354Z">
@@ -47707,6 +47823,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035043Z" creationid="gitnacho" creationdate="20220921T035043Z">
         <seg>Ahora que tienes los activos de tu sitio almacenados en caché, debes decir al *service worker* que haga algo con el contenido almacenado en caché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now, let's style these with a custom checkbox design.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215139Z" creationid="Nachec" creationdate="20221027T215139Z">
+        <seg>Ahora, estilicemos estos con un diseño de casilla de verificación personalizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60142,6 +60266,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can use the {{cssxref(":checked")}} and {{cssxref(":disabled")}} pseudo-classes to change the appearance of our custom checkbox as its state changes:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215211Z" creationid="Nachec" creationdate="20221027T215211Z">
+        <seg>Podemos usar las pseudoclases {{CSSxRef(":checked")}} y {{CSSxRef(":disabled")}} para cambiar la apariencia de nuestra casilla de verificación personalizada a medida que cambia su estado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We chose the text "Mozilla Manifesto".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T115742Z" creationid="Nachec" creationdate="20221023T104742Z">
@@ -62929,6 +63061,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You'll find out more about such pseudo-classes and more in the [next article](/en-US/docs/Learn/Forms/UI_pseudo-classes); the above ones do the following:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215323Z" creationid="Nachec" creationdate="20221027T215323Z">
+        <seg>Encontrarás más información sobre estas pseudoclases y más en el [próximo artículo](/es/docs/Learn/Forms/UI_pseudo-classes); lo anterior hace lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You'll notice that throughout this article, we ask you to name folders and files completely in lowercase with no spaces.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044012Z" creationid="Nachec" creationdate="20221023T044012Z">
@@ -64529,6 +64669,16 @@ input {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204312Z" creationid="Nachec" creationdate="20221027T204312Z">
         <seg>```css
 input {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+input[type="checkbox"] {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215150Z" creationid="Nachec" creationdate="20221027T215150Z">
+        <seg>```css
+input[type="checkbox"] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -69049,6 +69199,14 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>background: #ddd;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215253Z" creationid="Nachec" creationdate="20221027T215253Z">
+        <seg>background: #ddd;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>background: lightblue;
 }
 p {</seg>
@@ -69139,6 +69297,14 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border-color: black;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215252Z" creationid="Nachec" creationdate="20221027T215252Z">
+        <seg>border-color: black;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>border-radius: 10px 10%;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225120Z" creationid="Nachec" creationdate="20221021T225120Z">
@@ -69155,6 +69321,14 @@ math [id] .highlight {</seg>
         <seg>border: 1px solid black;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>border: 1px solid gray;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215213Z" creationid="Nachec" creationdate="20221027T215213Z">
+        <seg>border: 1px solid gray;</seg>
       </tuv>
     </tu>
     <tu>
@@ -69595,6 +69769,28 @@ math [id] .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142858Z" creationid="Nachec" creationdate="20221023T142858Z">
         <seg>color: #00539f;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>color: gray;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215254Z" creationid="Nachec" creationdate="20221027T215254Z">
+        <seg>color: gray;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>color: green;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215228Z" creationid="Nachec" creationdate="20221027T215228Z">
+        <seg>color: green;
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -71428,6 +71624,14 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>content: "✔";</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215229Z" creationid="Nachec" creationdate="20221027T215229Z">
+        <seg>content: "✔";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>context_object_name = 'my_book_list'</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T174219Z" creationid="gitnacho" creationdate="20221012T174219Z">
@@ -72154,6 +72358,14 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font-size: 1.2em;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215230Z" creationid="Nachec" creationdate="20221027T215230Z">
+        <seg>font-size: 1.2em;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140054Z" creationid="Nachec" creationdate="20221023T140054Z">
@@ -72590,6 +72802,14 @@ math .highlight {</seg>
         <seg>height: 100px;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>height: 1em;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215213Z" creationid="Nachec" creationdate="20221027T215213Z">
+        <seg>height: 1em;</seg>
       </tuv>
     </tu>
     <tu>
@@ -73316,6 +73536,30 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205241Z" creationid="Nachec" creationdate="20221027T205241Z">
         <seg>input[type="checkbox"] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>input[type="checkbox"]::before {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215229Z" creationid="Nachec" creationdate="20221027T215229Z">
+        <seg>input[type="checkbox"]::before {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>input[type="checkbox"]:checked::before {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215233Z" creationid="Nachec" creationdate="20221027T215233Z">
+        <seg>input[type="checkbox"]:checked::before {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>input[type="checkbox"]:disabled {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215252Z" creationid="Nachec" creationdate="20221027T215252Z">
+        <seg>input[type="checkbox"]:disabled {</seg>
       </tuv>
     </tu>
     <tu>
@@ -74616,6 +74860,22 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>position: absolute;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215230Z" creationid="Nachec" creationdate="20221027T215230Z">
+        <seg>position: absolute;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>position: relative;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215211Z" creationid="Nachec" creationdate="20221027T215211Z">
+        <seg>position: relative;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pre {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T233559Z" creationid="nachec" creationdate="20220804T233559Z">
@@ -75514,6 +75774,14 @@ api.free_result(resultPointer);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>right: -1px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215231Z" creationid="Nachec" creationdate="20221027T215231Z">
+        <seg>right: -1px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>role="button"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013729Z" creationid="gitnacho" creationdate="20220901T013729Z">
@@ -76396,6 +76664,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>top: -0.3em;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215231Z" creationid="Nachec" creationdate="20221027T215231Z">
+        <seg>top: -0.3em;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>transaction.onerror = (event) =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T212636Z" creationid="gitnacho" creationdate="20220922T212636Z">
@@ -76584,6 +76860,34 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>vertical-align: -2px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215221Z" creationid="Nachec" creationdate="20221027T215221Z">
+        <seg>vertical-align: -2px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>visibility: hidden;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215232Z" creationid="Nachec" creationdate="20221027T215232Z">
+        <seg>visibility: hidden;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>visibility: visible;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215251Z" creationid="Nachec" creationdate="20221027T215251Z">
+        <seg>visibility: visible;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wat2wasm simple.wat -o simple.wasm</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182901Z" creationid="gitnacho" creationdate="20221007T182901Z">
@@ -76636,6 +76940,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205242Z" creationid="Nachec" creationdate="20221027T205242Z">
         <seg>width: 100px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width: 1em;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215212Z" creationid="Nachec" creationdate="20221027T215212Z">
+        <seg>width: 1em;</seg>
       </tuv>
     </tu>
     <tu>
