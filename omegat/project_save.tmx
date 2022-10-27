@@ -16871,8 +16871,9 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193451Z" creationid="Nachec" creationdate="20221027T193451Z">
-        <seg>- [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T194545Z" creationid="Nachec" creationdate="20221027T193451Z">
+        <seg>- [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)
+</seg>
       </tuv>
     </tu>
     <tu>
