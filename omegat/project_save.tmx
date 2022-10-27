@@ -44059,6 +44059,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is recommended that you work through [Getting started with the web](/en-US/docs/Learn/Getting_started_with_the_web) before attempting this topic.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T181842Z" creationid="Nachec" creationdate="20221027T181842Z">
+        <seg>Se recomienda que trabajes con [Primeros pasos en la web](/es/docs/Learn/Getting_started_with_the_web) antes de intentar este tema, sin embargo, no es absolutamente necesario;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is recommended to provide a fallback mechanism for browsers without MathML support.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075247Z" creationid="Nachec" creationdate="20221021T075247Z">
