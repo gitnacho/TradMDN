@@ -15945,8 +15945,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [HTML tables](/en-US/docs/Learn/HTML/Tables)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182419Z" creationid="Nachec" creationdate="20221027T182419Z">
-        <seg>- [tablas HTML](/es/docs/Learn/HTML/Tables)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T183222Z" creationid="Nachec" creationdate="20221027T182419Z">
+        <seg>- [Tablas HTML](/es/docs/Learn/HTML/Tables)</seg>
       </tuv>
     </tu>
     <tu>
