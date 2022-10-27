@@ -2768,6 +2768,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## What can be done about the "ugly" elements?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215642Z" creationid="Nachec" creationdate="20221027T215642Z">
+        <seg>## ¿Qué se puede hacer con los elementos "feos"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## What else should be done?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T050141Z" creationid="Nachec" creationdate="20221023T050141Z">
@@ -16993,6 +17001,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Styled radio buttons](https://mdn.github.io/learning-area/html/forms/styling-examples/radios-styled.html): Custom radio button styling.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215454Z" creationid="Nachec" creationdate="20221027T215454Z">
+        <seg>- [Botones de opción con estilo](https://mdn.github.io/learning-area/html/forms/styling-examples/radios-styled.html): Estilo de botón de opción personalizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Styling web forms](/en-US/docs/Learn/Forms/Styling_web_forms)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193154Z" creationid="Nachec" creationdate="20221027T193154Z">
@@ -17137,6 +17153,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084029Z" creationid="Nachec" creationdate="20221021T084029Z">
         <seg>- [Tres famosas fórmulas matemáticas](/es/docs/Learn/MathML/First_steps/Three_famous_mathematical_formulas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Toggle switch example](https://mdn.github.io/learning-area/html/forms/toggle-switch-example/): A checkbox styled to look like a toggle switch.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215535Z" creationid="Nachec" creationdate="20221027T215535Z">
+        <seg>- [Ejemplo de interruptor de palanca](https://mdn.github.io/learning-area/html/forms/toggle-switch-example/): Una casilla de verificación estilizada para parecerse a un interruptor de palanca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33494,6 +33518,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** While Internet Explorer doesn't support any version of `appearance`, the `input[type=checkbox]::-ms-check` enables the targeting of checkboxes in IE only.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215622Z" creationid="Nachec" creationdate="20221027T215622Z">
+        <seg>&gt; **Nota:** Si bien, Internet Explorer no es compatible con ninguna versión de `apearance`, `input[type=checkbox]::-ms-check` permite seleccionar casillas de verificación solo en IE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** You can also convert the assembly back into the text representation using the wasm2wat tool; for example `wasm2wat simple.wasm -o text.wat`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182922Z" creationid="gitnacho" creationdate="20221007T182922Z">
@@ -42664,6 +42696,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you view these checkboxes in a browser that doesn't support {{cssxref("appearance")}}, your custom design will be lost, but they will still look like checkboxes and be usable.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215551Z" creationid="Nachec" creationdate="20221027T215551Z">
+        <seg>Si ves estas casillas de verificación en un navegador que no es compatible con {{CSSxRef("appearance")}}, tu estilo personalizado se perderá, pero aún se verán como casillas de verificación y se podrán utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to access the memory created in JS from Wasm or vice versa, you can pass a reference to the memory from one side to the other.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000220Z" creationid="gitnacho" creationdate="20221008T000220Z">
@@ -43517,6 +43557,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064122Z" creationid="gitnacho" creationdate="20221004T064122Z">
         <seg>En resumen, `wasm-pack build`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In short, these are drop-down boxes, complex control types like [`color`](/en-US/docs/Web/HTML/Element/input/color) and [`datetime-local`](/en-US/docs/Web/HTML/Element/input/datetime-local), and feedback—oriented controls like {{HTMLElement("progress")}} and {{HTMLElement("meter")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215722Z" creationid="Nachec" creationdate="20221027T215722Z">
+        <seg>En resumen, se trata de cuadros desplegables, tipos de controles complejos como [`color`](/es/docs/Web/HTML/Element/input/color) y [`datetime-local`](/es/docs/Web /HTML/Element/input/datetime-local) y controles orientados a la retroalimentación como {{HTMLElement("progress")}} y {{HTMLElement("meter")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47671,6 +47719,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080606Z" creationid="gitnacho" creationdate="20221003T080606Z">
         <seg>Ahora explicaremos cómo usar estas primitivas en la práctica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's turn our attention to the "ugly" controls — the ones that are really hard to thoroughly style.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215654Z" creationid="Nachec" creationdate="20221027T215654Z">
+        <seg>Ahora dirijamos nuestra atención a los controles "feos", los que son realmente difíciles de estilizar a fondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58541,6 +58597,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This technique works for radio buttons too, despite the name `-ms-check`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215633Z" creationid="Nachec" creationdate="20221027T215633Z">
+        <seg>Esta técnica también funciona para los botones de radio, a pesar del nombre `-ms-check`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This theory is not essential to writing web code in the short term, but before long you'll really start to benefit from understanding what's happening in the background.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190050Z" creationid="Nachec" creationdate="20221025T190050Z">
@@ -60801,6 +60865,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We've also created a couple of other examples to give you more ideas:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215436Z" creationid="Nachec" creationdate="20221027T215436Z">
+        <seg>También hemos creado un par de otros ejemplos para darte más ideas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We've kept things static and simple for now.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T023807Z" creationid="gitnacho" creationdate="20220921T023807Z">
@@ -62575,6 +62647,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T024106Z" creationid="gitnacho" creationdate="20220921T024106Z">
         <seg>Puedes ver el [código fuente en GitHub](https://github.com/mdn/dom-examples/tree/main/service-worker/simple-service-worker) y el [Sencillo *service worker* ejecutándose en vivo](https://bncb2v.csb.app/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the live result:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215420Z" creationid="Nachec" creationdate="20221027T215420Z">
+        <seg>Puedes ver el resultado en vivo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -77454,6 +77534,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204350Z" creationid="Nachec" creationdate="20221027T204350Z">
         <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/appearence-tester.html", '100%', 400)}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/checkboxes-styled.html", '100%', 200)}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215422Z" creationid="Nachec" creationdate="20221027T215422Z">
+        <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/checkboxes-styled.html", '100%', 200)}}</seg>
       </tuv>
     </tu>
     <tu>
