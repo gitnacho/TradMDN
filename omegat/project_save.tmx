@@ -28674,6 +28674,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/select&gt;
+&lt;/div&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220606Z" creationid="Nachec" creationdate="20221027T220606Z">
+        <seg>&lt;/select&gt;
+&lt;/div&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/span&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013723Z" creationid="gitnacho" creationdate="20220901T013723Z">
@@ -30985,6 +30997,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;option&gt;Banana&lt;/option&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220604Z" creationid="Nachec" creationdate="20221027T220604Z">
+        <seg>&lt;option&gt;Banana&lt;/option&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;option&gt;Cherry&lt;/option&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220604Z" creationid="Nachec" creationdate="20221027T220604Z">
+        <seg>&lt;option&gt;Cherry&lt;/option&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;option&gt;Lemon&lt;/option&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220605Z" creationid="Nachec" creationdate="20221027T220605Z">
+        <seg>&lt;option&gt;Lemon&lt;/option&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;p class="fancy"&gt;But I am!&lt;/p&gt;
 ```</seg>
       </tuv>
@@ -31311,6 +31347,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T092730Z" creationid="gitnacho" creationdate="20221002T092730Z">
         <seg>&lt;section id="Quick_links"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;select id="select" name="select"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220604Z" creationid="Nachec" creationdate="20221027T220604Z">
+        <seg>&lt;select id="select" name="select"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39338,6 +39382,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First of all, the select's "arrow" icon that indicates it is a dropdown differs across browsers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220359Z" creationid="Nachec" creationdate="20221027T220359Z">
+        <seg>En primer lugar, el icono de "flecha" de selección que indica que es un menú desplegable difiere según los navegadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First the feature must be enabled during service worker activation, using {{domxref("NavigationPreloadManager.enable()", "registration.navigationPreload.enable()")}}:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T041152Z">
@@ -44769,6 +44821,14 @@ relevant header and serve an actual page to the user.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072059Z" creationid="gitnacho" creationdate="20221011T223103Z">
         <seg>También responde con `Access-Control-Allow-Methods`, que dice que `POST` y `GET` son métodos válidos para consultar el recurso en cuestión (esta cabecera es similar a la cabecera de respuesta {{HTTPHeader("Allow")}}, pero se usa estrictamente dentro del contexto del control de acceso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also tends to change if you increase the size of the select box, or resize in an ugly fashion.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220425Z" creationid="Nachec" creationdate="20221027T220425Z">
+        <seg>También tiende a cambiar si aumentas el tamaño del cuadro de selección o cambias el tamaño de una manera fea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52735,6 +52795,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The datalist control is `&lt;input type="text"&gt;` anyway, so we knew this wouldn't be a problem.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220333Z" creationid="Nachec" creationdate="20221027T220333Z">
+        <seg>El control de la lista de datos es `&lt;input type="text"&gt;` de todos modos, por lo que sabíamos que esto no sería un problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The decision might be based on user preferences, a permission request, or the permission policy.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070504Z" creationid="gitnacho" creationdate="20221012T092254Z">
@@ -59343,6 +59411,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To fix this in our example we first used our old friend `appearance: none` to get rid of the icon altogether:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220439Z" creationid="Nachec" creationdate="20221027T220439Z">
+        <seg>Para arreglar esto en nuestro ejemplo, primero usamos nuestro viejo amigo `appearance: none` para deshacernos del ícono por completo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To fix this, you can either: 1) reduce the image width using a [graphics editor](https://en.wikipedia.org/wiki/Raster_graphics_editor), or 2) use CSS to size the image by setting the {{cssxref("width")}} property on the `&lt;img&gt;` element with a smaller value.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193927Z" creationid="Nachec" creationdate="20221023T144037Z">
@@ -59976,6 +60052,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T085935Z" creationid="gitnacho" creationdate="20221003T080854Z">
         <seg>Dos de las muchas opciones para crear código WASM son o bien, un ensamblador WASM en línea, o [Emscripten](https://emscripten.org/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two things are slightly more problematic.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220344Z" creationid="Nachec" creationdate="20221027T220344Z">
+        <seg>Dos cosas son un poco más problemáticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60740,6 +60824,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We put an extra wrapper around the control, because [`::before`](/en-US/docs/Web/CSS/::before)/[`::after`](/en-US/docs/Web/CSS/::after) don't work on `&lt;select&gt;` elements (this is because generated content is placed relative to an element's formatting box, but form inputs work more like replaced elements — their display is generated by the browser and put in place — and therefore don't have one):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220602Z" creationid="Nachec" creationdate="20221027T220602Z">
+        <seg>Ponemos un contenedor extra alrededor del control, porque [`::before`](/es/docs/Web/CSS/::before)/[`::after`](/es/docs/Web/CSS/::after) no funcionan en elementos `&lt;select&gt;` (esto se debe a que el contenido generado se coloca en relación con el cuadro de formato de un elemento, pero las entradas de formulario funcionan más como elementos reemplazados: el navegador genera su visualización y se coloca en su lugar) y por lo tanto no tiene uno):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We recommend starting with [Visual Studio Code](https://code.visualstudio.com/), which is a free editor, that offers live previews and code hints.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T054455Z" creationid="gitnacho" creationdate="20221012T154827Z">
@@ -60790,6 +60882,14 @@ que es exportada por la `Instance`.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We then created our own icon using generated content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220501Z" creationid="Nachec" creationdate="20221027T220501Z">
+        <seg>Luego creamos nuestro propio ícono usando contenido generado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We then get the function exported from the module, retrieve the functions it references via [`tbl.get()`](/en-US/docs/WebAssembly/JavaScript_interface/Table/get) and log the result of invoking each one to the console.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085613Z" creationid="gitnacho" creationdate="20221006T085613Z">
@@ -60815,6 +60915,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095526Z" creationid="gitnacho" creationdate="20221006T095526Z">
         <seg>Luego imprimimos la longitud de la tabla y el contenido de los dos índices (recuperados a través de [`Table.prototype.get()`](/es/docs/WebAssembly/JavaScript_interface/Table/get) para mostrar que la longitud es dos y ambos elementos son [`null`](/es/docs/Web/JavaScript/Reference/Operators/null).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We then use generated content to generate a little down arrow, and put it in the right place using positioning:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220634Z" creationid="Nachec" creationdate="20221027T220634Z">
+        <seg>Luego usamos el contenido generado para crear una pequeña flecha hacia abajo y la colocamos en el lugar correcto usando el posicionamiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64982,6 +65090,16 @@ p.fancy {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```css
+select {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220441Z" creationid="Nachec" creationdate="20221027T220441Z">
+        <seg>```css
+select {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
 span {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205239Z" creationid="Nachec" creationdate="20221027T205239Z">
@@ -65207,6 +65325,18 @@ p {</seg>
         <seg>```html
 &lt;img src="images/firefox-icon.png" alt="Mi imagen de prueba"&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;label for="select"&gt;Select a fruit&lt;/label&gt;
+&lt;div class="select-wrapper"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220603Z" creationid="Nachec" creationdate="20221027T220603Z">
+        <seg>```html
+&lt;label for="select"&gt;Select a fruit&lt;/label&gt;
+&lt;div class="select-wrapper"&gt;</seg>
       </tuv>
     </tu>
     <tu>
