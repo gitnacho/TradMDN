@@ -1616,6 +1616,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Form styling guides</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193143Z" creationid="Nachec" creationdate="20221027T193143Z">
+        <seg>## Guías de estilo de formularios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Formal syntax</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T224959Z" creationid="Nachec" creationdate="20221021T224959Z">
@@ -2500,6 +2508,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T220724Z" creationid="gitnacho" creationdate="20221005T215941Z">
         <seg>## La macro `\{{Link}}`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## The different form controls</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192930Z" creationid="Nachec" creationdate="20221027T192930Z">
+        <seg>## Los diferentes controles de formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -8760,6 +8776,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Here we continue our deep dive into the `&lt;input&gt;` element, looking at the additional input types provided when HTML5 was released, and the various UI controls and data collection enhancements they provide.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193024Z" creationid="Nachec" creationdate="20221027T193024Z">
+        <seg>- : Aquí continuamos nuestra inmersión profunda en el elemento `&lt;input&gt;`, observando los tipos de entrada adicionales proporcionados cuando se lanzaron en HTML5 y los diversos controles de interfaz de usuario y mejoras de recopilación de datos que brindan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : How cookies work is defined by [RFC 6265](https://datatracker.ietf.org/doc/html/rfc6265).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T065231Z" creationid="gitnacho" creationdate="20221012T062827Z">
@@ -9166,6 +9190,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183310Z" creationid="gitnacho" creationdate="20221008T183310Z">
         <seg>- : Mi descripción de term2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Next we take a look at all the non-`&lt;input&gt;` form controls and associated tools, such as {{htmlelement('select')}}, {{htmlelement('textarea')}}, {{htmlelement('meter')}}, and {{htmlelement('progress')}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193133Z" creationid="Nachec" creationdate="20221027T193133Z">
+        <seg>- : A continuación, echamos un vistazo a todos los controles de formulario que no son `&lt;input&gt;` y las herramientas asociadas, como {{HTMNLElement('select')}}, {{HTMNLElement('textarea')}}, {{HTMNLElement('meter')}} y {{HTMNLElement('progress')}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10446,6 +10478,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : This article provides an introduction to styling forms with CSS, including all the basics you might need to know for basic styling tasks.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193202Z" creationid="Nachec" creationdate="20221027T193202Z">
+        <seg>- : Este artículo proporciona una introducción al estilizado de formularios con CSS, incluidos todos los conceptos básicos que podrías necesitar saber para las tareas básicas de diseño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : This attribute contains inline metadata that a user agent can use to verify that a fetched resource has been delivered free of unexpected manipulation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T124720Z" creationid="gitnacho" creationdate="20221003T124720Z">
@@ -10766,6 +10806,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : We start off this section by looking at the functionality of the original HTML {{htmlelement("input")}} types in detail, looking at what options are available to collect different types of data.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192947Z" creationid="Nachec" creationdate="20221027T192947Z">
+        <seg>- : Comenzamos esta sección analizando en detalle la funcionalidad de los tipos HTML {{HTMLElement("input")}} originales, observando qué opciones están disponibles para recopilar diferentes tipos de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Web App Manifests let you enable users to install Web apps to their device home screens, with aspects such as portrait/landscape screen orientation and display mode (e.g., full screen) pre-set.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T095525Z" creationid="gitnacho" creationdate="20221002T095424Z">
@@ -10842,6 +10890,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T094854Z" creationid="gitnacho" creationdate="20221003T094854Z">
         <seg>- : Al escribir código en C/C++, lo puedes compilar a `.wasm` usando una herramienta como [Emscripten](https://emscripten.org/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : With the basics out of the way, we now look in more detail at the elements used to provide structure and meaning to the different parts of a form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192922Z" creationid="Nachec" creationdate="20221027T192922Z">
+        <seg>- : Con los conceptos básicos fuera del camino, ahora veremos con más detalle los elementos utilizados para proporcionar estructura y significado a las diferentes partes de un formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15412,6 +15468,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Advanced form styling](/en-US/docs/Learn/Forms/Advanced_form_styling)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193210Z" creationid="Nachec" creationdate="20221027T193210Z">
+        <seg>- [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Aria attributes](/en-US/docs/Web/SVG/Attribute#aria_attributes)
 - [Core attributes](/en-US/docs/Web/SVG/Attribute#core_attributes)
 - [Global event attributes](/en-US/docs/Web/SVG/Attribute#global_event_attributes)</seg>
@@ -15512,6 +15576,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T145744Z">
         <seg>- [Sincronización en segundo plano](https://github.com/WICG/background-sync): inicia un *service worker* incluso cuando no haya usuarios en el sitio, para que las cachés se puedan actualizar, etc.
 - [Reacción a mensajes push](/es/docs/Web/API/Push_API): Inicia un *service worker* para enviar a los usuarios un mensaje para informarles que hay nuevo contenido disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Basic native form controls](/en-US/docs/Learn/Forms/Basic_native_form_controls)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192940Z" creationid="Nachec" creationdate="20221027T192940Z">
+        <seg>- [Conseptos básicos de controles de formulario nativos](/es/docs/Learn/Forms/Basic_native_form_controls)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16496,6 +16568,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Other form controls](/en-US/docs/Learn/Forms/Other_form_controls)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193106Z" creationid="Nachec" creationdate="20221027T193052Z">
+        <seg>- [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Overview of HTTP](/en-US/docs/Web/HTTP/Overview)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T062529Z" creationid="gitnacho" creationdate="20221012T062529Z">
@@ -16710,6 +16790,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Styling web forms](/en-US/docs/Learn/Forms/Styling_web_forms)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193154Z" creationid="Nachec" creationdate="20221027T193154Z">
+        <seg>- [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Tables](/en-US/docs/Learn/MathML/First_steps/Tables)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083949Z" creationid="Nachec" creationdate="20221021T083949Z">
@@ -16738,6 +16826,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T183337Z" creationid="gitnacho" creationdate="20221007T183337Z">
         <seg>- [Formato de texto](https://webassembly.github.io/spec/core/text/index.html): más explicación del formato de texto, en el repositorio WebAssembly de GitHub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [The HTML5 input types](/en-US/docs/Learn/Forms/HTML5_input_types)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192958Z" creationid="Nachec" creationdate="20221027T192958Z">
+        <seg>- [Los tipos `input` de HTML5](/es/docs/Learn/Forms/HTML5_input_types)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34742,6 +34838,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192344Z" creationid="Nachec" creationdate="20221025T192344Z">
         <seg>Además, los paquetes se pueden enrutar a lo largo de diferentes rutas, lo que hace que el intercambio sea más rápido y permite que muchos usuarios diferentes descarguen el mismo sitio web al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, we look at the {{htmlelement('output')}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193059Z" creationid="Nachec" creationdate="20221027T193033Z">
+        <seg>Además, observamos el elemento {{HTMLElement('output')}}.</seg>
       </tuv>
     </tu>
     <tu>
