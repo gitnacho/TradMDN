@@ -4302,16 +4302,16 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Preflighted requests</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222507Z" creationid="gitnacho" creationdate="20221011T222507Z">
-        <seg>### Solicitudes preverificadas</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064826Z" creationid="gitnacho" creationdate="20221011T222507Z">
+        <seg>### Peticiones preverificadas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>### Preflighted requests in CORS</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225059Z" creationid="gitnacho" creationdate="20221011T225059Z">
-        <seg>### Solicitudes preverificadas en CORS</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064826Z" creationid="gitnacho" creationdate="20221011T225059Z">
+        <seg>### Peticiones preverificadas en CORS</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,8 +4390,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Requests with credentials</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225936Z" creationid="gitnacho" creationdate="20221011T225936Z">
-        <seg>### Solicitudes con credenciales</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064826Z" creationid="gitnacho" creationdate="20221011T225936Z">
+        <seg>### Peticiones con credenciales</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,8 +4542,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Simple requests</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220011Z" creationid="gitnacho" creationdate="20221011T220011Z">
-        <seg>### Solicitudes simples</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064826Z" creationid="gitnacho" creationdate="20221011T220011Z">
+        <seg>### Peticiones simples</seg>
       </tuv>
     </tu>
     <tu>
@@ -5222,8 +5222,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>#### Credentialed requests and wildcards</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053134Z" creationid="gitnacho" creationdate="20221012T053134Z">
-        <seg>#### Solicitudes con credenciales y comodines</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064826Z" creationid="gitnacho" creationdate="20221012T053134Z">
+        <seg>#### Peticiones con credenciales y comodines</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,16 +5438,16 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>#### Preflight requests and credentials</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230658Z" creationid="gitnacho" creationdate="20221011T230658Z">
-        <seg>#### Solicitudes de preverificación y credenciales</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064826Z" creationid="gitnacho" creationdate="20221011T230658Z">
+        <seg>#### Peticiones de preverificación y credenciales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>#### Preflighted requests and redirects</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224718Z" creationid="gitnacho" creationdate="20221011T224718Z">
-        <seg>#### Solicitudes comprobadas y redireccionamientos</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064826Z" creationid="gitnacho" creationdate="20221011T224718Z">
+        <seg>#### Peticiones comprobadas y redireccionamientos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7356,8 +7356,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : **Cross-site HTTP requests** are HTTP requests for resources from a **different domain** than the domain of the resource making the request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T063425Z" creationid="gitnacho" creationdate="20221012T063425Z">
-        <seg>- : Las **Solicitudes Inter-Sitio HTTP** (*Cross-site HTTP requests* en inglés), son peticiones HTTP por recursos pertenecientes a un dominio distinto al dominio del recurso que está haciendo la petición.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064826Z" creationid="gitnacho" creationdate="20221012T063425Z">
+        <seg>- : Las **Peticiones Inter-Sitio HTTP** (*Cross-site HTTP requests* en inglés), son peticiones HTTP por recursos pertenecientes a un dominio distinto al dominio del recurso que está haciendo la petición.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9994,8 +9994,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : The different operations that can be done with HTTP: {{HTTPMethod("GET")}}, {{HTTPMethod("POST")}}, and also less common requests like {{HTTPMethod("OPTIONS")}}, {{HTTPMethod("DELETE")}}, or {{HTTPMethod("TRACE")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064530Z" creationid="gitnacho" creationdate="20221012T064530Z">
-        <seg>- : Las distintas operaciones que se pueden realizar con HTTP: {{HTTPMethod("GET")}}, {{HTTPMethod("POST")}}, y solicitudes menos comunes como {{HTTPMethod("OPTIONS")}}, {{HTTPMethod("DELETE")}}, o {{HTTPMethod("TRACE")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064723Z" creationid="gitnacho" creationdate="20221012T064530Z">
+        <seg>- : Las distintas operaciones que se pueden realizar con HTTP: {{HTTPMethod("GET")}}, {{HTTPMethod("POST")}}, y peticiones menos comunes como {{HTTPMethod("OPTIONS")}}, {{HTTPMethod("DELETE")}}, o {{HTTPMethod("TRACE")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36637,8 +36637,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>CORS allows web developers to control how their site reacts to cross-site requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T063534Z" creationid="gitnacho" creationdate="20221012T063534Z">
-        <seg>El Control de Acceso HTTP posibilita a los desarrolladores web a controlar cómo su sitio web responde a solicitudes de otros orígenes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064717Z" creationid="gitnacho" creationdate="20221012T063534Z">
+        <seg>El Control de Acceso HTTP posibilita a los desarrolladores web a controlar cómo su sitio web responde a peticiones de otros orígenes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38101,16 +38101,16 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>Examples of this usage can be [found above.](#preflighted_requests)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060813Z" creationid="gitnacho" creationdate="20221012T060813Z">
-        <seg>Se pueden encontrar ejemplos de este uso [más arriba.](#solicitudes_preverificadas)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064707Z" creationid="gitnacho" creationdate="20221012T060813Z">
+        <seg>Se pueden encontrar ejemplos de este uso [más arriba.](#peticiones_preverificadas)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Examples of this usage can be [found above](#preflighted_requests).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060943Z" creationid="gitnacho" creationdate="20221012T060943Z">
-        <seg>Se pueden [encontrar arriba](#solicitudes_preverificadas) ejemplos de este uso.
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064712Z" creationid="gitnacho" creationdate="20221012T060943Z">
+        <seg>Se pueden [encontrar arriba](#peticiones_preverificadas) ejemplos de este uso.
 </seg>
       </tuv>
     </tu>
@@ -46321,8 +46321,8 @@ simple value.</seg>
       <tuv lang="en-US">
         <seg>Note that simple `GET` requests are not preflighted, and so if a request is made for a resource with credentials, if this header is not returned with the resource, the response is ignored by the browser and not returned to web content.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054230Z" creationid="gitnacho" creationdate="20221012T054230Z">
-        <seg>Ten en cuenta que las solicitudes `GET` simples no tienen verificación previa, por lo que si se realiza una solicitud para un recurso con credenciales, si este encabezado no se devuelve con el recurso, el navegador ignora la respuesta y no se devuelve al contenido web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064633Z" creationid="gitnacho" creationdate="20221012T054230Z">
+        <seg>Ten en cuenta que las peticiones `GET` simples no tienen verificación previa, por lo que si se realiza una solicitud para un recurso con credenciales, si este encabezado no se devuelve con el recurso, el navegador ignora la respuesta y no se devuelve al contenido web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57226,16 +57226,16 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This section lists headers that clients may use when issuing HTTP requests in order to make use of the cross-origin sharing feature.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213836Z" creationid="gitnacho" creationdate="20221012T060415Z">
-        <seg>Esta sección enumera las cabeceras que los clientes pueden usar al emitir solicitudes HTTP para hacer uso de la función de uso compartido entre orígenes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064703Z" creationid="gitnacho" creationdate="20221012T060415Z">
+        <seg>Esta sección enumera las cabeceras que los clientes pueden usar al emitir peticiones HTTP para hacer uso de la función de uso compartido entre orígenes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>This section lists the HTTP response headers that servers return for access control requests as defined by the Cross-Origin Resource Sharing specification.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213707Z" creationid="gitnacho" creationdate="20221012T053710Z">
-        <seg>Esta sección enumera las cabeceras de respuesta HTTP que los servidores devuelven para las solicitudes de control de acceso según lo definido por la especificación del intercambio de recursos de origen cruzado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064625Z" creationid="gitnacho" creationdate="20221012T053710Z">
+        <seg>Esta sección enumera las cabeceras de respuesta HTTP que los servidores devuelven para las peticiones de control de acceso según lo definido por la especificación del intercambio de recursos de origen cruzado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61858,8 +61858,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>[Credentialed requests](#requests_with_credentials) are discussed above.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054339Z" creationid="gitnacho" creationdate="20221012T054339Z">
-        <seg>[Solicitudes con credenciales](#solicitudes_con_credenciales) se analizan anteriormente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064655Z" creationid="gitnacho" creationdate="20221012T054339Z">
+        <seg>[Peticiones con credenciales](#peticiones_con_credenciales) se analizan anteriormente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62506,8 +62506,8 @@ crate-type = ["cdylib"]</seg>
       <tuv lang="en-US">
         <seg>`Access-Control-Allow-Origin` specifies either a single origin which tells browsers to allow that origin to access the resource; or else — for requests **without** credentials — the "`*`" wildcard tells browsers to allow any origin to access the resource.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053803Z" creationid="gitnacho" creationdate="20221012T053803Z">
-        <seg>`Access-Control-Allow-Origin` especifica un solo origen que le dice a los navegadores que permitan que ese origen acceda al recurso; o bien, para solicitudes **sin** credenciales, el comodín "`*`" le dice a los navegadores que permitan que cualquier origen acceda al recurso.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064630Z" creationid="gitnacho" creationdate="20221012T053803Z">
+        <seg>`Access-Control-Allow-Origin` especifica un solo origen que le dice a los navegadores que permitan que ese origen acceda al recurso; o bien, para peticiones **sin** credenciales, el comodín "`*`" le dice a los navegadores que permitan que cualquier origen acceda al recurso.</seg>
       </tuv>
     </tu>
     <tu>
