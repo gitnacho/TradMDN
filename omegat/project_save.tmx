@@ -12391,6 +12391,16 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- HTML
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T202910Z" creationid="Nachec" creationdate="20221027T202910Z">
+        <seg>- HTML
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- HTML scripting</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T133056Z" creationid="gitnacho" creationdate="20221003T120013Z">
@@ -23224,6 +23234,20 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Client-side form validation
+slug: Learn/Forms/Form_validation
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T202920Z" creationid="Nachec" creationdate="20221027T202920Z">
+        <seg>---
+title: Client-side form validation
+slug: Learn/Forms/Form_validation
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Code examples
 slug: MDN/Writing_guidelines/Page_structures/Code_examples
 page-type: mdn-writing-guide
@@ -23527,6 +23551,20 @@ title: Event
 slug: Web/API/Event
 page-type: web-api-interface
 rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Example 1
+slug: Learn/Forms/How_to_build_custom_form_controls/Example_1
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T202847Z" creationid="Nachec" creationdate="20221027T202847Z">
+        <seg>---
+title: Example 1
+slug: Learn/Forms/How_to_build_custom_form_controls/Example_1
 tags:</seg>
       </tuv>
     </tu>
