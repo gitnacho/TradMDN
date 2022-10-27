@@ -5652,6 +5652,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Using appearance: none on radios/checkboxes</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215013Z" creationid="Nachec" creationdate="20221027T215013Z">
+        <seg>#### Usar `appearance: none` en opciones/casillas de verificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Using the table</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072618Z" creationid="gitnacho" creationdate="20221007T072618Z">
@@ -29485,6 +29493,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;fieldset&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215048Z" creationid="Nachec" creationdate="20221027T215048Z">
+        <seg>&lt;fieldset&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;h1&gt;MathML in HTML5&lt;/h1&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075025Z" creationid="Nachec" creationdate="20221021T075025Z">
@@ -36413,6 +36429,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T204558Z" creationid="Nachec" creationdate="20221025T202928Z">
         <seg>Como vimos, Internet es una infraestructura técnica que permite que miles de millones de ordenadores estén conectados entre sí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As we showed before, you can remove the default appearance of a checkbox or radio button altogether with {{cssxref('appearance')}}`:none;` Let's take this example HTML:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215047Z" creationid="Nachec" creationdate="20221027T215047Z">
+        <seg>Como mostramos antes, puedes eliminar la apariencia predeterminada de una casilla de verificación o un botón de opción junto con {{CSSxRef('appearance')}}`:none;` Tomemos este HTML de ejemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -78072,6 +78096,26 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185524Z" creationid="gitnacho" creationdate="20221008T185524Z">
         <seg>| Un encabezado 1        | Un encabezado 2        | Un encabezado 3        | Un encabezado 4        | Un encabezado 5        | Un encabezado 6        |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| Browser                             | Rendering                         |
+| ----------------------------------- | --------------------------------- |
+| Firefox 71 (macOS)                  | ![Rounded corners and 1px light grey border](firefox-mac-checkbox.png)     |
+| Firefox 57 (Windows 10)             | ![Rectangular corners with 1px medium grey border](firefox-windows-checkbox.png) |
+| Chrome 77 (macOS), Safari 13, Opera | ![Rounded corner with 1px medium grey border](chrome-mac-checkbox.png)      |
+| Chrome 63 (Windows 10)              | ![Rectangular borders with slightly greyish background instead of white.](chrome-windows-checkbox.png)  |
+| Edge 16 (Windows 10)                | ![Rectangular borders with slightly greyish background instead of white.](edge-checkbox.png)            |</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T214927Z" creationid="Nachec" creationdate="20221027T214927Z">
+        <seg>| Navegador | Renderiza |
+| ---------------- | ------- |
+| Firefox 71 (mac OS) | ![Esquinas redondeadas y 1px borde gris claro](firefox-mac-checkbox.png) |
+| Firefox 57 (Windows 10) | ![Esquinas rectangulares con borde gris medio de 1px](firefox-windows-checkbox.png) |
+| Chrome 77 (macOS), Safari 13, Ópera | ![Esquina redondeada con borde gris medio de 1 px](chrome-mac-checkbox.png) |
+| Chrome 63 (Windows 10) | ![Bordes rectangulares con fondo ligeramente grisáceo en lugar de blanco.](chrome-windows-checkbox.png) |
+| Edge 16 (Windows 10) | ![Bordes rectangulares con fondo ligeramente grisáceo en lugar de blanco.](edge-checkbox.png) |</seg>
       </tuv>
     </tu>
     <tu>
