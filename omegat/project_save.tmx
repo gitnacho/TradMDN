@@ -14379,8 +14379,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       <tuv lang="en-US">
         <seg>- The server **must not** specify the "`*`" wildcard for the `Access-Control-Allow-Headers` response-header value, but must instead specify an explicit list of header names; for example, `Access-Control-Allow-Headers: X-PINGOTHER, Content-Type`</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105553Z" creationid="gitnacho" creationdate="20221012T053227Z">
-        <seg>- El servidor **no debe** especificar el comodín "`*`" para el valor de la cabecera de respuesta `Access-Control-Allow-Headers`, sino que debe especificar una lista explícita de nombres de encabezado; por ejemplo, `Access-Control-Allow-Headers: X-PINGOTHER, Content-Type`</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072138Z" creationid="gitnacho" creationdate="20221012T053227Z">
+        <seg>- El servidor **no debe** especificar el comodín "`*`" para el valor de la cabecera de respuesta `Access-Control-Allow-Headers`, sino que debe especificar una lista explícita de nombres de cabecera; por ejemplo, `Access-Control-Allow-Headers: X-PINGOTHER, Content-Type`</seg>
       </tuv>
     </tu>
     <tu>
@@ -33984,8 +33984,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>A returned resource may have one {{HTTPHeader("Access-Control-Allow-Origin")}} header with the following syntax:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053739Z" creationid="gitnacho" creationdate="20221012T053739Z">
-        <seg>Un recurso devuelto puede tener un encabezado {{HTTPHeader("Access-Control-Allow-Origin")}} con la siguiente sintaxis:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072250Z" creationid="gitnacho" creationdate="20221012T053739Z">
+        <seg>Un recurso devuelto puede tener una cabecera {{HTTPHeader("Access-Control-Allow-Origin")}} con la siguiente sintaxis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34823,8 +34823,8 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       <tuv lang="en-US">
         <seg>Also note that any `Set-Cookie` response header in a response would not set a cookie if the `Access-Control-Allow-Origin` value in that response is the "`*`" wildcard rather an actual origin.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053416Z" creationid="gitnacho" creationdate="20221012T053416Z">
-        <seg>También ten en cuenta que cualquier encabezado de respuesta `Set-Cookie` en una respuesta no establecería una *cookie* si el valor `Access-Control-Allow-Origin` en esa respuesta es el comodín "`*`" en lugar de un origen real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072233Z" creationid="gitnacho" creationdate="20221012T053416Z">
+        <seg>También ten en cuenta que cualquier cabecera de respuesta `Set-Cookie` en una respuesta no establecería una *cookie* si el valor `Access-Control-Allow-Origin` en esa respuesta es el comodín "`*`" en lugar de un origen real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34855,8 +34855,8 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       <tuv lang="en-US">
         <seg>Also, a non-standard HTTP `X-PINGOTHER` request header is set.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070748Z" creationid="gitnacho" creationdate="20221011T222619Z">
-        <seg>Además, se establece un encabezado de petición HTTP `X-PINGOTHER` no estándar.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072005Z" creationid="gitnacho" creationdate="20221011T222619Z">
+        <seg>Además, se establece una cabecera de petición HTTP `X-PINGOTHER` no estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40760,8 +40760,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If a request includes a credential (most commonly a `Cookie` header) and the response includes an `Access-Control-Allow-Origin: *` header (that is, with the wildcard), the browser will block access to the response, and report a CORS error in the devtools console.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071014Z" creationid="gitnacho" creationdate="20221012T053336Z">
-        <seg>Si una petición incluye una credencial (por lo general, un encabezado `Cookie`) y la respuesta incluye un encabezado `Access-Control-Allow-Origin: *` (es decir, con el comodín), el navegador bloqueará el acceso a la respuesta e informará un error CORS en la consola de devtools.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072207Z" creationid="gitnacho" creationdate="20221012T053336Z">
+        <seg>Si una petición incluye una credencial (por lo general, una cabecera `Cookie`) y la respuesta incluye una cabecera `Access-Control-Allow-Origin: *` (es decir, con el comodín), el navegador bloqueará el acceso a la respuesta e informará un error CORS en la consola de devtools.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42526,8 +42526,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In response, the server returns a {{HTTPHeader("Access-Control-Allow-Origin")}} header with `Access-Control-Allow-Origin: *`, which means that the resource can be accessed by **any** origin.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222133Z" creationid="gitnacho" creationdate="20221011T222133Z">
-        <seg>En respuesta, el servidor devuelve un encabezado {{HTTPHeader("Access-Control-Allow-Origin")}} con `Access-Control-Allow-Origin: *`, lo cual significa que **cualquiera** puede acceder al recurso origen.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071948Z" creationid="gitnacho" creationdate="20221011T222133Z">
+        <seg>En respuesta, el servidor devuelve una cabecera {{HTTPHeader("Access-Control-Allow-Origin")}} con `Access-Control-Allow-Origin: *`, lo cual significa que **cualquiera** puede acceder al recurso origen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43616,8 +43616,8 @@ relevant header and serve an actual page to the user.</seg>
       <tuv lang="en-US">
         <seg>It also responds with `Access-Control-Allow-Methods`, which says that `POST` and `GET` are valid methods to query the resource in question (this header is similar to the {{HTTPHeader("Allow")}} response header, but used strictly within the context of access control).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T223103Z" creationid="gitnacho" creationdate="20221011T223103Z">
-        <seg>También responde con `Access-Control-Allow-Methods`, que dice que `POST` y `GET` son métodos válidos para consultar el recurso en cuestión (este encabezado es similar al encabezado de respuesta {{HTTPHeader("Allow")}}, pero se usa estrictamente dentro del contexto del control de acceso).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072059Z" creationid="gitnacho" creationdate="20221011T223103Z">
+        <seg>También responde con `Access-Control-Allow-Methods`, que dice que `POST` y `GET` son métodos válidos para consultar el recurso en cuestión (esta cabecera es similar a la cabecera de respuesta {{HTTPHeader("Allow")}}, pero se usa estrictamente dentro del contexto del control de acceso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48671,16 +48671,16 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Since the request uses a `Content-Type` of `text/xml`, and since a custom header is set, this request is preflighted.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070755Z" creationid="gitnacho" creationdate="20221011T222654Z">
-        <seg>Dado que la petición utiliza un `Content-Type` de `text/xml`, y dado que se establece un encabezado personalizado, esta petición tiene una preverificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072031Z" creationid="gitnacho" creationdate="20221011T222654Z">
+        <seg>Dado que la petición utiliza un `Content-Type` de `text/xml`, y dado que se establece una cabecera personalizada, esta petición tiene una preverificación.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Since this is a simple `GET` request, it is not preflighted but the browser will **reject** any response that does not have the {{HTTPHeader("Access-Control-Allow-Credentials")}}`: true` header, and **not** make the response available to the invoking web content.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071242Z" creationid="gitnacho" creationdate="20221011T230557Z">
-        <seg>Dado que se trata de una simple petición `GET`, no tiene preverificación, pero el navegador **rechazará** cualquier respuesta que no tenga un encabezado {{HTTPHeader("Access-Control-Allow-Credentials")}}`: true`, y **no** hará que la respuesta esté disponible para el contenido web que invoca.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T072124Z" creationid="gitnacho" creationdate="20221011T230557Z">
+        <seg>Dado que se trata de una simple petición `GET`, no tiene preverificación, pero el navegador **rechazará** cualquier respuesta que no tenga una cabecera {{HTTPHeader("Access-Control-Allow-Credentials")}}`: true`, y **no** hará que la respuesta esté disponible para el contenido web que invoca.</seg>
       </tuv>
     </tu>
     <tu>
