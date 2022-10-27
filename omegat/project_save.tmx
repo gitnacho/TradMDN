@@ -6794,8 +6794,8 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       <tuv lang="en-US">
         <seg>**Client hints** are a set of [HTTP request header](/en-US/docs/Web/HTTP/Headers) fields that a server can proactively request from a client to get information about the device, network, user, and user-agent-specific preferences.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T205611Z" creationid="Nachec" creationdate="20221020T205611Z">
-        <seg>**Sugerencias de cliente** son un conjunto de campos [Cabecera de solicitud HTTP](/es/docs/Web/HTTP/Headers) que un servidor puede solicitar de manera proactiva a un cliente para obtener información sobre el dispositivo, la red, el usuario y preferencias específicas del agente de usuario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070430Z" creationid="Nachec" creationdate="20221020T205611Z">
+        <seg>**Sugerencias de cliente** son un conjunto de campos [Cabecera de petición HTTP](/es/docs/Web/HTTP/Headers) que un servidor puede solicitar de manera proactiva a un cliente para obtener información sobre el dispositivo, la red, el usuario y preferencias específicas del agente de usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9500,8 +9500,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Returns a {{jsxref("Promise")}} that resolves to the response associated with the first matching request in the `Cache` object.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221003T203209Z">
-        <seg>- : Devuelve una {{JSxRef("Promise")}} que se resuelve en la respuesta asociada con la primera solicitud coincidente en el objeto `Cache`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070315Z" creationid="gitnacho" creationdate="20221003T203209Z">
+        <seg>- : Devuelve una {{JSxRef("Promise")}} que se resuelve en la respuesta asociada con la primera petición coincidente en el objeto `Cache`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10810,8 +10810,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : `Cache-Control` header sent in the request for the current MDN document, useful in deciding whether to invalidate caches</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T071103Z" creationid="gitnacho" creationdate="20221005T071103Z">
-        <seg>- : Cabecera `Cache-Control` enviada en la solicitud del documento MDN actual, útil para decidir si se invalidan las cachés</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070214Z" creationid="gitnacho" creationdate="20221005T071103Z">
+        <seg>- : Cabecera `Cache-Control` enviada en la petición del documento MDN actual, útil para decidir si se invalidan las cachés</seg>
       </tuv>
     </tu>
     <tu>
@@ -19178,8 +19178,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `strict-origin-when-cross-origin` (default): Send a full URL when performing a same-origin request, only send the origin when the protocol security level stays the same (HTTPS→HTTPS), and send no header to a less secure destination (HTTPS→HTTP).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T183721Z" creationid="gitnacho" creationdate="20221003T130050Z">
-        <seg>- `strict-origin-when-cross-origin` (predeterminado): Envía una URL completa cuando realice una solicitud del mismo origen, solo envía el origen cuando el nivel de seguridad del protocolo permanezca igual (HTTPS→HTTPS), y no envía ninguna cabecera a un destino menos seguro (HTTPS→HTTP).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070427Z" creationid="gitnacho" creationdate="20221003T130050Z">
+        <seg>- `strict-origin-when-cross-origin` (predeterminado): Envía una URL completa cuando realice una petición del mismo origen, solo envía el origen cuando el nivel de seguridad del protocolo permanezca igual (HTTPS→HTTPS), y no envía ninguna cabecera a un destino menos seguro (HTTPS→HTTP).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26204,8 +26204,8 @@ Accept-Language: fr-CH, fr;q=0.9, en;q=0.8, de;q=0.7, *;q=0.5
       <tuv lang="en-US">
         <seg>// Return the original response object, which will be used to fulfill the resource request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T205011Z" creationid="gitnacho" creationdate="20221003T205011Z">
-        <seg>// Devuelve el objeto `response` original, que se utilizará para cumplir con la solicitud de recursos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070320Z" creationid="gitnacho" creationdate="20221003T205011Z">
+        <seg>// Devuelve el objeto `response` original, que se utilizará para cumplir con la petición de recursos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28257,8 +28257,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;a href="/en-US/docs/Web/HTTP/Methods"&gt;HTTP request methods&lt;/a&gt; (/Web/HTTP/Methods).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221005T112943Z">
-        <seg>&lt;a href="/es/docs/Web/HTTP/Methods"&gt;Métodos de solicitud HTTP&lt;/a&gt; (/Web/HTTP/Methods).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070307Z" creationid="gitnacho" creationdate="20221005T112943Z">
+        <seg>&lt;a href="/es/docs/Web/HTTP/Methods"&gt;Métodos de petición HTTP&lt;/a&gt; (/Web/HTTP/Methods).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33756,8 +33756,8 @@ fields:</seg>
       <tuv lang="en-US">
         <seg>A `fetch` event fires every time any resource controlled by a service worker is fetched, which includes the documents inside the specified scope, and any resources referenced in those documents (for example if `index.html` makes a cross origin request to embed an image, that still goes through its service worker.)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035142Z" creationid="gitnacho" creationdate="20220921T035142Z">
-        <seg>Un evento `fetch` se activa cada vez que se recupera cualquier recurso controlado por un *service worker*, lo que incluye los documentos dentro del alcance especificado y cualquier recurso al que se haga referencia en esos documentos (por ejemplo, si `index.html` hace una solicitud de origen cruzado para incrustar una imagen, que todavía pasa por su *service worker*).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070348Z" creationid="gitnacho" creationdate="20220921T035142Z">
+        <seg>Un evento `fetch` se activa cada vez que se recupera cualquier recurso controlado por un *service worker*, lo que incluye los documentos dentro del alcance especificado y cualquier recurso al que se haga referencia en esos documentos (por ejemplo, si `index.html` hace una petición de origen cruzado para incrustar una imagen, que todavía pasa por su *service worker*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36943,8 +36943,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Cloning the response is necessary because request and response streams can only be read once.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040319Z" creationid="gitnacho" creationdate="20220921T040319Z">
-        <seg>La clonación de la respuesta es necesaria porque los flujos de solicitud y respuesta solo se pueden leer una vez.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070411Z" creationid="gitnacho" creationdate="20220921T040319Z">
+        <seg>La clonación de la respuesta es necesaria porque los flujos de petición y respuesta solo se pueden leer una vez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40728,16 +40728,16 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If a match wasn't found in the cache, and the network isn't available, you could just match the request with some kind of default fallback page as a response using {{domxref("CacheStorage.match","match()")}}, like this:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T035852Z">
-        <seg>Si no se encontró una coincidencia en caché y la red no está disponible, puedes hacer coincidir la solicitud con algún tipo de página de respaldo predeterminada como respuesta usando {{DOMxRef("CacheStorage.match","match() ")}}, como esta:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070356Z" creationid="gitnacho" creationdate="20220921T035852Z">
+        <seg>Si no se encontró una coincidencia en caché y la red no está disponible, puedes hacer coincidir la petición con algún tipo de página de respaldo predeterminada como respuesta usando {{DOMxRef("CacheStorage.match","match() ")}}, como esta:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If a match wasn't found in the cache, you could tell the browser to {{domxref("fetch()")}} the default network request for that resource, to get the new resource from the network if it is available:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T035828Z">
-        <seg>Si no se encontró una coincidencia en caché, le puedes decir al navegador que {{DOMxRef("fetch()")}} la solicitud de red predeterminada para ese recurso, para obtener el nuevo recurso de la red si está disponible:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070353Z" creationid="gitnacho" creationdate="20220921T035828Z">
+        <seg>Si no se encontró una coincidencia en caché, le puedes decir al navegador que {{DOMxRef("fetch()")}} la petición de red predeterminada para ese recurso, para obtener el nuevo recurso de la red si está disponible:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40840,8 +40840,8 @@ among them.</seg>
       <tuv lang="en-US">
         <seg>If enabled, the [navigation preload](/en-US/docs/Web/API/NavigationPreloadManager) feature starts downloading resources as soon as the fetch request is made, and in parallel with service worker bootup.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T222052Z" creationid="gitnacho" creationdate="20220921T040847Z">
-        <seg>Si está habilitada, la función [precarga de navegación](/es/docs/Web/API/NavigationPreloadManager) comienza a descargar recursos tan pronto como se realiza la solicitud de recuperación y en paralelo con el inicio del *service worker*.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070424Z" creationid="gitnacho" creationdate="20220921T040847Z">
+        <seg>Si está habilitada, la función [precarga de navegación](/es/docs/Web/API/NavigationPreloadManager) comienza a descargar recursos tan pronto como se realiza la petición de recuperación y en paralelo con el inicio del *service worker*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41147,8 +41147,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the request URL is not available in the cache, we request the resource from the network request with `await fetch(request)`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040158Z" creationid="gitnacho" creationdate="20220921T040158Z">
-        <seg>Si la URL de la solicitud no está disponible en la memoria caché, solicitamos el recurso de la solicitud de red con `await fetch(request)`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070405Z" creationid="gitnacho" creationdate="20220921T040158Z">
+        <seg>Si la URL de la petición no está disponible en la memoria caché, solicitamos el recurso de la petición de red con `await fetch(request)`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41219,8 +41219,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If there is a matching URL request in the {{domxref("Cache")}} object, then the code returns a resolved promise for fetching the response from the cache.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T210449Z">
-        <seg>Si hay una solicitud de URL coincidente en el objeto {{DOMxRef("Cache")}}, el código devuelve una promesa resuelta para obtener la respuesta de la caché.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070345Z" creationid="gitnacho" creationdate="20220922T210449Z">
+        <seg>Si hay una petición de URL coincidente en el objeto {{DOMxRef("Cache")}}, el código devuelve una promesa resuelta para obtener la respuesta de la caché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42438,8 +42438,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In other words, the request for a specific set of hints does not expire until the browser is shut down.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092015Z" creationid="gitnacho" creationdate="20221012T092015Z">
-        <seg>En otras palabras, la solicitud de un conjunto específico de sugerencias no caduca hasta que se cierra el navegador.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070454Z" creationid="gitnacho" creationdate="20221012T092015Z">
+        <seg>En otras palabras, la petición de un conjunto específico de sugerencias no caduca hasta que se cierra el navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42662,8 +42662,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In the following code snippet, we make a request to open a database, and include handlers for the success and error cases.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220911T210952Z" creationid="gitnacho" creationdate="20220911T210952Z">
-        <seg>En el siguiente fragmento de código, hacemos una solicitud para abrir una base de datos e incluimos controladores para los casos de éxito y error.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070328Z" creationid="gitnacho" creationdate="20220911T210952Z">
+        <seg>En el siguiente fragmento de código, hacemos una petición para abrir una base de datos e incluimos controladores para los casos de éxito y error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45849,8 +45849,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>Navigation preload is triggered if [navigation preload is enabled](/en-US/docs/Web/API/NavigationPreloadManager/enable), the request is a `GET` request, and the request is a navigation request (generated by the browser when loading pages and iframes).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T213903Z" creationid="gitnacho" creationdate="20220922T213903Z">
-        <seg>La precarga de navegación se activa si [la precarga de navegación está habilitada](/es/docs/Web/API/NavigationPreloadManager/enable), la petición es una solicitud `GET` y la petición es una solicitud de navegación (generada por el navegador sobre cuándo cargar páginas e *iframes*).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070324Z" creationid="gitnacho" creationdate="20220922T213903Z">
+        <seg>La precarga de navegación se activa si [la precarga de navegación está habilitada](/es/docs/Web/API/NavigationPreloadManager/enable), la petición es una petición `GET` y la petición es una petición de navegación (generada por el navegador sobre cuándo cargar páginas e *iframes*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51490,8 +51490,8 @@ y devuelve su valor.</seg>
       <tuv lang="en-US">
         <seg>The decision might be based on user preferences, a permission request, or the permission policy.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092254Z" creationid="gitnacho" creationdate="20221012T092254Z">
-        <seg>La decisión se puede basar en las preferencias del usuario, una solicitud de permiso o la política de permisos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070504Z" creationid="gitnacho" creationdate="20221012T092254Z">
+        <seg>La decisión se puede basar en las preferencias del usuario, una petición de permiso o la política de permisos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52789,8 +52789,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The only trouble we have now is that if the request doesn't match anything in the cache, and the network is not available, our request will still fail.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040436Z" creationid="gitnacho" creationdate="20220921T040436Z">
-        <seg>El único problema que tenemos ahora es que si la solicitud no coincide con nada en caché y la red no está disponible, nuestra solicitud seguirá fallando.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070417Z" creationid="gitnacho" creationdate="20220921T040436Z">
+        <seg>El único problema que tenemos ahora es que si la petición no coincide con nada en caché y la red no está disponible, nuestra petición seguirá fallando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53121,8 +53121,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The result of a preload fetch request is waited on using the promise returned by {{domxref("FetchEvent.preloadResponse")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T205108Z">
-        <seg>Se espera el resultado de una solicitud de recuperación de precarga usando la promesa devuelta por {{DOMxRef("FetchEvent.preloadResponse")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070332Z" creationid="gitnacho" creationdate="20220922T205108Z">
+        <seg>Se espera el resultado de una petición de recuperación de precarga usando la promesa devuelta por {{DOMxRef("FetchEvent.preloadResponse")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53275,8 +53275,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The server uses the {{HTTPHeader("Vary")}} header to indicate which headers it actually used for content negotiation (or more precisely, the associated request headers), so that [caches](/en-US/docs/Web/HTTP/Caching) can work optimally.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091945Z" creationid="Nachec" creationdate="20221022T091945Z">
-        <seg>El servidor usa la cabecera {{HTTPHeader("Vary")}} para indicar qué cabecera usó realmente para la negociación de contenido (o con más exactitud, las cabeceras de solicitud asociadas), de modo que las [cachés](/es/docs/Web/HTTP/Caching) puedan funcionar de manera óptima.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070508Z" creationid="Nachec" creationdate="20221022T091945Z">
+        <seg>El servidor usa la cabecera {{HTTPHeader("Vary")}} para indicar qué cabecera usó realmente para la negociación de contenido (o con más exactitud, las cabeceras de petición asociadas), de modo que las [cachés](/es/docs/Web/HTTP/Caching) puedan funcionar de manera óptima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53881,8 +53881,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{domxref("NavigationPreloadManager")}} provides a mechanism to allow fetching of the resources to run in parallel with service worker boot, so that by the time the worker is able to handle the fetch request from the browser, the resource may already have been fully or partially downloaded.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220922T205848Z">
-        <seg>El {{DOMxRef("NavigationPreloadManager")}} proporciona un mecanismo para permitir que la recuperación de los recursos se ejecute en paralelo con el inicio del *service worker*, de modo que cuando el *worker* pueda manejar la solicitud de recuperación desde el navegador, el recurso posiblemente ya se ha descargado total o parcialmente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070337Z" creationid="gitnacho" creationdate="20220922T205848Z">
+        <seg>El {{DOMxRef("NavigationPreloadManager")}} proporciona un mecanismo para permitir que la recuperación de los recursos se ejecute en paralelo con el inicio del *service worker*, de modo que cuando el *worker* pueda manejar la petición de recuperación desde el navegador, el recurso posiblemente ya se ha descargado total o parcialmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54925,8 +54925,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>They may be sent by default on every client request, irrespective of the server `Accept-CH` response header, depending on the permission policy.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105334Z" creationid="gitnacho" creationdate="20221012T092145Z">
-        <seg>Se pueden enviar de forma predeterminada en cada solicitud del cliente, independientemente de la cabecera de respuesta "Accept-CH" del servidor, según la política de permisos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070459Z" creationid="gitnacho" creationdate="20221012T092145Z">
+        <seg>Se pueden enviar de forma predeterminada en cada petición del cliente, independientemente de la cabecera de respuesta "Accept-CH" del servidor, según la política de permisos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55496,16 +55496,16 @@ is the most efficient, optimized way to load wasm code.</seg>
       <tuv lang="en-US">
         <seg>This causes KumaScript to invalidate cache for the current page, as well as for any templates or content used by the current page by issuing a request with a `Cache-Control: no-cache` header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T075105Z" creationid="gitnacho" creationdate="20221005T075105Z">
-        <seg>Esto hace que KumaScript invalide la caché para la página actual, así como para cualquier plantilla o contenido utilizado por la página actual al emitir una solicitud con un encabezado `Cache-Control: no-cache`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070302Z" creationid="gitnacho" creationdate="20221005T075105Z">
+        <seg>Esto hace que KumaScript invalide la caché para la página actual, así como para cualquier plantilla o contenido utilizado por la página actual al emitir una petición con una cabecera `Cache-Control: no-cache`.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>This causes KumaScript to invalidate its cache for the content on the current page by issuing a request with a `Cache-Control: max-age=0` header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T075007Z" creationid="gitnacho" creationdate="20221005T075007Z">
-        <seg>Esto hace que KumaScript invalide su caché para el contenido de la página actual emitiendo una solicitud con un encabezado `Cache-Control: max-age=0`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070234Z" creationid="gitnacho" creationdate="20221005T075007Z">
+        <seg>Esto hace que KumaScript invalide su caché para el contenido de la página actual emitiendo una petición con una cabecera `Cache-Control: max-age=0`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57117,8 +57117,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This promise will resolve with the requested resource, which may be from the cache, a preloaded fetch request, or a new network request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210424Z" creationid="gitnacho" creationdate="20220922T210424Z">
-        <seg>Esta promesa se resolverá con el recurso solicitado, que puede ser desde la caché, una solicitud de recuperación precargada o una nueva solicitud de red.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070343Z" creationid="gitnacho" creationdate="20220922T210424Z">
+        <seg>Esta promesa se resolverá con el recurso solicitado, que puede ser desde la caché, una petición de recuperación precargada o una nueva petición de red.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59063,8 +59063,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>We could start by responding with the resource whose URL matches that of the network request, in each case:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035311Z" creationid="gitnacho" creationdate="20220921T035311Z">
-        <seg>Podríamos empezar respondiendo con el recurso cuya URL coincida con la de la solicitud de red, en cada caso:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070351Z" creationid="gitnacho" creationdate="20220921T035311Z">
+        <seg>Podríamos empezar respondiendo con el recurso cuya URL coincida con la de la petición de red, en cada caso:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61240,8 +61240,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You can retrieve a lot of information about each request by calling parameters of the {{domxref("Request")}} object returned by the {{domxref("FetchEvent")}}:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T035905Z">
-        <seg>Puedes recuperar mucha información sobre cada solicitud llamando a los parámetros del objeto {{DOMxRef("Request")}} devuelto por {{DOMxRef("FetchEvent")}}:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070402Z" creationid="gitnacho" creationdate="20220921T035905Z">
+        <seg>Puedes recuperar mucha información sobre cada petición llamando a los parámetros del objeto {{DOMxRef("Request")}} devuelto por {{DOMxRef("FetchEvent")}}:</seg>
       </tuv>
     </tu>
     <tu>
