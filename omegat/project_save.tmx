@@ -16007,6 +16007,16 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [History of the World Wide Web](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+- [How does the internet work?](/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053838Z" creationid="Nachec" creationdate="20221027T053838Z">
+        <seg>- {{interwiki("wikipedia", "Historia de la World Wide Web")}}
+- [¿Cómo funciona la internet?](/es/docs/Learn/Common_questions/How_does_the_Internet_work)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [How Browsers Work (2011)](https://web.dev/howbrowserswork/)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T064901Z" creationid="gitnacho" creationdate="20221012T064901Z">
@@ -23386,9 +23396,9 @@ tags:</seg>
         <seg>---
 title: How does the Internet work?</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T195748Z" creationid="Nachec" creationdate="20221025T195748Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T054157Z" creationid="Nachec" creationdate="20221025T195748Z">
         <seg>---
-title: ¿Cómo funciona Internet?</seg>
+title: ¿Cómo funciona la Internet?</seg>
       </tuv>
     </tu>
     <tu>
@@ -48012,6 +48022,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T110658Z" creationid="gitnacho" creationdate="20221003T110658Z">
         <seg>Busca el archivo `shell_minimal.html` en tu repositorio emsdk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Security refers to constructing your website in a secure way so that malicious users cannot steal information contained on it from you or your users.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053729Z" creationid="Nachec" creationdate="20221027T053729Z">
+        <seg>La seguridad se refiere a la construcción de tu sitio web de una manera segura para que los usuarios malintencionados no puedan robar la información contenida en él o de tus usuarios.</seg>
       </tuv>
     </tu>
     <tu>
