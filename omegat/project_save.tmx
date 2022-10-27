@@ -3086,8 +3086,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Atomic memory accesses</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T080944Z" creationid="gitnacho" creationdate="20221007T080944Z">
-        <seg>### Accesos atómico a memoria</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T081845Z" creationid="gitnacho" creationdate="20221007T080944Z">
+        <seg>### Acceso atómico a memoria</seg>
       </tuv>
     </tu>
     <tu>
