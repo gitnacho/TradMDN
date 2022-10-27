@@ -35128,8 +35128,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An example of a {{Glossary("preflight request")}} is given above, including an example which sends this header to the browser.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065142Z" creationid="gitnacho" creationdate="20221012T054515Z">
-        <seg>Arriba se proporciona un ejemplo de una {{Glossary("preflight request", "Petición de preverificación")}}, que incluye un ejemplo que envía este encabezado al navegador.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065401Z" creationid="gitnacho" creationdate="20221012T054515Z">
+        <seg>Arriba se proporciona un ejemplo de una {{Glossary("preflight request", "petición de preverificación")}}, que incluye un ejemplo que envía esta cabecera al navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55997,8 +55997,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This header is the server side response to the browser's {{HTTPHeader("Access-Control-Request-Headers")}} header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060344Z" creationid="gitnacho" creationdate="20221012T060344Z">
-        <seg>Este encabezado es la respuesta de lado del servidor al encabezado {{HTTPHeader("Access-Control-Request-Headers")}} del navegador.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065308Z" creationid="gitnacho" creationdate="20221012T060344Z">
+        <seg>Esta cabecera es la respuesta de lado del servidor a la cabecera {{HTTPHeader("Access-Control-Request-Headers")}} del navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60182,8 +60182,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When containing only these headers (and values that meet the additional requirements laid out below), a request doesn't need to send a {{glossary("preflight request")}} in the context of [CORS](/en-US/docs/Glossary/CORS).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172226Z" creationid="Nachec" creationdate="20221022T172226Z">
-        <seg>Cuando contiene solo estas cabeceras (y valores que cumplen con los requisitos adicionales establecidos a continuación), una solicitud no necesita enviar una {{Glossary("preflight request", "solicitud de verificación previa — preflight")}} en el contexto de [CORS](/es/docs/Glossary/CORS).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065559Z" creationid="Nachec" creationdate="20221022T172226Z">
+        <seg>Cuando contiene solo estas cabeceras (y valores que cumplen con los requisitos adicionales establecidos a continuación), una petición no necesita enviar una {{Glossary("preflight request", "petición de preverificación — preflight")}} en el contexto de [CORS](/es/docs/Glossary/CORS).</seg>
       </tuv>
     </tu>
     <tu>
