@@ -4212,6 +4212,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Meters and progress bars</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223200Z" creationid="Nachec" creationdate="20221027T223200Z">
+        <seg>### Medidores y barras de progreso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Mixing percentages and dimensions</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T000936Z" creationid="Nachec" creationdate="20221022T000936Z">
@@ -36297,6 +36305,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And then style the label to act like a button, which when pressed will open the file picker as expected:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223054Z" creationid="Nachec" creationdate="20221027T223054Z">
+        <seg>Y luego estiliza la etiqueta para que actúe como un botón, que cuando se presiona abrirá el selector de archivos como se esperaba:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And there you have it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T055052Z" creationid="gitnacho" creationdate="20221004T055052Z">
@@ -36727,6 +36743,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062810Z" creationid="gitnacho" creationdate="20221004T062810Z">
         <seg>Como puedes sospechar, esta es [la función `alert` proporcionada por JavaScript](/es/docs/Web/API/Window/alert).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you saw in the earlier example, we can set them to a desired width relatively accurately.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223250Z" creationid="Nachec" creationdate="20221027T223250Z">
+        <seg>Como viste en el ejemplo anterior, los podemos establecer en el ancho deseado con relativa precisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37346,6 +37370,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061455Z" creationid="Nachec" creationdate="20221021T061455Z">
         <seg>Pero en realidad, el símbolo raíz √ también se estira para ser tan alto como su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But beyond that, they are really difficult to style in any way.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223309Z" creationid="Nachec" creationdate="20221027T223309Z">
+        <seg>Pero más allá de eso, son realmente difíciles de estilizar de cualquier manera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56478,6 +56510,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They don't handle height settings consistently between each other and between browsers, you can color the background, but not the foreground bar, and setting `appearance: none` on them makes things worse, not better.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223401Z" creationid="Nachec" creationdate="20221027T223401Z">
+        <seg>No manejan la configuración de altura de manera consistente entre sí y entre navegadores, puedes colorear el fondo, pero no la barra de primer plano, y configurar `appearance: none` en ellos empeora las cosas, no las mejora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They failed to get traction and were abandoned.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091636Z" creationid="Nachec" creationdate="20221022T091611Z">
@@ -63121,6 +63161,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can see the result of the above CSS styling in the below live example (see also [styled-file-picker.html](https://mdn.github.io/learning-area/html/forms/styling-examples/styled-file-picker.html) live, and the [source code](https://github.com/mdn/learning-area/blob/main/html/forms/styling-examples/styled-file-picker.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223150Z" creationid="Nachec" creationdate="20221027T223150Z">
+        <seg>Puedes ver el resultado del estilo CSS anterior en el siguiente ejemplo en vivo (ve también [styled-file-picker.html](https://mdn.github.io/learning-area/html/forms/styling-examples/styled-file-picker.html) en vivo, y el [código fuente](https://github.com/mdn/learning-area/blob/main/html/forms/styling-examples/styled-file-picker.html )).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can then go on to do pretty much anything to this function that you can do to other [functions](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) in JavaScript — [`call()`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call), [`bind()`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind), etc. `testFunc.toString()` returns an interesting result:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T090042Z" creationid="gitnacho" creationdate="20221006T090042Z">
@@ -63875,6 +63923,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204648Z" creationid="Nachec" creationdate="20221027T204648Z">
         <seg>Básicamente [`&lt;input type="search"&gt;`](/es/docs/Web/HTML/Element/input/search) es una entrada de texto, entonces, ¿por qué `appearance: none;` es útil aquí?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[`&lt;meter&gt;`](/en-US/docs/Web/HTML/Element/meter) and [`&lt;progress&gt;`](/en-US/docs/Web/HTML/Element/progress) are possibly the worst of the lot.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223228Z" creationid="Nachec" creationdate="20221027T223228Z">
+        <seg>[`&lt;meter&gt;`](/es/docs/Web/HTML/Element/meter) y [`&lt;progress&gt;`](/es/docs/Web/HTML/Element/progress) posiblemente son los peores de todos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65290,6 +65346,16 @@ input[type="color"] {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```css
+input[type="file"] {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223021Z" creationid="Nachec" creationdate="20221027T223021Z">
+        <seg>```css
+input[type="file"] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
 input[type="range"] {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221723Z" creationid="Nachec" creationdate="20221027T221723Z">
@@ -65321,6 +65387,16 @@ input[type="text"],
 input[type="datetime-local"],
 input[type="color"],
 select {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+label[for="file"] {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223054Z" creationid="Nachec" creationdate="20221027T223054Z">
+        <seg>```css
+label[for="file"] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -69903,6 +69979,24 @@ p {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>background: linear-gradient(to bottom, #eee, #ccc);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223058Z" creationid="Nachec" creationdate="20221027T223058Z">
+        <seg>background: linear-gradient(to bottom, #eee, #ccc);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>background: linear-gradient(to bottom, #fff, #ddd);
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223103Z" creationid="Nachec" creationdate="20221027T223103Z">
+        <seg>background: linear-gradient(to bottom, #fff, #ddd);
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>background: pink;
 }
 math [id] .highlight {</seg>
@@ -70005,6 +70099,14 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border-radius: 5px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223101Z" creationid="Nachec" creationdate="20221027T223101Z">
+        <seg>border-radius: 5px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>border-radius: 5px;
 }</seg>
       </tuv>
@@ -70055,6 +70157,14 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border: 1px solid rgb(169, 169, 169);</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223059Z" creationid="Nachec" creationdate="20221027T223059Z">
+        <seg>border: 1px solid rgb(169, 169, 169);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>border: 5px solid black;
 }
 ```</seg>
@@ -70075,10 +70185,30 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>box-shadow: 1px 1px 3px #ccc;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223055Z" creationid="Nachec" creationdate="20221027T223055Z">
+        <seg>box-shadow: 1px 1px 3px #ccc;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>box-shadow: inset 1px 1px 3px #ccc;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215904Z" creationid="Nachec" creationdate="20221027T215904Z">
         <seg>box-shadow: inset 1px 1px 3px #ccc;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>box-shadow: inset 1px 1px 3px #ccc;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223105Z" creationid="Nachec" creationdate="20221027T223105Z">
+        <seg>box-shadow: inset 1px 1px 3px #ccc;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -73606,6 +73736,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>height: 0;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223021Z" creationid="Nachec" creationdate="20221027T223021Z">
+        <seg>height: 0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>height: 100px;
 }
 ```</seg>
@@ -74612,6 +74750,22 @@ select {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>label[for="file"]:active {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223104Z" creationid="Nachec" creationdate="20221027T223104Z">
+        <seg>label[for="file"]:active {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>label[for="file"]:hover {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223103Z" creationid="Nachec" creationdate="20221027T223103Z">
+        <seg>label[for="file"]:hover {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>lang="en"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220903T151951Z" creationid="gitnacho" creationdate="20220903T151951Z">
@@ -74770,6 +74924,16 @@ select {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053632Z" creationid="gitnacho" creationdate="20221004T053632Z">
         <seg>libwebp/src/{dec,dsp,demux,enc,mux,utils}/*.c
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>line-height: 1.5;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223102Z" creationid="Nachec" creationdate="20221027T223102Z">
+        <seg>line-height: 1.5;
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -75571,6 +75735,18 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T224920Z" creationid="gitnacho" creationdate="20221003T224920Z">
         <seg>onstatechange = (event) =&gt; { };
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>opacity: 0;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223022Z" creationid="Nachec" creationdate="20221027T223022Z">
+        <seg>opacity: 0;
+}
 ```</seg>
       </tuv>
     </tu>
@@ -78484,6 +78660,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204917Z" creationid="Nachec" creationdate="20221027T204917Z">
         <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/search-appearence.html", '100%', 200)}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/styled-file-picker.html", '100%', 200)}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223151Z" creationid="Nachec" creationdate="20221027T223151Z">
+        <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/styled-file-picker.html", '100%', 200)}}</seg>
       </tuv>
     </tu>
     <tu>
