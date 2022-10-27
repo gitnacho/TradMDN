@@ -14611,9 +14611,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
         <seg>- Topic
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064050Z" creationid="Nachec" creationdate="20221021T064050Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T181037Z" creationid="Nachec" creationdate="20221021T064050Z">
         <seg>- Topic
-  - Tema
 ---</seg>
       </tuv>
     </tu>
@@ -24060,6 +24059,21 @@ tags:</seg>
         <seg>---
 title: Cabecera simple
 slug: Glossary/Simple_header
+rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Structuring the web with HTML
+slug: Learn/HTML
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T181032Z" creationid="Nachec" creationdate="20221027T181032Z">
+        <seg>---
+title: Estructurar la web con HTML
+slug: Learn/HTML
 rue: Nachec✓
 tags:</seg>
       </tuv>
