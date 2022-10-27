@@ -4700,6 +4700,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Taming search boxes</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204611Z" creationid="Nachec" creationdate="20221027T204611Z">
+        <seg>### Controlar los cuadros de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Template syntax</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065722Z" creationid="gitnacho" creationdate="20221005T065722Z">
@@ -29565,10 +29573,50 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input id="checkbox" name="checkbox" type="checkbox" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204237Z" creationid="Nachec" creationdate="20221027T204237Z">
+        <seg>&lt;input id="checkbox" name="checkbox" type="checkbox" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input id="date" name="date" type="datetime-local" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204159Z" creationid="Nachec" creationdate="20221027T204159Z">
+        <seg>&lt;input id="date" name="date" type="datetime-local" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input id="radio" name="radio" type="radio" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204211Z" creationid="Nachec" creationdate="20221027T204211Z">
+        <seg>&lt;input id="radio" name="radio" type="radio" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input id="search" name="search" type="search" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204137Z" creationid="Nachec" creationdate="20221027T204137Z">
+        <seg>&lt;input id="search" name="search" type="search" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input id="showSolution" type="button" value="Show solution" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195139Z" creationid="Nachec" creationdate="20221021T192902Z">
         <seg>&lt;input id="showSolution" type="button" value="Mostrar solución" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input id="text" name="text" type="text" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204148Z" creationid="Nachec" creationdate="20221027T204148Z">
+        <seg>&lt;input id="text" name="text" type="text" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29693,10 +29741,50 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="checkbox"&gt;checkbox: &lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204233Z" creationid="Nachec" creationdate="20221027T204233Z">
+        <seg>&lt;label for="checkbox"&gt;casilla de verificación: &lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="date"&gt;date: &lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204155Z" creationid="Nachec" creationdate="20221027T204155Z">
+        <seg>&lt;label for="date"&gt;fecha: &lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="pizza"&gt;Pizza&lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T072034Z" creationid="gitnacho" creationdate="20221002T072034Z">
         <seg>&lt;label for="pizza"&gt;Pizza&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="radio"&gt;radio: &lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204206Z" creationid="Nachec" creationdate="20221027T204206Z">
+        <seg>&lt;label for="radio"&gt;radio: &lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="search"&gt;search: &lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204131Z" creationid="Nachec" creationdate="20221027T204131Z">
+        <seg>&lt;label for="search"&gt;buscar: &lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="text"&gt;text: &lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204144Z" creationid="Nachec" creationdate="20221027T204144Z">
+        <seg>&lt;label for="text"&gt;texto: &lt;/label&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30789,6 +30877,26 @@ i32.mul</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T111845Z" creationid="Nachec" creationdate="20221021T102553Z">
         <seg>&lt;p&gt;&lt;input type="button" id="showSolution" value="Mostrar solución" /&gt;&lt;/p&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;input type="button" value="button" /&gt;&lt;/p&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204259Z" creationid="Nachec" creationdate="20221027T204259Z">
+        <seg>&lt;p&gt;&lt;input type="button" value="button" /&gt;&lt;/p&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;input type="submit" value="submit" /&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204251Z" creationid="Nachec" creationdate="20221027T204251Z">
+        <seg>&lt;p&gt;&lt;input type="submit" value="enviar" /&gt;&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36041,6 +36149,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220902T054407Z" creationid="gitnacho" creationdate="20220902T054407Z">
         <seg>Las aplicaciones son libres de interpretar una interacción de arrastrar y soltar de una manera específica de la aplicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applying the following CSS to them removes system-level styling.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204312Z" creationid="Nachec" creationdate="20221027T204312Z">
+        <seg>Aplicarles el siguiente CSS elimina el estilo a nivel del sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42792,6 +42908,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In a couple of cases — search and radio buttons/checkboxes, it becomes way more useful.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204557Z" creationid="Nachec" creationdate="20221027T204557Z">
+        <seg>En un par de casos: búsqueda y botones de radio/casillas de verificación, se vuelve mucho más útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In a higher level, more expressive language like JavaScript, you could imagine doing the same thing with an array (or probably more likely, object) containing functions.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072925Z" creationid="gitnacho" creationdate="20221007T072925Z">
@@ -43036,6 +43160,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T104243Z" creationid="Nachec" creationdate="20221022T102853Z">
         <seg>En la mayoría de los casos, una etiqueta de idioma consta de una subetiqueta de idioma principal que identifica una amplia familia de idiomas relacionados (por ejemplo, "`en`" = inglés) y, opcionalmente, va seguida de una serie de subetiquetas que refinan o reducen el rango de ese idioma (por ejemplo, "`en-CA`" = la variedad del inglés tal como se comunica en Canadá).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases, the effect is to remove the stylized border, which makes CSS styling a bit easier, but isn't really essential.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204546Z" creationid="Nachec" creationdate="20221027T204355Z">
+        <seg>En la mayoría de los casos, el efecto es eliminar el borde estilizado, lo que facilita un poco el estilo CSS, pero no es realmente esencial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51771,6 +51903,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The answer is that in Safari search boxes have some styling restrictions — you can't adjust their `height` or `font-size` freely, for example.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204804Z" creationid="Nachec" creationdate="20221027T204804Z">
+        <seg>La respuesta es que en los cuadros de búsqueda de Safari tienen algunas restricciones de estilo; por ejemplo, no puedes ajustar libremente su "altura" o "tamaño de fuente" — `height`y `font-size` respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The answer is that there is only one table allowed right now per module instance, and that is what `call_indirect` is implicitly calling.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073224Z" creationid="gitnacho" creationdate="20221007T073224Z">
@@ -52820,6 +52960,14 @@ if a loaded module instance contains a "name" custom section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060117Z" creationid="Nachec" creationdate="20221023T060117Z">
         <seg>Esto es incorrecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following live example shows you what they look like in your system — default on the left, and with the above CSS applied on the right ([find it here also](https://mdn.github.io/learning-area/html/forms/styling-examples/appearence-tester.html) if you want to test it on other systems).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204348Z" creationid="Nachec" creationdate="20221027T204348Z">
+        <seg>El siguiente ejemplo en vivo muestra cómo se ven en tu sistema: predeterminado a la izquierda y con el CSS anterior aplicado a la derecha ([encuéntralo aquí también](https://mdn.github.io/learning-area/html/forms/styling-examples/appearence-tester.html) si deseas probarlo en otros sistemas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60361,6 +60509,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We'll look at those now.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204602Z" creationid="Nachec" creationdate="20221027T204602Z">
+        <seg>Los veremos ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'll see shortly what these nodes actually mean.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053809Z" creationid="gitnacho" creationdate="20221007T053809Z">
@@ -62881,6 +63037,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[`&lt;input type="search"&gt;`](/en-US/docs/Web/HTML/Element/input/search) is basically just a text input, so why is `appearance: none;` useful here?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204648Z" creationid="Nachec" creationdate="20221027T204648Z">
+        <seg>Básicamente [`&lt;input type="search"&gt;`](/es/docs/Web/HTML/Element/input/search) es una entrada de texto, entonces, ¿por qué `appearance: none;` es útil aquí?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[`Previous`](https://github.com/mdn/yari/blob/main/kumascript/macros/Previous.ejs), [`Next`](https://github.com/mdn/yari/blob/main/kumascript/macros/Next.ejs), and [`PreviousNext`](https://github.com/mdn/yari/blob/main/kumascript/macros/PreviousNext.ejs) provide navigation controls for articles which are part of sequences.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114633Z" creationid="gitnacho" creationdate="20221005T113347Z">
@@ -64232,6 +64396,16 @@ img {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```css
+input {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204312Z" creationid="Nachec" creationdate="20221027T204312Z">
+        <seg>```css
+input {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
 p {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225103Z" creationid="Nachec" creationdate="20221021T225103Z">
@@ -64421,6 +64595,16 @@ p {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183538Z" creationid="gitnacho" creationdate="20221008T183538Z">
         <seg>```html
 &lt;dl&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;form&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204113Z" creationid="Nachec" creationdate="20221027T204113Z">
+        <seg>```html
+&lt;form&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -68509,6 +68693,18 @@ unreachable
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210828T135132Z" creationid="nacho" creationdate="20201212T214141Z">
         <seg>app.get("/", function(req, res) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>appearance: none;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204314Z" creationid="Nachec" creationdate="20221027T204314Z">
+        <seg>appearance: none;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -76730,6 +76926,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212338Z" creationid="gitnacho" creationdate="20221005T212338Z">
         <seg>{{EmbedGHLiveSample("learning-area/css/styling-boxes/backgrounds/", '100%', 100)}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/appearence-tester.html", '100%', 400)}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204350Z" creationid="Nachec" creationdate="20221027T204350Z">
+        <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/appearence-tester.html", '100%', 400)}}</seg>
       </tuv>
     </tu>
     <tu>
