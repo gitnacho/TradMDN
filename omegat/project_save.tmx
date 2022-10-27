@@ -52694,8 +52694,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The net result of this is that the `callByIndex` function invokes the `$i`'th function in the table.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072840Z" creationid="gitnacho" creationdate="20221007T072840Z">
-        <seg>El resultado neto de esto es que la función `callByIndex` invoca a la función `$i`'ésima en la tabla.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T080654Z" creationid="gitnacho" creationdate="20221007T072840Z">
+        <seg>El resultado neto de esto es que la función `callByIndex` invoca a la `$i`'ésima función en la tabla.</seg>
       </tuv>
     </tu>
     <tu>
