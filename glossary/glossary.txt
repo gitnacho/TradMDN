@@ -80085,3 +80085,6 @@ zygote	cigoto
 ⇋	C-q C-i inserta un carácter de tabulación
 ﻿`	acento grave
 callout:	observación:	En markdown es para llamar la atención
+forerunner	precursora
+switching	conmutación
+suite	familia
