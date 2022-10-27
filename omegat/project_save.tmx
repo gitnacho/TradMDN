@@ -7226,6 +7226,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- **Internationalization** means making websites usable by people from different cultures, who speak different languages to your own.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053622Z" creationid="Nachec" creationdate="20221027T053622Z">
+        <seg>- **Internacionalización** — significa hacer que los sitios web sean utilizables por personas de diferentes culturas, que hablan diferentes idiomas al tuyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- **JavaScript** is the programming language we use to add interactivity to web sites, from dynamic style switching, to fetching updates from the server, right through to complex 3D graphics.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045219Z" creationid="Nachec" creationdate="20221027T045219Z">
@@ -7262,6 +7270,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T050154Z" creationid="Nachec" creationdate="20221027T050154Z">
         <seg>- **Rendimiento** — significa hacer que los sitios web se carguen lo más rápido posible, pero también hacerlos intuitivos y fáciles de usar para que los usuarios no se sientan frustrados y vayan a otro lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Privacy &amp; Security**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053651Z" creationid="Nachec" creationdate="20221027T053651Z">
+        <seg>- **Privacidad y seguridad**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43550,8 +43566,8 @@ relevant header and serve an actual page to the user.</seg>
       <tuv lang="en-US">
         <seg>It also goes beyond people with disabilities — how about young or old people, people from different cultures, people using mobile devices, or people with unreliable or slow network connections?</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T050627Z" creationid="Nachec" creationdate="20221027T050627Z">
-        <seg>It also goes beyond people with disabilities — how about young or old people, people from different cultures, people using mobile devices, or people with unreliable or slow network connections?</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053611Z" creationid="Nachec" creationdate="20221027T050627Z">
+        <seg>También va más allá de las personas con discapacidad — ¿qué pasa con los jóvenes o los ancianos, las personas de diferentes culturas, las personas que utilizan dispositivos móviles o las personas con conexiones de red lentas o poco fiables?</seg>
       </tuv>
     </tu>
     <tu>
@@ -47544,6 +47560,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T211216Z" creationid="gitnacho" creationdate="20221005T211159Z">
         <seg>Preferiblemente, incluye algo más de prosa en esta subsección para describir el resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Privacy refers to allowing people to go about their business privately and not spying on them or collecting more of their data than you absolutely need to.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053713Z" creationid="Nachec" creationdate="20221027T053713Z">
+        <seg>La privacidad se refiere a permitir que las personas realicen sus negocios de manera privada y no espiarlos o recopilar más datos de los estrictamente necesarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54169,6 +54193,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are technical considerations here (such as altering your layout so that it still works OK for right-to-left, or even vertical languages), and human ones (such as using simple, non-slang language so that people who have your language as their second or third language are more likely to understand your text).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053643Z" creationid="Nachec" creationdate="20221027T053643Z">
+        <seg>Hay consideraciones técnicas aquí (como alterar tu diseño para que aún funcione bien para idiomas de derecha a izquierda, o incluso verticales) y humanas (tal como usar un lenguaje simple, sin jerga para que las personas que tienen tu idioma ya que su segundo o tercer idioma es más probable que entienda tu texto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are templates for almost every large collection of pages.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T113741Z" creationid="gitnacho" creationdate="20221005T113741Z">
@@ -54677,6 +54709,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T115245Z" creationid="gitnacho" creationdate="20221005T115245Z">
         <seg>Estas plantillas tienen la misma semántica que sus contrapartes en línea descritas anteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These two concepts are related but different.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053659Z" creationid="Nachec" creationdate="20221027T053659Z">
+        <seg>Estos dos conceptos están relacionados pero son diferentes.</seg>
       </tuv>
     </tu>
     <tu>
