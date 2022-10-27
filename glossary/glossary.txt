@@ -80089,3 +80089,4 @@ forerunner	precursora
 switching	conmutación
 suite	familia
 surrounding	circundantes
+responsive	receptivo	receptivo
