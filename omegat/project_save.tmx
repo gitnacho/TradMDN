@@ -15558,6 +15558,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [CSS](/en-US/docs/Learn/CSS), and how to use it to style HTML (for example alter your text size and fonts used, add borders and drop shadows, layout your page with multiple columns, add animations and other visual effects).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182003Z" creationid="Nachec" creationdate="20221027T182003Z">
+        <seg>- [CSS](/es/docs/Learn/CSS), y cómo usarlo para estilizar HTML (por ejemplo, modificar el tamaño del texto y los tipos de letra utilizados, agregar bordes y sombras, modelar tu página con varias columnas, agregar animaciones y otros efectos visuales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [CSS](/en-US/docs/Web/CSS)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T200453Z" creationid="gitnacho" creationdate="20221002T094429Z">
@@ -16203,6 +16211,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T051811Z" creationid="gitnacho" creationdate="20221020T131105Z">
         <seg>- [JavaScript: Scripts dinámicos de lado del cliente](/es/docs/Learn/JavaScript)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [JavaScript](/en-US/docs/Learn/JavaScript), and how to use it to add dynamic functionality to web pages (for example find your location and plot it on a map, make UI elements appear/disappear when you toggle a button, save users' data locally on their computers, and much more).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182046Z" creationid="Nachec" creationdate="20221027T182046Z">
+        <seg>- [JavaScript](/es/docs/Learn/JavaScript), y cómo usarlo para agregar funcionalidad dinámica a las páginas web (por ejemplo, encontrar tu ubicación y trazarla en un mapa, hacer que los elementos de la _**I**nterfaz de **U**suario_ (**IU** en adelante) aparezcan/desaparezcan cuando se alterna un botón, guardar los datos del usuario localmente en su ordenador y mucho más).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34647,6 +34663,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After learning HTML, you can then move on to learning about more advanced topics such as:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T181935Z" creationid="Nachec" creationdate="20221027T181935Z">
+        <seg>Después de comprender HTML, puedes pasar a aprender temas más avanzados como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After making a link, click it to make sure it is sending you where you wanted it to.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T105124Z" creationid="Nachec" creationdate="20221023T105124Z">
@@ -40609,6 +40633,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204629Z" creationid="gitnacho" creationdate="20221005T204629Z">
         <seg>Sin embargo, es más complejo configurarlos que los otros formularios, tienen más limitaciones y están destinados a fines específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, this isn't absolutely necessary; much of what is covered in the [HTML basics](/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) article is also covered in our [Introduction to HTML](/en-US/docs/Learn/HTML/Introduction_to_HTML) module, albeit in a lot more detail.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T181926Z" creationid="Nachec" creationdate="20221027T181926Z">
+        <seg>gran parte de lo que se cubre en el artículo [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics) también se cubre en el módulo de [introducción a HTML](/es/docs/Learn/HTML/Introduction_to_HTML), aunque con mucho más detalle.</seg>
       </tuv>
     </tu>
     <tu>
