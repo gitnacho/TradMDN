@@ -35007,8 +35007,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An Instance is like an ES module that has been loaded into a particular global with a particular set of imports.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T075952Z" creationid="gitnacho" creationdate="20221003T075952Z">
-        <seg>Una instancia es como un módulo ES2015 que ha sido cargado en un global particular con un conjunto particular de `imports`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T110108Z" creationid="gitnacho" creationdate="20221003T075952Z">
+        <seg>Una instancia es como un módulo ES2015 que ha sido cargado en un global particular con un conjunto particular de `import`s.</seg>
       </tuv>
     </tu>
     <tu>
