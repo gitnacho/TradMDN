@@ -54698,6 +54698,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can be considered a forerunner of the Web, as it worked on [packet switching](https://en.wikipedia.org/wiki/Packet_switching), and featured the first implementation of the [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) protocol suite.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002053Z" creationid="Nachec" creationdate="20221027T002053Z">
+        <seg>Esta se puede considerar una precursora de la Web, ya que trabajó en la {{interwiki("wikipedia", "conmutación de paquetes")}} y presentó la primera implementación de la {{interwiki("wikipedia", "Familia de protocolos de internet")}} TCP/IP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be made up of one or several media segments.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220916T070007Z" creationid="gitnacho" creationdate="20220916T070007Z">
