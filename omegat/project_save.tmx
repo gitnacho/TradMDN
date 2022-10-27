@@ -6923,6 +6923,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**The bad**: Some elements are more difficult to style, requiring more complex CSS or some more specific tricks:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203418Z" creationid="Nachec" creationdate="20221027T203418Z">
+        <seg>**Lo malo**: algunos elementos son más difíciles de estilizar y requieren un CSS más complejo o algunos trucos más específicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**The closing tag:** This is the same as the opening tag, except that it includes a _forward slash_ before the element name.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055020Z" creationid="Nachec" creationdate="20221023T055020Z">
@@ -11633,6 +11641,16 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085723Z" creationid="Nachec" creationdate="20221021T085723Z">
         <seg>- Verifica el texto utilizado y encuentra sus [caracteres Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode) ("−", "ℂ", "∑", ...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Checkboxes and radio buttons
+- [`&lt;input type="search"&gt;`](/en-US/docs/Web/HTML/Element/input/search)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203459Z" creationid="Nachec" creationdate="20221027T203459Z">
+        <seg>- Casillas de verificación y botones de opción
+- [`&lt;input type="search"&gt;`](/es/docs/Web/HTML/Element/input/search)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28642,6 +28660,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a href="/en-US/docs/Learn/CSS/First_steps"&gt;CSS&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203322Z" creationid="Nachec" creationdate="20221027T203322Z">
+        <seg>&lt;a href="/es/docs/Learn/CSS/First_steps"&gt;CSS&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;a href="/en-US/docs/Learn/CSS/Styling_text/Web_fonts"&gt;web fonts&lt;/a&gt;).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184922Z" creationid="Nachec" creationdate="20221021T184922Z">
@@ -28662,6 +28688,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055908Z" creationid="Nachec" creationdate="20221021T055908Z">
         <seg>&lt;a href="/es/docs/Learn/HTML/Introduction_to_HTML"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a href="/en-US/docs/Learn/HTML/Introduction_to_HTML"&gt;HTML&lt;/a&gt; and</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203309Z" creationid="Nachec" creationdate="20221027T203309Z">
+        <seg>&lt;a href="/es/docs/Learn/HTML/Introduction_to_HTML"&gt;HTML&lt;/a&gt; y</seg>
       </tuv>
     </tu>
     <tu>
@@ -36195,6 +36229,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As we saw [in the previous article](/en-US/docs/Learn/Forms/Styling_web_forms), text fields and buttons are perfectly easy to style; now we will dig into styling the bits that are more problematic.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203245Z" creationid="Nachec" creationdate="20221027T203245Z">
+        <seg>Como vimos [en el artículo anterior](/es/docs/Learn/Forms/Styling_web_forms), los campos de texto y los botones son perfectamente fáciles de estilizar; ahora profundizaremos en el estilo de las partes que son más problemáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As we saw, the Internet is a technical infrastructure which allows billions of computers to be connected all together.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T204558Z" creationid="Nachec" creationdate="20221025T202928Z">
@@ -36367,6 +36409,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055744Z" creationid="Nachec" creationdate="20221021T055744Z">
         <seg>Alfabetización informática básica,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basic computer literacy, and a basic understanding of</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203303Z" creationid="Nachec" creationdate="20221027T203303Z">
+        <seg>Alfabetización informática básica y una comprensión básica de</seg>
       </tuv>
     </tu>
     <tu>
@@ -43529,6 +43579,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182428Z" creationid="Nachec" creationdate="20221021T182428Z">
         <seg>En este artículo, hemos visto cómo usar el elemento `&lt;math&gt;` para insertar una fórmula matemática dentro de un documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this article, we will see what can be done with CSS to style the types of form control that are more difficult to style — the "bad" and "ugly" categories.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203223Z" creationid="Nachec" creationdate="20221027T203223Z">
+        <seg>En este artículo, veremos qué se puede hacer con CSS para estilizar los tipos de control de formulario que son más difíciles de estilizar: las categorías "malo" y "feo".</seg>
       </tuv>
     </tu>
     <tu>
@@ -58827,6 +58885,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To recap what we said in the previous article, we have:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203405Z" creationid="Nachec" creationdate="20221027T203405Z">
+        <seg>Para recapitular lo que dijimos en el artículo anterior, tenemos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To reduce your likelihood of violating copyright, you can use Google's license filter.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062716Z" creationid="gitnacho" creationdate="20221019T062716Z">
@@ -58977,6 +59043,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181050Z" creationid="Nachec" creationdate="20221021T181050Z">
         <seg>Comprender la sintaxis básica de MathML y ​​cómo integrarlo en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To understand what parts of forms are hard to style, and why; to learn</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203348Z" creationid="Nachec" creationdate="20221027T203348Z">
+        <seg>Comprender qué partes de los formularios son difíciles de estilizar y por qué; para aprender</seg>
       </tuv>
     </tu>
     <tu>
@@ -76046,6 +76120,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220915T131738Z" creationid="gitnacho" creationdate="20220915T131738Z">
         <seg>sitios web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>what can be done to customize them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203357Z" creationid="Nachec" creationdate="20221027T203357Z">
+        <seg>qué se puede hacer para personalizarlos.</seg>
       </tuv>
     </tu>
     <tu>
