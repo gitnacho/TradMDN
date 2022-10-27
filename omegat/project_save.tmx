@@ -7108,8 +7108,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- **A computer**.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164459Z" creationid="gitnacho" creationdate="20221012T164438Z">
-        <seg>- **Una computadora**.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105459Z" creationid="gitnacho" creationdate="20221012T164438Z">
+        <seg>- **Un ordenador**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12080,8 +12080,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- Get low-level access to a user's computer.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203735Z" creationid="gitnacho" creationdate="20221018T203735Z">
-        <seg>- Obtener acceso de bajo nivel a la computadora de un usuario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105544Z" creationid="gitnacho" creationdate="20221018T203735Z">
+        <seg>- Obtener acceso de bajo nivel al ordenador de un usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33609,8 +33609,8 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
       <tuv lang="en-US">
         <seg>A Module declares imports and exports just like an ES module.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T075745Z" creationid="gitnacho" creationdate="20221003T075745Z">
-        <seg>Un módulo declara 'imports' y 'exports' igual que un módulo ES2015module.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T110005Z" creationid="gitnacho" creationdate="20221003T075745Z">
+        <seg>Un módulo declara `import`s y `export`s igual que un módulo ES2015module.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41700,8 +41700,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you want to copy them all to your computer, the easiest way is to [download a ZIP of the latest master code branch](https://codeload.github.com/mdn/learning-area/zip/main).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T002050Z" creationid="Nachec" creationdate="20221020T173405Z">
-        <seg>Si deseas copiarlos todos en tu computadora, la forma más fácil es [descargar un ZIP de la última rama del código maestro](https://codeload.github.com/mdn/learning-area/zip/main).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105516Z" creationid="Nachec" creationdate="20221020T173405Z">
+        <seg>Si deseas copiarlos todos en tu ordenador, la forma más fácil es [descargar un ZIP de la última rama del código maestro](https://codeload.github.com/mdn/learning-area/zip/main).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47271,8 +47271,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Open your computer's [command prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089) (Windows) or terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [macOS](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050633Z" creationid="Nachec" creationdate="20221020T173616Z">
-        <seg>Abre el [símbolo del sistema](https://www.lifewire.com/how-to-open-command-prompt-2618089) de tu computadora (Windows) o terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [macOS](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105531Z" creationid="Nachec" creationdate="20221020T173616Z">
+        <seg>Abre el [símbolo del sistema](https://www.lifewire.com/how-to-open-command-prompt-2618089) de tu ordenador (Windows) o terminal ([Linux](https://help.ubuntu.com/community/UsingTheTerminal), [macOS](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59158,8 +59158,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>We have run into performance problems, however, when trying to use JavaScript for more intensive use cases like 3D games, Virtual and Augmented Reality, computer vision, image/video editing, and a number of other domains that demand native performance (see [WebAssembly use cases](https://webassembly.org/docs/use-cases/) for more ideas).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T005548Z" creationid="gitnacho" creationdate="20221003T005548Z">
-        <seg>Sin embargo, hemos llegado a tener problemas de rendimiento cuando se trata de usar JavaScript para casos de uso más intenso, como juegos 3D, Realidad Virtual y Aumentada, visión por computadora, edición de vídeo/imágenes y algunos otros dominios de cosas que demandan rendimiento como el de código nativo (ve [Casos de Uso de WebAssembly](http://webassembly.org/docs/use-cases/) para más ideas).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105601Z" creationid="gitnacho" creationdate="20221003T005548Z">
+        <seg>Sin embargo, hemos llegado a tener problemas de rendimiento cuando se trata de usar JavaScript para casos de uso más intenso, como juegos 3D, Realidad Virtual y Aumentada, visión por ordenador, edición de vídeo/imágenes y algunos otros dominios de cosas que demandan rendimiento como el de código nativo (ve [Casos de Uso de WebAssembly](http://webassembly.org/docs/use-cases/) para más ideas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61553,8 +61553,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You probably already have a basic text editor on your computer.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T154718Z" creationid="gitnacho" creationdate="20221012T154718Z">
-        <seg>Probablemente ya tengas un editor de texto básico en tu computadora.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105446Z" creationid="gitnacho" creationdate="20221012T154718Z">
+        <seg>Probablemente ya tengas un editor de texto básico en tu ordenador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77860,10 +77860,10 @@ tags:</prop>
 - [Publishing your website](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 - [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T225434Z" creationid="Nachec" creationdate="20221023T113214Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105427Z" creationid="Nachec" creationdate="20221023T113214Z">
         <seg>- [Instalación del software básico](/es/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
 - [¿Cual será la apariencia de tu sitio web?](/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
-- [Manejo de archivos](#¿dónde_debería_estar_tu_sitio_web_en_tu_computadora)
+- [Manejo de archivos](#¿dónde_debería_estar_tu_sitio_web_en_tu_ordenador)
 - [Conceptos básicos de HTML](/es/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Conceptos básicos de CSS](/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [Conceptos básicos de JavaScript](/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
