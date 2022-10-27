@@ -1120,6 +1120,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Advanced articles</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193515Z" creationid="Nachec" creationdate="20221027T193515Z">
+        <seg>## Artículos avanzados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Advanced setup</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T200036Z" creationid="Nachec" creationdate="20221021T200036Z">
@@ -2684,6 +2692,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064510Z" creationid="gitnacho" creationdate="20221004T064510Z">
         <seg>## Usando el paquete en la web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Validating and submitting form data</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193328Z" creationid="Nachec" creationdate="20221027T193328Z">
+        <seg>## Validar y enviar datos del formulario</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,6 +8000,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : An introduction to the UI pseudo-classes enabling HTML form controls to be targeted based on their current state.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193249Z" creationid="Nachec" creationdate="20221027T193249Z">
+        <seg>- : Una introducción a las pseudoclases de la interfaz de usuario que permite orientar los controles de formulario HTML en función de su estado actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : An object containing the values to be imported into the newly-created</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T101857Z" creationid="gitnacho" creationdate="20221006T101857Z">
@@ -8780,6 +8804,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193024Z" creationid="Nachec" creationdate="20221027T193024Z">
         <seg>- : Aquí continuamos nuestra inmersión profunda en el elemento `&lt;input&gt;`, observando los tipos de entrada adicionales proporcionados cuando se lanzaron en HTML5 y los diversos controles de interfaz de usuario y mejoras de recopilación de datos que brindan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Here we look at some more advanced form styling techniques that need to be used when trying to deal with some of the more difficult-to-style form elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193227Z" creationid="Nachec" creationdate="20221027T193227Z">
+        <seg>- : Aquí vemos algunas técnicas de estilizado de formularios más avanzadas que se deben usar cuando se trata de lidiar con algunos de los elementos de formulario más difíciles de diseñar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9754,6 +9786,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Sending data is not enough — we also need to make sure that the data users enter into forms is in the correct format to process it successfully, and that it won't break our applications.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193408Z" creationid="Nachec" creationdate="20221027T193408Z">
+        <seg>- : Enviar datos no es suficiente; también debemos asegurarnos de que los datos que los usuarios ingresen en los formularios estén en el formato apropiado para procesarlos correctamente y que no rompan nuestras aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Sets an element stored at a given index to a given value.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T095318Z" creationid="gitnacho" creationdate="20221006T095318Z">
@@ -10466,6 +10506,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T100255Z" creationid="gitnacho" creationdate="20221003T100255Z">
         <seg>- : Este artículo explica el formato de texto `wasm`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : This article looks at what happens when a user submits a form — where does the data go, and how do we handle it when it gets there?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193501Z" creationid="Nachec" creationdate="20221027T193501Z">
+        <seg>-: Este artículo analiza lo que sucede cuando un usuario envía un formulario: ¿a dónde van los datos y cómo los manejamos cuando llegan allí?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15772,6 +15820,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193343Z" creationid="Nachec" creationdate="20221027T193343Z">
+        <seg>- [Validación de formulario de lado del cliente](/es/docs/Learn/Forms/Form_validation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Code.org](https://code.org/)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T175952Z" creationid="Nachec" creationdate="20221020T175952Z">
@@ -16758,6 +16814,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193451Z" creationid="Nachec" creationdate="20221027T193451Z">
+        <seg>- [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Server-side website programming](/en-US/docs/Learn/Server-side)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001830Z" creationid="gitnacho" creationdate="20221020T131749Z">
@@ -16940,6 +17004,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T093444Z" creationid="gitnacho" creationdate="20221002T093444Z">
         <seg>- [Tutoriales para desarrolladores web](/es/docs/Web/Tutorials)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [UI pseudo-classes](/en-US/docs/Learn/Forms/UI_pseudo-classes)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193237Z" creationid="Nachec" creationdate="20221027T193237Z">
+        <seg>- [Pseudoclases de interfaz de usuario](/es/docs/Learn/Forms/UI_pseudo-classes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39808,6 +39880,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Form validation helps us achieve these goals — this article tells you what you need to know.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193441Z" creationid="Nachec" creationdate="20221027T193441Z">
+        <seg>La validación de formularios nos ayuda a lograr estos objetivos: este artículo te enseña lo que necesitas saber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Forms require HTML, CSS, and JavaScript knowledge.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224944Z" creationid="gitnacho" creationdate="20221018T224944Z">
@@ -59336,10 +59416,26 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We also look at some of the security concerns associated with sending form data.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193509Z" creationid="Nachec" creationdate="20221027T193509Z">
+        <seg>También analizamos algunos de los problemas de seguridad asociados con el envío de datos de formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We also touched on the concept of multiplicity.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T234315Z" creationid="gitnacho" creationdate="20221006T234315Z">
         <seg>También tocamos el concepto de multiplicidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We also want to help our users to fill out our forms correctly and not get frustrated when trying to use our apps.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193432Z" creationid="Nachec" creationdate="20221027T193432Z">
+        <seg>También queremos ayudar a nuestros usuarios a completar nuestros formularios correctamente y no frustrarse al intentar usar nuestras aplicaciones.</seg>
       </tuv>
     </tu>
     <tu>
