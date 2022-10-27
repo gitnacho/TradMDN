@@ -1872,6 +1872,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Introductory guides</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192823Z" creationid="Nachec" creationdate="20221027T192823Z">
+        <seg>## Guías introductorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## KumaScript</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191717Z" creationid="gitnacho" creationdate="20221008T191717Z">
@@ -10042,6 +10050,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The first article in our series provides your very first experience of creating a web form, including designing a simple form, implementing it using the right HTML elements, adding some very simple styling via CSS, and how data is sent to a server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192858Z" creationid="Nachec" creationdate="20221027T192858Z">
+        <seg>- : El primer artículo de nuestra serie te brinda tu primera experiencia en la creación de un formulario web, incluido el diseño de un formulario simple, su implementación con los elementos HTML correctos, la adición de un estilo muy simple a través de CSS y cómo se envían los datos a un servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The full URL to the current MDN document
 - `env.id`</seg>
       </tuv>
@@ -16175,6 +16191,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [How to structure a web form](/en-US/docs/Learn/Forms/How_to_structure_a_web_form)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192906Z" creationid="Nachec" creationdate="20221027T192906Z">
+        <seg>- [Cómo estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Improving user privacy and developer experience with User-Agent Client Hints](https://web.dev/user-agent-client-hints/)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T211913Z" creationid="Nachec" creationdate="20221026T211913Z">
@@ -17196,6 +17220,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200630Z" creationid="gitnacho" creationdate="20221008T200630Z">
         <seg>- [Pautas de escritura](/es/docs/MDN/Writing_guidelines)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Your first form](/en-US/docs/Learn/Forms/Your_first_form)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192836Z" creationid="Nachec" creationdate="20221027T192836Z">
+        <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32244,6 +32276,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** If you are working on a computer/tablet/other device where you don't have the ability to create your own files, you could try out (most of) the code examples in an online coding program such as [JSBin](https://jsbin.com/) or [Glitch](https://glitch.com/).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192818Z" creationid="Nachec" creationdate="20221027T192818Z">
+        <seg>&gt; **Nota:** Si estás trabajando en un ordenador/tableta/otro dispositivo donde no tienes la capacidad de crear tus propios archivos, puedes probar (la mayoría de) los ejemplos de código en un programa de codificación en línea como [JSBin](https://jsbin.com/) o [Glitch](https://glitch.com/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** If you are working on a computer/tablet/other device where you don't have the ability to create your own files, you could try out the code examples in an online coding program such as [JSBin](https://jsbin.com/) or [Glitch](https://glitch.com/).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233159Z" creationid="Nachec" creationdate="20221021T083812Z">
@@ -35951,6 +35991,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T105744Z" creationid="gitnacho" creationdate="20221003T105744Z">
         <seg>En este punto en tu directorio fuente deberías tener:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At this point you should find the [Introductory guides](#introductory_guides) easy to understand, and also be able to make use of our [Basic native form controls](/en-US/docs/Learn/Forms/Basic_native_form_controls) guide.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192629Z" creationid="Nachec" creationdate="20221027T192629Z">
+        <seg>En este punto deberías encontrar las [Guías introductorias](#guías_introductorias) fáciles de entender, y también poder hacer uso de nuestra guía de [Conceptos básicos de controles de formulario nativos](/es/docs/Learn/Forms/Basic_native_form_controls).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45771,6 +45819,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mastering forms however requires more than just HTML knowledge — you also need to learn some specific techniques to style form controls, and some scripting knowledge is required to handle things like validation and creating custom form controls.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192700Z" creationid="Nachec" creationdate="20221027T192700Z">
+        <seg>Sin embargo, el dominio de los formularios requiere algo más que conocimientos de HTML: también debes aprender algunas técnicas específicas para aplicar estilo a los controles de formulario, y se requiere cierto conocimiento de scripts para manejar cosas como la validación y la creación de controles de formulario personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MathML contains an [operator dictionary](https://w3c.github.io/mathml-core/#operator-dictionary-human) that defines default properties of `&lt;mo&gt;` elements depending on their content and the position within its container (prefix, infix or postfix).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T192317Z" creationid="Nachec" creationdate="20221021T192317Z">
@@ -51185,6 +51241,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above text is a good indicator as to why we've put web forms into its own standalone module, rather than trying to mix bits of it into the HTML, CSS, and JavaScript topic areas — form elements are more complex than most other HTML elements, and they also require a close marriage of related CSS and JavaScript techniques to get the most out of them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192805Z" creationid="Nachec" creationdate="20221027T192805Z">
+        <seg>El texto anterior es un buen indicador de por qué hemos colocado formularios web en su propio módulo independiente, en lugar de tratar de mezclar fragmentos en las áreas temáticas de HTML, CSS y JavaScript: los elementos de formulario son más complejos que la mayoría de los demás elementos HTML, y también requieren un matrimonio cercano de técnicas relacionadas de CSS y JavaScript para aprovecharlos al máximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The actual syntax for HTTP messages (called requests and responses) is not that human-readable, but this gives you the basic idea.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T044840Z" creationid="Nachec" creationdate="20221027T044840Z">
@@ -54618,6 +54682,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225242Z" creationid="Nachec" creationdate="20221021T225242Z">
         <seg>Por lo tanto, todos los siguientes valores son aceptables para {{CSSxRef("width")}}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, before you look at the other sections listed below we'd recommend that you go away and learn some [CSS](/en-US/docs/Learn/CSS) and [JavaScript](/en-US/docs/Learn/JavaScript) first.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192725Z" creationid="Nachec" creationdate="20221027T192725Z">
+        <seg>Por lo tanto, antes de mirar las otras secciones que se enumeran a continuación, te recomendamos que primero vayas y aprendas algo de [CSS](/es/docs/Learn/CSS) y [JavaScript](/es/docs/Learn/JavaScript).</seg>
       </tuv>
     </tu>
     <tu>
