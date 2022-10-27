@@ -16010,8 +16010,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
         <seg>- [History of the World Wide Web](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 - [How does the internet work?](/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T053838Z" creationid="Nachec" creationdate="20221027T053838Z">
-        <seg>- {{interwiki("wikipedia", "Historia de la World Wide Web")}}
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T060044Z" creationid="Nachec" creationdate="20221027T053838Z">
+        <seg>- [Historia de la World Wide Web](https://es.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 - [¿Cómo funciona la internet?](/es/docs/Learn/Common_questions/How_does_the_Internet_work)</seg>
       </tuv>
     </tu>
@@ -36589,8 +36589,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>By late 1990, TimBL had created all the things needed to run the first version of the web — [HTTP](/en-US/docs/Web/HTTP), [HTML](/en-US/docs/Web/HTML), the first web browser, which was called [WorldWideWeb](https://en.wikipedia.org/wiki/WorldWideWeb), an HTTP server, and some web pages to look at.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002544Z" creationid="Nachec" creationdate="20221027T002544Z">
-        <seg>A finales de 1990, TimBL había creado todo lo necesario para ejecutar la primera versión de la web: [HTTP](/es/docs/Web/HTTP), [HTML](/es/docs/Web/HTML), el primer navegador web, que se llamaba {{interwiki("wikipedia", "WorldWideWeb")}}, un servidor HTTP y algunas páginas web para mirar.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T055647Z" creationid="Nachec" creationdate="20221027T002544Z">
+        <seg>A finales de 1990, TimBL había creado todo lo necesario para ejecutar la primera versión de la web: [HTTP](/es/docs/Web/HTTP), [HTML](/es/docs/Web/HTML), el primer navegador web, que se llamaba [WorldWideWeb](https://en.wikipedia.org/wiki/WorldWideWeb), un servidor HTTP y algunas páginas web para mirar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47144,8 +47144,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>One last significant data point to share is that in 1994, TimBL founded the [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (W3C), an organization that brings together representatives from many different technology companies to work together on the creation of web technology specifications.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002826Z" creationid="Nachec" creationdate="20221027T002826Z">
-        <seg>Un último dato importante para compartir es que en 1994, TimBL fundó el {{interwiki("wikipedia", "World Wide Web Consortium")}} (W3C), una organización que reúne a representantes de muchas empresas de tecnología diferentes para trabajar juntos en la creación de especificaciones de tecnología web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T055956Z" creationid="Nachec" creationdate="20221027T002826Z">
+        <seg>Un último dato importante para compartir es que en 1994, TimBL fundó el [World Wide Web Consortium](https://es.wikipedia.org/wiki/World_Wide_Web_Consortium) (W3C), una organización que reúne a representantes de muchas empresas de tecnología diferentes para trabajar juntos en la creación de especificaciones de tecnología web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55454,8 +55454,8 @@ is the most efficient, optimized way to load wasm code.</seg>
       <tuv lang="en-US">
         <seg>This can be considered a forerunner of the Web, as it worked on [packet switching](https://en.wikipedia.org/wiki/Packet_switching), and featured the first implementation of the [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) protocol suite.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002053Z" creationid="Nachec" creationdate="20221027T002053Z">
-        <seg>Esta se puede considerar una precursora de la Web, ya que trabajó en la {{interwiki("wikipedia", "conmutación de paquetes")}} y presentó la primera implementación de la {{interwiki("wikipedia", "Familia de protocolos de internet")}} TCP/IP.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T055402Z" creationid="Nachec" creationdate="20221027T002053Z">
+        <seg>Esta se puede considerar una precursora de la Web, ya que trabajó en la [conmutación de paquetes](https://es.wikipedia.org/wiki/Packet_switching) y presentó la primera implementación de la [Familia de protocolos de internet](https://es.wikipedia.org/wiki/Internet_protocol_suite) TCP/IP.</seg>
       </tuv>
     </tu>
     <tu>
