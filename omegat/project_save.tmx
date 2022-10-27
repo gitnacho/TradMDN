@@ -2088,6 +2088,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Overview of modern web technologies</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004332Z" creationid="Nachec" creationdate="20221027T004332Z">
+        <seg>## Descripción de las tecnologías web modernas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Packets explained</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192141Z" creationid="Nachec" creationdate="20221025T192141Z">
@@ -3100,6 +3108,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Browsers</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004434Z" creationid="Nachec" creationdate="20221027T004434Z">
+        <seg>### Navegadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Building the package</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063951Z" creationid="gitnacho" creationdate="20221004T063951Z">
@@ -3704,6 +3720,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173720Z" creationid="gitnacho" creationdate="20221005T173720Z">
         <seg>### HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### HTTP</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004612Z" creationid="Nachec" creationdate="20221027T004612Z">
+        <seg>### HTTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -35238,6 +35262,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a part of the web community, you'll have an entire web of contacts and useful material to help you, and you'll start to enjoy the creative possibilities it brings.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004258Z" creationid="Nachec" creationdate="20221027T004258Z">
+        <seg>Como parte de la comunidad web, tendrás toda una red de contactos y material útil para ayudarte, y comenzarás a disfrutar de las posibilidades creativas que brinda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a semi-experimental feature (not guaranteed to work), you can supply a JSON object for the first and only parameter, like so:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065357Z" creationid="gitnacho" creationdate="20221005T065357Z">
@@ -37173,6 +37205,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Does this sound hard?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004219Z" creationid="Nachec" creationdate="20221027T004219Z">
+        <seg>¿Esto suena difícil?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't panic.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223718Z" creationid="gitnacho" creationdate="20221018T223718Z">
@@ -37193,6 +37233,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045204Z" creationid="Nachec" creationdate="20221023T045204Z">
         <seg>Por ahora, no te preocupes por lo que significa todo esto; veremos las estructuras con más detalle más adelante en la serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't worry — we aim to give you everything you need to know to get started, and things will get easier.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004233Z" creationid="Nachec" creationdate="20221027T004233Z">
+        <seg>No te preocupes: nuestro objetivo es brindarte todo lo que necesitas saber para comenzar, y las cosas serán más fáciles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37569,6 +37617,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093227Z" creationid="Nachec" creationdate="20221022T093227Z">
         <seg>Los usuarios finales a menudo no lo modifican porque no saben cómo hacerlo o no pueden hacerlo en función de su entorno informático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enjoy the experience, and the potential for earning a living.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004314Z" creationid="Nachec" creationdate="20221027T004314Z">
+        <seg>Disfruta de la experiencia y el potencial de ganarte la vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38233,6 +38289,14 @@ a simple value):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T194105Z" creationid="gitnacho" creationdate="20221005T095351Z">
         <seg>Para obtener una lista de macros obsoletas y documentación sobre cómo reemplazar estas macros, consulta nuestra [documentación de macros obsoletas](/es/docs/MDN/Writing_guidelines/Page_structures/Macros/Deprecated_macros).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a more detailed explanation of how some of them work together, read our article [How the web works](/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004424Z" creationid="Nachec" creationdate="20221027T004424Z">
+        <seg>Para obtener una explicación más detallada de cómo funcionan juntas algunas de ellas, lee nuestro artículo [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40259,6 +40323,14 @@ la aplicación.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T201803Z" creationid="Nachec" creationdate="20221021T201803Z">
         <seg>Sin embargo, es probable que debas asegurarte de que tu sistema conozca estas fuentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypertext Transfer Protocol, or [HTTP](/en-US/docs/Web/HTTP/Basics_of_HTTP), is a messaging protocol that allows web browsers to communicate with web servers (where web sites are stored).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T044713Z" creationid="Nachec" creationdate="20221027T044713Z">
+        <seg>El Protocolo de transferencia de hipertexto, o [HTTP](/es/docs/Web/HTTP/Basics_of_HTTP), es un protocolo de mensajería que permite a los navegadores web comunicarse con los servidores web (donde se almacenan los sitios web).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42788,6 +42860,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141141Z" creationid="Nachec" creationdate="20221023T141141Z">
         <seg>En esta sección también se utiliza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this section we will describe them briefly.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004408Z" creationid="Nachec" creationdate="20221027T004408Z">
+        <seg>En esta sección las describiremos brevemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46656,6 +46736,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T060501Z" creationid="Nachec" creationdate="20221021T060501Z">
         <seg>Una vez que hayas terminado, puedes inspeccionar la fuente de la fórmula MathML y ​​verificar si coincide con tus expectativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you embrace the constant change and uncertainty of the web, you'll start to enjoy yourself.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004244Z" creationid="Nachec" creationdate="20221027T004244Z">
+        <seg>Una vez que aceptes el cambio constante y la incertidumbre de la web, comenzarás a disfrutar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53561,6 +53649,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are a number of technologies to learn if you want to be a front-end web developer.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004359Z" creationid="Nachec" creationdate="20221027T004359Z">
+        <seg>Hay una serie de tecnologías que debes aprender si deseas ser un desarrollador web de la interfaz de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are a number of ways to attach an event handler to an element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192248Z" creationid="Nachec" creationdate="20221023T192248Z">
@@ -59034,6 +59130,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web browsers are the software programs people use to consume the web, and include [Firefox](https://www.mozilla.org/en-US/firefox/), [Chrome](https://www.google.com/chrome/), [Opera](https://www.opera.com/), [Safari](https://www.apple.com/safari/), and [Edge](https://www.microsoft.com/en-us/edge).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004609Z" creationid="Nachec" creationdate="20221027T004609Z">
+        <seg>Los navegadores web son los programas de software que la gente usa para consumir la web e incluyen [Firefox](https://www.mozilla.org/es-MX/firefox/), [Chrome](https://www.google.com/intl/es-419/chrome/), [Opera](https://www.opera.com/es), [Safari](https://www.apple.com/mx/safari/) y [Edge](https://www.microsoft.com/es-es/edge).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web content's **origin** is defined by the _scheme_ (protocol), _hostname_ (domain), and _port_ of the {{Glossary("URL")}} used to access it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T152529Z" creationid="gitnacho" creationdate="20221017T151410Z">
@@ -60320,6 +60424,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are probably reading these words inside a web browser in this very moment (unless you've printed it out, or are using assistive technology, such as a screen reader to read it out to you).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004550Z" creationid="Nachec" creationdate="20221027T004550Z">
+        <seg>Probablemente estés leyendo estas palabras dentro de un navegador web en este mismo momento (a menos que las hayas impreso o estés utilizando tecnología de asistencia, como un lector de pantalla para leerlas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are responsible for implementing how your script (e.g. in a {{domxref("ServiceWorker")}}) handles `Cache` updates.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T202544Z">
@@ -61202,6 +61314,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T051555Z" creationid="gitnacho" creationdate="20220921T041809Z">
         <seg>Querrás actualizar tu detector de eventos `install` en el nuevo *service worker* a algo como esto (observa el nuevo número de versión):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're a digital creative now.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004307Z" creationid="Nachec" creationdate="20221027T004307Z">
+        <seg>Ahora eres un creativo digital.</seg>
       </tuv>
     </tu>
     <tu>
