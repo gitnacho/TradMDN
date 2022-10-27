@@ -23846,6 +23846,21 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: The web and web standards
+slug: Learn/Getting_started_with_the_web/The_web_and_web_standards
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T001608Z" creationid="Nachec" creationdate="20221027T001608Z">
+        <seg>---
+title: La web y los estándares web
+slug: Learn/Getting_started_with_the_web/The_web_and_web_standards
+rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: Third-party APIs
 slug: Learn/JavaScript/Client-side_web_APIs/Third_party_APIs
 tags:</seg>
