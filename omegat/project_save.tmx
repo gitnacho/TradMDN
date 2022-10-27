@@ -20916,8 +20916,8 @@ browser-compat: api.Document.timeline
       <tuv lang="en-US">
         <seg>- {{HTTPHeader("Range")}} (only with a [simple range header value](https://fetch.spec.whatwg.org/#simple-range-header-value); e.g., `bytes=256-` or `bytes=127-255`)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220822Z" creationid="gitnacho" creationdate="20221011T220514Z">
-        <seg>- {{HTTPHeader("Range")}} (solo con un [valor de encabezado de rango simple](https://fetch.spec.whatwg.org/#simple-range-header-value); por ejemplo, `bytes=256 -` o `bytes=127-255`)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073215Z" creationid="gitnacho" creationdate="20221011T220514Z">
+        <seg>- {{HTTPHeader("Range")}} (solo con una [cabecera `value` de rango simple](https://fetch.spec.whatwg.org/#simple-range-header-value); por ejemplo, `bytes=256 -` o `bytes=127-255`)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33208,8 +33208,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; For historical reasons this header contains a lot of largely irrelevant information, and information that might be used to identify a _particular user_.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092530Z" creationid="gitnacho" creationdate="20221012T092530Z">
-        <seg>&gt; Por razones históricas, este encabezado contiene mucha información en gran medida irrelevante e información que se podría usar para identificar a un _usuario en particular_.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T073022Z" creationid="gitnacho" creationdate="20221012T092530Z">
+        <seg>&gt; Por razones históricas, esta cabecera contiene mucha información en gran medida irrelevante e información que se podría usar para identificar a un _usuario en particular_.</seg>
       </tuv>
     </tu>
     <tu>
