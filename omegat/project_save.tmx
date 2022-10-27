@@ -10126,6 +10126,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : The main entry point for HTML reference documentation on MDN, including detailed element and attribute references — if you want to know what attributes an element has or what values an attribute has, for example, this is a great place to start.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182806Z" creationid="Nachec" creationdate="20221027T182806Z">
+        <seg>- : El punto de entrada principal para la documentación de referencia HTML en MDN, incluidas las referencias detalladas de elementos y atributos; si deseas saber qué atributos tiene un elemento o qué valores tiene un atributo, por ejemplo, este es un excelente lugar para comenzar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : The main entry point for MathML documentation on MDN, where you'll find detailed reference documentation for all features of the MathML language.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T063930Z" creationid="Nachec" creationdate="20221021T063930Z">
@@ -15895,6 +15903,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T210654Z" creationid="Nachec" creationdate="20221023T210654Z">
         <seg>- [Dropbox](https://www.dropbox.com/) es un sistema de almacenamiento de archivos que te permite guardar los archivos en la web y tenerlos disponibles desde cualquier ordenador. Cualquier persona con una conexión a Internet puede acceder a cualquier directorio de Dropbox que esté accesible al público. Si ese directorio contiene los archivos del sitio web, estos serán visualizados como un sitio web de forma automática.
 - [Google App Engine](https://cloud.google.com/appengine/) es una poderosa plataforma que permite construir y ejecutar aplicaciones en la infraestructura de Google, ya sea que necesites construir una aplicación web de varios niveles desde cero o alojar un sitio web estático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [HTML (HyperText Markup Language) on MDN](/en-US/docs/Web/HTML)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182737Z" creationid="Nachec" creationdate="20221027T182737Z">
+        <seg>- [HTML (lenguaje de marcado de hipertexto)](/es/docs/Web/HTML)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40505,6 +40521,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, for historical and technical reasons it's not always obvious how to use them to their full potential.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182655Z" creationid="Nachec" creationdate="20221027T182655Z">
+        <seg>Sin embargo, por razones históricas y técnicas, no siempre es obvio cómo utilizarlos en todo su potencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, getting comfortable with JavaScript is more challenging than getting comfortable with HTML and CSS.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175231Z" creationid="Nachec" creationdate="20221023T175231Z">
@@ -59636,6 +59660,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T120422Z" creationid="Nachec" creationdate="20221023T120422Z">
         <seg>Contestará a preguntas del tipo: ¿Cómo hago mi texto rojo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll cover all the essential aspects of Web forms including marking up their HTML structure, styling form controls, validating form data, and submitting data to the server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182709Z" creationid="Nachec" creationdate="20221027T182709Z">
+        <seg>Aborda todos los aspectos esenciales de los formularios web, incluido el marcado de su estructura HTML, el diseño de controles de formulario, la validación de datos de formulario y el envío de datos al servidor.</seg>
       </tuv>
     </tu>
     <tu>
