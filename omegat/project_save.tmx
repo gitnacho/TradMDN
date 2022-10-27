@@ -10454,6 +10454,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : This module sets the stage, getting you used to important concepts and syntax, looking at applying HTML to text, how to create hyperlinks, and how to use HTML to structure a webpage.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182304Z" creationid="Nachec" creationdate="20221027T182304Z">
+        <seg>- : Este módulo prepara el escenario para que te acostumbres a conceptos y sintaxis importantes, explica cómo aplicar HTML al texto, cómo crear hipervínculos y cómo usar HTML para estructurar una página web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : This object acts as the namespace for all WebAssembly related functionality.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T100901Z" creationid="gitnacho" creationdate="20221003T100735Z">
@@ -16157,6 +16165,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Introduction to HTML](/en-US/docs/Learn/HTML/Introduction_to_HTML)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182250Z" creationid="Nachec" creationdate="20221027T182250Z">
+        <seg>- [Introducción a HTML](/es/docs/Learn/HTML/Introduction_to_HTML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Introduction to HTML](/en-US/docs/Learn/HTML/Introduction_to_HTML) (15–20 hour read/exercises)
 - [Multimedia and embedding](/en-US/docs/Learn/HTML/Multimedia_and_embedding) (15–20 hour read/exercises)
 - [HTML tables](/en-US/docs/Learn/HTML/Tables) (5–10 hour read/exercises)</seg>
@@ -16364,6 +16380,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T063905Z" creationid="gitnacho" creationdate="20221012T063905Z">
         <seg>- [Consejos de Seguridad Web de Mozilla](https://infosec.mozilla.org/guidelines/web_security)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Multimedia and embedding](/en-US/docs/Learn/HTML/Multimedia_and_embedding)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182352Z" creationid="Nachec" creationdate="20221027T182352Z">
+        <seg>- [Multimedia e inserción](/es/docs/Learn/HTML/Multimedia_and_embedding)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57428,6 +57452,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This topic contains the following modules, in a suggested order for working through them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182104Z" creationid="Nachec" creationdate="20221027T182104Z">
+        <seg>Este tema contiene los siguientes módulos, en un orden sugerido para trabajar con ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This topic covers MathML.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T131622Z" creationid="gitnacho" creationdate="20221020T131622Z">
@@ -61680,6 +61712,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062812Z" creationid="gitnacho" creationdate="20221019T062812Z">
         <seg>Debes elegir una opción como _Etiquetado para reutilización_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should definitely start with the first one.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182110Z" creationid="Nachec" creationdate="20221027T182110Z">
+        <seg>Definitivamente deberías comenzar con el primero.</seg>
       </tuv>
     </tu>
     <tu>
