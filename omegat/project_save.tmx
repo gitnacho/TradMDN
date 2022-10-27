@@ -2648,6 +2648,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Web standards</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002855Z" creationid="Nachec" creationdate="20221027T002855Z">
+        <seg>## Estándares web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Web technology references</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T094332Z" creationid="gitnacho" creationdate="20221002T094332Z">
@@ -6812,6 +6820,14 @@ para obtener información sobre la estructura de las secciones y cómo se distin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104114Z" creationid="Nachec" creationdate="20221023T104114Z">
         <seg>**Las listas desordenadas** son aquellas en las que el orden de los elementos no es relevante, como en una lista de compras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Web standards** are the technologies we use to build web sites.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002905Z" creationid="Nachec" creationdate="20221027T002905Z">
+        <seg>**Los estándares web** son las tecnologías que utilizamos para crear sitios web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34353,6 +34369,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After that other technologies followed such as [CSS](/en-US/docs/Web/CSS) and [JavaScript](/en-US/docs/Web/JavaScript), and the web started to look more like the web we know today.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002849Z" creationid="Nachec" creationdate="20221027T002849Z">
+        <seg>Después de eso, siguieron otras tecnologías como [CSS](/es/docs/Web/CSS) y [JavaScript](/es/docs/Web/JavaScript), y la web comenzó a parecerse más a la web que conocemos hoy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After that, it is updated when:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T141338Z" creationid="gitnacho" creationdate="20221002T141338Z">
@@ -38575,6 +38599,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T054006Z" creationid="Nachec" creationdate="20221023T054006Z">
         <seg>Por ejemplo, toma la siguiente línea de contenido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the [HTML Living Standard](https://html.spec.whatwg.org/multipage/) describes exactly how HTML (all the HTML elements, and their associated APIs, and other surrounding technologies) should be implemented.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003254Z" creationid="Nachec" creationdate="20221027T003254Z">
+        <seg>Por ejemplo, el [lleno de vida Estándar HTML](https://html.spec.whatwg.org/multipage/) describe exactamente cómo se debe implementar HTML (todos los elementos HTML y sus APIs asociadas y otras tecnologías circundantes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46268,6 +46300,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OK, that's a very simple summary of what happened, but we did promise you a brief summary.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002729Z" creationid="Nachec" creationdate="20221027T002729Z">
+        <seg>Bien, este es un muy sencillo resumen de lo que sucedió, pero les prometí un breve resumen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OPTIONS is an HTTP/1.1 method that is used to determine further information from servers, and is a {{Glossary("Safe/HTTP", "safe")}} method, meaning that it can't be used to change the resource.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222836Z" creationid="gitnacho" creationdate="20221011T222836Z">
@@ -46584,6 +46624,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094357Z" creationid="Nachec" creationdate="20221022T094357Z">
         <seg>En la negociación se utiliza una cabecera por característica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One last significant data point to share is that in 1994, TimBL founded the [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (W3C), an organization that brings together representatives from many different technology companies to work together on the creation of web technology specifications.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002826Z" creationid="Nachec" creationdate="20221027T002826Z">
+        <seg>Un último dato importante para compartir es que en 1994, TimBL fundó el {{interwiki("wikipedia", "World Wide Web Consortium")}} (W3C), una organización que reúne a representantes de muchas empresas de tecnología diferentes para trabajar juntos en la creación de especificaciones de tecnología web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53889,6 +53937,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These documents are not very useful for learning how to use the technologies they describe (this is why we have sites like MDN Web Docs), but instead are intended to be used by software engineers to implement these technologies (usually in web browsers).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003205Z" creationid="Nachec" creationdate="20221027T003205Z">
+        <seg>Estos documentos no son muy útiles para aprender a usar las tecnologías que describen (es por eso que tenemos sitios como *MDN Web Docs*), sino que están pensados para que los utilicen los ingenieros de software para implementar esas tecnologías (generalmente en los navegadores web).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These events are sent to the stream when these changes occur.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T035037Z" creationid="gitnacho" creationdate="20220913T035037Z">
@@ -54029,6 +54085,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T191200Z" creationid="gitnacho" creationdate="20221008T191125Z">
         <seg>De todos modos, estas páginas no se pueden representar en GFM porque tienen una columna de encabezado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These standards exist as long technical documents called specifications, which detail exactly how the technology should work.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003137Z" creationid="Nachec" creationdate="20221027T002935Z">
+        <seg>Estos estándares existen como extensos documentos técnicos llamados *especificaciones*, que detallan exactamente cómo debería funcionar la tecnología.</seg>
       </tuv>
     </tu>
     <tu>
