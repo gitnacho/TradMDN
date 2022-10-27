@@ -2672,6 +2672,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Web best practices</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045647Z" creationid="Nachec" creationdate="20221027T045647Z">
+        <seg>## Mejores prácticas web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Web standards</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T002855Z" creationid="Nachec" creationdate="20221027T002855Z">
@@ -7174,6 +7182,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190752Z" creationid="Nachec" creationdate="20221025T190752Z">
         <seg>- **Archivos componentes**: Un sitio web se compone de muchos archivos diferentes, que son como las diferentes partes de los productos que comprarás en la tienda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Cross-browser compatibility** is the practice of trying to make sure your webpage works across as many devices as possible.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045911Z" creationid="Nachec" creationdate="20221027T045911Z">
+        <seg>- **Compatibilidad entre navegadores** — es la práctica de intentar asegurarte de que tu página web funcione en tantos dispositivos como sea posible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14658,6 +14674,38 @@ browser-compat: javascript.builtins.SharedArrayBuffer
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085918Z" creationid="Nachec" creationdate="20221021T085918Z">
         <seg>- Utiliza el [validador W3C](https://validator.w3.org/nu/) para detectar errores no deseados en tu marcado HTML/MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- User 1 might be looking at it on an iPhone, with a small, narrow screen.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045732Z" creationid="Nachec" creationdate="20221027T045732Z">
+        <seg>- El usuario 1 podría estar mirándolo en un iPhone, con una pantalla pequeña y estrecha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- User 2 might be looking at it on a Windows laptop with a widescreen monitor attached to it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045755Z" creationid="Nachec" creationdate="20221027T045755Z">
+        <seg>- El usuario 2 puede estar mirándolo en un ordenador portátil con Windows con un monitor de pantalla ancha adjunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- User 3 might be blind, and using a screen reader to read the web page out to them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045804Z" creationid="Nachec" creationdate="20221027T045804Z">
+        <seg>- El usuario 3 puede ser ciego y usar un lector de pantalla para leerle la página web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- User 4 might be using a really old desktop machine that can't run modern browsers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045815Z" creationid="Nachec" creationdate="20221027T045815Z">
+        <seg>- El usuario 4 podría estar usando una máquina de escritorio realmente antigua que no puede ejecutar navegadores modernos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34085,6 +34133,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A typical use for a server-side language is to get some data out of a database and generate some HTML to contain the data, before then sending the HTML over to the browser to display it to the user.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045630Z" creationid="Nachec" creationdate="20221027T045630Z">
+        <seg>Un uso típico de un lenguaje de lado del servidor es obtener algunos datos de una base de datos y generar algo de HTML para contener los datos, antes de enviar el HTML al navegador para mostrárselo al usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A useful strategy is to just give it **all** the C files and rely on the compiler to strip out everything that is unnecessary.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T053617Z" creationid="gitnacho" creationdate="20221004T053617Z">
@@ -35873,6 +35929,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003838Z" creationid="Nachec" creationdate="20221027T003838Z">
         <seg>Debido a que las tecnologías web se crean abiertamente, en colaboración entre muchas empresas diferentes, significa que ninguna empresa las puede controlar, lo cual es algo realmente bueno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because you don't know exactly what your users will use, you need to design defensively — make your web site as flexible as possible, so that all of the above users can make use of it, even if they might not all get the same experience.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045840Z" creationid="Nachec" creationdate="20221027T045840Z">
+        <seg>Debido a que no sabes exactamente qué usarán tus usuarios, debes diseñar a la defensiva — hacer que tu sitio web sea lo más flexible posible, de modo que todos los usuarios anteriores puedan hacer uso de él, incluso si no todos obtienen la misma experiencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37889,6 +37953,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Pacho" changedate="20200408T063834Z" creationid="Pacho" creationdate="20200408T063834Z">
         <seg>Ejemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example server-side languages include ASP.NET, Python, PHP, and NodeJS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045641Z" creationid="Nachec" creationdate="20221027T045641Z">
+        <seg>Los lenguajes de lado del servidor de ejemplo incluyen ASP.NET, Python, PHP y NodeJS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42402,6 +42474,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In short, we are trying to make the web work for all, as much as possible.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045850Z" creationid="Nachec" creationdate="20221027T045850Z">
+        <seg>En resumen, estamos tratando de hacer que la web funcione para todos, tanto como sea posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In some MathML subtrees, this property can then automatically become `compact` but we will ignore this subtlety for this introductory tutorial.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181834Z" creationid="Nachec" creationdate="20221021T181834Z">
@@ -46380,6 +46460,14 @@ changed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233445Z" creationid="gitnacho" creationdate="20221006T233445Z">
         <seg>Ahora accedamos a los datos en las tablas: agrega las siguientes líneas a tu código en el lugar indicado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's discuss the best practices you should employ to make sure you are using those technologies in the best way that you can.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045708Z" creationid="Nachec" creationdate="20221027T045708Z">
+        <seg>Ahora analicemos las mejores prácticas que debes emplear para asegurarte de que estás utilizando esas tecnologías de la mejor manera posible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58891,6 +58979,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We have briefly talked about the technologies that you'll use to build websites.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045657Z" creationid="Nachec" creationdate="20221027T045657Z">
+        <seg>Hemos hablado brevemente sobre las tecnologías que utilizarás para crear sitios web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We have chosen GitHub-Flavored Markdown (GFM) as a baseline, and added some extensions to support some of the things we need to do on MDN that aren't readily supported in GFM.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T173738Z" creationid="gitnacho" creationdate="20221008T173654Z">
@@ -59958,6 +60054,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T015032Z" creationid="gitnacho" creationdate="20221008T015032Z">
         <seg>Al crear una [`WebAssembly.Exception`](/es/docs/WebAssembly/JavaScript_interface/Exception), la etiqueta define los tipos de datos y el orden de los valores transportados por la excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When doing web development, the main cause of uncertainty comes from the fact that you don't know what combination of technology each user will use to view your web site:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045722Z" creationid="Nachec" creationdate="20221027T045722Z">
+        <seg>Al hacer desarrollo web, la principal causa de incertidumbre proviene del hecho de que no sabes qué combinación de tecnologías utilizará cada usuario para ver tu sitio web:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61506,6 +61610,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T200720Z" creationid="gitnacho" creationdate="20221008T200720Z">
         <seg>También encontrarás nuestra guía de estilo de escritura aquí, guías prácticas para realizar varias tareas de contenido y también información sobre la estructura de nuestras diferentes páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll come across the below concepts at some point in your studies.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045859Z" creationid="Nachec" creationdate="20221027T045859Z">
+        <seg>Encontrarás los siguientes conceptos en algún momento de tus estudios.</seg>
       </tuv>
     </tu>
     <tu>
