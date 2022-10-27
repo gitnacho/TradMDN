@@ -7804,8 +7804,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Access to [`request/request`](https://github.com/request/request), a library for making HTTP requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072653Z" creationid="gitnacho" creationdate="20221005T072653Z">
-        <seg>- : Accede a [`request/request`](https://github.com/request/request), una biblioteca para realizar solicitudes HTTP.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063857Z" creationid="gitnacho" creationdate="20221005T072653Z">
+        <seg>- : Accede a [`request/request`](https://github.com/request/request), una biblioteca para realizar peticiones HTTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9492,8 +9492,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Returns a {{jsxref("Promise")}} that resolves to an object with properties that indicate whether preloading is enabled, and what value will be sent in the {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header in preloading requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20220922T205318Z">
-        <seg>- : Devuelve una {{JSxRef("Promise")}} que se resuelve en un objeto con propiedades que indican si la precarga está habilitada y qué valor se enviará en la Cabecera HTTP  {{HTTPHeader("Service-Worker-Navigation-Preload") }} en solicitudes de precarga.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063911Z" creationid="gitnacho" creationdate="20220922T205318Z">
+        <seg>- : Devuelve una {{JSxRef("Promise")}} que se resuelve en un objeto con propiedades que indican si la precarga está habilitada y qué valor se enviará en la Cabecera HTTP  {{HTTPHeader("Service-Worker-Navigation-Preload") }} en peticiones de precarga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9708,8 +9708,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Sets the value of the {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header sent in preloading requests and returns an empty {{jsxref("Promise")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104818Z" creationid="gitnacho" creationdate="20220922T205236Z">
-        <seg>- : Establece el valor de la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} que se envía en las solicitudes de precarga y devuelve una {{JSxRef("Promise")}} vacía.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063908Z" creationid="gitnacho" creationdate="20220922T205236Z">
+        <seg>- : Establece el valor de la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} que se envía en las peticiones de precarga y devuelve una {{JSxRef("Promise")}} vacía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11133,8 +11133,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- As the browser parses the HTML, it sends requests back to the server for any CSS files it has found from `&lt;link&gt;` elements, and any JavaScript files it has found from `&lt;script&gt;` elements, and from those, then parses the CSS and JavaScript.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193213Z" creationid="Nachec" creationdate="20221025T193213Z">
-        <seg>- A medida que el navegador analiza el HTML, envía solicitudes al servidor para cualquier archivo CSS que haya encontrado en los elementos `&lt;link&gt;`, y cualquier archivo JavaScript que haya encontrado en los elementos `&lt;script&gt;`, y de esos, luego analiza el CSS y JavaScript.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063832Z" creationid="Nachec" creationdate="20221025T193213Z">
+        <seg>- A medida que el navegador analiza el HTML, envía peticiones al servidor para cualquier archivo CSS que haya encontrado en los elementos `&lt;link&gt;`, y cualquier archivo JavaScript que haya encontrado en los elementos `&lt;script&gt;`, y de esos, luego analiza el CSS y JavaScript.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13617,8 +13617,8 @@ browser-compat: http.headers.Accept-Language
       <tuv lang="en-US">
         <seg>- Responding to resource requests from other origins.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T145306Z" creationid="gitnacho" creationdate="20221002T145306Z">
-        <seg>- Responder a solicitudes de recursos de otros orígenes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063957Z" creationid="gitnacho" creationdate="20221002T145306Z">
+        <seg>- Responder a peticiones de recursos de otros orígenes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32221,10 +32221,10 @@ i32.mul</seg>
 &gt;
 &gt; - {{Glossary("General header")}}: Headers applying to both requests and responses but with no relation to the data eventually transmitted in the body.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162408Z" creationid="gitnacho" creationdate="20221017T211855Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063729Z" creationid="gitnacho" creationdate="20221017T211855Z">
         <seg>&gt; **Nota:** Las versiones anteriores de la especificación se refieren a:
 &gt;
-&gt; - {{Glossary("General header", "Cabecera general")}}: Cabeceras que se aplican tanto a las solicitudes como a las respuestas, pero sin relación con los datos finalmente transmitidos en el cuerpo.</seg>
+&gt; - {{Glossary("General header", "Cabecera general")}}: Cabeceras que se aplican tanto a las peticiones como a las respuestas, pero sin relación con los datos finalmente transmitidos en el cuerpo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32934,8 +32934,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** Your service worker functions like a proxy server, allowing you to modify requests and responses, replace them with items from its own cache, and more.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T111930Z" creationid="gitnacho" creationdate="20220921T025248Z">
-        <seg>&gt; **Nota:** Tu *service worker* funciona como un servidor proxy, lo que te permite modificar solicitudes y respuestas, reemplazarlas con elementos de su propia caché y más.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064002Z" creationid="gitnacho" creationdate="20220921T025248Z">
+        <seg>&gt; **Nota:** Tu *service worker* funciona como un servidor proxy, lo que te permite modificar peticiones y respuestas, reemplazarlas con elementos de su propia caché y más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36373,8 +36373,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>But the overriding problem is that there still isn't a good overall control mechanism for asset caching and custom network requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T015600Z" creationid="gitnacho" creationdate="20220921T015600Z">
-        <seg>Pero el problema primordial es que todavía no existe un buen mecanismo de control general para el almacenamiento en caché de activos y las solicitudes de red personalizadas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063959Z" creationid="gitnacho" creationdate="20220921T015600Z">
+        <seg>Pero el problema primordial es que todavía no existe un buen mecanismo de control general para el almacenamiento en caché de activos y las peticiones de red personalizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39375,8 +39375,8 @@ portales para realizar tareas de administración empresarial y herramientas de c
       <tuv lang="en-US">
         <seg>For security reasons, browsers restrict cross-origin HTTP requests initiated from scripts.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T212916Z" creationid="gitnacho" creationdate="20221011T212916Z">
-        <seg>Por razones de seguridad, los navegadores restringen las solicitudes HTTP de origen cruzado iniciadas desde scripts.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063854Z" creationid="gitnacho" creationdate="20221011T212916Z">
+        <seg>Por razones de seguridad, los navegadores restringen las peticiones HTTP de origen cruzado iniciadas desde scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42213,8 +42213,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In addition, [CORS](/en-US/docs/Glossary/CORS) defines a subset of request headers as {{glossary('simple header', 'simple headers')}}, request headers that are always considered authorized and are not explicitly listed in responses to {{glossary("preflight request", "preflight")}} requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T111839Z" creationid="Nachec" creationdate="20221022T021045Z">
-        <seg>Además, [CORS](/es/docs/Glossary/CORS) define un subconjunto de cabeceras de solicitud como {{Glossary('simple header', 'Cabeceras simples')}}, cabeceras de solicitud que siempre se consideran autorizadas y no se enumeran explícitamente en las respuestas a solicitudes de {{Glossary("preflight request", "preverificación — preflight")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063815Z" creationid="Nachec" creationdate="20221022T021045Z">
+        <seg>Además, [CORS](/es/docs/Glossary/CORS) define un subconjunto de cabeceras de solicitud como {{Glossary('simple header', 'Cabeceras simples')}}, cabeceras de solicitud que siempre se consideran autorizadas y no se enumeran explícitamente en las respuestas a {{Glossary("preflight request", "peticiones de preverificación — preflight")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42694,8 +42694,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In the following example, {{HTTPHeader("Content-Length")}} is an entity header, while {{HTTPHeader("Host")}} and {{HTTPHeader("User-Agent")}} are requests headers:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T155005Z" creationid="Nachec" creationdate="20221022T155005Z">
-        <seg>En el siguiente ejemplo, {{HTTPHeader("Content-Length")}} es una cabecera de entidad, mientras que {{HTTPHeader("Host")}} y {{HTTPHeader("User-Agent")}} son cabeceras de solicitudes:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063718Z" creationid="Nachec" creationdate="20221022T155005Z">
+        <seg>En el siguiente ejemplo, {{HTTPHeader("Content-Length")}} es una cabecera de entidad, mientras que {{HTTPHeader("Host")}} y {{HTTPHeader("User-Agent")}} son cabeceras de peticiones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43624,8 +43624,8 @@ relevant header and serve an actual page to the user.</seg>
       <tuv lang="en-US">
         <seg>It appears when request is qualified as ["to be preflighted"](/en-US/docs/Web/HTTP/CORS#preflighted_requests) and omitted for [simple requests](/en-US/docs/Web/HTTP/CORS#simple_requests).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225628Z" creationid="gitnacho" creationdate="20221011T225024Z">
-        <seg>Aparece cuando la solicitud se califica como ["para preverificar"](/es/docs/Web/HTTP/CORS#preflighted_requests) y se omite para [solicitudes simples](/es/docs/Web/HTTP/CORS #solicitudes_simples).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063740Z" creationid="gitnacho" creationdate="20221011T225024Z">
+        <seg>Aparece cuando la solicitud se califica como ["para preverificar"](/es/docs/Web/HTTP/CORS#preflighted_requests) y se omite para [peticiones simples](/es/docs/Web/HTTP/CORS #peticiones_simples).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46944,8 +46944,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>On receiving an event, the worker returns the resource from a cache if it is present, or otherwise fetches the resource from the remote server (storing a copy for returning in future requests).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053007Z" creationid="gitnacho" creationdate="20220922T205533Z">
-        <seg>Al recibir un evento, el *worker* devuelve el recurso desde una caché si está presente o, de lo contrario, obtiene el recurso del servidor remoto (y almacena una copia para devolverla en futuras solicitudes).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063916Z" creationid="gitnacho" creationdate="20220922T205533Z">
+        <seg>Al recibir un evento, el *worker* devuelve el recurso desde una caché si está presente o, de lo contrario, obtiene el recurso del servidor remoto (y almacena una copia para devolverla en futuras peticiones).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48511,8 +48511,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Service workers are often already started (they remain active for some time after processing other requests).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053501Z" creationid="gitnacho" creationdate="20220922T205638Z">
-        <seg>Los *service workers* a menudo ya están iniciados (permanecen activos durante algún tiempo después de procesar otras solicitudes).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063925Z" creationid="gitnacho" creationdate="20220922T205638Z">
+        <seg>Los *service workers* a menudo ya están iniciados (permanecen activos durante algún tiempo después de procesar otras peticiones).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51216,8 +51216,8 @@ names custom section, for example:</seg>
       <tuv lang="en-US">
         <seg>The browser sends the HTTP header {{HTTPHeader("Service-Worker-Navigation-Preload")}} with preload requests, with a default directive value of `true`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104920Z" creationid="gitnacho" creationdate="20220922T210723Z">
-        <seg>El navegador envía la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} con solicitudes de precarga, con un valor de directiva predeterminado en `true`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063935Z" creationid="gitnacho" creationdate="20220922T210723Z">
+        <seg>El navegador envía la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} con peticiones de precarga, con un valor de directiva predeterminado en `true`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52941,8 +52941,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The preload manager sends the {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header with preload requests, allowing responses to be customized for preload requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104840Z" creationid="gitnacho" creationdate="20220922T205945Z">
-        <seg>El administrador de precarga envía la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} con las solicitudes de precarga, lo que permite personalizar las respuestas para las solicitudes de precarga.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063932Z" creationid="gitnacho" creationdate="20220922T205945Z">
+        <seg>El administrador de precarga envía la cabecera HTTP {{HTTPHeader("Service-Worker-Navigation-Preload")}} con las peticiones de precarga, lo que permite personalizar las respuestas para las peticiones de precarga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55110,8 +55110,8 @@ is the most efficient, optimized way to load wasm code.</seg>
       <tuv lang="en-US">
         <seg>This allows servers to differentiate between normal and preload fetch requests, and to send different responses in each case if required.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210751Z" creationid="gitnacho" creationdate="20220922T210751Z">
-        <seg>Esto permite a los servidores diferenciar entre solicitudes de recuperación normales y precargadas, y enviar diferentes respuestas en cada caso si es necesario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063939Z" creationid="gitnacho" creationdate="20220922T210751Z">
+        <seg>Esto permite a los servidores diferenciar entre peticiones de recuperación normales y precargadas, y enviar diferentes respuestas en cada caso si es necesario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60150,8 +60150,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When browsers send requests to servers for HTML files, those HTML files often contain {{htmlelement("link")}} elements referencing external [CSS](/en-US/docs/Learn/CSS) stylesheets and {{htmlelement("script")}} elements referencing external [JavaScript](/en-US/docs/Learn/JavaScript) scripts.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T195324Z" creationid="Nachec" creationdate="20221025T192837Z">
-        <seg>Cuando los navegadores envían solicitudes a los servidores de archivos HTML, esos archivos HTML a menudo contienen elementos {{HTMLElement("link")}} que hacen referencia a hojas de estilo [CSS](/es/docs/Learn/CSS) externas y elementos {{HTMLElement("script")}} que hacen referencia a scripts [JavaScript](/es/docs/Learn/JavaScript) externos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063821Z" creationid="Nachec" creationdate="20221025T192837Z">
+        <seg>Cuando los navegadores envían peticiones a los servidores de archivos HTML, esos archivos HTML a menudo contienen elementos {{HTMLElement("link")}} que hacen referencia a hojas de estilo [CSS](/es/docs/Learn/CSS) externas y elementos {{HTMLElement("script")}} que hacen referencia a scripts [JavaScript](/es/docs/Learn/JavaScript) externos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61176,8 +61176,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You can modify the response to these requests in any way you want, using the {{DOMxRef("FetchEvent.respondWith()")}} method.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T144942Z" creationid="gitnacho" creationdate="20221002T144942Z">
-        <seg>Puedes modificar la respuesta a estas solicitudes de la forma que desees, utilizando el método {{DOMxRef("FetchEvent.respondWith()")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063953Z" creationid="gitnacho" creationdate="20221002T144942Z">
+        <seg>Puedes modificar la respuesta a estas peticiones de la forma que desees, utilizando el método {{DOMxRef("FetchEvent.respondWith()")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61345,9 +61345,9 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
         <seg>You can use {{domxref("NavigationPreloadManager.getState()")}} to check whether navigation preloading is enabled and to determine what directive value is sent with the
 {{HTTPHeader("Service-Worker-Navigation-Preload")}} HTTP header for preload requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T104602Z" creationid="gitnacho" creationdate="20220922T211150Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063943Z" creationid="gitnacho" creationdate="20220922T211150Z">
         <seg>Puedes usar {{DOMxRef("NavigationPreloadManager.getState()")}} para verificar si la precarga de navegación está habilitada y determinar qué valor de directiva se envía con la cabecera HTTP
-{{HTTPHeader("Service-Worker-Navigation-Preload")}} para solicitudes de precarga.</seg>
+{{HTTPHeader("Service-Worker-Navigation-Preload")}} para peticiones de precarga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61826,8 +61826,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>Your service worker can respond to requests using the {{DOMxRef("FetchEvent")}} event.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T144926Z" creationid="gitnacho" creationdate="20221002T144926Z">
-        <seg>Tu *service worker* puede responder a las solicitudes mediante el evento {{DOMxRef("FetchEvent")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063950Z" creationid="gitnacho" creationdate="20221002T144926Z">
+        <seg>Tu *service worker* puede responder a las peticiones mediante el evento {{DOMxRef("FetchEvent")}}.</seg>
       </tuv>
     </tu>
     <tu>
