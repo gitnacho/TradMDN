@@ -10531,8 +10531,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : This article looks at what happens when a user submits a form — where does the data go, and how do we handle it when it gets there?</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193501Z" creationid="Nachec" creationdate="20221027T193501Z">
-        <seg>-: Este artículo analiza lo que sucede cuando un usuario envía un formulario: ¿a dónde van los datos y cómo los manejamos cuando llegan allí?</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T194733Z" creationid="Nachec" creationdate="20221027T193501Z">
+        <seg>- : Este artículo analiza lo que sucede cuando un usuario envía un formulario: ¿a dónde van los datos y cómo los manejamos cuando llegan allí?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16871,9 +16871,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T194545Z" creationid="Nachec" creationdate="20221027T193451Z">
-        <seg>- [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)
-</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T194729Z" creationid="Nachec" creationdate="20221027T193451Z">
+        <seg>- [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17298,8 +17297,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Web forms](/en-US/docs/Learn/Forms)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T182624Z" creationid="Nachec" creationdate="20221027T182624Z">
-        <seg>- [Formularios Web](/es/docs/Learn/HTML/Forms)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T195029Z" creationid="Nachec" creationdate="20221027T182624Z">
+        <seg>- [Formularios Web](/es/docs/Learn/Forms)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22834,6 +22833,21 @@ tags:</seg>
         <seg>---
 title: Accesibilidad y patrones espaciales
 slug: Web/Accessibility/Accessibility_and_Spacial_Patterns
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Advanced form styling
+slug: Learn/Forms/Advanced_form_styling
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T195457Z" creationid="Nachec" creationdate="20221027T195457Z">
+        <seg>---
+title: Estilizado avanzado de formularios
+slug: Learn/Forms/Advanced_form_styling
+rue: Nachec
 tags:</seg>
       </tuv>
     </tu>
