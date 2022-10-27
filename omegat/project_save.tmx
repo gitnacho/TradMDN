@@ -38766,8 +38766,8 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>For example, `local.get` is defined to push the value of the local it read onto the stack, and `i32.add` pops two `i32` values (it implicitly grabs the previous two values pushed onto the stack), computes their sum (modulo 2^32) and pushes the resulting i32 value.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T055030Z" creationid="gitnacho" creationdate="20221007T055030Z">
-        <seg>Por ejemplo, `local.get` se define para insertar el valor del local que leyó en la pila, e `i32.add` saca dos valores `i32` (implícitamente toma los dos valores anteriores colocados en la pila), calcula su suma (módulo 2^32) y empuja el valor i32 resultante.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T080630Z" creationid="gitnacho" creationdate="20221007T055030Z">
+        <seg>Por ejemplo, `local.get` se define para insertar el valor del local que leyó en la pila, e `i32.add` saca dos valores `i32` (implícitamente toma los dos valores anteriores colocados en la pila), calcula su suma `(module 2^32)` y empuja el valor i32 resultante.</seg>
       </tuv>
     </tu>
     <tu>
