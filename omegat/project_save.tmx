@@ -4676,6 +4676,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Styling checkboxes and radio buttons</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205139Z" creationid="Nachec" creationdate="20221027T205104Z">
+        <seg>### Estilo de casillas de verificación y botones de opción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Styling the body</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141932Z" creationid="Nachec" creationdate="20221023T141932Z">
@@ -38192,6 +38200,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Different browsers handle the checkbox and span differently, often ugly ways:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T214807Z" creationid="Nachec" creationdate="20221027T214807Z">
+        <seg>Los diferentes navegadores manejan la casilla de verificación y se extienden de manera diferente, a menudo de formas desagradables:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Direct access between two top-level window contexts essentially only work if they are same-origin and carry the same two headers with the same two values.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T214105Z" creationid="gitnacho" creationdate="20220923T030548Z">
@@ -39570,6 +39586,14 @@ portals for performing business administration tasks, and collaboration tools li
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203540Z" creationid="Nachec" creationdate="20221025T203540Z">
         <seg>Por ejemplo, la intranet de una organización puede albergar páginas web para compartir información de departamentos o equipos, unidades compartidas para administrar documentos y archivos clave,
 portales para realizar tareas de administración empresarial y herramientas de colaboración como wikis, foros de discusión y sistemas de mensajería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, consider this simple test case:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205230Z" creationid="Nachec" creationdate="20221027T205230Z">
+        <seg>Por ejemplo, considera este caso de prueba simple:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50194,6 +50218,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Styling a checkbox or a radio button is tricky by default.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205147Z" creationid="Nachec" creationdate="20221027T205108Z">
+        <seg>Estilizar una casilla de verificación o un botón de radio es complicado de forma predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsequent sections discuss scenarios, as well as provide a breakdown of the HTTP headers used.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185053Z" creationid="gitnacho" creationdate="20221011T214035Z">
@@ -54302,6 +54334,14 @@ de elementos en la tabla.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T074028Z" creationid="gitnacho" creationdate="20221007T054304Z">
         <seg>La firma es una secuencia de declaraciones de tipo de parámetro seguida de una lista de declaraciones del tipo de devolución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The sizes of check boxes and radio buttons are not meant to be changed with their default designs, and browsers react very differently when you try.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205211Z" creationid="Nachec" creationdate="20221027T205211Z">
+        <seg>Los tamaños de las casillas de verificación y los botones de radio no se deben cambiar con sus diseños predeterminados, y los navegadores reaccionan de manera muy diferente cuando lo intentas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59195,171 +59235,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To remove via CSS, you can use `input[type="search"]:not(:focus, :active)::-webkit-search-cancel-button { display: none; }`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205104Z" creationid="Nachec" creationdate="20221027T205104Z">
-        <seg>Para eliminar mediante CSS, puedes usar `input[type="search"]:not(:focus, :active)::-webkit-search-cancel-button { display: none; }`.
-
-### Estilo de casillas de verificación y botones de opción
-
-Estilizar una casilla de verificación o un botón de radio es complicado de forma predeterminada. Los tamaños de las casillas de verificación y los botones de radio no deben cambiarse con sus diseños predeterminados, y los navegadores reaccionan de manera muy diferente cuando lo intenta.
-
-Por ejemplo, considere este caso de prueba simple:
-
-Los diferentes navegadores manejan la casilla de verificación y se extienden de manera diferente, a menudo de formas desagradables:
-
-| Navegador | Renderizado |
-| -------------------------------------------------- | --------------------------------- |
-| Firefox 71 (mac OS) | ![Esquinas redondeadas y 1px borde gris claro](firefox-mac-checkbox.png) |
-| Firefox 57 (Windows 10) | ![Esquinas rectangulares con borde gris medio de 1px](firefox-windows-checkbox.png) |
-| Chrome 77 (macOS), Safari 13, Ópera | ![Esquina redondeada con borde gris medio de 1 px](chrome-mac-checkbox.png) |
-| cromo 63 (Windows 10) | ![Bordes rectangulares con fondo ligeramente grisáceo en lugar de blanco.](chrome-windows-checkbox.png) |
-| Borde 16 (Windows 10) | ![Bordes rectangulares con fondo ligeramente grisáceo en lugar de blanco.](edge-checkbox.png) |
-
-#### Uso de apariencia: ninguno en radios/casillas de verificación
-
-Como mostramos antes, puedes eliminar la apariencia predeterminada de una casilla de verificación o un botón de opción junto con {{CSSxRef('appearance')}}`:none;` Tomemos este HTML de ejemplo:
-
-&lt;legend&gt;Preferencias de frutas&lt;/legend&gt;
-
-me gusta la cereza
-
-no me puede gustar el plátano
-
-me gusta la fresa
-
-Ahora, estolicemos estos con un diseño de casilla de verificación personalizado. Comencemos quitando el estilo original de las casillas de verificación:
-
-Podemos usar las pseudoclases {{CSSxRef(":checked")}} y {{CSSxRef(":disabled")}} para cambiar la apariencia de nuestra casilla de verificación personalizada a medida que cambia su estado:
-
-/* Ajusta la posición de las casillas de verificación en la línea de base del texto */
-
-/* Establecer aquí para que el modo de alto contraste de Windows pueda anularse */
-
-/* Use `visibility` en lugar de `display` para evitar volver a calcular el diseño */
-
-Encontrarás más información sobre estas pseudoclases y más en el [próximo artículo](/es/docs/Learn/Forms/UI_pseudo-classes); los anteriores hacen lo siguiente:
-
-- `:marcado`: la casilla de verificación (o botón de radio) está en un estado marcado: el usuario ha hecho clic/activado.
-- `:disabled` — la casilla de verificación (o botón de radio) está en un estado deshabilitado — no se puede interactuar con ella.
-
-Puedes ver el resultado en vivo:
-
-También hemos creado un par de otros ejemplos para darle más ideas:
-
-- [Botones de opción con estilo] (https://mdn.github.io/learning-area/html/forms/styling-examples/radios-styled.html): Estilo de botón de opción personalizado.
-- [Ejemplo de interruptor de palanca] (https://mdn.github.io/learning-area/html/forms/toggle-switch-example/): una casilla de verificación diseñada para parecerse a un interruptor de palanca.
-
-Si ves estas casillas de verificación en un navegador que no es compatible con {{CSSxRef("appearance")}}, tu estilo personalizado se perderá, pero aún se verán como casillas de verificación y se podrán utilizar.
-
-&gt; **Nota:** Si bien Internet Explorer no es compatible con ninguna versión de `apariencia`, `input[type=checkbox]::-ms-check` permite seleccionar casillas de verificación solo en IE. Esta técnica también funciona para los botones de radio, a pesar del nombre `-ms-check`.
-
-## ¿Qué se puede hacer con los elementos "feos"?
-
-Ahora dirijamos nuestra atención a los controles "feos", los que son realmente difíciles de estilizar a fondo. En resumen, se trata de cuadros desplegables, tipos de controles complejos como [`color`](/es/docs/Web/HTML/Element/input/color) y [`datetime-local`](/es/docs/Web /HTML/Element/input/datetime-local) y controles orientados a la retroalimentación como {{HTMLElement("progress")}} y {{HTMLElement("meter")}}.
-
-El problema es que estos elementos tienen un aspecto predeterminado muy diferente en todos los navegadores y, si bien puede estilizarlos de alguna manera, algunas partes internas son literalmente imposibles de estilizar.
-
-Si está preparado para vivir con algunas diferencias en la apariencia, puede salirse con la suya con un estilo simple para que el tamaño sea uniforme, el estilo uniforme de elementos como los colores de fondo y el uso de la apariencia para deshacerse de algunos estilos a nivel del sistema.
-
-Tome el siguiente ejemplo, que muestra una serie de características de formulario "feas" en acción:
-
-Este ejemplo tiene el siguiente CSS aplicado:
-
-&gt; **Nota:** Si desea probar estos ejemplos en varios navegadores simultáneamente, puede [encontrarlo en vivo aquí] (https://mdn.github.io/learning-area/html/forms/styling- ejemplos/ugly-controls.html) (también [consulte aquí el código fuente](https://github.com/mdn/learning-area/blob/main/html/forms/styling-examples/ugly-controls.html )).
-&gt;
-&gt; También tenga en cuenta que hemos agregado algo de JavaScript a la página que enumera los archivos seleccionados por el selector de archivos, debajo del control mismo. Esta es una versión simplificada del ejemplo que se encuentra en la página de referencia [`&lt;input type="file"&gt;`](/es/docs/Web/HTML/Element/input/file#examples).
-
-Como puede ver, lo hemos hecho bastante bien para lograr que se vean uniformes en los navegadores modernos.
-
-Hemos aplicado CSS de normalización global a todos los controles y sus etiquetas, para que tengan el mismo tamaño, adopten su fuente principal, etc., como se mencionó en el artículo anterior:
-
-También agregamos algunas sombras uniformes y esquinas redondeadas a los controles en los que tenía sentido:
-
-En otros controles, como tipos de rango, barras de progreso y medidores, solo agregan un cuadro feo alrededor del área de control, por lo que no tiene sentido.
-
-Hablemos de algunos detalles de cada uno de estos tipos de control, destacando las dificultades en el camino.
-
-### Selecciones y listas de datos
-
-En los navegadores modernos, las selecciones y las listas de datos generalmente no son tan malas para estilizar, siempre que no desee variar demasiado la apariencia de los valores predeterminados.
-
-tenemos mLogré que el aspecto básico de las cajas se viera bastante uniforme y consistente. El control de la lista de datos es `&lt;input type="text"&gt;` de todos modos, por lo que sabíamos que esto no sería un problema.
-
-Dos cosas son un poco más problemáticas. En primer lugar, el icono de "flecha" de selección que indica que es un menú desplegable difiere según los navegadores. También tiende a cambiar si aumenta el tamaño del cuadro de selección o cambia el tamaño de una manera fea. Para arreglar esto en nuestro ejemplo, primero usamos nuestro viejo amigo `appearance: none` para deshacernos del ícono por completo:
-
-Luego creamos nuestro propio ícono usando contenido generado. Ponemos un contenedor extra alrededor del control, porque [`::before`](/es/docs/Web/CSS/::before)/[`::after`](/es/docs/Web/CSS/: :after) no funcionan en elementos `&lt;select&gt;` (esto se debe a que el contenido generado se coloca en relación con el cuadro de formato de un elemento, pero las entradas de formulario funcionan más como elementos reemplazados: el navegador genera su visualización y se coloca en su lugar) y por lo tanto no tiene uno):
-
-Luego usamos el contenido generado para generar una pequeña flecha hacia abajo y lo colocamos en el lugar correcto usando el posicionamiento:
-
-El segundo problema, un poco más importante, es que no tiene control sobre el cuadro que aparece con las opciones cuando hace clic en el cuadro `&lt;seleccionar&gt;` para abrirlo. Notará que las opciones no heredan la fuente establecida en el padre. Tampoco puede establecer cosas como el espaciado y los colores de manera consistente. Por ejemplo, Firefox aplicará [`color`](/es/docs/Web/CSS/color) y [`background-color`](/es/docs/Web/CSS/background-color) cuando se configura en [ `&lt;option&gt;`](/es/docs/Web/HTML/Element/option), Chrome no lo hará. Ninguno de ellos aplicará ningún tipo de espaciado (por ejemplo, [`padding`](/es/docs/Web/CSS/padding)). Lo mismo ocurre con la lista de autocompletar que aparece para la lista de datos.
-
-Si realmente necesita un control total sobre el estilo de la opción, tendrá que usar algún tipo de biblioteca para generar un control personalizado, o crear su propio control personalizado, o en el caso de seleccionar, usar el atributo `múltiple`, lo que hace que todas las opciones aparecen en la página, eludiendo este problema en particular:
-
-Por supuesto, es posible que esto tampoco encaje con el diseño que está buscando, ¡pero vale la pena señalarlo!
-
-### Tipos de entrada de fecha
-
-Los tipos de entrada de fecha/hora ([`datetime-local`](/es/docs/Web/HTML/Element/input/datetime-local), [`time`](/es/docs/Web/HTML/Element/ input/time), [`week`](/es/docs/Web/HTML/Element/input/week), [`month`](/es/docs/Web/HTML/Element/input/month)) todos tienen el mismo problema principal asociado. El cuadro contenedor real es tan fácil de estilizar como cualquier entrada de texto, y lo que tenemos en esta demostración se ve bien.
-
-Sin embargo, las partes internas del control (por ejemplo, el calendario emergente que usa para elegir una fecha, la rueda giratoria que puede usar para incrementar/disminuir valores) no se pueden modificar en absoluto y no puede deshacerse de ellas usando ` apariencia: ninguna;`. Si realmente necesita un control total sobre el estilo, tendrá que usar algún tipo de biblioteca para generar un control personalizado o crear uno propio.
-
-&gt; **Nota:** Vale la pena mencionar [`&lt;input type="number"&gt;`](/es/docs/Web/HTML/Element/input/number) aquí también — esto también tiene un control giratorio que puedes use para incrementar/disminuir valores, por lo que potencialmente sufre el mismo problema. Sin embargo, en el caso del tipo 'número', los datos que se recopilan son más simples y es fácil usar un tipo de entrada 'tel' que tiene la apariencia de 'texto', pero muestra el teclado numérico en dispositivos con pantalla táctil. teclados.
-
-### Tipos de entrada de rango
-
-[`&lt;input type="range"&gt;`](/es/docs/Web/HTML/Element/input/range) es molesto para el estilo. Puede usar algo como lo siguiente para eliminar completamente la pista deslizante predeterminada y reemplazarla con un estilo personalizado (una pista roja delgada, en este caso):
-
-Sin embargo, es muy difícil personalizar el estilo del controlador de arrastre del control de rango: para obtener un control total sobre el estilo del rango, deberá usar un montón de código CSS complejo, incluidos varios pseudoelementos específicos del navegador no estándar. . Consulte [Estilización de entradas de rango compatibles con navegadores cruzados con CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/) en trucos CSS para obtener una descripción detallada de lo que es necesario.
-
-### Tipos de entrada de color
-
-Los controles de entrada de tipo color no son tan malos. En los navegadores compatibles, tienden a mostrarle un bloque de color sólido con un borde pequeño.
-
-Puedes quitar el borde, dejando solo el bloque de color, usando algo como esto:
-
-Sin embargo, una solución personalizada es la única forma de obtener algo significativamente diferente.
-
-### Tipos de entrada de archivos
-
-Las entradas de tipo archivo generalmente están bien; como vio en nuestro ejemplo, es bastante fácil crear algo que encaje bien con el resto de la página: la línea de salida que es parte del control heredará la fuente principal si le dice la entrada para hacerlo, y puede estilizar la lista personalizada de nombres y tamaños de archivo de la forma que desee; lo creamos después de todo.
-
-El único problema con los selectores de archivos es que el botón que se presiona para abrir el selector de archivos está completamente desordenado. etiqueta: no se le puede cambiar el tamaño ni el color, y ni siquiera aceptará una fuente diferente.
-
-Una forma de evitar esto es aprovechar el hecho de que si tiene una etiqueta asociada con un control de formulario, al hacer clic en la etiqueta se activará el control. Entonces podría ocultar la entrada del formulario real usando algo como esto:
-
-Y luego diseñe la etiqueta para que actúe como un botón, que cuando se presiona abrirá el selector de archivos como se esperaba:
-
-Puede ver el resultado del estilo CSS anterior en el siguiente ejemplo en vivo (vea también [styled-file-picker.html](https://mdn.github.io/learning-area/html/forms/styling-examples/ styled-file-picker.html) en vivo, y el [código fuente](https://github.com/mdn/learning-area/blob/main/html/forms/styling-examples/styled-file-picker.html )).
-
-### Medidores y barras de progreso
-
-[`&lt;meter&gt;`](/es/docs/Web/HTML/Element/meter) y [`&lt;progress&gt;`](/es/docs/Web/HTML/Element/progress) son posiblemente los peores de todos . Como vio en el ejemplo anterior, podemos establecerlos en el ancho deseado con relativa precisión. Pero más allá de eso, son realmente difíciles de peinar de cualquier manera. No manejan la configuración de altura de manera consistente entre sí y entre navegadores, puede colorear el fondo, pero no la barra de primer plano, y configurar "apariencia: ninguno" en ellos empeora las cosas, no las mejora.
-
-Es más fácil simplemente crear su propia solución personalizada para estas funciones, si desea poder controlar el estilo, o usar una solución de terceros como [progressbar.js](https://kimmobrunfeldt.github.io/ barra de progreso.js/#ejemplos).
-
-El artículo [Cómo crear controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls) proporciona un ejemplo de cómo crear una selección de diseño personalizado con HTML, CSS y JavaScript.
-
-## ¡Pon a prueba tus habilidades!
-
-Has llegado al final de este artículo, pero ¿puedes recordar la información más importante? Puedes encontrar más pruebas para verificar que has retenido esta información antes de continuar — consulta [Pon a prueba tus habilidades: estilo avanzado](/es/docs/Learn/Forms/Test_your_skills:_Advanced_styling). Tenga en cuenta que algunas preguntas de esta serie de evaluaciones también asumen el conocimiento del [próximo artículo](/es/docs/Learn/Forms/UI_pseudo-classes), por lo que es posible que desee revisar ese artículo primero antes de intentarlo.
-
-Si bien todavía hay dificultades para usar CSS con formularios HTML, hay formas de solucionar muchos de los problemas. No existen soluciones limpias y universales, pero los navegadores modernos ofrecen nuevas posibilidades. Por ahora, la mejor solución es obtener más información sobre la forma en que los diferentes navegadores admiten CSS cuando se aplican a los controles de formulario HTML.
-
-En el próximo artículo de este módulo, exploraremos las diferentes [pseudoclases de UI](/es/docs/Learn/Forms/UI_pseudo-classes) disponibles en los navegadores modernos para estilizar formularios en diferentes estados.
-
-- [Tu primer formulario](/es/docs/Learn/Forms/Tu_primer_formulario)
-- [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
-- [Controles básicos de formularios nativos](/es/docs/Learn/Forms/Basic_native_form_controls)
-- [Los tipos de entrada HTML5](/es/docs/Learn/Forms/HTML5_input_types)
-- [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
-- [Estilización de formularios web](/es/docs/Learn/Forms/Styling_web_forms)
-- [Estilo de formulario avanzado](/es/docs/Learn/Forms/Advanced_form_styling)
-- [Pseudo-clases UI](/es/docs/Learn/Forms/UI_pseudo-classes)
-- [Validación de formulario del lado del cliente](/es/docs/Learn/Forms/Form_validation)
-- [Enviando datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)
-
-- [Cómo construir controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls)
-- [Envío de formularios a través de JavaScript](/es/docs/Learn/Forms/Sending_forms_through_JavaScript)
-- [Tabla de compatibilidad de propiedades para widgets de formulario](/es/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205131Z" creationid="Nachec" creationdate="20221027T205104Z">
+        <seg>Para eliminar mediante CSS, puedes usar `input[type="search"]:not(:focus, :active)::-webkit-search-cancel-button { display: none; }`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64676,6 +64553,16 @@ p.fancy {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>```css
+span {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205239Z" creationid="Nachec" creationdate="20221027T205239Z">
+        <seg>```css
+span {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>```css example-good
 width: 200px;
 width: 20%;
@@ -64891,6 +64778,20 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060422Z" creationid="Nachec" creationdate="20221023T060347Z">
         <seg>```html
 &lt;img src="images/firefox-icon.png" alt="Mi imagen de prueba"&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;label&gt;&lt;span&gt;&lt;input type="checkbox" name="q5" value="true"&gt;&lt;/span&gt; True&lt;/label&gt;
+&lt;label&gt;&lt;span&gt;&lt;input type="checkbox" name="q5" value="false"&gt;&lt;/span&gt; False&lt;/label&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205238Z" creationid="Nachec" creationdate="20221027T205238Z">
+        <seg>```html
+&lt;label&gt;&lt;span&gt;&lt;input type="checkbox" name="q5" value="true"&gt;&lt;/span&gt; True&lt;/label&gt;
+&lt;label&gt;&lt;span&gt;&lt;input type="checkbox" name="q5" value="false"&gt;&lt;/span&gt; False&lt;/label&gt;
 ```</seg>
       </tuv>
     </tu>
@@ -69148,6 +69049,16 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>background: red;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205240Z" creationid="Nachec" creationdate="20221027T205240Z">
+        <seg>background: red;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bar</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210916T044325Z" creationid="gitnacho" creationdate="20210916T044325Z">
@@ -71589,6 +71500,14 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>display: inline-block;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205240Z" creationid="Nachec" creationdate="20221027T205240Z">
+        <seg>display: inline-block;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>document</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220806T063228Z" creationid="nachec" creationdate="20220806T063228Z">
@@ -72639,6 +72558,18 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>height: 100px;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205243Z" creationid="Nachec" creationdate="20221027T205243Z">
+        <seg>height: 100px;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>height: 200px;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225118Z" creationid="Nachec" creationdate="20221021T225118Z">
@@ -73353,6 +73284,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T110229Z" creationid="gitnacho" creationdate="20221006T110229Z">
         <seg>initial: 2,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>input[type="checkbox"] {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205241Z" creationid="Nachec" creationdate="20221027T205241Z">
+        <seg>input[type="checkbox"] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -76665,6 +76604,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180528T144900Z" creationid="nacho" creationdate="20180528T144900Z">
         <seg>while (true) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width: 100px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205242Z" creationid="Nachec" creationdate="20221027T205242Z">
+        <seg>width: 100px;</seg>
       </tuv>
     </tu>
     <tu>
