@@ -39750,6 +39750,14 @@ La desigualdad se puede escribir de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, Firefox will apply [`color`](/en-US/docs/Web/CSS/color) and [`background-color`](/en-US/docs/Web/CSS/background-color) when set on the [`&lt;option&gt;`](/en-US/docs/Web/HTML/Element/option) elements, Chrome won't.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220803Z" creationid="Nachec" creationdate="20221027T220803Z">
+        <seg>Por ejemplo, Firefox aplicará [`color`](/es/docs/Web/CSS/color) y [`background-color`](/es/docs/Web/CSS/background-color) cuando se configura en [`&lt;option&gt;`](/es/docs/Web/HTML/Element/option), Chrome no lo hará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, [Thunderbird](https://www.thunderbird.net/en-US/) and [SeaMonkey](https://www.seamonkey-project.org/) provide an **Insert &gt; Math** command that will open a popup window, with a LaTeX-to-MathML input field and a live MathML preview:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183849Z" creationid="Nachec" creationdate="20221021T081618Z">
@@ -42770,6 +42778,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T002110Z" creationid="Nachec" creationdate="20221020T173422Z">
         <seg>Si prefieres copiar el repositorio de una manera más flexible que permita actualizaciones automáticas, puedes seguir las instrucciones más complejas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you really need full control over the option styling, you'll have to either use some kind of library to generate a custom control, or build your own custom control, or in the case of select use the `multiple` attribute, which makes all the options appear on the page, sidestepping this particular problem:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220944Z" creationid="Nachec" creationdate="20221027T220944Z">
+        <seg>Si realmente necesitas un control total sobre el estilo de la opción, tendrás que usar algún tipo de biblioteca para generar un control personalizado, o crear tu propio control personalizado, o en el caso de `select`, usar el atributo `multiple`, lo cual hace que todas las opciones aparezcan en la página, eludiendo este problema en particular:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47110,6 +47126,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125745Z" creationid="gitnacho" creationdate="20221003T125644Z">
         <seg>Las navegaciones en el mismo origen seguirán incluyendo la ruta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Neither of them will apply any kind of spacing (e.g. [`padding`](/en-US/docs/Web/CSS/padding)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220818Z" creationid="Nachec" creationdate="20221027T220818Z">
+        <seg>Ninguno de ellos aplicará ningún tipo de espaciado (por ejemplo, [`padding`](/es/docs/Web/CSS/padding)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54516,6 +54540,14 @@ de elementos en la tabla.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The same is also true of the autocomplete list that appears for the datalist.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220829Z" creationid="Nachec" creationdate="20221027T220829Z">
+        <seg>Lo mismo ocurre con la lista de autocompletar que aparece para la lista de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The same tag that was used to create the `Exception` is required to access the arguments of a thrown exception.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T022816Z" creationid="gitnacho" creationdate="20221008T022816Z">
@@ -54552,6 +54584,14 @@ de elementos en la tabla.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000848Z" creationid="gitnacho" creationdate="20221008T000848Z">
         <seg>La segunda forma de obtener un objeto `WebAssembly.Memory` es exportarlo mediante un módulo WebAssembly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second, slightly more major issue is that you don't have control over the box that appears containing the options when you click on the `&lt;select&gt;` box to open it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220708Z" creationid="Nachec" creationdate="20221027T220708Z">
+        <seg>El segundo problema, un poco más importante, es que no tienes control sobre el cuadro que aparece con las opciones cuando haces clic en el cuadro `&lt;select&gt;` para abrirlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62453,6 +62493,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You also can't consistently set things like spacing and colors.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220735Z" creationid="Nachec" creationdate="20221027T220735Z">
+        <seg>Tampoco puedes establecer cosas como el espaciado y los colores de manera consistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You also get an `activate` event.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T041935Z" creationid="gitnacho" creationdate="20220921T041935Z">
@@ -63391,6 +63439,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215323Z" creationid="Nachec" creationdate="20221027T215323Z">
         <seg>Encontrarás más información sobre estas pseudoclases y más en el [próximo artículo](/es/docs/Learn/Forms/UI_pseudo-classes); lo anterior hace lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll notice that the options don't inherit the font set on the parent.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220721Z" creationid="Nachec" creationdate="20221027T220721Z">
+        <seg>Notarás que las opciones no heredan la fuente establecida en el padre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64925,6 +64981,16 @@ void encode(uint8_t* img_in, int width, int height, float quality) {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233842Z" creationid="Nachec" creationdate="20221021T233842Z">
         <seg>```css
 .item::after {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+.select-wrapper {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220637Z" creationid="Nachec" creationdate="20221027T220637Z">
+        <seg>```css
+.select-wrapper {</seg>
       </tuv>
     </tu>
     <tu>
@@ -75470,6 +75536,18 @@ npm link hello-wasm
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215858Z" creationid="Nachec" creationdate="20221027T215858Z">
         <seg>position: absolute;
 }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>position: absolute;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220638Z" creationid="Nachec" creationdate="20221027T220638Z">
+        <seg>position: absolute;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
