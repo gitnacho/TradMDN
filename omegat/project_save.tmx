@@ -1208,6 +1208,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Being a web developer is good</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004032Z" creationid="Nachec" creationdate="20221027T004032Z">
+        <seg>## Ser desarrollador web es bueno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Brief history of the web</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T001641Z" creationid="Nachec" creationdate="20221027T001641Z">
@@ -3432,6 +3440,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181050Z" creationid="gitnacho" creationdate="20221008T181050Z">
         <seg>### Referencia de discusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Don't break the web</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003931Z" creationid="Nachec" creationdate="20221027T003931Z">
+        <seg>### ¡No rompas la web!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35004,6 +35020,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And at the same time, there is a skill shortage in the industry — so what better time to learn web development?</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004112Z" creationid="Nachec" creationdate="20221027T004112Z">
+        <seg>Y al mismo tiempo, hay una escasez de habilidades en la industria, entonces, ¿qué mejor momento para aprender sobre desarrollo web?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And the following examples show how to put (an inline) script inside the `&lt;script&gt;` element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134012Z" creationid="gitnacho" creationdate="20221003T134012Z">
@@ -35096,6 +35120,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T075141Z" creationid="gitnacho" creationdate="20221007T075141Z">
         <seg>Otra adición más reciente al lenguaje (por ejemplo, en [Firefox 78](/es/docs/Mozilla/Firefox/Releases/78)) es el multivalor de WebAssembly, lo cual significa que las funciones de WebAssembly ahora pueden devolver valores múltiples y las secuencias de instrucciones pueden consumir y producir múltiples valores de pila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Another phrase you'll hear around open web standards is "don't break the web" — the idea is that any new web technology that is introduced should be backwards compatible with what went before it (i.e. old web sites will still continue to work), and forwards compatible (future technologies in turn will be compatible with what we currently have).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004006Z" creationid="Nachec" creationdate="20221027T004006Z">
+        <seg>Otra frase que escucharás sobre los estándares web abiertos es "¡no rompas la web!" — la idea es que cualquier tecnología web nueva que se introduzca debe ser compatible con versiones anteriores (es decir, los sitios web antiguos seguirán funcionando) y compatibles con versiones posteriores (las tecnologías futuras a su vez serán compatibles con las que tenemos actualmente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35378,6 +35410,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142635Z" creationid="Nachec" creationdate="20221023T142635Z">
         <seg>Como con `margin` usar esta propiedad con uno, dos, tres o cuatro valores como se explica en la [sintaxis de padding](/es/docs/Web/CSS/padding#sintaxis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you go through the learning material presented here, you'll start to learn how this is made possible with some very clever design and implementation work.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004023Z" creationid="Nachec" creationdate="20221027T004023Z">
+        <seg>A medida que avances en el material de aprendizaje que se presenta aquí, comenzarás a aprender cómo se hace posible esto con un trabajo de diseño e implementación muy inteligente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43645,6 +43685,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It isn't all fun and games however — building web sites is a more complicated proposition than it used to be, and you'll have to put some time in to studying all the different technologies you need to use, all the techniques and best practices you need to know, and all the typical patterns you'll be called upon to implement.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004136Z" creationid="Nachec" creationdate="20221027T004136Z">
+        <seg>Sin embargo, no todo es diversión y juegos — crear sitios web es una propuesta más complicada de lo que solía ser, y tendrás que dedicar algo de tiempo a estudiar todas las diferentes tecnologías que necesitas usar, todas las técnicas y las mejores prácticas que necesitas conocer y todos los patrones típicos que se te pedirá que implementes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It lets the parameters of the filter response be specified, so that it can be tuned as needed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220913T033358Z" creationid="gitnacho" creationdate="20220913T033358Z">
@@ -43914,6 +43962,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203702Z" creationid="gitnacho" creationdate="20221003T203702Z">
         <seg>Devolverá un objeto `response` normal que tiene el código de error apropiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It'll take you a few months to really start to get into it, and then you'll need to keep learning so that your knowledge stays up-to-date with all the new tools and features that appear on the web platform, and keep practicing and refining your craft.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004154Z" creationid="Nachec" creationdate="20221027T004154Z">
+        <seg>Te tomará unos meses comenzar realmente a involucrarte en él, y luego deberás seguir aprendiendo para que tu conocimiento se mantenga actualizado con todas las nuevas herramientas y funciones que aparecen en la plataforma web, y seguir practicando y perfeccionando tu oficio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47260,6 +47316,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193533Z" creationid="Nachec" creationdate="20221021T193533Z">
         <seg>Recuerda que este tutorial se trata de aprender el lenguaje pero, en la práctica, el contenido de MathML generalmente no se escribe manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recent published figures say that there are currently around 19 million web developers in the world, and that figure is set more than double in the next decade.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004102Z" creationid="Nachec" creationdate="20221027T004102Z">
+        <seg>Las cifras publicadas recientemente dicen que actualmente hay alrededor de 19 millones de desarrolladores web en el mundo, y esa cifra se establecerá en más del doble en la próxima década.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53125,6 +53189,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The web industry is a very attractive market to enter if you are looking for a job.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004046Z" creationid="Nachec" creationdate="20221027T004046Z">
+        <seg>La industria web es un mercado muy atractivo para ingresar si estás buscando trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The web platform can be thought of as having two parts:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T005158Z" creationid="gitnacho" creationdate="20221003T005158Z">
@@ -54550,6 +54622,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194801Z" creationid="Nachec" creationdate="20221023T194801Z">
         <seg>Esto permitirá al usuario establecer un nuevo nombre cada vez que lo desee al pulsar el botón:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This allows the web to remain a freely-available public resource.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003913Z" creationid="Nachec" creationdate="20221027T003913Z">
+        <seg>Esto permite que la web siga siendo un recurso público de libre acceso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61720,6 +61800,14 @@ crate-type = ["cdylib"]</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221003T212340Z">
         <seg>_La interfaz `ServiceWorker` hereda propiedades de su padre, {{DOMxRef("EventTarget")}}._</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>_The only constant is change._</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004210Z" creationid="Nachec" creationdate="20221027T004210Z">
+        <seg>*Lo único constante es el cambio*.</seg>
       </tuv>
     </tu>
     <tu>
