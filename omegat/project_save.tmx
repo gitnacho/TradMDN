@@ -4508,6 +4508,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Server-side languages and frameworks</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045516Z" creationid="Nachec" creationdate="20221027T045516Z">
+        <seg>### Marcos de desarrollo y lenguajes de lado del servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Setting up the database</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T051104Z" creationid="gitnacho" creationdate="20221004T051104Z">
@@ -4728,6 +4736,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212351Z" creationid="gitnacho" creationdate="20221005T212351Z">
         <seg>### Consejos para usar muestras en vivo de GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Tooling</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045317Z" creationid="Nachec" creationdate="20221027T045317Z">
+        <seg>### Herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -12812,6 +12828,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Libraries and frameworks built on top of JavaScript that allow you to build certain types of web site much more quickly and effectively.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045428Z" creationid="Nachec" creationdate="20221027T045428Z">
+        <seg>- Bibliotecas y marcos de desarrollo construidos sobre JavaScript que te permiten crear ciertos tipos de sitios web de manera mucho más rápida y efectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Libraries, frameworks, etc., to speed up writing common functionality.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T165223Z" creationid="gitnacho" creationdate="20221012T165223Z">
@@ -13040,6 +13064,14 @@ browser-compat: mathml.elements.mtext
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095604Z" creationid="gitnacho" creationdate="20220921T224606Z">
         <seg>- Method</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Minifiers, which remove all the whitespace from your code files to make it so that they are smaller and therefore download from the server more quickly.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045507Z" creationid="Nachec" creationdate="20221027T045507Z">
+        <seg>- Minificadores, que eliminan todos los espacios en blanco de tus archivos de código fuente para que sean más pequeños y, por lo tanto, se descarguen del servidor más rápidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13746,6 +13778,14 @@ browser-compat: api.NavigationPreloadManager
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- So-called "Linters", which take a set of rules, look at your code, and highlight places where you haven't followed the rules properly.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045444Z" creationid="Nachec" creationdate="20221027T045444Z">
+        <seg>- Las llamadas "Linternas" (`Linters` en inglés), que toman un conjunto de reglas, examinan tu código y resaltan los lugares donde no has seguido las reglas correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Some browsers may throw a {{jsxref("RangeError")}}, as they prohibit compilation and instantiation of Wasm with large buffers on the UI thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T210306Z" creationid="gitnacho" creationdate="20221019T210306Z">
@@ -13967,6 +14007,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221002T153702Z">
         <seg>- El constructor [`Worker()`](/es/docs/Web/API/Worker#worker) ahora acepta [URL de datos](/es/docs/Web/HTTP/Basics_of_HTTP/Data_URLs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The [developer tools](/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) inside modern browsers that can be used to debug your code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045357Z" creationid="Nachec" creationdate="20221027T045357Z">
+        <seg>- Las [herramientas de desarrollo](/es/docs/Learn/Common_questions/What_are_browser_developer_tools) dentro de los navegadores modernos que se pueden usar para depurar tu código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16428,6 +16476,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083949Z" creationid="Nachec" creationdate="20221021T083949Z">
         <seg>- [Tablas](/es/docs/Learn/MathML/First_steps/Tables)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Testing tools](/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing) that can be used to run tests to show whether your code is behaving as you intended it to.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045412Z" creationid="Nachec" creationdate="20221027T045412Z">
+        <seg>- [Herramientas de prueba](/es/docs/Learn/Tools_and_testing/Cross_browser_testing) que puedes usar para ejecutar pruebas y mostrar si tu código se está comportando como lo esperabas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39683,6 +39739,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTML, CSS, and JavaScript are front-end (or client-side) languages, which means they are run by the browser to produce a website front-end that your users can use.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045537Z" creationid="Nachec" creationdate="20221027T045537Z">
+        <seg>HTML, CSS y JavaScript son lenguajes de la interfaz del usuario ("`front-end`" o de lado del cliente), lo cual significa que los ejecuta el navegador para producir la interfaz del sitio web que los usuarios pueden utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTTP allows another negotiation type: _agent-driven negotiation_ or _reactive negotiation_.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094519Z" creationid="Nachec" creationdate="20221022T094456Z">
@@ -42542,6 +42606,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045201Z" creationid="Nachec" creationdate="20221027T045201Z">
         <seg>En la analogía de la casa, CSS es como la pintura, el papel tapiz, las alfombras y los cuadros que usarías para hacer que la casa se vea bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the house analogy, JavaScript is like the cooker, TV, Microwave, or hairdryer — the things that give your house useful functionality</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045311Z" creationid="Nachec" creationdate="20221027T045311Z">
+        <seg>En la analogía de la casa, JavaScript es como la cocina, el televisor, el microondas o la secadora de pelo — las cosas que le dan a tu casa una útil funcionalidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46872,6 +46944,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221005T060502Z">
         <seg>Una vez que tengas tu instancia de WebAssembly disponible en tu JavaScript, puedes comenzar a usar funciones que se han exportado a través de la propiedad [`WebAssembly.Instance.exports`](/es/docs/WebAssembly/JavaScript_interface/Instance/exports).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you've learned the "raw" technologies that can be used to build web pages (such as HTML, CSS, and JavaScript), you'll soon start to come across various tools that can be used to make your work easier or more efficient.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045338Z" creationid="Nachec" creationdate="20221027T045338Z">
+        <seg>Una vez que hayas aprendido las tecnologías "sin procesar" que se pueden usar para crear páginas web (como HTML, CSS y JavaScript), pronto comenzarás a encontrar varias herramientas que puedes usar para hacer tu trabajo más fácil y/o más eficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53805,6 +53885,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T072906Z" creationid="gitnacho" creationdate="20221005T072906Z">
         <seg>Hay un conjunto de APIs integradas que se cargan automáticamente y están disponibles para cada plantilla mediante el script del entorno, además de proporcionar algunas funciones del antiguo sistema DekiScript heredado en el que se basó MDN hace muchos años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are another class of languages called back-end (or server-side) languages, meaning that they are run on the server before the result is then sent to the browser to be displayed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045612Z" creationid="Nachec" creationdate="20221027T045612Z">
+        <seg>Hay otra clase de lenguajes llamados lenguajes de la interfaz de administración ("`back-end`" o de lado del servidor), lo cual significa que se ejecutan en el servidor antes de que el resultado se envíe al navegador para que se muestre.</seg>
       </tuv>
     </tu>
     <tu>
