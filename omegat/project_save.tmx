@@ -31580,10 +31580,10 @@ i32.mul</seg>
 &gt; We have put together a course that includes all the essential information you need to
 &gt; work towards your goal.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T000006Z" creationid="gitnacho" creationdate="20221012T231840Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T062629Z" creationid="gitnacho" creationdate="20221012T231840Z">
         <seg>&gt;
 &gt; Hemos preparado un curso que incluye toda la información esencial que necesitas para
-&gt; que trabajes hacia tu meta.</seg>
+&gt; trabajar hacia tu objetivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31591,9 +31591,9 @@ i32.mul</seg>
         <seg>&gt;
 &gt; We have put together a course that includes all the essential information you need to work towards your goal.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T064413Z" creationid="Nachec" creationdate="20221021T063634Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063030Z" creationid="Nachec" creationdate="20221021T063634Z">
         <seg>&gt;
-&gt; Hemos preparado un curso que incluye toda la información esencial que necesitas para que puedas alcanzar tu objetivo.</seg>
+&gt; Hemos preparado un curso que incluye toda la información esencial que necesitas para trabajar hacia tu objetivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76037,6 +76037,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T120241Z" creationid="gitnacho" creationdate="20221003T120241Z">
         <seg>{{HTMLRef}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{HTMLSidebar}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T063354Z" creationid="Nachec" creationdate="20221027T063354Z">
+        <seg>{{HTMLSidebar}}</seg>
       </tuv>
     </tu>
     <tu>
