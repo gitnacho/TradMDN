@@ -4564,6 +4564,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Selects and datalists</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220206Z" creationid="Nachec" creationdate="20221027T220206Z">
+        <seg>### Selecciones y listas de datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Semantics and structure with HTML</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224144Z" creationid="gitnacho" creationdate="20221018T224144Z">
@@ -36607,6 +36615,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you can see, we've done fairly well at getting these to look uniform across modern browsers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220055Z" creationid="Nachec" creationdate="20221027T220055Z">
+        <seg>Como puedes ver, lo hemos hecho bastante bien para lograr que se vean uniformes en los navegadores modernos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As you go through the learning material presented here, you'll start to learn how this is made possible with some very clever design and implementation work.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004023Z" creationid="Nachec" creationdate="20221027T004023Z">
@@ -43410,6 +43426,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In modern browsers, selects and datalists are generally not too bad to style provided you don't want to vary the look and feel too much from the defaults.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220222Z" creationid="Nachec" creationdate="20221027T220222Z">
+        <seg>En los navegadores modernos, las selecciones y las listas de datos generalmente no son tan malas para estilizar, siempre que no desees variar demasiado la apariencia de los valores predeterminados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In most cases, a language tag consists of a primary language subtag that identifies a broad family of related languages (e.g., "`en`" = English) and is optionally followed by a series of subtags that refine or narrow that language's range (e.g., "`en-CA`" = the variety of English as communicated in Canada).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T104243Z" creationid="Nachec" creationdate="20221022T102853Z">
@@ -46303,6 +46327,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's talk about some specifics of each of these types of control, highlighting difficulties along the way.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220158Z" creationid="Nachec" creationdate="20221027T220158Z">
+        <seg>Hablemos de algunos detalles de cada uno de estos tipos de control, destacando las dificultades en el camino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's talk about these options:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080823Z" creationid="gitnacho" creationdate="20221003T080823Z">
@@ -48105,6 +48137,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190347Z" creationid="Nachec" creationdate="20221025T190347Z">
         <seg>En un extremo de la carretera, está el cliente, que es como tu casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On other controls like range types, progress bars, and meters they just add an ugly box around the control area, so it doesn't make sense.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220147Z" creationid="Nachec" creationdate="20221027T220147Z">
+        <seg>En otros controles, como tipos de rango, barras de progreso y medidores, solo agregan un cuadro feo alrededor del área de control, por lo que no tiene sentido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57570,6 +57610,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a simplified version of the example found on the [`&lt;input type="file"&gt;`](/en-US/docs/Web/HTML/Element/input/file#examples) reference page.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220042Z" creationid="Nachec" creationdate="20221027T220042Z">
+        <seg>Esta es una versión simplificada del ejemplo que se encuentra en la página de referencia [`&lt;input type="file"&gt;`](/es/docs/Web/HTML/Element/input/file#ejemplos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a special type of {{DOMxRef("Client")}} object, with some additional methods and properties available.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T152010Z" creationid="gitnacho" creationdate="20221002T152010Z">
@@ -60292,6 +60340,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We also added some uniform shadow and rounded corners to the controls on which it made sense:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220128Z" creationid="Nachec" creationdate="20221027T220128Z">
+        <seg>También agregamos algunas sombras uniformes y esquinas redondeadas a los controles en los que tenía sentido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We also look at some of the security concerns associated with sending form data.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193509Z" creationid="Nachec" creationdate="20221027T193509Z">
@@ -60939,10 +60995,26 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We've applied some global normalizing CSS to all the controls and their labels, to get them to size in the same way, adopt their parent font, etc., as mentioned in the previous article:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220111Z" creationid="Nachec" creationdate="20221027T220111Z">
+        <seg>Hemos aplicado CSS de normalización global a todos los controles y sus etiquetas, para que tengan el mismo tamaño, adopten su fuente principal, etc., como se mencionó en el artículo anterior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We've kept things static and simple for now.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T023807Z" creationid="gitnacho" creationdate="20220921T023807Z">
         <seg>Hemos mantenido las cosas estáticas y simples por ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've managed to get the basic look of the boxes looking pretty uniform and consistent.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220320Z" creationid="Nachec" creationdate="20221027T220320Z">
+        <seg>Hemos gestionado que el aspecto básico de las cajas se viera bastante uniforme y consistente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64780,6 +64852,26 @@ body {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```css
+button,
+label,
+input,
+select,
+progress,
+meter {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220114Z" creationid="Nachec" creationdate="20221027T220114Z">
+        <seg>```css
+button,
+label,
+input,
+select,
+progress,
+meter {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
 h1 {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142857Z" creationid="Nachec" creationdate="20221023T142857Z">
@@ -64835,6 +64927,22 @@ input[type="search"] {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204816Z" creationid="Nachec" creationdate="20221027T204816Z">
         <seg>```css
 input[type="search"] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+input[type="text"],
+input[type="datetime-local"],
+input[type="color"],
+select {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220129Z" creationid="Nachec" creationdate="20221027T220129Z">
+        <seg>```css
+input[type="text"],
+input[type="datetime-local"],
+input[type="color"],
+select {</seg>
       </tuv>
     </tu>
     <tu>
@@ -69479,6 +69587,18 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border-radius: 5px;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220129Z" creationid="Nachec" creationdate="20221027T220129Z">
+        <seg>border-radius: 5px;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>border: 1px solid black;
 }
 ```</seg>
@@ -73084,6 +73204,18 @@ math .highlight {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215903Z" creationid="Nachec" creationdate="20221027T215903Z">
         <seg>height: 30px;
 }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>height: 30px;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220115Z" creationid="Nachec" creationdate="20221027T220115Z">
+        <seg>height: 30px;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
