@@ -6090,6 +6090,17 @@ para obtener información sobre la estructura de las secciones y cómo se distin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(See also [Using FormData objects](/en-US/docs/Web/API/FormData/Using_FormData_Objects).)
+- [CSS property compatibility table for form controls](/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193756Z" creationid="Nachec" creationdate="20221027T193635Z">
+        <seg>(Consulta también [Usar objetos `FormData`](/es/docs/Web/API/FormData/Using_FormData_Objects).)
+- [Tabla de compatibilidad de propiedades CSS para controles de formulario](/es/docs/Learn/Forms/Property_compatibility_table_for_form_controls)
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The "x"-height of the element, `1ex ≈ 0.5em` in many fonts) |
 | `px` | Pixels                                                                                                                      |
 | `in` | Inches (1 inch = 2.54 centimeters)                                                                                          |
@@ -10510,6 +10521,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : This article looks at ways to use a form to assemble an HTTP request and send it via custom JavaScript, rather than standard form submission.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193618Z" creationid="Nachec" creationdate="20221027T193618Z">
+        <seg>- : Este artículo analiza formas de usar un formulario para ensamblar una petición HTTP y enviarla a través de JavaScript personalizado, en lugar del envío de formulario estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : This article looks at what happens when a user submits a form — where does the data go, and how do we handle it when it gets there?</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193501Z" creationid="Nachec" creationdate="20221027T193501Z">
@@ -10578,6 +10597,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T131556Z" creationid="Nachec" creationdate="20221023T131556Z">
         <seg>- : Este es el elemento HTML en el que comienza la regla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : This last article provides a handy reference allowing you to look up what CSS properties are compatible with what form elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193729Z" creationid="Nachec" creationdate="20221027T193642Z">
+        <seg>- : Este último artículo proporciona una referencia útil que te permite buscar qué propiedades CSS son compatibles con qué elementos de formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10962,6 +10989,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T093115Z" creationid="gitnacho" creationdate="20221005T093115Z">
         <seg>- : Puedes consultar la lista de macros activas en el [repositorio de Yari](https://github.com/mdn/yari/tree/main/kumascript/macros).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : You'll come across some cases where the native form widgets just don't provide what you need, e.g. because of styling or functionality.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193541Z" creationid="Nachec" creationdate="20221027T193541Z">
+        <seg>- : Te encontrarás con algunos casos en los que los widgets de formulario nativos simplemente no proporcionan lo que necesitas, p. ej. debido al estilo o la funcionalidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16083,6 +16118,18 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [HTML forms element reference](/en-US/docs/Web/HTML/Element#forms)
+- [HTML \&lt;input&gt; types reference](/en-US/docs/Web/HTML/Element/input)
+- [HTML attribute reference](/en-US/docs/Web/HTML/Attributes)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193704Z" creationid="Nachec" creationdate="20221027T193704Z">
+        <seg>- [Referencia de elementos de formulario HTML](/es/docs/Web/HTML/Element#forms)
+- [Referencia de tipos \&lt;input&gt; de HTML](/es/docs/Web/HTML/Element/input)
+- [Referencia de atributos HTML](/es/docs/Web/HTML/Attributes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [HTML global attributes](/en-US/docs/Web/HTML/Global_attributes)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T194109Z" creationid="Nachec" creationdate="20221025T194109Z">
@@ -16315,6 +16362,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T060118Z" creationid="gitnacho" creationdate="20220925T055939Z">
         <seg>- [Cómo funciona la web](/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [How to build custom form controls](/en-US/docs/Learn/Forms/How_to_build_custom_form_controls)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193533Z" creationid="Nachec" creationdate="20221027T193533Z">
+        <seg>- [Cómo crear controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,6 +16873,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193451Z" creationid="Nachec" creationdate="20221027T193451Z">
         <seg>- [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [Sending forms through JavaScript](/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193603Z" creationid="Nachec" creationdate="20221027T193603Z">
+        <seg>- [Enviar formularios a través de JavaScript](/es/docs/Learn/Forms/Sending_forms_through_JavaScript)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42975,6 +43038,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In such cases, you may need to build your own form widget out of raw HTML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193549Z" creationid="Nachec" creationdate="20221027T193549Z">
+        <seg>En tales casos, es posible que debas crear tu propio widget de formulario a partir de HTML sin formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071242Z" creationid="gitnacho" creationdate="20221011T212844Z">
@@ -44029,6 +44100,14 @@ relevant header and serve an actual page to the user.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045953Z" creationid="Nachec" creationdate="20221027T045953Z">
         <seg>También implica muchas pruebas para ver si algo falla en ciertos navegadores, y luego más trabajo para corregir esas fallas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also looks at why you'd want to do this, and the implications of doing so.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193628Z" creationid="Nachec" creationdate="20221027T193628Z">
+        <seg>También analiza por qué querrías hacer esto y las implicaciones de hacerlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52267,6 +52346,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following articles aren't essential to the learning pathway, but they'll prove interesting and useful when you've mastered the above techniques and want to know more.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193528Z" creationid="Nachec" creationdate="20221027T193528Z">
+        <seg>Los siguientes artículos no son esenciales para el camino del aprendizaje, pero resultarán interesantes y útiles cuando hayas dominado las técnicas anteriores y quieras saber más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following assessment will test your understanding of the MathML basics covered in the guides above.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084019Z" creationid="Nachec" creationdate="20221021T084019Z">
@@ -55747,6 +55834,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T043447Z" creationid="gitnacho" creationdate="20220925T043447Z">
         <seg>Este artículo explica cómo configurar una estructura de archivos sensible para tu sitio web y qué problemas debes tener en cuenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This article explains how you'd do this and the considerations you need to be aware of when doing so, with a practical case study.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193554Z" creationid="Nachec" creationdate="20221027T193554Z">
+        <seg>Este artículo explica cómo harías esto y las consideraciones que debes tener en cuenta al hacerlo, con un estudio de caso práctico.</seg>
       </tuv>
     </tu>
     <tu>
