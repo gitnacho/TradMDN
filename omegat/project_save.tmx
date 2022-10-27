@@ -3300,6 +3300,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Color input types</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221956Z" creationid="Nachec" creationdate="20221027T221956Z">
+        <seg>### Tipos `input` de color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Command-line programs</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080604Z" creationid="Nachec" creationdate="20221021T080604Z">
@@ -3624,6 +3632,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210102Z" creationid="gitnacho" creationdate="20220922T210102Z">
         <seg>### Detectar características y habilitar precarga de navegación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### File input types</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222046Z" creationid="Nachec" creationdate="20221027T222046Z">
+        <seg>### Tipos de entrada de archivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -41472,6 +41488,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, a custom solution is the only way to get anything significantly different.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222040Z" creationid="Nachec" creationdate="20221027T222040Z">
+        <seg>Sin embargo, una solución personalizada es la única forma de obtener algo significativamente diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, because we have a tag, we use [`Exception.prototype.is()`](/en-US/docs/WebAssembly/JavaScript_interface/Exception/is) to check that it's the right one, and because it is correct, we call [`Exception.prototype.getArg()`](/en-US/docs/WebAssembly/JavaScript_interface/Exception/getArg) to read the value of "42".</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023628Z" creationid="gitnacho" creationdate="20221008T023628Z">
@@ -43791,6 +43815,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In supporting browsers, they tend to just give you a block of solid color with a small border.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222020Z" creationid="Nachec" creationdate="20221027T222020Z">
+        <seg>En los navegadores compatibles, tienden a mostrarle un bloque de color sólido con un borde pequeño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071242Z" creationid="gitnacho" creationdate="20221011T212844Z">
@@ -44529,6 +44561,22 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092529Z" creationid="Nachec" creationdate="20221022T092529Z">
         <seg>El soporte inicial viene en Chrome 46 o posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input controls of type color are not too bad.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222007Z" creationid="Nachec" creationdate="20221027T222007Z">
+        <seg>Los controles de entrada de tipo color no son tan malos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inputs of type file are generally OK — as you saw in our example, it is fairly easy to create something that fits in OK with the rest of the page — the output line that is part of the control will inherit the parent font if you tell the input to do so, and you can style the custom list of file names and sizes in any way you want; we created it after all.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222214Z" creationid="Nachec" creationdate="20221027T222214Z">
+        <seg>Los `input`s de tipo `file` generalmente están bien; como viste en nuestro ejemplo, es bastante fácil crear algo que encaje bien con el resto de la página: la línea de salida que es parte del control heredará la fuente principal si instruyes al `input` para hacerlo, y puedes estilizar la lista personalizada de nombres y tamaños de archivo de la forma que desees; lo creamos después de todo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62969,6 +63017,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can remove the border, just leaving the block of color, using something like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222029Z" creationid="Nachec" creationdate="20221027T222029Z">
+        <seg>Puedes quitar el borde, dejando solo el bloque de color, usando algo como esto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can rent your domain name for as many years as you want from a **domain registrar**.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T205003Z" creationid="Nachec" creationdate="20221023T205003Z">
@@ -65195,6 +65251,16 @@ input[type="checkbox"] {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215150Z" creationid="Nachec" creationdate="20221027T215150Z">
         <seg>```css
 input[type="checkbox"] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
+input[type="color"] {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222029Z" creationid="Nachec" creationdate="20221027T222029Z">
+        <seg>```css
+input[type="color"] {</seg>
       </tuv>
     </tu>
     <tu>
@@ -69933,6 +69999,14 @@ math [id] .highlight {</seg>
         <seg>border-radius: 5px;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>border: 0;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222030Z" creationid="Nachec" creationdate="20221027T222030Z">
+        <seg>border: 0;</seg>
       </tuv>
     </tu>
     <tu>
@@ -75632,6 +75706,18 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221725Z" creationid="Nachec" creationdate="20221027T221725Z">
         <seg>padding: 0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>padding: 0;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222031Z" creationid="Nachec" creationdate="20221027T222031Z">
+        <seg>padding: 0;
+}
+```</seg>
       </tuv>
     </tu>
     <tu>
