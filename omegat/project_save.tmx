@@ -7138,6 +7138,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- **Accessibility** means making your websites usable by as many different kinds of people as possible (related concepts are diversity and inclusion, and inclusive design).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T050214Z" creationid="Nachec" creationdate="20221027T050214Z">
+        <seg>- **Accesibilidad** — significa hacer que tus sitios web sean utilizables por la mayor cantidad posible de personas (los conceptos relacionados son diversidad e inclusión y diseño inclusivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- **An FTP program**, used on older web hosting accounts to manage files on servers ([Git](https://git-scm.com/) is increasingly replacing FTP for this purpose).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T165144Z" creationid="gitnacho" creationdate="20221012T165144Z">
@@ -7246,6 +7254,22 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130532Z" creationid="gitnacho" creationdate="20221003T130532Z">
         <seg>- **Omitido o un tipo MIME de JavaScript:** Esto indica que el script es JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Performance** means getting web sites to load as quickly as possible, but also making them intuitive and easy to use so that users don't get frustrated and go somewhere else.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T050154Z" creationid="Nachec" creationdate="20221027T050154Z">
+        <seg>- **Rendimiento** — significa hacer que los sitios web se carguen lo más rápido posible, pero también hacerlos intuitivos y fáciles de usar para que los usuarios no se sientan frustrados y vayan a otro lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- **Responsive web design** is the practice of making your functionality and layouts flexible so they can automatically adapt to different browsers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T050111Z" creationid="Nachec" creationdate="20221027T050111Z">
+        <seg>- **Diseño web receptivo** — es la práctica de hacer que tu funcionalidad y diseños sean flexibles para que se puedan adaptar automáticamente a diferentes navegadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35212,6 +35236,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An obvious example is a website that is laid out one way in a widescreen browser on the desktop, but displays as a more compact, single-column layout on mobile phone browsers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T050126Z" creationid="Nachec" creationdate="20221027T050126Z">
+        <seg>Un ejemplo obvio es un sitio web que se presenta de una forma en un navegador de pantalla ancha en el escritorio, pero que se muestra como un diseño de una sola columna más compacto en los navegadores de teléfonos móviles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An origin can have multiple, named `Cache` objects.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T202521Z" creationid="gitnacho" creationdate="20221003T202521Z">
@@ -43520,6 +43552,14 @@ relevant header and serve an actual page to the user.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T061045Z" creationid="Nachec" creationdate="20221023T061045Z">
         <seg>También incluye el atributo `lang`, que establece el idioma principal del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also involves a lot of testing to see if anything fails in certain browsers, and then more work to fix those failures.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045953Z" creationid="Nachec" creationdate="20221027T045953Z">
+        <seg>También implica muchas pruebas para ver si algo falla en ciertos navegadores, y luego más trabajo para corregir esas fallas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55985,6 +56025,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This includes using technologies that all the browsers support, delivering better experiences to browsers that can handle them (progressive enhancement), and/or writing code so that it falls back to a simpler but still usable experience in older browsers (graceful degradation).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045939Z" creationid="Nachec" creationdate="20221027T045939Z">
+        <seg>Esto incluye el uso de tecnologías compatibles con todos los navegadores, brindando mejores experiencias a los navegadores que pueden manejarlas (mejora progresiva) y/o escribiendo código para que vuelvas a una experiencia más simple pero aún utilizable en navegadores más antiguos (degradación elegante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This installs a tool called "rustup", which lets you manage multiple versions of Rust.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061348Z" creationid="gitnacho" creationdate="20221004T061348Z">
@@ -58252,6 +58300,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T104551Z" creationid="Nachec" creationdate="20221023T104551Z">
         <seg>Intenta agregar una lista ordenada o desordenada en tu página de ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try adjusting the width of your browser window now, and see what happens.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T050135Z" creationid="Nachec" creationdate="20221027T050135Z">
+        <seg>Intenta ajustar el ancho de la ventana de tu navegador ahora y ve qué sucede.</seg>
       </tuv>
     </tu>
     <tu>
