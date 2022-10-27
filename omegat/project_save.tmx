@@ -2882,6 +2882,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## appearance: controlling OS-level styling</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203908Z" creationid="Nachec" creationdate="20221027T203908Z">
+        <seg>## Apariencia —`appearance`: Controlar el estilo a nivel del sistema operativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### "Open" standards</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003745Z" creationid="Nachec" creationdate="20221027T003745Z">
@@ -37200,6 +37208,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By far the most helpful value, and probably the only one you'll use, is `none`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203955Z" creationid="Nachec" creationdate="20221027T203955Z">
+        <seg>Con mucho, el valor más útil, y probablemente el único que usarás, es `none`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By itself, WebAssembly cannot currently directly access the DOM; it can only call JavaScript, passing in integer and floating point primitive data types.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081256Z" creationid="gitnacho" creationdate="20221003T081256Z">
@@ -39582,6 +39598,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075707Z" creationid="Nachec" creationdate="20221021T075707Z">
         <seg>Por ejemplo, simplemente inserta la siguiente línea en la cabecera de tu documento para seleccionar las fuentes Latin Modern con fuentes Web alternativas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, let's take the following controls:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204107Z" creationid="Nachec" creationdate="20221027T204107Z">
+        <seg>Por ejemplo, tomemos los siguientes controles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43539,6 +43563,14 @@ configuración de fuentes para MathML.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the previous article we said that historically, styling of web form controls was largely taken from the underlying operating system, which is part of the problem with customizing the look of these controls.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203925Z" creationid="Nachec" creationdate="20221027T203925Z">
+        <seg>En el artículo anterior dijimos que, históricamente, el estilo de los controles de formulario web se tomó en gran medida del sistema operativo subyacente, lo cual es parte del problema con la personalización de la apariencia de estos controles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the previous example, the return value of each [`Table.prototype.get()`](/en-US/docs/WebAssembly/JavaScript_interface/Table/get) call is an exported WebAssembly function — exactly what we have been talking about.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085758Z" creationid="gitnacho" creationdate="20221006T085758Z">
@@ -45601,6 +45633,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104708Z" creationid="Nachec" creationdate="20221021T104708Z">
         <seg>Primero hagamos las sustituciones &lt;math&gt; &lt;mi&gt;β&lt;/mi&gt; &lt;mo&gt;≔&lt;/mo&gt; &lt;mrow&gt; &lt;msub&gt; &lt;mi&gt;z&lt;/mi&gt; &lt;mn&gt;1&lt;/mn&gt; &lt;/msub&gt; &lt;mo&gt;+&lt;/mo&gt; &lt;msub&gt; &lt;mi&gt;z&lt;/mi&gt; &lt;mn&gt;2&lt;/mn&gt; &lt;/msub&gt; &lt;/mrow&gt; &lt;/math&gt; and &lt;math&gt; &lt;mi&gt;α&lt;/mi&gt; &lt;mo&gt;≔&lt;/mo&gt; &lt;mrow&gt; &lt;msub&gt; &lt;mi&gt;v&lt;/mi&gt; &lt;mn&gt;1&lt;/mn&gt; &lt;/msub&gt; &lt;mo&gt;+&lt;/mo&gt; &lt;msub&gt; &lt;mi&gt;v&lt;/mi&gt; &lt;mn&gt;2&lt;/mn&gt; &lt;/msub&gt; &lt;/mrow&gt; &lt;/math&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's first talk about the [`appearance`](/en-US/docs/Web/CSS/appearance) property, which is pretty useful for making all of the above more stylable.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203816Z" creationid="Nachec" creationdate="20221027T203816Z">
+        <seg>Primero hablemos de la propiedad [`appearance`](/es/docs/Web/CSS/appearance), que es bastante útil para hacer que todo lo anterior tenga más estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54596,6 +54636,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The {{cssxref("appearance")}} property was created as a way to control what OS- or system-level styling was applied to web form controls.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203942Z" creationid="Nachec" creationdate="20221027T203942Z">
+        <seg>La propiedad {{CSSxRef("appearance")}} se creó como una forma de controlar qué estilo del sistema operativo o a nivel de sistema se aplicó a los controles de formulario web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The {{domxref("NavigationPreloadManager")}} provides a mechanism to allow fetching of the resources to run in parallel with service worker boot, so that by the time the worker is able to handle the fetch request from the browser, the resource may already have been fully or partially downloaded.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070337Z" creationid="gitnacho" creationdate="20220922T205848Z">
@@ -58049,6 +58097,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T055047Z" creationid="Nachec" creationdate="20221023T055047Z">
         <seg>Esta determina dónde termina el elemento —en este caso dónde termina el párrafo—.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This stops any control you apply it to from using system-level styling, as much as possible, and lets you build up the styles yourself using CSS.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204057Z" creationid="Nachec" creationdate="20221027T204057Z">
+        <seg>Este evita que cualquier control al que le apliques estilo a nivel del sistema, tanto como sea posible, y te permite crear los estilos tú mismo usando CSS.</seg>
       </tuv>
     </tu>
     <tu>
