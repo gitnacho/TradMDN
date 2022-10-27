@@ -24219,11 +24219,11 @@ title: Understanding WebAssembly text format
 slug: WebAssembly/Understanding_the_text_format
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T200822Z" creationid="gitnacho" creationdate="20221007T044730Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T074038Z" creationid="gitnacho" creationdate="20221007T044730Z">
         <seg>---
 title: Entender el formato de texto WebAssembly
 slug: WebAssembly/Understanding_the_text_format
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -53340,8 +53340,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The signature is a sequence of parameter type declarations followed by a list of return type declarations.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054304Z" creationid="gitnacho" creationdate="20221007T054304Z">
-        <seg>La firma es una secuencia de declaraciones de tipo de parámetro seguidas de una lista de declaraciones de tipo de devolución.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T074028Z" creationid="gitnacho" creationdate="20221007T054304Z">
+        <seg>La firma es una secuencia de declaraciones de tipo de parámetro seguida de una lista de declaraciones del tipo de devolución.</seg>
       </tuv>
     </tu>
     <tu>
