@@ -11503,9 +11503,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- Compiling</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T235053Z" creationid="gitnacho" creationdate="20221003T105102Z">
-        <seg>- Compiling
-  - Compilar</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T110804Z" creationid="gitnacho" creationdate="20221003T105102Z">
+        <seg>- Compiling</seg>
       </tuv>
     </tu>
     <tu>
@@ -22876,11 +22875,11 @@ title: Compiling a New C/C++ Module to WebAssembly
 slug: WebAssembly/C_to_wasm
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194829Z" creationid="gitnacho" creationdate="20221003T105056Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T110759Z" creationid="gitnacho" creationdate="20221003T105056Z">
         <seg>---
 title: Compilar un nuevo módulo C/C++ a WebAssembly
 slug: WebAssembly/C_to_wasm
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
