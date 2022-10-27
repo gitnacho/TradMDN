@@ -2810,8 +2810,8 @@
       <tuv lang="en-US">
         <seg>## Where should your website live on your computer?</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T043816Z" creationid="Nachec" creationdate="20221023T043816Z">
-        <seg>## ¿Dónde debería estar tu sitio web en tu computadora?</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105348Z" creationid="Nachec" creationdate="20221023T043816Z">
+        <seg>## ¿Dónde debería estar tu sitio web en tu ordenador?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10914,8 +10914,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- A virtual machine (VM) that runs the Web app's code, e.g. the JavaScript code that powers your apps.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T005229Z" creationid="gitnacho" creationdate="20221003T005229Z">
-        <seg>- Una máquina virtual (VM por sus siglas en inglés) que ejecuta el código de la aplicación Web p.e. el código JavaScript que potencia tus aplicaciones.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105030Z" creationid="gitnacho" creationdate="20221003T005229Z">
+        <seg>- Una máquina virtual (VM por sus siglas en inglés) que ejecuta el código de la aplicación Web p. ej. el código JavaScript que potencia tus aplicaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11725,8 +11725,8 @@ browser-compat:</seg>
       <tuv lang="en-US">
         <seg>- Don't break the web — WebAssembly is designed so that it plays nicely with other web technologies and maintains backwards compatibility.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T004930Z" creationid="gitnacho" creationdate="20221003T004930Z">
-        <seg>- No rompe la red — WebAssembly está diseñado de tal forma que juegue bien con otras tecnologías web y mantenga compatibilidad con versiones anteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105041Z" creationid="gitnacho" creationdate="20221003T004930Z">
+        <seg>- No rompe la red — WebAssembly está diseñado de tal forma que juega bien con otras tecnologías web y mantenga compatibilidad con versiones anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58235,8 +58235,8 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       <tuv lang="en-US">
         <seg>To solve this problem, each computer on a network is connected to a special tiny computer called a _router_.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201110Z" creationid="Nachec" creationdate="20221025T201110Z">
-        <seg>Para resolver este problema, cada ordenador en una red está conectado a una pequeña computadora especial llamada enrutador o router (en inglés).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105236Z" creationid="Nachec" creationdate="20221025T201110Z">
+        <seg>Para resolver este problema, cada ordenador en una red está conectado a un pequeño ordenador especial llamada enrutador o *router* (en inglés).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60435,8 +60435,8 @@ función exportada desde su interior.</seg>
       <tuv lang="en-US">
         <seg>When you are working on a website locally on your computer, you should keep all the related files in a single folder that mirrors the published website's file structure on the server.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T043832Z" creationid="Nachec" creationdate="20221023T043832Z">
-        <seg>Cuando estés trabajando en un sitio web localmente en tu computadora, debes mantener todos los archivos relacionados en un solo directorio que refleje la estructura de archivos del sitio web publicado en el servidor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105336Z" creationid="Nachec" creationdate="20221023T043832Z">
+        <seg>Cuando estés trabajando en un sitio web localmente en tu ordenador, debes mantener todos los archivos relacionados en un solo directorio que refleje la estructura de archivos del sitio web publicado en el servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60507,8 +60507,8 @@ función exportada desde su interior.</seg>
       <tuv lang="en-US">
         <seg>When you're building a website, you need to assemble these files into a sensible structure on your local computer, make sure they can talk to one another, and get all your content looking right before you eventually [upload them to a server](/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221023T051016Z" creationid="Nachec" creationdate="20221023T043753Z">
-        <seg>Cuando estás creando un sitio web, necesitas ensamblar estos archivos en una estructura sensible en tu computadora local, asegurarte de que se puedan comunicar entre sí y hacer que todo su contenido se vea bien antes de que eventualmente [los cargues en un servidor](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T105316Z" creationid="Nachec" creationdate="20221023T043753Z">
+        <seg>Cuando estás creando un sitio web, necesitas ensamblar estos archivos en una estructura sensible en tu ordenador local, asegurarte de que se puedan comunicar entre sí y hacer que todo su contenido se vea bien antes de que eventualmente [los cargues en un servidor](/es/docs/Learn/Getting_started_with_the_web/Publishing_your_website).</seg>
       </tuv>
     </tu>
     <tu>
