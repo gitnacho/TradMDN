@@ -4420,6 +4420,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Range input types</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221556Z" creationid="Nachec" creationdate="20221027T221556Z">
+        <seg>### Tipos de entrada de rango</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Reading the contents of a page attachment</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T091329Z" creationid="gitnacho" creationdate="20221005T082503Z">
@@ -33068,6 +33076,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** It is worth mentioning [`&lt;input type="number"&gt;`](/en-US/docs/Web/HTML/Element/input/number) here too — this also has a spinner that you can use to increment/decrement values, so potentially suffers from the same problem.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221354Z" creationid="Nachec" creationdate="20221027T221354Z">
+        <seg>&gt; **Nota:** Vale la pena mencionar [`&lt;input type="number"&gt;`](/es/docs/Web/HTML/Element/input/number) aquí también — esto también tiene un control giratorio que puedes use para incrementar/disminuir valores, por lo que potencialmente sufre el mismo problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** It may take a few minutes for your website to go live.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T214820Z" creationid="Nachec" creationdate="20221023T214408Z">
@@ -41480,6 +41496,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, in the case of the `number` type the data being collected is simpler, and it is easy to just use a `tel` input type instead which has the appearance of `text`, but displays the numeric keypad in devices with touch keyboards.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221551Z" creationid="Nachec" creationdate="20221027T221551Z">
+        <seg>Sin embargo, en el caso del tipo `number`, los datos que se recopilan son más simples y es fácil usar un `input` de tipo `tel` que tiene la apariencia de `texto`, pero muestra el teclado numérico en dispositivos con teclados táctiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, in those cases where a worker has to boot before it can start fetching a remote resource, then the delay can be significant.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053016Z" creationid="gitnacho" creationdate="20220922T205737Z">
@@ -42802,6 +42826,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220944Z" creationid="Nachec" creationdate="20221027T220944Z">
         <seg>Si realmente necesitas un control total sobre el estilo de la opción, tendrás que usar algún tipo de biblioteca para generar un control personalizado, o crear tu propio control personalizado, o en el caso de `select`, usar el atributo `multiple`, lo cual hace que todas las opciones aparezcan en la página, eludiendo este problema en particular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you really need full control over the styling, you'll have to either use some kind of library to generate a custom control, or build your own.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221326Z" creationid="Nachec" creationdate="20221027T221326Z">
+        <seg>Si realmente necesitas un control total sobre el estilo, tendrás que usar algún tipo de biblioteca para generar un control personalizado o crear uno propio.</seg>
       </tuv>
     </tu>
     <tu>
