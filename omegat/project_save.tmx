@@ -7186,6 +7186,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- **JavaScript** is the programming language we use to add interactivity to web sites, from dynamic style switching, to fetching updates from the server, right through to complex 3D graphics.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045219Z" creationid="Nachec" creationdate="20221027T045219Z">
+        <seg>- **JavaScript** es el lenguaje de programación que usamos para agregar interactividad a los sitios web, desde el cambio de estilo dinámico hasta la obtención de actualizaciones desde el servidor, pasando por gráficos complejos en 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- **Memory**: A resizable ArrayBuffer that contains the linear array of bytes read and written by WebAssembly's low-level memory access instructions.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T075829Z" creationid="gitnacho" creationdate="20221003T075829Z">
@@ -11324,6 +11332,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T061914Z" creationid="gitnacho" creationdate="20221002T061914Z">
         <seg>- Canvas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Cascading Style Sheets (**CSS**) is a rule-based language used to apply styles to your HTML — for example, setting text and background colors, adding borders, animating things, or laying out a page in a certain way.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045133Z" creationid="Nachec" creationdate="20221027T045133Z">
+        <seg>- Hojas de estilo en cascada (**CSS** por "_Cascading Style Sheets_") es un lenguaje basado en reglas que se utiliza para aplicar estilos a tu HTML, por ejemplo, establecer colores del texto y del fondo, agregar bordes, animar cosas o distribuir los elementos de una página de cierta manera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28734,6 +28750,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;h1&gt;This is a top-level heading&lt;/h1&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045015Z" creationid="Nachec" creationdate="20221027T045015Z">
+        <seg>&lt;h1&gt;Este es un encabezado de alto nivel&lt;/h1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;h2&gt;A heading&lt;/h2&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210930T233823Z" creationid="gitnacho" creationdate="20210930T233823Z">
@@ -28786,6 +28810,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045248Z" creationid="Nachec" creationdate="20221023T045248Z">
         <seg>&lt;img src="" alt="Mi imagen de prueba" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;img src="cat.jpg" alt="A picture of my cat" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045032Z" creationid="Nachec" creationdate="20221027T045032Z">
+        <seg>&lt;img src="cat.jpg" alt="Una imagen de mi gato" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30150,6 +30182,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080546Z" creationid="Nachec" creationdate="20221021T080546Z">
         <seg>&lt;p&gt;Uno sobre raíz cuadrada de dos (estilo en línea, jqMath): $1/√2$&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;This is a paragraph of text.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045022Z" creationid="Nachec" creationdate="20221027T045022Z">
+        <seg>&lt;p&gt;Este es un párrafo de texto.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35306,6 +35346,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065357Z" creationid="gitnacho" creationdate="20221005T065357Z">
         <seg>Como función semiexperimental (no se garantiza que funcione), puedes proporcionar un objeto JSON para el primer y único parámetro, así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a simple example, the following code would turn our HTML paragraph red:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045147Z" creationid="Nachec" creationdate="20221027T045147Z">
+        <seg>Como un sencillo ejemplo, el siguiente código convertirá nuestro párrafo HTML en rojo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41063,6 +41111,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If we adopted a house-building analogy, HTML would be like the foundations and walls of the house, which give it structure and hold it together.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045050Z" creationid="Nachec" creationdate="20221027T045050Z">
+        <seg>Si adoptamos una analogía de la construcción de casas, HTML sería como los cimientos y las paredes de la casa, que le dan estructura y la mantienen unida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If we convert our module to binary now (see [Converting WebAssembly text format to wasm](/en-US/docs/WebAssembly/Text_format_to_wasm)), we'll see just the 8 byte module header described in the [binary format](https://webassembly.github.io/spec/core/binary/index.html#high-level-structure):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053945Z" creationid="gitnacho" creationdate="20221007T053945Z">
@@ -42478,6 +42534,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073258Z" creationid="gitnacho" creationdate="20221007T073258Z">
         <seg>En el futuro, cuando se permitan múltiples tablas, también necesitaríamos especificar un identificador de tabla de algún tipo, en la línea de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the house analogy, CSS is like the paint, wallpaper, carpets and paintings you'd use to make the house look nice.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045201Z" creationid="Nachec" creationdate="20221027T045201Z">
+        <seg>En la analogía de la casa, CSS es como la pintura, el papel tapiz, las alfombras y los cuadros que usarías para hacer que la casa se vea bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48301,83 +48365,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Simple HTML looks like this:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T044933Z" creationid="Nachec" creationdate="20221027T044933Z">
-        <seg>El HTML simple se ve así:
-
-  ```html
-  &lt;h1&gt;Este es un encabezado de alto nivel&lt;/h1&gt;
-
-  &lt;p&gt;Este es un párrafo de texto.&lt;/p&gt;
-
-  &lt;img src="cat.jpg" alt="Una imagen de mi gato" /&gt;
-  ```
-
-  Si adoptamos una analogía de la construcción de casas, HTML sería como los cimientos y las paredes de la casa, que le dan estructura y la mantienen unida.
-
-- Hojas de estilo en cascada (**CSS** por "_Cascading Style Sheets_") es un lenguaje basado en reglas que se utiliza para aplicar estilos a tu HTML, por ejemplo, establecer colores del texto y del fondo, agregar bordes, animar cosas o diseñar una página de cierta manera. Como un sencillo ejemplo, el siguiente código convertirá nuestro párrafo HTML en rojo:
-
-  ```css
-  p {
-    color: red;
-  }
-  ```
-
-  En la analogía de la casa, CSS es como la pintura, el papel tapiz, las alfombras y los cuadros que usarías para hacer que la casa se vea bien.
-
-- **JavaScript** es el lenguaje de programación que usamos para agregar interactividad a los sitios web, desde el cambio de estilo dinámico hasta la obtención de actualizaciones desde el servidor, pasando por gráficos complejos en 3D. El siguiente JavaScript simple almacenará en la memoria una referencia a nuestro párrafo y cambiará el texto dentro de él:
-
-  ```js
-  let pElem = document.querySelector("p");
-  pElem.textContent = "¡Cambiamos el texto!";
-  ```
-
-  En la analogía de la casa, JavaScript es como la cocina, el televisor, el microondas o la secadora de pelo — las cosas que le dan a tu casa una útil funcionalidad.
-
-### Herramientas
-
-Una vez que hayas aprendido las tecnologías "sin procesar" que se pueden usar para crear páginas web (como HTML, CSS y JavaScript), pronto comenzarás a encontrar varias herramientas que puedes usar para hacer tu trabajo más fácil y/o más eficiente. Algunos ejemplos incluyen:
-
-- Las [herramientas de desarrollo](/es/docs/Learn/Common_questions/What_are_browser_developer_tools) dentro de los navegadores modernos que se pueden usar para depurar tu código.
-- [Herramientas de prueba](/es/docs/Learn/Tools_and_testing/Cross_browser_testing) que puedes usar para ejecutar pruebas y mostrar si tu código se está comportando como lo esperabas.
-- Bibliotecas y marcos de desarrollo construidos sobre JavaScript que te permiten crear ciertos tipos de sitios web de manera mucho más rápida y efectiva.
-- Las llamadas "Linternas" (`Linters` en inglés), que toman un conjunto de reglas, examinan tu código y resaltan los lugares donde no has seguido las reglas correctamente.
-- Minificadores, que eliminan todos los espacios en blanco de tus archivos de código fuente para que sean más pequeños y, por lo tanto, se descarguen del servidor más rápidamente.
-
-### Marcos de desarrollo y lenguajes de lado del servidor
-
-HTML, CSS y JavaScript son lenguajes de la interfaz del usuario ("`front-end`" o del lado del cliente), lo cual significa que los ejecuta el navegador para producir la interfaz del sitio web que los usuarios pueden utilizar.
-
-Hay otra clase de lenguajes llamados lenguajes de la interfaz de admiración ("`back-end`" o de lado del servidor), lo cual significa que se ejecutan en el servidor antes de que el resultado se envíe al navegador para que se muestre. Un uso típico de un lenguaje de lado del servidor es obtener algunos datos de una base de datos y generar algo de HTML para contener los datos, antes de enviar el HTML al navegador para mostrárselo al usuario.
-
-Los lenguajes de lado del servidor de ejemplo incluyen ASP.NET, Python, PHP y NodeJS.
-
-## Mejores prácticas web
-
-Hemos hablado brevemente sobre las tecnologías que utilizarás para crear sitios web. Ahora analicemos las mejores prácticas que debes emplear para asegurarte de que estás utilizando esas tecnologías de la mejor manera posible.
-
-Al hacer desarrollo web, la principal causa de incertidumbre proviene del hecho de que no sabes qué combinación de tecnologías utilizará cada usuario para ver tu sitio web:
-
-- El usuario 1 podría estar mirándolo en un iPhone, con una pantalla pequeña y estrecha.
-- El usuario 2 puede estar mirándolo en una computadora portátil con Windows con un monitor de pantalla ancha adjunto.
-- El usuario 3 puede ser ciego y usar un lector de pantalla para leerle la página web.
-- El usuario 4 podría estar usando una máquina de escritorio realmente antigua que no puede ejecutar navegadores modernos.
-
-Debido a que no sabes exactamente qué usarán tus usuarios, debes diseñar a la defensiva — hacer que tu sitio web sea lo más flexible posible, de modo que todos los usuarios anteriores puedan hacer uso de él, incluso si no todos obtienen la misma experiencia. En resumen, estamos tratando de hacer que la web funcione para todos, tanto como sea posible.
-
-Encontrarás los siguientes conceptos en algún momento de tus estudios.
-
-- **Compatibilidad entre navegadores** — es la práctica de intentar asegurarte de que tu página web funcione en tantos dispositivos como sea posible. Esto incluye el uso de tecnologías compatibles con todos los navegadores, brindando mejores experiencias a los navegadores que pueden manejarlas (mejora progresiva) y/o escribiendo código para que vuelvas a una experiencia más simple pero aún utilizable en navegadores más antiguos (degradación elegante). También implica muchas pruebas para ver si algo falla en ciertos navegadores, y luego más trabajo para corregir esas fallas.
-- **Diseño web receptivo** — es la práctica de hacer que tu funcionalidad y diseños sean flexibles para que se puedan adaptar automáticamente a diferentes navegadores. Un ejemplo obvio es un sitio web que se presenta de una forma en un navegador de pantalla ancha en el escritorio, pero que se muestra como un diseño de una sola columna más compacto en los navegadores de teléfonos móviles. Intenta ajustar el ancho de la ventana de tu navegador ahora y ve qué sucede.
-- **Rendimiento** — significa hacer que los sitios web se carguen lo más rápido posible, pero también hacerlos intuitivos y fáciles de usar para que los usuarios no se sientan frustrados y vayan a otro lugar.
-- **Accesibilidad** — significa hacer que tus sitios web sean utilizables por la mayor cantidad posible de personas (los conceptos relacionados son diversidad e inclusión y diseño inclusivo). Esto incluye a personas con impedimentos visuales, auditivos, cognitivos o físicos. También va más allá de las personas con discapacidad — ¿qué pasa con los jóvenes o los ancianos, las personas de diferentes culturas, las personas que utilizan dispositivos móviles o las personas con conexiones de red lentas o poco fiables?
-- **Internacionalización** — significa hacer que los sitios web sean utilizables por personas de diferentes culturas, que hablan diferentes idiomas al tuyo. Hay consideraciones técnicas aquí (como alterar tu diseño para que aún funcione bien para idiomas de derecha a izquierda, o incluso verticales) y humanas (tal como usar un lenguaje simple, sin jerga para que las personas que tienen tu idioma ya que su segundo o tercer idioma es más probable que entienda tu texto).
-- **Privacidad y seguridad**. Estos dos conceptos están relacionados pero son diferentes. La privacidad se refiere a permitir que las personas realicen sus negocios de manera privada y no espiarlos o recopilar más datos de los estrictamente necesarios. La seguridad se refiere a la construcción de tu sitio web de una manera segura para que los usuarios malintencionados no puedan robar la información contenida en él o de tus usuarios.
-
-## Ve también
-
-- {{interwiki("wikipedia", "Historia de la World Wide Web")}}
-- [¿Cómo funciona la internet?](/es/docs/Learn/Common_questions/How_does_the_Internet_work)
-</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T044952Z" creationid="Nachec" creationdate="20221027T044933Z">
+        <seg>El HTML simple se ve así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51840,6 +51829,14 @@ if a loaded module instance contains a "name" custom section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T055033Z" creationid="gitnacho" creationdate="20221005T055033Z">
         <seg>Las siguientes secciones lo explican.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following simple JavaScript will store a reference to our paragraph in memory and change the text inside it:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045239Z" creationid="Nachec" creationdate="20221027T045239Z">
+        <seg>El siguiente JavaScript simple almacenará en la memoria una referencia a nuestro párrafo y cambiará el texto dentro de él:</seg>
       </tuv>
     </tu>
     <tu>
@@ -71952,6 +71949,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>let pElem = document.querySelector("p");</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045240Z" creationid="Nachec" creationdate="20221027T045240Z">
+        <seg>let pElem = document.querySelector("p");</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>let result = 0;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201229T234529Z" creationid="nacho" creationdate="20201229T234529Z">
@@ -72868,6 +72873,14 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>p {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045148Z" creationid="Nachec" creationdate="20221027T045148Z">
+        <seg>p {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>p,</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140424Z" creationid="Nachec" creationdate="20221023T140424Z">
@@ -72880,6 +72893,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080252Z" creationid="gitnacho" creationdate="20221002T080252Z">
         <seg>p1.then(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pElem.textContent = "We changed the text!";</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045249Z" creationid="Nachec" creationdate="20221027T045249Z">
+        <seg>pElem.textContent = "¡Cambiamos el texto!";</seg>
       </tuv>
     </tu>
     <tu>
