@@ -26058,6 +26058,22 @@ celda 4 | celda 5 | celda 6
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.select-wrapper {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215855Z" creationid="Nachec" creationdate="20221027T215855Z">
+        <seg>.select-wrapper {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>.select-wrapper::after {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215855Z" creationid="Nachec" creationdate="20221027T215855Z">
+        <seg>.select-wrapper::after {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>.then(() =&gt; console.log("Done!"))</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T212720Z" creationid="gitnacho" creationdate="20220922T212720Z">
@@ -32332,6 +32348,16 @@ i32.mul</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&gt;
+&gt; Also bear in mind that we've added some JavaScript to the page that lists the files selected by the file picker, below the control itself.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220020Z" creationid="Nachec" creationdate="20221027T220020Z">
+        <seg>&gt;
+&gt; También ten en cuenta que hemos agregado algo de JavaScript a la página que enumera los archivos seleccionados por el selector de archivos, debajo del control mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;
 &gt; Firefox 87 allows this non-compliant behavior to be enabled by setting the preference: `network.cors_preflight.allow_client_cert` to `true` ({{bug(1511151)}}).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053017Z" creationid="gitnacho" creationdate="20221012T053017Z">
@@ -32938,6 +32964,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T203918Z" creationid="gitnacho" creationdate="20221005T203918Z">
         <seg>&gt; **Nota:** Si deseas obtener asesoramiento sobre el estilo y el deslinde del código tal como aparece en un artículo de MDN, en lugar de las diferentes formas de incluir código, consulta nuestra [Guía de estilo de código](/es/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** If you want to test these examples across a number of browsers simultaneously, you can [find it live here](https://mdn.github.io/learning-area/html/forms/styling-examples/ugly-controls.html) (also [see here for the source code](https://github.com/mdn/learning-area/blob/main/html/forms/styling-examples/ugly-controls.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220001Z" creationid="Nachec" creationdate="20221027T220001Z">
+        <seg>&gt; **Nota:** Si deseas probar estos ejemplos en varios navegadores simultáneamente, lo puedes [encontrar en vivo aquí](https://mdn.github.io/learning-area/html/forms/styling-examples/ugly-controls.html) (también [consulta aquí el código fuente](https://github.com/mdn/learning-area/blob/main/html/forms/styling-examples/ugly-controls.html )).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42422,6 +42456,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are prepared to live with some differences in look and feel, you can get away with some simple styling to make sizing consistent, uniform styling of things like background-colors, and usage of appearance to get rid of some system-level styling.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215825Z" creationid="Nachec" creationdate="20221027T215825Z">
+        <seg>Si estás preparado para vivir con algunas diferencias en la apariencia, puedes salirte con la suya con un estilo simple para que el tamaño sea uniforme, el estilo uniforme de elementos como los colores de fondo y el uso de `appearance` para deshacerse de algunos estilos a nivel del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are still stuck, feel free to post a question on our [Discourse forum](https://discourse.mozilla.org/c/mdn/learn/250).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223913Z" creationid="gitnacho" creationdate="20221018T223913Z">
@@ -50542,6 +50584,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take the following example, which shows a number of the "ugly" form features in action:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215842Z" creationid="Nachec" creationdate="20221027T215842Z">
+        <seg>Tome el siguiente ejemplo, que muestra una serie de características de formulario "feas" en acción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Take the following example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210921T064338Z" creationid="gitnacho" creationdate="20210921T064338Z">
@@ -54192,6 +54242,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The problem is that these elements have very different default looks across browsers, and while you can style them in some ways, some parts of their internals are literally impossible to style.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215745Z" creationid="Nachec" creationdate="20221027T215745Z">
+        <seg>El problema es que estos elementos tienen un aspecto predeterminado muy diferente en todos los navegadores y, si bien los puedes estilizar de alguna manera, algunas partes internas son literalmente imposibles de estilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The process for using an exported tag is very similar to that shown in the previous section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T143138Z" creationid="gitnacho" creationdate="20221019T143138Z">
@@ -57019,6 +57077,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203750Z" creationid="gitnacho" creationdate="20221019T203750Z">
         <seg>Este ejemplo demuestra cómo generar una excepción desde WebAssembly que incluye un seguimiento de la pila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This example has the following CSS applied to it:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215849Z" creationid="Nachec" creationdate="20221027T215849Z">
+        <seg>Este ejemplo tiene el siguiente CSS aplicado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -69090,6 +69156,16 @@ unreachable
     <tu>
       <tuv lang="en-US">
         <seg>appearance: none;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215854Z" creationid="Nachec" creationdate="20221027T215854Z">
+        <seg>appearance: none;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>appearance: none;
 }
 ```</seg>
       </tuv>
@@ -69393,6 +69469,16 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border-radius: 5px;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215905Z" creationid="Nachec" creationdate="20221027T215905Z">
+        <seg>border-radius: 5px;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>border: 1px solid black;
 }
 ```</seg>
@@ -69429,6 +69515,22 @@ math [id] .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225131Z" creationid="Nachec" creationdate="20221021T225131Z">
         <seg>border: 5px solid red;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>box-shadow: inset 1px 1px 3px #ccc;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215904Z" creationid="Nachec" creationdate="20221027T215904Z">
+        <seg>box-shadow: inset 1px 1px 3px #ccc;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>box-sizing: border-box;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215901Z" creationid="Nachec" creationdate="20221027T215901Z">
+        <seg>box-sizing: border-box;</seg>
       </tuv>
     </tu>
     <tu>
@@ -69477,6 +69579,32 @@ math [id] .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T120348Z" creationid="gitnacho" creationdate="20221007T120348Z">
         <seg>bufTransferredFromMain.byteLength</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>button {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215907Z" creationid="Nachec" creationdate="20221027T215907Z">
+        <seg>button {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>button,
+label,
+input,
+select,
+progress,
+meter {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215859Z" creationid="Nachec" creationdate="20221027T215859Z">
+        <seg>button,
+label,
+input,
+select,
+progress,
+meter {</seg>
       </tuv>
     </tu>
     <tu>
@@ -71704,6 +71832,14 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>content: "▼";</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215855Z" creationid="Nachec" creationdate="20221027T215855Z">
+        <seg>content: "▼";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>content: "✔";</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215229Z" creationid="Nachec" creationdate="20221027T215229Z">
@@ -72422,6 +72558,14 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font-family: "Josefin Sans", sans-serif;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215852Z" creationid="Nachec" creationdate="20221027T215852Z">
+        <seg>font-family: "Josefin Sans", sans-serif;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140120Z" creationid="Nachec" creationdate="20221023T140120Z">
@@ -72438,10 +72582,26 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font-family: inherit;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215900Z" creationid="Nachec" creationdate="20221027T215900Z">
+        <seg>font-family: inherit;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font-size: 1.2em;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215230Z" creationid="Nachec" creationdate="20221027T215230Z">
         <seg>font-size: 1.2em;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>font-size: 100%;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215900Z" creationid="Nachec" creationdate="20221027T215900Z">
+        <seg>font-size: 100%;</seg>
       </tuv>
     </tu>
     <tu>
@@ -72458,6 +72618,14 @@ function clearHighlight() {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140426Z" creationid="Nachec" creationdate="20221023T140426Z">
         <seg>font-size: 16px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>font-size: 1rem;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215856Z" creationid="Nachec" creationdate="20221027T215856Z">
+        <seg>font-size: 1rem;</seg>
       </tuv>
     </tu>
     <tu>
@@ -72572,6 +72740,14 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211103T064756Z" creationid="gitnacho" creationdate="20211103T064756Z">
         <seg>por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>form &gt; div {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215854Z" creationid="Nachec" creationdate="20221027T215854Z">
+        <seg>form &gt; div {</seg>
       </tuv>
     </tu>
     <tu>
@@ -72898,6 +73074,16 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225118Z" creationid="Nachec" creationdate="20221021T225118Z">
         <seg>height: 200px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>height: 30px;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215903Z" creationid="Nachec" creationdate="20221027T215903Z">
+        <seg>height: 30px;
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -73644,6 +73830,20 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>input[type="text"],
+input[type="datetime-local"],
+input[type="color"],
+select {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215904Z" creationid="Nachec" creationdate="20221027T215904Z">
+        <seg>input[type="text"],
+input[type="datetime-local"],
+input[type="color"],
+select {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>instance : Instance // A new WebAssembly.Instance of the module object
 }
 ```</seg>
@@ -73824,6 +74024,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085134Z" creationid="Nachec" creationdate="20221021T085134Z">
         <seg>conocimiento.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>label {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215906Z" creationid="Nachec" creationdate="20221027T215906Z">
+        <seg>label {</seg>
       </tuv>
     </tu>
     <tu>
@@ -74120,6 +74328,26 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>margin-bottom: 20px;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215854Z" creationid="Nachec" creationdate="20221027T215854Z">
+        <seg>margin-bottom: 20px;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>margin-bottom: 5px;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215906Z" creationid="Nachec" creationdate="20221027T215906Z">
+        <seg>margin-bottom: 5px;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>margin: 0 auto;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141934Z" creationid="Nachec" creationdate="20221023T141934Z">
@@ -74144,6 +74372,14 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142857Z" creationid="Nachec" creationdate="20221023T142857Z">
         <seg>margin: 0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>margin: 20px auto;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215853Z" creationid="Nachec" creationdate="20221027T215853Z">
+        <seg>margin: 20px auto;</seg>
       </tuv>
     </tu>
     <tu>
@@ -74184,6 +74420,16 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085835Z" creationid="Nachec" creationdate="20221021T085835Z">
         <seg>¿matrices?) y determina el elemento MathML adecuado para cada una de ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>max-width: 400px;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215853Z" creationid="Nachec" creationdate="20221027T215853Z">
+        <seg>max-width: 400px;
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -74908,6 +75154,14 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>padding: 5px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215902Z" creationid="Nachec" creationdate="20221027T215902Z">
+        <seg>padding: 5px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pages:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210830T061914Z" creationid="gitnacho" creationdate="20210830T061914Z">
@@ -74948,10 +75202,30 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>position: absolute;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215858Z" creationid="Nachec" creationdate="20221027T215858Z">
+        <seg>position: absolute;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>position: relative;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215211Z" creationid="Nachec" creationdate="20221027T215211Z">
         <seg>position: relative;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>position: relative;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215855Z" creationid="Nachec" creationdate="20221027T215855Z">
+        <seg>position: relative;
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -75862,6 +76136,14 @@ api.free_result(resultPointer);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>right: 10px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215857Z" creationid="Nachec" creationdate="20221027T215857Z">
+        <seg>right: 10px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>role="button"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013729Z" creationid="gitnacho" creationdate="20220901T013729Z">
@@ -75962,6 +76244,14 @@ api.free_result(resultPointer);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T115857Z" creationid="gitnacho" creationdate="20221007T115857Z">
         <seg>second.onchange = () =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>select {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215854Z" creationid="Nachec" creationdate="20221027T215854Z">
+        <seg>select {</seg>
       </tuv>
     </tu>
     <tu>
@@ -76752,6 +77042,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>top: 6px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215857Z" creationid="Nachec" creationdate="20221027T215857Z">
+        <seg>top: 6px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>transaction.onerror = (event) =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T212636Z" creationid="gitnacho" creationdate="20220922T212636Z">
@@ -77016,6 +77314,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>width: 100%;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215901Z" creationid="Nachec" creationdate="20221027T215901Z">
+        <seg>width: 100%;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>width: 100px;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205242Z" creationid="Nachec" creationdate="20221027T205242Z">
@@ -77048,6 +77354,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132230Z" creationid="Nachec" creationdate="20221023T132230Z">
         <seg>width: 500px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width: 60%;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215908Z" creationid="Nachec" creationdate="20221027T215908Z">
+        <seg>width: 60%;</seg>
       </tuv>
     </tu>
     <tu>
@@ -77558,6 +77872,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204951Z" creationid="Nachec" creationdate="20221027T204951Z">
         <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/styled-search.html", '100%', 200)}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/ugly-controls.html", '100%', 750)}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215842Z" creationid="Nachec" creationdate="20221027T215842Z">
+        <seg>{{EmbedGHLiveSample("learning-area/html/forms/styling-examples/ugly-controls.html", '100%', 750)}}</seg>
       </tuv>
     </tu>
     <tu>
