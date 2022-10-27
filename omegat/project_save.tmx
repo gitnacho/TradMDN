@@ -19533,9 +19533,8 @@ browser-compat: javascript.builtins.WebAssembly.compile
       <tuv lang="en-US">
         <seg>- concepts</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T231253Z" creationid="gitnacho" creationdate="20221003T003609Z">
-        <seg>- concepts
-  - conceptos</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T104558Z" creationid="gitnacho" creationdate="20221003T003609Z">
+        <seg>- concepts</seg>
       </tuv>
     </tu>
     <tu>
@@ -20300,9 +20299,8 @@ browser-compat: api.Document.timeline
         <seg>- web platform
 ---</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T201818Z" creationid="gitnacho" creationdate="20221003T003653Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T104601Z" creationid="gitnacho" creationdate="20221003T003653Z">
         <seg>- web platform
-  - plataforma web
 ---</seg>
       </tuv>
     </tu>
@@ -24361,11 +24359,11 @@ title: WebAssembly Concepts
 slug: WebAssembly/Concepts
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T194901Z" creationid="gitnacho" creationdate="20221003T003559Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T104555Z" creationid="gitnacho" creationdate="20221003T003559Z">
         <seg>---
 title: Conceptos WebAssembly
 slug: WebAssembly/Concepts
-rue: Nachec
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
