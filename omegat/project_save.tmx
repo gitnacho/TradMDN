@@ -11419,9 +11419,9 @@ browser-compat: http.headers.Access-Control-Allow-Origin
         <seg>- Change the server-side behavior to avoid the preflight and/or to avoid the redirect
 - Change the request such that it is a [simple request](#simple_requests) that doesn't cause a preflight</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225830Z" creationid="gitnacho" creationdate="20221011T224941Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064517Z" creationid="gitnacho" creationdate="20221011T224941Z">
         <seg>- Cambiar el comportamiento de lado del servidor para evitar la preverificación y/o para evitar la redirección
-- Cambiar la solicitud para que sea una [solicitud simple](#solicitudes_simples) que no cause una verificación previa</seg>
+- Cambiar la solicitud para que sea una [solicitud simple](#peticiones_simples) que no cause una verificación previa</seg>
       </tuv>
     </tu>
     <tu>
@@ -32311,8 +32311,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** Some enterprise authentication services require that TLS client certificates be sent in preflight requests, in contravention of the [Fetch](https://fetch.spec.whatwg.org/#cors-protocol-and-credentials) specification.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T052954Z" creationid="gitnacho" creationdate="20221011T230745Z">
-        <seg>&gt; **Nota:** Algunos servicios de autenticación empresarial requieren que los certificados de cliente TLS se envíen en solicitudes de preverificación, en contravención a la especificación de [Fetch](https://fetch.spec.whatwg.org/#cors-protocol-and-credentials).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064608Z" creationid="gitnacho" creationdate="20221011T230745Z">
+        <seg>&gt; **Nota:** Algunos servicios de autenticación empresarial requieren que los certificados de cliente TLS se envíen en peticiones de preverificación, en contravención a la especificación de [Fetch](https://fetch.spec.whatwg.org/#cors-protocol-and-credentials).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32691,16 +32691,16 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** When making credentialed requests to a different domain, third-party cookie policies will still apply.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225952Z" creationid="gitnacho" creationdate="20221011T225952Z">
-        <seg>&gt; **Nota:** Al realizar solicitudes con credenciales a un dominio diferente, se seguirán aplicando las políticas de *cookies* de terceros.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064552Z" creationid="gitnacho" creationdate="20221011T225952Z">
+        <seg>&gt; **Nota:** Al realizar peticiones con credenciales a un dominio diferente, se seguirán aplicando las políticas de *cookies* de terceros.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&gt; **Note:** When responding to a [credentialed requests](#requests_with_credentials) request, the server **must** specify an origin in the value of the `Access-Control-Allow-Origin` header, instead of specifying the "`*`" wildcard.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105439Z" creationid="gitnacho" creationdate="20221011T222256Z">
-        <seg>&gt; **Nota:** Al responder a una solicitud de [solicitudes con credenciales](#solicitudes_con_credenciales), el servidor **debe** especificar un origen en el valor de la cabecera `Access-Control-Allow-Origin`, en lugar de especificar el comodín "`*`".</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064458Z" creationid="gitnacho" creationdate="20221011T222256Z">
+        <seg>&gt; **Nota:** Al responder a una [petición con credenciales](#peticiones_con_credenciales), el servidor **debe** especificar un origen en el valor de la cabecera `Access-Control-Allow-Origin`, en lugar de especificar el comodín "`*`".</seg>
       </tuv>
     </tu>
     <tu>
@@ -33256,8 +33256,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; The request was redirected to 'https\://example.com/foo', which is disallowed for cross-origin requests that require preflight.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T152837Z" creationid="gitnacho" creationdate="20221011T224811Z">
-        <seg>&gt; La solicitud se redirigió a 'https\://ejemplo.com/foo', que no está permitido para solicitudes de origen cruzado que requieren preverificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064512Z" creationid="gitnacho" creationdate="20221011T224811Z">
+        <seg>&gt; La solicitud se redirigió a 'https\://ejemplo.com/foo', que no está permitido para peticiones de origen cruzado que requieren preverificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36661,8 +36661,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>CORS-preflight requests must never include credentials.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230715Z" creationid="gitnacho" creationdate="20221011T230715Z">
-        <seg>Las solicitudes de preverificación de CORS nunca deben incluir credenciales.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064602Z" creationid="gitnacho" creationdate="20221011T230715Z">
+        <seg>Las peticiones de preverificación de CORS nunca deben incluir credenciales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36879,8 +36879,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Chromium-based browsers currently always send TLS client certificates in CORS preflight requests ([Chrome bug 775438](https://bugs.chromium.org/p/chromium/issues/detail?id=775438)).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053125Z" creationid="gitnacho" creationdate="20221012T053021Z">
-        <seg>Actualmente, los navegadores basados ​​en Chromium siempre envían certificados de cliente TLS en solicitudes CORS de preverificación ([Error de Chrome 775438](https://bugs.chromium.org/p/chromium/issues/detail?id=775438)).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064611Z" creationid="gitnacho" creationdate="20221012T053021Z">
+        <seg>Actualmente, los navegadores basados ​​en Chromium siempre envían certificados de cliente TLS en peticiones CORS de preverificación ([Error de Chrome 775438](https://bugs.chromium.org/p/chromium/issues/detail?id=775438)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41155,8 +41155,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the resource owners at `https://bar.other` wished to restrict access to the resource to requests _only_ from `https://foo.example` (i.e., no domain other than `https://foo.example` can access the resource in a cross-origin manner), they would send:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222215Z" creationid="gitnacho" creationdate="20221011T222215Z">
-        <seg>Si los propietarios del recurso en `https://bar.other` desearan restringir el acceso al recurso a las solicitudes _solo_ de `https://foo.example` (es decir, ningún dominio que no sea `https://foo.example` puede acceder al recurso de forma cruzada), enviarían:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064352Z" creationid="gitnacho" creationdate="20221011T222215Z">
+        <seg>Si los propietarios del recurso en `https://bar.other` desearan restringir el acceso al recurso a las peticiones _solo_ de `https://foo.example` (es decir, ningún dominio que no sea `https://foo.example` puede acceder al recurso de forma cruzada), enviarían:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45450,8 +45450,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Make a [simple request](#simple_requests) (using {{domxref("Response.url")}} for the Fetch API, or {{domxref("XMLHttpRequest.responseURL")}}) to determine what URL the real preflighted request would end up at.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T225251Z">
-        <seg>Haz una [solicitud simple](#solicitudes_simples) (usando {{DOMxRef("Response.url")}} para la API `Fetch`, o {{DOMxRef("XMLHttpRequest.responseURL")}}) para determinar en qué URL terminará la solicitud preverificada real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064547Z" creationid="gitnacho" creationdate="20221011T225251Z">
+        <seg>Haz una [petición simple](#peticiones_simples) (usando {{DOMxRef("Response.url")}} para la API `Fetch`, o {{DOMxRef("XMLHttpRequest.responseURL")}}) para determinar en qué URL terminará la petición preverificada real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49315,8 +49315,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Such cross-origin requests are preflighted since they may have implications for user data.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222547Z" creationid="gitnacho" creationdate="20221011T222547Z">
-        <seg>Dichas solicitudes de origen cruzado se verifican previamente, ya que pueden tener implicaciones para los datos del usuario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064510Z" creationid="gitnacho" creationdate="20221011T222547Z">
+        <seg>Dichas peticiones de origen cruzado se verifican previamente, ya que pueden tener implicaciones para los datos del usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51586,8 +51586,8 @@ y devuelve su valor.</seg>
       <tuv lang="en-US">
         <seg>The enforced cookie policy may therefore nullify the capability described in this chapter, effectively preventing you from making credentialed requests whatsoever.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053601Z" creationid="gitnacho" creationdate="20221012T053601Z">
-        <seg>La política de *cookies* aplicada puede, por lo tanto, anular la capacidad descrita en este capítulo, impidiendo efectivamente que realices solicitudes con credenciales de ningún tipo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064621Z" creationid="gitnacho" creationdate="20221012T053601Z">
+        <seg>La política de *cookies* aplicada puede, por lo tanto, anular la capacidad descrita en este capítulo, impidiendo efectivamente que realices peticiones con credenciales de ningún tipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52669,8 +52669,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The most interesting capability exposed by both {{domxref("XMLHttpRequest")}} or [Fetch](/en-US/docs/Web/API/Fetch_API) and CORS is the ability to make "credentialed" requests that are aware of [HTTP cookies](/en-US/docs/Web/HTTP/Cookies) and HTTP Authentication information.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T230313Z">
-        <seg>La capacidad más interesante expuesta por {{DOMxRef("XMLHttpRequest")}} o [Fetch](/es/docs/Web/API/Fetch_API) y CORS es la capacidad de realizar solicitudes "con credenciales" que son conscientes de [*cookies* HTTP](/es/docs/Web/HTTP/Cookies) e información de autenticación HTTP.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064600Z" creationid="gitnacho" creationdate="20221011T230313Z">
+        <seg>La capacidad más interesante expuesta por {{DOMxRef("XMLHttpRequest")}} o [Fetch](/es/docs/Web/API/Fetch_API) y CORS es la capacidad de realizar peticiones "con credenciales" que son conscientes de [*cookies* HTTP](/es/docs/Web/HTTP/Cookies) e información de autenticación HTTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52685,8 +52685,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The motivation is that the {{HTMLElement("form")}} element from HTML 4.0 (which predates cross-site {{domxref("XMLHttpRequest")}} and {{domxref("fetch")}}) can submit simple requests to any origin, so anyone writing a server must already be protecting against {{Glossary("CSRF", "cross-site request forgery")}} (CSRF).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T220139Z">
-        <seg>La motivación es que el elemento {{HTMLElement("form")}} de HTML 4.0 (que es anterior a {{DOMxRef("XMLHttpRequest")}} y {{DOMxRef("fetch")}} entre sitios puede enviar solicitudes a cualquier origen, por lo que cualquier persona que escriba un servidor ya debe estar protegido contra {{Glossary("CSRF", "falsificación de solicitud entre sitios")}} (CSRF).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064332Z" creationid="gitnacho" creationdate="20221011T220139Z">
+        <seg>La motivación es que el elemento {{HTMLElement("form")}} de HTML 4.0 (que es anterior a {{DOMxRef("XMLHttpRequest")}} y {{DOMxRef("fetch")}} entre sitios puede enviar peticiones a cualquier origen, por lo que cualquier persona que escriba un servidor ya debe estar protegido contra {{Glossary("CSRF", "falsificación de solicitud entre sitios")}} (CSRF).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57522,8 +57522,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>Those are called _simple requests_ from the obsolete [CORS spec](https://www.w3.org/TR/2014/REC-cors-20140116/#terminology), though the [Fetch spec](https://fetch.spec.whatwg.org/) (which now defines CORS) doesn't use that term.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220059Z" creationid="gitnacho" creationdate="20221011T220059Z">
-        <seg>Se denominan _solicitudes simples_ de la [especificación CORS](https://www.w3.org/TR/2014/REC-cors-20140116/#terminology) obsoleta, aunque la [especificación Fetch](https://fetch. spec.whatwg.org/) (que ahora define CORS) no usa ese término.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064323Z" creationid="gitnacho" creationdate="20221011T220059Z">
+        <seg>Se denominan _peticiones simples_ de la [especificación CORS](https://www.w3.org/TR/2014/REC-cors-20140116/#terminology) obsoleta, aunque la [especificación Fetch](https://fetch. spec.whatwg.org/) (que ahora define CORS) no usa ese término.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58615,8 +58615,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>Unlike [_simple requests_](#simple_requests), for "preflighted" requests the browser first sends an HTTP request using the {{HTTPMethod("OPTIONS")}} method to the resource on the other origin, in order to determine if the actual request is safe to send.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222537Z" creationid="gitnacho" creationdate="20221011T222537Z">
-        <seg>A diferencia de las [_solicitudes simples_](#solicitudes_simples), para las solicitudes "preverificadas", el navegador primero envía una solicitud HTTP usando el método {{HTTPMethod("OPTIONS")}} al recurso en el otro origen, para determinar si el la solicitud es segura para enviar.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064508Z" creationid="gitnacho" creationdate="20221011T222537Z">
+        <seg>A diferencia de las [_peticiones simples_](#peticiones_simples), para las peticiones "preverificadas", el navegador primero envía una solicitud HTTP usando el método {{HTTPMethod("OPTIONS")}} al recurso en el otro origen, para determinar si el la solicitud es segura para enviar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60056,12 +60056,12 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
 &gt;
 &gt; No other browsers implement these extra restrictions because they're not part of the spec.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213246Z" creationid="gitnacho" creationdate="20221011T221210Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064337Z" creationid="gitnacho" creationdate="20221011T221210Z">
         <seg>Los valores que WebKit/Safari consideran "no estándar" no están documentados, excepto en los siguientes errores de WebKit:
 &gt;
 &gt; - [Requerir verificación previa para cabeceras de solicitud incluidos en la lista segura de CORS no estándar Accept, Accept-Language y Content-Language](https://bugs.webkit.org/show_bug.cgi?id=165178)
 &gt; - [Permitir comas en las cabeceras de solicitud Accept, Accept-Language y Content-Language para CORS simple](https://bugs.webkit.org/show_bug.cgi?id=165566)
-&gt; - [Cambiar a un modelo de lista negra para aceptar cabeceras restringidas en solicitudes CORS simples](https://bugs.webkit.org/show_bug.cgi?id=166363)
+&gt; - [Cambiar a un modelo de lista negra para aceptar cabeceras restringidas en peticiones CORS simples](https://bugs.webkit.org/show_bug.cgi?id=166363)
 &gt;
 &gt; Ningún otro navegador implementa estas restricciones adicionales porque no son parte de la especificación.</seg>
       </tuv>
