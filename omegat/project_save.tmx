@@ -17681,12 +17681,34 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [`&lt;input type="file"&gt;`](/en-US/docs/Web/HTML/Element/input/file)
 - {{HTMLElement("progress")}} and {{HTMLElement("meter")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203756Z" creationid="Nachec" creationdate="20221027T203756Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T224929Z" creationid="Nachec" creationdate="20221027T203756Z">
         <seg>- [`&lt;input type="color"&gt;`](/es/docs/Web/HTML/Element/input/color)
 - Controles relacionados con fechas como [`&lt;input type="datetime-local"&gt;`](/es/docs/Web/HTML/Element/input/datetime-local)
-- [`&lt;input type="range"&gt;`](/es/docs/Web/HTML /Element/input/range)
+- [`&lt;input type="range"&gt;`](/es/docs/Web/HTML/Element/input/range)
 - [`&lt;input type="file"&gt;`](/es/docs/Web/HTML/Element/input/file)
 - {{HTMLElement("progress")}} y {{HTMLElement("meter")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [`&lt;input type="text"&gt;`](/en-US/docs/Web/HTML/Element/input/text)
+- [`&lt;input type="password"&gt;`](/en-US/docs/Web/HTML/Element/input/password)
+- [`&lt;input type="search"&gt;`](/en-US/docs/Web/HTML/Element/input/search)
+- [`&lt;input type="date"&gt;`](/en-US/docs/Web/HTML/Element/input/date), [`&lt;input type="time"&gt;`](/en-US/docs/Web/HTML/Element/input/time), and [`&lt;input type="datetime-local"&gt;`](/en-US/docs/Web/HTML/Element/input/datetime-local)
+- [`&lt;input type="number"&gt;`](/en-US/docs/Web/HTML/Element/input/number), [`&lt;input type="range"&gt;`](/en-US/docs/Web/HTML/Element/input/range)
+- [`&lt;input type="email"&gt;`](/en-US/docs/Web/HTML/Element/input/email), [`&lt;input type="tel"&gt;`](/en-US/docs/Web/HTML/Element/input/tel), and [`&lt;input type="url"&gt;`](/en-US/docs/Web/HTML/Element/input/url)
+- {{HTMLElement("textarea")}}
+- Any element with its {{htmlattrxref("contenteditable")}} attribute set</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T224919Z" creationid="Nachec" creationdate="20221027T224919Z">
+        <seg>- [`&lt;input type="text"&gt;`](/en-US/docs/Web/HTML/Element/input/text)
+- [`&lt;input type="password"&gt;`](/en-US/docs/Web/HTML/Element/input/password)
+- [`&lt;input type="search"&gt;`](/en-US/docs/Web/HTML/Element/input/search)
+- [`&lt;input type="date"&gt;`](/en-US/docs/Web/HTML/Element/input/date), [`&lt;input type="time"&gt;`](/en-US/docs/Web/HTML/Element/input/time), and [`&lt;input type="datetime-local"&gt;`](/en-US/docs/Web/HTML/Element/input/datetime-local)
+- [`&lt;input type="number"&gt;`](/en-US/docs/Web/HTML/Element/input/number), [`&lt;input type="range"&gt;`](/en-US/docs/Web/HTML/Element/input/range)
+- [`&lt;input type="email"&gt;`](/en-US/docs/Web/HTML/Element/input/email), [`&lt;input type="tel"&gt;`](/en-US/docs/Web/HTML/Element/input/tel), and [`&lt;input type="url"&gt;`](/en-US/docs/Web/HTML/Element/input/url)
+- {{HTMLElement("textarea")}}
+- Any element with its {{htmlattrxref("contenteditable")}} attribute set</seg>
       </tuv>
     </tu>
     <tu>
@@ -59049,8 +59071,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>This stops any control you apply it to from using system-level styling, as much as possible, and lets you build up the styles yourself using CSS.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204057Z" creationid="Nachec" creationdate="20221027T204057Z">
-        <seg>Este evita que cualquier control al que le apliques estilo a nivel del sistema, tanto como sea posible, y te permite crear los estilos tú mismo usando CSS.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T225353Z" creationid="Nachec" creationdate="20221027T204057Z">
+        <seg>Este evita que cualquier control al que lo apliques use el estilo a nivel del sistema, tanto como sea posible, y te permite crear los estilos tú mismo usando CSS.</seg>
       </tuv>
     </tu>
     <tu>
