@@ -2154,8 +2154,8 @@
       <tuv lang="en-US">
         <seg>## Recovering failed requests</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035927Z" creationid="gitnacho" creationdate="20220921T035927Z">
-        <seg>## Recuperar solicitudes fallidas</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064029Z" creationid="gitnacho" creationdate="20220921T035927Z">
+        <seg>## Recuperar peticiones fallidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,8 +2754,8 @@
       <tuv lang="en-US">
         <seg>## What requests use CORS?</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213100Z" creationid="gitnacho" creationdate="20221011T213100Z">
-        <seg>## ¿Qué solicitudes usan CORS?</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064136Z" creationid="gitnacho" creationdate="20221011T213100Z">
+        <seg>## ¿Qué peticiones usan CORS?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,8 +3382,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Custom responses to requests</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T035000Z" creationid="gitnacho" creationdate="20220921T035000Z">
-        <seg>### Respuestas personalizadas a solicitudes</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064022Z" creationid="gitnacho" creationdate="20220921T035000Z">
+        <seg>### Respuestas personalizadas a peticiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -14411,8 +14411,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       <tuv lang="en-US">
         <seg>- The service worker will only catch requests from clients under the service worker's scope.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T031355Z" creationid="gitnacho" creationdate="20220921T031355Z">
-        <seg>- El *service worker* solo capturará las solicitudes de los clientes bajo el alcance del *service worker*.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064006Z" creationid="gitnacho" creationdate="20220921T031355Z">
+        <seg>- El *service worker* solo capturará las peticiones de los clientes bajo el alcance del *service worker*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19066,8 +19066,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- `same-origin`: A referrer will be sent for {{Glossary("Same-origin policy", "same origin")}}, but cross-origin requests will contain no referrer information.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125936Z" creationid="gitnacho" creationdate="20221003T125936Z">
-        <seg>- `same-origin`: Se enviará una referencia para {{Glossary("Same-origin policy", "same origin")}}, pero las solicitudes de origen cruzado no contendrán información del remitente —`referrer`—.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064047Z" creationid="gitnacho" creationdate="20221003T125936Z">
+        <seg>- `same-origin`: Se enviará una referencia para {{Glossary("Same-origin policy", "same origin")}}, pero las peticiones de origen cruzado no contendrán información del remitente —`referrer`—.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34791,8 +34791,8 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       <tuv lang="en-US">
         <seg>All these examples use {{domxref("XMLHttpRequest")}}, which can make cross-origin requests in any supporting browser.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221011T220000Z">
-        <seg>Todos estos ejemplos usan {{DOMxRef("XMLHttpRequest")}}, que puede realizar solicitudes de origen cruzado en cualquier navegador compatible.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064224Z" creationid="gitnacho" creationdate="20221011T220000Z">
+        <seg>Todos estos ejemplos usan {{DOMxRef("XMLHttpRequest")}}, que puede realizar peticiones de origen cruzado en cualquier navegador compatible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38863,8 +38863,8 @@ portales para realizar tareas de administración empresarial y herramientas de c
       <tuv lang="en-US">
         <seg>For example, following `Accept-CH` in a response below, the client could append {{HTTPHeader("Width")}}, {{HTTPHeader("Downlink")}} and {{HTTPHeader("Sec-CH-UA")}} headers to all subsequent requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212208Z" creationid="gitnacho" creationdate="20221012T091531Z">
-        <seg>Por ejemplo, después de `Accept-CH` en una respuesta a continuación, el cliente podría agregar cabeceras {{HTTPHeader("Width")}}, {{HTTPHeader("Downlink")}} y {{HTTPHeader("Sec-CH-UA")}} para todas las solicitudes posteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064054Z" creationid="gitnacho" creationdate="20221012T091531Z">
+        <seg>Por ejemplo, después de `Accept-CH` en una respuesta a continuación, el cliente podría agregar cabeceras {{HTTPHeader("Width")}}, {{HTTPHeader("Downlink")}} y {{HTTPHeader("Sec-CH-UA")}} para todas las peticiones posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40856,8 +40856,8 @@ among them.</seg>
       <tuv lang="en-US">
         <seg>If it can't provide a suitable resource, it might respond with {{HTTPStatus("406")}} (Not Acceptable) or {{HTTPStatus("415")}} (Unsupported Media Type) and set headers for the types of media that it does support (e.g., using the {{HTTPHeader("Accept-Post")}} or {{HTTPHeader("Accept-Patch")}} for POST and PATCH requests, respectively).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091801Z" creationid="Nachec" creationdate="20221022T091801Z">
-        <seg>Si no puede proporcionar un recurso adecuado, puede responder con {{HTTPStatus("406")}} (No aceptable) o {{HTTPStatus("415")}} (Tipo de medio no admitido) y establecer cabeceras para los tipos de medios que admite (por ejemplo, usando {{HTTPHeader("Accept-Post")}} o {{HTTPHeader("Accept-Patch")}} para solicitudes POST y PATCH, respectivamente).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064116Z" creationid="Nachec" creationdate="20221022T091801Z">
+        <seg>Si no puede proporcionar un recurso adecuado, puede responder con {{HTTPStatus("406")}} (No aceptable) o {{HTTPStatus("415")}} (Tipo de medio no admitido) y establecer cabeceras para los tipos de medios que admite (por ejemplo, usando {{HTTPHeader("Accept-Post")}} o {{HTTPHeader("Accept-Patch")}} para peticiones POST y PATCH, respectivamente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41379,8 +41379,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If we were being really clever, we would not only request the resource from the network; we would also save it into the cache so that later requests for that resource could be retrieved offline too!</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040115Z" creationid="gitnacho" creationdate="20220921T040115Z">
-        <seg>Si fuéramos realmente inteligentes, no solo solicitaríamos el recurso de la red; ¡también lo guardaríamos en caché para que las solicitudes posteriores de ese recurso también se puedan recuperar sin conexión!</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064036Z" creationid="gitnacho" creationdate="20220921T040115Z">
+        <seg>Si fuéramos realmente inteligentes, no solo solicitaríamos el recurso de la red; ¡también lo guardaríamos en caché para que las peticiones posteriores de ese recurso también se puedan recuperar sin conexión!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45702,8 +45702,8 @@ tags:</seg>
       <tuv lang="en-US">
         <seg>Modern browsers use CORS in APIs such as `XMLHttpRequest` or [Fetch](/en-US/docs/Web/API/Fetch_API) to mitigate the risks of cross-origin HTTP requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213051Z" creationid="gitnacho" creationdate="20221011T213051Z">
-        <seg>Los navegadores modernos usan CORS en APIs como `XMLHttpRequest` o [Fetch](/es/docs/Web/API/Fetch_API) para mitigar los riesgos de las solicitudes HTTP de origen cruzado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064134Z" creationid="gitnacho" creationdate="20221011T213051Z">
+        <seg>Los navegadores modernos usan CORS en APIs como `XMLHttpRequest` o [Fetch](/es/docs/Web/API/Fetch_API) para mitigar los riesgos de las peticiones HTTP de origen cruzado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48487,8 +48487,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Servers can also inform clients whether "credentials" (such as [Cookies](/en-US/docs/Web/HTTP/Cookies) and [HTTP Authentication](/en-US/docs/Web/HTTP/Authentication)) should be sent with requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213945Z" creationid="gitnacho" creationdate="20221011T213945Z">
-        <seg>Los servidores también pueden informar a los clientes si las "credenciales" (como [*Cookies*](/es/docs/Web/HTTP/Cookies) y [Autenticación HTTP](/es/docs/Web/HTTP/Authentication)) deben ser enviado con solicitudes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064216Z" creationid="gitnacho" creationdate="20221011T213945Z">
+        <seg>Los servidores también pueden informar a los clientes si las "credenciales" (como [*Cookies*](/es/docs/Web/HTTP/Cookies) y [Autenticación HTTP](/es/docs/Web/HTTP/Authentication)) se deben enviar con peticiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49119,8 +49119,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Some requests don't trigger a {{Glossary("Preflight_request","CORS preflight")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T220029Z" creationid="gitnacho" creationdate="20221011T220029Z">
-        <seg>Algunas solicitudes no activan un {{Glossary("Preflight_request","CORS preflight")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064315Z" creationid="gitnacho" creationdate="20221011T220029Z">
+        <seg>Algunas peticiones no activan una {{Glossary("Preflight_request","Preverificación CORS")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49531,8 +49531,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>That way, the cache can replay the algorithm and will be able to serve acceptable content directly, without more requests to the server.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093647Z" creationid="Nachec" creationdate="20221022T093647Z">
-        <seg>De esa manera, la caché puede reproducir el algoritmo y podrá entregar contenido aceptable directamente, sin más solicitudes al servidor.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064120Z" creationid="Nachec" creationdate="20221022T093647Z">
+        <seg>De esa manera, la caché puede reproducir el algoritmo y podrá entregar contenido aceptable directamente, sin más peticiones al servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50179,8 +50179,8 @@ que se puede utilizar para acceder a {{domxref("User-Agent Client Hints API")}}.
       <tuv lang="en-US">
         <seg>The CORS mechanism supports secure cross-origin requests and data transfers between browsers and servers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213026Z" creationid="gitnacho" creationdate="20221011T213026Z">
-        <seg>El mecanismo CORS admite solicitudes seguras de origen cruzado y transferencias de datos entre navegadores y servidores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064132Z" creationid="gitnacho" creationdate="20221011T213026Z">
+        <seg>El mecanismo CORS admite peticiones seguras de origen cruzado y transferencias de datos entre navegadores y servidores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52597,8 +52597,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The matching is done via URL and various headers, just like with normal HTTP requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T112801Z" creationid="gitnacho" creationdate="20220921T035341Z">
-        <seg>La coincidencia se realiza a través de URL y varias cabeceras, al igual que con las solicitudes HTTP normales.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064023Z" creationid="gitnacho" creationdate="20220921T035341Z">
+        <seg>La coincidencia se realiza a través de URL y varias cabeceras, al igual que con las peticiones HTTP normales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53537,8 +53537,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The typical [MSS](https://en.wikipedia.org/wiki/Maximum_segment_size) (Maximum Segment Size), is big enough to contain several simple requests, although the demand in size of HTTP requests continues to grow.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225142Z" creationid="gitnacho" creationdate="20221011T225142Z">
-        <seg>El típico [MSS](https://en.wikipedia.org/wiki/Maximum_segment_size) (Tamaño máximo del segmento) es lo suficientemente grande como para contener varias solicitudes simples, aunque la demanda de tamaño de las solicitudes HTTP continúa creciendo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064112Z" creationid="gitnacho" creationdate="20221011T225142Z">
+        <seg>El típico [MSS](https://en.wikipedia.org/wiki/Maximum_segment_size) (Tamaño máximo del segmento) es lo suficientemente grande como para contener varias peticiones simples, aunque la demanda de tamaño de las peticiones HTTP continúa creciendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53561,8 +53561,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The user agent appends the requested client hint headers, or at least the subset that it wants to share with that server, to all subsequent requests in the current browsing session.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212423Z" creationid="gitnacho" creationdate="20221012T092004Z">
-        <seg>El agente de usuario agrega las cabeceras de sugerencia de cliente solicitadas, o al menos el subconjunto que desea compartir con ese servidor, a todas las solicitudes posteriores en la sesión de navegación actual.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064057Z" creationid="gitnacho" creationdate="20221012T092004Z">
+        <seg>El agente de usuario agrega las cabeceras de sugerencia de cliente solicitadas, o al menos el subconjunto que desea compartir con ese servidor, a todas las peticiones posteriores en la sesión de navegación actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55038,8 +55038,8 @@ is the most efficient, optimized way to load wasm code.</seg>
       <tuv lang="en-US">
         <seg>This [cross-origin sharing standard](https://fetch.spec.whatwg.org/#http-cors-protocol) can enable cross-origin HTTP requests for:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T213305Z" creationid="gitnacho" creationdate="20221011T213103Z">
-        <seg>Este [estándar de usar el intercambio de recursos de origen cruzado](https://fetch.spec.whatwg.org/#http-cors-protocol) puede habilitar solicitudes HTTP de origen cruzado para:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064139Z" creationid="gitnacho" creationdate="20221011T213103Z">
+        <seg>Este [estándar de usar el intercambio de recursos de origen cruzado](https://fetch.spec.whatwg.org/#http-cors-protocol) puede habilitar peticiones HTTP de origen cruzado para:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57882,8 +57882,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To do this, we use Service Worker's storage API — {{domxref("cache")}} — a global object on the service worker that allows us to store assets delivered by responses, and keyed by their requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T000229Z" creationid="gitnacho" creationdate="20220921T034149Z">
-        <seg>Para hacer esto, usamos la API de almacenamiento de *Service Worker*: {{DOMxRef("cache")}} — un objeto global en *Service Worker* que nos permite almacenar los activos entregados por las respuestas y con clave de sus solicitudes.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064011Z" creationid="gitnacho" creationdate="20220921T034149Z">
+        <seg>Para hacer esto, usamos la API de almacenamiento de *Service Worker*: {{DOMxRef("cache")}} — un objeto global en *Service Worker* que nos permite almacenar los activos entregados por las respuestas y con clave de sus peticiones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60102,8 +60102,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When a client that supports client hints receives the `Accept-CH` header it can choose to append some or all of the listed client hint headers in its subsequent requests.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T212155Z" creationid="gitnacho" creationdate="20221012T091457Z">
-        <seg>Cuando un cliente que admite sugerencias de clientes recibe la cabecera `Accept-CH`, puede optar por agregar algunos o todas las cabeceras de sugerencias del cliente enumeradas en sus solicitudes posteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064052Z" creationid="gitnacho" creationdate="20221012T091457Z">
+        <seg>Cuando un cliente que admite sugerencias de clientes recibe la cabecera `Accept-CH`, puede optar por agregar algunos o todas las cabeceras de sugerencias del cliente enumeradas en sus peticiones posteriores.</seg>
       </tuv>
     </tu>
     <tu>
