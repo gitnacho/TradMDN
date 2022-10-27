@@ -2802,6 +2802,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### "Open" standards</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003745Z" creationid="Nachec" creationdate="20221027T003745Z">
+        <seg>### Estándares "abiertos"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### A network of networks</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T201232Z" creationid="Nachec" creationdate="20221025T201232Z">
@@ -35653,6 +35661,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because web technologies are created openly, in collaboration between many different companies, it means that no one company gets to control them, which is a really good thing.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003838Z" creationid="Nachec" creationdate="20221027T003838Z">
+        <seg>Debido a que las tecnologías web se crean abiertamente, en colaboración entre muchas empresas diferentes, significa que ninguna empresa las puede controlar, lo cual es algo realmente bueno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before attempting this assessment you should have already worked through</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T084954Z" creationid="Nachec" creationdate="20221021T084954Z">
@@ -46636,6 +46652,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One of the key aspects of web standards, which TimBL and the W3C agreed on from the start, is that the web (and web technologies) should be free to both contribute and use, and not encumbered by patents/licensing.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003805Z" creationid="Nachec" creationdate="20221027T003805Z">
+        <seg>Uno de los aspectos clave de los estándares web, que TimBL y el W3C acordaron desde el principio, es que la web (y las tecnologías web) deben ser libres tanto para contribuir como para usar, y no estar gravadas por patentes/licencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One over square root of two (display style):</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075054Z" creationid="Nachec" creationdate="20221021T075054Z">
@@ -49806,6 +49830,14 @@ that the server is unwilling to supply a default representation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T212102Z" creationid="gitnacho" creationdate="20221005T212102Z">
         <seg>La URL del documento para incrustar: esto es relativo a la organización MDN, cuyo directorio de nivel superior se encuentra en `https://mdn.github.io/`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The W3C is the best known web standards body, but there are others such as the [WHATWG](https://whatwg.org/) (who maintain the living standards for the HTML language), [ECMA](https://www.ecma-international.org/) (who publish the standard for ECMAScript, which JavaScript is based on), [Khronos](https://www.khronos.org/) (who publish technologies for 3D graphics, such as WebGL), and others.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003740Z" creationid="Nachec" creationdate="20221027T003740Z">
+        <seg>El W3C es el organismo de estándares web más conocido, pero hay otros como [WHATWG](https://whatwg.org/) (que fueron responsables de la modernización del lenguaje HTML), [ECMA](https://www.ecma-international.org/) (que publica el estándar para ECMAScript, en el que se basa JavaScript), [Khronos](https://www.khronos.org/) (que publica tecnologías para gráficos 3D, como WebGL) y otras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53789,6 +53821,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T070240Z" creationid="gitnacho" creationdate="20221004T070211Z">
         <seg>Hay mucho trabajo emocionante en este espacio; si deseas ayudar a mejorarlo aún más, consulta el [Grupo de trabajo de Rust WebAssembly](https://fitzgeraldnick.com/2018/02/27/wasm-domain-working-group.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore anyone can write the code to build a website for free, and anyone can contribute to the standards creation process, where the specs are written.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003821Z" creationid="Nachec" creationdate="20221027T003821Z">
+        <seg>Por lo tanto, cualquiera puede escribir el código para crear un sitio web de forma gratuita y cualquiera puede contribuir al proceso de creación de estándares, donde se escriben las especificaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58930,6 +58970,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web standards are created by standards bodies — institutions that invite groups of people from different technology companies to come together and agree on how the technologies should work in the best way to fulfill all of their use cases.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003714Z" creationid="Nachec" creationdate="20221027T003714Z">
+        <seg>Los estándares web son creados por organismos de estándares — instituciones que invitan a grupos de personas de diferentes compañías de tecnología a unirse y acordar cómo deberían funcionar las tecnologías de la mejor manera posible para cumplir con todos sus casos de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web technologies contain long lists of jargon and abbreviations that are used in documentation and coding.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T170342Z" creationid="Nachec" creationdate="20221022T170159Z">
@@ -61034,6 +61082,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T042324Z" creationid="gitnacho" creationdate="20220925T042324Z">
         <seg>No crearás otro Facebook de inmediato, pero no es difícil tener tu propio sitio web sencillo en línea, así que comenzaremos por ahí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You wouldn't want a single company suddenly deciding to put the entire web behind a paywall, or releasing a new version of HTML that everyone has to buy to continue making web sites, or worse still, just deciding they aren't interested any more and just turning it off.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003900Z" creationid="Nachec" creationdate="20221027T003900Z">
+        <seg>No querrías que una sola empresa decidiera repentinamente poner toda la web detrás de un muro de pago, o lanzar una nueva versión de HTML que todos tienen que comprar para continuar creando sitios web, o peor aún, simplemente decidiendo que ya no están interesados, y simplemente apagarlas.</seg>
       </tuv>
     </tu>
     <tu>
