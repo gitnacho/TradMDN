@@ -8918,8 +8918,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Indicates whether or not the response to the request can be exposed when the credentials flag is true.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231202Z" creationid="gitnacho" creationdate="20221017T210709Z">
-        <seg>- : Indica si la respuesta a la solicitud se puede exponer o no cuando el indicador de credenciales es `true`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065825Z" creationid="gitnacho" creationdate="20221017T210709Z">
+        <seg>- : Indica si la respuesta a la petición se puede exponer o no cuando el indicador de credenciales es `true`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9756,8 +9756,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Specifies the method or methods allowed when accessing the resource in response to a preflight request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221017T210749Z" creationid="gitnacho" creationdate="20221017T210749Z">
-        <seg>- : Especifica el método o los métodos permitidos al acceder al recurso en respuesta a una solicitud de verificación previa.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065900Z" creationid="gitnacho" creationdate="20221017T210749Z">
+        <seg>- : Especifica el método o los métodos permitidos al acceder al recurso en respuesta a una petición de preverificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10656,8 +10656,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T184942Z" creationid="gitnacho" creationdate="20221017T210735Z">
-        <seg>- : Se usa en respuesta a una solicitud de verificación previa para indicar qué cabeceras HTTP se pueden usar al realizar la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065846Z" creationid="gitnacho" creationdate="20221017T210735Z">
+        <seg>- : Se usa en respuesta a una petición de preverificación para indicar qué cabeceras HTTP se pueden usar al realizar la petición real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11975,8 +11975,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
       <tuv lang="en-US">
         <seg>- For {{HTTPHeader("Accept")}} and {{HTTPHeader("Content-Type")}}: can't contain a _CORS-unsafe request header byte_: `0x00-0x1F` (except for `0x09 (HT)`, which is allowed), `"():&lt;&gt;?@[\]{}`, and `0x7F (DEL)`.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172333Z" creationid="Nachec" creationdate="20221022T172333Z">
-        <seg>- Para {{HTTPHeader("Accept")}} y {{HTTPHeader("Content-Type")}}: no puede contener un byte de cabecera de solicitud _CORS-no seguro_: `0x00-0x1F` (excepto `0x09 (HT )`, que está permitido), `"():&lt;&gt;?@[\]{}` y `0x7F (DEL)`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065740Z" creationid="Nachec" creationdate="20221022T172333Z">
+        <seg>- Para {{HTTPHeader("Accept")}} y {{HTTPHeader("Content-Type")}}: no puede contener un byte de cabecera de petición _CORS-no seguro_: `0x00-0x1F` (excepto `0x09 (HT )`, que está permitido), `"():&lt;&gt;?@[\]{}` y `0x7F (DEL)`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20576,18 +20576,18 @@ browser-compat: api.Document.timeline
 - {{Glossary("Forbidden header name")}}
 - {{Glossary("Request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172015Z" creationid="Nachec" creationdate="20221022T171157Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065808Z" creationid="Nachec" creationdate="20221022T171157Z">
         <seg>- {{Glossary("CORS-safelisted response header", "Cabecera de respuesta incluida en la lista segura de CORS")}}
 - {{Glossary("Forbidden header name", "Cabecera de nombre prohibido — forbidden")}}
-- {{Glossary("Request header", "Cabecera de solicitud — request")}}</seg>
+- {{Glossary("Request header", "Cabecera de petición — request")}}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>- {{Glossary("CORS-safelisted_request_header", "CORS-safelisted request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T125624Z" creationid="Nachec" creationdate="20221022T125624Z">
-        <seg>- {{Glossary("CORS-safelisted_request_header", "Cabecera de solicitud incluida en la lista segura de CORS")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065813Z" creationid="Nachec" creationdate="20221022T125624Z">
+        <seg>- {{Glossary("CORS-safelisted_request_header", "Cabecera de petición incluida en la lista segura de CORS")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20674,8 +20674,8 @@ browser-compat: api.Document.timeline
       <tuv lang="en-US">
         <seg>- {{Glossary("Request header")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T162532Z" creationid="gitnacho" creationdate="20221017T211950Z">
-        <seg>- {{Glossary("Request header", "Cabecera de solicitud — request")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065819Z" creationid="gitnacho" creationdate="20221017T211950Z">
+        <seg>- {{Glossary("Request header", "Cabecera de petición — request")}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22598,9 +22598,9 @@ title: CORS-safelisted request header
 slug: Glossary/CORS-safelisted_request_header
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T185853Z" creationid="Nachec" creationdate="20221022T163217Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065721Z" creationid="Nachec" creationdate="20221022T163217Z">
         <seg>---
-title: Cabecera de solicitud incluida en la lista segura de CORS
+title: Cabecera de petición incluida en la lista segura de CORS
 slug: Glossary/CORS-safelisted_request_header
 rue: Nachec✓
 tags:</seg>
@@ -33650,8 +33650,8 @@ browser and can be efficiently [shared with Workers](/en-US/docs/Web/API/Worker/
       <tuv lang="en-US">
         <seg>A [CORS-safelisted request header](https://fetch.spec.whatwg.org/#cors-safelisted-request-header) is one of the following [HTTP headers](/en-US/docs/Web/HTTP/Headers):</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172148Z" creationid="Nachec" creationdate="20221022T172148Z">
-        <seg>Una [cabecera de solicitud incluida en la lista segura de CORS](https://fetch.spec.whatwg.org/#cors-safelisted-request-header) es una de las siguientes [cabeceras HTTP](/es/docs/Web/HTTP/Headers):</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065731Z" creationid="Nachec" creationdate="20221022T172148Z">
+        <seg>Una [cabecera de petición incluida en la lista segura de CORS](https://fetch.spec.whatwg.org/#cors-safelisted-request-header) es una de las siguientes [cabeceras HTTP](/es/docs/Web/HTTP/Headers):</seg>
       </tuv>
     </tu>
     <tu>
@@ -36669,8 +36669,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>CORS-safelisted headers must also fulfill the following requirements in order to be a CORS-safelisted request header:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T172303Z" creationid="Nachec" creationdate="20221022T172303Z">
-        <seg>Las cabeceras incluidas en la lista segura de CORS también deben cumplir los siguientes requisitos para ser una cabecera de solicitud incluida en la lista segura de CORS:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065736Z" creationid="Nachec" creationdate="20221022T172303Z">
+        <seg>Las cabeceras incluidas en la lista segura de CORS también deben cumplir los siguientes requisitos para ser una cabecera de petición incluida en la lista segura de CORS:</seg>
       </tuv>
     </tu>
     <tu>
