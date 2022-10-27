@@ -9239,8 +9239,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : Next we take a look at all the non-`&lt;input&gt;` form controls and associated tools, such as {{htmlelement('select')}}, {{htmlelement('textarea')}}, {{htmlelement('meter')}}, and {{htmlelement('progress')}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193133Z" creationid="Nachec" creationdate="20221027T193133Z">
-        <seg>- : A continuación, echamos un vistazo a todos los controles de formulario que no son `&lt;input&gt;` y las herramientas asociadas, como {{HTMNLElement('select')}}, {{HTMNLElement('textarea')}}, {{HTMNLElement('meter')}} y {{HTMNLElement('progress')}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193908Z" creationid="Nachec" creationdate="20221027T193133Z">
+        <seg>- : A continuación, echamos un vistazo a todos los controles de formulario que no son `&lt;input&gt;` y las herramientas asociadas, como {{HTMLElement('select')}}, {{HTMLElement('textarea')}}, {{HTMLElement('meter')}} y {{HTMLElement('progress')}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46084,8 +46084,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Mastering forms however requires more than just HTML knowledge — you also need to learn some specific techniques to style form controls, and some scripting knowledge is required to handle things like validation and creating custom form controls.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192700Z" creationid="Nachec" creationdate="20221027T192700Z">
-        <seg>Sin embargo, el dominio de los formularios requiere algo más que conocimientos de HTML: también debes aprender algunas técnicas específicas para aplicar estilo a los controles de formulario, y se requiere cierto conocimiento de scripts para manejar cosas como la validación y la creación de controles de formulario personalizados.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T194508Z" creationid="Nachec" creationdate="20221027T192700Z">
+        <seg>Sin embargo, el dominio de los formularios requiere algo más que conocimientos de HTML: también debes aprender algunas técnicas específicas para aplicar estilo a los controles de formulario, y se requiere cierto conocimiento de programación JavaScript para manejar cosas como la validación y la creación de controles de formulario personalizados.</seg>
       </tuv>
     </tu>
     <tu>
