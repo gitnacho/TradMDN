@@ -1208,6 +1208,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Brief history of the web</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T001641Z" creationid="Nachec" creationdate="20221027T001641Z">
+        <seg>## Breve historia de la web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Browser compatibility</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173901Z" creationid="gitnacho" creationdate="20220921T225436Z">
@@ -42258,6 +42266,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the late 1960s, the US military developed a communication network called [ARPANET](/en-US/docs/Glossary/Arpanet).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T001733Z" creationid="Nachec" creationdate="20221027T001733Z">
+        <seg>A fines de la década de 1960, las fuerzas armadas de EE. UU. desarrollaron una red de comunicación llamada {{Glossary("Arpanet")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the low-level memory model of WebAssembly, memory is represented as a contiguous range of untyped bytes called [Linear Memory](https://webassembly.github.io/spec/core/exec/index.html) that are read and written by [load and store instructions](https://webassembly.github.io/spec/core/exec/instructions.html#memory-instructions) inside the module.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T182007Z" creationid="gitnacho" creationdate="20221006T182007Z">
@@ -54594,6 +54610,14 @@ is the most efficient, optimized way to load wasm code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This article provides some useful background on the Web — how it came about, what web standard technologies are, how they work together, why "web developer" is a great career to choose, and what kinds of best practices you'll learn about through the course.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T001634Z" creationid="Nachec" creationdate="20221027T001634Z">
+        <seg>Este artículo proporciona algunos antecedentes útiles sobre la Web — cómo surgió, qué son las tecnologías web estándar, cómo funcionan juntas, por qué "desarrollador web" es una gran carrera para elegir y qué tipos de mejores prácticas aprenderás a través de este curso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This article teaches you what you'll need to know.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T111430Z" creationid="gitnacho" creationdate="20221006T111430Z">
@@ -58670,6 +58694,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204250Z" creationid="gitnacho" creationdate="20221005T204250Z">
         <seg>Hablaremos de cada uno en secciones posteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll keep this very brief, as there are many (more) detailed accounts of the web's history out there, which we'll link to later on (also try searching for "history of the web" in your favorite search engine and see what you get, if you are interested in more detail.)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T001707Z" creationid="Nachec" creationdate="20221027T001707Z">
+        <seg>Mantendremos esto muy breve, ya que hay muchos artículos (más) detallados de la historia de la web, a los que enlazaremos más adelante (también intenta buscar "historia de la web" en tu motor de búsqueda favorito y ve lo que obtienes, si estás interesado en más detalles).</seg>
       </tuv>
     </tu>
     <tu>
