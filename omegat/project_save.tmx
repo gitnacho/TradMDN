@@ -2466,8 +2466,8 @@
       <tuv lang="en-US">
         <seg>## The HTTP request headers</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213803Z" creationid="gitnacho" creationdate="20221012T060358Z">
-        <seg>## Las cabeceras de solicitud HTTP</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071044Z" creationid="gitnacho" creationdate="20221012T060358Z">
+        <seg>## Las cabeceras de petición HTTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,8 +2950,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Access-Control-Request-Method</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060632Z" creationid="gitnacho" creationdate="20221012T060632Z">
-        <seg>### Método de solicitud de control de acceso</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071056Z" creationid="gitnacho" creationdate="20221012T060632Z">
+        <seg>### Método de petición de control de acceso</seg>
       </tuv>
     </tu>
     <tu>
@@ -11419,9 +11419,9 @@ browser-compat: http.headers.Access-Control-Allow-Origin
         <seg>- Change the server-side behavior to avoid the preflight and/or to avoid the redirect
 - Change the request such that it is a [simple request](#simple_requests) that doesn't cause a preflight</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064517Z" creationid="gitnacho" creationdate="20221011T224941Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070941Z" creationid="gitnacho" creationdate="20221011T224941Z">
         <seg>- Cambiar el comportamiento de lado del servidor para evitar la preverificación y/o para evitar la redirección
-- Cambiar la solicitud para que sea una [solicitud simple](#peticiones_simples) que no cause una verificación previa</seg>
+- Cambiar la petición para que sea una [petición simple](#peticiones_simples) que no cause una verificación previa</seg>
       </tuv>
     </tu>
     <tu>
@@ -30936,8 +30936,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;td&gt;{{Glossary("Request header")}}&lt;/td&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T110837Z" creationid="Nachec" creationdate="20221022T110011Z">
-        <seg>&lt;td&gt;{{Glossary("Request header", "Cabecera de solicitud — request")}}&lt;/td&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071113Z" creationid="Nachec" creationdate="20221022T110011Z">
+        <seg>&lt;td&gt;{{Glossary("Request header", "Cabecera de petición — request")}}&lt;/td&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33224,8 +33224,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; Request requires preflight, which is disallowed to follow cross-origin redirects.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224825Z" creationid="gitnacho" creationdate="20221011T224825Z">
-        <seg>&gt; La solicitud requiere preverificación, que no está permitida para seguir redireccionamientos de origen cruzado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070936Z" creationid="gitnacho" creationdate="20221011T224825Z">
+        <seg>&gt; La petición requiere preverificación, que no está permitida para seguir redireccionamientos de origen cruzado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33256,8 +33256,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; The request was redirected to 'https\://example.com/foo', which is disallowed for cross-origin requests that require preflight.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064512Z" creationid="gitnacho" creationdate="20221011T224811Z">
-        <seg>&gt; La solicitud se redirigió a 'https\://ejemplo.com/foo', que no está permitido para peticiones de origen cruzado que requieren preverificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070935Z" creationid="gitnacho" creationdate="20221011T224811Z">
+        <seg>&gt; La petición se redirigió a 'https\://ejemplo.com/foo', que no está permitido para peticiones de origen cruzado que requieren preverificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35360,8 +35360,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>And you won't be able to work around it at all unless you have control over the server the request is being made to.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225930Z" creationid="gitnacho" creationdate="20221011T225930Z">
-        <seg>Y no la podrás evitar en absoluto a menos que tengas control sobre el servidor al que se realiza la solicitud.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071001Z" creationid="gitnacho" creationdate="20221011T225930Z">
+        <seg>Y no la podrás evitar en absoluto a menos que tengas control sobre el servidor al que se realiza la petición.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36325,8 +36325,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>But if a request does include a credential (like the `Cookie` header) and the response includes an actual origin rather than the wildcard (like, for example, `Access-Control-Allow-Origin: https://example.com`), then the browser will allow access to the response from the specified origin.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105635Z" creationid="gitnacho" creationdate="20221012T053358Z">
-        <seg>Pero si una solicitud incluye una credencial (como la cabecera `Cookie`) y la respuesta incluye un origen real en lugar del comodín (como, por ejemplo, `Access-Control-Allow-Origin: https://ejemplo.com`), entonces el navegador permitirá el acceso a la respuesta desde el origen especificado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071016Z" creationid="gitnacho" creationdate="20221012T053358Z">
+        <seg>Pero si una petición incluye una credencial (como la cabecera `Cookie`) y la respuesta incluye un origen real en lugar del comodín (como, por ejemplo, `Access-Control-Allow-Origin: https://ejemplo.com`), entonces el navegador permitirá el acceso a la respuesta desde el origen especificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37119,8 +37119,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Cookie in the request (line 10) may also be suppressed in normal third-party cookie policies.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053542Z" creationid="gitnacho" creationdate="20221012T053542Z">
-        <seg>La *cookie* en la solicitud (línea 10) también se puede suprimir en las políticas normales de *cookies* de terceros.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071017Z" creationid="gitnacho" creationdate="20221012T053542Z">
+        <seg>La *cookie* en la petición (línea 10) también se puede suprimir en las políticas normales de *cookies* de terceros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37417,8 +37417,8 @@ gestor de paquetes.</seg>
       <tuv lang="en-US">
         <seg>Developers using cross-origin {{domxref("XMLHttpRequest")}} capability do not have to set any cross-origin sharing request headers programmatically.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T083840Z" creationid="gitnacho" creationdate="20221012T060511Z">
-        <seg>Los desarrolladores que utilizan la capacidad {{DOMxRef("XMLHttpRequest")}} de origen cruzado no tienen que establecer ningún encabezado de solicitud de intercambio de recursos de origen cruzado mediante programación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071047Z" creationid="gitnacho" creationdate="20221012T060511Z">
+        <seg>Los desarrolladores que utilizan la capacidad {{DOMxRef("XMLHttpRequest")}} de origen cruzado no tienen que establecer ningún encabezado de petición de intercambio de recursos de origen cruzado mediante programación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38325,8 +38325,8 @@ a simple value):</seg>
       <tuv lang="en-US">
         <seg>Finally, {{HTTPHeader("Access-Control-Max-Age")}} gives the value in seconds for how long the response to the preflight request can be cached without sending another preflight request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224334Z" creationid="gitnacho" creationdate="20221011T224334Z">
-        <seg>Finalmente, {{HTTPHeader("Access-Control-Max-Age")}} proporciona el valor en segundos durante cuánto tiempo se puede almacenar en caché la respuesta a la solicitud de preverificación sin enviar otra solicitud de preverificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070924Z" creationid="gitnacho" creationdate="20221011T224334Z">
+        <seg>Finalmente, {{HTTPHeader("Access-Control-Max-Age")}} proporciona el valor en segundos durante cuánto tiempo se puede almacenar en caché la respuesta a la petición de preverificación sin enviar otra petición de preverificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38625,8 +38625,8 @@ a simple value):</seg>
       <tuv lang="en-US">
         <seg>For an example of a preflight request, see the above examples.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054109Z" creationid="gitnacho" creationdate="20221012T054109Z">
-        <seg>Para ver un ejemplo de una solicitud de preverificación, consulta los ejemplos anteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071027Z" creationid="gitnacho" creationdate="20221012T054109Z">
+        <seg>Para ver un ejemplo de una petición de preverificación, consulta los ejemplos anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39215,8 +39215,8 @@ portales para realizar tareas de administración empresarial y herramientas de c
       <tuv lang="en-US">
         <seg>For instance, an HTML page from Domain A (`http://domaina.example/`) makes a request for an image on Domain B (`http://domainb.foo/image.jpg`) via the `img` element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T063446Z" creationid="gitnacho" creationdate="20221012T063446Z">
-        <seg>Por ejemplo, una página HTML de un dominio A (`http://dominioa.ejemplo/`) hace una solicitud por una imagen en un dominio B (`http://dominiob.foo/imagen.jpg`) a través del elemento `img`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071118Z" creationid="gitnacho" creationdate="20221012T063446Z">
+        <seg>Por ejemplo, una página HTML de un dominio A (`http://dominioa.ejemplo/`) hace una petición por una imagen en un dominio B (`http://dominiob.foo/imagen.jpg`) a través del elemento `img`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40399,8 +40399,8 @@ la aplicación.</seg>
       <tuv lang="en-US">
         <seg>However, if the request is one that triggers a preflight due to the presence of the `Authorization` header in the request, you won't be able to work around the limitation using the steps above.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105528Z" creationid="gitnacho" creationdate="20221011T225913Z">
-        <seg>Sin embargo, si la solicitud desencadena una verificación previa debido a la presencia de la cabecera "Authorization" en la solicitud, no podrás evitar la limitación siguiendo los pasos anteriores.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070959Z" creationid="gitnacho" creationdate="20221011T225913Z">
+        <seg>Sin embargo, si la petición desencadena una verificación previa debido a la presencia de la cabecera "Authorization" en la petición, no podrás evitar la limitación siguiendo los pasos anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40752,16 +40752,16 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If a redirect occurs after such a request, some browsers currently will report an error message such as the following:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224751Z" creationid="gitnacho" creationdate="20221011T224751Z">
-        <seg>Si se produce una redirección después de dicha solicitud, algunos navegadores actualmente informarán un mensaje de error como el siguiente:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070933Z" creationid="gitnacho" creationdate="20221011T224751Z">
+        <seg>Si se produce una redirección después de dicha petición, algunos navegadores actualmente informarán un mensaje de error como el siguiente:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If a request includes a credential (most commonly a `Cookie` header) and the response includes an `Access-Control-Allow-Origin: *` header (that is, with the wildcard), the browser will block access to the response, and report a CORS error in the devtools console.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053336Z" creationid="gitnacho" creationdate="20221012T053336Z">
-        <seg>Si una solicitud incluye una credencial (por lo general, un encabezado `Cookie`) y la respuesta incluye un encabezado `Access-Control-Allow-Origin: *` (es decir, con el comodín), el navegador bloqueará el acceso a la respuesta e informará un error CORS en la consola de devtools.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071014Z" creationid="gitnacho" creationdate="20221012T053336Z">
+        <seg>Si una petición incluye una credencial (por lo general, un encabezado `Cookie`) y la respuesta incluye un encabezado `Access-Control-Allow-Origin: *` (es decir, con el comodín), el navegador bloqueará el acceso a la respuesta e informará un error CORS en la consola de devtools.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41187,8 +41187,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If the server specifies a single origin (that may dynamically change based on the requesting origin as part of an allowlist) rather than the "`*`" wildcard, then the server should also include `Origin` in the {{HTTPHeader("Vary")}} response header to indicate to clients that server responses will differ based on the value of the {{HTTPHeader("Origin")}} request header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105646Z" creationid="gitnacho" creationdate="20221012T053915Z">
-        <seg>Si el servidor especifica un solo origen (que puede cambiar dinámicamente según el origen solicitante como parte de una lista de permitidos) en lugar del comodín "`*`", entonces el servidor también debe incluir `Origin` en la cabecera de respuesta {{HTTPHeader("Vary")}} para indicar a los clientes que las respuestas del servidor diferirán según el valor del encabezado de solicitud {{HTTPHeader("Origin")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071022Z" creationid="gitnacho" creationdate="20221012T053915Z">
+        <seg>Si el servidor especifica un solo origen (que puede cambiar dinámicamente según el origen solicitante como parte de una lista de permitidos) en lugar del comodín "`*`", entonces el servidor también debe incluir `Origin` en la cabecera de respuesta {{HTTPHeader("Vary")}} para indicar a los clientes que las respuestas del servidor diferirán según el valor del encabezado de petición {{HTTPHeader("Origin")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45266,8 +45266,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Lines 12 - 21 above are the response that the server returns, which indicate that the request method (`POST`) and request headers (`X-PINGOTHER`) are acceptable.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213557Z" creationid="gitnacho" creationdate="20221011T223002Z">
-        <seg>Las líneas 12 a 21 anteriores son la respuesta que devuelve el servidor, que indican que el método de solicitud (`POST`) y las cabeceras de solicitud (`X-PINGOTHER`) son aceptables.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070916Z" creationid="gitnacho" creationdate="20221011T223002Z">
+        <seg>Las líneas 12 a 21 anteriores son la respuesta que devuelve el servidor, que indican que el método de petición (`POST`) y las cabeceras de petición (`X-PINGOTHER`) son aceptables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45466,8 +45466,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>Make another request (the _real_ request) using the URL you obtained from `Response.url` or `XMLHttpRequest.responseURL` in the first step.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T225815Z" creationid="gitnacho" creationdate="20221011T225815Z">
-        <seg>Realiza otra solicitud (la solicitud _real_) usando la URL que obtuviste de `Response.url` o `XMLHttpRequest.responseURL` en el primer paso.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070953Z" creationid="gitnacho" creationdate="20221011T225815Z">
+        <seg>Realiza otra petición (la petición _real_) usando la URL que obtuviste de `Response.url` o `XMLHttpRequest.responseURL` en el primer paso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46139,8 +46139,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>Not all browsers currently support following redirects after a preflighted request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224739Z" creationid="gitnacho" creationdate="20221011T224739Z">
-        <seg>Actualmente, no todos los navegadores admiten los siguientes redireccionamientos después de una solicitud preverificada.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070931Z" creationid="gitnacho" creationdate="20221011T224739Z">
+        <seg>Actualmente, no todos los navegadores admiten los siguientes redireccionamientos después de una petición preverificada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46233,8 +46233,8 @@ simple value.</seg>
       <tuv lang="en-US">
         <seg>Note that along with the OPTIONS request, two other request headers are sent (lines 9 and 10 respectively):</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213513Z" creationid="gitnacho" creationdate="20221011T222853Z">
-        <seg>Ten en cuenta que junto con la solicitud de `OPTIONS`, se envían otras dos cabeceras de solicitud (líneas 9 y 10 respectivamente):</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070859Z" creationid="gitnacho" creationdate="20221011T222853Z">
+        <seg>Ten en cuenta que junto con la petición de `OPTIONS`, se envían otras dos cabeceras de petición (líneas 9 y 10 respectivamente):</seg>
       </tuv>
     </tu>
     <tu>
@@ -46265,8 +46265,8 @@ simple value.</seg>
       <tuv lang="en-US">
         <seg>Note that in any access control request, the {{HTTPHeader("Origin")}} header is **always** sent.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105954Z" creationid="gitnacho" creationdate="20221012T060624Z">
-        <seg>Ten en cuenta que en cualquier solicitud de control de acceso, la cabecera {{HTTPHeader("Origin")}} se envía **siempre**.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071054Z" creationid="gitnacho" creationdate="20221012T060624Z">
+        <seg>Ten en cuenta que en cualquier petición de control de acceso, la cabecera {{HTTPHeader("Origin")}} se envía **siempre**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46321,8 +46321,8 @@ simple value.</seg>
       <tuv lang="en-US">
         <seg>Note that simple `GET` requests are not preflighted, and so if a request is made for a resource with credentials, if this header is not returned with the resource, the response is ignored by the browser and not returned to web content.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064633Z" creationid="gitnacho" creationdate="20221012T054230Z">
-        <seg>Ten en cuenta que las peticiones `GET` simples no tienen verificación previa, por lo que si se realiza una solicitud para un recurso con credenciales, si este encabezado no se devuelve con el recurso, el navegador ignora la respuesta y no se devuelve al contenido web.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071036Z" creationid="gitnacho" creationdate="20221012T054230Z">
+        <seg>Ten en cuenta que las peticiones `GET` simples no tienen verificación previa, por lo que si se realiza una petición para un recurso con credenciales, si este encabezado no se devuelve con el recurso, el navegador ignora la respuesta y no se devuelve al contenido web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46672,8 +46672,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Now the server has an opportunity to determine whether it can accept a request under these conditions.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222945Z" creationid="gitnacho" creationdate="20221011T222945Z">
-        <seg>Ahora el servidor tiene la oportunidad de determinar si puede aceptar una solicitud en estas condiciones.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070913Z" creationid="gitnacho" creationdate="20221011T222945Z">
+        <seg>Ahora el servidor tiene la oportunidad de determinar si puede aceptar una petición en estas condiciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47064,8 +47064,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>Once the preflight request is complete, the real request is sent:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T224417Z" creationid="gitnacho" creationdate="20221011T224417Z">
-        <seg>Una vez que se completa la solicitud de preverificación, se envía la solicitud real:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070928Z" creationid="gitnacho" creationdate="20221011T224417Z">
+        <seg>Una vez que se completa la petición de preverificación, se envía la petición real:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48679,8 +48679,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Since this is a simple `GET` request, it is not preflighted but the browser will **reject** any response that does not have the {{HTTPHeader("Access-Control-Allow-Credentials")}}`: true` header, and **not** make the response available to the invoking web content.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230557Z" creationid="gitnacho" creationdate="20221011T230557Z">
-        <seg>Dado que se trata de una simple solicitud `GET`, no tiene verificación previa, pero el navegador **rechazará** cualquier respuesta que no tenga un encabezado {{HTTPHeader("Access-Control-Allow-Credentials")}}`: true`, y **no** hará que la respuesta esté disponible para el contenido web que invoca.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071004Z" creationid="gitnacho" creationdate="20221011T230557Z">
+        <seg>Dado que se trata de una simple petición `GET`, no tiene verificación previa, pero el navegador **rechazará** cualquier respuesta que no tenga un encabezado {{HTTPHeader("Access-Control-Allow-Credentials")}}`: true`, y **no** hará que la respuesta esté disponible para el contenido web que invoca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49667,8 +49667,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>The **`Accept-Language`** request HTTP header indicates the natural language and locale that the client prefers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T105755Z" creationid="Nachec" creationdate="20221022T105755Z">
-        <seg>La cabecera de solicitud HTTP **`Accept-Language`** indica el idioma natural y la configuración regional que prefiere el cliente.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071115Z" creationid="Nachec" creationdate="20221022T105755Z">
+        <seg>La cabecera de petición HTTP **`Accept-Language`** indica el idioma natural y la configuración regional que prefiere el cliente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50270,8 +50270,8 @@ client error response code indicates that the server cannot produce a response m
 the list of acceptable values defined in the request's proactive [content negotiation](/en-US/docs/Web/HTTP/Content_negotiation) headers, and
 that the server is unwilling to supply a default representation.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221022T140717Z" creationid="Nachec" creationdate="20221022T140519Z">
-        <seg>El código de respuesta de error **`406 No Aceptable`** del cliente del Protocolo de Transferencia de Hipertexto (HTTP) indica que el servidor no puede producir una respuesta que coincida con la lista de valores aceptables definidos en la [negociación de contenido](/es/docs/Web/HTTP/Content_negotiation) proactiva de la solicitud y que el servidor no está dispuesto a proporcionar una representación predeterminada.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071120Z" creationid="Nachec" creationdate="20221022T140519Z">
+        <seg>El código de respuesta de error **`406 No Aceptable`** del cliente del Protocolo de Transferencia de Hipertexto (HTTP) indica que el servidor no puede producir una respuesta que coincida con la lista de valores aceptables definidos en la [negociación de contenido](/es/docs/Web/HTTP/Content_negotiation) proactiva de la petición y que el servidor no está dispuesto a proporcionar una representación predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50542,8 +50542,8 @@ that the server is unwilling to supply a default representation.</seg>
       <tuv lang="en-US">
         <seg>The _response_ to a preflight request must specify `Access-Control-Allow-Credentials: true` to indicate that the actual request can be made with credentials.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T230733Z" creationid="gitnacho" creationdate="20221011T230733Z">
-        <seg>La _respuesta_ a una solicitud de preverificación debe especificar `Access-Control-Allow-Credentials: true` para indicar que la solicitud real se puede realizar con credenciales.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071009Z" creationid="gitnacho" creationdate="20221011T230733Z">
+        <seg>La _respuesta_ a una petición de preverificación debe especificar `Access-Control-Allow-Credentials: true` para indicar que la petición real se puede realizar con credenciales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51152,8 +51152,8 @@ names custom section, for example:</seg>
       <tuv lang="en-US">
         <seg>The browser determines that it needs to send this based on the request parameters that the JavaScript code snippet above was using, so that the server can respond whether it is acceptable to send the request with the actual request parameters.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222811Z" creationid="gitnacho" creationdate="20221011T222811Z">
-        <seg>El navegador determina que necesita enviar esto en función de los parámetros de solicitud que estaba usando el fragmento de código JavaScript anterior, de modo que el servidor puede responder si es aceptable enviar la solicitud con los parámetros de solicitud reales.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070855Z" creationid="gitnacho" creationdate="20221011T222811Z">
+        <seg>El navegador determina que necesita enviar esto en función de los parámetros de petición que estaba usando el fragmento de código JavaScript anterior, de modo que el servidor puede responder si es aceptable enviar la petición con los parámetros de petición reales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51256,8 +51256,8 @@ names custom section, for example:</seg>
       <tuv lang="en-US">
         <seg>The client then returns the cookie's value with every request to the same server in the form of a `Cookie` request header.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T062858Z" creationid="gitnacho" creationdate="20221012T062858Z">
-        <seg>Posteriormente el cliente devuelve el valor de la *cookie* en cada petición al mismo servidor en forma de cabecera de solicitud `Cookie`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071117Z" creationid="gitnacho" creationdate="20221012T062858Z">
+        <seg>Posteriormente el cliente devuelve el valor de la *cookie* en cada petición al mismo servidor en forma de cabecera de petición `Cookie`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51394,8 +51394,8 @@ y devuelve su valor.</seg>
       <tuv lang="en-US">
         <seg>The conditions under which a request is preflighted are discussed above.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054436Z" creationid="gitnacho" creationdate="20221012T054436Z">
-        <seg>Las condiciones bajo las cuales se realiza una preverificación de una solicitud se analizan arriba.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071042Z" creationid="gitnacho" creationdate="20221012T054436Z">
+        <seg>Las condiciones bajo las cuales se realiza una preverificación de una petición se analizan arriba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52845,8 +52845,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The origin is a URL indicating the server from which the request is initiated.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060551Z" creationid="gitnacho" creationdate="20221012T060551Z">
-        <seg>El origen es una URL que indica el servidor desde el que se inicia la solicitud.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071053Z" creationid="gitnacho" creationdate="20221012T060551Z">
+        <seg>El origen es una URL que indica el servidor desde el que se inicia la petición.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53211,8 +53211,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The server also sends `Access-Control-Allow-Headers` with a value of "`X-PINGOTHER, Content-Type`", confirming that these are permitted headers to be used with the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213615Z" creationid="gitnacho" creationdate="20221011T223124Z">
-        <seg>El servidor también envía `Access-Control-Allow-Headers` con un valor de "`X-PINGOTHER, Content-Type`", lo cual confirma que estas son cabeceras permitidas para usarse con la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070918Z" creationid="gitnacho" creationdate="20221011T223124Z">
+        <seg>El servidor también envía `Access-Control-Allow-Headers` con un valor de "`X-PINGOTHER, Content-Type`", lo cual confirma que estas son cabeceras permitidas para usarse con la petición real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53769,8 +53769,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Allow-Credentials")}} header indicates whether or not the response to the request can be exposed when the `credentials` flag is true.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105850Z" creationid="gitnacho" creationdate="20221012T054152Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Allow-Credentials")}} indica si la respuesta a la solicitud se puede exponer o no cuando el indicador `credentials` es `true`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071030Z" creationid="gitnacho" creationdate="20221012T054152Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Allow-Credentials")}} indica si la respuesta a la petición se puede exponer o no cuando el indicador `credentials` es `true`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53801,48 +53801,48 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Max-Age")}} header indicates how long the results of a preflight request can be cached.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105833Z" creationid="gitnacho" creationdate="20221012T054053Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Max-Age")}} indica cuánto tiempo se pueden almacenar en caché los resultados de una solicitud de preverificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071025Z" creationid="gitnacho" creationdate="20221012T054053Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Max-Age")}} indica cuánto tiempo se pueden almacenar en caché los resultados de una petición de preverificación.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Headers")}} header is used when issuing a preflight request to let the server know what HTTP headers will be used when the actual request is made (such as with {{domxref("XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185128Z" creationid="gitnacho" creationdate="20221012T060848Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} se usa cuando se emite una solicitud de preverificación para que el servidor sepa qué cabeceras HTTP se usarán cuando se realice la solicitud real (como con {{DOMxRef( "XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071108Z" creationid="gitnacho" creationdate="20221012T060848Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} se usa cuando se emite una petición de preverificación para que el servidor sepa qué cabeceras HTTP se usarán cuando se realice la petición real (como con {{DOMxRef( "XMLHttpRequest.setRequestHeader()","setRequestHeader()")}}).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Headers")}} header notifies the server that when the actual request is sent, it will do so with `X-PINGOTHER` and `Content-Type` custom headers.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T213537Z" creationid="gitnacho" creationdate="20221011T222935Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} notifica al servidor que cuando se envíe la solicitud real, lo hará con las cabeceras personalizadas `X-PINGOTHER` y `Content-Type`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070910Z" creationid="gitnacho" creationdate="20221011T222935Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Headers")}} notifica al servidor que cuando se envíe la petición real, lo hará con las cabeceras personalizadas `X-PINGOTHER` y `Content-Type`.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Method")}} header notifies the server as part of a preflight request that when the actual request is sent, it will do so with a `POST` request method.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105459Z" creationid="gitnacho" creationdate="20221011T222918Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Method")}} notifica al servidor como parte de una solicitud de preverificación que cuando se envíe la solicitud real, lo hará con un método de solicitud `POST`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T070907Z" creationid="gitnacho" creationdate="20221011T222918Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Request-Method")}} notifica al servidor como parte de una petición de preverificación que cuando se envíe la petición real, lo hará con un método de petición `POST`.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Request-Method")}} is used when issuing a preflight request to let the server know what HTTP method will be used when the actual request is made.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060650Z" creationid="gitnacho" creationdate="20221012T060650Z">
-        <seg>El {{HTTPHeader("Access-Control-Request-Method")}} se usa cuando se emite una solicitud de preverificación para que el servidor sepa qué método HTTP se usará cuando se realice la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071100Z" creationid="gitnacho" creationdate="20221012T060650Z">
+        <seg>El {{HTTPHeader("Access-Control-Request-Method")}} se usa cuando se emite una petición de preverificación para que el servidor sepa qué método HTTP se usará cuando se realice la petición real.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Origin")}} header indicates the origin of the cross-origin access request or preflight request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T105943Z" creationid="gitnacho" creationdate="20221012T060541Z">
-        <seg>La cabecera {{HTTPHeader("Origin")}} indica el origen de la solicitud de acceso de origen cruzado o solicitud de preverificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071050Z" creationid="gitnacho" creationdate="20221012T060541Z">
+        <seg>La cabecera {{HTTPHeader("Origin")}} indica el origen de la petición de acceso de origen cruzado o petición de preverificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56677,8 +56677,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This is used in response to a preflight request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054411Z" creationid="gitnacho" creationdate="20221012T054411Z">
-        <seg>Esto se utiliza en respuesta a una solicitud de preverificación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071041Z" creationid="gitnacho" creationdate="20221012T054411Z">
+        <seg>Esto se utiliza en respuesta a una petición de preverificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60302,8 +60302,8 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       <tuv lang="en-US">
         <seg>When responding to a credentialed request:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T053140Z" creationid="gitnacho" creationdate="20221012T053140Z">
-        <seg>Al responder a una solicitud acreditada:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071011Z" creationid="gitnacho" creationdate="20221012T053140Z">
+        <seg>Al responder a una petición acreditada:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60412,8 +60412,8 @@ función exportada desde su interior.</seg>
       <tuv lang="en-US">
         <seg>When used as part of a response to a preflight request, this indicates whether or not the actual request can be made using credentials.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054210Z" creationid="gitnacho" creationdate="20221012T054210Z">
-        <seg>Cuando se usa como parte de una respuesta a una solicitud de preverificación, indica si la solicitud real se puede realizar o no con credenciales.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071034Z" creationid="gitnacho" creationdate="20221012T054210Z">
+        <seg>Cuando se usa como parte de una respuesta a una petición de preverificación, indica si la petición real se puede realizar o no con credenciales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74899,8 +74899,8 @@ tags:</seg>
       <tuv lang="en-US">
         <seg>this reservation request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215414Z" creationid="gitnacho" creationdate="20221019T215414Z">
-        <seg>esta solicitud de reserva.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071124Z" creationid="gitnacho" creationdate="20221019T215414Z">
+        <seg>esta petición de reserva.</seg>
       </tuv>
     </tu>
     <tu>
