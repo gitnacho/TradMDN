@@ -3110,8 +3110,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Advanced Topics</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223826Z" creationid="Nachec" creationdate="20221027T223826Z">
-        <seg>### Advanced Topics</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T224251Z" creationid="Nachec" creationdate="20221027T223826Z">
+        <seg>### Temas avanzados</seg>
       </tuv>
     </tu>
     <tu>
@@ -16518,6 +16518,18 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193533Z" creationid="Nachec" creationdate="20221027T193533Z">
         <seg>- [Cómo crear controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- [How to build custom form controls](/en-US/docs/Learn/Forms/How_to_build_custom_form_controls)
+- [Sending forms through JavaScript](/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript)
+- [Property compatibility table for form widgets](/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T224418Z" creationid="Nachec" creationdate="20221027T224418Z">
+        <seg>- [Cómo crear controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls)
+- [Enviar formularios a través de JavaScript](/es/docs/Learn/Forms/Sending_forms_through_JavaScript)
+- [Tabla de compatibilidad de propiedades CSS para controles de formulario](/es/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
       </tuv>
     </tu>
     <tu>
