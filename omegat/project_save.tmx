@@ -35128,8 +35128,8 @@ distribution does not provide dedicated packages for these fonts.</seg>
       <tuv lang="en-US">
         <seg>An example of a {{Glossary("preflight request")}} is given above, including an example which sends this header to the browser.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T054515Z" creationid="gitnacho" creationdate="20221012T054515Z">
-        <seg>Arriba se proporciona un ejemplo de una {{Glossary("Solicitud de preverificación")}}, que incluye un ejemplo que envía este encabezado al navegador.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065142Z" creationid="gitnacho" creationdate="20221012T054515Z">
+        <seg>Arriba se proporciona un ejemplo de una {{Glossary("preflight request", "Petición de preverificación")}}, que incluye un ejemplo que envía este encabezado al navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53777,8 +53777,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTTPHeader("Access-Control-Allow-Headers")}} header is used in response to a {{Glossary("preflight request")}} to indicate which HTTP headers can be used when making the actual request.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221026T185116Z" creationid="gitnacho" creationdate="20221012T060329Z">
-        <seg>La cabecera {{HTTPHeader("Access-Control-Allow-Headers")}} se usa en respuesta a una {{Glossary("preflight request")}} para indicar qué cabeceras HTTP se pueden usar al realizar la solicitud real.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T065232Z" creationid="gitnacho" creationdate="20221012T060329Z">
+        <seg>La cabecera {{HTTPHeader("Access-Control-Allow-Headers")}} se usa en respuesta a una {{Glossary("preflight request", "petición de preverificación")}} para indicar qué cabeceras HTTP se pueden usar al realizar la petición real.</seg>
       </tuv>
     </tu>
     <tu>
