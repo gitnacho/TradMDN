@@ -29066,6 +29066,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/fieldset&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181234Z" creationid="Nachec" creationdate="20221028T181234Z">
+        <seg>&lt;/fieldset&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/fieldset&gt;
 &lt;/form&gt;
 ```</seg>
@@ -30511,6 +30519,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;h2&gt;Contact information&lt;/h2&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181137Z" creationid="Nachec" creationdate="20221028T181137Z">
+        <seg>&lt;h2&gt;Información de contacto&lt;/h2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;head&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20180622T094230Z" creationid="nacho" creationdate="20180622T094230Z">
@@ -30803,6 +30819,46 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="email" id="mail" name="usermail" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181318Z" creationid="Nachec" creationdate="20221028T181318Z">
+        <seg>&lt;input type="email" id="mail" name="usermail" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="password" id="pwd" name="password" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181337Z" creationid="Nachec" creationdate="20221028T181337Z">
+        <seg>&lt;input type="password" id="pwd" name="password" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="title_1" name="title" value="K" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181200Z" creationid="Nachec" creationdate="20221028T181200Z">
+        <seg>&lt;input type="radio" id="title_1" name="title" value="K" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="title_2" name="title" value="Q" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181209Z" creationid="Nachec" creationdate="20221028T181209Z">
+        <seg>&lt;input type="radio" id="title_2" name="title" value="Q" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="title_3" name="title" value="J" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181219Z" creationid="Nachec" creationdate="20221028T181219Z">
+        <seg>&lt;input type="radio" id="title_3" name="title" value="J" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="radio" name="size" id="size_1" value="small" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172623Z" creationid="Nachec" creationdate="20221028T172623Z">
@@ -30831,6 +30887,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080627Z" creationid="Nachec" creationdate="20221028T080627Z">
         <seg>&lt;input type="text" id="name" name="user_name" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="text" id="name" name="username" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181258Z" creationid="Nachec" creationdate="20221028T181258Z">
+        <seg>&lt;input type="text" id="name" name="username" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30867,6 +30931,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="mail"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181301Z" creationid="Nachec" creationdate="20221028T181301Z">
+        <seg>&lt;label for="mail"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="mail"&gt;E-mail:&lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080636Z" creationid="Nachec" creationdate="20221028T080636Z">
@@ -30883,6 +30955,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="name"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181235Z" creationid="Nachec" creationdate="20221028T181235Z">
+        <seg>&lt;label for="name"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="name"&gt;Name:&lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080619Z" creationid="Nachec" creationdate="20221028T080619Z">
@@ -30895,6 +30975,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T072034Z" creationid="gitnacho" creationdate="20221002T072034Z">
         <seg>&lt;label for="pizza"&gt;Pizza&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="pwd"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181319Z" creationid="Nachec" creationdate="20221028T181319Z">
+        <seg>&lt;label for="pwd"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30963,6 +31051,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="title_1"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181157Z" creationid="Nachec" creationdate="20221028T181157Z">
+        <seg>&lt;label for="title_1"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="title_2"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181206Z" creationid="Nachec" creationdate="20221028T181206Z">
+        <seg>&lt;label for="title_2"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="title_3"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181214Z" creationid="Nachec" creationdate="20221028T181214Z">
+        <seg>&lt;label for="title_3"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="username"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174611Z" creationid="Nachec" creationdate="20221028T174611Z">
@@ -31017,6 +31129,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215057Z" creationid="Nachec" creationdate="20221027T215057Z">
         <seg>&lt;legend&gt;Preferencias de frutas&lt;/legend&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;legend&gt;Title&lt;/legend&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181152Z" creationid="Nachec" creationdate="20221028T181152Z">
+        <seg>&lt;legend&gt;Título&lt;/legend&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32415,6 +32535,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;section&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181129Z" creationid="Nachec" creationdate="20221028T181129Z">
+        <seg>&lt;section&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;select id="select" name="select"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220604Z" creationid="Nachec" creationdate="20221027T220604Z">
@@ -32439,10 +32567,34 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;span&gt;E-mail: &lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181312Z" creationid="Nachec" creationdate="20221028T181312Z">
+        <seg>&lt;Span&gt;Correo electrónico:&lt;/ span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;span&gt;Name: &lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181247Z" creationid="Nachec" creationdate="20221028T181247Z">
+        <seg>&lt;span&gt;Nombre:&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;span&gt;Name:&lt;/span&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174622Z" creationid="Nachec" creationdate="20221028T174622Z">
         <seg>&lt;span&gt;Nombre:&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;span&gt;Password: &lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181331Z" creationid="Nachec" creationdate="20221028T181331Z">
+        <seg>&lt;span&gt;Contraseña:&lt;/span&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32459,6 +32611,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061317Z" creationid="Nachec" creationdate="20221021T061317Z">
         <seg>&lt;strong id="status"&gt;&lt;/strong&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;&lt;span aria-label="required"&gt;*&lt;/span&gt;&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181254Z" creationid="Nachec" creationdate="20221028T181254Z">
+        <seg>&lt;strong&gt;&lt;span aria-label="required"&gt;*&lt;/span&gt;&lt;/strong&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36630,6 +36790,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T175533Z" creationid="Nachec" creationdate="20221023T175533Z">
         <seg>Ahora añade el siguiente código al archivo `main.js`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add this code to your form:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181128Z" creationid="Nachec" creationdate="20221028T181128Z">
+        <seg>Añade este código a tu formulario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47851,6 +48019,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Joker</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181232Z" creationid="Nachec" creationdate="20221028T181232Z">
+        <seg>Bufón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just like `data` sections can be used to initialize regions of linear memory with bytes, `elem` sections can be used to initialize regions of tables with functions:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T072031Z" creationid="gitnacho" creationdate="20221007T072031Z">
@@ -47911,6 +48087,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T183553Z" creationid="Nachec" creationdate="20221023T183553Z">
         <seg>Mantén esto en mente mientras aprendes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>King</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181204Z" creationid="Nachec" creationdate="20221028T181204Z">
+        <seg>Rey</seg>
       </tuv>
     </tu>
     <tu>
@@ -51109,6 +51293,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T055306Z" creationid="gitnacho" creationdate="20221007T055306Z">
         <seg>Juntando esto con lo que ya hemos aprendido, finalmente podemos definir un módulo que contenga nuestra propia función simple:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Queen</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181213Z" creationid="Nachec" creationdate="20221028T181213Z">
+        <seg>Reina</seg>
       </tuv>
     </tu>
     <tu>
@@ -63144,6 +63336,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220128Z" creationid="Nachec" creationdate="20221027T220128Z">
         <seg>También agregamos algunas sombras uniformes y esquinas redondeadas a los controles en los que tenía sentido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We also have two standard text {{htmlelement("input")}}s and their associated {{htmlelement("label")}} elements, each contained inside a {{htmlelement("p")}}, and a password input for entering a password.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181115Z" creationid="Nachec" creationdate="20221028T181115Z">
+        <seg>También hay dos entradas de texto estándar {{HTMLElement("input")}} y sus elementos {{HTMLElement("label")}} asociados, cada uno anidado dentro de un elemento {{HTMLElement("p")}} y una entrada de texto para introducir una contraseña.</seg>
       </tuv>
     </tu>
     <tu>
