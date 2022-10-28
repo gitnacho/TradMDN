@@ -29019,6 +29019,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/ul&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080656Z" creationid="Nachec" creationdate="20221028T080656Z">
+        <seg>&lt;/ul&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/ul&gt;`,</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T193439Z" creationid="Nachec" creationdate="20221021T193439Z">
@@ -32098,6 +32110,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T121918Z" creationid="gitnacho" creationdate="20221003T121918Z">
         <seg>&lt;td&gt;{{no_tag_omission}}&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;textarea id="msg" name="user_message"&gt;&lt;/textarea&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080654Z" creationid="Nachec" creationdate="20221028T080654Z">
+        <seg>&lt;textarea id="msg" name="user_message"&gt;&lt;/textarea&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40935,6 +40955,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For usability and accessibility, we include an explicit label for each form control.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080746Z" creationid="Nachec" creationdate="20221028T080746Z">
+        <seg>Por motivos de usabilidad y accesibilidad incluimos una etiqueta explícita para cada control de formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For web developers who want to try WebAssembly without needing to learn the details of C or Rust, staying in the comfort of a familiar language like TypeScript, AssemblyScript will be the best option.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T091023Z" creationid="gitnacho" creationdate="20221003T091023Z">
@@ -48300,6 +48328,14 @@ changed.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note the use of the [`for`](/en-US/docs/Web/HTML/Attributes/for) attribute on all {{HTMLelement("label")}} elements, which takes as its value the [`id`](/en-US/docs/Web/HTML/Global_attributes/id) of the form control with which it is associated — this is how you associate a form control with its label.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080855Z" creationid="Nachec" creationdate="20221028T080855Z">
+        <seg>Ten en cuenta el uso del atributo [`for`](/es/docs/Web/HTML/Attributes/for) en todos los elementos {{HTMLelement("label")}}, que toma como valor el [`id`](/es/docs/Web/HTML/Global_attributes/id) del control de formulario con el que está asociado; así es como asocias un formulario con su etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note: Since an {{jsxref("ArrayBuffer")}}'s byteLength is immutable, after a successful [`Memory.prototype.grow()`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/grow) operation the buffer getter will return a new ArrayBuffer object (with the new byteLength) and any previous ArrayBuffer objects become "detached", or disconnected from the underlying memory they previously pointed to.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T210724Z">
@@ -48884,6 +48920,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190400Z" creationid="Nachec" creationdate="20221025T190400Z">
         <seg>En el extremo opuesto del camino, está el servidor, que es una tienda en la que deseas comprar algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the {{HTMLelement("input")}} element, the most important attribute is the `type` attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081045Z" creationid="Nachec" creationdate="20221028T081045Z">
+        <seg>En el elemento {{HTMLelement("input")}}, el atributo más importante es `type`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55817,6 +55861,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The {{HTMLelement("li")}} elements are there to conveniently structure our code and make styling easier (see later in the article).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080732Z" creationid="Nachec" creationdate="20221028T080732Z">
+        <seg>Los elementos {{HTMLelement("li")}} están ahí para estructurar nuestro código convenientemente y facilitar la aplicación de estilo (ve más adelante en el artículo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The {{HTTPHeader("Accept")}} header lists the MIME types of media resources that the agent is willing to process.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092213Z" creationid="Nachec" creationdate="20221022T092213Z">
@@ -56433,6 +56485,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082853Z" creationid="gitnacho" creationdate="20221005T082853Z">
         <seg>Actualmente no hay forma de saber la diferencia entre un archivo vacío y uno inexistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is great benefit to doing this — it associates the label with the form control, enabling mouse, trackpad, and touch device users to click on the label to activate the corresponding control, and it also provides an accessible name for screen readers to read out to their users.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081003Z" creationid="Nachec" creationdate="20221028T081003Z">
+        <seg>Hacer esto presenta muchas ventajas porque la etiqueta está asociada al control del formulario y permite que los usuarios con ratón, panel táctil y dispositivos táctiles hagan clic en la etiqueta para activar el control correspondiente, y también proporciona accesibilidad con un nombre que los lectores de pantalla leen a sus usuarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57522,6 +57582,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214457Z" creationid="Nachec" creationdate="20221021T214457Z">
         <seg>Este atributo y el elemento {{MathMLElement("style")}} tienen principalmente el propósito de permitir un estilizado rápido, por ejemplo, con fines de prueba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This attribute is extremely important because it defines the way the {{HTMLelement("input")}} element appears and behaves.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081102Z" creationid="Nachec" creationdate="20221028T081102Z">
+        <seg>Este atributo es muy importante porque define la forma en que el elemento {{HTMLelement("input")}} aparece y se comporta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60959,6 +61027,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Update your form code to look like the above.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080710Z" creationid="Nachec" creationdate="20221028T080710Z">
+        <seg>Actualiza el código de tu formulario para que se vea como el anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usage: `\{{Optional_Inline}}` or `\{{ReadOnlyInline}}`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T114005Z" creationid="gitnacho" creationdate="20221005T114005Z">
@@ -64206,6 +64282,208 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045859Z" creationid="Nachec" creationdate="20221027T045859Z">
         <seg>Encontrarás los siguientes conceptos en algún momento de tus estudios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll find further details of form labels in [How to structure a web form](/en-US/docs/Learn/Forms/How_to_structure_a_web_form).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081030Z" creationid="Nachec" creationdate="20221028T081030Z">
+        <seg>Encontrarás más detalles sobre las etiquetas de los formularios en [Cómo estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_an_HTML_form).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll find more about this in the [Basic native form controls](/en-US/docs/Learn/Forms/Basic_native_form_controls) article later on.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081231Z" creationid="Nachec" creationdate="20221028T081231Z">
+        <seg>Encontrarás más información sobre esto en el artículo sobre [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls) más adelante.
+
+- En nuestro ejemplo sencillo, usamos el valor {{HTMLelement("input/text")}} para la primera entrada, el valor predeterminado para este atributo. Representa un campo de texto básico de una sola línea que acepta cualquier tipo de entrada de texto.
+- Para la segunda entrada, usamos el valor {{HTMLelement("input/email")}}, que define un campo de texto de una sola línea que solo acepta una dirección de correo electrónico. Esto convierte un campo de texto básico en una especie de campo «inteligente» que efectúa algunas comprobaciones de validación de los datos que el usuario escribe. También hace que aparezca un diseño de teclado más apropiado para introducir direcciones de correo electrónico (por ejemplo, con un símbolo @ por defecto) en dispositivos con teclados dinámicos, como teléfonos inteligentes. Encontrarás más información sobre la validación de formularios en el artículo de [Validación de formularios por parte del cliente](/es/docs/Learn/HTML/Forms/Validacion_formulario_datos) más adelante.
+
+Por último, pero no por ello menos importante, ten en cuenta la sintaxis de `&lt;input&gt;` en contraposición con la de `&lt;textarea&gt;&lt;/textarea&gt;`. Esta es una de las rarezas del HTML. La etiqueta `&lt;input&gt;` es un elemento vacío, lo que significa que no necesita una etiqueta de cierre. El elemento {{HTMLElement("textarea")}} no es un elemento vacío, lo que significa que debe cerrarse con la etiqueta de cierre adecuada. Esto tiene un impacto en una característica específica de los formularios: el modo en que defines el valor predeterminado. Para definir el valor predeterminado de un elemento {{HTMLElement("input")}}, debes usar el atributo [`value`](/es/docs/Web/HTML/Attributes/value) de esta manera:
+
+```html
+&lt;input type="text" value="por defecto este elemento se llena con este texto"&gt;
+```
+
+Por otro lado, si deseas definir un valor predeterminado para un elemento {{HTMLElement("textarea")}}, lo colocas entre las etiquetas de apertura y cierre del elemento {{HTMLElement("textarea")}}, así:
+
+```html
+&lt;textarea&gt;
+Por defecto, este elemento contiene este texto
+&lt;/textarea&gt;
+```
+
+### El elemento {{HTMLelement("button")}}
+
+El marcado de nuestro formulario está casi completo; solo necesitamos añadir un botón para permitir que el usuario envíe sus datos una vez que haya completado el formulario. Esto se hace con el elemento {{HTMLelement("button")}}; añade lo siguiente justo encima de la etiqueta de cierre `&lt;/form&gt;`:
+
+```html
+&lt;li class="button"&gt;
+  &lt;button type="submit"&gt;Envíe su mensaje&lt;/button&gt;
+&lt;/li&gt;
+```
+
+El elemento {{htmlelement("button")}} también acepta un atributo de `type`, que a su vez acepta uno de estos tres valores: `submit`, `reset` o `button`.
+
+- Un clic en un botón `submit` (el valor predeterminado) envía los datos del formulario a la página web definida por el atributo `action` del elemento {{HTMLelement("form")}}.
+- Un clic en un botón `reset` restablece de inmediato todos los controles de formulario a su valor predeterminado. Desde el punto de vista de UX, esto se considera una mala práctica, por lo que debes evitar usar este tipo de botones a menos que realmente tengas una buena razón para incluirlos.
+- Un clic en un botón `button` no hace... ¡nada! Eso suena tonto, pero es muy útil para crear botones personalizados: puedes definir su función con JavaScript.
+
+&gt; **Nota:** También puedes usar el elemento {{HTMLElement("input")}} con el atributo `type` correspondiente para generar un botón, por ejemplo `&lt;input type="submit"&gt;`. La ventaja principal del elemento {{HTMLelement("button")}} es que el elemento {{HTMLelement("input")}} solo permite texto sin formato en su etiqueta, mientras que el elemento {{HTMLelement("button")}} permite contenido HTML completo, lo que permite generar botones creativos más complejos.
+
+## Aplicar estilo básico a un formulario
+
+Ahora que has terminado de escribir el código HTML de tu formulario, guárdalo y observa lo que ocurre en un navegador. Por ahora, se verá bastante feo.
+
+&gt; **Nota:** Si crees que no has escrito bien el código HTML, compáralo con nuestro ejemplo final: véase [first-form.html](https://github.com/mdn/learning-area/blob/master/html/forms/your-first-HTML-form/first-form.html) ([ver en vivo](https://mdn.github.io/learning-area/html/forms/your-first-HTML-form/first-form.html)).
+
+Resulta notablemente difícil aplicar estilo a los formularios. Está más allá del alcance de este artículo enseñarte cómo aplicar estilo a los formularios en detalle, por lo que por el momento solo vamos a exponer cómo añadir un poco de CSS para que se vea un poco bien.
+
+En primer lugar, añade un elemento {{htmlelement("style")}} a tu página, dentro de la cabecera del HTML. Debe quedar así:
+
+```html
+&lt;style&gt;
+
+&lt;/style&gt;
+```
+
+Dentro de las etiquetas `style`, añade el código CSS siguiente:
+
+```css
+form {
+  /* Centrar el formulario en la página */
+  margin: 0 auto;
+  width: 400px;
+  /* Esquema del formulario */
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+form li + li {
+  margin-top: 1em;
+}
+
+label {
+  /* Tamaño y alineación uniforme */
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+
+input,
+textarea {
+  /* Para asegurarse de que todos los campos de texto tienen la misma configuración de letra
+     Por defecto, las áreas de texto tienen un tipo de letra monoespaciada */
+  font: 1em sans-serif;
+
+  /* Tamaño uniforme del campo de texto */
+  width: 300px;
+  box-sizing: border-box;
+
+  /* Hacer coincidir los bordes del campo del formulario */
+  border: 1px solid #999;
+}
+
+input:focus,
+textarea:focus {
+  /* Destacado adicional para elementos que tienen el cursor */
+  border-color: #000;
+}
+
+textarea {
+  /* Alinear los campos de texto multilínea con sus etiquetas */
+  vertical-align: top;
+
+  /* Proporcionar espacio para escribir texto */
+  height: 5em;
+}
+
+.button {
+  /* Alinear los botones con los campos de texto */
+  padding-left: 90px; /* mismo tamaño que los elementos de la etiqueta */
+}
+
+button {
+  /* Este margen adicional representa aproximadamente el mismo espacio que el espacio
+     entre las etiquetas y sus campos de texto */
+  margin-left: .5em;
+}
+```
+
+Guarda y vuelve a cargar, y observa que tu formulario presenta un aspecto mucho menos feo.
+
+&gt; **Nota:** Puedes encontrar nuestra versión en GitHub en [first-form-styled.html](https://github.com/mdn/learning-area/blob/master/html/forms/your-first-HTML-form/first-form-styled.html) ([ver en vivo](https://mdn.github.io/learning-area/html/forms/your-first-HTML-form/first-form-styled.html)).
+
+## Enviar los datos del formulario a un servidor web
+
+La última parte, y quizás la más complicada, es manejar los datos del formulario en el lado del servidor. El elemento {{HTMLelement("form")}} define dónde y cómo enviar los datos gracias a los atributos [`action`](/es/docs/Web/HTML/Attributes/action) y [`method`](/es/docs/Web/HTML/Attributes/method).
+
+Proporcionamos un nombre ([`name`](/es/docs/Web/HTML/Attributes/name)) a cada control de formulario. Los nombres son importantes tanto en el lado del cliente como del servidor; le dicen al navegador qué nombre debe dar a cada dato y, en el lado del servidor, dejan que el servidor maneje cada dato por su nombre. Los datos del formulario se envían al servidor como pares de nombre/valor.
+
+Para poner nombre a los diversos datos que se introducen en un formulario, debes usar el atributo `name` en cada control de formulario que recopila un dato específico. Veamos de nuevo algunos de nuestros códigos de formulario:
+
+```html
+&lt;form action="/my-handling-form-page" method="post"&gt;
+ &lt;ul&gt;
+  &lt;li&gt;
+    &lt;label for="name"&gt;Nombre:&lt;/label&gt;
+    &lt;input type="text" id="name" name="user_name" /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;label for="mail"&gt;Correo electrónico:&lt;/label&gt;
+    &lt;input type="email" id="mail" name="user_email" /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;label for="msg"&gt;Mensaje:&lt;/label&gt;
+    &lt;textarea id="msg" name="user_message"&gt;&lt;/textarea&gt;
+  &lt;/li&gt;
+
+  ...
+```
+
+En nuestro ejemplo, el formulario envía tres datos denominados «`user_name`», «`user_email`» y «`user_message`». Esos datos se envían a la URL «`/my-handling-form-page`» utilizando el método [`post` de HTTP](/es/docs/Web/HTTP/Methods/POST).
+
+En el lado del servidor, la secuencia de comandos de la URL «`/my-handling-form-page`» recibe los datos como una lista de tres elementos clave/valor contenidos en la solicitud HTTP. La forma en que este script maneja esos datos depende de ti. Cada lenguaje de servidor (PHP, Python, Ruby, Java, C#, etc.) tiene su propio mecanismo de manipulación de datos de formulario. No profundizaremos sobre el tema en esta guía, pero si deseas obtener más información, proporcionamos algunos ejemplos en nuestro artículo [Enviar los datos de un formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data) que encontrarás más adelante.
+
+## Resumen
+
+¡Enhorabuena!, has creado tu primer formulario web. Debería verse así:
+
+{{ EmbedLiveSample('A_simple_form', '100%', '240', '', 'Learn/Forms/Your_first_form/Example') }}
+
+Pero esto es solo el comienzo: ahora ha llegado el momento de profundizar en el tema. Los formularios tienen mucho más potencial de lo que hemos visto aquí y los artículos siguientes de este módulo te ayudarán a dominarlo.
+
+{{NextMenu("Learn/Forms/How_to_structure_a_web_form", "Learn/Forms")}}
+
+## En este módulo
+
+- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
+- [Cómo estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
+- [Los controles de formulario básicos originales](/es/docs/Learn/Forms/Basic_native_form_controls)
+- [Los tipos de entrada en HTML5](/es/docs/Learn/Forms/HTML5_input_types)
+- [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
+- [Aplicación de estilo a formularios web](/es/docs/Learn/Forms/Styling_web_forms)
+- [Aplicación de estilo a formularios avanzada](/es/docs/Learn/Forms/Advanced_form_styling)
+- [Pseudoclases UI](/es/docs/Learn/Forms/UI_pseudo-classes)
+- [Validación del formulario del lado del cliente](/es/docs/Learn/Forms/Form_validation)
+- [Enviar los datos de un formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)
+
+### Temas avanzados
+
+- [Cómo construir controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls)
+- [Enviar formularios a través de JavaScript](/es/docs/Learn/Forms/Sending_forms_through_JavaScript)
+- [Tabla de compatibilidad para las propiedades de los controles de formulario](/es/docs/Learn/Forms/Property_compatibility_table_for_form_widgets)
+To gain familiarity with what web forms are, what they are used for, how</seg>
       </tuv>
     </tu>
     <tu>
