@@ -17769,6 +17769,30 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Your first HTML form](/en-US/docs/Learn/Forms/Your_first_form)
+- [How to structure an HTML form](/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+- [The native form widgets](/en-US/docs/Learn/Forms/Basic_native_form_controls)
+- [HTML5 input types](/en-US/docs/Learn/Forms/HTML5_input_types)
+- [Additional form controls](/en-US/docs/Learn/Forms/Other_form_controls)
+- [UI pseudo-classes](/en-US/docs/Learn/Forms/UI_pseudo-classes)
+- [Styling HTML forms](/en-US/docs/Learn/Forms/Styling_web_forms)
+- [Form data validation](/en-US/docs/Learn/Forms/Form_validation)
+- [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T082705Z" creationid="Nachec" creationdate="20221028T082705Z">
+        <seg>- [Tu primer formulario HTML](/es/docs/Learn/Forms/Your_first_form)
+- [How to structure an HTML form](/es/docs/Learn/Forms/How_to_structure_a_web_form)
+- [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
+- [HTML5 input types](/es/docs/Learn/Forms/HTML5_input_types)
+- [Additional form controls](/es/docs/Learn/Forms/Other_form_controls)
+- [UI pseudo-classes](/es/docs/Learn/Forms/UI_pseudo-classes)
+- [Styling HTML forms](/es/docs/Learn/Forms/Styling_web_forms)
+- [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
+- [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Your first form](/en-US/docs/Learn/Forms/Your_first_form)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192836Z" creationid="Nachec" creationdate="20221027T192836Z">
@@ -23626,9 +23650,9 @@ title: Client-side form validation
 slug: Learn/Forms/Form_validation
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T202920Z" creationid="Nachec" creationdate="20221027T202920Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T082430Z" creationid="Nachec" creationdate="20221027T202920Z">
         <seg>---
-title: Client-side form validation
+title: Validación de formularios de lado del cliente
 slug: Learn/Forms/Form_validation
 tags:</seg>
       </tuv>
