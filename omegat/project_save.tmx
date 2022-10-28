@@ -23294,9 +23294,9 @@ title: Basic native form controls
 slug: Learn/Forms/Basic_native_form_controls
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T011206Z" creationid="Nachec" creationdate="20221028T011206Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081536Z" creationid="Nachec" creationdate="20221028T011206Z">
         <seg>---
-title: Basic native form controls
+title: Controles de formulario nativos básicos
 slug: Learn/Forms/Basic_native_form_controls
 tags:</seg>
       </tuv>
@@ -38937,6 +38937,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T103759Z" creationid="Nachec" creationdate="20221023T103759Z">
         <seg>No utilices elementos de encabezado para hacer el texto más grande o más oscuro, porque este elemento se utiliza por [accesibilidad](/es/docs/Learn/Accessibility/HTML#contenido_del_texto) y otras [razones como el posicionamiento en buscadores](/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#¿por_qué_necesitamos_estructura) (_Search Engine Optimization, SEO_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't worry about this for now; you'll find out how they work in the next article ([Basic native form controls](/en-US/docs/Learn/Forms/Basic_native_form_controls)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081640Z" creationid="Nachec" creationdate="20221028T081640Z">
+        <seg>Por ahora, no te preocupes por esto; descubrirás cómo funcionan en el siguiente artículo ([Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)).</seg>
       </tuv>
     </tu>
     <tu>
