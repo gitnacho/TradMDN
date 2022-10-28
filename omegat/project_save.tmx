@@ -12029,6 +12029,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Controls</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093819Z" creationid="Nachec" creationdate="20221028T093819Z">
+        <seg>- Controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Creating new memory and table instances via the [`WebAssembly.Memory()`](/en-US/docs/WebAssembly/JavaScript_interface/Memory)/[`WebAssembly.Table()`](/en-US/docs/WebAssembly/JavaScript_interface/Table) constructors.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221009T004647Z" creationid="gitnacho" creationdate="20221009T003624Z">
@@ -15731,6 +15739,16 @@ browser-compat: javascript.builtins.WebAssembly.Tag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Widgets
+---</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093828Z" creationid="Nachec" creationdate="20221028T093828Z">
+        <seg>- Widgets
+---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Windows: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Chrome](https://www.google.com/chrome/), [Opera](https://www.opera.com/), [Microsoft Edge](https://www.microsoft.com/edge), [Brave](https://brave.com) (Windows 10 comes with Edge by default; otherwise, you should install an alternative browser).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T164116Z" creationid="gitnacho" creationdate="20221012T164116Z">
@@ -17912,12 +17930,12 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093728Z" creationid="Nachec" creationdate="20221028T082018Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093942Z" creationid="Nachec" creationdate="20221028T082018Z">
         <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
 - [Los tipos `input` de HTML5](/es/docs/Learn/Forms/HTML5_input_types)
-- [Other form controls](/es/docs/Learn/Forms/Other_form_controls)
+- [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
 - [Styling web forms](/es/docs/Learn/Forms/Styling_web_forms)
 - [Advanced form styling](/es/docs/Learn/Forms/Advanced_form_styling)
 - [UI pseudo-classes](/es/docs/Learn/Forms/UI_pseudo-classes)
@@ -24816,6 +24834,20 @@ tags:</seg>
 title: Origen
 slug: Glossary/Origin
 rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Other form controls
+slug: Learn/Forms/Other_form_controls
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093818Z" creationid="Nachec" creationdate="20221028T093818Z">
+        <seg>---
+title: Otros controles de formulario
+slug: Learn/Forms/Other_form_controls
 tags:</seg>
       </tuv>
     </tu>
@@ -42583,6 +42615,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, other form controls, including other types of {{HTMLElement("input")}} elements, are explicitly listed as non-replaced elements (the spec describes their default platform-specific rendering with the term "Widgets").</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094052Z" creationid="Nachec" creationdate="20221028T094052Z">
+        <seg>Sin embargo, otros controles de formulario, incluidos otros tipos de elementos {{HTMLElement("input")}}, se enumeran explícitamente como elementos no reemplazados (la especificación describe su representación predeterminada específica de la plataforma con el término "*Widgets*").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, some of them have no spacing added before while the parentheses still have no spacing around them.&lt;/li&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T195050Z" creationid="Nachec" creationdate="20221021T193430Z">
@@ -53740,6 +53780,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093509Z" creationid="Nachec" creationdate="20221028T093509Z">
         <seg>El objetivo de esta prueba de habilidades es evaluar si entendiste nuestro artículo [Cómo estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The aim of this skill test is to assess whether you've understood our [Other form controls](/en-US/docs/Learn/Forms/Other_form_controls) article.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093920Z" creationid="Nachec" creationdate="20221028T093920Z">
+        <seg>El objetivo de esta prueba de habilidad es evaluar si has entendido nuestro artículo [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls).</seg>
       </tuv>
     </tu>
     <tu>
@@ -80957,6 +81005,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T200047Z" creationid="Nachec" creationdate="20221027T200047Z">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/Advanced_form_styling", "Learn/Forms/Form_validation", "Learn/Forms")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/HTML5_input_types","Learn/Forms/Styling_web_forms", "Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093846Z" creationid="Nachec" creationdate="20221028T093846Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/HTML5_input_types","Learn/Forms/Styling_web_forms", "Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
