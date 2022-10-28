@@ -34820,6 +34820,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Warning:** It's strictly forbidden to nest a form inside another form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155726Z" creationid="Nachec" creationdate="20221028T155726Z">
+        <seg>&gt; **Advertencia:** Está estrictamente prohibido anidar un formulario dentro de otro formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Warning:** Never call `document.write()` from an async script.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T192353Z" creationid="gitnacho" creationdate="20221003T134740Z">
@@ -43729,6 +43737,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you do so, by default that control has nothing to do with any form unless you associate it with a form using its [`form`](/en-US/docs/Web/HTML/Element/input#form) attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155846Z" creationid="Nachec" creationdate="20221028T155846Z">
+        <seg>Si lo haces, de manera predeterminada, ese control no tiene nada que ver con ningún formulario, a menos que lo asocies a algún formulario con el atributo [`form`](/es/docs/Web/HTML/Element/input#form).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you don't, the existing code will clash with the new code you are about to add.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192705Z" creationid="Nachec" creationdate="20221023T192705Z">
@@ -46952,6 +46968,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's always possible to use a form control outside of a {{HTMLElement("form")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155754Z" creationid="Nachec" creationdate="20221028T155754Z">
+        <seg>Siempre es posible usar controles de formulario fuera de un elemento {{HTMLElement ("form")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's an address made of a series of four numbers separated by dots, for example: `192.168.2.10`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T202210Z" creationid="Nachec" creationdate="20221025T202210Z">
@@ -47688,6 +47712,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's move forward and cover the structural elements you'll find nested in a form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155907Z" creationid="Nachec" creationdate="20221028T155907Z">
+        <seg>A continuación vamos a exponer los elementos estructurales que encontrarás en un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's provide a default fallback so that whatever happens, the user will at least get something:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040448Z" creationid="gitnacho" creationdate="20220921T040448Z">
@@ -48128,6 +48160,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Many assistive technologies and browser plugins can discover {{HTMLElement("form")}} elements and implement special hooks to make them easier to use.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155707Z" creationid="Nachec" creationdate="20221028T155707Z">
+        <seg>Muchas tecnologías de asistencia y complementos del navegador pueden descubrir elementos {{HTMLElement ("form")}} e implementar código de apoyo (`hooks`) especiales para que sean más fáciles de usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many computers, particularly web servers, are case-sensitive.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233658Z" creationid="Nachec" creationdate="20221023T044030Z">
@@ -48515,6 +48555,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080650Z" creationid="gitnacho" creationdate="20221002T080650Z">
         <seg>Los thenables anidados se "aplanarán profundamente" en una sola promesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nesting can cause forms to behave in an unpredictable manner, so it is a bad idea.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155743Z" creationid="Nachec" creationdate="20221028T155743Z">
+        <seg>Anidar formularios no es una buena idea porque puede ocasionar comportamientos impredecibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60720,6 +60768,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This was introduced to let you explicitly bind a control with a form even if it is not nested inside it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155858Z" creationid="Nachec" creationdate="20221028T155858Z">
+        <seg>Esto se introdujo para permitir vincular explícitamente un control a un formulario, incluso si este no está dentro de él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This welcome message will persist.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193825Z" creationid="Nachec" creationdate="20221023T193652Z">
@@ -62305,6 +62361,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223731Z" creationid="gitnacho" creationdate="20221018T223731Z">
         <seg>Todos hemos encallado, sin importar que seamos desarrolladores web principiantes o profesionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We already met this in the previous article.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155714Z" creationid="Nachec" creationdate="20221028T155714Z">
+        <seg>Ya lo vimos en el artículo anterior.</seg>
       </tuv>
     </tu>
     <tu>
