@@ -55283,6 +55283,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The names are important on both the client- and server-side; they tell the browser which name to give each piece of data and, on the server side, they let the server handle each piece of data by name.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090427Z" creationid="Nachec" creationdate="20221028T090427Z">
+        <seg>The names are important on both the client- and server-side; they tell the browser which name to give each piece of data and, on the server side, they let the server handle each piece of data by name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The net result of this is that the `callByIndex` function invokes the `$i`'th function in the table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T080654Z" creationid="gitnacho" creationdate="20221007T072840Z">
@@ -62239,8 +62247,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>We provide a `name` attribute for each form control.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090248Z" creationid="Nachec" creationdate="20221028T090248Z">
-        <seg>Proporcionamos un nombre ([`name`](/es/docs/Web/HTML/Attributes/name)) a cada control de formulario.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092138Z" creationid="Nachec" creationdate="20221028T090248Z">
+        <seg>Proporcionamos un atributo `name` a cada control de formulario.</seg>
       </tuv>
     </tu>
     <tu>
