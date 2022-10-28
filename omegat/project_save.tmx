@@ -16321,6 +16321,34 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Form constraint validation](/en-US/docs/Web/Guide/HTML/Constraint_validation)
+- [Your first HTML form](/en-US/docs/Learn/Forms/Your_first_form)
+- [How to structure an HTML form](/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+- [The native form widgets](/en-US/docs/Learn/Forms/Basic_native_form_controls)
+- [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
+- [Form data validation](/en-US/docs/Learn/Forms/Form_validation)
+- [How to build custom form widgets](/en-US/docs/Learn/Forms/How_to_build_custom_form_controls)
+- [HTML forms in legacy browsers](/en-US/docs/Learn/Forms/HTML_forms_in_legacy_browsers)
+- [Styling HTML forms](/en-US/docs/Learn/Forms/Styling_web_forms)
+- [Advanced styling for HTML forms](/en-US/docs/Learn/Forms/Advanced_form_styling)
+- [CSS property compatibility table](/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084116Z" creationid="Nachec" creationdate="20221028T084116Z">
+        <seg>- [Form constraint validation](/es/docs/Web/Guide/HTML/Constraint_validation)
+- [Tu primer formulario HTML](/es/docs/Learn/Forms/Your_first_form)
+- [How to structure an HTML form](/es/docs/Learn/Forms/How_to_structure_a_web_form)
+- [The native form widgets](/es/docs/Learn/Forms/Basic_native_form_controls)
+- [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)
+- [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
+- [How to build custom form widgets](/es/docs/Learn/Forms/How_to_build_custom_form_controls)
+- [HTML forms in legacy browsers](/es/docs/Learn/Forms/HTML_forms_in_legacy_browsers)
+- [Styling HTML forms](/es/docs/Learn/Forms/Styling_web_forms)
+- [Advanced styling for HTML forms](/es/docs/Learn/Forms/Advanced_form_styling)
+- [CSS property compatibility table](/es/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Fractions and roots](/en-US/docs/Learn/MathML/First_steps/Fractions_and_roots)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T083919Z" creationid="Nachec" creationdate="20221021T083919Z">
@@ -64010,6 +64038,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T091109Z" creationid="gitnacho" creationdate="20221005T115836Z">
         <seg>Puedes usar el argumento `notservice` para indicar que una característica funciona en *web workers*, excepto en *service workers*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the {{htmlattrxref("pattern", "input")}} attribute to specify a regular expression that the inputted value must follow to be considered valid (see [Validating against a regular expression](/en-US/docs/Learn/Forms/Form_validation#validating_against_a_regular_expression) for a simple crash course).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083857Z" creationid="Nachec" creationdate="20221028T083857Z">
+        <seg>Puedes usar el atributo {{HTMLAttrxRef("pattern", "input")}} para especificar una expresión regular que el valor ingresado debe seguir para que se considere válido (consulta [Validar contra una expresión regular](/es/docs /Learn/Forms/Form_validation#validar_contra_una_expresión_regular) para un curso acelerado simple).</seg>
       </tuv>
     </tu>
     <tu>
