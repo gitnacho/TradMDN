@@ -1232,6 +1232,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Basic form styling</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085424Z" creationid="Nachec" creationdate="20221028T085424Z">
+        <seg>## Aplicar estilo básico a un formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Basics</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T064906Z" creationid="gitnacho" creationdate="20221005T064906Z">
@@ -33457,6 +33465,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** If you don't think you've got the HTML code right, try comparing it with our finished example — see [first-form.html](https://github.com/mdn/learning-area/blob/main/html/forms/your-first-HTML-form/first-form.html) ([also see it live](https://mdn.github.io/learning-area/html/forms/your-first-HTML-form/first-form.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085533Z" creationid="Nachec" creationdate="20221028T085533Z">
+        <seg>&gt; **Nota:** Si crees que no has escrito bien el código HTML, compáralo con nuestro ejemplo final: consulta [first-form.html](https://github.com/mdn/learning-area/blob/master/html/forms/your-first-HTML-form/first-form.html) (Lo puedes [ver en vivo](https://mdn.github.io/learning-area/html/forms/your-first-HTML-form/first-form.html)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** If you try to open generated HTML file (`hello.html`) directly from your local hard drive (e.g. `file://your_path/hello.html`), you will end up with an error message along the lines of _`both async and sync fetching of the wasm failed`._ You need to run your HTML file through an HTTP server (`http://`) — see [How do you set up a local testing server?](/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server) for more information.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T110415Z" creationid="gitnacho" creationdate="20221003T110415Z">
@@ -34113,6 +34129,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T183905Z" creationid="Nachec" creationdate="20221021T081636Z">
         <seg>&gt; **Nota:** También puedes usar el comando **Insert → HTML** para pegar cualquier contenido de MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** You can also use the {{HTMLElement("input")}} element with the corresponding `type` to produce a button, for example `&lt;input type="submit"&gt;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085328Z" creationid="Nachec" creationdate="20221028T085328Z">
+        <seg>&gt; **Nota:** También puedes usar el elemento {{HTMLElement("input")}} con el atributo `type` correspondiente para generar un botón, por ejemplo `&lt;input type="submit"&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37288,6 +37312,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the moment, you'll see that it looks rather ugly.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085445Z" creationid="Nachec" creationdate="20221028T085445Z">
+        <seg>Por ahora, se verá bastante feo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the time of writing (June 2020) this is at an early stage, and the only multi-value instructions available are calls to functions that themselves return multiple values.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T080232Z" creationid="gitnacho" creationdate="20221007T080232Z">
@@ -39971,6 +40003,14 @@ a simple value):</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First of all, add a {{htmlelement("style")}} element to your page, inside your HTML head.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085627Z" creationid="Nachec" creationdate="20221028T085627Z">
+        <seg>En primer lugar, añade un elemento {{HTMLElement("style")}} a tu página, dentro de la cabecera del HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First of all, open up your hello3.html file in a text editor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T112218Z" creationid="gitnacho" creationdate="20221003T112218Z">
@@ -41185,6 +41225,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021907Z" creationid="Nachec" creationdate="20221028T012608Z">
         <seg>Los formularios permiten a los usuarios la introducción de datos, que generalmente se envían a un servidor web para su procesamiento y almacenamiento (consulta [Enviar los datos de un formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data) más adelante en el módulo), o se usan en el lado del cliente para provocar de alguna manera una actualización inmediata de la interfaz (por ejemplo, se añade otro elemento a una lista, o se muestra u oculta una función de interfaz de usuario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forms are notoriously tricky to style nicely.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085542Z" creationid="Nachec" creationdate="20221028T085542Z">
+        <seg>Resulta notablemente difícil aplicar estilo a los formularios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45919,6 +45967,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is beyond the scope of this article to teach you form styling in detail, so for the moment we will just get you to add some CSS to make it look OK.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085606Z" creationid="Nachec" creationdate="20221028T085606Z">
+        <seg>Está más allá del alcance de este artículo enseñarte cómo aplicar estilo a los formularios en detalle, por lo que por el momento solo vamos a exponer cómo añadir un poco de CSS para que se vea un poco mejor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is critical to provide a nonce that cannot be guessed as bypassing a resource's policy is otherwise trivial.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T125244Z" creationid="gitnacho" creationdate="20221003T125244Z">
@@ -48794,6 +48850,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184642Z" creationid="Nachec" creationdate="20221021T184642Z">
         <seg>Ahora que tienes una mejor idea de MathML, nos centraremos en los contenedores de texto (variables, números, operadores, ...) que se utilizan como componentes básicos de las fórmulas de MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that you have finished writing your form's HTML code, try saving it and looking at it in a browser.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085437Z" creationid="Nachec" creationdate="20221028T085437Z">
+        <seg>Ahora que has terminado de escribir el código HTML de tu formulario, guárdalo y observa lo que ocurre en un navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54919,6 +54983,14 @@ se llaman asíncronamente.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T104939Z" creationid="gitnacho" creationdate="20221005T104939Z">
         <seg>Las macros son fáciles de usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main advantage of the {{HTMLelement("button")}} element is that the {{HTMLelement("input")}} element only allows plain text in its label whereas the {{HTMLelement("button")}} element allows full HTML content, allowing more complex, creative button content.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085414Z" creationid="Nachec" creationdate="20221028T085414Z">
+        <seg>La ventaja principal del elemento {{HTMLElement("button")}} es que el elemento {{HTMLElement("input")}} solo permite texto sin formato en su etiqueta, mientras que el elemento {{HTMLElement("button")}} permite contenido HTML completo, lo que permite generar botones creativos más complejos.</seg>
       </tuv>
     </tu>
     <tu>
