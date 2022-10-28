@@ -26373,6 +26373,14 @@ celda 4 | celda 5 | celda 6
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.button {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085923Z" creationid="Nachec" creationdate="20221028T085923Z">
+        <seg>.button {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>.catch(() =&gt; {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220806T055332Z" creationid="nachec" creationdate="20220806T055332Z">
@@ -26661,10 +26669,50 @@ celda 4 | celda 5 | celda 6
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>/* Additional highlight for focused elements */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085856Z" creationid="Nachec" creationdate="20221028T085856Z">
+        <seg>/* Destacado adicional para elementos que tienen el cursor */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/* Adjusts the position of the checkboxes on the text baseline */</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T004954Z" creationid="Nachec" creationdate="20221027T215220Z">
         <seg>/* Ajusta la posición de las casillas de verificación en la línea base del texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Align buttons with the text fields */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085938Z" creationid="Nachec" creationdate="20221028T085938Z">
+        <seg>/* Alinea los botones con los campos de texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Align multiline text fields with their labels */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085911Z" creationid="Nachec" creationdate="20221028T085911Z">
+        <seg>/* Alinea los campos de texto multilínea con sus etiquetas */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Center the form on the page */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085707Z" creationid="Nachec" creationdate="20221028T085707Z">
+        <seg>/* Centrar el formulario en la página */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Form outline */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085719Z" creationid="Nachec" creationdate="20221028T085719Z">
+        <seg>/* Esquema del formulario */</seg>
       </tuv>
     </tu>
     <tu>
@@ -26701,10 +26749,50 @@ example.js:41 getArg 0 : 42
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>/* Match form field borders */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085844Z" creationid="Nachec" creationdate="20221028T085844Z">
+        <seg>/* Hace coincidir los bordes del campo del formulario */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Provide space to type some text */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085921Z" creationid="Nachec" creationdate="20221028T085921Z">
+        <seg>/* Proporciona espacio para escribir texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/* Set here so that Windows' High-Contrast Mode can override */</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215227Z" creationid="Nachec" creationdate="20221027T215227Z">
         <seg>/* Establecer aquí para que el modo de alto contraste de Windows pueda anularse */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To make sure that all text fields have the same font settings</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085800Z" creationid="Nachec" creationdate="20221028T085800Z">
+        <seg>/* Para asegurarse de que todos los campos de texto tienen la misma configuración de letra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Uniform size &amp; alignment */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085737Z" creationid="Nachec" creationdate="20221028T085737Z">
+        <seg>/* Tamaño y alineación uniforme */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* Uniform text field size */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085830Z" creationid="Nachec" creationdate="20221028T085830Z">
+        <seg>/* Tamaño uniforme del campo de texto */</seg>
       </tuv>
     </tu>
     <tu>
@@ -38139,6 +38227,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, textareas have a monospace font */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085820Z" creationid="Nachec" creationdate="20221028T085820Z">
+        <seg>De manera predeterminada, las áreas de texto tienen un tipo de letra monoespaciada */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, the formula will be rendered inline, with extra adjustments to minimize its height.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T074926Z" creationid="Nachec" creationdate="20221021T074926Z">
@@ -45290,6 +45386,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inside the `style` tags, add the following CSS:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085657Z" creationid="Nachec" creationdate="20221028T085657Z">
+        <seg>Dentro de las etiquetas `style`, añade el siguiente código CSS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inside this first folder, create another folder to store your first website in.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T043935Z" creationid="Nachec" creationdate="20221023T043935Z">
@@ -46331,6 +46435,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T211016Z" creationid="Nachec" creationdate="20221020T211016Z">
         <seg>Comparte algunas similitudes con el operador ternario en otros lenguajes (por ejemplo, `false ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It should look like so:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085636Z" creationid="Nachec" creationdate="20221028T085636Z">
+        <seg>Debe quedar así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66379,6 +66491,16 @@ meter {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```css
+form {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085658Z" creationid="Nachec" creationdate="20221028T085658Z">
+        <seg>```css
+form {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css
 h1 {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142857Z" creationid="Nachec" creationdate="20221023T142857Z">
@@ -67085,6 +67207,16 @@ p {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T134013Z" creationid="gitnacho" creationdate="20221003T134013Z">
         <seg>```html
 &lt;script&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;style&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085636Z" creationid="Nachec" creationdate="20221028T085636Z">
+        <seg>```html
+&lt;style&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -71246,6 +71378,16 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border-color: #000;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085857Z" creationid="Nachec" creationdate="20221028T085857Z">
+        <seg>border-color: #000;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>border-color: black;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215252Z" creationid="Nachec" creationdate="20221027T215252Z">
@@ -71258,6 +71400,16 @@ math [id] .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225120Z" creationid="Nachec" creationdate="20221021T225120Z">
         <seg>border-radius: 10px 10%;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>border-radius: 1em;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085722Z" creationid="Nachec" creationdate="20221028T085722Z">
+        <seg>border-radius: 1em;
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -71296,6 +71448,24 @@ math [id] .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222030Z" creationid="Nachec" creationdate="20221027T222030Z">
         <seg>border: 0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>border: 1px solid #999;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085845Z" creationid="Nachec" creationdate="20221028T085845Z">
+        <seg>border: 1px solid #999;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>border: 1px solid #ccc;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085722Z" creationid="Nachec" creationdate="20221028T085722Z">
+        <seg>border: 1px solid #ccc;</seg>
       </tuv>
     </tu>
     <tu>
@@ -74519,6 +74689,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font: 1em sans-serif;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085821Z" creationid="Nachec" creationdate="20221028T085821Z">
+        <seg>font: 1em sans-serif;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>font: `font-cache-v${CACHE_VERSION}`,
 };</seg>
       </tuv>
@@ -74605,6 +74783,14 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215854Z" creationid="Nachec" creationdate="20221027T215854Z">
         <seg>form &gt; div {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>form li + li {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085725Z" creationid="Nachec" creationdate="20221028T085725Z">
+        <seg>form li + li {</seg>
       </tuv>
     </tu>
     <tu>
@@ -74969,6 +75155,16 @@ math .highlight {</seg>
         <seg>height: 30px;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>height: 5em;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085922Z" creationid="Nachec" creationdate="20221028T085922Z">
+        <seg>height: 5em;
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -75683,6 +75879,26 @@ console.log(currentMemoryView); // Uint8Array(131072) [ 0, 0, 0, ... ]
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>input,
+textarea {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085739Z" creationid="Nachec" creationdate="20221028T085739Z">
+        <seg>input,
+textarea {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>input:focus,
+textarea:focus {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085846Z" creationid="Nachec" creationdate="20221028T085846Z">
+        <seg>input:focus,
+textarea:focus {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>input[type="checkbox"] {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205241Z" creationid="Nachec" creationdate="20221027T205241Z">
@@ -76125,6 +76341,14 @@ select {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>list-style: none;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085724Z" creationid="Nachec" creationdate="20221028T085724Z">
+        <seg>list-style: none;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>local.get $errorValueArg</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023343Z" creationid="gitnacho" creationdate="20221008T023343Z">
@@ -76259,6 +76483,16 @@ select {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>margin-top: 1em;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085727Z" creationid="Nachec" creationdate="20221028T085727Z">
+        <seg>margin-top: 1em;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>margin: 0 auto;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141934Z" creationid="Nachec" creationdate="20221023T141934Z">
@@ -76283,6 +76517,16 @@ select {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T142857Z" creationid="Nachec" creationdate="20221023T142857Z">
         <seg>margin: 0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>margin: 0;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085724Z" creationid="Nachec" creationdate="20221028T085724Z">
+        <seg>margin: 0;
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -77097,6 +77341,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225120Z" creationid="Nachec" creationdate="20221021T225120Z">
         <seg>padding: 1%;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>padding: 1em;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085721Z" creationid="Nachec" creationdate="20221028T085721Z">
+        <seg>padding: 1em;</seg>
       </tuv>
     </tu>
     <tu>
@@ -78679,6 +78931,16 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>text-align: right;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085738Z" creationid="Nachec" creationdate="20221028T085738Z">
+        <seg>text-align: right;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>text-shadow: 1px 1px 1px red;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225130Z" creationid="Nachec" creationdate="20221021T225130Z">
@@ -78707,6 +78969,14 @@ tags:</seg>
         <seg>text-size-adjust: 20%;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>textarea {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085858Z" creationid="Nachec" creationdate="20221028T085858Z">
+        <seg>textarea {</seg>
       </tuv>
     </tu>
     <tu>
@@ -79109,6 +79379,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ul {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085723Z" creationid="Nachec" creationdate="20221028T085723Z">
+        <seg>ul {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>undefined</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210824T044929Z" creationid="gitnacho" creationdate="20210824T044929Z">
@@ -79221,6 +79499,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>vertical-align: top;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085911Z" creationid="Nachec" creationdate="20221028T085911Z">
+        <seg>vertical-align: top;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>visibility: hidden;
 }</seg>
       </tuv>
@@ -79313,6 +79599,22 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>width: 300px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085830Z" creationid="Nachec" creationdate="20221028T085830Z">
+        <seg>width: 300px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width: 400px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085708Z" creationid="Nachec" creationdate="20221028T085708Z">
+        <seg>width: 400px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>width: 50%;
 }
 ```</seg>
@@ -79353,6 +79655,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T225118Z" creationid="Nachec" creationdate="20221021T225118Z">
         <seg>width: 75%;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width: 90px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085738Z" creationid="Nachec" creationdate="20221028T085738Z">
+        <seg>width: 90px;</seg>
       </tuv>
     </tu>
     <tu>
@@ -81830,6 +82140,18 @@ console.log(p1 instanceof Promise) // true, objeto convertido a Promise</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221004Z" creationid="Nachec" creationdate="20221027T221004Z">
         <seg>…
 &lt;/select&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>…
+&lt;/style&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085638Z" creationid="Nachec" creationdate="20221028T085638Z">
+        <seg>…
+&lt;/style&gt;
 ```</seg>
       </tuv>
     </tu>
