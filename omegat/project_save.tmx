@@ -17521,8 +17521,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [UI pseudo-classes](/en-US/docs/Learn/Forms/UI_pseudo-classes)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193237Z" creationid="Nachec" creationdate="20221027T193237Z">
-        <seg>- [Pseudoclases de interfaz de usuario](/es/docs/Learn/Forms/UI_pseudo-classes)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100724Z" creationid="Nachec" creationdate="20221027T193237Z">
+        <seg>- [Pseudoclases de la IU](/es/docs/Learn/Forms/UI_pseudo-classes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17913,13 +17913,13 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Form data validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T082705Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100649Z" creationid="Nachec" creationdate="20221028T082705Z">
         <seg>- [Tu primer formulario HTML](/es/docs/Learn/Forms/Your_first_form)
 - [How to structure an HTML form](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
 - [HTML5 input types](/es/docs/Learn/Forms/HTML5_input_types)
 - [Additional form controls](/es/docs/Learn/Forms/Other_form_controls)
-- [UI pseudo-classes](/es/docs/Learn/Forms/UI_pseudo-classes)
+- [Pseudoclases de la IU](/es/docs/Learn/Forms/UI_pseudo-classes)
 - [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
 - [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
@@ -17972,7 +17972,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T095550Z" creationid="Nachec" creationdate="20221027T195954Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100613Z" creationid="Nachec" creationdate="20221027T195954Z">
         <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
@@ -17980,7 +17980,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
 - [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
 - [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling#apariencia_%E2%80%94appearance_controlar_el_estilo_a_nivel_del_sistema_operativo)
-- [Pseudoclases de la interfaz de usuario](/es/docs/Learn/Forms/UI_pseudo-classes)
+- [Pseudoclases de la IU](/es/docs/Learn/Forms/UI_pseudo-classes)
 - [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
@@ -57125,6 +57125,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are also special selectors — [UI pseudo-classes](/en-US/docs/Learn/Forms/UI_pseudo-classes) — that enable styling based on the current state of the UI.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100810Z" creationid="Nachec" creationdate="20221028T100810Z">
+        <seg>También hay selectores especiales, [pseudoclases de la UI](/es/docs/Learn/Forms/UI_pseudo-classes), que habilitan el estilo según el estado actual de la IU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are another class of languages called back-end (or server-side) languages, meaning that they are run on the server before the result is then sent to the browser to be displayed.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045612Z" creationid="Nachec" creationdate="20221027T045612Z">
@@ -81089,6 +81097,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/UI_pseudo-classes", "Learn/Forms/Sending_and_retrieving_form_data", "Learn/HTML/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100622Z" creationid="Nachec" creationdate="20221028T100622Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/UI_pseudo-classes", "Learn/Forms/Sending_and_retrieving_form_data", "Learn/HTML/Forms")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Getting_started_with_the_web/CSS_basics", "Learn/Getting_started_with_the_web/Publishing_your_website", "Learn/Getting_started_with_the_web")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T171347Z" creationid="Nachec" creationdate="20221023T171347Z">
@@ -81275,6 +81291,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223816Z" creationid="Nachec" creationdate="20221027T223816Z">
         <seg>{{PreviousMenuNext("Learn/Forms/Styling_web_forms", "Learn/Forms/UI_pseudo-classes", "Learn/Forms")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{PreviousMenuNext("Learn/Forms/UI_pseudo-classes", "Learn/Forms/Sending_and_retrieving_form_data", "Learn/HTML/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100628Z" creationid="Nachec" creationdate="20221028T100628Z">
+        <seg>{{PreviousMenuNext("Learn/Forms/UI_pseudo-classes", "Learn/Forms/Sending_and_retrieving_form_data", "Learn/HTML/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
