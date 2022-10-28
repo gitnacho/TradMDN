@@ -64194,6 +64194,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With the basics out of the way, we'll now look in more detail at the elements used to provide structure and meaning to the different parts of a form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155334Z" creationid="Nachec" creationdate="20221028T155334Z">
+        <seg>Una vez examinados los conceptos básicos, veamos en más detalle los elementos que se utilizan para proporcionar estructura y significado a las diferentes partes de un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With the environment set up, let's look at how to use it to compile a C example to Emscripten.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T105249Z" creationid="gitnacho" creationdate="20221003T105249Z">
@@ -81131,6 +81139,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100622Z" creationid="Nachec" creationdate="20221028T100622Z">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/UI_pseudo-classes", "Learn/Forms/Sending_and_retrieving_form_data", "Learn/HTML/Forms")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/Your_first_form", "Learn/Forms/Basic_native_form_controls", "Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155236Z" creationid="Nachec" creationdate="20221028T155236Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/Your_first_form", "Learn/Forms/Basic_native_form_controls", "Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
