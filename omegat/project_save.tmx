@@ -31151,8 +31151,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;label for="username"&gt;Name: &lt;span aria-label="required"&gt;*&lt;/span&gt;&lt;/label&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174659Z" creationid="Nachec" creationdate="20221028T174659Z">
-        <seg>&lt;label for="username"&gt;Nombre: &lt;abbr title="required" aria-label="required"&gt;*&lt;/abbr&gt;&lt;/label&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T193801Z" creationid="Nachec" creationdate="20221028T174659Z">
+        <seg>&lt;label for="username"&gt;Nombre: &lt;span aria-label="required"&gt;*&lt;/span&gt;&lt;/label&gt;</seg>
       </tuv>
     </tu>
     <tu>
