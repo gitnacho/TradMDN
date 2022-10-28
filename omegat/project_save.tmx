@@ -38773,6 +38773,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Congratulations, you've built your first web form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092829Z" creationid="Nachec" creationdate="20221028T092829Z">
+        <seg>¡Enhorabuena!, has creado tu primer formulario web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Congratulations, you've just compiled C to WebAssembly and run it in your browser!</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T230035Z" creationid="gitnacho" creationdate="20221003T110510Z">
@@ -39555,6 +39563,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223430Z" creationid="gitnacho" creationdate="20221018T223430Z">
         <seg>Cada sección incluye desafíos y ejercicios para evaluar tu comprensión antes de seguir adelante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each server-side language (PHP, Python, Ruby, Java, C#, etc.) has its own mechanism of handling form data.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092538Z" creationid="Nachec" creationdate="20221028T092538Z">
+        <seg>Cada lenguaje de servidor (PHP, Python, Ruby, Java, C#, etc.) tiene su propio mecanismo de manipulación de datos de formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46676,6 +46692,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013021Z" creationid="Nachec" creationdate="20221028T013021Z">
         <seg>Va más allá del alcance de este artículo exponer la experiencia de usuario de los formularios, pero si deseas profundizar en ese tema, puedes leer los siguientes artículos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's beyond the scope of this guide to go deeply into that subject, but if you want to know more, we have provided some examples in our [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data) article later on.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092811Z" creationid="Nachec" creationdate="20221028T092651Z">
+        <seg>No profundizaremos sobre el tema en esta guía, pero si deseas obtener más información, proporcionamos algunos ejemplos en nuestro artículo [Enviar datos del formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data) que encontrarás más adelante.</seg>
       </tuv>
     </tu>
     <tu>
