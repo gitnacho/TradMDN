@@ -9035,6 +9035,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : If the button is a submit button, this Boolean attribute specifies that the form is not to be [validated](/en-US/docs/Learn/Forms/Form_validation) when it is submitted.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084310Z" creationid="Nachec" creationdate="20221028T084310Z">
+        <seg>- : If the button is a submit button, this Boolean attribute specifies that the form is not to be [validated](/en-US/docs/Learn/Forms/Form_validation) when it is submitted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : If you apply styling to a macro, it will often break because, for example, a `&lt;/code&gt;` tag may have appeared inside the macro code in the source code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T092926Z" creationid="gitnacho" creationdate="20221005T092443Z">
@@ -50206,6 +50214,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See [Form data validation](/en-US/docs/Learn/Forms/Form_validation) for more details on how these work.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084350Z" creationid="Nachec" creationdate="20221028T084350Z">
+        <seg>Consulta [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation) para obtener más detalles sobre cómo funcionan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See [How do you host your website on Google App Engine?](/en-US/docs/Learn/Common_questions/How_do_you_host_your_website_on_Google_App_Engine) for more information.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T210743Z" creationid="Nachec" creationdate="20221023T210743Z">
@@ -60536,6 +60552,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T180416Z" creationid="Nachec" creationdate="20221023T180331Z">
         <seg>Para aprender más sobre enfoques alternativos, mira [Estrategias de carga de scripts](/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript#estrategias-para-la-carga-de-scripts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn more about how form validation works and how to take advantage of the {{cssxref(":valid")}} and {{cssxref(":invalid")}} CSS properties to style the input based on whether or not the current value is valid, see [Form data validation](/en-US/docs/Learn/Forms/Form_validation).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084252Z" creationid="Nachec" creationdate="20221028T084252Z">
+        <seg>Para obtener más información sobre cómo funciona la validación de formularios y cómo aprovechar las propiedades CSS {{CSSxRef(":valid")}} y {{CSSxRef(":invalid")}} para estilizar la entrada en función de si el el valor actual es válido, consulta [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
       </tuv>
     </tu>
     <tu>
