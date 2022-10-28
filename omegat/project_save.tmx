@@ -14406,6 +14406,14 @@ browser-compat: api.Cache
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Structure</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093405Z" creationid="Nachec" creationdate="20221028T093405Z">
+        <seg>- Structure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Structures
 ---</seg>
       </tuv>
@@ -24403,6 +24411,20 @@ title: Cómo reemplazar las macros obsoletas de KumaScript
 slug: MDN/Writing_guidelines/Page_structures/Macros/Deprecated_macros
 page-type: mdn-writing-guide
 rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: How to structure a web form
+slug: Learn/Forms/How_to_structure_a_web_form
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093335Z" creationid="Nachec" creationdate="20221028T093335Z">
+        <seg>---
+title: Como estructurar un formulario web
+slug: Learn/Forms/How_to_structure_a_web_form
 tags:</seg>
       </tuv>
     </tu>
@@ -41513,6 +41535,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Forms have way more power than what we saw here and the other articles in this module will help you to master the rest.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093229Z" creationid="Nachec" creationdate="20221028T093229Z">
+        <seg>Los formularios tienen mucho más potencial de lo que hemos visto aquí y los siguientes artículos de este módulo te ayudarán a dominarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Forms require HTML, CSS, and JavaScript knowledge.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T224944Z" creationid="gitnacho" creationdate="20221018T224944Z">
@@ -53702,6 +53732,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083222Z" creationid="Nachec" creationdate="20221028T083222Z">
         <seg>El objetivo de esta prueba de habilidades es evaluar si has entendido nuestro artículo [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The aim of this skill test is to assess whether you've understood our [How to structure a web form](/en-US/docs/Learn/Forms/How_to_structure_a_web_form) article.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093509Z" creationid="Nachec" creationdate="20221028T093509Z">
+        <seg>El objetivo de esta prueba de habilidades es evaluar si entendiste nuestro artículo [Cómo estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form).</seg>
       </tuv>
     </tu>
     <tu>
@@ -81049,6 +81087,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T074554Z" creationid="Nachec" creationdate="20221021T074554Z">
         <seg>{{MathMLRef}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{NextMenu("Learn/Forms/How_to_structure_a_web_form", "Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093232Z" creationid="Nachec" creationdate="20221028T093232Z">
+        <seg>{{NextMenu("Learn/Forms/How_to_structure_a_web_form", "Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
