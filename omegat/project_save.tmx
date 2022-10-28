@@ -30471,10 +30471,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;form&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180737Z" creationid="Nachec" creationdate="20221028T180737Z">
+        <seg>&lt;form&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;h1&gt;MathML in HTML5&lt;/h1&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075025Z" creationid="Nachec" creationdate="20221021T075025Z">
         <seg>&lt;h1&gt;MathML en HTML5&lt;/h1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;h1&gt;Payment form&lt;/h1&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180813Z" creationid="Nachec" creationdate="20221028T180813Z">
+        <seg>&lt;h1&gt;Forma de pago&lt;/h1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31075,6 +31091,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085346Z" creationid="Nachec" creationdate="20221021T085346Z">
         <seg>&lt;link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;link href="payment-form.css" rel="stylesheet" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180713Z" creationid="Nachec" creationdate="20221028T180713Z">
+        <seg>&lt;link href="payment-form.css" rel="stylesheet" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32435,6 +32459,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061317Z" creationid="Nachec" creationdate="20221021T061317Z">
         <seg>&lt;strong id="status"&gt;&lt;/strong&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;&lt;span aria-label="required"&gt;*&lt;/span&gt;&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180857Z" creationid="Nachec" creationdate="20221028T180857Z">
+        <seg>&lt;strong&gt; &lt;abbr title = "required"&gt;*&lt;/abbr&gt;&lt;/strong&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42864,6 +42896,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here you'll see that we are wrapping the contact information fields inside a distinct {{htmlelement("section")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180953Z" creationid="Nachec" creationdate="20221028T180932Z">
+        <seg>Aquí verás que delimitamos con un elemento {{HTMLElement("section")}} independiente los campos con la información de contacto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here's an example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Pacho" changedate="20200423T094913Z" creationid="pacho" creationdate="20190803T190524Z">
@@ -46229,6 +46269,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inside the `&lt;form&gt;` tags, add a heading and paragraph to inform users how required fields are marked:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180759Z" creationid="Nachec" creationdate="20221028T180759Z">
+        <seg>Añade un encabezado y un párrafo dentro de las etiquetas `&lt;form&gt;`&gt; para informar a los usuarios cómo se marcan los campos obligatorios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inside the `style` tags, add the following CSS:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085657Z" creationid="Nachec" creationdate="20221028T085657Z">
@@ -48927,6 +48975,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moreover, we have a set of three radio buttons, each of which we are putting inside its own list ({{htmlelement("li")}}) element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181029Z" creationid="Nachec" creationdate="20221028T180942Z">
+        <seg>Además, hay un conjunto de dos botones de opción, cada uno de los cuales colocamos dentro de su propio elemento de lista ({{HTMLElement("li")}}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most HTML elements on your page can be thought of as boxes sitting on top of other boxes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140819Z" creationid="Nachec" creationdate="20221023T140819Z">
@@ -49142,6 +49198,14 @@ validation.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next we'll add a larger section of code into the form, below our previous entry.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180908Z" creationid="Nachec" creationdate="20221028T180908Z">
+        <seg>A continuación añadimos al formulario una sección de código más grande, justo debajo de nuestra entrada anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next, Cargo has generated some Rust code for us in `src/lib.rs`:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061821Z" creationid="gitnacho" creationdate="20221004T061821Z">
@@ -49154,6 +49218,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065750Z" creationid="gitnacho" creationdate="20221004T065750Z">
         <seg>Luego, crea un archivo llamado `index.js` y dale este contenido:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, create your form by adding the outer {{htmlelement("form")}} element:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180736Z" creationid="Nachec" creationdate="20221028T180736Z">
+        <seg>A continuación, añade el elemento externo {{HTMLElement("form")}} para crear tu formulario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51181,6 +51253,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T021852Z" creationid="Nachec" creationdate="20221022T021852Z">
         <seg>Las representaciones son diferentes formas de un recurso particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Required fields are followed by</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180826Z" creationid="Nachec" creationdate="20221028T180826Z">
+        <seg>Los campos obligatorios van seguidos de</seg>
       </tuv>
     </tu>
     <tu>
