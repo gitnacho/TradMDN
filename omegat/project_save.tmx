@@ -13242,6 +13242,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- In the second example, things are a bit clearer — the label read out along with the input is "name star name edit text required", and the labels are still read out separately.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T175857Z" creationid="Nachec" creationdate="20221028T175857Z">
+        <seg>- En el segundo ejemplo, las cosas son un poco más claras: la etiqueta que se lee junto con la entrada de texto es "*Editar texto nombre estrella nombre obligatorio*", pero las etiquetas aún se leen por separado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Index</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231420Z" creationid="gitnacho" creationdate="20220925T035309Z">
@@ -15025,6 +15033,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102134Z" creationid="Nachec" creationdate="20221021T102134Z">
         <seg>- El texto dentro de los scripts está reducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The third example is best — the actual label is read out all together, and the label read out with the input is "name required edit text".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T175941Z" creationid="Nachec" creationdate="20221028T175941Z">
+        <seg>- El tercer ejemplo es el mejor: la etiqueta se lee en conjunto, y la etiqueta que se lee con la entrada es "*Editar texto nombre requerido*".</seg>
       </tuv>
     </tu>
     <tu>
@@ -34808,6 +34824,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** You can find this example on GitHub as [required-labels.html](https://github.com/mdn/learning-area/blob/main/html/forms/html-form-structure/required-labels.html) ([see it live also](https://mdn.github.io/learning-area/html/forms/html-form-structure/required-labels.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180046Z" creationid="Nachec" creationdate="20221028T180046Z">
+        <seg>&gt; **Nota:** Puedes encontrar este ejemplo en GitHub como [required-labels.html](https://github.com/mdn/learning-area/blob/master/html/forms/html-form-structure/required-labels.html) ([o consultarlo en vivo](https://mdn.github.io/learning-area/html/forms/html-form-structure/required-labels.html)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** You can find this example on GitHub as [shared-address-space.html](https://github.com/mdn/webassembly-examples/blob/master/understanding-text-format/shared-address-space.html) ([see it live also](https://mdn.github.io/webassembly-examples/understanding-text-format/shared-address-space.html)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T085622Z" creationid="gitnacho" creationdate="20221007T074407Z">
@@ -34894,6 +34918,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T042605Z" creationid="gitnacho" creationdate="20220921T042605Z">
         <seg>&gt; **Nota:** Puedes servir tu aplicación desde `http://localhost` (por ejemplo, usando `me@localhost:/my/app$ python -m SimpleHTTPServer`) para el desarrollo local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** You might get slightly different results, depending on your screen reader.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T175954Z" creationid="Nachec" creationdate="20221028T175954Z">
+        <seg>&gt; **Nota:** Es posible que obtengas resultados ligeramente diferentes dependiendo de tu lector de pantalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56178,6 +56210,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The multiple `&lt;label&gt;` elements confuse the screen reader.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T175746Z" creationid="Nachec" creationdate="20221028T175746Z">
+        <seg>Los múltiples elementos `&lt;label&gt;` confunden al lector de pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The mutations are immediately accessible via [`Table.prototype.get()`](/en-US/docs/WebAssembly/JavaScript_interface/Table/get) in JavaScript, and to wasm modules.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233155Z" creationid="gitnacho" creationdate="20221006T233155Z">
@@ -58678,6 +58718,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T133805Z" creationid="gitnacho" creationdate="20221002T133805Z">
         <seg>También permitirán el acceso a notificaciones tipo push y APIs de  sincronización en segundo plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Things are still a bit confusing, but it's a bit better this time because the `&lt;input&gt;` has a label associated with it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T175922Z" creationid="Nachec" creationdate="20221028T175922Z">
+        <seg>Las cosas continúan siendo un poco confusas, pero esta vez funciona algo mejor porque `&lt;input&gt;` tiene una etiqueta asociada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61279,6 +61327,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This was tested in VoiceOver (and NVDA behaves similarly).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180007Z" creationid="Nachec" creationdate="20221028T180007Z">
+        <seg>Esta prueba se hizo con VoiceOver (NVDA se comporta de manera similar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This welcome message will persist.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193825Z" creationid="Nachec" creationdate="20221023T193652Z">
@@ -63503,6 +63559,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050958Z" creationid="Nachec" creationdate="20221020T174044Z">
         <seg>Nos gustaría saber de ti sobre cualquier cosa que creas que está mal o que falta en el sitio, solicitudes de nuevos temas de aprendizaje, solicitudes de ayuda con elementos que no comprendes o cualquier otra duda o inquietud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'd love to hear about your experiences too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180014Z" creationid="Nachec" creationdate="20221028T180014Z">
+        <seg>Nos encantaría conocer tus experiencias.</seg>
       </tuv>
     </tu>
     <tu>
