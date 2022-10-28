@@ -8421,8 +8421,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : CSS is the language that we can use to style and layout our web content, as well as adding behavior like animation.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001047Z" creationid="gitnacho" creationdate="20221020T131035Z">
-        <seg>- : CSS es el lenguaje que podemos usar para estilizar y presentar nuestro contenido web, así como para agregar comportamientos como animación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191245Z" creationid="gitnacho" creationdate="20221020T131035Z">
+        <seg>- : CSS es el lenguaje que podemos usar para estilizar y presentar nuestro contenido web, así como para agregar comportamiento como animación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40524,8 +40524,8 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>Each separate section of functionality should be contained in a separate {{htmlelement("section")}} element, with {{htmlelement("fieldset")}} elements to contain radio buttons.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180431Z" creationid="Nachec" creationdate="20221028T180431Z">
-        <seg>Las secciones independientes con funciones diferentes deben estar contenidas en elementos {{HTMLElement("section")}} separados, con elementos {{HTMLElement("fieldset")}} para contener botones de opción.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191745Z" creationid="Nachec" creationdate="20221028T180431Z">
+        <seg>Las secciones independientes con funciones diferentes deben estar contenidas en elementos {{HTMLElement("section")}} separados, con elementos {{HTMLElement("fieldset")}} para contener botones de radio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40564,8 +40564,8 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       <tuv lang="en-US">
         <seg>Each time you have a set of radio buttons, you should nest them inside a {{HTMLElement("fieldset")}} element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172948Z" creationid="Nachec" creationdate="20221028T172948Z">
-        <seg>Cada vez que tengas un conjunto de botones de opción, los debes anidar dentro de un elemento {{HTMLElement("fieldset")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191745Z" creationid="Nachec" creationdate="20221028T172948Z">
+        <seg>Cada vez que tengas un conjunto de botones de radio, los debes anidar dentro de un elemento {{HTMLElement("fieldset")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45312,8 +45312,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>In addition to the pre-defined keywords that are part of the specification for a property, all CSS properties accept the CSS-wide property values {{cssxref("initial")}}, {{cssxref("inherit")}}, and {{cssxref("unset")}}, which explicitly specify defaulting behaviors.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234244Z" creationid="Nachec" creationdate="20221021T234244Z">
-        <seg>Además de las palabras clave predefinidas que forman parte de la especificación de una propiedad, todas las propiedades de CSS aceptan los valores de propiedad de todo el CSS {{CSSxRef("initial")}}, {{CSSxRef("inherit")}}, y {{CSSxRef("unset")}}, que especifican explícitamente los comportamientos predeterminados.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191340Z" creationid="Nachec" creationdate="20221021T234244Z">
+        <seg>Además de las palabras clave predefinidas que forman parte de la especificación de una propiedad, todas las propiedades de CSS aceptan los valores de propiedad de todo el CSS {{CSSxRef("initial")}}, {{CSSxRef("inherit")}}, y {{CSSxRef("unset")}}, que especifican explícitamente el comportamiento predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49289,8 +49289,8 @@ tags:</seg>
       <tuv lang="en-US">
         <seg>Moreover, we have a set of three radio buttons, each of which we are putting inside its own list ({{htmlelement("li")}}) element.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181029Z" creationid="Nachec" creationdate="20221028T180942Z">
-        <seg>Además, hay un conjunto de dos botones de opción, cada uno de los cuales colocamos dentro de su propio elemento de lista ({{HTMLElement("li")}}).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191745Z" creationid="Nachec" creationdate="20221028T180942Z">
+        <seg>Además, hay un conjunto de dos botones de radio, cada uno de los cuales colocamos dentro de su propio elemento de lista ({{HTMLElement("li")}}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49464,8 +49464,8 @@ validation.</seg>
       <tuv lang="en-US">
         <seg>Nesting can cause forms to behave in an unpredictable manner, so it is a bad idea.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155743Z" creationid="Nachec" creationdate="20221028T155743Z">
-        <seg>Anidar formularios no es una buena idea porque puede ocasionar comportamientos impredecibles.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191237Z" creationid="Nachec" creationdate="20221028T155743Z">
+        <seg>Anidar formularios no es una buena idea porque puede ocasionar comportamiento impredecible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61068,8 +61068,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This is useful for controls like text inputs, where you can click the label as well as the input to focus it, but it is especially useful for radio buttons and checkboxes — the hit area of such a control can be very small, so it is useful to make it as easy to activate as possible.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173752Z" creationid="Nachec" creationdate="20221028T173752Z">
-        <seg>Esto es útil para controles como entradas de texto, donde puedes hacer clic tanto en la etiqueta como en la entrada de texto para proporcionar el foco al control de formulario, pero es útil especialmente para botones de opción y casillas de verificación, porque la zona sensible de este control puede ser muy pequeña, y puede ser útil para facilitar su activación.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191745Z" creationid="Nachec" creationdate="20221028T173752Z">
+        <seg>Esto es útil para controles como entradas de texto, donde puedes hacer clic tanto en la etiqueta como en la entrada de texto para proporcionar el foco al control de formulario, pero es útil especialmente para botones de radio y casillas de verificación, porque la zona sensible de este control puede ser muy pequeña, y puede ser útil para facilitar su activación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63814,8 +63814,8 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       <tuv lang="en-US">
         <seg>We have seen special Unicode characters that are commonly found in math formulas and given an overview of some observable behaviors of the `&lt;mi&gt;` and `&lt;mo&gt;` elements.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194337Z" creationid="Nachec" creationdate="20221021T194337Z">
-        <seg>Hemos visto caracteres Unicode especiales que comúnmente, se encuentran en fórmulas matemáticas y hemos dado una descripción general de algunos comportamientos observables de los elementos `&lt;mi&gt;` y `&lt;mo&gt;`.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191318Z" creationid="Nachec" creationdate="20221021T194337Z">
+        <seg>Hemos visto caracteres Unicode especiales que comúnmente, se encuentran en fórmulas matemáticas y hemos dado una descripción general de algún comportamiento observable de los elementos `&lt;mi&gt;` y `&lt;mo&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
