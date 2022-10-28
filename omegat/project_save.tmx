@@ -45907,6 +45907,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the [previous article](/en-US/docs/Learn/Forms/How_to_structure_a_web_form), we marked up a functional web form example, introducing some form controls and common structural elements, and focusing on accessibility best practices.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T233810Z" creationid="Nachec" creationdate="20221028T233810Z">
+        <seg>En el [artículo anterior](/es/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form), marcamos un ejemplo de formulario web funcional, presentamos algunos controles de formulario y elementos estructurales comunes, y nos centramos en las mejores prácticas de accesibilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the [three famous mathematical formulas assessment](/en-US/docs/Learn/MathML/First_steps/Three_famous_mathematical_formulas) you'll use your new knowledge to rewrite a small mathematical article using HTML and MathML.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T094846Z" creationid="Nachec" creationdate="20221021T094846Z">
@@ -46541,6 +46549,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T182026Z" creationid="gitnacho" creationdate="20221006T182026Z">
         <seg>En este modelo de memoria, cualquier carga o almacenamiento puede acceder a cualquier byte en toda la memoria lineal, lo cual es necesario para representar fielmente conceptos de C/C++ como punteros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this particular article we will look at the original set of form controls, available in all browsers since the early days of the web.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T233856Z" creationid="Nachec" creationdate="20221028T233856Z">
+        <seg>En este artículo en particular, veremos el conjunto original de controles de formulario, disponible en todos los navegadores desde los primeros días de la web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49606,6 +49622,14 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083426Z" creationid="Nachec" creationdate="20221028T083426Z">
         <seg>A continuación, pasaremos a algo diferente: [validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next we will look at the functionality of the different form controls, or widgets, in detail — studying all the different options available to collect different types of data.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T233834Z" creationid="Nachec" creationdate="20221028T233834Z">
+        <seg>A continuación, veremos con detalle las funciones de los diferentes controles de formulario, y estudiaremos todas las diferentes opciones de que se dispone para la recopilación de diferentes tipos de datos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62949,6 +62973,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To understand in detail the original set of native form widgets</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T233911Z" creationid="Nachec" creationdate="20221028T233911Z">
+        <seg>Comprender en detalle el conjunto original de controles de formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To understand the basic syntax of MathML and how to integrate it in</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181050Z" creationid="Nachec" creationdate="20221021T181050Z">
@@ -66847,6 +66879,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004307Z" creationid="Nachec" creationdate="20221027T004307Z">
         <seg>Ahora eres un creativo digital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've already met some form elements, including {{HTMLelement('form')}}, {{HTMLelement('fieldset')}}, {{HTMLelement('legend')}}, {{HTMLelement('textarea')}}, {{HTMLelement('label')}}, {{HTMLelement('button')}}, and {{HTMLelement('input')}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234052Z" creationid="Nachec" creationdate="20221028T234052Z">
+        <seg>Ya conoces algunos elementos de formulario, incluidos {{HTMLElement('form')}}, {{HTMLElement('fieldset')}}, {{HTMLElement('legend')}}, {{HTMLElement('textarea' )}}, {{HTMLElement('label')}}, {{HTMLElement('button')}} y {{HTMLElement('input')}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73153,6 +73193,14 @@ unreachable
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013811Z" creationid="gitnacho" creationdate="20220901T013811Z">
         <seg>autoComplete="off"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>available in browsers for collecting data, and how to implement them</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T233923Z" creationid="Nachec" creationdate="20221028T233923Z">
+        <seg>originales disponibles en los navegadores para la recopilación de datos</seg>
       </tuv>
     </tu>
     <tu>
@@ -81654,6 +81702,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T231743Z" creationid="nachec" creationdate="20220804T231743Z">
         <seg>useEffect(() =&gt; {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>using HTML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T233944Z" creationid="Nachec" creationdate="20221028T233944Z">
+        <seg>y su implementación con HTML.</seg>
       </tuv>
     </tu>
     <tu>
