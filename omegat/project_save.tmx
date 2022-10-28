@@ -1360,6 +1360,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Common HTML structures used with forms</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180125Z" creationid="Nachec" creationdate="20221028T180125Z">
+        <seg>## Estructuras HTML comunes que se utilizan en formularios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Compiling an example</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T105239Z" creationid="gitnacho" creationdate="20221003T105239Z">
@@ -36426,6 +36434,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Above all, it is up to you to find a comfortable coding style that results in accessible, usable forms.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180403Z" creationid="Nachec" creationdate="20221028T180403Z">
+        <seg>Depende de ti, sobre todo, encontrar un estilo de codificación cómodo que dé como resultado formas con buena accesibilidad y usabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Above we talked about the raw primitives that WebAssembly adds to the Web platform: a binary format for code and APIs for loading and running this binary code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T080521Z" creationid="gitnacho" creationdate="20221003T080521Z">
@@ -37883,6 +37899,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you can see in the examples, it's common practice to wrap a label and its widget with a {{HTMLElement("li")}} element within a {{HTMLElement("ul")}} or {{HTMLElement("ol")}} list.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180233Z" creationid="Nachec" creationdate="20221028T180233Z">
+        <seg>Como puedes ver en los ejemplos, es una práctica común delimitar una etiqueta y su control de formulario con un elemento {{HTMLElement("li")}} dentro de una lista {{HTMLElement("ul")}} u {{HTMLElement("ol")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As you can see, we've done fairly well at getting these to look uniform across modern browsers.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220055Z" creationid="Nachec" creationdate="20221027T220055Z">
@@ -38482,6 +38506,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070453Z" creationid="gitnacho" creationdate="20221005T070453Z">
         <seg>Más allá de lo básico, el sistema KumaScript ofrece algunas funciones avanzadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beyond the structures specific to web forms, it's good to remember that form markup is just HTML.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180139Z" creationid="Nachec" creationdate="20221028T180139Z">
+        <seg>Más allá de las estructuras específicas de los formularios web, es bueno recordar que el marcado de los formularios es solo HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39838,6 +39870,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223718Z" creationid="gitnacho" creationdate="20221018T223718Z">
         <seg>No entres en pánico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't test the example with 2 or 3 of the versions uncommented — screen readers will definitely get confused if you have multiple labels AND multiple inputs with the same ID!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180104Z" creationid="Nachec" creationdate="20221028T180104Z">
+        <seg>No pruebes el ejemplo con las dos o tres versiones sin los comentarios porque los lectores de pantalla se confundirán si hay múltiples etiquetas y múltiples entradas con el mismo ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44910,6 +44950,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to the {{HTMLElement("fieldset")}} element, it's also common practice to use HTML titles (e.g. {{htmlelement("h1")}}, {{htmlelement("h2")}}) and sectioning (e.g. {{htmlelement("section")}}) to structure complex forms.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180341Z" creationid="Nachec" creationdate="20221028T180341Z">
+        <seg>Además del elemento {{HTMLElement("fieldset")}}, también es una práctica común usar títulos HTML (por ejemplo, {{HTMLElement("h1")}}, {{HTMLElement("h2")}}), y seccionar (por ejemplo, {{HTMLElement("section")}}), para estructurar formas complejas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to these, there's an experimental proposal to add more headers to the list of available headers, called _client hints_.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T095604Z" creationid="Nachec" creationdate="20221022T092000Z">
@@ -48367,6 +48415,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T054409Z" creationid="gitnacho" creationdate="20221019T001231Z">
         <seg>Las distribuciones de Linux varían; la versión Ubuntu 22.04 LTS viene con el [Editor de texto GNOME](https://en.wikipedia.org/wiki/GNOME_Text_Editor) de forma predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lists are recommended for structuring multiple checkboxes or radio buttons.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180301Z" creationid="Nachec" creationdate="20221028T180301Z">
+        <seg>Se recomiendan las listas para estructurar múltiples casillas de verificación o botones de radio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60758,6 +60814,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T095217Z" creationid="gitnacho" creationdate="20221005T095217Z">
         <seg>Esto significa que la macro solo se ejecuta realmente cuando cambian las entradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means that you can use all the power of HTML to structure a web form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180148Z" creationid="Nachec" creationdate="20221028T180148Z">
+        <seg>Esto significa que puedes usar todo el poder del HTML para estructurar un formulario web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81736,6 +81800,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181812Z" creationid="Nachec" creationdate="20221023T181812Z">
         <seg>Las {{Glossary("Variable", "Variables")}} son contenedores en los que puedes almacenar valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{HTMLElement("p")}} and {{HTMLElement("div")}} elements are also commonly used.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180248Z" creationid="Nachec" creationdate="20221028T180248Z">
+        <seg>Los elementos {{HTMLElement("p")}} y {{HTMLElement("div")}} también se usan con frecuencia.</seg>
       </tuv>
     </tu>
     <tu>
