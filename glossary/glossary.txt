@@ -80091,3 +80091,4 @@ suite	familia
 surrounding	circundantes
 responsive	receptivo	receptivo
 linter	linterna	linterna
+ok	de acuerdo
