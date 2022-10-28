@@ -53792,6 +53792,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The aim of this skill test is to assess whether you've understood our [Advanced form styling](/en-US/docs/Learn/Forms/Advanced_form_styling) and [UI pseudo-classes](/en-US/docs/Learn/Forms/UI_pseudo-classes) articles.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100224Z" creationid="Nachec" creationdate="20221028T100224Z">
+        <seg>El objetivo de esta prueba de habilidad es evaluar si has entendido nuestro [Estilo de formulario avanzado](/es/docs/Learn/Forms/Advanced_form_styling) y [Pseudoclases de interfaz de usuario](/es/docs/Learn /Forms/UI_pseudo-classes) artículos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The aim of this skill test is to assess whether you've understood our [Basic native form controls](/en-US/docs/Learn/Forms/Basic_native_form_controls) article.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081853Z" creationid="Nachec" creationdate="20221028T081853Z">
@@ -53864,10 +53872,26 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The article [Advanced form styling](/en-US/docs/Learn/Forms/Advanced_form_styling) shows how to style these.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100021Z" creationid="Nachec" creationdate="20221028T100021Z">
+        <seg>El artículo [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling) muestra cómo aplicarles estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The article [How to build custom form controls](/en-US/docs/Learn/Forms/How_to_build_custom_form_controls) provides an example of how to build a custom designed select with HTML, CSS and JavaScript.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223556Z" creationid="Nachec" creationdate="20221027T223556Z">
         <seg>El artículo [Cómo crear controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls) proporciona un ejemplo de cómo crear una selección de diseño personalizado con HTML, CSS y JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The articles [Advanced form styling](/en-US/docs/Learn/Forms/Advanced_form_styling) and [How to build custom form controls](/en-US/docs/Learn/Forms/How_to_build_custom_form_controls) describe how to style these.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100118Z" creationid="Nachec" creationdate="20221028T100118Z">
+        <seg>Los artículos [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling) y [Cómo crear controles de formulario personalizados](/es/docs/Learn/Forms/How_to_build_custom_form_controls) describen cómo se les aplica estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81049,6 +81073,14 @@ console.log(uintc8FromIterable);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/Other_form_controls","Learn/Forms/Advanced_form_styling","Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T095940Z" creationid="Nachec" creationdate="20221028T095940Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/Other_form_controls","Learn/Forms/Advanced_form_styling","Learn/Forms")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/Styling_web_forms", "Learn/Forms/UI_pseudo-classes", "Learn/Forms")}}</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T201040Z" creationid="Nachec" creationdate="20221027T201040Z">
@@ -81227,6 +81259,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083439Z" creationid="Nachec" creationdate="20221028T083439Z">
         <seg>{{PreviousMenuNext("Learn/Forms/Advanced_form_styling", "Learn/Forms/Form_validation", "Learn/Forms")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{PreviousMenuNext("Learn/Forms/Other_form_controls","Learn/Forms/Advanced_form_styling","Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100125Z" creationid="Nachec" creationdate="20221028T100125Z">
+        <seg>{{PreviousMenuNext("Learn/Forms/Other_form_controls","Learn/Forms/Advanced_form_styling","Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
