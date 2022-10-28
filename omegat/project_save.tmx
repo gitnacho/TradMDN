@@ -14462,6 +14462,14 @@ browser-compat: api.NavigationPreloadManager
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Some of the attributes that are common to all form controls.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234311Z" creationid="Nachec" creationdate="20221028T234311Z">
+        <seg>- Algunos de los atributos que son comunes para todos los controles de formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Specific [HTTP headers](/en-US/docs/Web/HTTP/Headers) by the client (_server-driven negotiation_ or _proactive negotiation_), which is the standard way of negotiating a specific kind of resource.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091457Z" creationid="Nachec" creationdate="20221022T091457Z">
@@ -14865,6 +14873,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193153Z" creationid="Nachec" creationdate="20221025T193153Z">
         <seg>- El navegador analiza primero el archivo HTML, y eso hace que el navegador reconozca cualquier referencia del elemento `&lt;link&gt;` a hojas de estilo CSS externas y cualquier referencia del elemento `&lt;script&gt;` a scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- The common input types {{HTMLelement('input/button', 'button')}}, {{HTMLelement('input/checkbox', 'checkbox')}}, {{HTMLelement('input/file', 'file')}}, {{HTMLelement('input/hidden', 'hidden')}}, {{HTMLelement('input/image', 'image')}}, {{HTMLelement('input/password', 'password')}}, {{HTMLelement('input/radio', 'radio')}}, {{HTMLelement('input/reset', 'reset')}}, {{HTMLelement('input/submit', 'submit')}}, and {{HTMLelement('input/text', 'text')}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234254Z" creationid="Nachec" creationdate="20221028T234254Z">
+        <seg>- Los tipos de entrada comunes {{HTMLElement('input/button', 'button')}}, {{HTMLElement('input/checkbox', 'checkbox')}}, {{HTMLElement('input/file', 'file')}}, {{HTMLElement('input/hidden', 'hidden')}}, {{HTMLElement('input/image', 'image')}}, {{HTMLElement('input/password', 'password')}}, {{HTMLElement('input/radio', 'radio')}}, {{HTMLElement('input/reset', 'reset')}}, {{HTMLElement('input/submit', 'submit')}} y {{HTMLElement('input/text', 'text')}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35044,6 +35060,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T111751Z" creationid="gitnacho" creationdate="20221003T111751Z">
         <seg>&gt; **Nota:** Estamos incluyendo los bloques `#ifdef` para que si intentas incluir esto en el código C++, el ejemplo seguirá funcionando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** We cover additional, more powerful form controls in the next two articles.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234431Z" creationid="Nachec" creationdate="20221028T234431Z">
+        <seg>&gt; **Nota:** Las características que se consideran en este artículo son compatibles con todos los navegadores, que no es el caso para todos los controles de formulario. En los próximos dos artículos vamos a exponer los controles de formulario que recientemente se han añadido a HTML5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59595,6 +59619,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T091549Z" creationid="gitnacho" creationdate="20221012T091549Z">
         <seg>Este enfoque es eficiente porque el servidor únicamente solicita la información que puede manejar de manera útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This article covers:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234101Z" creationid="Nachec" creationdate="20221028T234101Z">
+        <seg>Este artículo expone:</seg>
       </tuv>
     </tu>
     <tu>
