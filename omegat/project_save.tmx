@@ -17946,8 +17946,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101332Z" creationid="Nachec" creationdate="20221028T082018Z">
-        <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101903Z" creationid="Nachec" creationdate="20221028T082018Z">
+        <seg>- [Tu primer formulario](#¿qué_son_los_formularios_web)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
 - [Los tipos `input` de HTML5](/es/docs/Learn/Forms/HTML5_input_types)
@@ -46986,8 +46986,8 @@ references stored in the exported table.</seg>
       <tuv lang="en-US">
         <seg>It's beyond the scope of this guide to go deeply into that subject, but if you want to know more, we have provided some examples in our [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data) article later on.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092811Z" creationid="Nachec" creationdate="20221028T092651Z">
-        <seg>No profundizaremos sobre el tema en esta guía, pero si deseas obtener más información, proporcionamos algunos ejemplos en nuestro artículo [Enviar datos del formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data) que encontrarás más adelante.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101551Z" creationid="Nachec" creationdate="20221028T092651Z">
+        <seg>No profundizaremos sobre el tema en esta guía, pero si deseas obtener más información, proporcionamos algunos ejemplos en nuestro artículo [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data) que encontrarás más adelante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65322,8 +65322,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You'll find further details of form labels in [How to structure a web form](/en-US/docs/Learn/Forms/How_to_structure_a_web_form).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081030Z" creationid="Nachec" creationdate="20221028T081030Z">
-        <seg>Encontrarás más detalles sobre las etiquetas de los formularios en [Cómo estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_an_HTML_form).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101721Z" creationid="Nachec" creationdate="20221028T081030Z">
+        <seg>Encontrarás más detalles sobre las etiquetas de los formularios en [Cómo estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form).</seg>
       </tuv>
     </tu>
     <tu>
