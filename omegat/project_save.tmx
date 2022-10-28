@@ -17772,10 +17772,10 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T011550Z" creationid="Nachec" creationdate="20221027T195954Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081317Z" creationid="Nachec" creationdate="20221027T195954Z">
         <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
-- [Conceptos básicos de controles de formulario nativos](/es/docs/Learn/Forms/Basic_native_form_controls)
+- [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
 - [Los tipos `input` de HTML5](/es/docs/Learn/Forms/HTML5_input_types)
 - [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
 - [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
