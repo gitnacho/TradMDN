@@ -4836,6 +4836,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### The `&lt;button&gt;` element</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084936Z" creationid="Nachec" creationdate="20221028T084936Z">
+        <seg>### El elemento `&lt;button&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### The `&lt;form&gt;` element</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T022048Z" creationid="Nachec" creationdate="20221028T015840Z">
@@ -49098,6 +49106,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the other hand, if you want to define a default value for a {{HTMLElement("textarea")}}, you put it between the opening and closing tags of the {{HTMLElement("textarea")}} element, like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084843Z" creationid="Nachec" creationdate="20221028T084843Z">
+        <seg>Por otro lado, si deseas definir un valor predeterminado para un elemento {{HTMLElement("textarea")}}, lo colocas entre las etiquetas de apertura y cierre del elemento {{HTMLElement("textarea")}}, así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the {{HTMLelement("input")}} element, the most important attribute is the `type` attribute.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081045Z" creationid="Nachec" creationdate="20221028T081045Z">
@@ -54879,6 +54895,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The markup for our form is almost complete; we just need to add a button to allow the user to send, or "submit", their data once they have filled out the form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084953Z" creationid="Nachec" creationdate="20221028T084953Z">
+        <seg>El marcado de nuestro formulario está casi completo; solo necesitamos añadir un botón para permitir que el usuario envíe sus datos una vez que haya completado el formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The matching is done via URL and various headers, just like with normal HTTP requests.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064023Z" creationid="gitnacho" creationdate="20220921T035341Z">
@@ -58399,6 +58423,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This has an impact on a specific feature of forms: the way you define the default value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084652Z" creationid="Nachec" creationdate="20221028T084652Z">
+        <seg>Esto tiene un impacto en una característica específica de los formularios: el modo en que defines el valor predeterminado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This has huge implications for the web platform — it provides a way to run code written in multiple languages on the web at near-native speed, with client apps running on the web that previously couldn't have done so.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T004039Z" creationid="gitnacho" creationdate="20221003T004039Z">
@@ -60312,6 +60344,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T063801Z" creationid="gitnacho" creationdate="20221007T063801Z">
         <seg>Para manejar cadenas y otros tipos de datos más complejos, WebAssembly proporciona **`memory`** (aunque también tenemos [Tipos `Reference`](#tipos_reference) en la implementación más reciente de WebAssembly).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To define the default value of an {{HTMLElement("input")}} element you have to use the [`value`](/en-US/docs/Web/HTML/Element/input#value) attribute like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084740Z" creationid="Nachec" creationdate="20221028T084740Z">
+        <seg>Para definir el valor predeterminado de un elemento {{HTMLElement("input")}}, debes usar el atributo [`value`](/es/docs/Web/HTML/Element/input#value) de esta manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66621,6 +66661,18 @@ p {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```html
+&lt;input type="text" value="by default this element is filled with this text" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084825Z" creationid="Nachec" creationdate="20221028T084825Z">
+        <seg>```html
+&lt;input type="text" value="de manera predeterminada este elemento se llena con este texto" /&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
 &lt;label for="select"&gt;Select a fruit&lt;/label&gt;
 &lt;div class="select-wrapper"&gt;</seg>
       </tuv>
@@ -66905,6 +66957,22 @@ p {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185057Z" creationid="gitnacho" creationdate="20221008T185057Z">
         <seg>```html
 &lt;table&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;textarea&gt;
+by default this element is filled with this text
+&lt;/textarea&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084911Z" creationid="Nachec" creationdate="20221028T084911Z">
+        <seg>```html
+&lt;textarea&gt;
+De manera predeterminada, este elemento contiene este texto
+&lt;/textarea&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
