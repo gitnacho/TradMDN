@@ -14336,8 +14336,8 @@ browser-compat: api.NavigationPreloadManager
       <tuv lang="en-US">
         <seg>- Smashing Magazine has some [good articles about forms UX](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/), including an older but still relevant [Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/) article.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013438Z" creationid="Nachec" creationdate="20221028T013341Z">
-        <seg>- Smashing Magazine tiene algunos [artículos muy buenos sobre formularios UX](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/), incluido el artículo —antiguo pero relevante— [An Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/) \[Amplia guía de usabilidad para formularios web].</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T102522Z" creationid="Nachec" creationdate="20221028T013341Z">
+        <seg>- Smashing Magazine tiene algunos [artículos muy buenos sobre UX en formularios](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/), incluido el artículo —antiguo pero relevante— [An Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/) \[Amplia guía de usabilidad para formularios web].</seg>
       </tuv>
     </tu>
     <tu>
@@ -41671,8 +41671,8 @@ portales para realizar tareas de administración empresarial y herramientas de c
       <tuv lang="en-US">
         <seg>From a user experience (UX) point of view, it's important to remember that the bigger your form, the more you risk frustrating people and losing users.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012929Z" creationid="Nachec" creationdate="20221028T012929Z">
-        <seg>Desde el punto de vista de la experiencia del usuario (**UX** pot **User experience** en inglés), es importante recordar que cuanto más grande es tu formulario, más te arriesgas a frustrar a las personas y perder usuarios.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T102422Z" creationid="Nachec" creationdate="20221028T012929Z">
+        <seg>Desde el punto de vista de la experiencia del usuario (**UX** por **User experience** en inglés), es importante recordar que cuanto más grande es tu formulario, más te arriesgas a frustrar a las personas y perder usuarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54354,8 +54354,8 @@ y devuelve su valor.</seg>
       <tuv lang="en-US">
         <seg>The controls can be single or multi-line text fields, dropdown boxes, buttons, checkboxes, or radio buttons, and are mostly created using the {{htmlelement("input")}} element, although there are some other elements to learn about too.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012732Z" creationid="Nachec" creationdate="20221028T012732Z">
-        <seg>Los controles pueden ser campos de texto de una o varias líneas, cajas desplegables, botones, casillas de verificación o botones de opción, y se crean principalmente con el elemento {{HTMLElement("input")}}, aunque hay algunos otros elementos que también hay que conocer.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T102332Z" creationid="Nachec" creationdate="20221028T012732Z">
+        <seg>Los controles pueden ser campos de texto de una o varias líneas, cajas desplegables, botones, casillas de verificación o botones de radio, y se crean principalmente con el elemento {{HTMLElement("input")}}, aunque hay algunos otros elementos que también hay que conocer.</seg>
       </tuv>
     </tu>
     <tu>
