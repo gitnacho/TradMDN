@@ -56474,8 +56474,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The last one is an `&lt;input&gt;` element of type `text`, for entering the expiration date of the card; this includes a _placeholder_ attribute indicating the correct format, and a _pattern_ that tests that the entered date has the correct format.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181449Z" creationid="Nachec" creationdate="20221028T181449Z">
-        <seg>Si bien podríamos haber usado el tipo `number`, no queremos una interfaz de usuario con control de número.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182048Z" creationid="Nachec" creationdate="20221028T181449Z">
+        <seg>El último es un elemento `&lt;input&gt;` de tipo `text`, para ingresar la fecha de vencimiento de la tarjeta; esto incluye un atributo `placeholder` que indica el formato correcto y un *patrón* que prueba que la fecha ingresada tiene el formato correcto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57256,8 +57256,8 @@ de elementos en la tabla.</seg>
       <tuv lang="en-US">
         <seg>The second is an `&lt;input&gt;` element of type `tel`, for entering a credit card number; while we could have used the `number` type, we don't want the number's spinner UI.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181438Z" creationid="Nachec" creationdate="20221028T181438Z">
-        <seg>El segundo es un elemento `&lt;input&gt;` de tipo `tel`, para introducir un número de tarjeta de crédito.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181853Z" creationid="Nachec" creationdate="20221028T181438Z">
+        <seg>El segundo es un elemento `&lt;input&gt;` de tipo `tel`, para introducir un número de tarjeta de crédito. Si bien podríamos haber usado el tipo `number`, no queremos una interfaz de usuario con un control de número.</seg>
       </tuv>
     </tu>
     <tu>
