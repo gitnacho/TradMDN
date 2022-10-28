@@ -3124,6 +3124,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Active learning: building a form structure</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180449Z" creationid="Nachec" creationdate="20221028T180449Z">
+        <seg>### Aprendizaje activo: Construir una estructura de formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Active learning: nested expressions</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182116Z" creationid="Nachec" creationdate="20221021T182027Z">
@@ -37603,6 +37611,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply the CSS to the HTML by adding the following line inside the HTML {{htmlelement("head")}}:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180711Z" creationid="Nachec" creationdate="20221028T180711Z">
+        <seg>Añade dentro del elemento HTML {{HTMLElement("head")}} la línea siguiente para aplicar el CSS al HTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Applying the following CSS to them removes system-level styling.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204312Z" creationid="Nachec" creationdate="20221027T204312Z">
@@ -40186,6 +40202,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each separate section of functionality should be contained in a separate {{htmlelement("section")}} element, with {{htmlelement("fieldset")}} elements to contain radio buttons.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180431Z" creationid="Nachec" creationdate="20221028T180431Z">
+        <seg>Las secciones independientes con funciones diferentes deben estar contenidas en elementos {{HTMLElement("section")}} separados, con elementos {{HTMLElement("fieldset")}} para contener botones de opción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each server-side language (PHP, Python, Ruby, Java, C#, etc.) has its own mechanism of handling form data.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092538Z" creationid="Nachec" creationdate="20221028T092538Z">
@@ -41828,6 +41852,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190333Z" creationid="Nachec" creationdate="20221025T190333Z">
         <seg>Por ahora, imaginemos que la web es un camino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For now, read the descriptions carefully as you follow the below instructions, and start to form an appreciation of which wrapper elements we are using to structure the form, and why.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180609Z" creationid="Nachec" creationdate="20221028T180609Z">
+        <seg>Por ahora, lee con detenimiento las descripciones y sigue las instrucciones, y empieza a formarte una idea de qué elementos de delimitación se utilizan para estructurar el formulario y por qué.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48191,6 +48223,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040448Z" creationid="gitnacho" creationdate="20220921T040448Z">
         <seg>Proporcionemos un respaldo predeterminado para que, pase lo que pase, el usuario al menos obtenga algo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's put these ideas into practice and build a slightly more involved form — a payment form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180500Z" creationid="Nachec" creationdate="20221028T180500Z">
+        <seg>Pongamos en práctica estas ideas y creemos un formulario un poco más complicado: un formulario de pago.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59714,6 +59754,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This form will contain a number of control types that you may not yet understand.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180511Z" creationid="Nachec" creationdate="20221028T180511Z">
+        <seg>Este formulario contendrá una serie de tipos de control que quizás aún no comprendas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function creates a constant containing the value `0`, and then uses the `i32.load` command to load the value contained in the provided memory index.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073916Z" creationid="gitnacho" creationdate="20221007T073916Z">
@@ -62293,6 +62341,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T182724Z" creationid="gitnacho" creationdate="20221007T182724Z">
         <seg>Para empezar, haz una copia de la lista anterior dentro de un archivo de texto; nómbralo `simple.wat`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start with, make a local copy of our [blank template file](https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/getting-started/index.html) and the [CSS for our payment form](https://github.com/mdn/learning-area/blob/main/html/forms/html-form-structure/payment-form.css) in a new directory on your computer.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180644Z" creationid="Nachec" creationdate="20221028T180644Z">
+        <seg>Para comenzar, haz una copia local de nuestro [archivo de plantilla en blanco](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/getting-started/index.html) y el [CSS de nuestro formulario de pago](https://github.com/mdn/learning-area/blob/master/html/forms/html-form-structure/payment-form.css) en un nuevo directorio de tu ordenador.</seg>
       </tuv>
     </tu>
     <tu>
