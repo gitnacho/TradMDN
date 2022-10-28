@@ -17291,6 +17291,22 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- [Sending forms through JavaScript](/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript)
+- [How to build custom form widgets](/en-US/docs/Learn/Forms/How_to_build_custom_form_controls)
+- [HTML forms in legacy browsers](/en-US/docs/Learn/Forms/HTML_forms_in_legacy_browsers)
+- [Advanced styling for HTML forms](/en-US/docs/Learn/Forms/Advanced_form_styling)
+- [Property compatibility table for form widgets](/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T095826Z" creationid="Nachec" creationdate="20221028T095826Z">
+        <seg>- [Sending forms through JavaScript](/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript)
+- [How to build custom form widgets](/en-US/docs/Learn/Forms/How_to_build_custom_form_controls)
+- [HTML forms in legacy browsers](/es/docs/Learn/Forms/HTML_forms_in_legacy_browsers)
+- [Estilizar formularios HTML avanzado](/es/docs/Learn/Forms/Advanced_form_styling)
+- [Property compatibility table for form widgets](/es/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- [Server-side website programming](/en-US/docs/Learn/Server-side)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T001830Z" creationid="gitnacho" creationdate="20221020T131749Z">
@@ -17342,9 +17358,9 @@ spec-urls: https://w3c.github.io/ServiceWorker/
         <seg>- [Styling web forms](/en-US/docs/Learn/Forms/Styling_web_forms)
 - [Advanced form styling](/en-US/docs/Learn/Forms/Advanced_form_styling)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T195621Z" creationid="Nachec" creationdate="20221027T195621Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T095532Z" creationid="Nachec" creationdate="20221027T195621Z">
         <seg>- [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
-- [Estilizado avanzado de formularios](/es/docs/Learn/Forms/Advanced_form_styling)</seg>
+- [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17956,14 +17972,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221027T195954Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T095550Z" creationid="Nachec" creationdate="20221027T195954Z">
         <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
 - [Los tipos `input` de HTML5](/es/docs/Learn/Forms/HTML5_input_types)
 - [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
 - [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
-- [Estilizado avanzado de formulario](/es/docs/Learn/Forms/Advanced_form_styling#apariencia_%E2%80%94appearance_controlar_el_estilo_a_nivel_del_sistema_operativo)
+- [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling#apariencia_%E2%80%94appearance_controlar_el_estilo_a_nivel_del_sistema_operativo)
 - [Pseudoclases de la interfaz de usuario](/es/docs/Learn/Forms/UI_pseudo-classes)
 - [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
@@ -23405,9 +23421,9 @@ title: Advanced form styling
 slug: Learn/Forms/Advanced_form_styling
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T095439Z" creationid="Nachec" creationdate="20221027T195457Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T095506Z" creationid="Nachec" creationdate="20221027T195457Z">
         <seg>---
-title: Estilizado de formularios avanzado
+title: Estilizar formularios avanzado
 slug: Learn/Forms/Advanced_form_styling
 rue: Nachec✓
 tags:</seg>
@@ -40931,6 +40947,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T223544Z" creationid="gitnacho" creationdate="20221018T223544Z">
         <seg>Por ejemplo, si ya conoces HTML, puedes pasar a la sección CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if you need to [perform advanced styling](/en-US/docs/Learn/Forms/Advanced_form_styling) on some controls such as the {{HTMLElement("select")}} element or if you want to provide custom behaviors, you may consider building your own controls.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T095654Z" creationid="Nachec" creationdate="20221028T095654Z">
+        <seg>Por ejemplo, si necesitas [realizar estilo avanzado](/es/docs/Learn/Forms/Advanced_form_styling) en algunos controles como el elemento {{HTMLElement("select")}} o si deseas proporcionar comportamiento, puedes considerar crear tus propios controles.</seg>
       </tuv>
     </tu>
     <tu>
