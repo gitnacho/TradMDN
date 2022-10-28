@@ -82318,7 +82318,7 @@ console.log(uintc8FromIterable);
       <tuv lang="en-US">
         <seg>{{EmbedLiveSample("A_payment_form","100%",620, "", "Learn/Forms/How_to_structure_a_web_form/Example")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182518Z" creationid="Nachec" creationdate="20221028T182518Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T190148Z" creationid="Nachec" creationdate="20221028T182518Z">
         <seg>{{EmbedLiveSample("A_payment_form","100%",620, "", "Learn/Forms/How_to_structure_a_web_form/Example")}}</seg>
       </tuv>
     </tu>
