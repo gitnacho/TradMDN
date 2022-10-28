@@ -3340,6 +3340,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### CSS Content</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200231Z" creationid="Nachec" creationdate="20221028T200231Z">
+        <seg>### Contenido CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### CSS-wide values</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234219Z" creationid="Nachec" creationdate="20221021T234219Z">
@@ -29540,6 +29548,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/section&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200221Z" creationid="Nachec" creationdate="20221028T200221Z">
+        <seg>&lt;/section&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/select&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T012141Z" creationid="gitnacho" creationdate="20220901T012141Z">
@@ -30935,6 +30955,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181219Z" creationid="Nachec" creationdate="20221028T181219Z">
         <seg>&lt;input type="radio" id="title_3" name="title" value="J" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="title_3" name="title" value="Q" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200202Z" creationid="Nachec" creationdate="20221028T200202Z">
+        <seg>&lt;input type="radio" id="title_3" name="title" value="Q" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32371,6 +32399,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183455Z" creationid="gitnacho" creationdate="20221008T183455Z">
         <seg>&lt;p&gt;: Mi descripción de term2&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;button type="submit"&gt;Validate the payment&lt;/button&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200220Z" creationid="Nachec" creationdate="20221028T200220Z">
+        <seg>&lt;p&gt;&lt;button type="submit"&gt;Validar el pago&lt;/button&gt;&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -73499,6 +73535,16 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border: none;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200241Z" creationid="Nachec" creationdate="20221028T200241Z">
+        <seg>border: none;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>box-shadow: 1px 1px 3px #ccc;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T223055Z" creationid="Nachec" creationdate="20221027T223055Z">
@@ -76498,6 +76544,14 @@ function clearHighlight() {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fieldset {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200242Z" creationid="Nachec" creationdate="20221028T200242Z">
+        <seg>fieldset {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>file.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210121T221623Z" creationid="nacho" creationdate="20210121T221623Z">
@@ -76780,6 +76834,14 @@ math .highlight {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085725Z" creationid="Nachec" creationdate="20221028T085725Z">
         <seg>form li + li {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>form {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200234Z" creationid="Nachec" creationdate="20221028T200234Z">
+        <seg>form {</seg>
       </tuv>
     </tu>
     <tu>
@@ -77912,6 +77974,16 @@ textarea:focus {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>input[type="checkbox"],
+input[type="radio"] {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200239Z" creationid="Nachec" creationdate="20221028T200239Z">
+        <seg>input[type="checkbox"],
+input[type="radio"] {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>input[type="checkbox"]::before {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215229Z" creationid="Nachec" creationdate="20221027T215229Z">
@@ -78130,6 +78202,22 @@ select {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085134Z" creationid="Nachec" creationdate="20221021T085134Z">
         <seg>conocimiento.&lt;/td&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>label em {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200245Z" creationid="Nachec" creationdate="20221028T200245Z">
+        <seg>label em {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>label span {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200236Z" creationid="Nachec" creationdate="20221028T200236Z">
+        <seg>label span {</seg>
       </tuv>
     </tu>
     <tu>
@@ -78354,6 +78442,16 @@ select {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>list-style: none;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200233Z" creationid="Nachec" creationdate="20221028T200233Z">
+        <seg>list-style: none;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>local.get $errorValueArg</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023343Z" creationid="gitnacho" creationdate="20221008T023343Z">
@@ -78500,6 +78598,24 @@ select {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>margin-left: 136px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200243Z" creationid="Nachec" creationdate="20221028T200243Z">
+        <seg>margin-left: 136px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>margin-top: 0;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200232Z" creationid="Nachec" creationdate="20221028T200232Z">
+        <seg>margin-top: 0;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>margin-top: 1em;
 }</seg>
       </tuv>
@@ -78543,6 +78659,16 @@ select {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085724Z" creationid="Nachec" creationdate="20221028T085724Z">
         <seg>margin: 0;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>margin: 20px 0 0 124px;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200244Z" creationid="Nachec" creationdate="20221028T200244Z">
+        <seg>margin: 20px 0 0 124px;
 }</seg>
       </tuv>
     </tu>
@@ -80424,6 +80550,14 @@ api.free_result(resultPointer);
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>right: 5px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200245Z" creationid="Nachec" creationdate="20221028T200245Z">
+        <seg>right: 5px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>role="button"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013729Z" creationid="gitnacho" creationdate="20220901T013729Z">
@@ -81364,6 +81498,18 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>top: 20px;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200249Z" creationid="Nachec" creationdate="20221028T200249Z">
+        <seg>top: 20px;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>top: 6px;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215857Z" creationid="Nachec" creationdate="20221027T215857Z">
@@ -81676,10 +81822,26 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>width: 120px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200236Z" creationid="Nachec" creationdate="20221028T200236Z">
+        <seg>width: 120px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>width: 1em;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215212Z" creationid="Nachec" creationdate="20221027T215212Z">
         <seg>width: 1em;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width: 250px;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200237Z" creationid="Nachec" creationdate="20221028T200237Z">
+        <seg>width: 250px;</seg>
       </tuv>
     </tu>
     <tu>
@@ -81748,6 +81910,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085738Z" creationid="Nachec" creationdate="20221028T085738Z">
         <seg>width: 90px;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width: auto;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200239Z" creationid="Nachec" creationdate="20221028T200239Z">
+        <seg>width: auto;</seg>
       </tuv>
     </tu>
     <tu>
@@ -81928,6 +82098,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T092539Z" creationid="gitnacho" creationdate="20221006T092539Z">
         <seg>{{ APIRef("Web Animations") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('A_payment_form', '100%', 620) }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200253Z" creationid="Nachec" creationdate="20221028T200253Z">
+        <seg>{{ EmbedLiveSample('A_payment_form', '100%', 620) }}</seg>
       </tuv>
     </tu>
     <tu>
