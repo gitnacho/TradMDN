@@ -11259,8 +11259,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       <tuv lang="en-US">
         <seg>- : You'll come across some cases where the native form widgets just don't provide what you need, e.g. because of styling or functionality.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193541Z" creationid="Nachec" creationdate="20221027T193541Z">
-        <seg>- : Te encontrarás con algunos casos en los que los widgets de formulario nativos simplemente no proporcionan lo que necesitas, p. ej. debido al estilo o la funcionalidad.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T195022Z" creationid="Nachec" creationdate="20221027T193541Z">
+        <seg>- : Te encontrarás con algunos casos en los que los controles nativos de formulario simplemente no proporcionan lo que necesitas, p. ej. debido al estilo o la funcionalidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13297,6 +13297,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
         <seg>- Infrastructure
   - Infraestructura
 ---</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Input</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T194746Z" creationid="Nachec" creationdate="20221028T194746Z">
+        <seg>- Input</seg>
       </tuv>
     </tu>
     <tu>
@@ -23582,10 +23590,11 @@ title: Basic native form controls
 slug: Learn/Forms/Basic_native_form_controls
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081536Z" creationid="Nachec" creationdate="20221028T011206Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T195825Z" creationid="Nachec" creationdate="20221028T011206Z">
         <seg>---
 title: Controles de formulario nativos básicos
 slug: Learn/Forms/Basic_native_form_controls
+rue: Nachec✓
 tags:</seg>
       </tuv>
     </tu>
@@ -24184,6 +24193,21 @@ tags:</seg>
 title: Event
 slug: Web/API/Event
 page-type: web-api-interface
+rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: Example
+slug: Learn/Forms/How_to_structure_a_web_form/Example
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T195922Z" creationid="Nachec" creationdate="20221028T195825Z">
+        <seg>---
+title: Ejemplo
+slug: Learn/Forms/How_to_structure_a_web_form/Example
 rue: Nachec✓
 tags:</seg>
       </tuv>
@@ -36636,8 +36660,8 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       <tuv lang="en-US">
         <seg>A web form's HTML is made up of one or more **form controls** (sometimes called **widgets**), plus some additional elements to help structure the overall form — they are often referred to as **HTML forms**.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012705Z" creationid="Nachec" creationdate="20221028T012705Z">
-        <seg>El HTML de un **formulario web** está compuesto por uno o más **controles de formulario** (a veces llamados **widgets**), además de algunos elementos adicionales que ayudan a estructurar el formulario general; a menudo se les conoce como **formularios HTML**.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T195153Z" creationid="Nachec" creationdate="20221028T012705Z">
+        <seg>El HTML de un **formulario web** está compuesto por uno o más **controles de formulario** (en inglés llamados **widgets**), además de algunos elementos adicionales que ayudan a estructurar el formulario general; a menudo se les conoce como **formularios HTML**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45745,8 +45769,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In such cases, you may need to build your own form widget out of raw HTML.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193549Z" creationid="Nachec" creationdate="20221027T193549Z">
-        <seg>En tales casos, es posible que debas crear tu propio widget de formulario a partir de HTML sin formato.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T195037Z" creationid="Nachec" creationdate="20221027T193549Z">
+        <seg>En tales casos, es posible que debas crear tu propio control de formulario a partir de HTML sin formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57896,8 +57920,8 @@ resuelta.</seg>
       <tuv lang="en-US">
         <seg>The {{HTMLElement("fieldset")}} element is a convenient way to create groups of widgets that share the same purpose, for styling and semantic purposes.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155941Z" creationid="Nachec" creationdate="20221028T155941Z">
-        <seg>El elemento {{HTMLElement ("fieldset")}} es una forma cómoda de crear grupos de controles de formulario (también denominados *widgets*) que comparten el mismo propósito, con fines semánticos y de aplicación de estilo.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T194849Z" creationid="Nachec" creationdate="20221028T155941Z">
+        <seg>El elemento {{HTMLElement ("fieldset")}} es una forma cómoda de crear grupos de controles de formulario (en inglés denominados *widgets*) que comparten el mismo propósito, con fines semánticos y de aplicación de estilo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82562,6 +82586,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093846Z" creationid="Nachec" creationdate="20221028T093846Z">
         <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/HTML5_input_types","Learn/Forms/Styling_web_forms", "Learn/Forms")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/How_to_structure_a_web_form", "Learn/Forms/HTML5_input_types", "Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T194749Z" creationid="Nachec" creationdate="20221028T194749Z">
+        <seg>{{LearnSidebar}}{{PreviousMenuNext("Learn/Forms/How_to_structure_a_web_form", "Learn/Forms/HTML5_input_types", "Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
