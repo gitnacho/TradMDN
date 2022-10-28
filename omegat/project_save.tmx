@@ -2264,6 +2264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Sending form data to your web server</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090101Z" creationid="Nachec" creationdate="20221028T090101Z">
+        <seg>## Enviar los datos del formulario a un servidor web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Server-driven content negotiation</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T091647Z" creationid="Nachec" creationdate="20221022T091617Z">
@@ -26773,6 +26781,14 @@ example.js:41 getArg 0 : 42
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>/* This extra margin represent roughly the same space as the space</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090004Z" creationid="Nachec" creationdate="20221028T090004Z">
+        <seg>/* Este margen adicional representa aproximadamente el mismo espacio que el espacio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/* To make sure that all text fields have the same font settings</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085800Z" creationid="Nachec" creationdate="20221028T085800Z">
@@ -34257,6 +34273,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233643Z" creationid="gitnacho" creationdate="20221006T233601Z">
         <seg>&gt; **Nota:** Puedes encontrar nuestra demostración completa en [table.html](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/table.html) (también puedes [verla en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/table.html)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** You can find our version on GitHub at [first-form-styled.html](https://github.com/mdn/learning-area/blob/main/html/forms/your-first-HTML-form/first-form-styled.html) ([also see it live](https://mdn.github.io/learning-area/html/forms/your-first-HTML-form/first-form-styled.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090050Z" creationid="Nachec" creationdate="20221028T090050Z">
+        <seg>&gt; **Nota:** Puedes encontrar nuestra versión en GitHub en [first-form-styled.html](https://github.com/mdn/learning-area/blob/master/html/forms/your-first-HTML-form/first-form-styled.html) (y lo puedes [ver en vivo](https://mdn.github.io/learning-area/html/forms/your-first-HTML-form/first-form-styled.html)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50346,6 +50370,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save and reload, and you'll see that your form should look much less ugly.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090026Z" creationid="Nachec" creationdate="20221028T090026Z">
+        <seg>Guarda y vuelve a cargar, y observa que tu formulario presenta un aspecto mucho menos feo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save the file as `style.css` in a directory named `styles`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T125739Z" creationid="Nachec" creationdate="20221023T125739Z">
@@ -55043,6 +55075,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The last part, and perhaps the trickiest, is to handle form data on the server side.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090114Z" creationid="Nachec" creationdate="20221028T090114Z">
+        <seg>La última parte, y quizás la más complicada, es manejar los datos del formulario en el lado del servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The last section is the `[dependencies]` section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063916Z" creationid="gitnacho" creationdate="20221004T063916Z">
@@ -56323,6 +56363,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213521Z" creationid="Nachec" creationdate="20221021T213521Z">
         <seg>La propiedad {{DOMxRef("HTMLElement.dataset")}} da acceso a ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{HTMLelement("form")}} element defines where and how to send the data thanks to the [`action`](/en-US/docs/Web/HTML/Element/form#attr-action) and [`method`](/en-US/docs/Web/HTML/Element/form#attr-method) attributes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090219Z" creationid="Nachec" creationdate="20221028T090219Z">
+        <seg>El elemento {{HTMLElement("form")}} define dónde y cómo enviar los datos gracias a los atributos [`action`](/es/docs/Web/HTML/Element/form#attr-action) y [`method`](/es/docs/Web/HTML/Element/form#method).</seg>
       </tuv>
     </tu>
     <tu>
@@ -62185,6 +62233,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T215939Z" creationid="gitnacho" creationdate="20221011T214049Z">
         <seg>Presentamos tres escenarios que demuestran cómo funciona el intercambio de recursos de origen cruzado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We provide a `name` attribute for each form control.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090248Z" creationid="Nachec" creationdate="20221028T090248Z">
+        <seg>Proporcionamos un nombre ([`name`](/es/docs/Web/HTML/Attributes/name)) a cada control de formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71370,6 +71426,14 @@ math [id] .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>between the labels and their text fields */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090012Z" creationid="Nachec" creationdate="20221028T090012Z">
+        <seg>entre las etiquetas y sus campos de texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>body {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T233541Z" creationid="nachec" creationdate="20220804T233541Z">
@@ -76483,6 +76547,18 @@ select {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>margin-left: 0.5em;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090013Z" creationid="Nachec" creationdate="20221028T090013Z">
+        <seg>margin-left: 0.5em;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>margin-top: 1em;
 }</seg>
       </tuv>
@@ -77285,6 +77361,16 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210919T083518Z" creationid="gitnacho" creationdate="20210919T083518Z">
         <seg>`package.json`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>padding-left: 90px; /* same size as the label elements */
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085952Z" creationid="Nachec" creationdate="20221028T085952Z">
+        <seg>padding-left: 90px; /* mismo tamaño que los elementos de la etiqueta */
+}</seg>
       </tuv>
     </tu>
     <tu>
