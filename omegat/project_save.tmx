@@ -64091,6 +64091,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We will cover many of the features introduced here in the next few articles, with the next article looking in more detail at using all the different types of form widgets you'll want to use to collect information from your users.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T183419Z" creationid="Nachec" creationdate="20221028T183419Z">
+        <seg>Expondremos muchas de las características que se presentan aquí en los siguientes artículos, y el próximo artículo analizará con más detalle el uso de todos los diferentes tipos de controles de formulario que vas a querer usar para recopilar la información de tus usuarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We will do that by tweaking our [previous example](#active_learning_recognize_scripted_elements).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T104621Z" creationid="Nachec" creationdate="20221021T104621Z">
@@ -66427,6 +66435,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T202009Z" creationid="Nachec" creationdate="20221021T202009Z">
         <seg>Debes utilizar el [complemento MathML-fonts](https://addons.mozilla.org/firefox/addon/mathml-fonts/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have all the knowledge you'll need to properly structure your web forms.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T183103Z" creationid="Nachec" creationdate="20221028T183103Z">
+        <seg>Ahora tienes todos los conocimientos necesarios para estructurar adecuadamente tus formularios web.</seg>
       </tuv>
     </tu>
     <tu>
