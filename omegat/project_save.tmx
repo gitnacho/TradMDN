@@ -11251,6 +11251,30 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- A click on a `button` button does _nothing_!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085237Z" creationid="Nachec" creationdate="20221028T085237Z">
+        <seg>- Un clic en un botón `button` no hace... ¡nada!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- A click on a `reset` button resets all the form widgets to their default value immediately.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085151Z" creationid="Nachec" creationdate="20221028T085151Z">
+        <seg>- Un clic en un botón `reset` restablece de inmediato todos los controles de formulario a su valor predeterminado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- A click on a `submit` button (the default value) sends the form's data to the web page defined by the `action` attribute of the {{HTMLelement("form")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085137Z" creationid="Nachec" creationdate="20221028T085137Z">
+        <seg>- Un clic en un botón `submit` (el valor predeterminado) envía los datos del formulario a la página web definida por el atributo `action` del elemento {{HTMLelement("form")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- A logical classes of token elements.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T214123Z" creationid="Nachec" creationdate="20221021T214123Z">
@@ -29525,6 +29549,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;button type="submit"&gt;Send your message&lt;/button&gt;
+&lt;/li&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085048Z" creationid="Nachec" creationdate="20221028T085048Z">
+        <seg>&lt;button type="submit"&gt;Envía tu mensaje&lt;/button&gt;
+&lt;/li&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;button&gt;Change user&lt;/button&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193903Z" creationid="Nachec" creationdate="20221023T193903Z">
@@ -41193,6 +41229,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From a UX point of view, this is considered bad practice, so you should avoid using this type of button unless you really have a good reason to include one.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085217Z" creationid="Nachec" creationdate="20221028T085217Z">
+        <seg>Desde el punto de vista de *UX*, esto se considera una mala práctica, por lo que debes evitar usar este tipo de botones a menos que realmente tengas una buena razón para incluirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From a user experience (UX) point of view, it's important to remember that the bigger your form, the more you risk frustrating people and losing users.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012929Z" creationid="Nachec" creationdate="20221028T012929Z">
@@ -51709,6 +51753,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That sounds silly, but it's amazingly useful for building custom buttons — you can define their chosen functionality with JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085311Z" creationid="Nachec" creationdate="20221028T085311Z">
+        <seg>Eso suena tonto, pero es muy útil para crear botones personalizados: puedes definir su funcionalidad con JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That way you'll bump into fewer problems later down the road.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T044329Z" creationid="Nachec" creationdate="20221023T044329Z">
@@ -56283,6 +56335,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The {{htmlelement("button")}} element also accepts a `type` attribute — this accepts one of three values: `submit`, `reset`, or `button`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085117Z" creationid="Nachec" creationdate="20221028T085117Z">
+        <seg>El elemento {{HTMLElement("button")}} también acepta un atributo `type`, que a su vez acepta uno de estos tres valores: `submit`, `reset` o `button`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Their use is extremely rare.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T134631Z" creationid="Nachec" creationdate="20221022T134631Z">
@@ -58867,6 +58927,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T175509Z">
         <seg>Esto hace básicamente el mismo trabajo que el elemento {{HTMLElement("link")}} para CSS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is done by using the {{HTMLelement("button")}} element; add the following just above the closing `&lt;/ul&gt;` tag:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085019Z" creationid="Nachec" creationdate="20221028T085019Z">
+        <seg>Esto se hace con el elemento {{HTMLelement("button")}}; añade lo siguiente justo encima de la etiqueta de cierre `&lt;/ul&gt;`:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66706,6 +66774,16 @@ p {</seg>
 &lt;label&gt;&lt;span&gt;&lt;input type="checkbox" name="q5" value="true"&gt;&lt;/span&gt; True&lt;/label&gt;
 &lt;label&gt;&lt;span&gt;&lt;input type="checkbox" name="q5" value="false"&gt;&lt;/span&gt; False&lt;/label&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;li class="button"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085022Z" creationid="Nachec" creationdate="20221028T085022Z">
+        <seg>```html
+&lt;li class="button"&gt;</seg>
       </tuv>
     </tu>
     <tu>
