@@ -17946,7 +17946,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100326Z" creationid="Nachec" creationdate="20221028T082018Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101057Z" creationid="Nachec" creationdate="20221028T082018Z">
         <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
@@ -17954,7 +17954,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
 - [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
 - [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling)
-- [Pseudoclases de la ](/es/docs/Learn/Forms/UI_pseudo-classes)
+- [Pseudoclases de la IU](/es/docs/Learn/Forms/UI_pseudo-classes)
 - [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
@@ -25251,6 +25251,20 @@ tags:</seg>
         <seg>---
 title: Tutoriales
 slug: Web/Tutorials
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: UI pseudo-classes
+slug: Learn/Forms/UI_pseudo-classes
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101037Z" creationid="Nachec" creationdate="20221028T101037Z">
+        <seg>---
+title: Pseudoclases de la IU
+slug: Learn/Forms/UI_pseudo-classes
 tags:</seg>
       </tuv>
     </tu>
@@ -44469,6 +44483,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to using CSS to style inputs based on the {{cssxref(":valid")}} or {{cssxref(":invalid")}} UI states based on the current state of each input, as noted in the [UI pseudo-classes](#ui_pseudo-classes) section above, the browser provides for client-side validation on (attempted) form submission.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101228Z" creationid="Nachec" creationdate="20221028T101228Z">
+        <seg>Además de usar CSS para aplicar estilo a las entradas en función de los estados de la interfaz de usuario {{CSSxRef(":valid")}} o {{CSSxRef(":invalid")}} en función del estado actual de cada entrada, como se indica en [Pseudoclases de la IU](#pseudoclases_de_la_iu) anterior, el navegador proporciona validación de lado del cliente en (intentos) de envío de formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to viewing WebAssembly as text, developers are able to debug (place breakpoints, inspect the callstack, single-step, etc.) WebAssembly using the text format.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T181828Z" creationid="gitnacho" creationdate="20221006T181828Z">
@@ -44770,6 +44792,14 @@ it may be either imported into or exported from the calling code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190521Z" creationid="Nachec" creationdate="20221025T190521Z">
         <seg>En nuestro ejemplo, podría ser un coche, una bicicleta o tus propios pies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In our final task for this assessment series, we provide you with a feedback form that is already nicely-styled — you've already seen something similar if you've worked through our [UI pseudo-classes](/en-US/docs/Learn/Forms/UI_pseudo-classes) article, and now we want you to come up with your own solution.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101012Z" creationid="Nachec" creationdate="20221028T101012Z">
+        <seg>En nuestra tarea final para esta serie de evaluaciones, te proporcionamos un formulario de comentarios que ya tiene un estilo agradable: ya has visto algo similar si has trabajado con nuestras [pseudoclases de la interfaz de usuario](/es/docs /Learn/Forms/UI_pseudo-classes) y ahora queremos que encuentres tu propia solución.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53794,8 +53824,8 @@ names custom section, for example:</seg>
       <tuv lang="en-US">
         <seg>The aim of this skill test is to assess whether you've understood our [Advanced form styling](/en-US/docs/Learn/Forms/Advanced_form_styling) and [UI pseudo-classes](/en-US/docs/Learn/Forms/UI_pseudo-classes) articles.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100224Z" creationid="Nachec" creationdate="20221028T100224Z">
-        <seg>El objetivo de esta prueba de habilidad es evaluar si has entendido nuestro [Estilo de formulario avanzado](/es/docs/Learn/Forms/Advanced_form_styling) y [Pseudoclases de interfaz de usuario](/es/docs/Learn /Forms/UI_pseudo-classes) artículos.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T100918Z" creationid="Nachec" creationdate="20221028T100224Z">
+        <seg>El objetivo de esta prueba de habilidad es evaluar si has entendido nuestros artículos [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling) y [Pseudoclases de la IU](/es/docs/Learn /Forms/UI_pseudo-classes).</seg>
       </tuv>
     </tu>
     <tu>
