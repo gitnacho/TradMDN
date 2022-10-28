@@ -4838,8 +4838,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### The `&lt;form&gt;` element</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T015840Z" creationid="Nachec" creationdate="20221028T015840Z">
-        <seg>### El elemento {{HTMLelement("form")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021311Z" creationid="Nachec" creationdate="20221028T015840Z">
+        <seg>### El elemento ``form&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -15356,8 +15356,8 @@ browser-compat: javascript.builtins.SharedArrayBuffer
       <tuv lang="en-US">
         <seg>- UXMatters is also a very thoughtful resource with good advice from [basic best practices](https://www.uxmatters.com/mt/archives/2012/05/7-basic-best-practices-for-buttons.php) to complex concerns such as [multipage forms](https://www.uxmatters.com/mt/archives/2010/03/pagination-in-web-forms-evaluating-the-effectiveness-of-web-forms.php).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013454Z" creationid="Nachec" creationdate="20221028T013433Z">
-        <seg>- UXMatters también es un recurso que da buenos consejos, desde [buenas prácticas básicas](http://www.uxmatters.com/mt/archives/2012/05/7-basic-best-practices-for-buttons.php) hasta cuestiones complejas como los [formularios de varias páginas](http://www.uxmatters.com/mt/archives/2010/03/pagination-in-web-forms-evaluating-the-effectiveness-of-web-forms.php).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021648Z" creationid="Nachec" creationdate="20221028T013433Z">
+        <seg>- UXMatters también es un recurso que da buenos consejos, desde [buenas prácticas básicas](https://www.uxmatters.com/mt/archives/2012/05/7-basic-best-practices-for-buttons.php) hasta cuestiones complejas como los [formularios de varias páginas](https://www.uxmatters.com/mt/archives/2010/03/pagination-in-web-forms-evaluating-the-effectiveness-of-web-forms.php).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26117,9 +26117,9 @@ title: Your first form
 slug: Learn/Forms/Your_first_form
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T020738Z" creationid="Nachec" creationdate="20221028T011937Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021441Z" creationid="Nachec" creationdate="20221028T011937Z">
         <seg>---
-title: Your first form
+title: Tu primer formulario
 slug: Learn/Forms/Your_first_form
 rue: Nachec✓
 tags:</seg>
@@ -36549,6 +36549,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T205545Z" creationid="gitnacho" creationdate="20221005T205545Z">
         <seg>Un resultado de ejemplo se podría ver así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An implicit example of this was found over at The Artillery Blog for Artillery Games, where they [adjust their rate of garbage generation](https://web.archive.org/web/20161021030645/http://blog.artillery.com/2012/10/browser-garbage-collection-and-framerate.html) to optimize garbage collection.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021627Z" creationid="Nachec" creationdate="20221028T021627Z">
+        <seg>Se encontró un ejemplo implícito de esto en The Artillery Blog for Artillery Games, donde [ajustan su tasa de generación de basura](https://web.archive.org/web/20161021030645/https://blog.artillery.com /2012/10/browser-garbage-collection-and-framerate.html) para optimizar la recolección de basura.</seg>
       </tuv>
     </tu>
     <tu>
