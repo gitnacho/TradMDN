@@ -61590,6 +61590,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We will use the following HTML elements: {{HTMLelement("form")}}, {{HTMLelement("label")}}, {{HTMLelement("input")}}, {{HTMLelement("textarea")}}, and {{HTMLelement("button")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T015745Z" creationid="Nachec" creationdate="20221028T015745Z">
+        <seg>Vamos a utilizar los siguientes elementos HTML: {{HTMLelement("form")}}, {{HTMLelement("label")}}, {{HTMLelement("input")}}, {{HTMLelement("textarea")}} y {{HTMLelement("button")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We won't use this test code at all, so go ahead and delete it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T061856Z" creationid="gitnacho" creationdate="20221004T061856Z">
