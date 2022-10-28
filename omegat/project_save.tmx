@@ -15213,6 +15213,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- They can be marked as {{htmlattrxref("readonly","input")}} (the user cannot modify the input value but it is still sent with the rest of the form data) or {{htmlattrxref("disabled","input")}} (the input value can't be modified and is never sent with the rest of the form data).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T235804Z" creationid="Nachec" creationdate="20221028T235804Z">
+        <seg>- Se pueden marcar como {{HTMLAttrxRef("readonly","input")}} (el usuario no puede modificar el valor de entrada, pero este se envía con el resto de los datos del formulario) o {{HTMLAttrxRef("disabled","input")}} (el valor de entrada no se puede modificar y nunca se envía con el resto de los datos del formulario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- They should always provide a way to override the server-chosen language, e.g., by providing a language menu on the site.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T093158Z" creationid="Nachec" creationdate="20221022T093158Z">
@@ -37308,6 +37316,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All basic text controls share some common behaviors:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T235559Z" creationid="Nachec" creationdate="20221028T235559Z">
+        <seg>Todos los controles de texto básicos comparten algunos comportamientos comunes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All client hints that are not low entropy hints are considered high entropy hints.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T092305Z" creationid="gitnacho" creationdate="20221012T092305Z">
@@ -37360,6 +37376,14 @@ JavaScript function into the WebAssembly Module in the process.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T205809Z" creationid="Nachec" creationdate="20221023T205809Z">
         <seg>A veces las empresas proporcionan ambos en un paquete único. Los registradores acostumbran a facilitar la manera de comprobar si el nombre de dominio que deseas para tu sitio está disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All rich text editors you'll encounter are custom widgets created with HTML, CSS, and JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T235549Z" creationid="Nachec" creationdate="20221028T235549Z">
+        <seg>Todos los controles de formulario que encuentres con texto enriquecido son controles de formulario personalizados creados con HTML, CSS y JavaScript.</seg>
       </tuv>
     </tu>
     <tu>
