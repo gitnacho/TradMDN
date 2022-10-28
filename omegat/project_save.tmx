@@ -12281,8 +12281,8 @@ browser-compat:</seg>
       <tuv lang="en-US">
         <seg>- Elements involved in creating dropdown widgets, including {{HTMLElement("select")}}, {{HTMLElement("option")}}, {{HTMLElement("optgroup")}} and {{HTMLElement("datalist")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203621Z" creationid="Nachec" creationdate="20221027T203527Z">
-        <seg>- Elementos involucrados en la creación de widgets desplegables, incluidos {{HTMLElement("select")}}, {{HTMLElement("option")}}, {{HTMLElement("optgroup")}} y {{HTMLElement("datalist") }}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T194652Z" creationid="Nachec" creationdate="20221027T203527Z">
+        <seg>- Elementos involucrados en la creación de controles desplegables, incluidos {{HTMLElement("select")}}, {{HTMLElement("option")}}, {{HTMLElement("optgroup")}} y {{HTMLElement("datalist") }}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82318,8 +82318,8 @@ console.log(uintc8FromIterable);
       <tuv lang="en-US">
         <seg>{{EmbedLiveSample("A_payment_form","100%",620, "", "Learn/Forms/How_to_structure_a_web_form/Example")}}</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T190148Z" creationid="Nachec" creationdate="20221028T182518Z">
-        <seg>{{EmbedLiveSample("A_payment_form","100%",620, "", "Learn/Forms/How_to_structure_a_web_form/Example")}}</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T194343Z" creationid="Nachec" creationdate="20221028T182518Z">
+        <seg>{{EmbedLiveSample("A_payment_form","100%",620)}}</seg>
       </tuv>
     </tu>
     <tu>
