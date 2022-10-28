@@ -14224,8 +14224,8 @@ browser-compat: api.NavigationPreloadManager
       <tuv lang="en-US">
         <seg>- Smashing Magazine has some [good articles about forms UX](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/), including an older but still relevant [Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/) article.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013341Z" creationid="Nachec" creationdate="20221028T013341Z">
-        <seg>- Smashing Magazine tiene algunos [artículos muy buenos sobre formularios UX](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/), incluido el artículo —antiguo pero relevante— [An Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013438Z" creationid="Nachec" creationdate="20221028T013341Z">
+        <seg>- Smashing Magazine tiene algunos [artículos muy buenos sobre formularios UX](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/), incluido el artículo —antiguo pero relevante— [An Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/) \[Amplia guía de usabilidad para formularios web].</seg>
       </tuv>
     </tu>
     <tu>
@@ -15077,6 +15077,14 @@ browser-compat: javascript.builtins.SharedArrayBuffer
         <seg>- Tipos de eventos disponibles: [Referencia de `Event`](/es/docs/Web/Events)
 - [Comparación de destino de `Event`](/es/docs/Web/API/Event/Comparison_of_Event_Targets) (`target` vs `currentTarget` vs `relatedTarget` vs `originalTarget`)
 - [Creación y activación de eventos personalizados](/es/docs/Web/Events/Creating_and_triggering_events)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- UXMatters is also a very thoughtful resource with good advice from [basic best practices](https://www.uxmatters.com/mt/archives/2012/05/7-basic-best-practices-for-buttons.php) to complex concerns such as [multipage forms](https://www.uxmatters.com/mt/archives/2010/03/pagination-in-web-forms-evaluating-the-effectiveness-of-web-forms.php).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013454Z" creationid="Nachec" creationdate="20221028T013433Z">
+        <seg>- UXMatters también es un recurso que da buenos consejos, desde [buenas prácticas básicas](http://www.uxmatters.com/mt/archives/2012/05/7-basic-best-practices-for-buttons.php) hasta cuestiones complejas como los [formularios de varias páginas](http://www.uxmatters.com/mt/archives/2010/03/pagination-in-web-forms-evaluating-the-effectiveness-of-web-forms.php).</seg>
       </tuv>
     </tu>
     <tu>
