@@ -14222,6 +14222,14 @@ browser-compat: api.NavigationPreloadManager
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- Smashing Magazine has some [good articles about forms UX](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/), including an older but still relevant [Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/) article.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013341Z" creationid="Nachec" creationdate="20221028T013341Z">
+        <seg>- Smashing Magazine tiene algunos [artículos muy buenos sobre formularios UX](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/), incluido el artículo —antiguo pero relevante— [An Extensive Guide To Web Form Usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- So-called "Linters", which take a set of rules, look at your code, and highlight places where you haven't followed the rules properly.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T045444Z" creationid="Nachec" creationdate="20221027T045444Z">
@@ -38617,6 +38625,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Designing forms is an important step when you are building a site or application.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012956Z" creationid="Nachec" creationdate="20221028T012956Z">
+        <seg>Diseñar formularios es un paso importante cuando creas un sitio web o una aplicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Detaches the previous `buffer`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000420Z" creationid="gitnacho" creationdate="20221008T000420Z">
@@ -40835,6 +40851,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T085237Z" creationid="gitnacho" creationdate="20221006T085237Z">
         <seg>Desde el punto de vista de JavaScript, es como si cada función `wasm` también _fuera_ una función JavaScript, pero están encapsuladas por el objeto `instance` de la función `wasm` exportada y solo hay formas limitadas de acceder a ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From a user experience (UX) point of view, it's important to remember that the bigger your form, the more you risk frustrating people and losing users.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012929Z" creationid="Nachec" creationdate="20221028T012929Z">
+        <seg>Desde el punto de vista de la experiencia del usuario (**UX** pot **User experience** en inglés), es importante recordar que cuanto más grande es tu formulario, más te arriesgas a frustrar a las personas y perder usuarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46018,6 +46042,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's beyond the scope of this article to cover the user experience of forms, but if you want to dig into that topic you should read the following articles:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013021Z" creationid="Nachec" creationdate="20221028T013021Z">
+        <seg>Va más allá del alcance de este artículo exponer la experiencia de usuario de los formularios, pero si deseas profundizar en ese tema, puedes leer los siguientes artículos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's different when fetching a document entered in the address bar or an element linked via an {{ HTMLElement("img") }}, {{ HTMLElement("video") }}, or {{ HTMLElement("audio") }} element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092416Z" creationid="Nachec" creationdate="20221022T092416Z">
@@ -46326,6 +46358,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T141702Z" creationid="Nachec" creationdate="20221023T141651Z">
         <seg>Sigue añadiendo estas nuevas reglas al final del archivo `style.css`,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep it simple and stay focused: ask only for the data you absolutely need.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012944Z" creationid="Nachec" creationdate="20221028T012944Z">
+        <seg>Tiene que ser simple y conciso: solicita solo los datos que necesitas.</seg>
       </tuv>
     </tu>
     <tu>
