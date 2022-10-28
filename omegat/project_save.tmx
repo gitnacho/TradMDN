@@ -28680,6 +28680,16 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;!-- But this is probably best: --&gt;
+&lt;div&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174645Z" creationid="Nachec" creationdate="20221028T174645Z">
+        <seg>&lt;!-- Pero probablemente lo mejor es esto: --&gt;
+&lt;div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;!-- It's correct but unnecessary to group the children of the math element with an mrow element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T182211Z" creationid="Nachec" creationdate="20221021T182211Z">
@@ -29072,6 +29082,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T012142Z" creationid="gitnacho" creationdate="20220901T012142Z">
         <seg>&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/label&gt;
+&lt;/div--&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174632Z" creationid="Nachec" creationdate="20221028T174632Z">
+        <seg>&lt;/label&gt;
+&lt;/div--&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30555,6 +30575,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input id="username" type="text" name="username" /&gt;
+&lt;/div&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174701Z" creationid="Nachec" creationdate="20221028T174701Z">
+        <seg>&lt;input id="username" type="text" name="username" /&gt;
+&lt;/div&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input id="username" type="text" name="username"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174452Z" creationid="Nachec" creationdate="20221028T174452Z">
@@ -30875,12 +30907,28 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="username"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174611Z" creationid="Nachec" creationdate="20221028T174611Z">
+        <seg>&lt;label for="username"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="username"&gt;&lt;span aria-label="required"&gt;*&lt;/label&gt;
 &lt;/div--&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174500Z" creationid="Nachec" creationdate="20221028T174500Z">
         <seg>&lt;label for="username"&gt;&lt;span aria-label="required"&gt;*&lt;/label&gt;
 &lt;/div--&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="username"&gt;Name: &lt;span aria-label="required"&gt;*&lt;/span&gt;&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174659Z" creationid="Nachec" creationdate="20221028T174659Z">
+        <seg>&lt;label for="username"&gt;Nombre: &lt;abbr title="required" aria-label="required"&gt;*&lt;/abbr&gt;&lt;/label&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32315,6 +32363,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T075928Z" creationid="gitnacho" creationdate="20220828T075928Z">
         <seg>&lt;span</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;span aria-label="required"&gt;*&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174631Z" creationid="Nachec" creationdate="20221028T174631Z">
+        <seg>&lt;span aria-label="required"&gt;*&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;span&gt;Name:&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174622Z" creationid="Nachec" creationdate="20221028T174622Z">
+        <seg>&lt;span&gt;Nombre:&lt;/span&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35957,6 +36021,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T140533Z" creationid="Nachec" creationdate="20221023T140533Z">
         <seg>Se ha configurado una fuente sans-serif, se han ajustado los tamaños de fuente, la altura de línea y el espaciado entre letras, y se ha centrado el encabezado de la página principal](website-screenshot-font-small.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A screen reader will speak an asterisk as "_star_" when encountered.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174827Z" creationid="Nachec" creationdate="20221028T174827Z">
+        <seg>Cuando un lector de pantalla se encuentre con un asterisco pronunciará "*estrella*".</seg>
       </tuv>
     </tu>
     <tu>
@@ -56290,6 +56362,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The paragraph at the top states a rule for required elements.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174724Z" creationid="Nachec" creationdate="20221028T174724Z">
+        <seg>El párrafo de la parte superior establece una regla para los elementos que son obligatorios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The paragraph text has been styled red by our css.](website-screenshot-styled.png)If your paragraph text is red, congratulations!</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T165749Z" creationid="Nachec" creationdate="20221023T130538Z">
@@ -56588,6 +56668,14 @@ de elementos en la tabla.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204905Z" creationid="Nachec" creationdate="20221027T204905Z">
         <seg>El de la derecha tiene `appearance: none;` aplicado, y el de la izquierda no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The rule must be included _before_ it is used so that sighted users and users of assistive technologies such as screen readers can learn what it means before they encounter a required element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174746Z" creationid="Nachec" creationdate="20221028T174746Z">
+        <seg>La regla ha de incluirse *antes* de usarse para que tanto los usuarios videntes como los usuarios que utilizan tecnologías de asistencia y lectores de pantalla, sepan lo que significa antes de encontrar un elemento obligatorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61367,6 +61455,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Titles being read aloud depend on the screen reader's settings, so it is more reliable to also include the [`aria-label`](/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) attribute, which is always read by screen readers.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174948Z" creationid="Nachec" creationdate="20221028T174948Z">
+        <seg>Pero los títulos que se leen en voz alta dependen de la configuración del lector de pantalla, por lo que es más fiable incluir también el atributo [`aria-label`](/es/docs/Web/Accessibility/ARIA/Attributes/aria-label), que los lectores de pantalla siempre leen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To achieve that, you need to attach a `display="block"` attribute on the `&lt;math&gt;` element.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181625Z" creationid="Nachec" creationdate="20221021T181625Z">
@@ -64203,6 +64299,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When hovered by a sighted mouse user, "_required_" should appear, which is achieved by use of the `title` attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174853Z" creationid="Nachec" creationdate="20221028T174853Z">
+        <seg>Cuando un usuario vidente pase el ratón por encima, debería aparecer una etiqueta de "*obligatorio*", lo cual se logra con el uso del atributo `title`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When in doubt, [try running your JSON through a validator](https://jsonlint.com/).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T065543Z" creationid="gitnacho" creationdate="20221005T065543Z">
@@ -64589,6 +64693,14 @@ función exportada desde su interior.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T041840Z" creationid="gitnacho" creationdate="20220921T041840Z">
         <seg>Mientras esto sucede, la versión anterior sigue siendo responsable de las recuperaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While this helps inform users what an asterisk means, it can not be relied upon.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174808Z" creationid="Nachec" creationdate="20221028T174808Z">
+        <seg>Si bien esto ayuda a informar a los usuarios de lo que significa un asterisco, no es posible confiar plenamente en ello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81472,6 +81584,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173821Z" creationid="gitnacho" creationdate="20221005T173821Z">
         <seg>{{EmbedLiveSample("Example", "85ch", "240px")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedLiveSample("Multiple_labels", 120, 120)}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174708Z" creationid="Nachec" creationdate="20221028T174708Z">
+        <seg>{{EmbedLiveSample("Multiple_labels", 120, 120)}}</seg>
       </tuv>
     </tu>
     <tu>
