@@ -29351,6 +29351,18 @@ i32.mul</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;/p&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173940Z" creationid="Nachec" creationdate="20221028T173940Z">
+        <seg>&lt;/p&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/p&gt;
 ```</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T184012Z" creationid="Nachec" creationdate="20221021T184012Z">
@@ -34642,6 +34654,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T061002Z" creationid="gitnacho" creationdate="20221007T061002Z">
         <seg>&gt; **Nota:** Puedes encontrar este ejemplo en GitHub como [add.html](https://github.com/mdn/webassembly-examples/blob/master/understanding-text-format/add.html) (además lo puedes [ver en vivo](https://mdn.github.io/webassembly-examples/understanding-text-format/add.html)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** You can find this example in [checkbox-label.html](https://github.com/mdn/learning-area/blob/main/html/forms/html-form-structure/checkbox-label.html) ([see it live also](https://mdn.github.io/learning-area/html/forms/html-form-structure/checkbox-label.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174252Z" creationid="Nachec" creationdate="20221028T174252Z">
+        <seg>&gt; **Nota:** Puedes encontrar este ejemplo en [checkbox-label.html](https://github.com/mdn/learning-area/blob/master/html/forms/html-form-structure/checkbox-label.html) ([consúltalo en vivo](https://mdn.github.io/learning-area/html/forms/html-form-structure/checkbox-label.html)).</seg>
       </tuv>
     </tu>
     <tu>
