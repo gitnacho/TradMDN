@@ -44492,6 +44492,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In our example, the form will send 3 pieces of data named "`user_name`", "`user_email`", and "`user_message`".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092405Z" creationid="Nachec" creationdate="20221028T092405Z">
+        <seg>En nuestro ejemplo, el formulario envía tres datos denominados `user_name`, `user_email` y `user_message`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In our example, the worker is at `https://bncb2v.csb.app/sw.js`, and the app's root is `https://bncb2v.csb.app/`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220924T053150Z" creationid="gitnacho" creationdate="20220921T025653Z">
@@ -47296,6 +47304,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's look at some of our form code again:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092338Z" creationid="Nachec" creationdate="20221028T092338Z">
+        <seg>Veamos de nuevo el código de nuestro formulario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's look at the full exchange between client and server.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T222717Z" creationid="gitnacho" creationdate="20221011T222717Z">
@@ -49354,6 +49370,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084843Z" creationid="Nachec" creationdate="20221028T084843Z">
         <seg>Por otro lado, si deseas definir un valor predeterminado para un elemento {{HTMLElement("textarea")}}, lo colocas entre las etiquetas de apertura y cierre del elemento {{HTMLElement("textarea")}}, así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the server side, the script at the URL "`/my-handling-form-page`" will receive the data as a list of 3 key/value items contained in the HTTP request.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092505Z" creationid="Nachec" creationdate="20221028T092505Z">
+        <seg>En el lado del servidor, el script de la URL `/my-handling-form-page` recibe los datos como una lista de tres elementos clave/valor contenidos en la petición HTTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51885,6 +51909,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210113T191352Z" creationid="nacho" creationdate="20210113T191352Z">
         <seg>Ese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That data will be sent to the URL "`/my-handling-form-page`" using the [HTTP `POST`](/en-US/docs/Web/HTTP/Methods/POST) method.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092430Z" creationid="Nachec" creationdate="20221028T092430Z">
+        <seg>Esos datos se envían a la URL `/my-handling-form-page` utilizando el método [`post` de HTTP](/es/docs/Web/HTTP/Methods/POST).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54769,6 +54801,14 @@ detalles en la consola:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The form data is sent to the server as name/value pairs.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092228Z" creationid="Nachec" creationdate="20221028T092228Z">
+        <seg>Los datos del formulario se envían al servidor como pares nombre/valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The format string is the `"Hello, {}!"` bit.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T063412Z" creationid="gitnacho" creationdate="20221004T063412Z">
@@ -56307,6 +56347,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T203539Z" creationid="gitnacho" creationdate="20221019T203539Z">
         <seg>Luego, la máquina virtual puede adjuntar un seguimiento de pila al objeto `exception` devuelto por el constructor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The way this script will handle that data is up to you.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092516Z" creationid="Nachec" creationdate="20221028T092516Z">
+        <seg>La forma en que este script maneja esos datos depende de ti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61004,6 +61052,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T132228Z" creationid="Nachec" creationdate="20221023T132228Z">
         <seg>De este modo para modificar varios valores de propiedad a la vez, solo necesitas escribirlos separados por punto y coma (;), así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To name the data in a form, you need to use the `name` attribute on each form widget that will collect a specific piece of data.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092246Z" creationid="Nachec" creationdate="20221028T092246Z">
+        <seg>Para poner nombre a los diversos datos que se introducen en un formulario, debes usar el atributo `name` en cada control de formulario que recopila un dato específico.</seg>
       </tuv>
     </tu>
     <tu>
