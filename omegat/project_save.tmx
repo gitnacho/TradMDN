@@ -31089,24 +31089,24 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;option&gt;Banana&lt;/option&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220604Z" creationid="Nachec" creationdate="20221027T220604Z">
-        <seg>&lt;option&gt;Banana&lt;/option&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T010451Z" creationid="Nachec" creationdate="20221027T220604Z">
+        <seg>&lt;option&gt;Plátano&lt;/option&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;option&gt;Cherry&lt;/option&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220604Z" creationid="Nachec" creationdate="20221027T220604Z">
-        <seg>&lt;option&gt;Cherry&lt;/option&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T010457Z" creationid="Nachec" creationdate="20221027T220604Z">
+        <seg>&lt;option&gt;Cereza&lt;/option&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;option&gt;Lemon&lt;/option&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220605Z" creationid="Nachec" creationdate="20221027T220605Z">
-        <seg>&lt;option&gt;Lemon&lt;/option&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T010505Z" creationid="Nachec" creationdate="20221027T220605Z">
+        <seg>&lt;option&gt;Limón&lt;/option&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -65801,9 +65801,9 @@ p {</seg>
 &lt;label for="select"&gt;Select a fruit&lt;/label&gt;
 &lt;div class="select-wrapper"&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T220603Z" creationid="Nachec" creationdate="20221027T220603Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T010440Z" creationid="Nachec" creationdate="20221027T220603Z">
         <seg>```html
-&lt;label for="select"&gt;Select a fruit&lt;/label&gt;
+&lt;label for="select"&gt;Selecciona una fruta&lt;/label&gt;
 &lt;div class="select-wrapper"&gt;</seg>
       </tuv>
     </tu>
