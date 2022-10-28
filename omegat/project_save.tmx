@@ -30022,6 +30022,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;button type="submit"&gt;Validate the payment&lt;/button&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182444Z" creationid="Nachec" creationdate="20221028T182444Z">
+        <seg>&lt;button type="submit"&gt;Validar el pago&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;button&gt;Change user&lt;/button&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193903Z" creationid="Nachec" creationdate="20221023T193903Z">
@@ -36894,6 +36902,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181128Z" creationid="Nachec" creationdate="20221028T181128Z">
         <seg>Añade este código a tu formulario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add this to the bottom of your form now:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182421Z" creationid="Nachec" creationdate="20221028T182421Z">
+        <seg>Añádelo al final de tu formulario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56514,6 +56530,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The last section we'll add is a lot simpler, containing only a {{htmlelement("button")}} of type `submit`, for submitting the form data.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182410Z" creationid="Nachec" creationdate="20221028T182410Z">
+        <seg>La última sección que añadimos es mucho más simple y contiene solo un {{HTMLElement("button")}} de tipo `submit`, para enviar los datos del formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The line `&lt;img src="" alt="My test image"&gt;` is the HTML code that inserts an image into the page.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T045308Z" creationid="Nachec" creationdate="20221023T045308Z">
@@ -65837,6 +65861,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can find a further test to verify that you've retained this information before you move on — see [Test your skills: Form structure](/en-US/docs/Learn/Forms/Test_your_skills:_Form_structure).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182631Z" creationid="Nachec" creationdate="20221028T182631Z">
+        <seg>Puedes encontrar una prueba adicional para verificar que has retenido esta información antes de continuar; consulta [Prueba tus habilidades: Estructura del formulario](/es/docs/Learn/Forms/Test_your_skills:_Form_structure).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can find full documentation on Emscripten at [emscripten.org](https://emscripten.org), and a guide to implementing the toolchain and compiling your own C/C++ app across to wasm at [Compiling from C/C++ to WebAssembly](/en-US/docs/WebAssembly/C_to_wasm).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T070756Z" creationid="gitnacho" creationdate="20221003T090231Z">
@@ -66081,6 +66113,14 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T024106Z" creationid="gitnacho" creationdate="20220921T024106Z">
         <seg>Puedes ver el [código fuente en GitHub](https://github.com/mdn/dom-examples/tree/main/service-worker/simple-service-worker) y el [Sencillo *service worker* ejecutándose en vivo](https://bncb2v.csb.app/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the finished form in action below (also find it on GitHub — see our payment-form.html [source](https://github.com/mdn/learning-area/blob/main/html/forms/html-form-structure/payment-form.html) and [running live](https://mdn.github.io/learning-area/html/forms/html-form-structure/payment-form.html)):</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182508Z" creationid="Nachec" creationdate="20221028T182508Z">
+        <seg>Debajo puedes ver en acción el formulario terminado (también lo encontrarás en GitHub; consulta el [código fuente](https://github.com/mdn/learning-area/blob/master/html/forms/html-form-structure/payment-form.html) de nuestro payment-form.html y [ejecútalo en vivo](https://mdn.github.io/learning-area/html/forms/html-form-structure/payment-form.html)):</seg>
       </tuv>
     </tu>
     <tu>
@@ -77264,6 +77304,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>id="expiration"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182332Z" creationid="Nachec" creationdate="20221028T182332Z">
+        <seg>id="expiration"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>if (</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220804T230000Z" creationid="nachec" creationdate="20220804T230000Z">
@@ -79274,6 +79322,22 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pattern="^(0[1-9]|1[0-2])\/([0-9]{2})$" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182340Z" creationid="Nachec" creationdate="20221028T182340Z">
+        <seg>pattern="^(0[1-9]|1[0-2])\/([0-9]{2})$" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>placeholder="MM/YY"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182337Z" creationid="Nachec" creationdate="20221028T182337Z">
+        <seg>placeholder="MM/YY"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>position: absolute;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215230Z" creationid="Nachec" creationdate="20221027T215230Z">
@@ -79558,6 +79622,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T040702Z" creationid="gitnacho" creationdate="20220921T040702Z">
         <seg>request: event.request,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>required="true"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182333Z" creationid="Nachec" creationdate="20221028T182333Z">
+        <seg>required="true"</seg>
       </tuv>
     </tu>
     <tu>
@@ -81254,6 +81326,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>type="text"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182312Z" creationid="Nachec" creationdate="20221028T182312Z">
+        <seg>type="text"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>types.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211102T032356Z" creationid="gitnacho" creationdate="20211102T032356Z">
@@ -82208,6 +82288,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T212032Z" creationid="Nachec" creationdate="20221020T212032Z">
         <seg>{{EmbedInteractiveExample("pages/wat/unreachable.html", "tabbed-shorter")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{EmbedLiveSample("A_payment_form","100%",620, "", "Learn/Forms/How_to_structure_a_web_form/Example")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182518Z" creationid="Nachec" creationdate="20221028T182518Z">
+        <seg>{{EmbedLiveSample("A_payment_form","100%",620, "", "Learn/Forms/How_to_structure_a_web_form/Example")}}</seg>
       </tuv>
     </tu>
     <tu>
