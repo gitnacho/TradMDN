@@ -17897,14 +17897,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Form data validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T082705Z" creationid="Nachec" creationdate="20221028T082705Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094606Z" creationid="Nachec" creationdate="20221028T082705Z">
         <seg>- [Tu primer formulario HTML](/es/docs/Learn/Forms/Your_first_form)
 - [How to structure an HTML form](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
 - [HTML5 input types](/es/docs/Learn/Forms/HTML5_input_types)
 - [Additional form controls](/es/docs/Learn/Forms/Other_form_controls)
 - [UI pseudo-classes](/es/docs/Learn/Forms/UI_pseudo-classes)
-- [Styling HTML forms](/es/docs/Learn/Forms/Styling_web_forms)
+- [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
 - [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
@@ -37374,6 +37374,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T103846Z">
         <seg>Como se explicó más arriba, los elementos {{HTMLElement("p")}} se utilizan para encerrar párrafos de texto; los usarás frecuentemente para el marcado de contenido de texto regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As explained in the lessons on [form styling](/en-US/docs/Learn/Forms/Styling_web_forms) in the HTML part of this course, many of the more complex input types are rendered by the operating system and are inaccessible to styling.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094233Z" creationid="Nachec" creationdate="20221028T094233Z">
+        <seg>Como se explica en las lecciones sobre [estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms) en la parte HTML de este curso, el sistema operativo procesa muchos de los tipos de entrada más complejos y no se puede acceder a ellos.</seg>
       </tuv>
     </tu>
     <tu>
