@@ -4348,6 +4348,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Multiple labels</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174258Z" creationid="Nachec" creationdate="20221028T174258Z">
+        <seg>### Etiquetas múltiples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Mutating tables and dynamic linking</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073554Z" creationid="gitnacho" creationdate="20221007T073554Z">
@@ -28712,6 +28720,16 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;!-- So this: --&gt;
+&lt;!--div&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174432Z" creationid="Nachec" creationdate="20221028T174432Z">
+        <seg>&lt;!-- Así que esto: --&gt;
+&lt;div&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;!-- Static --&gt;
 &lt;script&gt;</seg>
       </tuv>
@@ -28818,6 +28836,16 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080517Z" creationid="Nachec" creationdate="20221021T080517Z">
         <seg>&lt;!-- jqMath --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;!-- would be better done like this: --&gt;
+&lt;!--div&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174609Z" creationid="Nachec" creationdate="20221028T174609Z">
+        <seg>&lt;!-- sería mejor hacerlo así: --&gt;
+&lt;div&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30527,6 +30555,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input id="username" type="text" name="username"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174452Z" creationid="Nachec" creationdate="20221028T174452Z">
+        <seg>&lt;input id="username" type="text" name="username"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="button" id="clearOutput" value="Reset" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194731Z" creationid="Nachec" creationdate="20221021T103835Z">
@@ -30835,6 +30871,24 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204144Z" creationid="Nachec" creationdate="20221027T204144Z">
         <seg>&lt;label for="text"&gt;texto: &lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="username"&gt;&lt;span aria-label="required"&gt;*&lt;/label&gt;
+&lt;/div--&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174500Z" creationid="Nachec" creationdate="20221028T174500Z">
+        <seg>&lt;label for="username"&gt;&lt;span aria-label="required"&gt;*&lt;/label&gt;
+&lt;/div--&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="username"&gt;Name:&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174444Z" creationid="Nachec" creationdate="20221028T174444Z">
+        <seg>&lt;label for="username"&gt;Nombre:&lt;/label&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45249,6 +45303,14 @@ it may be either imported into or exported from the calling code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the case of multiple labels, you should nest a widget and its labels inside a single {{htmlelement("label")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174339Z" creationid="Nachec" creationdate="20221028T174339Z">
+        <seg>En caso de tener varias etiquetas, hay que anidar el control de formulario y sus etiquetas dentro de un único elemento {{HTMLElement("label")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the case of the `Uint8ClampedArray` type: `"Uint8ClampedArray"`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050515Z" creationid="gitnacho" creationdate="20221005T050515Z">
@@ -47721,6 +47783,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080712Z" creationid="Nachec" creationdate="20221021T080712Z">
         <seg>Consideremos nuevamente una página `input.html` con contenido de [conversión de lado del cliente](#conversión_de_lado_del_cliente):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's consider this example:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174347Z" creationid="Nachec" creationdate="20221028T174347Z">
+        <seg>Consideremos este ejemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52366,6 +52436,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T192628Z" creationid="Nachec" creationdate="20221025T192628Z">
         <seg>Foto de la calle: Street Composing, por [kevin digga](https://www.pinterest.com/kevindigga/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strictly speaking, you can put multiple labels on a single widget, but this is not a good idea as some assistive technologies can have trouble handling them.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174313Z" creationid="Nachec" creationdate="20221028T174313Z">
+        <seg>Estrictamente hablando, es posible poner varias etiquetas en un solo control de formulario, pero no suele ser una buena idea porque algunas tecnologías de asistencia pueden tener problemas para manejarlas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68072,6 +68150,16 @@ p {</seg>
         <seg>```html
 &lt;p&gt;Mi gato es muy gruñón&lt;/p&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;p&gt;Required fields are followed by &lt;span aria-label="required"&gt;*&lt;/span&gt;.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174426Z" creationid="Nachec" creationdate="20221028T174426Z">
+        <seg>```html
+&lt;p&gt;Los campos obligatorios se marcan con un &lt;abbr title="required"&gt;*&lt;/abbr&gt;.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
