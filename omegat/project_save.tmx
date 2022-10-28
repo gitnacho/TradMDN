@@ -15039,8 +15039,8 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
       <tuv lang="en-US">
         <seg>- There are some other ways to make an element matched by `:valid`/`:invalid`, as you'll see in the [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation) article.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083401Z" creationid="Nachec" creationdate="20221028T083401Z">
-        <seg>- Hay otras formas de hacer que un elemento coincida con `:valid`/`:invalid`, como verás en el artículo [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T083401Z">
+        <seg>- Hay otras formas de hacer que un elemento coincida con `:valid`/`:invalid`, como verás en el artículo [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16415,13 +16415,13 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Advanced styling for HTML forms](/en-US/docs/Learn/Forms/Advanced_form_styling)
 - [CSS property compatibility table](/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084116Z" creationid="Nachec" creationdate="20221028T084116Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T084116Z">
         <seg>- [Form constraint validation](/es/docs/Web/Guide/HTML/Constraint_validation)
 - [Tu primer formulario HTML](/es/docs/Learn/Forms/Your_first_form)
 - [How to structure an HTML form](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [The native form widgets](/es/docs/Learn/Forms/Basic_native_form_controls)
 - [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)
-- [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
+- [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [How to build custom form widgets](/es/docs/Learn/Forms/How_to_build_custom_form_controls)
 - [HTML forms in legacy browsers](/es/docs/Learn/Forms/HTML_forms_in_legacy_browsers)
 - [Styling HTML forms](/es/docs/Learn/Forms/Styling_web_forms)
@@ -17897,7 +17897,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Form data validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094606Z" creationid="Nachec" creationdate="20221028T082705Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T082705Z">
         <seg>- [Tu primer formulario HTML](/es/docs/Learn/Forms/Your_first_form)
 - [How to structure an HTML form](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
@@ -17905,7 +17905,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Additional form controls](/es/docs/Learn/Forms/Other_form_controls)
 - [UI pseudo-classes](/es/docs/Learn/Forms/UI_pseudo-classes)
 - [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
-- [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
+- [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
     </tu>
@@ -17930,16 +17930,16 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093942Z" creationid="Nachec" creationdate="20221028T082018Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094758Z" creationid="Nachec" creationdate="20221028T082018Z">
         <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
 - [Los tipos `input` de HTML5](/es/docs/Learn/Forms/HTML5_input_types)
 - [Otros controles de formulario](/es/docs/Learn/Forms/Other_form_controls)
-- [Styling web forms](/es/docs/Learn/Forms/Styling_web_forms)
+- [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
 - [Advanced form styling](/es/docs/Learn/Forms/Advanced_form_styling)
 - [UI pseudo-classes](/es/docs/Learn/Forms/UI_pseudo-classes)
-- [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
+- [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
     </tu>
@@ -17956,7 +17956,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081317Z" creationid="Nachec" creationdate="20221027T195954Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221027T195954Z">
         <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
@@ -17965,7 +17965,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Estilizar formularios web](/es/docs/Learn/Forms/Styling_web_forms)
 - [Estilizado avanzado de formulario](/es/docs/Learn/Forms/Advanced_form_styling#apariencia_%E2%80%94appearance_controlar_el_estilo_a_nivel_del_sistema_operativo)
 - [Pseudoclases de la interfaz de usuario](/es/docs/Learn/Forms/UI_pseudo-classes)
-- [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
+- [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
 - [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
     </tu>
@@ -23768,9 +23768,9 @@ title: Client-side form validation
 slug: Learn/Forms/Form_validation
 tags:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T082430Z" creationid="Nachec" creationdate="20221027T202920Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221027T202920Z">
         <seg>---
-title: Validación de formularios de lado del cliente
+title: Validar formularios de lado del cliente
 slug: Learn/Forms/Form_validation
 tags:</seg>
       </tuv>
@@ -33487,8 +33487,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** A number of the pseudo-classes discussed here are concerned with styling form controls based on their validation state (is their data valid, or not?) You'll learn much more about setting and controlling validation constraints in our next article — [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation) — but for now we'll keep things simple regarding the form validation, so it doesn't confuse things.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083322Z" creationid="Nachec" creationdate="20221028T083322Z">
-        <seg>&gt; **Nota:** Algunas de las pseudoclases tratadas aquí están relacionadas con el estilo de los controles de formulario en función de su estado de validación (¿sus datos son válidos o no?) Aprenderás mucho más sobre cómo configurar y controlar las restricciones de validación en nuestro próximo artículo: [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation), pero por ahora mantendremos las cosas simples con respecto a la validación de formularios, para que no confundas las cosas.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T083322Z">
+        <seg>&gt; **Nota:** Algunas de las pseudoclases tratadas aquí están relacionadas con el estilo de los controles de formulario en función de su estado de validación (¿sus datos son válidos o no?) Aprenderás mucho más sobre cómo configurar y controlar las restricciones de validación en nuestro próximo artículo: [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation), pero por ahora mantendremos las cosas simples con respecto a la validación de formularios, para que no confundas las cosas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50774,8 +50774,8 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       <tuv lang="en-US">
         <seg>See [Form data validation](/en-US/docs/Learn/Forms/Form_validation) for more details on how these work.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084350Z" creationid="Nachec" creationdate="20221028T084350Z">
-        <seg>Consulta [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation) para obtener más detalles sobre cómo funcionan.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T084350Z">
+        <seg>Consulta [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation) para obtener más detalles sobre cómo funcionan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53778,8 +53778,8 @@ names custom section, for example:</seg>
       <tuv lang="en-US">
         <seg>The aim of this skill test is to assess whether you've understood our [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation) article.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083222Z" creationid="Nachec" creationdate="20221028T083222Z">
-        <seg>El objetivo de esta prueba de habilidades es evaluar si has entendido nuestro artículo [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T083222Z">
+        <seg>El objetivo de esta prueba de habilidades es evaluar si has entendido nuestro artículo [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61236,8 +61236,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To implement different validation behavior, you can use the [`pattern`](/en-US/docs/Web/HTML/Attributes/pattern) attribute, and you can also customize the error messages; we'll talk how to use these features in the [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation) article later on.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T082834Z" creationid="Nachec" creationdate="20221028T082834Z">
-        <seg>Para implementar un comportamiento de validación diferente, puedes usar el atributo [`pattern`](/es/docs/Web/HTML/Attributes/pattern), y también puedes personalizar los mensajes de error; hablaremos sobre cómo usar estas funciones en el artículo [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation) más adelante.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T082834Z">
+        <seg>Para implementar un comportamiento de validación diferente, puedes usar el atributo [`pattern`](/es/docs/Web/HTML/Attributes/pattern), y también puedes personalizar los mensajes de error; hablaremos sobre cómo usar estas funciones en el artículo [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation) más adelante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61260,8 +61260,8 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
       <tuv lang="en-US">
         <seg>To learn more about how form validation works and how to take advantage of the {{cssxref(":valid")}} and {{cssxref(":invalid")}} CSS properties to style the input based on whether or not the current value is valid, see [Form data validation](/en-US/docs/Learn/Forms/Form_validation).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084252Z" creationid="Nachec" creationdate="20221028T084252Z">
-        <seg>Para obtener más información sobre cómo funciona la validación de formularios y cómo aprovechar las propiedades CSS {{CSSxRef(":valid")}} y {{CSSxRef(":invalid")}} para estilizar la entrada en función de si el el valor actual es válido, consulta [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T084252Z">
+        <seg>Para obtener más información sobre cómo funciona la validación de formularios y cómo aprovechar las propiedades CSS {{CSSxRef(":valid")}} y {{CSSxRef(":invalid")}} para estilizar la entrada en función de si el el valor actual es válido, consulta [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65252,8 +65252,8 @@ desde JavaScript pasando `shared: true` en la inicialización del objeto constru
       <tuv lang="en-US">
         <seg>You'll find out more about form validation in the [client-side form validation](/en-US/docs/Learn/Forms/Form_validation) article later on.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084526Z" creationid="Nachec" creationdate="20221028T082337Z">
-        <seg>Encontrarás más información sobre la validación de formularios en el artículo de [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation) más adelante.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T094642Z" creationid="Nachec" creationdate="20221028T082337Z">
+        <seg>Encontrarás más información sobre la validación de formularios en el artículo de [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation) más adelante.</seg>
       </tuv>
     </tu>
     <tu>
