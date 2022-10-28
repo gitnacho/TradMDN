@@ -2560,6 +2560,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## The \&lt;form&gt; element</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155531Z" creationid="Nachec" creationdate="20221028T155531Z">
+        <seg>## El elemento \&lt;form&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## The \{{Link}} macro</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T220724Z" creationid="gitnacho" creationdate="20221005T215941Z">
@@ -39831,6 +39839,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each time you want to create an HTML form, you must start it by using this element, nesting all the contents inside.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155623Z" creationid="Nachec" creationdate="20221028T155623Z">
+        <seg>Cada vez que desees crear un formulario HTML, debes empezar utilizando este elemento y anidando todo el contenido dentro de él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each type of code example has its own use cases.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204343Z" creationid="gitnacho" creationdate="20221005T204343Z">
@@ -54736,6 +54752,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The flexibility of forms makes them one of the most complex structures in [HTML](/en-US/docs/Learn/HTML); you can build any kind of basic form using dedicated form elements and attributes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155455Z" creationid="Nachec" creationdate="20221028T155455Z">
+        <seg>La flexibilidad que presentan los formularios los convierte en una de las estructuras más complejas en [HTML](/es/docs/Learn/HTML), puesto que puedes crear cualquier tipo de formulario básico a partir de los elementos y atributos destinados a esta función.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following MathML formula contains a more complex expression, nesting fractions, roots and scripts.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103708Z" creationid="Nachec" creationdate="20221021T103708Z">
@@ -56779,6 +56803,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T213521Z" creationid="Nachec" creationdate="20221021T213521Z">
         <seg>La propiedad {{DOMxRef("HTMLElement.dataset")}} da acceso a ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {{HTMLElement("form")}} element formally defines a form and attributes that determine the form's behavior.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155546Z" creationid="Nachec" creationdate="20221028T155546Z">
+        <seg>El elemento {{HTMLElement ("form")}} define formalmente un formulario y los atributos que determinan el comportamiento del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61610,6 +61642,14 @@ $p, q$ satisfacen ${4p^3 + 27q^2} &gt; 0$) uno puede usar la fórmula de Cardano
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To understand how to structure HTML forms and give them semantics so</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155413Z" creationid="Nachec" creationdate="20221028T155413Z">
+        <seg>Entender cómo se estructuran los formularios HTML y se les proporciona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To understand the basic syntax of MathML and how to integrate it in</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181050Z" creationid="Nachec" creationdate="20221021T181050Z">
@@ -62161,6 +62201,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T125722Z" creationid="Nachec" creationdate="20221023T125652Z">
         <seg>Pega estas tres líneas de CSS en un nuevo archivo en tu editor de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using correct structure when building an HTML form will help ensure that the form is both usable and [accessible](/en-US/docs/Learn/Accessibility).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155522Z" creationid="Nachec" creationdate="20221028T155522Z">
+        <seg>El uso de una estructura correcta al crear un formulario HTML te ayudará a garantizar que el formulario presente las características de usabilidad y [accesibilidad](/es/docs/Learn/Accessibility) adecuadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79637,6 +79685,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221002T080653Z" creationid="gitnacho" creationdate="20221002T080653Z">
         <seg>then(onFulfilled, onRejected) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>they are usable and accessible.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155426Z" creationid="Nachec" creationdate="20221028T155426Z">
+        <seg>semántica para dotarlos de criterios de usabilidad y accesibilidad.</seg>
       </tuv>
     </tu>
     <tu>
