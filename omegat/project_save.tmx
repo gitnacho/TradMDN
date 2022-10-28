@@ -4172,6 +4172,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Labels are clickable, too!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173712Z" creationid="Nachec" creationdate="20221028T173712Z">
+        <seg>### ¡También se puede hacer clic en las etiquetas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Large operator and limits</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T105047Z" creationid="Nachec" creationdate="20221021T105047Z">
@@ -30611,6 +30619,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" id="taste_1" name="taste_cherry" value="cherry" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173855Z" creationid="Nachec" creationdate="20221028T173855Z">
+        <seg>&lt;input type="checkbox" id="taste_1" name="taste_cherry" value="cherry" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" id="taste_2" name="taste_banana" value="banana" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173915Z" creationid="Nachec" creationdate="20221028T173915Z">
+        <seg>&lt;input type="checkbox" id="taste_2" name="taste_banana" value="banana" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="checkbox" name="fruit" value="banana" disabled /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215107Z" creationid="Nachec" creationdate="20221027T215107Z">
@@ -30775,6 +30799,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172709Z" creationid="Nachec" creationdate="20221028T172709Z">
         <seg>&lt;label for="size_3"&gt;Grande&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="taste_1"&gt;I like cherry&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173908Z" creationid="Nachec" creationdate="20221028T173908Z">
+        <seg>&lt;label for="taste_1"&gt;Me gustan las cerezas&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="taste_2"&gt;I like banana&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173938Z" creationid="Nachec" creationdate="20221028T173938Z">
+        <seg>&lt;label for="taste_2"&gt;Me gustan los plátanos&lt;/label&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37279,6 +37319,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another advantage of properly set up labels is that you can click or tap the label to activate the corresponding widget.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173727Z" creationid="Nachec" creationdate="20221028T173727Z">
+        <seg>Otra ventaja de configurar correctamente las etiquetas es que puedes hacer clic o pulsar en la etiqueta para activar el control de formulario correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Another cell with lots of text in it, that also really goes into a lot of</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185316Z" creationid="gitnacho" creationdate="20221008T185316Z">
@@ -40112,6 +40160,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Even in such cases however, it is considered best practice to set the `for` attribute to ensure all assistive technologies understand the relationship between label and widget.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173633Z" creationid="Nachec" creationdate="20221028T173633Z">
+        <seg>Incluso en estos casos, se aconseja establecer el atributo `for` para garantizar que todas las tecnologías de asistencia comprendan la relación entre la etiqueta y el control de formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Even when a table could be written in GFM it is sometimes better to use HTML, because GFM uses an "ASCII art" approach to tables that is not readable when table rows get long.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T185049Z" creationid="gitnacho" creationdate="20221008T185049Z">
@@ -40978,6 +41034,14 @@ portals for performing business administration tasks, and collaboration tools li
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203540Z" creationid="Nachec" creationdate="20221025T203540Z">
         <seg>Por ejemplo, la intranet de una organización puede albergar páginas web para compartir información de departamentos o equipos, unidades compartidas para administrar documentos y archivos clave,
 portales para realizar tareas de administración empresarial y herramientas de colaboración como wikis, foros de discusión y sistemas de mensajería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, clicking on the "I like cherry" label text in the example below will toggle the selected state of the _taste_cherry_ checkbox:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173849Z" creationid="Nachec" creationdate="20221028T173849Z">
+        <seg>Por ejemplo, al hacer clic en el texto de la etiqueta "*Me gustan las cerezas*" del siguiente ejemplo, cambiará el estado seleccionado de la casilla de verificación `taste_cherry`:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43638,6 +43702,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T215219Z" creationid="gitnacho" creationdate="20221002T141704Z">
         <seg>Si hay disponible un *service worker* existente, la nueva versión se instala en segundo plano, pero aún no está activada; en este punto, se llama _worker en espera_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there is no label, or if the form control is neither implicitly nor explicitly associated with a label, a screen reader will read out something like "Edit text blank", which isn't very helpful at all.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173701Z" creationid="Nachec" creationdate="20221028T173701Z">
+        <seg>Si no hay ninguna etiqueta, o si el control de formulario no está asociado implícita o explícitamente con alguna etiqueta, un lector de pantalla leerá algo así como "*Editar texto en blanco*", lo cual no es de mucha ayuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48652,6 +48724,18 @@ validation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193707Z" creationid="gitnacho" creationdate="20221003T212140Z">
         <seg>Múltiples {{Glossary("browsing context", "browsing contexts")}} (por ejemplo, páginas, *workers*, etc.) se pueden asociar con el mismo *service worker*, cada uno a través de un objeto `ServiceWorker` único.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name: &lt;input type="text" id="name" name="user_name" /&gt;
+&lt;/label&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173619Z" creationid="Nachec" creationdate="20221028T173619Z">
+        <seg>Name: &lt;input type="text" id="name" name="user_name" /&gt;
+&lt;/label&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
@@ -60180,6 +60264,14 @@ same table is visible and callable inside the wasm instance too.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is useful for controls like text inputs, where you can click the label as well as the input to focus it, but it is especially useful for radio buttons and checkboxes — the hit area of such a control can be very small, so it is useful to make it as easy to activate as possible.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173752Z" creationid="Nachec" creationdate="20221028T173752Z">
+        <seg>Esto es útil para controles como entradas de texto, donde puedes hacer clic tanto en la etiqueta como en la entrada de texto para proporcionar el foco al control de formulario, pero es útil especialmente para botones de opción y casillas de verificación, porque la zona sensible de este control puede ser muy pequeña, y puede ser útil para facilitar su activación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is very useful, as it allows dynamic linking of multiple modules.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T233731Z" creationid="gitnacho" creationdate="20221006T233731Z">
@@ -67781,6 +67873,16 @@ p {</seg>
         <seg>```html
 &lt;input type="text" value="de manera predeterminada este elemento se llena con este texto" /&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;label for="name"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173617Z" creationid="Nachec" creationdate="20221028T173617Z">
+        <seg>```html
+&lt;label for="name"&gt;</seg>
       </tuv>
     </tu>
     <tu>
