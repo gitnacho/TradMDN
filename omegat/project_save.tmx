@@ -44037,8 +44037,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If possible, each time you build a form, try to [listen to how a screen reader](/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screen_readers) interprets it.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173221Z" creationid="Nachec" creationdate="20221028T173221Z">
-        <seg>De ser posible, cada vez que crees un formulario, intenta [escuchar cómo lo interpreta un lector de pantalla](/es/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#Screenreaders).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T185413Z" creationid="Nachec" creationdate="20221028T173221Z">
+        <seg>De ser posible, cada vez que crees un formulario, intenta [escuchar cómo lo interpreta un lector de pantalla](/es/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screenreaders).</seg>
       </tuv>
     </tu>
     <tu>
