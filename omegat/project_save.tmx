@@ -25800,6 +25800,21 @@ tags:</seg>
     <tu>
       <tuv lang="en-US">
         <seg>---
+title: Your first form
+slug: Learn/Forms/Your_first_form
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T011937Z" creationid="Nachec" creationdate="20221028T011937Z">
+        <seg>---
+title: Your first form
+slug: Learn/Forms/Your_first_form
+rue: Nachec
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
 title: block
 slug: WebAssembly/Reference/Control_flow/block
 tags:</seg>
@@ -32121,8 +32136,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;th scope="row"&gt;Prerequisites:&lt;/th&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055731Z" creationid="Nachec" creationdate="20221021T055731Z">
-        <seg>&lt;th scope="row"&gt;Requisitos previos:&lt;/th&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012039Z" creationid="Nachec" creationdate="20221021T055731Z">
+        <seg>&lt;th scope="row"&gt;Prerrequisitos:&lt;/th&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34525,6 +34540,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T104638Z" creationid="gitnacho" creationdate="20221003T122131Z">
         <seg>&gt;redacción de contenido&lt;/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;understanding of HTML&lt;/a</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012225Z" creationid="Nachec" creationdate="20221028T012225Z">
+        <seg>&gt;Comprensión de HTML&lt;/a</seg>
       </tuv>
     </tu>
     <tu>
@@ -36943,6 +36966,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T055744Z" creationid="Nachec" creationdate="20221021T055744Z">
         <seg>Alfabetización informática básica,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basic computer literacy, and a basic</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012049Z" creationid="Nachec" creationdate="20221028T012049Z">
+        <seg>Conocimientos básicos de informática y de</seg>
       </tuv>
     </tu>
     <tu>
@@ -53347,6 +53378,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first article in our series provides you with your very first experience of creating a web form, including designing a simple form, implementing it using the right HTML form controls and other HTML elements, adding some very simple styling via CSS, and describing how data is sent to a server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012002Z" creationid="Nachec" creationdate="20221028T012002Z">
+        <seg>El primer artículo de nuestra serie te proporciona una primera experiencia de creación de un formulario web, que incluye diseñar un formulario sencillo con controles de formulario adecuados y otros elementos HTML, añadir un poco de estilo muy simple con CSS y describir cómo se envían los datos a un servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first block of code in our app's JavaScript file — `app.js` — is as follows.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T024141Z" creationid="gitnacho" creationdate="20220921T024141Z">
@@ -61403,6 +61442,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204250Z" creationid="gitnacho" creationdate="20221005T204250Z">
         <seg>Hablaremos de cada uno en secciones posteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll expand on each of these subtopics in more detail later on in the module.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012025Z" creationid="Nachec" creationdate="20221028T012025Z">
+        <seg>Ampliaremos cada uno de estos subtemas más adelante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79102,6 +79149,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T035539Z" creationid="gitnacho" creationdate="20220925T035539Z">
         <seg>{{LearnSidebar}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{NextMenu("Learn/Forms/How_to_structure_a_web_form", "Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T011938Z" creationid="Nachec" creationdate="20221028T011938Z">
+        <seg>{{LearnSidebar}}{{NextMenu("Learn/Forms/How_to_structure_a_web_form", "Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
