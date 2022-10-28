@@ -49398,8 +49398,8 @@ validation.</seg>
 &lt;/label&gt;
 ```</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173619Z" creationid="Nachec" creationdate="20221028T173619Z">
-        <seg>Name: &lt;input type="text" id="name" name="user_name" /&gt;
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T193501Z" creationid="Nachec" creationdate="20221028T173619Z">
+        <seg>Nombre: &lt;input type="text" id="name" name="user_name" /&gt;
 &lt;/label&gt;
 ```</seg>
       </tuv>
@@ -68965,9 +68965,9 @@ p {</seg>
         <seg>```html
 &lt;p&gt;Required fields are followed by &lt;span aria-label="required"&gt;*&lt;/span&gt;.&lt;/p&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174426Z" creationid="Nachec" creationdate="20221028T174426Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T193626Z" creationid="Nachec" creationdate="20221028T174426Z">
         <seg>```html
-&lt;p&gt;Los campos obligatorios se marcan con un &lt;abbr title="required"&gt;*&lt;/abbr&gt;.&lt;/p&gt;</seg>
+&lt;p&gt;Los campos obligatorios se marcan con un &lt;span aria-label="required"&gt;*&lt;/span&gt;.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
