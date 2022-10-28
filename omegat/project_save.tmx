@@ -1096,6 +1096,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## A payment form</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200031Z" creationid="Nachec" creationdate="20221028T200031Z">
+        <seg>## Un formulario de pago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## A small math article</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T085147Z" creationid="Nachec" creationdate="20221021T085147Z">
@@ -3928,6 +3936,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T173720Z" creationid="gitnacho" creationdate="20221005T173720Z">
         <seg>### HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### HTML Content</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200033Z" creationid="Nachec" creationdate="20221028T200033Z">
+        <seg>### Contenido HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -30883,10 +30899,26 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="title_1" name="title" value="A" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200051Z" creationid="Nachec" creationdate="20221028T200051Z">
+        <seg>&lt;input type="radio" id="title_1" name="title" value="A" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="radio" id="title_1" name="title" value="K" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181200Z" creationid="Nachec" creationdate="20221028T181200Z">
         <seg>&lt;input type="radio" id="title_1" name="title" value="K" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="title_2" name="title" value="K" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200114Z" creationid="Nachec" creationdate="20221028T200114Z">
+        <seg>&lt;input type="radio" id="title_2" name="title" value="K" /&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36814,6 +36846,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T083549Z" creationid="gitnacho" creationdate="20221007T063838Z">
         <seg>De acuerdo a WebAssembly, `memory` es solo un gran arreglo de bytes que puede crecer con el tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ace</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200151Z" creationid="Nachec" creationdate="20221028T200106Z">
+        <seg>As</seg>
       </tuv>
     </tu>
     <tu>
@@ -61783,6 +61823,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This the example for a basic payment form for the article [How to structure an HTML form](/en-US/docs/Learn/Forms/How_to_structure_a_web_form).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200018Z" creationid="Nachec" creationdate="20221028T195950Z">
+        <seg>Este es el ejemplo de un formulario de pago básico para el artículo [Cómo estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This theory is not essential to writing web code in the short term, but before long you'll really start to benefit from understanding what's happening in the background.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T190050Z" creationid="Nachec" creationdate="20221025T190050Z">
@@ -68731,6 +68779,16 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021711Z" creationid="Nachec" creationdate="20221028T021711Z">
         <seg>```html
 &lt;form action="https://www.foo.com" method="POST"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;form method="post"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200046Z" creationid="Nachec" creationdate="20221028T200046Z">
+        <seg>```html
+&lt;form method="post"&gt;</seg>
       </tuv>
     </tu>
     <tu>
