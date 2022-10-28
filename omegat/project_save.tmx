@@ -1456,6 +1456,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Designing your form</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012807Z" creationid="Nachec" creationdate="20221028T012807Z">
+        <seg>## Diseñar tu formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Determining device memory</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T215428Z" creationid="Nachec" creationdate="20221026T215428Z">
@@ -35313,6 +35321,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A web form's HTML is made up of one or more **form controls** (sometimes called **widgets**), plus some additional elements to help structure the overall form — they are often referred to as **HTML forms**.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012705Z" creationid="Nachec" creationdate="20221028T012705Z">
+        <seg>El HTML de un **formulario web** está compuesto por uno o más **controles de formulario** (a veces llamados **widgets**), además de algunos elementos adicionales que ayudan a estructurar el formulario general; a menudo se les conoce como **formularios HTML**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A website can do basically anything, but, for your first try, you should keep things simple.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061018Z" creationid="gitnacho" creationdate="20221019T061018Z">
@@ -37233,6 +37249,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before starting to code, it's always better to step back and take the time to think about your form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012821Z" creationid="Nachec" creationdate="20221028T012821Z">
+        <seg>Antes de comenzar a escribir código, siempre es mejor dar un paso atrás y tomarte el tiempo necesario para pensar en tu formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before we can write a function body, we have to talk about one more thing: **stack machines**.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054900Z" creationid="gitnacho" creationdate="20221007T054900Z">
@@ -38581,6 +38605,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220923T030631Z" creationid="gitnacho" creationdate="20220923T030631Z">
         <seg>Dependiendo de si se toman las medidas de seguridad anteriores, las diversas APIs de uso de memoria compartida tienen diferentes disponibilidades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Designing a quick mockup will help you to define the right set of data you want to ask your user to enter.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012848Z" creationid="Nachec" creationdate="20221028T012848Z">
+        <seg>Diseñar una maqueta rápida te ayudará a definir el conjunto de datos adecuado que deseas pedirle al usuario que introduzca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40739,6 +40771,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061317Z" creationid="gitnacho" creationdate="20221019T061317Z">
         <seg>Para tu primera página web simple, no hay mucho que esbozar, pero deberías adquirir el hábito de hacerlo ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Form controls can also be programmed to enforce specific formats or values to be entered (**form validation**), and paired with text labels that describe their purpose to both sighted and visually impaired users.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012757Z" creationid="Nachec" creationdate="20221028T012757Z">
+        <seg>Los controles de formulario también se pueden programar para forzar la introducción de formatos o valores específicos (**validación de formulario**), y se combinan con etiquetas de texto que describen su propósito para los usuarios con y sin discapacidad visual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53118,6 +53158,14 @@ y devuelve su valor.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T050324Z" creationid="gitnacho" creationdate="20221005T050324Z">
         <seg>El contenido se inicializa a `0`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The controls can be single or multi-line text fields, dropdown boxes, buttons, checkboxes, or radio buttons, and are mostly created using the {{htmlelement("input")}} element, although there are some other elements to learn about too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012732Z" creationid="Nachec" creationdate="20221028T012732Z">
+        <seg>Los controles pueden ser campos de texto de una o varias líneas, cajas desplegables, botones, casillas de verificación o botones de opción, y se crean principalmente con el elemento {{HTMLElement("input")}}, aunque hay algunos otros elementos que también hay que conocer.</seg>
       </tuv>
     </tu>
     <tu>
