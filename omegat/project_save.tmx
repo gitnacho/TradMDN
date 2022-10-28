@@ -17946,7 +17946,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation)
 - [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101057Z" creationid="Nachec" creationdate="20221028T082018Z">
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T101332Z" creationid="Nachec" creationdate="20221028T082018Z">
         <seg>- [Tu primer formulario](/es/docs/Learn/Forms/Your_first_form)
 - [Como estructurar un formulario web](/es/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls)
@@ -17956,7 +17956,7 @@ spec-urls: https://w3c.github.io/ServiceWorker/
 - [Estilizar formularios avanzado](/es/docs/Learn/Forms/Advanced_form_styling)
 - [Pseudoclases de la IU](/es/docs/Learn/Forms/UI_pseudo-classes)
 - [Validar formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation)
-- [Sending form data](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
+- [Enviar datos del formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data)</seg>
       </tuv>
     </tu>
     <tu>
