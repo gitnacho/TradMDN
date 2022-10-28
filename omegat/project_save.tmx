@@ -30635,6 +30635,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="radio" name="size" id="size_1" value="small" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172623Z" creationid="Nachec" creationdate="20221028T172623Z">
+        <seg>&lt;input type="radio" name="size" id="size_1" value="small" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" name="size" id="size_2" value="medium" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172638Z" creationid="Nachec" creationdate="20221028T172638Z">
+        <seg>&lt;input type="radio" name="size" id="size_2" value="medium" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" name="size" id="size_3" value="large" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172659Z" creationid="Nachec" creationdate="20221028T172659Z">
+        <seg>&lt;input type="radio" name="size" id="size_3" value="large" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="text" id="name" name="user_name" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080627Z" creationid="Nachec" creationdate="20221028T080627Z">
@@ -30723,6 +30747,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="size_1"&gt;Small&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172635Z" creationid="Nachec" creationdate="20221028T172635Z">
+        <seg>&lt;label for="size_1"&gt;Pequeño&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="size_2"&gt;Medium&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172652Z" creationid="Nachec" creationdate="20221028T172652Z">
+        <seg>&lt;label for="size_2"&gt;Mediano&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="size_3"&gt;Large&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172709Z" creationid="Nachec" creationdate="20221028T172709Z">
+        <seg>&lt;label for="size_3"&gt;Grande&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="text"&gt;text: &lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204144Z" creationid="Nachec" creationdate="20221027T204144Z">
@@ -30735,6 +30783,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T012134Z" creationid="gitnacho" creationdate="20220901T012134Z">
         <seg>&lt;label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;legend&gt;Fruit juice size&lt;/legend&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172546Z" creationid="Nachec" creationdate="20221028T172546Z">
+        <seg>&lt;legend&gt;Tamaño del zumo de fruta&lt;/legend&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34538,6 +34594,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T061002Z" creationid="gitnacho" creationdate="20221007T061002Z">
         <seg>&gt; **Nota:** Puedes encontrar este ejemplo en GitHub como [add.html](https://github.com/mdn/webassembly-examples/blob/master/understanding-text-format/add.html) (además lo puedes [ver en vivo](https://mdn.github.io/webassembly-examples/understanding-text-format/add.html)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** You can find this example in [fieldset-legend.html](https://github.com/mdn/learning-area/blob/main/html/forms/html-form-structure/fieldset-legend.html) ([see it live also](https://mdn.github.io/learning-area/html/forms/html-form-structure/fieldset-legend.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172750Z" creationid="Nachec" creationdate="20221028T172750Z">
+        <seg>&gt; **Nota:** Puedes encontrar este ejemplo en [fieldset-legend.html](https://github.com/mdn/learning-area/blob/master/html/forms/html-form-structure/fieldset-legend.html) ([consúltalo en vivo ](https://mdn.github.io/learning-area/html/forms/html-form-structure/fieldset-legend.html)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41078,6 +41142,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, some screen readers such as [Jaws](https://www.freedomscientific.com/products/software/jaws/) and [NVDA](https://www.nvaccess.org/) will speak the legend's content before speaking the label of each control.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172525Z" creationid="Nachec" creationdate="20221028T172525Z">
+        <seg>Por ejemplo, algunos lectores de pantalla como [Jaws](http://www.freedomscientific.com/products/software/jaws/) y [NVDA](http://www.nvda-project.org/) leerán el contenido de la leyenda antes de decir la etiqueta de cada control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, suppose web content at `https://foo.example` wishes to invoke content on domain `https://bar.other`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221011T221234Z" creationid="gitnacho" creationdate="20221011T221234Z">
@@ -42286,6 +42358,14 @@ Connection: Keep-Alive
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190913Z" creationid="Nachec" creationdate="20221021T190704Z">
         <seg>Aquí hay una plantilla básica para usar la codificación UTF-8 y la fuente [*Latin Modern Math*](/es/docs/Web/MathML/Fonts#fuentes_en_una_tabla_math):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here is a little example:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172535Z" creationid="Nachec" creationdate="20221028T172535Z">
+        <seg>Un pequeño ejemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63905,6 +63985,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T215206Z" creationid="gitnacho" creationdate="20221019T215206Z">
         <seg>Cuando está presente, el parámetro `maximum` actúa como una pista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When reading the above form, a screen reader will speak "Fruit juice size small" for the first widget, "Fruit juice size medium" for the second, and "Fruit juice size large" for the third.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172846Z" creationid="Nachec" creationdate="20221028T172846Z">
+        <seg>Al leer el formulario anterior, un lector de pantalla dirá "*Tamaño del zumo de fruta: pequeño*" para el primer control de formulario, "*Tamaño del zumo de fruta: mediano*" para el segundo y "*Tamaño del zumo de fruta: grande*" para el tercero.</seg>
       </tuv>
     </tu>
     <tu>
