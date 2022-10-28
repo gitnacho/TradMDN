@@ -4750,8 +4750,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### Styling checkboxes and radio buttons</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205139Z" creationid="Nachec" creationdate="20221027T205104Z">
-        <seg>### Estilo de casillas de verificación y botones de opción</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T005020Z" creationid="Nachec" creationdate="20221027T205104Z">
+        <seg>### Estilo de casillas de verificación y botones de radio</seg>
       </tuv>
     </tu>
     <tu>
@@ -11760,8 +11760,8 @@ browser-compat: http.headers.Access-Control-Allow-Origin
         <seg>- Checkboxes and radio buttons
 - [`&lt;input type="search"&gt;`](/en-US/docs/Web/HTML/Element/input/search)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T203459Z" creationid="Nachec" creationdate="20221027T203459Z">
-        <seg>- Casillas de verificación y botones de opción
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T005009Z" creationid="Nachec" creationdate="20221027T203459Z">
+        <seg>- Casillas de verificación y botones de radio
 - [`&lt;input type="search"&gt;`](/es/docs/Web/HTML/Element/input/search)</seg>
       </tuv>
     </tu>
@@ -17079,8 +17079,8 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       <tuv lang="en-US">
         <seg>- [Styled radio buttons](https://mdn.github.io/learning-area/html/forms/styling-examples/radios-styled.html): Custom radio button styling.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215454Z" creationid="Nachec" creationdate="20221027T215454Z">
-        <seg>- [Botones de opción con estilo](https://mdn.github.io/learning-area/html/forms/styling-examples/radios-styled.html): Estilo de botón de opción personalizado.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T005100Z" creationid="Nachec" creationdate="20221027T215454Z">
+        <seg>- [Botones de radio con estilo](https://mdn.github.io/learning-area/html/forms/styling-examples/radios-styled.html): Estilo de botón de radio personalizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26372,8 +26372,8 @@ celda 4 | celda 5 | celda 6
       <tuv lang="en-US">
         <seg>/* Adjusts the position of the checkboxes on the text baseline */</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215220Z" creationid="Nachec" creationdate="20221027T215220Z">
-        <seg>/* Ajusta la posición de las casillas de verificación en la línea de base del texto */</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T004954Z" creationid="Nachec" creationdate="20221027T215220Z">
+        <seg>/* Ajusta la posición de las casillas de verificación en la línea base del texto */</seg>
       </tuv>
     </tu>
     <tu>
@@ -36743,8 +36743,8 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
       <tuv lang="en-US">
         <seg>As we showed before, you can remove the default appearance of a checkbox or radio button altogether with {{cssxref('appearance')}}`:none;` Let's take this example HTML:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215047Z" creationid="Nachec" creationdate="20221027T215047Z">
-        <seg>Como mostramos antes, puedes eliminar la apariencia predeterminada de una casilla de verificación o un botón de opción junto con {{CSSxRef('appearance')}}`:none;` Tomemos este HTML de ejemplo:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T005031Z" creationid="Nachec" creationdate="20221027T215047Z">
+        <seg>Como mostramos antes, puedes eliminar la apariencia predeterminada de una casilla de verificación o un botón de radio junto con {{CSSxRef('appearance')}}`:none;` Tomemos este HTML de ejemplo:</seg>
       </tuv>
     </tu>
     <tu>
