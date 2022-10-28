@@ -2576,6 +2576,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## The \&lt;label&gt; element</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173242Z" creationid="Nachec" creationdate="20221028T173242Z">
+        <seg>## El elemento \&lt;label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## The \{{Link}} macro</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T220724Z" creationid="gitnacho" creationdate="20221005T215941Z">
@@ -37601,6 +37609,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As we saw in the previous article, The {{HTMLElement("label")}} element is the formal way to define a label for an HTML form widget.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173457Z" creationid="Nachec" creationdate="20221028T173457Z">
+        <seg>Como vimos en el artículo anterior, el elemento {{HTMLElement("label")}} es la manera formal de definir una etiqueta para un control de un formulario HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As we saw, the Internet is a technical infrastructure which allows billions of computers to be connected all together.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T204558Z" creationid="Nachec" creationdate="20221025T202928Z">
@@ -43267,6 +43283,14 @@ among them.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T193605Z" creationid="Nachec" creationdate="20221023T193605Z">
         <seg>Si no es así (significa que ya fue modificada), se cambiará el valor de `src` nuevamente a la ruta de la imagen original, regresando a como era en un principio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it sounds odd, try to improve the form structure.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173234Z" creationid="Nachec" creationdate="20221028T173234Z">
+        <seg>Si suena raro, intenta mejorar la estructura del formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52386,6 +52410,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take this example, which we saw in the previous article:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173530Z" creationid="Nachec" creationdate="20221028T173530Z">
+        <seg>Tomemos este ejemplo que vimos en el artículo anterior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Templates are not translated like wiki pages, rather any single template might be used for any number of locales.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082930Z" creationid="gitnacho" creationdate="20221005T082930Z">
@@ -57668,6 +57700,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is another way to associate a form control with a label — nest the form control within the `&lt;label&gt;`, implicitly associating it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173615Z" creationid="Nachec" creationdate="20221028T173615Z">
+        <seg>Hay otra forma de asociar un control de formulario con una etiqueta: asociarlo implícitamente anidando el control de formulario dentro de `&lt;label&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is currently no way to tell the difference between an empty file and a nonexistent one.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T082853Z" creationid="gitnacho" creationdate="20221005T082853Z">
@@ -60072,6 +60112,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T100330Z" creationid="gitnacho" creationdate="20221003T100330Z">
         <seg>Esta es la representación textual de bajo nivel de un módulo `.wasm`, mostrada en las herramientas de desarrollador del navegador al depurar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the most important element if you want to build accessible forms — when implemented properly, screen readers will speak a form element's label along with any related instructions, as well as it being useful for sighted users.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173518Z" creationid="Nachec" creationdate="20221028T173518Z">
+        <seg>Este es el elemento más importante si deseas crear formularios accesibles porque cuando se implementan correctamente, los lectores de pantalla leen la etiqueta de un elemento de formulario junto con las instrucciones relacionadas, y esto además resulta muy útil para los usuarios videntes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64451,6 +64499,14 @@ función exportada desde su interior.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With the `&lt;label&gt;` associated correctly with the `&lt;input&gt;` via its `for` attribute (which contains the `&lt;input&gt;` element's `id` attribute), a screen reader will read out something like "Name, edit text".</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173559Z" creationid="Nachec" creationdate="20221028T173559Z">
+        <seg>Con la etiqueta `&lt;label&gt;` asociada correctamente con `&lt;input&gt;` por su atributo `for` (que contiene el atributo `id` del elemento `&lt;input&gt;`), un lector de pantalla leerá algo como "*Nombre, editar texto*".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With the `display="block"` attribute, priority is instead put on legibility of the mathematical formula.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T181727Z" creationid="Nachec" creationdate="20221021T181727Z">
@@ -67724,6 +67780,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T084825Z" creationid="Nachec" creationdate="20221028T084825Z">
         <seg>```html
 &lt;input type="text" value="de manera predeterminada este elemento se llena con este texto" /&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;label for="name"&gt;Name:&lt;/label&gt; &lt;input type="text" id="name" name="user_name" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173530Z" creationid="Nachec" creationdate="20221028T173530Z">
+        <seg>```html
+&lt;label for="name"&gt;Name:&lt;/label&gt; &lt;input type="text" id="name" name="user_name" /&gt;
 ```</seg>
       </tuv>
     </tu>
