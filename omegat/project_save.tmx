@@ -26329,6 +26329,14 @@ celda 4 | celda 5 | celda 6
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-moz-box-sizing: border-box;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093021Z" creationid="Nachec" creationdate="20221028T093021Z">
+        <seg>-moz-box-sizing: border-box;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="pacho" changedate="20190801T151801Z" creationid="pacho" creationdate="20190801T151801Z">
@@ -26725,6 +26733,14 @@ celda 4 | celda 5 | celda 6
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>/* Just to center the form on the page */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092939Z" creationid="Nachec" creationdate="20221028T092939Z">
+        <seg>/* Solo para centrar el formulario en la página */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/* Log output
 example.js:40 WebAssembly.Exception: wasm exception
 example.js:41 getArg 0 : 1
@@ -26789,10 +26805,98 @@ example.js:41 getArg 0 : 42
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>/* This extra margin represent the same space as the space between</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093128Z" creationid="Nachec" creationdate="20221028T093128Z">
+        <seg>/* Este margen adicional representa el mismo espacio que el espacio entre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To allow users to resize any textarea vertically</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093102Z" creationid="Nachec" creationdate="20221028T093102Z">
+        <seg>/* Para permitir a los usuarios cambiar el tamaño de cualquier área de texto verticalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To give a little highlight on active elements */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093036Z" creationid="Nachec" creationdate="20221028T093036Z">
+        <seg>/* Para resaltar un poco los elementos activos */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To give enough room to type some text */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093052Z" creationid="Nachec" creationdate="20221028T093052Z">
+        <seg>/* Para dar espacio suficiente para escribir algún texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To give the same size to all text field */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093021Z" creationid="Nachec" creationdate="20221028T093021Z">
+        <seg>/* Para dar el mismo tamaño a todos los campos de texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To harmonize the look &amp; feel of text field border */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093030Z" creationid="Nachec" creationdate="20221028T093030Z">
+        <seg>/* Para armonizar la apariencia del borde del campo de texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To make sure that all label have the same size and are properly align */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093000Z" creationid="Nachec" creationdate="20221028T093000Z">
+        <seg>/* Para asegurarse de que todas las etiquetas tengan el mismo tamaño y estén correctamente alineadas */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To make sure that all text field have the same font settings</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093006Z" creationid="Nachec" creationdate="20221028T093006Z">
+        <seg>/* Para asegurarse de que todos los campos de texto tengan la misma configuración de fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/* To make sure that all text fields have the same font settings</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085800Z" creationid="Nachec" creationdate="20221028T085800Z">
         <seg>/* Para asegurarse de que todos los campos de texto tienen la misma configuración de letra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To position the buttons to the same position of the text fields */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093121Z" creationid="Nachec" creationdate="20221028T093121Z">
+        <seg>/* Para colocar los botones en la misma posición de los campos de texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To properly align multiline text field with their label */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093046Z" creationid="Nachec" creationdate="20221028T093046Z">
+        <seg>/* Para alinear correctamente el campo de texto de varias líneas con su etiqueta */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/* To see the limits of the form */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092947Z" creationid="Nachec" creationdate="20221028T092947Z">
+        <seg>/* Para ver los limites del formulario */</seg>
       </tuv>
     </tu>
     <tu>
@@ -28747,6 +28851,18 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/div&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092910Z" creationid="Nachec" creationdate="20221028T092910Z">
+        <seg>&lt;/div&gt;
+&lt;/form&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/dt&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183545Z" creationid="gitnacho" creationdate="20221008T183545Z">
@@ -29661,6 +29777,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;button type="submit"&gt;Send your message&lt;/button&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092910Z" creationid="Nachec" creationdate="20221028T092910Z">
+        <seg>&lt;button type="submit"&gt;Envía tu mensaje&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;button type="submit"&gt;Send your message&lt;/button&gt;
 &lt;/li&gt;
 ```</seg>
@@ -30062,6 +30186,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220828T060158Z" creationid="gitnacho" creationdate="20220828T060158Z">
         <seg>&lt;div</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;div class="button"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092853Z" creationid="Nachec" creationdate="20221028T092853Z">
+        <seg>&lt;div class="button"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38251,6 +38383,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default, textarea are set with a monospace font */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093015Z" creationid="Nachec" creationdate="20221028T093015Z">
+        <seg>De forma predeterminada, el área de texto se establece con una fuente monoespaciada */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default, textareas have a monospace font */</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T085820Z" creationid="Nachec" creationdate="20221028T085820Z">
@@ -46343,6 +46483,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It looks like this live:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092842Z" creationid="Nachec" creationdate="20221028T092842Z">
+        <seg>Se debería ver así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It looks something like this:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T135705Z" creationid="Nachec" creationdate="20221023T135705Z">
@@ -46612,6 +46760,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T203702Z" creationid="gitnacho" creationdate="20221003T203702Z">
         <seg>Devolverá un objeto `response` normal que tiene el código de error apropiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It works only on Chrome, Firefox and Safari */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093109Z" creationid="Nachec" creationdate="20221028T093109Z">
+        <seg>Solo funciona en Chrome, Firefox y Safari */</seg>
       </tuv>
     </tu>
     <tu>
@@ -52085,6 +52241,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064021Z" creationid="gitnacho" creationdate="20221007T064021Z">
         <seg>Eso literalmente es todo con lo que `asm.js` tiene que jugar (excepto que no es redimensionable; consulta el [modelo de programación](http://asmjs.org/spec/latest/#programming-model) de `asm.js`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's only the beginning, however — now it's time to take a deeper look.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093153Z" creationid="Nachec" creationdate="20221028T093153Z">
+        <seg>Pero esto es solo el comienzo: ahora ha llegado el momento de profundizar en el tema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66851,6 +67015,16 @@ div {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```css hidden
+form {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092913Z" creationid="Nachec" creationdate="20221028T092913Z">
+        <seg>```css hidden
+form {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css hidden
 math {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061319Z" creationid="Nachec" creationdate="20221021T061319Z">
@@ -67435,6 +67609,16 @@ De manera predeterminada, este elemento contiene este texto
         <seg>```html hidden
 &lt;!DOCTYPE html&gt;
 &lt;html lang="es-ES"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html hidden
+&lt;form action="/my-handling-form-page" method="post"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092849Z" creationid="Nachec" creationdate="20221028T092849Z">
+        <seg>```html hidden
+&lt;form action="/my-handling-form-page" method="post"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -74123,6 +74307,14 @@ total.reset();               // #count ahora = 7
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>div + div {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092951Z" creationid="Nachec" creationdate="20221028T092951Z">
+        <seg>div + div {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>document</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nachec" changedate="20220806T063228Z" creationid="nachec" creationdate="20220806T063228Z">
@@ -75307,6 +75499,14 @@ math .highlight {</seg>
         <seg>height: 30px;
 }
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>height: 5em;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093053Z" creationid="Nachec" creationdate="20221028T093053Z">
+        <seg>height: 5em;</seg>
       </tuv>
     </tu>
     <tu>
@@ -77863,6 +78063,16 @@ npm link hello-wasm
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>resize: vertical;
+}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093110Z" creationid="Nachec" creationdate="20221028T093110Z">
+        <seg>resize: vertical;
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>resolve();</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20211003T094522Z" creationid="gitnacho" creationdate="20211003T094522Z">
@@ -79187,6 +79397,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>the labels and their text fields */</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093134Z" creationid="Nachec" creationdate="20221028T093134Z">
+        <seg>las etiquetas y sus campos de texto */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>the memory's [`buffer`](/en-US/docs/WebAssembly/JavaScript_interface/Memory/buffer) property will now return a `SharedArrayBuffer`, instead of the usual `ArrayBuffer`:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T080838Z" creationid="gitnacho" creationdate="20221007T080838Z">
@@ -80121,6 +80339,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T102600Z" creationid="Nachec" creationdate="20221021T102600Z">
         <seg>{{ EmbedLiveSample('Subtrees_of_munder_mover_munderover', 700, 400, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Summary', '', '300') }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T093136Z" creationid="Nachec" creationdate="20221028T093136Z">
+        <seg>{{ EmbedLiveSample('Summary', '', '300') }}</seg>
       </tuv>
     </tu>
     <tu>
