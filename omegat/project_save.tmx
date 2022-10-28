@@ -37915,6 +37915,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because of its influence over assistive technology, the {{HTMLElement("fieldset")}} element is one of the key elements for building accessible forms; however it is your responsibility not to abuse it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173053Z" creationid="Nachec" creationdate="20221028T173053Z">
+        <seg>Debido a la influencia que tiene sobre las tecnologías de asistencia, el elemento {{HTMLElement("fieldset")}} es uno de los elementos clave para crear formularios accesibles. Sin embargo, no hay que abusar de él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because tables are mutable, they can be used to implement sophisticated load-time and run-time [dynamic linking schemes](https://github.com/WebAssembly/tool-conventions/blob/main/DynamicLinking.md).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T073712Z" creationid="gitnacho" creationdate="20221007T073712Z">
@@ -39916,6 +39924,14 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T191445Z" creationid="Nachec" creationdate="20221021T191445Z">
         <seg>Cada vez que haces clic en el texto correspondiente, se resalta y se muestra un mensaje de confirmación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each time you have a set of radio buttons, you should nest them inside a {{HTMLElement("fieldset")}} element.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172948Z" creationid="Nachec" creationdate="20221028T172948Z">
+        <seg>Cada vez que tengas un conjunto de botones de opción, los debes anidar dentro de un elemento {{HTMLElement("fieldset")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42986,6 +43002,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ideally, long forms should be spread across multiple pages, but if a form is getting long and must be on a single page, putting the different related sections inside different fieldsets improves usability.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173024Z" creationid="Nachec" creationdate="20221028T173024Z">
+        <seg>Idealmente, los formularios largos deberían tener una extensión de varias páginas, pero si un formulario se alarga y ha de estar contenido en una sola página, colocar las diferentes secciones relacionadas dentro de diferentes conjuntos de campos mejora su usabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ideally, the image will be the same size as the image you added previously, or as close as possible.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T192953Z" creationid="Nachec" creationdate="20221023T192953Z">
@@ -43325,6 +43349,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T051825Z" creationid="gitnacho" creationdate="20221004T051825Z">
         <seg>Si falla la apertura de la base de datos (por ejemplo, debido a permisos o cuotas), recurrimos a buscar y compilar el módulo y no intentamos almacenar los resultados (puesto que no hay una base de datos para almacenarlos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If possible, each time you build a form, try to [listen to how a screen reader](/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#screen_readers) interprets it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173221Z" creationid="Nachec" creationdate="20221028T173221Z">
+        <seg>De ser posible, cada vez que crees un formulario, intenta [escuchar cómo lo interpreta un lector de pantalla](/es/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#Screenreaders).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56776,6 +56808,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The use case in this example is one of the most important.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172858Z" creationid="Nachec" creationdate="20221028T172858Z">
+        <seg>El caso de uso que se muestra en este ejemplo es uno de los más importantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The user agent appends the requested client hint headers, or at least the subset that it wants to share with that server, to all subsequent requests in the current browsing session.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T064057Z" creationid="gitnacho" creationdate="20221012T092004Z">
@@ -57480,6 +57520,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182126Z" creationid="Nachec" creationdate="20221023T182126Z">
         <seg>Hay otras reglas para cuando se debe y no se debe usar punto y coma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are other use cases, and in general the {{HTMLElement("fieldset")}} element can also be used to section a form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173002Z" creationid="Nachec" creationdate="20221028T173002Z">
+        <seg>Hay otros casos de uso y el elemento {{HTMLElement("fieldset")}} también se puede usar en general para seccionar un formulario.</seg>
       </tuv>
     </tu>
     <tu>
