@@ -14965,6 +14965,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- There are some other ways to make an element matched by `:valid`/`:invalid`, as you'll see in the [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation) article.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083401Z" creationid="Nachec" creationdate="20221028T083401Z">
+        <seg>- Hay otras formas de hacer que un elemento coincida con `:valid`/`:invalid`, como verás en el artículo [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- They allow JavaScript to fetch and create the initial contents of memory before or concurrently with module compilation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T230035Z" creationid="gitnacho" creationdate="20221006T230035Z">
@@ -33099,6 +33107,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** A number of the pseudo-classes discussed here are concerned with styling form controls based on their validation state (is their data valid, or not?) You'll learn much more about setting and controlling validation constraints in our next article — [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation) — but for now we'll keep things simple regarding the form validation, so it doesn't confuse things.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083322Z" creationid="Nachec" creationdate="20221028T083322Z">
+        <seg>&gt; **Nota:** Algunas de las pseudoclases tratadas aquí están relacionadas con el estilo de los controles de formulario en función de su estado de validación (¿sus datos son válidos o no?) Aprenderás mucho más sobre cómo configurar y controlar las restricciones de validación en nuestro próximo artículo: [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation), pero por ahora mantendremos las cosas simples con respecto a la validación de formularios, para que no confundas las cosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** Above, note the double semicolon syntax (`;;`) for allowing comments in WebAssembly files.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064828Z" creationid="gitnacho" creationdate="20221007T064828Z">
@@ -46456,6 +46472,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's possible to perform [client-side form validation](/en-US/docs/Learn/Forms/Form_validation), but the server can't trust this validation because it has no way to truly know what has really happened on the client-side.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083139Z" creationid="Nachec" creationdate="20221028T083139Z">
+        <seg>Es posible realizar [validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation), pero el servidor no puede confiar en esta validación porque no tiene forma de saber qué sucedió realmente en el lado del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's ready for use from JavaScript, and doesn't require the user to have Rust installed; the code included was the WebAssembly code, not the Rust source.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T065427Z" creationid="gitnacho" creationdate="20221004T065427Z">
@@ -53106,6 +53130,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T081853Z" creationid="Nachec" creationdate="20221028T081853Z">
         <seg>El objetivo de esta prueba de habilidad es evaluar si has entendido nuestro artículo [Controles de formulario nativos básicos](/es/docs/Learn/Forms/Basic_native_form_controls).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The aim of this skill test is to assess whether you've understood our [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation) article.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083222Z" creationid="Nachec" creationdate="20221028T083222Z">
+        <seg>El objetivo de esta prueba de habilidades es evaluar si has entendido nuestro artículo [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -80184,6 +80216,14 @@ console.log(uintc8FromIterable);
         <seg>{{Non-standard_Header}}
 {{Deprecated_Header}}
 [![Iceberg pic](iceberg.jpg)](iceberg.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{PreviousMenu("Learn/Forms/Form_validation", "Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083143Z" creationid="Nachec" creationdate="20221028T083143Z">
+        <seg>{{PreviousMenu("Learn/Forms/Form_validation", "Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
