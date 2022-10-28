@@ -312,8 +312,8 @@
       <tuv lang="en-US">
         <seg>![The form to build, roughly sketch](form-sketch-low.jpg)</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013518Z" creationid="Nachec" creationdate="20221028T013518Z">
-        <seg>![Esbozo aproximado del formulario que vamos a construir](/files/4579/form-sketch-low.jpg)</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021814Z" creationid="Nachec" creationdate="20221028T013518Z">
+        <seg>![Esbozo aproximado del formulario que vamos a construir](form-sketch-low.jpg)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4838,8 +4838,8 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
       <tuv lang="en-US">
         <seg>### The `&lt;form&gt;` element</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021311Z" creationid="Nachec" creationdate="20221028T015840Z">
-        <seg>### El elemento ``form&gt;`</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T022048Z" creationid="Nachec" creationdate="20221028T015840Z">
+        <seg>### El elemento `&lt;form&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -34006,8 +34006,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&gt; **Note:** We'll look at how those attributes work in our [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data) article later on.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T020337Z" creationid="Nachec" creationdate="20221028T020337Z">
-        <seg>&gt; **Nota:** Veremos cómo funcionan esos atributos en nuestro artículo [Enviar los datos de un formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data) que encontrarás más adelante.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021949Z" creationid="Nachec" creationdate="20221028T020337Z">
+        <seg>&gt; **Nota:** Veremos cómo funcionan esos atributos en nuestro artículo [Enviar los datos de un formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data) que encontrarás más adelante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41138,8 +41138,8 @@ portales para realizar tareas de administración empresarial y herramientas de c
       <tuv lang="en-US">
         <seg>Forms allow users to enter data, which is generally sent to a web server for processing and storage (see [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data) later in the module), or used on the client-side to immediately update the interface in some way (for example, add another item to a list, or show or hide a UI feature).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012608Z" creationid="Nachec" creationdate="20221028T012608Z">
-        <seg>Los formularios permiten a los usuarios la introducción de datos, que generalmente se envían a un servidor web para su procesamiento y almacenamiento (consulta [Enviar los datos de un formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data) más adelante en el módulo), o se usan en el lado del cliente para provocar de alguna manera una actualización inmediata de la interfaz (por ejemplo, se añade otro elemento a una lista, o se muestra u oculta una función de interfaz de usuario).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021907Z" creationid="Nachec" creationdate="20221028T012608Z">
+        <seg>Los formularios permiten a los usuarios la introducción de datos, que generalmente se envían a un servidor web para su procesamiento y almacenamiento (consulta [Enviar los datos de un formulario](/es/docs/Learn/Forms/Sending_and_retrieving_form_data) más adelante en el módulo), o se usan en el lado del cliente para provocar de alguna manera una actualización inmediata de la interfaz (por ejemplo, se añade otro elemento a una lista, o se muestra u oculta una función de interfaz de usuario).</seg>
       </tuv>
     </tu>
     <tu>
@@ -66335,6 +66335,16 @@ p {</seg>
         <seg>```html
 &lt;form action="/my-handling-form-page" method="post"&gt;…&lt;/form&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;form action="http://www.foo.com" method="POST"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021711Z" creationid="Nachec" creationdate="20221028T021711Z">
+        <seg>```html
+&lt;form action="https://www.foo.com" method="POST"&gt;</seg>
       </tuv>
     </tu>
     <tu>
