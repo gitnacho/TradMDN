@@ -61520,8 +61520,8 @@ same table is visible and callable inside the wasm instance too.</seg>
       <tuv lang="en-US">
         <seg>This means that you cannot use them to perform rich text editing (bold, italic, etc.).</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234726Z" creationid="Nachec" creationdate="20221028T234726Z">
-        <seg>Esto significa que no los puedes usar para aplicar una [edición enriquecida](/es/docs/Rich-Text_Editing_in_Mozilla) (negrita, cursiva, etc.).</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T235533Z" creationid="Nachec" creationdate="20221028T234726Z">
+        <seg>Esto significa que no los puedes usar para aplicar una edición de texto enriquecida (negrita, cursiva, etc.).</seg>
       </tuv>
     </tu>
     <tu>
