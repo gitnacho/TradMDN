@@ -4836,6 +4836,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### The `&lt;form&gt;` element</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T015840Z" creationid="Nachec" creationdate="20221028T015840Z">
+        <seg>### El elemento {{HTMLelement("form")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### The `Accept-CH-Lifetime` header</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092758Z" creationid="Nachec" creationdate="20221022T092758Z">
@@ -35879,10 +35887,26 @@ JavaScript function into the WebAssembly Module in the process.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All forms start with a {{HTMLelement("form")}} element, like this:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T015945Z" creationid="Nachec" creationdate="20221028T015945Z">
+        <seg>Todos los formularios comienzan con un elemento {{HTMLelement("form")}}, como este:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All modern computers can sustain any of those connections.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200833Z" creationid="Nachec" creationdate="20221025T200833Z">
         <seg>Todos los ordenadores modernos pueden soportar cualquiera de este tipo de conexiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All of its attributes are optional, but it's standard practice to always set at least the [`action`](/en-US/docs/Web/HTML/Element/form#attr-action) and [`method`](/en-US/docs/Web/HTML/Element/form#attr-method) attributes:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T020211Z" creationid="Nachec" creationdate="20221028T020211Z">
+        <seg>Todos sus atributos son opcionales, pero es una práctica estándar establecer siempre al menos los atributos [`action`](/es/docs/Web/HTML/Element#attr-action) y [`method`](/es/docs/Web/HTML/Element#attr-method):</seg>
       </tuv>
     </tu>
     <tu>
@@ -37301,6 +37325,14 @@ call, and it will pass the response into the function when it fulfills.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T062401Z" creationid="gitnacho" creationdate="20221004T062401Z">
         <seg>Antes de pasar a la siguiente sección, deberíamos hablar un poco más sobre `wasm-bindgen`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before you go any further, make a local copy of our [simple HTML template](https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/getting-started/index.html) — you'll enter your form HTML into here.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T015805Z" creationid="Nachec" creationdate="20221028T015805Z">
+        <seg>Antes de continuar, haz una copia local de nuestra [plantilla HTML simple](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/getting-started/index.html): introduce aquí tu formulario HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46022,6 +46054,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004154Z" creationid="Nachec" creationdate="20221027T004154Z">
         <seg>Te tomará unos meses comenzar realmente a involucrarte en él, y luego deberás seguir aprendiendo para que tu conocimiento se mantenga actualizado con todas las nuevas herramientas y funciones que aparecen en la plataforma web, y seguir practicando y perfeccionando tu oficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's a container element like a {{HTMLelement("section")}} or {{HTMLelement("footer")}} element, but specifically for containing forms; it also supports some specific attributes to configure the way the form behaves.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T020019Z" creationid="Nachec" creationdate="20221028T020019Z">
+        <seg>Es un elemento contenedor, como un elemento {{HTMLelement("section")}} o {{HTMLelement("footer")}}, pero específico para contener formularios; también admite algunos atributos específicos para la configuración de la forma en que se comporta el formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57650,6 +57690,14 @@ caché, luego usa {{DOMxRef("Cache.addAll()")}} para agregarle una serie de recu
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This element formally defines a form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T015959Z" creationid="Nachec" creationdate="20221028T015959Z">
+        <seg>Este elemento define formalmente un formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This element implements the {{domxref("SVGViewElement")}} interface.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T180801Z" creationid="gitnacho" creationdate="20221005T173846Z">
@@ -65994,6 +66042,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183538Z" creationid="gitnacho" creationdate="20221008T183538Z">
         <seg>```html
 &lt;dl&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;form action="/my-handling-form-page" method="post"&gt;…&lt;/form&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T015945Z" creationid="Nachec" creationdate="20221028T015945Z">
+        <seg>```html
+&lt;form action="/my-handling-form-page" method="post"&gt;…&lt;/form&gt;
+```</seg>
       </tuv>
     </tu>
     <tu>
