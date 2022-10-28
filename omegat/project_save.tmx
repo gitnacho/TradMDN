@@ -31226,8 +31226,8 @@ i32.mul</seg>
         <seg>&lt;label for="username"&gt;&lt;span aria-label="required"&gt;*&lt;/label&gt;
 &lt;/div--&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T174500Z" creationid="Nachec" creationdate="20221028T174500Z">
-        <seg>&lt;label for="username"&gt;&lt;span aria-label="required"&gt;*&lt;/label&gt;
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T230141Z" creationid="Nachec" creationdate="20221028T174500Z">
+        <seg>&lt;label for="username"&gt;&lt;span aria-label="required"&gt;*&lt;/span&gt;&lt;/label&gt;
 &lt;/div--&gt;</seg>
       </tuv>
     </tu>
@@ -32765,8 +32765,8 @@ i32.mul</seg>
       <tuv lang="en-US">
         <seg>&lt;span&gt;E-mail: &lt;/span&gt;</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T194125Z" creationid="Nachec" creationdate="20221028T181312Z">
-        <seg>&lt;span&gt;Correo electrónico:&lt;/ span&gt;</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T225915Z" creationid="Nachec" creationdate="20221028T181312Z">
+        <seg>&lt;span&gt;Correo electrónico:&lt;/span&gt;</seg>
       </tuv>
     </tu>
     <tu>
