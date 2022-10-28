@@ -43915,8 +43915,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In supporting browsers, they tend to just give you a block of solid color with a small border.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222020Z" creationid="Nachec" creationdate="20221027T222020Z">
-        <seg>En los navegadores compatibles, tienden a mostrarle un bloque de color sólido con un borde pequeño.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T010805Z" creationid="Nachec" creationdate="20221027T222020Z">
+        <seg>En los navegadores compatibles, tienden a mostrar un bloque de color sólido con un borde pequeño.</seg>
       </tuv>
     </tu>
     <tu>
