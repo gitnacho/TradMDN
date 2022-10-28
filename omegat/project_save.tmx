@@ -42712,8 +42712,8 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       <tuv lang="en-US">
         <seg>If you are prepared to live with some differences in look and feel, you can get away with some simple styling to make sizing consistent, uniform styling of things like background-colors, and usage of appearance to get rid of some system-level styling.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215825Z" creationid="Nachec" creationdate="20221027T215825Z">
-        <seg>Si estás preparado para vivir con algunas diferencias en la apariencia, puedes salirte con la suya con un estilo simple para que el tamaño sea uniforme, el estilo uniforme de elementos como los colores de fondo y el uso de `appearance` para deshacerse de algunos estilos a nivel del sistema.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T005936Z" creationid="Nachec" creationdate="20221027T215825Z">
+        <seg>Si estás preparado para vivir con algunas diferencias en la apariencia, puedes salirte con la tuya con un estilo simple para que el tamaño sea uniforme, el estilo uniforme de elementos como los colores de fondo y el uso de `appearance` para deshacerse de algunos estilos a nivel del sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43883,8 +43883,8 @@ it may be either imported into or exported from the calling code.</seg>
       <tuv lang="en-US">
         <seg>In short, these are drop-down boxes, complex control types like [`color`](/en-US/docs/Web/HTML/Element/input/color) and [`datetime-local`](/en-US/docs/Web/HTML/Element/input/datetime-local), and feedback—oriented controls like {{HTMLElement("progress")}} and {{HTMLElement("meter")}}.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215722Z" creationid="Nachec" creationdate="20221027T215722Z">
-        <seg>En resumen, se trata de cuadros desplegables, tipos de controles complejos como [`color`](/es/docs/Web/HTML/Element/input/color) y [`datetime-local`](/es/docs/Web /HTML/Element/input/datetime-local) y controles orientados a la retroalimentación como {{HTMLElement("progress")}} y {{HTMLElement("meter")}}.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T005807Z" creationid="Nachec" creationdate="20221027T215722Z">
+        <seg>En resumen, se trata de cuadros desplegables, tipos de controles complejos como [`color`](/es/docs/Web/HTML/Element/input/color) y [`datetime-local`](/es/docs/Web/HTML/Element/input/datetime-local) y controles orientados a la retroalimentación como {{HTMLElement("progress")}} y {{HTMLElement("meter")}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50960,8 +50960,8 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       <tuv lang="en-US">
         <seg>Take the following example, which shows a number of the "ugly" form features in action:</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221027T215842Z" creationid="Nachec" creationdate="20221027T215842Z">
-        <seg>Tome el siguiente ejemplo, que muestra una serie de características de formulario "feas" en acción:</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T010009Z" creationid="Nachec" creationdate="20221027T215842Z">
+        <seg>Toma el siguiente ejemplo, que muestra una serie de características de formulario "feas" en acción:</seg>
       </tuv>
     </tu>
     <tu>
