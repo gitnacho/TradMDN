@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![The form to build, roughly sketch](form-sketch-low.jpg)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013518Z" creationid="Nachec" creationdate="20221028T013518Z">
+        <seg>![Esbozo aproximado del formulario que vamos a construir](/files/4579/form-sketch-low.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![The words Star Wars followed by an image of a Lego version of the Darth Vader character](demo-screenshot.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T031029Z" creationid="gitnacho" creationdate="20220921T023851Z">
@@ -1108,6 +1116,14 @@
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T200552Z" creationid="Nachec" creationdate="20221025T200552Z">
         <seg>## Aprendizaje activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Active learning: Implementing our form HTML</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013624Z" creationid="Nachec" creationdate="20221028T013624Z">
+        <seg>## Aprendizaje activo: Implementar nuestro formulario HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -41671,6 +41687,14 @@ la aplicación.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hitting the button will send their data to a web server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013557Z" creationid="Nachec" creationdate="20221028T013557Z">
+        <seg>Al pulsar el botón sus datos se enviarán a un servidor web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Honors the value of `env.cache_control` to invalidate cache on `no-cache`, which can be sent by a logged-in user hitting shift-refresh.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T081747Z" creationid="gitnacho" creationdate="20221005T072637Z">
@@ -44508,6 +44532,14 @@ receive the module from the main thread.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this article, we'll build a simple contact form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013503Z" creationid="Nachec" creationdate="20221028T013503Z">
+        <seg>En este artículo, vamos a crear un formulario de contacto sencillo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this article, we'll give you an idea of what is possible with this exciting language, and how to get started.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220925T055606Z" creationid="gitnacho" creationdate="20220925T055606Z">
@@ -46690,6 +46722,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's make a rough sketch.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013511Z" creationid="Nachec" creationdate="20221028T013511Z">
+        <seg>Hagamos un esbozo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's make the above assertions clearer by looking at a more involved memory example — a WebAssembly module that imports the memory instance we defined earlier, populates it with an array of integers, then sums them.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221006T225456Z" creationid="gitnacho" creationdate="20221006T225456Z">
@@ -48544,6 +48584,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ok, let's have a go at creating the HTML for our form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T015007Z" creationid="Nachec" creationdate="20221028T015007Z">
+        <seg>De acuerdo, intentemos crear el HTML para nuestro formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ok, that's not very interesting, let's add some executable code to this module.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T081855Z" creationid="gitnacho" creationdate="20221007T054040Z">
@@ -49116,6 +49164,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T064641Z" creationid="gitnacho" creationdate="20221007T064641Z">
         <seg>Nuestro módulo `wasm` final se ve así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our form will contain three text fields and one button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013534Z" creationid="Nachec" creationdate="20221028T013534Z">
+        <seg>Nuestro formulario va a tener tres campos de texto y un botón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60971,6 +61027,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193432Z" creationid="Nachec" creationdate="20221027T193432Z">
         <seg>También queremos ayudar a nuestros usuarios a completar nuestros formularios correctamente y no frustrarse al intentar usar nuestras aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We are asking the user for their name, their e-mail and the message they want to send.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T013548Z" creationid="Nachec" creationdate="20221028T013548Z">
+        <seg>Le pedimos al usuario su nombre, su correo electrónico y el mensaje que desea enviar.</seg>
       </tuv>
     </tu>
     <tu>
