@@ -37032,6 +37032,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As we mentioned earlier, the [`pattern`](/en-US/docs/Web/HTML/Attributes/pattern) attribute can be used to enforce constraints, which you'll learn about in [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T082910Z" creationid="Nachec" creationdate="20221028T082910Z">
+        <seg>Como mencionamos anteriormente, el atributo [`pattern`](/es/docs/Web/HTML/Attributes/pattern) se puede usar para hacer cumplir las restricciones, sobre las que aprenderás en [Validación de formulario de lado del cliente](/es/docs/Learn/Forms/Form_validation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As we said before, it embeds an image into our page in the position it appears.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T063009Z" creationid="Nachec" creationdate="20221023T063009Z">
@@ -60440,6 +60448,14 @@ locales en el módulo (como "símbolos" en una compilación nativa).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To implement different validation behavior, you can use the [`pattern`](/en-US/docs/Web/HTML/Attributes/pattern) attribute, and you can also customize the error messages; we'll talk how to use these features in the [Client-side form validation](/en-US/docs/Learn/Forms/Form_validation) article later on.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T082834Z" creationid="Nachec" creationdate="20221028T082834Z">
+        <seg>Para implementar un comportamiento de validación diferente, puedes usar el atributo [`pattern`](/es/docs/Web/HTML/Attributes/pattern), y también puedes personalizar los mensajes de error; hablaremos sobre cómo usar estas funciones en el artículo [Validación de formularios de lado del cliente](/es/docs/Learn/Forms/Form_validation) más adelante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To learn about them in detail, check out [this blog post on Mozilla Hacks](https://hacks.mozilla.org/2018/04/hello-wasm-pack/).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T064103Z" creationid="gitnacho" creationdate="20221004T064103Z">
@@ -79986,6 +80002,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T180935Z" creationid="Nachec" creationdate="20221021T180935Z">
         <seg>{{LearnSidebar}}{{NextMenu("Learn/MathML/First_steps/Text_containers", "Learn/MathML/First_steps")}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{LearnSidebar}}{{PreviousMenu("Learn/Forms/Form_validation", "Learn/Forms")}}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T083037Z" creationid="Nachec" creationdate="20221028T083037Z">
+        <seg>{{LearnSidebar}}{{PreviousMenu("Learn/Forms/Form_validation", "Learn/Forms")}}</seg>
       </tuv>
     </tu>
     <tu>
