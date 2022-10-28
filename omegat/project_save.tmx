@@ -40554,6 +40554,92 @@ par `&lt;dt&gt;`/`&lt;dd&gt;`, de la siguiente manera:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the following below the previous section:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181527Z" creationid="Nachec" creationdate="20221028T181527Z">
+        <seg>Estos tipos de entrada más nuevos volverán a aparecer en el artículo [Tipos de entrada HTML5](/es/docs/Learn/Forms/HTML5_input_types).
+
+    Introduce los datos siguientes a continuación de la sección anterior:
+
+    ```html
+    &lt;section&gt;
+        &lt;h2&gt;Información de pago&lt;/h2&gt;
+        &lt;p&gt;
+          &lt;label for="card"&gt;
+            &lt;span&gt;Tipo de tarjeta:&lt;/span&gt;
+          &lt;/label&gt;
+          &lt;select id="card" name="usercard"&gt;
+            &lt;option value="visa"&gt;Visa&lt;/option&gt;
+            &lt;option value="mc"&gt;Mastercard&lt;/option&gt;
+            &lt;option value="amex"&gt;American Express&lt;/option&gt;
+          &lt;/select&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;label for="number"&gt;
+            &lt;span&gt;Número de tarjeta:&lt;/span&gt;
+            &lt;strong&gt;&lt;abbr title="required"&gt;*&lt;/abbr&gt;&lt;/strong&gt;
+          &lt;/label&gt;
+          &lt;input type="tel" id="number" name="cardnumber"&gt;
+        &lt;/p&gt;
+        &lt;p&gt;
+          &lt;label for="date"&gt;
+            &lt;span&gt;Fecha de caducidad:&lt;/span&gt;
+            &lt;strong&gt;&lt;abbr title="required"&gt;*&lt;/abbr&gt;&lt;/strong&gt;
+            &lt;em&gt;el formato mm/aa&lt;/em&gt;
+          &lt;/label&gt;
+          &lt;input type="date" id="date" name="expiration"&gt;
+        &lt;/p&gt;
+    &lt;/section&gt;
+    ```
+
+7. La última sección que añadimos es mucho más simple y contiene solo un {{htmlelement ("button")}} de tipo `submit`, para enviar los datos del formulario. Añádelo al final de tu formulario:
+
+    ```html
+    &lt;p&gt; &lt;button type="submit"&gt;Validar el pago&lt;/button&gt; &lt;/p&gt;
+    ```
+
+Debajo puedes ver en acción el formulario terminado (también lo encontrarás en GitHub; consulta el [código fuente](https://github.com/mdn/learning-area/blob/master/html/forms/html-form-structure/payment-form.html) de nuestro payment-form.html y [ejecútalo en vivo](https://mdn.github.io/learning-area/html/forms/html-form-structure/payment-form.html)):
+
+{{EmbedLiveSample("A_payment_form","100%",620, "", "/en-US/Learn/Forms/How_to_structure_a_web_form/Example")}}
+
+## ¡Prueba tus habilidades!
+
+Has llegado al final de este artículo pero ¿puedes recordar la información más importante? Puedes encontrar pruebas adicionales para comprobar que has comprendido la información antes de continuar — visita [Prueba tus habilidades: Estructura de formularios](/es/docs/Learn/Forms/Test_your_skills:_Form_structure).
+
+## Resumen
+
+Ahora tienes todos los conocimientos necesarios para estructurar adecuadamente tus formularios web. Expondremos muchas de las características que se presentan aquí en los artículos siguientes, y el próximo artículo analizará con más detalle el uso de todos los diferentes tipos de controles de formulario que vas a querer usar para recopilar la información de tus usuarios.
+
+## Ver también
+
+- [A List Apart: _Sensible Forms: A Form Usability Checklist_](http://www.alistapart.com/articles/sensibleforms/)
+
+{{PreviousMenuNext("Learn/Forms/Your_first_form", "Learn/Forms/Basic_native_form_controls", "Learn/Forms")}}
+
+## En este módulo
+
+- [Tu primer formulario HTML](/es/docs/Learn/HTML/Forms/Your_first_HTML_form)
+- [Cómo estructurar un formulario HTML](/es/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
+- [Los controles básicos de formulario originales](/es/docs/Learn/HTML/Forms/The_native_form_widgets)
+- [Tipos de entrada HTML5](/es/docs/Learn/HTML/Forms/HTML5_input_types)
+- [Controles de formulario adicionales](/es/docs/Learn/HTML/Forms/Additional_form_controls)
+- [Pseudoclasses UI](/es/docs/Learn/HTML/Forms/UI_pseudo-classes)
+- [Aplicar estilo a formularios HTML](/es/docs/Learn/HTML/Forms/Styling_HTML_forms)
+- [Validación de datos en un formulario](/es/docs/Learn/HTML/Forms/Form_validation)
+- [Enviar los datos de un formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data)
+
+### Temas avanzados
+
+- [Enviar formularios con JavaScript](/es/docs/Learn/HTML/Forms/Sending_forms_through_JavaScript)
+- [Cómo crear controles de formulario personalizados](/es/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets)
+- [Formularios HTML en navegadores antiguos](/es/docs/Learn/HTML/Forms/HTML_forms_in_legacy_browsers)
+- [Cuestiones avanzadas de aplicación de estilo para formularios HTML](/es/docs/Learn/HTML/Forms/Advanced_styling_for_HTML_forms)
+- [Tabla de compatibilidad de los controles de formulario](/es/docs/Learn/HTML/Forms/Property_compatibility_table_for_form_widgets) según su código propietario
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Entity headers include: {{HTTPHeader("Content-Length")}}, {{HTTPHeader("Content-Language")}}, {{HTTPHeader("Content-Encoding")}}, {{HTTPHeader("Content-Type")}}, {{HTTPHeader("Expires")}}, etc.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T154917Z" creationid="Nachec" creationdate="20221022T154917Z">
@@ -55575,6 +55661,14 @@ y devuelve su valor.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first is a drop-down menu ({{htmlelement("select")}}) for selecting credit card type.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181424Z" creationid="Nachec" creationdate="20221028T181424Z">
+        <seg>El primero es un menú desplegable ({{HTMLElement("select")}}) para seleccionar el tipo de tarjeta de crédito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first label inside the parenthesis tells you what type of node it is, and after that there is a space-separated list of either attributes or child nodes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T053640Z" creationid="gitnacho" creationdate="20221007T053640Z">
@@ -56378,6 +56472,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The last one is an `&lt;input&gt;` element of type `text`, for entering the expiration date of the card; this includes a _placeholder_ attribute indicating the correct format, and a _pattern_ that tests that the entered date has the correct format.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181449Z" creationid="Nachec" creationdate="20221028T181449Z">
+        <seg>Si bien podríamos haber usado el tipo `number`, no queremos una interfaz de usuario con control de número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The last part, and perhaps the trickiest, is to handle form data on the server side.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090114Z" creationid="Nachec" creationdate="20221028T090114Z">
@@ -57140,6 +57242,22 @@ de elementos en la tabla.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T133837Z" creationid="gitnacho" creationdate="20221003T133837Z">
         <seg>El script se debe servir con el tipo MIME `text/javascript`, pero los navegadores son indulgentes y solo los bloquean si el script se sirve con un tipo de imagen (`image/*`); un tipo de video (`video/*`); un tipo de audio (`audio/*`); o `texto/csv`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second `&lt;section&gt;` of our form is the payment information.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181350Z" creationid="Nachec" creationdate="20221028T181350Z">
+        <seg>La segunda `&lt;section&gt;` de nuestro formulario es la información de pago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second is an `&lt;input&gt;` element of type `tel`, for entering a credit card number; while we could have used the `number` type, we don't want the number's spinner UI.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181438Z" creationid="Nachec" creationdate="20221028T181438Z">
+        <seg>El segundo es un elemento `&lt;input&gt;` de tipo `tel`, para introducir un número de tarjeta de crédito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58766,6 +58884,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221020T204629Z" creationid="gitnacho" creationdate="20221006T181642Z">
         <seg>Estos métodos no acceden directamente al código de bytes, por lo que requieren un paso adicional para convertir la respuesta en {{JSxRef("ArrayBuffer")}} antes de compilar/crear una instancia del módulo `wasm`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These newer input types are reintroduced in [The HTML5 input types](/en-US/docs/Learn/Forms/HTML5_input_types).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181508Z" creationid="Nachec" creationdate="20221028T181508Z">
+        <seg>El último es un elemento `&lt;input&gt;` de tipo `date`, para introducir la fecha de caducidad de la tarjeta; aparecerá como un control de selección de fecha en navegadores compatibles, y como una entrada de texto normal en navegadores no compatibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63640,6 +63766,14 @@ En este punto, deberías tener tu página web de ejemplo disponible en una direc
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194337Z" creationid="Nachec" creationdate="20221021T194337Z">
         <seg>Hemos visto caracteres Unicode especiales que comúnmente, se encuentran en fórmulas matemáticas y hemos dado una descripción general de algunos comportamientos observables de los elementos `&lt;mi&gt;` y `&lt;mo&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We have three distinct controls along with their labels, each contained inside a `&lt;p&gt;`.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181400Z" creationid="Nachec" creationdate="20221028T181400Z">
+        <seg>Hay tres controles diferentes, junto con sus etiquetas, cada uno contenido dentro de un elemento `&lt;p&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
