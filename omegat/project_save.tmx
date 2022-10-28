@@ -55285,8 +55285,8 @@ se llaman asíncronamente.</seg>
       <tuv lang="en-US">
         <seg>The names are important on both the client- and server-side; they tell the browser which name to give each piece of data and, on the server side, they let the server handle each piece of data by name.</seg>
       </tuv>
-      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090427Z" creationid="Nachec" creationdate="20221028T090427Z">
-        <seg>The names are important on both the client- and server-side; they tell the browser which name to give each piece of data and, on the server side, they let the server handle each piece of data by name.</seg>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092213Z" creationid="Nachec" creationdate="20221028T090427Z">
+        <seg>Los nombres son importantes tanto en el lado del cliente como del servidor; informan al navegador qué nombre debe dar a cada dato y, en el lado del servidor, dejan que el servidor maneje cada dato por su nombre.</seg>
       </tuv>
     </tu>
     <tu>
