@@ -13234,6 +13234,14 @@ browser-compat: javascript.builtins.WebAssembly.Tag.type
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- In the first example, the label is not read out at all with the input — you just get "edit text blank", plus the actual labels are read out separately.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T175734Z" creationid="Nachec" creationdate="20221028T175734Z">
+        <seg>- En el primer ejemplo, la etiqueta no se lee en absoluto con la entrada de texto; solo se obtiene "*Editar texto en blanco*", y además las etiquetas se leen por separado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- Index</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T231420Z" creationid="gitnacho" creationdate="20220925T035309Z">
@@ -54273,6 +54281,14 @@ names custom section, for example:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T192805Z" creationid="Nachec" creationdate="20221027T192805Z">
         <seg>El texto anterior es un buen indicador de por qué hemos colocado formularios web en su propio módulo independiente, en lugar de tratar de mezclar fragmentos en las áreas temáticas de HTML, CSS y JavaScript: los elementos de formulario son más complejos que la mayoría de los demás elementos HTML, y también requieren un matrimonio cercano de técnicas relacionadas de CSS y JavaScript para aprovecharlos al máximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The above variants increase in effectiveness as you go through them:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T175657Z" creationid="Nachec" creationdate="20221028T175657Z">
+        <seg>Las variantes anteriores aumentan en efectividad a medida que las recorres:</seg>
       </tuv>
     </tu>
     <tu>
