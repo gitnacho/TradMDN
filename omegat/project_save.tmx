@@ -2552,6 +2552,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Text input fields</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234546Z" creationid="Nachec" creationdate="20221028T234546Z">
+        <seg>## Campos de entrada de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Textual data types</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T233455Z" creationid="Nachec" creationdate="20221021T233455Z">
@@ -34436,6 +34444,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** HTML form text fields are simple plain text input controls.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234644Z" creationid="Nachec" creationdate="20221028T234644Z">
+        <seg>&gt; **Nota:** Los campos de texto de los formularios HTML son controles de entrada de texto sencillos sin formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** If the response from preload and normal fetch operations can be different, then the server must set `Vary: Service-Worker-Navigation-Preload` to ensure that the different responses are cached.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220922T210815Z" creationid="gitnacho" creationdate="20220922T210815Z">
@@ -44946,6 +44962,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want a more advanced reference, you should consult our [HTML forms element reference](/en-US/docs/Web/HTML/Element#forms), and in particular our extensive [`&lt;input&gt;` types](/en-US/docs/Web/HTML/Element/input) reference.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234537Z" creationid="Nachec" creationdate="20221028T234537Z">
+        <seg>Si quieres una referencia más avanzada, consulta nuestra [referencia a elementos de formulario HTML](/es/docs/Web/HTML/Element#forms), y en particular nuestra extensa referencia a [tipos `&lt;input&gt;`](/es/docs/Web/HTML/Element/input).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to access the memory created in JS from Wasm or vice versa, you can pass a reference to the memory from one side to the other.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T000220Z" creationid="gitnacho" creationdate="20221008T000220Z">
@@ -53380,6 +53404,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text {{htmlelement("input")}} fields are the most basic form widgets.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234619Z" creationid="Nachec" creationdate="20221028T234619Z">
+        <seg>Los campos de texto {{HTMLElement("input")}} son los más básicos controles de formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20210113T191352Z" creationid="nacho" creationdate="20210113T191352Z">
@@ -59214,6 +59246,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are a very convenient way to let the user enter any kind of data, and we've already seen a few simple examples.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234630Z" creationid="Nachec" creationdate="20221028T234630Z">
+        <seg>Son un modo muy cómodo de permitir al usuario introducir cualquier tipo de datos, y ya hemos visto algunos ejemplos sencillos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are commonly used to provide a portal for members to securely access shared resources, collaborate and communicate.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T203515Z" creationid="Nachec" creationdate="20221025T203515Z">
@@ -61474,6 +61514,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T180148Z" creationid="Nachec" creationdate="20221028T180148Z">
         <seg>Esto significa que puedes usar todo el poder del HTML para estructurar un formulario web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means that you cannot use them to perform rich text editing (bold, italic, etc.).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T234726Z" creationid="Nachec" creationdate="20221028T234726Z">
+        <seg>Esto significa que no los puedes usar para aplicar una [edición enriquecida](/es/docs/Rich-Text_Editing_in_Mozilla) (negrita, cursiva, etc.).</seg>
       </tuv>
     </tu>
     <tu>
