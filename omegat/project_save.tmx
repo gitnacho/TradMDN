@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Screenshot of the disabled attribute and default :focus styles on a text input in Firefox, Safari, Chrome and Edge.](disabled.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001921Z" creationid="Nachec" creationdate="20221029T001921Z">
+        <seg>![Captura de pantalla del atributo deshabilitado y estilos de :focus predeterminado en una entrada de texto en Firefox, Safari, Chrome y Edge.](disabled.png)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![Search results for a search term on Google Images](updated-google-images.png)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T062656Z" creationid="gitnacho" creationdate="20221019T062656Z">
@@ -43256,6 +43264,14 @@ Connection: Keep-Alive
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here is a basic single line text field example:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001459Z" creationid="Nachec" creationdate="20221029T001459Z">
+        <seg>Aquí hay un ejemplo básico de campo de texto de una sola línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here is a basic template to use UTF-8 encoding and the [Latin Modern Math](/en-US/docs/Web/MathML/Fonts#fonts_with_a_math_table) font:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T190913Z" creationid="Nachec" creationdate="20221021T190704Z">
@@ -52708,6 +52724,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221025T193537Z" creationid="Nachec" creationdate="20221023T140024Z">
         <seg>Dado que {{HTMLElement("html")}} es el elemento primario (o padre) de toda la página, todos los elementos contenidos dentro de él heredan las propiedades `font-size` y `font-family`):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single line text fields have only one true constraint: if you type text with line breaks, the browser removes those line breaks before sending the data to the server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001551Z" creationid="Nachec" creationdate="20221029T001551Z">
+        <seg>Los campos de texto de una sola línea solo tienen una restricción verdadera: si escribes el texto con saltos de línea, el navegador elimina esos saltos de línea antes de enviar los datos al servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67723,6 +67747,14 @@ crate-type = ["cdylib"]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>_The following screenshot shows default, focused and disabled text input types in Firefox 71 and Safari on macOS and in Chrome 79 and Edge 18 on Windows 10._</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001613Z" creationid="Nachec" creationdate="20221029T001613Z">
+        <seg>*La captura de pantalla siguiente muestra los tipos de entrada de texto predeterminado, activo (con el foco) y deshabilitado en Firefox 71 y Safari en macOS y en Chrome 79 y Edge 18 en Windows 10*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>_The only constant is change._</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004210Z" creationid="Nachec" creationdate="20221027T004210Z">
@@ -69100,6 +69132,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060422Z" creationid="Nachec" creationdate="20221023T060347Z">
         <seg>```html
 &lt;img src="images/firefox-icon.png" alt="Mi imagen de prueba"&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;input type="text" id="comment" name="comment" value="I'm a text field" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001517Z" creationid="Nachec" creationdate="20221029T001517Z">
+        <seg>```html
+&lt;input type="text" id="comment" name="comment" value="Soy un campo de texto" /&gt;
 ```</seg>
       </tuv>
     </tu>
