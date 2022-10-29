@@ -30280,6 +30280,24 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;button type="button"&gt;Do Nothing without JavaScript&lt;/button&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115336Z" creationid="Nachec" creationdate="20221029T115336Z">
+        <seg>&lt;button type="button"&gt;No hace nada sin JavaScript&lt;/button&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;button type="reset"&gt;Reset this form&lt;/button&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115322Z" creationid="Nachec" creationdate="20221029T115322Z">
+        <seg>&lt;button type="reset"&gt;Restablecer este formulario&lt;/button&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;button type="submit"&gt;Send your message&lt;/button&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T092910Z" creationid="Nachec" creationdate="20221028T092910Z">
@@ -30296,6 +30314,14 @@ i32.mul</seg>
         <seg>&lt;button type="submit"&gt;Envía tu mensaje&lt;/button&gt;
 &lt;/li&gt;
 ```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;button type="submit"&gt;Submit this form&lt;/button&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115314Z" creationid="Nachec" creationdate="20221029T115314Z">
+        <seg>&lt;button type="submit"&gt;Enviar este formulario&lt;/button&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30969,6 +30995,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="button" value="Do Nothing without JavaScript"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115306Z" creationid="Nachec" creationdate="20221029T115306Z">
+        <seg>&lt;input type="button" value="No hacer nada sin JavaScript"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="checkbox" data-comment="The fraction six over seven." data-highlight="mfrac2"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T061222Z" creationid="Nachec" creationdate="20221021T061222Z">
@@ -31237,6 +31271,22 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T172659Z" creationid="Nachec" creationdate="20221028T172659Z">
         <seg>&lt;input type="radio" name="size" id="size_3" value="large" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="reset" value="Reset this form"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115300Z" creationid="Nachec" creationdate="20221029T115300Z">
+        <seg>&lt;input type="reset" value="Restablecer este formulario"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="submit" value="Submit this form"&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115251Z" creationid="Nachec" creationdate="20221029T115251Z">
+        <seg>&lt;input type="submit" value="Enviar este formulario"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57448,6 +57498,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The main difference between the two is that actual `&lt;button&gt;` elements are much easier to style.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115221Z" creationid="Nachec" creationdate="20221029T115221Z">
+        <seg>La principal diferencia entre los dos es que los elementos `&lt;button&gt;` propiamente admiten aplicación de estilo en mayor medida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The main limitations of GFM table syntax are:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T184840Z" creationid="gitnacho" creationdate="20221008T184840Z">
@@ -60703,6 +60761,14 @@ is the most efficient, optimized way to load wasm code.</seg>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T070158Z" creationid="gitnacho" creationdate="20221005T070134Z">
         <seg>Este puede incluir bucles, condicionales, etc.
 - Nada dentro de un bloque `&lt;% %&gt;` puede contribuir al flujo de salida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can take a `type` attribute of value `submit`, `reset`, or `button` to mimic the behavior of the three `&lt;input&gt;` types mentioned above.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115153Z" creationid="Nachec" creationdate="20221029T115153Z">
+        <seg>Además, el elemento {{HTMLElement("button")}} puede tomar un atributo `type` para imitar estos tres tipos de `&lt;input&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70226,6 +70292,20 @@ De manera predeterminada, este elemento contiene este texto
         <seg>```html hidden
 &lt;!DOCTYPE html&gt;
 &lt;html lang="es-ES"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html hidden
+&lt;div class="buttondemo"&gt;
+&lt;p&gt;Using &amp;lt;input&gt;
+&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115433Z" creationid="Nachec" creationdate="20221029T115433Z">
+        <seg>```html hidden
+&lt;div class="buttondemo"&gt;
+&lt;p&gt;Usando &amp;lt;input&gt;
+&lt;p&gt;</seg>
       </tuv>
     </tu>
     <tu>
