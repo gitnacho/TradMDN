@@ -35244,6 +35244,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** You can find examples of all the single line text field types on GitHub at [single-line-text-fields.html](https://github.com/mdn/learning-area/blob/main/html/forms/native-form-widgets/single-line-text-fields.html) ([see it live also](https://mdn.github.io/learning-area/html/forms/native-form-widgets/single-line-text-fields.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001449Z" creationid="Nachec" creationdate="20221029T001449Z">
+        <seg>&gt; **Nota:** Puedes encontrar ejemplos de todos los tipos de campo de texto de una sola línea en GitHub en [single-line-text-fields.html](https://github.com/mdn/learning-area/blob/master/html/forms/native-form-widgets/single-line-text-fields.html) ([o consúltalo en vivo](https://mdn.github.io/learning-area/html/forms/native-form-widgets/single-line-text-fields.html)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** You can find more information in the [Bulk Memory Operations and Conditional Segment Initialization](https://github.com/WebAssembly/bulk-memory-operations/blob/master/proposals/bulk-memory-operations/Overview.md) proposal.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T074745Z" creationid="gitnacho" creationdate="20221007T074745Z">
@@ -57998,6 +58006,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T094541Z" creationid="Nachec" creationdate="20221022T094541Z">
         <seg>Al usuario se le presentan los recursos y elige el que va a utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The value `text` for this attribute is also the fallback value if the value you specify for the {{htmlattrxref("type","input")}} attribute is unknown by the browser (for example if you specify `type="color"` and the browser doesn't support native color pickers).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001401Z" creationid="Nachec" creationdate="20221029T001401Z">
+        <seg>El valor `text` de este atributo también es el valor alternativo si el navegador no reconoce el valor que has especificado para el atributo {{HTMLAttrxRef("type","input")}} (por ejemplo, si especificas `type="color"` y el navegador no admite un control de selección de colores).</seg>
       </tuv>
     </tu>
     <tu>
