@@ -30281,6 +30281,20 @@ i32.mul</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;button type="button"&gt;Do Nothing without JavaScript&lt;/button&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115532Z" creationid="Nachec" creationdate="20221029T115532Z">
+        <seg>&lt;button type="button"&gt;No hace nada sin JavaScript&lt;/button&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;button type="button"&gt;Do Nothing without JavaScript&lt;/button&gt;
 ```</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115336Z" creationid="Nachec" creationdate="20221029T115336Z">
@@ -30999,6 +31013,20 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115306Z" creationid="Nachec" creationdate="20221029T115306Z">
         <seg>&lt;input type="button" value="No hacer nada sin JavaScript"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="button" value="Do Nothing without JavaScript"&gt;
+&lt;/p&gt;
+&lt;p&gt;Using &amp;lt;button&gt;
+&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115516Z" creationid="Nachec" creationdate="20221029T115516Z">
+        <seg>&lt;input type="button" value="No hace nada sin JavaScript"&gt;
+&lt;/p&gt;
+&lt;p&gt;Usando %lt;button&gt;
+&lt;p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35152,6 +35180,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** The `image` input type also renders as a button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115556Z" creationid="Nachec" creationdate="20221029T115556Z">
+        <seg>&gt; **Nota:** El tipo de entrada `image` también se representa como un botón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** The `origin` value can be `null`.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T060613Z" creationid="gitnacho" creationdate="20221012T060613Z">
@@ -35588,6 +35624,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T090050Z" creationid="Nachec" creationdate="20221028T090050Z">
         <seg>&gt; **Nota:** Puedes encontrar nuestra versión en GitHub en [first-form-styled.html](https://github.com/mdn/learning-area/blob/master/html/forms/your-first-HTML-form/first-form-styled.html) (y lo puedes [ver en vivo](https://mdn.github.io/learning-area/html/forms/your-first-HTML-form/first-form-styled.html)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; **Note:** You can find the examples from this section on GitHub as [button-examples.html](https://github.com/mdn/learning-area/blob/main/html/forms/native-form-widgets/button-examples.html) ([see it live also](https://mdn.github.io/learning-area/html/forms/native-form-widgets/button-examples.html)).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115701Z" creationid="Nachec" creationdate="20221029T115624Z">
+        <seg>&gt; **Nota:** Puedes encontrar los ejemplos de esta sección en GitHub como [button-examples.html](https://github.com/mdn/learning-area/blob/master/html/forms/native-form-widgets/button-examples.html) ([o consultarlos en vivo](https://mdn.github.io/learning-area/html/forms/native-form-widgets/button-examples.html)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65195,6 +65239,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We'll cover that later too.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115629Z" creationid="Nachec" creationdate="20221029T115621Z">
+        <seg>Desarrollaremos este tema más adelante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'll discuss each one in later sections.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T204250Z" creationid="gitnacho" creationdate="20221005T204250Z">
@@ -69571,6 +69623,16 @@ width: calc(100% - 200px);
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T103838Z" creationid="Nachec" creationdate="20221021T103838Z">
         <seg>```css hidden
 .highlight {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```css hidden
+button, input {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115534Z" creationid="Nachec" creationdate="20221029T115534Z">
+        <seg>```css hidden
+button, input {</seg>
       </tuv>
     </tu>
     <tu>
@@ -73991,6 +74053,18 @@ unreachable
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>all: revert;
+}
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115537Z" creationid="Nachec" creationdate="20221029T115537Z">
+        <seg>all: revert;
+}
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>alongside the Equality operator, the negation operator tests whether two</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T185849Z" creationid="Nachec" creationdate="20221023T185849Z">
@@ -77026,6 +77100,18 @@ total.reset();               // #count ahora = 7
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T205240Z" creationid="Nachec" creationdate="20221027T205240Z">
         <seg>display: inline-block;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>display: none;
+}
+.buttondemo button, .buttondemo input {</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115535Z" creationid="Nachec" creationdate="20221029T115535Z">
+        <seg>display: none;
+}
+.buttondemo button, .buttondemo input {</seg>
       </tuv>
     </tu>
     <tu>
@@ -83218,6 +83304,14 @@ console.log(uintc8FromIterable);
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T194227Z" creationid="Nachec" creationdate="20221021T194227Z">
         <seg>{{ EmbedLiveSample('Active_learning_stretchy_fences', 700, 400, "", "") }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{ EmbedLiveSample('Actual_buttons', '500', '250') }}</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115539Z" creationid="Nachec" creationdate="20221029T115539Z">
+        <seg>{{ EmbedLiveSample('Actual_buttons', '500', '250') }}</seg>
       </tuv>
     </tu>
     <tu>
