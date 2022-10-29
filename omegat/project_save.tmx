@@ -3428,6 +3428,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Checkbox</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112155Z" creationid="Nachec" creationdate="20221029T112155Z">
+        <seg>### Casillas de verificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Client Hints</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T190730Z" creationid="gitnacho" creationdate="20221012T095313Z">
@@ -36441,6 +36449,14 @@ fields:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A checkbox is created using the {{HTMLElement("input")}} element with a [`type`](/en-US/docs/Web/HTML/Element/input#type) attribute set to the value {{HTMLElement("input/checkbox", "checkbox")}}.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112254Z" creationid="Nachec" creationdate="20221029T112254Z">
+        <seg>Las casillas de verificación se crean estableciendo el atributo [`type`](/es/docs/Web/HTML/Element/input#type) del elemento {{HTMLElement("input")}} en el valor {{HTMLElement("input/checkbox", "checkbox")}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A common usage of the macro is as follows:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T220127Z" creationid="gitnacho" creationdate="20221005T220127Z">
@@ -51995,6 +52011,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Related checkbox items should use the same [`name`](/en-US/docs/Web/HTML/Element/input#name) attribute.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112441Z" creationid="Nachec" creationdate="20221029T112441Z">
+        <seg>Los elementos de casilla de verificación relacionados deben usar el mismo atributo [`name`](/es/docs/Web/HTML/Element/input#name).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relative length units specify a length in relation to something else.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234931Z" creationid="Nachec" creationdate="20221021T234931Z">
@@ -52650,6 +52674,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T112046Z" creationid="gitnacho" creationdate="20221007T112046Z">
         <seg>Consulta el [código fuente](https://github.com/mdn/webassembly-examples/blob/master/js-api-examples/index-compile.html) de `index-compile.html` o lo puedes [ver en vivo](https://mdn.github.io/webassembly-examples/js-api-examples/index-compile.html).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the examples linked above for structural examples.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112148Z" creationid="Nachec" creationdate="20221029T112148Z">
+        <seg>Observa las estructuras de ejemplo en los ejemplos asociados anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69378,6 +69410,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060422Z" creationid="Nachec" creationdate="20221023T060347Z">
         <seg>```html
 &lt;img src="images/firefox-icon.png" alt="Mi imagen de prueba"&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;input type="checkbox" id="questionOne" name="subscribe" value="yes" checked /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112305Z" creationid="Nachec" creationdate="20221029T112305Z">
+        <seg>```html
+&lt;input type="checkbox" id="questionOne" name="subscribe" value="yes" checked /&gt;
 ```</seg>
       </tuv>
     </tu>
