@@ -15213,10 +15213,34 @@ browser-compat: javascript.builtins.WebAssembly.Tag.Tag
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- They can be constrained in [`size`](/en-US/docs/Web/HTML/Attributes/size) (the physical size of the box) and [`maxlength`](/en-US/docs/Web/HTML/Attributes/maxlength) (the maximum number of characters that can be entered into the box).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T235937Z" creationid="Nachec" creationdate="20221028T235937Z">
+        <seg>- Pueden presentar una limitación de [tamaño](/es/docs/Web/HTML/Attributes/size) (el tamaño físico de la caja de texto) y de la [extensión máxima](/es/docs/Web/HTML/Attributes/maxlength) (el número máximo de caracteres que se pueden poner en la caja de texto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- They can be marked as {{htmlattrxref("readonly","input")}} (the user cannot modify the input value but it is still sent with the rest of the form data) or {{htmlattrxref("disabled","input")}} (the input value can't be modified and is never sent with the rest of the form data).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T235804Z" creationid="Nachec" creationdate="20221028T235804Z">
         <seg>- Se pueden marcar como {{HTMLAttrxRef("readonly","input")}} (el usuario no puede modificar el valor de entrada, pero este se envía con el resto de los datos del formulario) o {{HTMLAttrxRef("disabled","input")}} (el valor de entrada no se puede modificar y nunca se envía con el resto de los datos del formulario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- They can benefit from spell checking (using the [`spellcheck`](/en-US/docs/Web/HTML/Global_attributes/spellcheck) attribute), if the browser supports it.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T000221Z" creationid="Nachec" creationdate="20221029T000221Z">
+        <seg>- Se pueden beneficiar del atributo `spellcheck` para la [corrección ortográfica](/es/docs/Web/HTML/Global_arrtibutes/spellcheck), si el navegador la admite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- They can have a {{htmlattrxref("placeholder","input")}}; this is text that appears inside the text input box that should be used to briefly describe the purpose of the box.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221028T235839Z" creationid="Nachec" creationdate="20221028T235839Z">
+        <seg>- Pueden tener un {{HTMLAttrxRef("placeholder","input")}}; se trata de un texto que aparece dentro de la caja de entrada de texto y que se usa para describir brevemente el propósito de la caja de texto.</seg>
       </tuv>
     </tu>
     <tu>
