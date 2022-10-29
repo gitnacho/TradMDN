@@ -31157,6 +31157,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="carrots"&gt;Carrots&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112626Z" creationid="Nachec" creationdate="20221029T112626Z">
+        <seg>&lt;label for="zanahorias"&gt;Zanahorias&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="checkbox"&gt;checkbox: &lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204233Z" creationid="Nachec" creationdate="20221027T204233Z">
@@ -31225,6 +31233,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182224Z" creationid="Nachec" creationdate="20221028T182224Z">
         <seg>&lt;label for="number"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="peas"&gt;Peas&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112807Z" creationid="Nachec" creationdate="20221029T112807Z">
+        <seg>&lt;label for="guisantes"&gt;Guisantes&lt;/label&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31371,6 +31387,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T012134Z" creationid="gitnacho" creationdate="20220901T012134Z">
         <seg>&lt;label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;legend&gt;Choose all the vegetables you like to eat&lt;/legend&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112549Z" creationid="Nachec" creationdate="20221029T112549Z">
+        <seg>&lt;legend&gt;Elige todas las verduras que te gusta comer&lt;/legend&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39922,6 +39946,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking the checkbox or its associated label toggles the checkbox on and off.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112527Z" creationid="Nachec" creationdate="20221029T112527Z">
+        <seg>Al hacer clic en la casilla de verificación o en su etiqueta asociada, la casilla de verificación se activa o desactiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client hints advertise what kind of device the user agent runs on (for example, a desktop computer or a mobile device).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T233211Z" creationid="Nachec" creationdate="20221022T092013Z">
@@ -46947,6 +46979,14 @@ receive the module from the main thread.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T050836Z" creationid="Nachec" creationdate="20221020T173717Z">
         <seg>En el símbolo del sistema/terminal, ve al directorio del área de aprendizaje —`learning-area`— usando `cd`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Including the [`checked`](/en-US/docs/Web/HTML/Element/input/checkbox#checked) attribute makes the checkbox checked automatically when the page loads.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112513Z" creationid="Nachec" creationdate="20221029T112513Z">
+        <seg>Al incluir el atributo [`checked`](/es/docs/Web/HTML/Element/input#name), la casilla de verificación se marca automáticamente cuando se carga la página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69314,6 +69354,16 @@ p {</seg>
     <tu>
       <tuv lang="en-US">
         <seg>```html
+&lt;fieldset&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112529Z" creationid="Nachec" creationdate="20221029T112529Z">
+        <seg>```html
+&lt;fieldset&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
 &lt;form action="/my-handling-form-page" method="post"&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T080610Z" creationid="Nachec" creationdate="20221028T080610Z">
@@ -74521,6 +74571,14 @@ meter {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>checked /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112708Z" creationid="Nachec" creationdate="20221029T112708Z">
+        <seg>checked /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>class A {</seg>
       </tuv>
       <tuv lang="es-MX" changeid="nacho" changedate="20201215T191120Z" creationid="nacho" creationdate="20201215T191120Z">
@@ -78054,6 +78112,14 @@ math .highlight {</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>id="carrots"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112637Z" creationid="Nachec" creationdate="20221029T112637Z">
+        <seg>id="zanahorias"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>id="expiration"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T182332Z" creationid="Nachec" creationdate="20221028T182332Z">
@@ -79608,6 +79674,14 @@ npm link hello-wasm
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20210920T081130Z" creationid="gitnacho" creationdate="20210920T081130Z">
         <seg>name,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>name="vegetable"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112656Z" creationid="Nachec" creationdate="20221029T112656Z">
+        <seg>name="vegetal"</seg>
       </tuv>
     </tu>
     <tu>
@@ -82152,6 +82226,14 @@ tags:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>type="checkbox"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112627Z" creationid="Nachec" creationdate="20221029T112627Z">
+        <seg>type="checkbox"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>type="search"</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220901T013815Z" creationid="gitnacho" creationdate="20220901T013815Z">
@@ -82244,6 +82326,14 @@ tags:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T233944Z" creationid="Nachec" creationdate="20221028T233944Z">
         <seg>y su implementación con HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>value="carrots"</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112704Z" creationid="Nachec" creationdate="20221029T112704Z">
+        <seg>value="zanahorias"</seg>
       </tuv>
     </tu>
     <tu>
