@@ -4636,6 +4636,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Radio button</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113425Z" creationid="Nachec" creationdate="20221029T113425Z">
+        <seg>### Botón de radio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Range input types</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T221556Z" creationid="Nachec" creationdate="20221027T221556Z">
@@ -31073,6 +31081,30 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="curry" name="meal" value="curry" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113922Z" creationid="Nachec" creationdate="20221029T113922Z">
+        <seg>&lt;input type="radio" id="curry" name="meal" value="curry" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="pizza" name="meal" value="pizza" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113951Z" creationid="Nachec" creationdate="20221029T113951Z">
+        <seg>&lt;input type="radio" id="pizza" name="meal" value="pizza" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="radio" id="soup" name="meal" value="soup" checked /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113909Z" creationid="Nachec" creationdate="20221029T113909Z">
+        <seg>&lt;input type="radio" id="soup" name="meal" value="soup" checked&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="radio" id="title_1" name="title" value="A" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T200051Z" creationid="Nachec" creationdate="20221028T200051Z">
@@ -31217,6 +31249,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="curry"&gt;Curry&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113919Z" creationid="Nachec" creationdate="20221029T113919Z">
+        <seg>&lt;label for="curry"&gt;Curry&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="date"&gt;date: &lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T204155Z" creationid="Nachec" creationdate="20221027T204155Z">
@@ -31345,6 +31385,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label for="soup"&gt;Soup&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113854Z" creationid="Nachec" creationdate="20221029T113854Z">
+        <seg>&lt;label for="soup"&gt;Sopa&lt;/label&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label for="taste_1"&gt;I like cherry&lt;/label&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173908Z" creationid="Nachec" creationdate="20221028T173908Z">
@@ -31463,6 +31511,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T181152Z" creationid="Nachec" creationdate="20221028T181152Z">
         <seg>&lt;legend&gt;Título&lt;/legend&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;legend&gt;What is your favorite meal?&lt;/legend&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113849Z" creationid="Nachec" creationdate="20221029T113849Z">
+        <seg>&lt;legend&gt;¿Cuál es tu comida favorita?&lt;/legend&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36699,6 +36755,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221018T203851Z" creationid="gitnacho" creationdate="20221018T203851Z">
         <seg>Se considera que un documento en particular está en un contexto seguro cuando es el [documento activo](https://html.spec.whatwg.org/multipage/browsers.html#active-document) de un [contexto de navegación de nivel superior ](https://html.spec.whatwg.org/multipage/browsers.html#top-level-browsing-context) (básicamente, una ventana o pestaña contenedora) que es un contexto seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A radio button is created using the {{HTMLElement("input")}} element with its {{htmlattrxref("type","input")}} attribute set to the value `radio`:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113501Z" creationid="Nachec" creationdate="20221029T113501Z">
+        <seg>Un botón de radio se crea estableciendo el atributo {{HTMLAttrxRef("type", "input")}} del elemento {{HTMLElement("input")}} en el valor `radio`:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44489,6 +44553,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If none of them are checked, the whole pool of radio buttons is considered to be in an unknown state and no value is sent with the form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113815Z" creationid="Nachec" creationdate="20221029T113708Z">
+        <seg>Si ninguno de ellos está seleccionado, se considera que el conjunto completo de botones de radio está en un estado desconocido y no se envía ningún valor con el formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not, the `setUserName()` function runs to create it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T194652Z" creationid="Nachec" creationdate="20221023T194652Z">
@@ -44846,6 +44918,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060233Z" creationid="Nachec" creationdate="20221023T060233Z">
         <seg>Si estos se encuentran solapados, el navegador web tratará de adivinar lo que intentas decirle, pero puede que obtengas resultados inesperados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If they share the same value for their {{htmlattrxref("name","input")}} attribute, they will be considered to be in the same group of buttons.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113548Z" creationid="Nachec" creationdate="20221029T113548Z">
+        <seg>Si comparten el mismo valor de atributo {{HTMLAttrxRef("name", "input")}}, se considera que están en el mismo grupo de botones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51323,6 +51403,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once one of the radio buttons in a same-named group of buttons is checked, it is not possible for the user to uncheck all the buttons without resetting the form.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113837Z" creationid="Nachec" creationdate="20221029T113837Z">
+        <seg>Cuando en un grupo de botones con el mismo nombre se selecciona uno de los botones de radio, no es posible deseleccionar todos los botones sin reiniciar el formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once the file is instantiated, the code calls the exported WebAssembly `run()` method, which will immediately throw an exception.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T023453Z" creationid="gitnacho" creationdate="20221008T023453Z">
@@ -51471,6 +51559,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T222335Z" creationid="Nachec" creationdate="20221027T222335Z">
         <seg>Una forma de evitar esto es aprovechar el hecho de que si tiene una etiqueta asociada con un control de formulario, al hacer clic en la etiqueta se activará el control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only one button in a given group may be checked at a time; this means that when one of them is checked all the others automatically get unchecked.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113752Z" creationid="Nachec" creationdate="20221029T113607Z">
+        <seg>Solo un botón dentro de un grupo puede estar activado en cada momento. Esto significa que cuando uno de ellos se selecciona, todos los demás se deseleccionan automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52918,6 +53014,14 @@ la [versión en vivo](https://mdn.github.io/webassembly-examples/js-api-examples
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T075721Z" creationid="Nachec" creationdate="20221021T075721Z">
         <seg>Se proponen varias fuentes y puedes seleccionar un estilo diferente, por ejemplo STIX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Several radio buttons can be tied together.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113521Z" creationid="Nachec" creationdate="20221029T113521Z">
+        <seg>Es posible asociar diversos botones de radio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65833,6 +65937,14 @@ devuelve [`null`](/eS/docs/Web/JavaScript/Reference/Operators/null)).</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the form is sent, only the value of the checked radio button is sent.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113734Z" creationid="Nachec" creationdate="20221029T113622Z">
+        <seg>Al enviar el formulario, solo se envía el valor del botón de radio seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the module is received, we create an
 instance from it using the [`WebAssembly.Instantiate()`](/en-US/docs/WebAssembly/JavaScript_interface/Instantiate) method, invoke an
 exported function from inside it, then show how we can return information on the
@@ -69580,6 +69692,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002610Z" creationid="Nachec" creationdate="20221029T002610Z">
         <seg>```html
 &lt;input type="password" id="pwd" name="pwd" /&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;input type="radio" id="soup" name="meal" value="soup" checked /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113507Z" creationid="Nachec" creationdate="20221029T113507Z">
+        <seg>```html
+&lt;input type="radio" id="soup" name="meal" value="soup" checked /&gt;
 ```</seg>
       </tuv>
     </tu>
