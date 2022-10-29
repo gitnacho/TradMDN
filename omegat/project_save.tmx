@@ -102,6 +102,191 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>![Default, focused and disabled Checkboxes in Firefox 71 and Safari 13 on Mac and Chrome 79 and Edge 18 on Windows 10](checkboxes.png)</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113041Z" creationid="Nachec" creationdate="20221029T113041Z">
+        <seg>![Casillas de verificación predeterminadas, activas y deshabilitadas en Firefox 71 y Safari 13 en Mac y Chrome 79 y Edge 18 en Windows 10](checkboxes.png)
+
+&gt; **Nota:** Las casillas de verificación y los botones de opción con atributo [`checked`](/es/docs/Web/HTML/Attributes/checked) al cargarse coinciden con la pseudoclase {{cssxref ('&lt;code&gt;:default&lt;/code&gt;')}}, incluso aunque ya no estén seleccionadas. Las que están seleccionadas coinciden con la pseudoclase `{{cssxref(':checked')}}`.
+
+Debido a su naturaleza activa-inactiva, las casillas de verificación se consideran botones de conmutación, y muchos desarrolladores y diseñadores han ampliado el estilo de casilla de verificación predeterminado para crear botones que parecen interruptores de conmutación. Aquí puedes ver un [ejemplo en acción](https://mdn.github.io/learning-area/html/forms/toggle-switch-example/) (observa también el [código fuente](https://github.com/mdn/learning-area/blob/master/html/forms/toggle-switch-example/index.html)).
+
+### Botón de opción
+
+Un botón de opción se crea estableciendo el atributo {{htmlattrxref ("type", "input")}} del elemento {{HTMLElement ("input")}} en el valor `radio`:
+
+```html
+&lt;input type="radio" id="soup" name="meal" checked&gt;
+```
+
+Es posible asociar diversos botones de opción. Si comparten el mismo valor de atributo {{htmlattrxref ("name", "input")}}, se considera que están en el mismo grupo de botones. Solo un botón dentro de un grupo puede estar activado en cada momento. Esto significa que cuando uno de ellos se selecciona, todos los demás se deseleccionan automáticamente. Al enviar el formulario, solo se envía el valor del botón de opción seleccionado. Si ninguno de ellos está seleccionado, se considera que el conjunto completo de botones de opción está en un estado desconocido y no se envía ningún valor con el formulario. Cuando en un grupo de botones con el mismo nombre se selecciona uno de los botones de opción, no es posible deseleccionar todos los botones sin reiniciar el formulario.
+
+```html
+&lt;fieldset&gt;
+  &lt;legend&gt;¿Cuál es tu comida favorita?&lt;/legend&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;label for="soup"&gt;Sopa&lt;/label&gt;
+      &lt;input type="radio" id="soup" name="meal" value="soup" checked&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;label for="curry"&gt;Curry&lt;/label&gt;
+      &lt;input type="radio" id="curry" name="meal" value="curry"&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;label for="pizza"&gt;Pizza&lt;/label&gt;
+      &lt;input type="radio" id="pizza" name="meal" value="pizza"&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/fieldset&gt;
+```
+
+Las capturas de pantalla siguientes muestran botones de opción sin seleccionar y seleccionados, algunos con el foco y otros desactivados sin seleccionar y seleccionados, en Firefox 71 y Safari 13 en MacOS y Chrome 79 y Edge 18 en Windows 10.
+
+![Botones de opción en Firefox 71 y Safari 13 en Mac y Chrome 79 y Edge 18 en Windows 10](https://mdn.mozillademos.org/files/17022/radios.png)
+
+## Botones
+
+El botón de opción no es realmente un botón, a pesar de su nombre; sigamos adelante y echemos un vistazo a los controles de formulario que son botones propiamente. Hay tres tipos de entrada según el tipo de botones que se utilicen:
+
+- `submit`
+  - : Envía los datos del formulario al servidor. Para los elementos {{HTMLElement ("button")}}, omitir el atributo `type` (o introducir un valor de tipo no válido) da como resultado un botón de envío (_submit_).
+- `reset`
+  - : Restablece todos los controles de formulario a sus valores por defecto.
+- `button`
+  - : Botones que no tienen efecto automático, pero que se pueden personalizar con código JavaScript.
+
+Además, el elemento {{htmlelement ("button")}} puede tomar un atributo `type` para imitar estos tres tipos de entrada. La diferencia principal entre los dos es que los elementos `&lt;button&gt;` propiamente admiten aplicación de estilo en mayor medida.
+
+&gt; **Nota:** El tipo de entrada `image` también se representa como un botón. También desarrollaremos este tema más adelante.
+
+&gt; **Nota:** Puedes encontrar los ejemplos de esta sección en GitHub como [button-examples.html](https://github.com/mdn/learning-area/blob/master/html/forms/native-form-widgets/button-examples.html) ([o consultarlos en vivo](https://mdn.github.io/learning-area/html/forms/native-form-widgets/button-examples.html)).
+
+A continuación puedes encontrar ejemplos de cada tipo de botón `&lt;input&gt;`, junto con el tipo de botón equivalente.
+
+### enviar
+
+```html
+&lt;button type="submit"&gt;
+    Este es un &lt;strong&gt;botón de envío&lt;/strong&gt;
+&lt;/button&gt;
+
+&lt;input type="submit" value="Este es un botón de envío"&gt;
+```
+
+### reiniciar
+
+```html
+&lt;button type="reset"&gt;
+    Este es un &lt;strong&gt;botón de reinicio&lt;/strong&gt;
+&lt;/button&gt;
+
+&lt;input type="reset" value="Este es un botón de reinicio"&gt;
+```
+
+### anónimo
+
+```html
+&lt;button type="button"&gt;
+    Este es un &lt;strong&gt;botón anónimo&lt;/strong&gt;
+&lt;/button&gt;
+
+&lt;input type="button" value="Este es un botón anónimo"&gt;
+```
+
+Los botones siempre se comportan igual, independientemente de su usas un elemento {{HTMLElement ("button")}} o un elemento {{HTMLElement ("input")}}. Sin embargo, como puedes ver en los ejemplos, los elementos {{HTMLElement ("button")}} te permiten usar HTML en tu contenido, que se inserta entre las etiquetas `&lt;button&gt;` de apertura y cierre. Los elementos {{HTMLElement ("input")}}, por otro lado, son elementos vacíos; el contenido que muestran está inserto en el atributo `value` y, por lo tanto, solo acepta contenido de texto sin formato.
+
+Los ejemplos siguientes muestran los tipos de entrada de botones predeterminados, activos y deshabilitados: en Firefox 71 y Safari 13 en macOS, y Chrome 79 y Edge 18 en Windows 10.
+
+![Tipos de entrada de botones predeterminados, activos y deshabilitados en Firefox 71 y Safari 13 en Mac y Chrome 79 y Edge 18 en Windows 10](https://mdn.mozillademos.org/files/17023/buttons.png)
+
+### Botón de imagen
+
+El control **botón de imagen** se muestra exactamente como un elemento {{HTMLElement ("img")}}, excepto que cuando el usuario hace clic en él, se comporta como un botón de envío.
+
+Se crea un botón de imagen usando un elemento {{HTMLElement ("input")}} con su atributo {{htmlattrxref ("type","input")}} establecido en el valor `image`. Este elemento admite exactamente el mismo conjunto de atributos que el elemento {{HTMLElement ("img")}}, además de todos los atributos que admiten el resto de botones de formulario.
+
+```html
+&lt;input type="image" alt="¡Púlsame!" src="my-img.png" width="80" height="30"&gt;
+```
+
+Si el botón de imagen se usa para enviar un formulario, este control no envía su valor; en lugar de ello se envían las coordenadas X e Y del clic que se ha hecho sobre la imagen (las coordenadas son relativas a la imagen, lo que significa que la esquina superior izquierda de la imagen representa la coordenada (0, 0)). Las coordenadas se envían como dos pares clave/valor:
+
+- La clave del valor X es el valor del atributo {{htmlattrxref ("name","input")}} seguido de la cadena de caracteres «_.x_».
+- La clave del valor Y es el valor del atributo {{htmlattrxref ("name","input")}} seguido de la cadena de caracteres «_.y_».
+
+Por ejemplo, cuando haces clic en las coordenadas (123, 456) de la imagen y se hace el envío por el método `get`, verás los valores añadidos a la URL de la manera siguiente:
+
+```
+http://foo.com?pos.x=123&amp;pos.y=456
+```
+
+Esta es una forma muy cómoda de construir un «mapa dinámico». La forma en que se envían y recuperan estos valores se detalla en el artículo [Enviar los datos del formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data).
+
+## Selector de archivos
+
+Hay un último tipo de `&lt;input&gt;` que nos llegó a principios del HTML: el tipo entrada de archivo. Los formularios pueden enviar archivos a un servidor (esta acción específica también se detalla en el artículo [Enviar los datos del formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data)). El control de selección de archivos se puede usar para elegir uno o más archivos para enviar.
+
+Para crear un [control de selección de archivos](/es/docs/Web/HTML/Element/input/file), utilizas el elemento {{HTMLElement ("input")}} con su atributo {{htmlattrxref ("type","input")}} establecido en `file`. Es posible restringir los tipos de archivos que se aceptan utilizando el atributo {{htmlattrxref ("accept","input")}}. Además, puedes permitir que el usuario elija más de un archivo añadiendo el atributo {{htmlattrxref ("multiple","input")}}.
+
+#### Ejemplo
+
+En este ejemplo, se crea un control de selección de archivos que solicita archivos de imágenes gráficas. El usuario puede seleccionar múltiples archivos en este caso.
+
+```html
+&lt;input type="file" name="file" id="file" accept="image/*" multiple&gt;
+```
+
+En algunos dispositivos móviles, el control de selección de archivos puede acceder a fotos, vídeos y audio capturados directamente por la cámara y el micrófono del dispositivo y añadir información de captura al atributo `accept` de la manera siguiente:
+
+```html
+&lt;input type="file" accept="image/*;capture=camera"&gt;
+&lt;input type="file" accept="video/*;capture=camcorder"&gt;
+&lt;input type="file" accept="audio/*;capture=microphone"&gt;
+```
+
+## Atributos comunes
+
+Muchos de los elementos que se utilizan para definir controles de formulario tienen sus atributos específicos propios. Sin embargo, hay un conjunto de atributos que son comunes para todos los elementos de formulario. Ya has conocido algunos, pero a continuación encontrarás una lista de esos atributos comunes para referencias futuras:
+
+| Nombre del atributo                                      | Valor por defecto | Descripción                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`autofocus`](/es/docs/Web/HTML/Attributes/autofocus) | false             | Este atributo booleano te permite especificar que el elemento ha de tener el foco de entrada automáticamente cuando se carga la página. En un documento, solo un elemento asociado a un formulario puede tener este atributo especificado.                                                                                                                                                            |
+| [`disabled`](/es/docs/Web/HTML/Attributes/disabled)   | false             | Este atributo booleano indica que el usuario no puede interactuar con el elemento. Si no se especifica este atributo, el elemento hereda su configuración del elemento que lo contiene, por ejemplo, {{HTMLElement ("fieldset")}}. Si el elemento que lo contiene no tiene el atributo establecido en `disabled`, el elemento está habilitado.                                                |
+| [`form`](/es/docs/Web/HTML/Attributes/form)           |                   | El elemento `&lt;form&gt;` con el que está asociado el control, que se usa cuando no está anidado dentro de ese formulario. El valor del atributo debe ser el atributo `id` de un elemento {{HTMLElement ("form")}} del mismo documento. Esto te permite asociar un formulario con un control de formulario que esté fuera de aquel, incluso si está dentro de un elemento de formulario diferente. |
+| [`name`](/es/docs/Web/HTML/Attributes/name)           |                   | El nombre del elemento; se envía con los datos del formulario.                                                                                                                                                                                                                                                                                                                                        |
+| [`value`](/es/docs/Web/HTML/Attributes/value)         |                   | El valor inicial del elemento.                                                                                                                                                                                                                                                                                                                                                                        |
+
+## Conclusión
+
+Este artículo ha expuesto los tipos de entrada más antiguos: el conjunto original que se introdujo en los primeros días de HTML, que es compatible con todos los navegadores. En el artículo siguiente veremos los valores del atributo `type` que se han añadido en HTML5 más recientemente.
+
+{{PreviousMenuNext("Learn/Forms/How_to_structure_an_HTML_form", "Learn/Forms/HTML5_input_types", "Learn/Forms")}}
+
+## En este módulo
+
+- [Tu primer formulario HTML](/es/docs/Learn/HTML/Forms/Your_first_HTML_form)
+- [Cómo estructurar un formulario HTML](/es/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
+- [Los controles básicos de formulario originales](/es/docs/Learn/HTML/Forms/The_native_form_widgets)
+- [Tipos de entrada HTML5](/es/docs/Learn/HTML/Forms/HTML5_input_types)
+- [Controles de formulario adicionales](/es/docs/Learn/HTML/Forms/Additional_form_controls)
+- [Pseudoclases UI](/es/docs/Learn/HTML/Forms/UI_pseudo-classes)
+- [Aplicar estilo a formularios HTML](/es/docs/Learn/HTML/Forms/Styling_HTML_forms)
+- [Validación de datos en un formulario](/es/docs/Learn/HTML/Forms/Form_validation)
+- [Enviar los datos de un formulario](/es/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data)
+
+### Temas avanzados
+
+- [Enviar formularios con JavaScript](/es/docs/Learn/HTML/Forms/Sending_forms_through_JavaScript)
+- [Cómo crear widgets de formularios personalizados](/es/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets)
+- [Formularios HTML en navegadores antiguos](/es/docs/Learn/HTML/Forms/HTML_forms_in_legacy_browsers)
+- [Cuestiones avanzadas de aplicación de estilo para formularios HTML](/es/docs/Learn/HTML/Forms/Advanced_styling_for_HTML_forms)
+- [Tabla de compatibilidad de los controles de formulario](/es/docs/Learn/HTML/Forms/Property_compatibility_table_for_form_widgets)
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>![DevTools network panel and the generated image.](result.jpg)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T052827Z" creationid="gitnacho" creationdate="20221004T052827Z">
@@ -29801,6 +29986,18 @@ i32.mul</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;/ul&gt;
+&lt;/fieldset&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112902Z" creationid="Nachec" creationdate="20221029T112902Z">
+        <seg>&lt;/ul&gt;
+&lt;/fieldset&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/ul&gt;
 &lt;/form&gt;
 ```</seg>
       </tuv>
@@ -30973,6 +31170,22 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" id="cabbage" name="vegetable" value="cabbage" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112859Z" creationid="Nachec" creationdate="20221029T112859Z">
+        <seg>&lt;input type="checkbox" id="col" name="vegetal" value="col" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;input type="checkbox" id="peas" name="vegetable" value="peas" /&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112827Z" creationid="Nachec" creationdate="20221029T112827Z">
+        <seg>&lt;input type="checkbox" id="guisantes" name="vegetal" value="guisantes" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;input type="checkbox" id="taste_1" name="taste_cherry" value="cherry" /&gt;</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173855Z" creationid="Nachec" creationdate="20221028T173855Z">
@@ -31145,6 +31358,14 @@ i32.mul</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T080351Z" creationid="Nachec" creationdate="20221021T080351Z">
         <seg>&lt;la-tex&gt;\frac{1}{\sqrt{2}}&lt;/la-tex&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label for="cabbage"&gt;Cabbage&lt;/label&gt;</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T112844Z" creationid="Nachec" creationdate="20221029T112844Z">
+        <seg>&lt;label for="col"&gt;Col&lt;/label&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56656,6 +56877,14 @@ if a loaded module instance contains a "name" custom section.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T081750Z" creationid="Nachec" creationdate="20221021T081750Z">
         <seg>Las siguientes capturas de pantalla están tomadas de [LyX](https://www.lyx.org/) y [TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html), ambas compatibles con la exportación de HTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following screenshots show default, focused and disabled checkboxes in Firefox 71 and Safari 13 on macOS and Chrome 79 and Edge 18 on Windows 10:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T113016Z" creationid="Nachec" creationdate="20221029T113016Z">
+        <seg>Las siguientes capturas de pantalla muestran casillas de verificación predeterminadas, activas (con el foco) y deshabilitadas en Firefox 71 y Safari 13 en macOS y Chrome 79 y Edge 18 en Windows 10:</seg>
       </tuv>
     </tu>
     <tu>
