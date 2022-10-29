@@ -4004,6 +4004,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Hidden content</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002905Z" creationid="Nachec" creationdate="20221029T002905Z">
+        <seg>### Contenido oculto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### How to replace the macro</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T220120Z" creationid="gitnacho" creationdate="20221005T220120Z">
@@ -38131,6 +38139,14 @@ distribution does not provide dedicated packages for these fonts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another original text control is the `hidden` input type.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002915Z" creationid="Nachec" creationdate="20221029T002915Z">
+        <seg>Otro control de texto original es el tipo de entrada `hidden`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Another phrase you'll hear around open web standards is "don't break the web" — the idea is that any new web technology that is introduced should be backwards compatible with what went before it (i.e. old web sites will still continue to work), and forwards compatible (future technologies in turn will be compatible with what we currently have).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T004006Z" creationid="Nachec" creationdate="20221027T004006Z">
@@ -38783,6 +38799,14 @@ se debe reemplazar con un enlace de estilo Markdown simple.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because it is hidden, the user can not see nor intentionally edit the value, it will never receive focus, and a screen reader will not notice it either.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T003008Z" creationid="Nachec" creationdate="20221029T003008Z">
+        <seg>Al estar oculto, el usuario no puede ver ni editar su valor intencionadamente, el control nunca recibirá el foco y un lector de pantalla tampoco lo detectará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because of its influence over assistive technology, the {{HTMLElement("fieldset")}} element is one of the key elements for building accessible forms; however it is your responsibility not to abuse it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T173053Z" creationid="Nachec" creationdate="20221028T173053Z">
@@ -39164,6 +39188,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T092453Z" creationid="Nachec" creationdate="20221022T092453Z">
         <seg>Los navegadores son libres de utilizar el valor de la cabecera que consideren más adecuada; se encuentra disponible una lista exhaustiva de [valores predeterminados para navegadores comunes](/es/docs/Web/HTTP/Content_negotiation/List_of_default_Accept_values).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browsers recognize the security implications of sending form data over an insecure connection, and have warnings to deter users from using insecure forms.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002800Z" creationid="Nachec" creationdate="20221029T002800Z">
+        <seg>Los navegadores reconocen las implicaciones de seguridad de enviar datos de formulario por una conexión insegura y disponen de mensajes de advertencia para disuadir a los usuarios de usar formularios no seguros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42374,6 +42406,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T182144Z" creationid="Nachec" creationdate="20221023T182144Z">
         <seg>Para más detalles, ve [Guía del punto y coma en JavaScript](http://news.codecademy.com/your-guide-to-semicolons-in-javascript/) (en inglés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on what Firefox implements, see [Insecure passwords](/en-US/docs/Web/Security/Insecure_passwords).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002857Z" creationid="Nachec" creationdate="20221029T002857Z">
+        <seg>Para obtener más información sobre las implementaciones de Firefox al respecto, consulta el artículo [Contraseñas inseguras](/es/docs/Web/Security/Insecure_passwords).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55367,6 +55407,14 @@ names custom section, for example:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The best way to protect users from this is to host any pages involving forms over a secure connection (i.e. located at an `https://` address), so the data is encrypted before it is sent.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002740Z" creationid="Nachec" creationdate="20221029T002740Z">
+        <seg>La mejor manera de proteger a los usuarios de esto es alojar cualquier página que contenga formularios en una ubicación de conexión segura (es decir, en una dirección `https://`), de modo que los datos se cifren antes de enviarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The best web app in the world will provide a terrible user experience if you can't download it.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20220921T015707Z" creationid="gitnacho" creationdate="20220921T015520Z">
@@ -61416,6 +61464,14 @@ same table is visible and callable inside the wasm instance too.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T071041Z" creationid="gitnacho" creationdate="20221012T054411Z">
         <seg>Esto se utiliza en respuesta a una petición de preverificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is used to create a form control that is invisible to the user, but is still sent to the server along with the rest of the form data once submitted — for example you might want to submit a timestamp to the server stating when an order was placed.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002946Z" creationid="Nachec" creationdate="20221029T002946Z">
+        <seg>Se usa para crear un control de formulario que es invisible para el usuario, pero que aun así se envía al servidor junto con el resto de los datos del formulario una vez se transmiten; por ejemplo, es posible que desees enviar una marca de tiempo al servidor que indique cuándo se realizó un pedido.</seg>
       </tuv>
     </tu>
     <tu>
