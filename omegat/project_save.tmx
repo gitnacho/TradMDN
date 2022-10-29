@@ -35144,6 +35144,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** We discuss values for the {{htmlattrxref("type","input")}} attribute that enforce specific validation constraints including color, email, and url input types, in the next article, [The HTML5 input types](/en-US/docs/Learn/Forms/HTML5_input_types).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002509Z" creationid="Nachec" creationdate="20221029T002509Z">
+        <seg>&gt; **Nota:** Analizamos los valores para el atributo {{HTMLAttrxRef("type","input")}} que imponen restricciones de validación específicas, incluidos los tipos de entrada de color, correo electrónico y URL, en el siguiente artículo, [The HTML5 tipos de entrada](/es/docs/Learn/Forms/HTML5_input_types).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** We'll look at how those attributes work in our [Sending form data](/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data) article later on.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T021949Z" creationid="Nachec" creationdate="20221028T020337Z">
