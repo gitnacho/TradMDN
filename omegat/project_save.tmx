@@ -4812,6 +4812,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Single line text fields</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T000946Z" creationid="Nachec" creationdate="20221029T000946Z">
+        <seg>### Campos de texto de una sola línea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Special data types (defined in other specs)</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001220Z" creationid="Nachec" creationdate="20221022T001220Z">
@@ -36678,6 +36686,14 @@ returns an `ArrayBuffer` with a length greater than 0.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A single line text field is created using an {{HTMLElement("input")}} element whose {{htmlattrxref("type","input")}} attribute value is set to `text`, or by omitting the {{htmlattrxref("type","input")}} attribute altogether (`text` is the default value).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001127Z" creationid="Nachec" creationdate="20221029T001127Z">
+        <seg>Un campo de texto de una sola línea se crea utilizando un elemento {{HTMLElement("input")}} cuyo valor de atributo {{HTMLAttrxRef("type","input")}} se establece en `text`, o se omite por completo el atributo {{htmlattrxref ( "type","input")}} (`text` es el valor predeterminado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A single parameter is written `(param i32)` and the return type is written `(result i32)`, hence a binary function that takes two 32-bit integers and returns a 64-bit float would be written like this:</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221007T054451Z" creationid="gitnacho" creationdate="20221007T054451Z">
@@ -47642,6 +47658,14 @@ user won't be completely happy, they will prefer this to an error code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221004T054625Z" creationid="gitnacho" creationdate="20221004T054625Z">
         <seg>Es hora de llamar al codificador WebP para que haga su trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is used for creating most types of form widgets including single line text fields, time and date controls, controls without text input like checkboxes, radio buttons, and color pickers, and buttons.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T000924Z" creationid="Nachec" creationdate="20221029T000924Z">
+        <seg>Se utiliza para crear la mayoría de los tipos de controles de formulario, que incluyen campos de texto de una sola línea, controles para la fecha y la hora, controles sin entrada de texto, como casillas de verificación, botones de radio y selectores de color, y botones.</seg>
       </tuv>
     </tu>
     <tu>
