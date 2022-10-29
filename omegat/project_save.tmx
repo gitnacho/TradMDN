@@ -39168,6 +39168,14 @@ gestor de paquetes.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both use the [`checked`](/en-US/docs/Web/HTML/Element/input/checkbox#attr-checked) attribute to indicate whether the widget is checked by default or not.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T005210Z" creationid="Nachec" creationdate="20221029T005210Z">
+        <seg>Ambos usan el atributo [`checked`](/es/docs/Web/HTML/Element/input/checkbox#attr-checked) para indicar si el control está marcado de forma predeterminada o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browse through detailed HTTP reference documentation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221012T071334Z" creationid="gitnacho" creationdate="20221012T064219Z">
@@ -48377,6 +48385,14 @@ references stored in the exported table.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T181652Z" creationid="Nachec" creationdate="20221023T181652Z">
         <seg>Mejor aún, estas características son comunes para todos los lenguajes de programación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's worth noting that these widgets do not behave exactly like other form widgets.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T005232Z" creationid="Nachec" creationdate="20221029T005232Z">
+        <seg>Vale la pena señalar que estos controles no se comportan exactamente como otros controles de formulario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58928,6 +58944,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T181134Z" creationid="gitnacho" creationdate="20221008T181134Z">
         <seg>Hay tres tipos de estos: notas, advertencias y llamadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two kinds of checkable item: the checkbox and the radio button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T005131Z" creationid="Nachec" creationdate="20221029T005131Z">
+        <seg>Hay dos tipos de elementos de selección: las casillas de verificación (o _check boxes_) y los botones de radio (o _radio buttons_).</seg>
       </tuv>
     </tu>
     <tu>
