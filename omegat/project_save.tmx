@@ -8531,6 +8531,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Buttons that have no automatic effect but can be customized using JavaScript code.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115005Z" creationid="Nachec" creationdate="20221029T115005Z">
+        <seg>- : Botones que no tienen efecto automático, pero que se pueden personalizar con código JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : CSS is the language that we can use to style and layout our web content, as well as adding behavior like animation.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T191245Z" creationid="gitnacho" creationdate="20221020T131035Z">
@@ -9869,6 +9877,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- : Resets all form widgets to their default values.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T114951Z" creationid="Nachec" creationdate="20221029T114951Z">
+        <seg>- : Restablece todos los controles de formulario a sus valores predeterminados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- : Returns `true` if at least one element in this array satisfies the provided testing function.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T052232Z" creationid="gitnacho" creationdate="20221005T052232Z">
@@ -10177,6 +10193,14 @@ browser-compat: http.headers.Access-Control-Allow-Origin
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T193408Z" creationid="Nachec" creationdate="20221027T193408Z">
         <seg>- : Enviar datos no es suficiente; también debemos asegurarnos de que los datos que los usuarios ingresen en los formularios estén en el formato apropiado para procesarlos correctamente y que no rompan nuestras aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- : Sends the form data to the server.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T114904Z" creationid="Nachec" creationdate="20221029T114904Z">
+        <seg>- : Envía los datos del formulario al servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19381,6 +19405,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `button`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T114952Z" creationid="Nachec" creationdate="20221029T114952Z">
+        <seg>- `button`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `c` - C</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T174741Z" creationid="gitnacho" creationdate="20221008T174741Z">
@@ -20253,6 +20285,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- `reset`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T114932Z" creationid="Nachec" creationdate="20221029T114932Z">
+        <seg>- `reset`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- `rspace`</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T220550Z" creationid="Nachec" creationdate="20221021T220550Z">
@@ -20401,6 +20441,14 @@ spec-urls: https://w3c.github.io/ServiceWorker/
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T130014Z" creationid="gitnacho" creationdate="20221003T130014Z">
         <seg>- `strict-origin`: Solo envía el origen del documento como remitente cuando el nivel de seguridad del protocolo permanezca igual (HTTPS→HTTPS), pero no lo envía a un destino menos seguro (HTTPS→HTTP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- `submit`</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T114850Z" creationid="Nachec" creationdate="20221029T114850Z">
+        <seg>- `submit`</seg>
       </tuv>
     </tu>
     <tu>
@@ -42918,6 +42966,14 @@ portales para realizar tareas de administración empresarial y herramientas de c
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For {{HTMLElement("button")}} elements, omitting the `type` attribute (or an invalid value of `type`) results in a submit button.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T114932Z" creationid="Nachec" creationdate="20221029T114932Z">
+        <seg>Para los elementos {{HTMLElement("button")}}, omitir el atributo `type` (o introducir un valor de tipo no válido) da como resultado un botón de envío (`submit`).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Form controls can also be programmed to enforce specific formats or values to be entered (**form validation**), and paired with text labels that describe their purpose to both sighted and visually impaired users.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012757Z" creationid="Nachec" creationdate="20221028T012757Z">
@@ -57928,6 +57984,14 @@ se llaman asíncronamente.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The radio button isn't actually a button, despite its name; let's move on and look at actual buttons!</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T114813Z" creationid="Nachec" creationdate="20221029T114813Z">
+        <seg>El botón de radio en realidad no es un botón, a pesar de su nombre; ¡Sigamos adelante y veamos los botones reales!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The rationale for the syntax described here is that it works well enough with tools that expect CommonMark (for example, Prettier or GitHub previews) while being reasonably easy to write and to parse.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221008T183913Z" creationid="gitnacho" creationdate="20221008T183913Z">
@@ -58992,6 +59056,14 @@ resuelta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then we also have the {{htmlelement("button")}} element itself.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T115104Z" creationid="Nachec" creationdate="20221029T115104Z">
+        <seg>Luego también tenemos el elemento {{HTMLElement("button")}} en sí mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then we call a function that calls `addAll()` on the created cache, which for its parameter takes an array of origin-relative URLs to all the resources you want to cache.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221026T095305Z" creationid="gitnacho" creationdate="20220921T034553Z">
@@ -59268,6 +59340,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T113741Z" creationid="gitnacho" creationdate="20221005T113741Z">
         <seg>Hay plantillas para casi todas las grandes colecciones de páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are three input types that produce buttons:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T114849Z" creationid="Nachec" creationdate="20221029T114849Z">
+        <seg>Hay tres tipos de entrada según el tipo de botones que se utilice:</seg>
       </tuv>
     </tu>
     <tu>
