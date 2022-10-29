@@ -1352,6 +1352,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Checkable items: checkboxes and radio buttons</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T004859Z" creationid="Nachec" creationdate="20221029T004859Z">
+        <seg>## Elementos de selección: casillas de verificación y botones de radio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Choosing your assets</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T061922Z" creationid="gitnacho" creationdate="20221019T061922Z">
@@ -39798,6 +39806,14 @@ gestor de paquetes.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221005T092946Z" creationid="gitnacho" creationdate="20221005T092946Z">
         <seg>Verifica la vista fuente para ver qué hay allí y elimina cualquier estilo innecesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Checkable items are controls whose state you can change by clicking on them or their associated labels.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T004926Z" creationid="Nachec" creationdate="20221029T004926Z">
+        <seg>Los elementos de selección (o _checkable items_, en inglés) son controles cuyo estado puede cambiar cuando se hace clic en ellos o en sus etiquetas asociadas.</seg>
       </tuv>
     </tu>
     <tu>
