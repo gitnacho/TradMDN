@@ -5748,6 +5748,14 @@ Para continuar, piensa cuál de las siguientes afirmaciones te describe mejor y 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Password field</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002543Z" creationid="Nachec" creationdate="20221029T002543Z">
+        <seg>#### Campo de contraseña</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Position</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221022T001353Z" creationid="Nachec" creationdate="20221022T001353Z">
@@ -25330,6 +25338,20 @@ tags:</seg>
 title: Estructurar la web con HTML
 slug: Learn/HTML
 rue: Nachec✓
+tags:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---
+title: The HTML5 input types
+slug: Learn/Forms/HTML5_input_types
+tags:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002525Z" creationid="Nachec" creationdate="20221029T002525Z">
+        <seg>---
+title: The HTML5 input types
+slug: Learn/Forms/HTML5_input_types
 tags:</seg>
       </tuv>
     </tu>
@@ -48471,6 +48493,14 @@ references stored in the exported table.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep in mind this is just a user interface feature; unless you submit your form securely, it will get sent in plain text, which is bad for security — a malicious party could intercept your data and steal passwords, credit card details, or whatever else you've submitted.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002717Z" creationid="Nachec" creationdate="20221029T002717Z">
+        <seg>Ten en cuenta que esto es solo una función de interfaz de usuario; a menos que envíes tu formulario en modo seguro, se enviará como texto plano, lo que es malo desde el punto de vista de la seguridad porque alguien con malas intenciones podría interceptar tus datos y robar tus contraseñas, datos de tarjetas de crédito o cualquier otra cosa que hayas enviado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep it simple and stay focused: ask only for the data you absolutely need.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T012944Z" creationid="Nachec" creationdate="20221028T012944Z">
@@ -51133,6 +51163,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221027T003805Z" creationid="Nachec" creationdate="20221027T003805Z">
         <seg>Uno de los aspectos clave de los estándares web, que TimBL y el W3C acordaron desde el principio, es que la web (y las tecnologías web) deben ser libres tanto para contribuir como para usar, y no estar gravadas por patentes/licencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One of the original input types was the `password` text field type:</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002608Z" creationid="Nachec" creationdate="20221029T002608Z">
+        <seg>Uno de los tipos de entrada originales era el tipo de campo de texto `password`:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54986,6 +55024,14 @@ synchronously compile given WebAssembly binary code.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221019T140222Z" creationid="gitnacho" creationdate="20221019T140222Z">
         <seg>La propiedad `options.traceStack` se puede configurar como `true` (de manera predeterminada, `false`) para indicar que se puede adjuntar un seguimiento de la pila WASM a la excepción de la Propiedad [`stack`](/es/docs/WebAssembly/JavaScript_interface/Exception/stack).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `password` value doesn't add any special constraints to the entered text, but it does obscure the value entered into the field (e.g. with dots or asterisks) so it can't be easily read by others.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002635Z" creationid="Nachec" creationdate="20221029T002635Z">
+        <seg>El valor de la contraseña no añade restricciones especiales al texto que se introduce, pero oculta el valor que se introduce en el campo (por ejemplo, con puntos o asteriscos) para impedir que otros lo puedan leer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69140,6 +69186,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060422Z" creationid="Nachec" creationdate="20221023T060347Z">
         <seg>```html
 &lt;img src="images/firefox-icon.png" alt="Mi imagen de prueba"&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;input type="password" id="pwd" name="pwd" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T002610Z" creationid="Nachec" creationdate="20221029T002610Z">
+        <seg>```html
+&lt;input type="password" id="pwd" name="pwd" /&gt;
 ```</seg>
       </tuv>
     </tu>
