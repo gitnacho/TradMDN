@@ -34936,6 +34936,14 @@ i32.mul</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; **Note:** The {{htmlelement("input")}} element is unique amongst HTML elements because it can take many forms depending on its [`type`](/en-US/docs/Web/HTML/Element/input#type) attribute value.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T000823Z" creationid="Nachec" creationdate="20221029T000823Z">
+        <seg>&gt; **Nota:** El elemento {{HTMLElement("input")}} es único entre los elementos HTML porque puede tomar muchas formas dependiendo del valor de su atributo [`type`](/es/docs/Web/HTML/Element/input#type).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; **Note:** There are future plans to [allow WebAssembly to call Web APIs directly](https://github.com/WebAssembly/gc/blob/master/README.md).</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221003T081438Z" creationid="gitnacho" creationdate="20221003T081438Z">
