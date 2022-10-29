@@ -44854,6 +44854,14 @@ se lanza un {{JSxRef("TypeError")}}.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you create such an element, it's required to set its `name` and `value` attributes.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T003029Z" creationid="Nachec" creationdate="20221029T003029Z">
+        <seg>Si creas un elemento así, es necesario establecer sus atributos `name` y `value`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you do so, by default that control has nothing to do with any form unless you associate it with a form using its [`form`](/en-US/docs/Web/HTML/Element/input#form) attribute.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221028T155846Z" creationid="Nachec" creationdate="20221028T155846Z">
@@ -51423,6 +51431,14 @@ Esta no es la única manera, pero sí la que te permite poner manos a la obra in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other text input types, like {{HTMLElement("input/search", "search")}}, {{HTMLElement("input/url", "url")}}, and {{HTMLElement("input/tel", "tel")}}, will be covered in the next tutorial, [HTML5 input types](/en-US/docs/Learn/Forms/HTML5_input_types).</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T004845Z" creationid="Nachec" creationdate="20221029T004845Z">
+        <seg>Otros tipos de entrada de texto, como {{HTMLElement("input/search", "search")}}, {{HTMLElement("input/url", "url")}} y {{HTMLElement("input/tel" , "tel")}}, se añadieron con HTML5, se tratarán en el próximo tutorial: [Tipos de entrada HTML5](/es/docs/Learn/Forms/HTML5_input_types).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other variants of `br` are `br_if` for branching on condition, and `br_table` for branching to different blocks based on an argument.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="gitnacho" changedate="20221020T081559Z" creationid="gitnacho" creationdate="20221020T081559Z">
@@ -55028,6 +55044,14 @@ synchronously compile given WebAssembly binary code.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `hidden` input type should not have an associated label.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T003112Z" creationid="Nachec" creationdate="20221029T003112Z">
+        <seg>El tipo de entrada `hidden` no debe tener ninguna etiqueta asociada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `inherit` keyword represents the computed value of the property on the element's parent, provided it is inherited.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221021T234309Z" creationid="Nachec" creationdate="20221021T234309Z">
@@ -58140,6 +58164,14 @@ resuelta.</seg>
       </tuv>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221029T001401Z" creationid="Nachec" creationdate="20221029T001401Z">
         <seg>El valor `text` de este atributo también es el valor alternativo si el navegador no reconoce el valor que has especificado para el atributo {{HTMLAttrxRef("type","input")}} (por ejemplo, si especificas `type="color"` y el navegador no admite un control de selección de colores).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The value can be dynamically set via JavaScript.</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T003043Z" creationid="Nachec" creationdate="20221029T003043Z">
+        <seg>Su valor se puede establecer dinámicamente a través de JavaScript.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69242,6 +69274,18 @@ p {</seg>
       <tuv lang="es-MX" changeid="Nachec" changedate="20221023T060422Z" creationid="Nachec" creationdate="20221023T060347Z">
         <seg>```html
 &lt;img src="images/firefox-icon.png" alt="Mi imagen de prueba"&gt;
+```</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>```html
+&lt;input type="hidden" id="timestamp" name="timestamp" value="1286705410" /&gt;
+```</seg>
+      </tuv>
+      <tuv lang="es-MX" changeid="Nachec" changedate="20221029T003013Z" creationid="Nachec" creationdate="20221029T003013Z">
+        <seg>```html
+&lt;input type="hidden" id="timestamp" name="timestamp" value="1286705410" /&gt;
 ```</seg>
       </tuv>
     </tu>
