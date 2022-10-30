@@ -80093,3 +80093,5 @@ responsive	receptivo	receptivo
 linter	linterna	linterna
 ok	de acuerdo
 beautification	embellecimiento
+redirections	reorientaciones	reorientaciones
+redirect	reorientar	reorientar
